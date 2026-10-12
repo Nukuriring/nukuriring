@@ -8,6 +8,7 @@ published: "원자료는 영진 님의 Notion 읽기 노트이며 저자와 서�
 status: 초안
 read_via:
   - "[Skepticism](https://app.notion.com/p/38081f8f1f254f7a9d8fcc551c18371e)"
+  - "Notion 「The legacy of Sckepticism」 (철학 자료 아카이브 › 철학 자료 마스터, 문서 수정일 2023-10-31, 같은 필기의 더 긴 판; NC2 추가)"
 created: 2026-10-12
 ---
 # The legacy of Skepticism
