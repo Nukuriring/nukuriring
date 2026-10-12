@@ -14,6 +14,8 @@ created: 2026-10-12
 26과 필기는 현재분사(present participle)를 paro에서 parans, parantis, parante로, moneo에서 monens, monentis, monente로 만든다고 적는다. rego에서는 regens, regentis, audio에서는 audiens, audientis, capio에서는 capiens, capientis가 나온다. 주격은 -ns이고 속격 이하는 어간이 -nt-이다. 예외인 eo는 iens, euntis, eunti, euntem, eunte로 변한다. 26.3 연습의 sedentes, sedentem, dicenti, roganti, currentem은 격에 따라 어미가 달라지는 분사를 알아보게 하는 문제이다. 26.1과 26.2의 번역문은 학교로 서두르는 퀸투스, 서커스로 모이는 사람들처럼 분사가 명사를 꾸미는 문장을 다룬다.
 
 ## 연결
+- 상위: [[70b 라틴어 완료 계열 시제는 세 번째 주요형인 완료 어간에서 만들므로 동사마다 세 형태를 외워야 한다]]
+- 다음: [[70b3 라틴어 미래시제는 1·2변화에서 -bo 계열, 3·4변화에서 -am 계열 어미를 취한다]]
 - [[70i 그리스어의 한정적 분사는 관사를 받고 한정적 관계절과 비슷하게 쓰인다]]: 그리스어의 한정적 분사도 명사를 꾸미며 관계절과 비슷하게 쓰인다.
 - [[70c2 라틴어 관계대명사 qui, quae, quod는 선행사의 성과 수를 따르고 격은 관계절 안의 기능을 따른다]]: 라틴어에서 명사를 꾸미는 분사구는 관계절로 풀어 쓸 수 있는 자리에 놓인다.
 - [[70b5 라틴어 명령법은 단수에 어간형을, 복수에 -te를 쓰고 복수 금지는 nolite와 부정사로 나타낸다]]: 명령법과 현재분사는 모두 현재 어간에서 만든다.

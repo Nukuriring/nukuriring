@@ -14,6 +14,8 @@ created: 2026-10-12
 필기는 liegen과 legen, stehen과 stellen, sitzen과 setzen을 쌍으로 적는다. 5과의 방 묘사 In der Ecke an dem Fenster steht ein Bett, Neben dem Bett steht ein Tisch, An der Wand über dem Tisch hängt sogar ein Bild는 있는 자리를 말하며 전치사 뒤에 3격(dem Fenster, dem Bett, der Wand, dem Tisch)이 온다. 책장을 벽에 세우겠다는 문장의 한 판은 an der Wand로, 고친 판은 an die Wand로 적어서 놓는 방향이 담기면 4격 die Wand가 된다. 4과의 Hana und Julia sitzen jetzt auf einer Bank는 앉아 있는 상태이므로 3격 einer Bank이다. 이 구분은 필기에 규칙으로 적혀 있지 않고 두 판의 대조에서 읽어 낸 것이며, 전치사 뒤의 격이 위치와 방향에 따라 갈리는 전치사를 양면 전치사(Wechselpräposition)라 부르는 것은 위키 밖 지식이다.
 
 ## 연결
+- 상위: [[70e 독일어 규칙 동사의 현재형은 -e, -st, -t, -en, -t, -en 어미를 취한다]]
+- 다음: [[70e5 독일어에서 es gibt의 대상과 시간을 말하는 부사구는 4격으로 쓴다]]
 - [[70e5 독일어에서 es gibt의 대상과 시간을 말하는 부사구는 4격으로 쓴다]]: 4격이 쓰이는 다른 자리를 다룬다.
 - [[70e2 독일어 평서문에서 변화한 동사는 둘째 자리에 오므로 부사가 앞에 서면 주어와 동사가 자리를 바꾼다]]: 같은 방 묘사 문장에서 부사가 앞에 서면 동사가 둘째 자리에 온다.
 - 관련 주제(다른 묶음): 위키 밖 지식: 양면 전치사
