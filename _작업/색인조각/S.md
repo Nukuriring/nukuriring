@@ -1,0 +1,77 @@
+- 쿤(Kuhn): {12}, {12d}, {12e}
+- 패러다임(paradigm): {12}, {12c}
+- 과학 혁명(scientific revolution): {12}, {12a}
+- 이상 현상(anomaly): {12a}
+- 공약불가능성(incommensurability): {12b}, {12g}
+- 이론 간 환원(reduction): {12b}, {13b}
+- 패러다임의 규범적 기능(normative function of paradigms): {12c}, {12c1}
+- 정상과학(normal science): {12c2}
+- 이론 선택 기준(criteria of theory choice): {12d}, {12d1}
+- 발견의 맥락과 정당화의 맥락(context of discovery and justification): {12d2}
+- 베이즈주의(Bayesianism): {12d3}
+- 규칙과 가치(rules and values): {12e}, {12e3}
+- 위험 분산(spreading the risk): {12e1}, {12e1a}
+- 귀납의 문제(problem of induction): {12e2}, {12j3}
+- 주관성과 객관성(subjectivity and objectivity): {12f}, {12f1}
+- 번역과 개종(translation and conversion): {12g}
+- 라우든(Laudan): {12h}, {12i}
+- 전체론(holism): {12h}, {12h4}
+- 그물망 모형(reticulational model): {12h1}
+- 합의 형성(consensus formation): {12h2}
+- 오류가능주의(fallibilism): {12h3}
+- 삼각측량(triangulation): {12h4}
+- 국소적 미결정성(local underdetermination): {12i}, {12i2}
+- 입증적 중요성(probative significance): {12i3}
+- 맥멀린(McMullin): {12j}, {12j1}
+- 과학적 실재론(scientific realism): {12j}, {12j5}
+- 깊은 혁명(deep revolution): {12j1}, {12j1a}
+- 인식적 가치(epistemic values): {12j3}, {12e}
+- 정합성(coherence): {12j4}
+- 초경험적 가치(superempirical values): {12j5}
+- 롱기노(Longino): {12k}, {12k3}
+- 사회적 객관성(social objectivity): {12k}, {12k5}
+- 배경 가정(background assumptions): {12k2}
+- 변형적 비판(transformative criticism): {12k3}
+- 과학적 다원주의(scientific pluralism): {12k4}, {12e1a}
+- 과학적 설명(scientific explanation): {13}, {13m}
+- 헴펠(Hempel): {13}, {13e}
+- 연역-법칙적 설명(deductive-nomological explanation): {13}, {13a}
+- 포괄 법칙 모형(covering law model): {13}, {13d}
+- 인과 설명(causal explanation): {13a}, {13j4}
+- 법칙의 설명(explanation of laws): {13b}
+- 확률적 설명(probabilistic explanation): {13c}, {13h}
+- 귀납-통계적 설명(inductive-statistical explanation): {13c}, {13f}
+- 분리 규칙(rule of detachment): {13c1}
+- 합리적 재구성(rational reconstruction): {13d}
+- 설명 스케치(explanation sketch): {13d}
+- 구조적 동일성 논제(thesis of structural identity): {13e}, {13k}
+- 법칙적 기대 가능성(nomic expectability): {13e1}
+- 자기증거적 설명(self-evidencing explanation): {13e3}
+- 코플릭 반점(Koplik spots): {13e4}
+- 참조 부류(reference class): {13f}
+- 최대 특수성 요건(requirement of maximal specificity): {13f1}, {13h5}
+- 총증거 요건(requirement of total evidence): {13f1}
+- 인식적 상대성(epistemic relativity): {13f2}, {13l}
+- 무관련성 문제(irrelevance problem): {13g}, {13i5}
+- 인과 조건(causal condition): {13g1}
+- 레일턴(Railton): {13h}, {13h3}
+- D-N-P 모형(deductive-nomological-probabilistic model): {13h}, {13h3}
+- 기제(mechanism): {13h1}
+- 괄호 속 부언(parenthetic addendum): {13h4}
+- 성향(propensity): {13h8}
+- 키처(Kitcher): {13i}, {13i4}
+- 설명적 통일(explanatory unification): {13i}, {13i1}
+- 설명 창고(explanatory store): {13i}, {13i4}
+- 논증 패턴(argument pattern): {13i3}
+- 엄격성(stringency): {13i3}
+- 비대칭 문제(asymmetry problem): {13i5}
+- 가짜 통일(spurious unification): {13i6}
+- 연역 우월주의(deductive chauvinism): {13i8}
+- 우드워드(Woodward): {13j}, {13j1}
+- 조작 가능성 개념(manipulability conception): {13j}
+- 개입(intervention): {13j1}, {13j7}
+- 반사실적 의존(counterfactual dependence): {13j1}
+- 불변성(invariance): {13j2}
+- 설명적 깊이(explanatory depth): {13j3}
+- 설명은 논증인가(explanations as arguments): {13m}
+- 예측과 설명(prediction and explanation): {13e}, {13k}
