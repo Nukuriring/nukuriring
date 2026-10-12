@@ -1,0 +1,20 @@
+{
+  "id": "7g1",
+  "voice": "문헌",
+  "verdict": "모순",
+  "claims": [
+    {"n": 0, "text": "르카나티는 어휘 의미와 sense로의 변환과 변조를 나누는 세 층 구조를 세운다", "label": "지지됨", "evidence": "대화 06:56: 철회와 세 층 구분은 §7", "note": ""},
+    {"n": 1, "text": "TCP는 §1에서 어휘 의미에 변조가 작용해 기여된 내용이 나오고, 변조가 없으면 관습적 의미가 곧 기여된 내용이 되는 두 층 그림으로 출발한다", "label": "지지됨", "evidence": "06:56: 관습적 의미가 곧 기여된 내용이 됩니다", "note": ""},
+    {"n": 2, "text": "변조는 언어 재료가 강제하지 않으므로 선택적이며 화자 의미의 문제이다", "label": "지지됨", "evidence": "modulation은 optional하며 화자 의미의 문제", "note": ""},
+    {"n": 3, "text": "Wrong Format 견해를 받아들이면 이 그림은 깨지고 르카나티는 §7에서 §1의 두 문장을 철회한다", "label": "지지됨", "evidence": "§7에서 §1의 자기 문장 두 개를 명시적으로 철회", "note": ""},
+    {"n": 4, "text": "그는 레이코프를 따라 어휘 의미를 관습화된 sense들과 그 사이 변조 관계로 이루어진 그물로 본다(§6)", "label": "모순", "evidence": "06:56: Langacker를 따라 그는 그것을 sense들의 network로", "note": "인명 불일치: 원자료와 문헌 노트 모두 랭개커(Langacker)이며 레이코프(Lakoff)가 아님"},
+    {"n": 5, "text": "그물에서 하나의 sense로 가는 sense로의 변환과 한 sense에서 다른 sense로 가는 변조를 구별하며, 앞의 것은 지표사 해소처럼 필수이고 뒤의 것은 선택적이다", "label": "지지됨", "evidence": "indexical resolution과 같은 지위를 갖는다", "note": ""},
+    {"n": 6, "text": "삼킨다의 원형적 sense에서 현금인출기 sense로의 확장은 처음엔 변조였고 관습화되어 그물의 새 마디가 되었으므로 다의성은 관습화된 변조이다", "label": "지지됨", "evidence": "polysemy를 관습화된 modulation이라고 부르는", "note": ""},
+    {"n": 7, "text": "sense는 직관 가능하며 사고의 구성 벽돌 노릇을 한다(§7)", "label": "지지됨", "evidence": "intuitable하며, 사고의 구성 벽돌 노릇을 한다", "note": ""},
+    {"n": 8, "text": "TCP와 급진적 맥락주의의 대립은 대체로 언어상의 문제라고 결론짓는다", "label": "지지됨", "evidence": "대립이 대체로 언어상의 문제라고 결론짓습니다", "note": ""}
+  ],
+  "sources_used": ["문헌/@Recanati2017 Contextualism and Polysemy.md", "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-28_트레비스와 르카나티의 관계.md"],
+  "sources_missing": [],
+  "model": "opus",
+  "date": "2026-10-12"
+}

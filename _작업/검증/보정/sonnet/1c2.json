@@ -1,0 +1,20 @@
+{
+  "id": "1c2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "오스틴은 굽어 보이는 막대에서 굽은 감각자료를 끌어내는 추론을 거부한다", "label": "지지됨", "evidence": "it needs no bent sense-datum", "note": ""},
+    {"n": 1, "text": "착각 논증의 첫째와 둘째 단계는 물속에서 곧은 막대가 굽어 보인다는 사실에서 내가 경험하는 굽은 무언가가 있다는 결론을 끌어낸다", "label": "지지됨", "evidence": "a sense-datum", "note": "SEP 5단계 (i) 경험 as of F, (ii) 여전히 F인 무언가를 경험 → 감각자료."},
+    {"n": 2, "text": "오스틴은 이 이행을 정당하지 않다고 본다", "label": "지지됨", "evidence": "the slide ... is illegitimate", "note": ""},
+    {"n": 3, "text": "물속 막대가 굽어 보이는 것은 굴절이 예측하는 그대로이므로 이상 현상으로 볼 이유가 없고, 굽은 감각자료를 들여올 필요도 없다", "label": "지지됨", "evidence": "what refraction predicts", "note": "원문: no anomaly — it's what refraction predicts."},
+    {"n": 4, "text": "정독 노트에 따르면 오스틴은 사물이 실제와 다르게 보일 수 있음을 인정하면서 그 보임새가 공적이라고 본다: 다른 사람도 그것을 보고, 카메라도 그것을 기록한다(해설 노트 설명)", "label": "지지됨", "evidence": "looks are public", "note": "원문: others see them, a camera records them."},
+    {"n": 5, "text": "물을 의식하는 숙련된 관찰자는 굽었다는 판단을 보류하므로, 경험과 판단 사이에는 판단 능력이 개입한다", "label": "지지됨", "evidence": "judgment mediates", "note": "원문: a trained observer noting the water withholds 'it's bent'."},
+    {"n": 6, "text": "정독 노트는 이 분석을 「타인의 마음」에서 갈라 놓은 감각적 기회와 판단의 식별력을 지각 문제에 적용한 것으로 읽는다", "label": "지지됨", "evidence": "judgmental acumen", "note": "원문: via the 'Other Minds' split sensory opportunity vs judgmental acumen."},
+    {"n": 7, "text": "오스틴은 어휘 수준에서도 look, seem, appear를 구별하고(1962a: 33–43), 착각 논증이 이 구별을 무시한다고 지적한다", "label": "지지됨", "evidence": "look ≠ seem ≠ appear", "note": "원문: (1962a: 33–43) — the argument smears them together."},
+    {"n": 8, "text": "정독 노트는 look을 경험 쪽에, seem을 판단 쪽에 배정한다(해설 노트 설명)", "label": "지지됨", "evidence": "look (experience)", "note": "원문: look (experience) ≠ seem (judgment)."}
+  ],
+  "sources_used": ["_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md", "문헌/@Austin1962 Sense and Sensibilia.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

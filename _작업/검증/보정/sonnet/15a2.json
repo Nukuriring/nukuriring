@@ -1,0 +1,20 @@
+{
+  "id": "15a2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "프리커에 따르면 특정 화자에 대한 일반화는 흄식 귀납으로 비순환적으로 확립되지만 유일한 근거는 아니다", "label": "지지됨", "evidence": "not the only, nor the central", "note": ""},
+    {"n": 1, "text": "더 그럴듯한 반론은 청자가 특정 발화에 관해 화자를 믿을 유일한 근거가 그 화자가 그런 종류의 일에 대체로 믿을 만하다는 앎이라고 주장한다", "label": "지지됨", "evidence": "More prima facie plausible", "note": ""},
+    {"n": 2, "text": "프리커는 우리가 실제로 이런 근거로 특정인의 증언에 기대거나 불신하는 일이 많고 그것이 합당하다고 인정한다", "label": "지지됨", "evidence": "quite reasonably, rely on", "note": ""},
+    {"n": 3, "text": "특정 화자에 대한 일반화는 흔히 비순환적으로 확립될 수 있고, 비순환성은 그 화자의 어떤 증언에도 기대지 않는 것이다", "label": "지지됨", "evidence": "reliance on any testimony", "note": ""},
+    {"n": 4, "text": "한 가지 수단은 흄식 귀납으로, 정확성의 실적을 쌓은 사람의 보고는 믿고 반대 실적을 쌓은 사람의 보고는 불신한다", "label": "지지됨", "evidence": "the approved Humean fashion", "note": ""},
+    {"n": 5, "text": "프리커는 이 수단이 유일하지도 중심적이지도 않다고 덧붙이며 §8의 논의를 예고한다", "label": "지지됨", "evidence": "as we shall see in §8", "note": ""},
+    {"n": 6, "text": "화자의 일반적 신빙성은 특정 발화를 믿을 유일한 근거도 아니고 늘 충분하지도 않다", "label": "지지됨", "evidence": "nor is it always sufficient", "note": ""},
+    {"n": 7, "text": "많은 일에 부정확하기로 소문난 사람이라도 아침에 무엇을 먹었는지, 두통이 있는지, 익숙한 물건이 눈앞 탁자에 있는지에 관해서는 옳으리라 합당하게 기대할 수 있다", "label": "지지됨", "evidence": "what she had for breakfast", "note": ""},
+    {"n": 8, "text": "거꾸로 감정적으로 연루된 일, 악명 높게 까다로운 일, 기만적이거나 정보가 부족한 정황은 대체로 믿을 만한 사람조차 덜 믿을 만하게 만든다", "label": "지지됨", "evidence": "emotionally involved", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/chats/2026-05-14_Local reductionism and testimony reliability.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "10a3a",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "노직은 추적하지 않는 방법이 추적하는 방법을 압도하면 앎이 없다고 본다", "label": "지지됨", "evidence": "outweighed by faith", "note": "아버지 사례: 믿음(비추적)이 법정 입증(추적)을 압도하므로 앎이 아니다."},
+    {"n": 1, "text": "여러 방법이 한 믿음에 관여하면 문제가 복잡해진다", "label": "지지됨", "evidence": "involve multiple methods", "note": ""},
+    {"n": 2, "text": "암스트롱이 논의한 아버지는 믿음과 법정의 결정적 무죄 입증이라는 두 경로로 아들이 무죄라고 믿으며, 믿음 경로는 조건 3을 어긴다(p.259)", "label": "지지됨", "evidence": "violates condition 3", "note": ""},
+    {"n": 3, "text": "한 방법만 조건을 충족하면 된다는 기준은 아버지에게 너무 관대하고, 쓰이지 않은 방법까지 모두 충족해야 한다는 기준은 할머니와 극장 관객에게 너무 엄격하다(p.260)", "label": "지지됨", "evidence": "too charitable to the father", "note": "뒤이어 too stringent."},
+    {"n": 4, "text": "아버지에게서 믿음이 법정 입증을 압도하며, 법정이 유죄를 보여도 그는 믿음을 통해 무죄를 믿을 것이다", "label": "지지됨", "evidence": "believe his son innocent", "note": ""},
+    {"n": 5, "text": "S가 p를 알려면 조건 1에서 4까지를 충족하는 방법 M이 있고, 조건을 충족하지 않는 다른 방법들이 모두 M에 압도되어야 한다", "label": "지지됨", "evidence": "are outweighed by M", "note": ""},
+    {"n": 6, "text": "압도 여부는 다른 방법의 권고를 실제대로 고정하고 M의 권고만 바꾸었을 때 믿음이 따라 바뀌는지로 시험한다(표 21.1의 Case III, pp.260–261)", "label": "지지됨", "evidence": "hold constant what the other", "note": "원문: hold constant what the other method recommends."},
+    {"n": 7, "text": "노직은 Case II를 보지 않는 이 약화가 조건 3에 조건 4보다 더 큰 비중을 준다는 우려를 스스로 남긴다(주 15)", "label": "지지됨", "evidence": "more weight to condition 3", "note": "주 15: weakening ... gives more weight to condition 3 than to condition 4."}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-06_Nozick-2.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-Nozick_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

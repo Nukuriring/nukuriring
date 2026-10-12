@@ -1,0 +1,19 @@
+{
+  "id": "16e1",
+  "voice": "문헌",
+  "verdict": "원문없음",
+  "claims": [
+    {"n": 0, "text": "카벨은 밀턴을 따라 결혼을 대화로 보고 사회의 표상으로 읽는다", "label": "지지됨", "evidence": "an emblem of society", "note": "독해 지도 3수와 문헌 노트 26항. 원서 텍스트는 보관함에 없어 독해 지도로 대조했다."},
+    {"n": 1, "text": "카벨은 자기가 재혼 희극과 미지의 여인 멜로드라마라 이름 붙인 할리우드 영화 장르를 도덕적 완전주의에 참여하는 텍스트로 다룬다(pp.101–102)", "label": "부분 지지", "evidence": "comedies of remarriage", "note": "두 장르 이름과 강연 3의 완전주의 확장은 있으나 pp.101–102는 대조 불가. 독해 지도는 이 항목을 pp.103–105에 둔다."},
+    {"n": 2, "text": "재혼 희극은 이미 결혼한 부부가 다시 결혼에 이르는 과정을 그린다(p.103)", "label": "지지됨", "evidence": "readiness to repeat", "note": "원문: the readiness to repeat the acknowledgment. '이미 결혼한 부부'라는 세부는 독해 지도에 없고 장르 이름과 반복 인정 설명으로 뒷받침되는 수준. p.103 대조 불가."},
+    {"n": 3, "text": "이 장르에서 결혼을 이루는 것은 결혼 자체에 대한 의지, 곧 결혼이라는 사실을 거듭 인정하려는 의지이고, 카벨은 이를 as if all genuine marriage is remarriage라고 쓴다(p.104)", "label": "지지됨", "evidence": "genuine marriage is remarriage", "note": "'as if'를 포함한 인용문 글자는 원서 대조 불가."},
+    {"n": 4, "text": "그는 이혼을 정당화한 밀턴의 소책자에서 결혼을 a meet and happy conversation으로 보는 생각을 가져온다(p.104)", "label": "지지됨", "evidence": "Milton's divorce tract", "note": "독해 지도: marriage = a meet and happy conversation."},
+    {"n": 5, "text": "밀턴의 대화가 말을 빼놓을 수 없지만 말에 국한되지 않는다고 덧붙인다(p.104)", "label": "원문에 없음", "evidence": "", "note": "독해 지도, 문헌 노트, 서론 번역 파일, 독서 기록 어디에도 말에 국한되지 않는다는 서술이 없다."},
+    {"n": 6, "text": "카벨은 재혼 희극이 밀턴의 소책자처럼 결혼을 사회의 표상으로 제시한다고 본다(p.117)", "label": "지지됨", "evidence": "an emblem of society", "note": "문헌 노트 26항이 p.104와 p.117을 함께 든다. 쪽수는 원서 대조 불가."},
+    {"n": 7, "text": "독해 지도는 이로써 대화하려는 의지가 민주 사회에 대한 동의의 모형이 된다고 정리한다(해설 노트 설명)", "label": "지지됨", "evidence": "model of consent to democracy", "note": ""}
+  ],
+  "sources_used": ["_원자료/로컬/Reading COH/notes/lecture-3_conversation-of-justice_map.md", "문헌/@Cavell1990 Conditions Handsome and Unhandsome.md", "_원자료/로컬/Reading COH/reading-log.md", "_원자료/claude.ai/projects/크립키의 위악성/docs/Cavell_CHU.docx.md"],
+  "sources_missing": ["Cavell1990 영어 원서 강연 3 pp.101-126 (보관함 밖, OCR 텍스트는 영진 폴더)"],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

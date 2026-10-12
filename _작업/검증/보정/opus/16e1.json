@@ -1,0 +1,19 @@
+{
+  "id": "16e1",
+  "voice": "문헌",
+  "verdict": "원문없음",
+  "claims": [
+    {"n": 0, "text": "카벨은 밀턴을 따라 결혼을 대화로 보고 사회의 표상으로 읽는다", "label": "지지됨", "evidence": "lecture-3 map: marriage becomes an emblem of society", "note": ""},
+    {"n": 1, "text": "카벨은 재혼 희극과 미지의 여인 멜로드라마를 도덕적 완전주의에 참여하는 텍스트로 다룬다(pp.101–102)", "label": "부분 지지", "evidence": "lecture-3 map: comedies of remarriage … melodramas of the unknown woman", "note": "두 장르 이름은 지도에 있으나 '완전주의에 참여하는 텍스트'라는 규정과 pp.101–102는 확인되지 않는다. 지도는 이 대목을 p.103–105로 적는다"},
+    {"n": 2, "text": "재혼 희극은 이미 결혼한 부부가 다시 결혼에 이르는 과정을 그린다(p.103)", "label": "원문에 없음", "evidence": "", "note": "지도와 문헌 노트에는 장르의 줄거리 규정이 없다"},
+    {"n": 3, "text": "결혼을 이루는 것은 결혼에 대한 의지, 곧 거듭 인정하려는 의지이고, 카벨은 \"as if all genuine marriage is remarriage\"라고 쓴다(p.104)", "label": "지지됨", "evidence": "lecture-3 map: the willingness for it … all genuine marriage is remarriage", "note": "지도의 인용에는 'as if'가 없어 앞부분 글자는 대조하지 못했다"},
+    {"n": 4, "text": "카벨은 밀턴의 이혼 소책자에서 결혼을 \"a meet and happy conversation\"으로 보는 생각을 가져온다(p.104)", "label": "지지됨", "evidence": "lecture-3 map: From Milton's divorce tract … \"a meet and happy", "note": ""},
+    {"n": 5, "text": "밀턴의 대화는 말을 빼놓을 수 없지만 말에 국한되지 않는다", "label": "원문에 없음", "evidence": "", "note": "지도와 문헌 노트 어디에도 이 덧붙임이 없다"},
+    {"n": 6, "text": "카벨은 재혼 희극이 밀턴의 소책자처럼 결혼을 사회의 표상으로 제시한다고 본다(p.117)", "label": "지지됨", "evidence": "문헌 노트 26: 결혼을 사회의 표상으로 제시한다(p.104, p.117)", "note": ""},
+    {"n": 7, "text": "독해 지도는 대화하려는 의지가 민주 사회에 대한 동의의 모형이 된다고 정리한다", "label": "지지됨", "evidence": "lecture-3 map: the model of consent to democracy", "note": ""}
+  ],
+  "sources_used": ["_원자료/로컬/Reading COH/notes/lecture-3_conversation-of-justice_map.md", "문헌/@Cavell1990 Conditions Handsome and Unhandsome.md"],
+  "sources_missing": ["원서 OCR 텍스트(보관함 밖, Reading COH/text)"],
+  "model": "opus",
+  "date": "2026-10-12"
+}

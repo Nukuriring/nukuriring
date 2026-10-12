@@ -1,0 +1,16 @@
+{
+  "id": "58k1",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "포더는 사고가 상황 민감하면 합성성에 어긋나 체계성과 생산성을 설명할 수 없다고 반박할 것이다", "label": "지지됨", "evidence": "thought had better be compositional", "note": "원문 말미 'or so goes Fodor's thought'"},
+    {"n": 1, "text": "해설은 사고가 언어와 달리 상황 민감하다는 주장에 대한 포더의 주된 불만이 사고의 합성성에 어긋난다는 점이라고 본다", "label": "부분 지지", "evidence": "perhaps Fodor's chief complaint against the claim", "note": "원문은 'perhaps'로 한정함. 카드는 단정"},
+    {"n": 2, "text": "포더가 옮기는 합성성은 사고의 내용이 그 구조와 구성 개념의 내용에 의해 전적으로 결정된다는 명제이다(Fodor 2008: 17)", "label": "지지됨", "evidence": "entirely determined by its structure together with", "note": ""},
+    {"n": 3, "text": "포더에게 합성성은 체계성과 생산성을 설명하는 데 없어서는 안 되는 조건이고 RTM의 중심 교의이다", "label": "지지됨", "evidence": "sine qua non ... central tenet of RTM", "note": ""},
+    {"n": 4, "text": "체계성과 생산성을 설명하려면 사고는 합성적이어야 하고, 그렇다면 상황 민감할 수 없다는 것이 포더의 생각이다", "label": "지지됨", "evidence": "which means that it can't be occasion-sensitive", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Mc_moral imperatives 35697cdd867e8126b303d5fee3636c7e.md", "문헌/@미상 Travis 사고와 상황 민감성 해설 노트.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

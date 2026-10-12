@@ -1,0 +1,20 @@
+{
+  "id": "16e2",
+  "voice": "문헌",
+  "verdict": "원문없음",
+  "claims": [
+    {"n": 0, "text": "카벨에 따르면 정당화가 바닥나면 옳음은 주장될 수 없고 무언가가 보여져야 한다", "label": "지지됨", "evidence": "lecture-3 map: right can't be asserted; something must be shown", "note": ""},
+    {"n": 1, "text": "노라가 결혼 제도가 왜 부당한지 보이려 하자 토르발은 그녀가 아이처럼 말한다고 답한다(p.109)", "label": "지지됨", "evidence": "lecture-3 map: Torvald says she's \"talking like a child\"", "note": "지도는 노라 대목을 p.108–113으로 묶어 p.109를 따로 확인할 수 없다"},
+    {"n": 2, "text": "토르발은 노라가 자기가 사는 세계를 이해하지 못한다고 답한다", "label": "원문에 없음", "evidence": "", "note": "지도에는 \"out of her senses\"만 있고 사는 세계를 이해하지 못한다는 말은 없다. 원서 OCR은 보관함 밖이다"},
+    {"n": 3, "text": "노라의 변화와 떠남은 도덕적 정당화가 끝나는 영역을 예시하고, 특정한 잘못을 주장하지 못할 수 있지만 고통이 너무 큰 상황이다(p.112)", "label": "부분 지지", "evidence": "문헌 노트 27: 노라의 떠남은 정당화가 끝나는 영역을 예시하고", "note": "정당화의 끝은 지지되나, 특정한 잘못을 주장하지 못하지만 고통이 너무 크다는 구도는 지도의 'cry of outrage that no rule … can settle'에 느슨하게만 닿는다"},
+    {"n": 4, "text": "카벨의 말로 \"right is not assertible; instead something must be shown\"(p.112)", "label": "판단 불가", "evidence": "", "note": "지도는 \"right can't be asserted; something must be shown\"으로 풀어 적었고 인용 원문은 보관함 밖 OCR에만 있어 글자 대조 불가"},
+    {"n": 5, "text": "그는 이 영역을 도덕적 완전주의의 영역이라 부른다(p.112)", "label": "지지됨", "evidence": "문헌 노트 27: 이것이 도덕적 완전주의의 영역이다(p.112)", "note": ""},
+    {"n": 6, "text": "교육의 장면에서는 교사가 정당화를 다 쓰고 기다리지만 도덕적 만남에서는 권위 밖의 학생이나 피해자가 먼저 정당화의 끝과 받아들일 수 없는 무언가에 닿는다(p.112)", "label": "부분 지지", "evidence": "lecture-3 map: reached first by the victim (Nora)", "note": "지도는 p.111–112로 적고, '받아들일 수 없는 무언가'는 지도에 없다"},
+    {"n": 7, "text": "\"This is simply what I do\"라고 말하고 기다리는 일은 옳음을 되풀이할 뿐이고, 대안은 내가 하는 일과 동의하는 일에 스스로 불만을 느끼는 것이다(p.112)", "label": "지지됨", "evidence": "lecture-3 map: dissatisfied with what I do, with what I consent to", "note": ""},
+    {"n": 8, "text": "사회의 대표로서 나는 이유가 바닥날 때 비인격적 수치에 놓이고, 계속 동의한다면 동의가 나를 타협하게 만들고 나부터 변화가 필요함을 보여야 한다(p.112)", "label": "지지됨", "evidence": "lecture-3 map: my consent compromises me … beginning with myself", "note": "지도는 동의를 약속이라 부르는 대목은 담지 않는다"}
+  ],
+  "sources_used": ["_원자료/로컬/Reading COH/notes/lecture-3_conversation-of-justice_map.md", "문헌/@Cavell1990 Conditions Handsome and Unhandsome.md"],
+  "sources_missing": ["원서 OCR 텍스트(보관함 밖, Reading COH/text)"],
+  "model": "opus",
+  "date": "2026-10-12"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "11b3b",
+  "voice": "종합",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "골드만의 역사적 신빙론은 소사가 말하는 형식적 토대론의 한 사례이다", "label": "연결", "evidence": "", "note": "두 출처를 엮은 분류. 카드가 '이 카드에서 처음 제안한다'고 밝힘"},
+    {"n": 1, "text": "골드만은 정당화 조건을 비인식적 용어로, 기초 조항과 재귀 조항과 폐쇄 조항의 재귀 형식으로 명시하려 한다", "label": "지지됨", "evidence": "Hence, (5) is an admissible base clause.", "note": "(6A) 기초, (6B) 재귀, 'the standard closure clause'. p.340–341"},
+    {"n": 2, "text": "이 기획은 소사가 형식적 토대론이라 부르는 기획에 들어맞는다", "label": "연결", "evidence": "", "note": "Sosa §7: conditions … can be specified in general, perhaps recursively 와의 대응은 Claude의 연결"},
+    {"n": 3, "text": "골드만 자신도 (6A)와 (6B)의 재귀 구조 때문에 자기 이론을 토대론이라 불러도 좋다고 하면서 통시적 토대론으로 규정한다", "label": "지지됨", "evidence": "I have no objection to this label … 'diachronic' form", "note": ""},
+    {"n": 4, "text": "골드만의 기초 조항은 입력에 믿음이 없는 믿음 독립적 과정을 정당화의 출발점으로 삼는다", "label": "지지됨", "evidence": "belief-independent processes … none of whose inputs are belief-states", "note": ""},
+    {"n": 5, "text": "소사는 믿음 사이의 관계 외에 다른 궁극적 정당화 원천을 인정하는 견해를 실질적 토대론이라 정의한다", "label": "지지됨", "evidence": "ultimate sources of justification other than relations among beliefs", "note": "Sosa §9"},
+    {"n": 6, "text": "따라서 골드만의 이론은 실질적 토대론에도 해당한다", "label": "연결", "evidence": "", "note": "분류는 Claude의 추론"},
+    {"n": 7, "text": "골드만은 정당화 지위가 현재 시점의 사실만으로 정해진다는 가정을 버린다", "label": "지지됨", "evidence": "Current Time-Slice … An Historical theory", "note": "p.341"},
+    {"n": 8, "text": "소사가 정당화의 수반 기반으로 드는 비인식적 사실에는 주체의 믿음 전체와 함께 인지와 경험의 이력이 들어 있다", "label": "지지됨", "evidence": "his cognitive and experiential history", "note": "Sosa §8, 멈춤 3"},
+    {"n": 9, "text": "소사는 주석에서 인과적 앎 이론의 시도를 정당화의 근본 원리를 정식화하는 시도로 이해하는 편이 낫다고 보고, 골드만과 스웨인이 비슷한 일반적 결론에 이르렀다고 적는다", "label": "지지됨", "evidence": "who have reached general conclusions about it similar", "note": "주석 7"}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-11_Goldman-2.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-14_Sosa-2.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-15_Sosa-3.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-Sosa_주석.md", "문헌/@Goldman1979 What Is Justified Belief.md", "문헌/@Sosa1980 The Raft and the Pyramid.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

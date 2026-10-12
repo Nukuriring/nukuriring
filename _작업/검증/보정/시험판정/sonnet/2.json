@@ -1,0 +1,18 @@
+{
+  "id": "2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "트래비스는 감각이 침묵하며 지각 경험에 표상 내용이 없다고 주장한다", "label": "지지됨", "evidence": "the senses are silent, or, in Austin's term, dumb", "note": "문헌 노트가 2026-05-25 대화의 영진 인용문을 옮긴 것을 원자료 1228행에서 확인"},
+    {"n": 1, "text": "트래비스는 지각 경험이 표상적 내용을 가진다는 표상주의를 부정한다", "label": "지지됨", "evidence": "지각 경험은 재현적 내용을 가진다(반박 대상)", "note": "Notion 노트 첫머리 '반박하고자 하는 주장'"},
+    {"n": 2, "text": "그는 이 견해가 논증된 적 없이 처음부터 가정되어 왔다고 진단한다", "label": "지지됨", "evidence": "논증되지 않고 가정되어 있다(assumed from the outset)", "note": "대화 속 Claude 설명(원자료 37행)"},
+    {"n": 3, "text": "지각 경험은 그 자체로 참되지도 기만적이지도 않고, 오도하는 데 표상이 필요하지 않다", "label": "지지됨", "evidence": "not as such either veridical or delusive", "note": "영진이 인용한 원문 1228행"},
+    {"n": 4, "text": "§2에서 오스틴과 데카르트가 지각이 표상하지 않는다는 점에서 같은 편이며, 지각은 주변을 시야에 놓고 알아보는 일은 우리 몫이라는 그림을 제시한다", "label": "지지됨", "evidence": "지각이 표상하는가라는 점에서는 둘이 같은 편", "note": "원자료 326, 330행의 Claude 설명. 카드 출처 줄이 Claude 설명임을 밝힘"},
+    {"n": 5, "text": "그는 이 그림이 아직 'such is a view, and, so far, only that'라고 인정하고, 나머지 절에서 뒷받침 논증을 제시한다", "label": "지지됨", "evidence": "such is a view, and, so far, only that", "note": "원자료 336행. 나머지 절의 논증은 문헌 노트 논증 구조 5~12단계"},
+    {"n": 6, "text": "영진의 Notion 노트도 표적을 '지각 경험은 재현적 내용을 가진다'로 적고, 지각이 재현된 세계를 겨냥하지 않아 지향적 심적 활동이 못 된다고 정리한다", "label": "지지됨", "evidence": "지각은 재현된 세계를 aim하는 것이 아니라는 점에서, intentional한 심적 활동이 아니다", "note": ""}
+  ],
+  "sources_used": ["문헌/@Travis2004 The Silence of the Senses.md", "_원자료/claude.ai/chats/2026-05-25_첫 챕터부터 차근차근 공부하기.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/The silence of the senses 1097344d008a4a9396759ade5bb2a2ba.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

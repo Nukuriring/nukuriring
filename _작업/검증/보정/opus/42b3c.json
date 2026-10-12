@@ -1,0 +1,17 @@
+{
+  "id": "42b3c",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "브루크너는 맥킨지가 버지를 오해했고 반개인주의의 특징적 테제는 내재적 속성이 내용을 항상 정하지는 못한다는 것이라고 답한다", "label": "지지됨", "evidence": "0323: (~I) A thinker's individualistic properties are not always", "note": ""},
+    {"n": 1, "text": "브루크너는 처음에 맥킨지가 버지를 오해했다고 지적하며, 버지는 오스카의 생각이 외부 조건을 개념적으로 함축한다고 말한 적이 없다", "label": "지지됨", "evidence": "McKinsey has misunderstood Burge's anti-individualism", "note": "Brueckner 1992"},
+    {"n": 2, "text": "맥킨지는 필연적 의존을 형이상학적 의존으로 풀면 사소한 반개인주의가 된다고 되받았다", "label": "지지됨", "evidence": "metaphysical dependence results in ... quite trivial", "note": "McKinsey 1994"},
+    {"n": 3, "text": "브루크너는 특징적 테제가 형이상학적 의존 주장에 있지 않고 개인주의적 속성이 내용을 항상 개별화하지는 못한다는 주장이라고 답한다", "label": "지지됨", "evidence": "(CT) is not the 'characteristic thesis'", "note": "이 답변은 Brueckner 1995(pp.146-47)이며 출처 절의 Brueckner1992 문헌 노트와는 연도가 다름. 카드 본문은 연도를 적지 않음"},
+    {"n": 4, "text": "이렇게 읽으면 오스카의 부모의 존재처럼 내용을 개별화하지 않는 외부 조건은 외재주의가 말하는 조건이 아니다", "label": "지지됨", "evidence": "<오스카의 부모가 존재한다>와 같은 외부 조건은 ... 아님", "note": ""},
+    {"n": 5, "text": "강의는 버지의 필연적 의존이 무엇인지와 흥미로운 의미의 외재주의가 자기지식과 양립하는지가 풀리지 않은 채 남는다고 짚는다", "label": "지지됨", "evidence": "0316: the question ... remains a problem", "note": "이 물음은 3/16 강의에서 Brueckner 1992 주 테제 뒤에 나옴. 카드는 1995 답변 뒤에 '그래도'로 이어 배치함"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/심리철학연습_강의록_20210316 35697cdd867e817a8a01f8e40a13ea49.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/심리철학연습_강의록_20210323 35697cdd867e81819430cd3cb8cce198.md"],
+  "sources_missing": [],
+  "model": "opus",
+  "date": "2026-10-12"
+}

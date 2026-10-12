@@ -1,0 +1,18 @@
+{
+  "id": "41d1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "콕스는 기본 주체가 이미 자기를 안다는 답을 두 방식으로 검토하고 추론 모델이 우리의 모델로 부적합하다고 본다", "label": "지지됨", "evidence": "Models of self-knowledge: 이런 말을 할 수 있는 두 가지 방식", "note": ""},
+    {"n": 1, "text": "첫째 방식은 이 주체가 이미 증거에 기대지 않고 자기 심적 상태에 대한 믿음에 이르는 즉각적 자기지식 능력을 가졌다고 말한다", "label": "지지됨", "evidence": "Models of self-knowledge: 증거에 의존하지 않는 방식으로 획득할 수 있는", "note": ""},
+    {"n": 2, "text": "그러나 규정한 기본 주체에게서 이 능력을 찾기 어렵다", "label": "지지됨", "evidence": "Models of self-knowledge: 규정해 놓은 지점에서 발견하기 어려움", "note": ""},
+    {"n": 3, "text": "둘째 방식은 기본 주체 정도의 자기지식 능력이 우리의 능력이라고 말하며, 이것이 추론 모델이 하는 말이다", "label": "지지됨", "evidence": "Models of self-knowledge: 요게 사실 자기-지식에 대한 추론 모델이 하는 말", "note": ""},
+    {"n": 4, "text": "콕스는 추론 모델이 우리 같은 주체의 모델로 부적합하다고 본다", "label": "지지됨", "evidence": "Models of self-knowledge: 우리와 같은 주체의 자기-지식 모델로서 부적합하다", "note": ""},
+    {"n": 5, "text": "자기지식 모델은 총 심적 상태(믿음, 욕구, 지각의 집합)가 자기지식 과정에서 어떻게 바뀌는지 설명해야 하는데, 기본 주체에게 준 것은 이전 믿음의 내용에 추론 규칙을 적용하는 능력뿐이다", "label": "지지됨", "evidence": "Models of self-knowledge: total mental state이 … 어떻게 바뀌는지 설명", "note": ""},
+    {"n": 6, "text": "필기는 추론 모델이 부적합한 이유를 이 대목에서 다 적지 않았다", "label": "지지됨", "evidence": "Models of self-knowledge: (왜인지는 잘모르겠음)", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/transparency/Models of self-knowledge 1e797cdd867e80e086b5fd8411e6616b.md"],
+  "sources_missing": [],
+  "model": "opus",
+  "date": "2026-10-12"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "58m1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "트래비스가 읽는 프레게에서 같은 사고인지는 어떤 사실이 무엇을 증명하는지에 관한 일치로 가려진다", "label": "지지됨", "evidence": "Mc_moral: 어떤 fact가 무엇을 증명하는지에 대해서의 일치", "note": ""},
+    {"n": 1, "text": "시드가 사태를 어떤 식이라고 생각하는지에 프레게식으로 답하는 길이 있다", "label": "지지됨", "evidence": "One Fregean way to answer some such questions", "note": ""},
+    {"n": 2, "text": "입장을 취할 수 있는 특정 가능한 쟁점이 있고, 시드의 옳고 그름을 판가름할 것이 그 방식도 판가름하며 역도 성립한다고 하자", "label": "지지됨", "evidence": "would ipso facto settle ... and vice versa", "note": ""},
+    {"n": 3, "text": "프레게의 용어로 한쪽의 증명을 담은 것은 다른 쪽의 증명을 담는다", "label": "지지됨", "evidence": "whatever contains a proof of the one thing", "note": ""},
+    {"n": 4, "text": "증명이 즉각적일 수 있고 이것이 시드가 특정된 것을 생각하는 일로 간주될 수 있는 경우의 하나이다", "label": "지지됨", "evidence": "can be immediate. Such is at least one thing", "note": ""},
+    {"n": 5, "text": "필기는 이를 같은 사고에 대한 프레게의 기준이 증명 방식에 대한 일치라고 요약한다", "label": "지지됨", "evidence": "Same thought에 대한 Criterion – 어떻게 Prove할지에 대한 일치", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Mc_moral imperatives 35697cdd867e8126b303d5fee3636c7e.md"],
+  "sources_missing": [],
+  "model": "opus",
+  "date": "2026-10-12"
+}

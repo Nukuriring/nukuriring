@@ -1,0 +1,16 @@
+{
+  "id": "41b18",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "모런은 자기지식론이 답해야 할 세 물음을 합리성과 공언 가능성과 권위의 관계로 세운다", "label": "지지됨", "evidence": "knowledge of oneself", "note": "p.137 대목이 합리성·심리적 건강, 공언(avowing), 판단의 권위를 차례로 묻는다."},
+    {"n": 1, "text": "모런에 따르면 자기지식의 철학적 설명은 일치된 규정 특징을 따르면서 그 특징을 함께 설명해야 하며, 그러려면 알아챔의 능력을 숙고의 입장과 이어야 한다(p.137)", "label": "지지됨", "evidence": "the stance of deliberation", "note": "원문: relate the faculty of awareness to the stance of deliberation."},
+    {"n": 2, "text": "일인칭 형식의 자기앎은 왜 그 사람의 합리성이나 심리적 건강에 중요한가? 다른 방식으로 얻은 자기앎이나 실천적 관심에 유관한 다른 정보보다 이 앎이 더 깊이 중요한 이유는 무엇인가?", "label": "지지됨", "evidence": "rationality or psychic health", "note": ""},
+    {"n": 3, "text": "관찰과 증거에서 독립한 이 형식의 알아챔이 정신적 안녕에 특별히 중요한 이유는 무엇인가? 곧 자기 마음을 공언하지 못하고 귀속적 알아챔에 머무는 사람에게는 왜 그 태도와 태도에 대한 관계에 뭔가 잘못이 있어 보이는가?", "label": "지지됨", "evidence": "know his mind by avowing it", "note": ""},
+    {"n": 4, "text": "이 형식의 알아챔이 그것에서 나온 판단에 특별한 권위를 주는 이유는 무엇인가? 증거에 근거하지 않는다는 점이 판단의 권위를 깎지 않고 보태는 이유를 설명해야 한다", "label": "지지됨", "evidence": "contributes to rather than", "note": "원문: contributes to rather than detracts from the authority of such judgments."}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/분석철학/Μoran e25b31c4123741f7848860134de3069c.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

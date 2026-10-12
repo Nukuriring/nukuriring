@@ -1,0 +1,15 @@
+{
+  "id": "69h24",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "서버는 정보를 제공하고 클라이언트는 제공받으며 둘 다 처리 능력을 가져 분산 처리에 적합하다", "label": "지지됨", "evidence": "정보를 제공해주는 서버와", "note": "뒤이어 정보를 제공받는 클라이언트."},
+    {"n": 1, "text": "클라이언트와 서버 모두 처리 능력을 가지고 있어 분산 처리 환경에 적합하다", "label": "지지됨", "evidence": "분산 처리 환경에서 적합하다", "note": ""},
+    {"n": 2, "text": "HTML은 하이퍼텍스트 문서를 만드는 언어이고 XML은 HTML의 단점을 보완하며, HTML5는 플러그인 없이 웹 서비스를 이용하게 한다", "label": "지지됨", "evidence": "XML: HTML 단점 보완", "note": ""},
+    {"n": 3, "text": "ASP, PHP, JSP는 서버 측 언어이고, 필기는 이 언어들이 운영체제마다 다르다고 적는다", "label": "지지됨", "evidence": "ASP, PHP, JSP → 서버 측 언어", "note": "바로 뒤에 '운영 체제마다 다름'."}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/컴퓨터 활용 능력/컴퓨터 일반 25a97cdd867e80ada202fde979b9c028.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

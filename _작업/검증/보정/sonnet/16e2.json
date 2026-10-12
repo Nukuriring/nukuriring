@@ -1,0 +1,19 @@
+{
+  "id": "16e2",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "카벨에 따르면 정당화가 바닥나면 옳음은 주장될 수 없고 무언가가 보여져야 한다", "label": "지지됨", "evidence": "right can't be asserted", "note": "독해 지도 4수: 'right can't be asserted; something must be shown'. 문헌 노트 27항도 p.112로 같은 요지. 카드의 영어 인용문 글자는 원서 텍스트가 보관함에 없어 대조하지 못했다."},
+    {"n": 1, "text": "입센의 『인형의 집』에서 노라가 결혼 제도가 왜 부당한지 토르발에게 보이려 하자, 토르발은 그녀가 아이처럼 말하고 자기가 사는 세계를 이해하지 못한다고 답한다(p.109)", "label": "부분 지지", "evidence": "'talking like a child'", "note": "'아이처럼 말한다'는 독해 지도에 있다. '자기가 사는 세계를 이해하지 못한다'는 독해 지도(out of her senses)와 문헌 노트 어디에도 없다. p.109도 대조 불가."},
+    {"n": 2, "text": "카벨은 노라의 변화와 떠남이 도덕적 정당화가 끝나는 영역을 예시한다고 본다", "label": "지지됨", "evidence": "Her leaving is a showing", "note": ""},
+    {"n": 3, "text": "그곳에서는 특정한 잘못을 주장하지 못할 수 있지만 고통이 너무 커서 right is not assertible; instead something must be shown인 상황이 된다(p.112)", "label": "부분 지지", "evidence": "justification runs out", "note": "정당화가 끝나는 지점에서 옳음을 주장할 수 없고 보여야 한다는 요지는 있으나, '특정한 잘못을 주장하지 못하지만 고통이 너무 커서'라는 연결은 독해 지도에 없다."},
+    {"n": 4, "text": "그는 이 영역을 도덕적 완전주의의 영역이라 부른다(p.112)", "label": "지지됨", "evidence": "the dimension of moral life", "note": "독해 지도 'Moral Perfectionism is the dimension of moral life that lives at exactly this point'."},
+    {"n": 5, "text": "언어로 입문하는 교육의 장면에서는 교사가 정당화를 다 쓰고 기다리지만, 도덕적 만남에서는 권위 밖에 있는 쪽, 곧 학생이나 피해자의 자리가 먼저 정당화의 끝과 받아들일 수 없는 무언가에 닿는다(p.112)", "label": "지지됨", "evidence": "reached first by the victim", "note": "'받아들일 수 없는 무언가'라는 어구는 독해 지도에 없으나 취지는 같다."},
+    {"n": 6, "text": "옳다는 주장을 고집하는 데 대한 대안으로 This is simply what I do라고 말하고 기다리는 일은 옳음을 되풀이할 뿐이고, 카벨이 내놓는 대안은 내가 하는 일과 내가 동의하는 일에 스스로 불만을 느끼는 것이다(p.112)", "label": "지지됨", "evidence": "dissatisfied with what I do", "note": ""},
+    {"n": 7, "text": "사회의 도덕적 대표로서 나는 이유가 바닥날 때 비인격적 수치에 놓이고, 계속 동의한다면 내 동의, 곧 내 약속이 나를 타협하게 만든다는 것과 나 자신부터 변화가 필요하다는 것을 보여야 한다(p.112)", "label": "지지됨", "evidence": "my consent compromises me", "note": "'내 동의, 곧 내 약속'의 등치는 독해 지도에 없고 서론 번역 파일에 약속 논의가 언급될 뿐이다."}
+  ],
+  "sources_used": ["_원자료/로컬/Reading COH/notes/lecture-3_conversation-of-justice_map.md", "문헌/@Cavell1990 Conditions Handsome and Unhandsome.md", "_원자료/claude.ai/projects/크립키의 위악성/docs/Cavell_CHU.docx.md"],
+  "sources_missing": ["Cavell1990 영어 원서 강연 3 pp.101-126 (보관함 밖)"],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

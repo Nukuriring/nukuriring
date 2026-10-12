@@ -1,0 +1,19 @@
+{
+  "id": "17i1a",
+  "voice": "종합",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "피에르의 퍼즐은 간접 지시체에 기댄 프레게식 해소가 닿지 않는 자리에서 생긴다", "label": "연결", "evidence": "", "note": "카드가 Claude 제안의 대조임을 밝힘"},
+    {"n": 1, "text": "프레게식 방어는 믿음 문맥의 대체 실패를 간접 지시체, 곧 통상적 뜻의 차이로 설명해 진리치 지시 논제를 지킨다", "label": "지지됨", "evidence": "Frege.docx: 간접적인 혹은 비뚤어진 지시체를 가지고", "note": ""},
+    {"n": 2, "text": "영진의 답안은 '조지 오웰은 죽었다'와 '2+2=4'가 참을 제시하는 방식이 다르다는 점으로 이 방어를 편다", "label": "지지됨", "evidence": "'2+2=4'라는 문장이 참을 제시하고 있는 방식과 구분", "note": ""},
+    {"n": 3, "text": "크립키의 퍼즐은 탈인용 원리와 번역 원리만으로 생기고 대체 가능성을 전제하지 않는다", "label": "지지됨", "evidence": "Puzzel: 어느 것도 substitutivity를 전제하지 않는다", "note": ""},
+    {"n": 4, "text": "피에르가 'Londres'와 'London'에 같은 정체확인 속성을 결합해도 퍼즐은 다시 생긴다(p.148)", "label": "지지됨", "evidence": "exactly the same uniquely identifying properties (p. 148)", "note": ""},
+    {"n": 5, "text": "뜻을 정체확인 속성으로 잡는 한 두 믿음을 가를 뜻의 차이를 찾기 어렵다", "label": "지지됨", "evidence": "reproduces itself on the level of the 'uniquely identifying", "note": "p.149"},
+    {"n": 6, "text": "그래서 뜻으로 처리하는 방어가 성공해도 믿음 귀속의 퍼즐은 남는다", "label": "연결", "evidence": "", "note": "영진 답안과 크립키를 엮는 결론"},
+    {"n": 7, "text": "크립키가 대체 실패에서 이름에 관한 이론적 결론을 끌어내지 말라고 하는 근거도 여기 있다(p.159)", "label": "지지됨", "evidence": "less warrant ... to draw any significant theoretical", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/크립키의 위악성/docs/Puzzel.md", "_원자료/claude.ai/projects/크립키의 위악성/docs/Frege.docx.md"],
+  "sources_missing": [],
+  "model": "opus",
+  "date": "2026-10-12"
+}

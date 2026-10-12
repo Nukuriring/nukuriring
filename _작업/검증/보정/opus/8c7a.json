@@ -1,0 +1,21 @@
+{
+  "id": "8c7a",
+  "voice": "종합",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "에이어는 수학적 진리를 반증에서 지키고 콰인은 그 보호를 체계 조정의 문제로 돌린다", "label": "연결", "evidence": "", "note": "두 텍스트를 맞댄 대조(카드가 Claude의 대조임을 밝힘)"},
+    {"n": 1, "text": "에이어와 콰인은 반증이 단일 관찰만으로 결정되지 않는다는 데서 출발이 같다", "label": "연결", "evidence": "", "note": ""},
+    {"n": 2, "text": "에이어 1장: 관찰을 반증으로 받아들일 때 특정 조건의 존재를 전제하므로 가설은 결정적으로 반증될 수 없다(pp.19–20)", "label": "지지됨", "evidence": "we presuppose the existence of certain conditions", "note": "[p. 20] 표시가 이 문장 안에 있음"},
+    {"n": 3, "text": "에이어 4장: 다섯 쌍이 아홉, 삼각형 내각 합 180도 불일치 때 다른 설명을 채택해 수학 명제를 지킨다(pp.69–71)", "label": "지지됨", "evidence": "We say that we have measured wrongly", "note": ""},
+    {"n": 4, "text": "그 까닭은 논리와 수학의 진리가 사실 내용이 없는 분석 명제라는 데 있다", "label": "지지됨", "evidence": "truths of logic and mathematics are analytic propositions", "note": ""},
+    {"n": 5, "text": "배중률도 '내 친구가 편지 쓰기를 그만두었다'를 연언으로 분석하여 지킨다(p.70)", "label": "지지됨", "evidence": "is not a simple proposition, but the conjunction", "note": "[p. 70] 단락"},
+    {"n": 6, "text": "콰인: 어떤 진술이든 다른 곳을 충분히 조정하면 참으로 유지할 수 있고 배중률 포함 어떤 진술도 수정에서 면제되지 않는다(p.266)", "label": "지지됨", "evidence": "no statement is immune to revision", "note": ""},
+    {"n": 7, "text": "콰인에게 수정되지 않음은 체계를 적게 흔들려는 성향, 보수성, 단순성 추구로 설명된다(pp.266–268)", "label": "지지됨", "evidence": "Conservatism figures in such choices ... simplicity", "note": ""},
+    {"n": 8, "text": "에이어에게 수학적 진리의 반박 불가는 분석성의 증거이지만 콰인에게는 정도의 차이이다", "label": "연결", "evidence": "", "note": ""},
+    {"n": 9, "text": "콰인은 이 논문에서 에이어를 거명하지 않는다", "label": "지지됨", "evidence": "B1-10 원문 대목에 Ayer 언급 없음(문제 지문에만 나옴)", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-11_Ayer-LTL-1장-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-13_Ayer-LTL-4장-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-10_Quine-TwoDogmas-3.md"],
+  "sources_missing": [],
+  "model": "opus",
+  "date": "2026-10-12"
+}
