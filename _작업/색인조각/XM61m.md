@@ -1,0 +1,21 @@
+- 의도와 통시적 합리성(diachronic rationality): {61f1}, {61f3}
+- 일탈한 인과(deviant causal chain): {61f2}
+- 도구적 비합리성(instrumental irrationality): {61g1}, {61p3}
+- 허용주의와 비정합적 신념도(permissivism): {61g3}, {61g4}
+- 압력 기반 설명(pressure account): {61h6}, {61h7}
+- 비활성 믿음과 현시적 태도(dispositional and occurrent attitudes): {61h2}, {61h3}
+- 서문 사례(preface case): {61h10}, {61h11}
+- 오도적 고차 증거(misleading higher-order evidence): {61h8}, {61h12}
+- 사전적 합리성과 사후적 합리성(ex ante and ex post rationality): {61h13}, {61p16}
+- 규범적 분리(normative detachment): {61p}, {61p1}
+- 필수 수단 원리(Necessary Means Principle): {61p2}
+- 객관적 합리성과 주관적 합리성(objective and subjective rationality): {61p4}
+- 수반 논증(supervenience argument): {61p10}, {61p10a}
+- 내재론과 외재론(internalism and externalism about rationality): {61p9}, {61p10}
+- 백업 관점(backup view): {61p11}, {61p13}
+- 지님 관점(possession view): {61p15}
+- 낮은 장벽 관점(low-bar view): {61p17}
+- 사실함축적 관점(factive view): {61p18}
+- 규범적 성취(normative achievement): {61p19}, {61p20}
+- 폐쇄 전달 원리(closure and transmission principles): {61p25}
+- 스트로슨(Strawson)의 요점 논변: {61q2}, {61q2a}, {61q2b}
