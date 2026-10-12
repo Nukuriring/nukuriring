@@ -63,5 +63,5 @@ for i, c in C.items():
         if i in ('4', '5e1'):
             print('=' * 30, p); print(new)
     else:
-        open(p, 'w', encoding='utf-8').write(new)
+        open(p, 'w', encoding='utf-8', newline='\n').write(new)
 print('done', 'dry' if dry else 'written', len(C))

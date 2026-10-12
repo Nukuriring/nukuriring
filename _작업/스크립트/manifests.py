@@ -125,5 +125,5 @@ for code, n, cluster, ctag, btag, title, srcs, note in groups:
              f'- 최상위 번호: {n}', f'- 클러스터: {cluster} (태그 `{ctag}`)', f'- 갈래 태그: `{btag}`', f'- 원자료 분량: 약 {tot}KB', '']
     if note: lines += ['## 범위와 유의점', note, '']
     lines += ['## 원자료'] + [f'- `{s}`' for s in srcs] + ['']
-    open(os.path.join(V, '_작업', '그룹', code + '.md'), 'w', encoding='utf-8').write('\n'.join(lines))
+    open(os.path.join(V, '_작업', '그룹', code + '.md'), 'w', encoding='utf-8', newline='\n').write('\n'.join(lines))
     print(code, n, len(srcs), f'{tot}KB')

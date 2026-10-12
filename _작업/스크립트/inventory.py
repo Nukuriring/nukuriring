@@ -51,5 +51,5 @@ for cl in order:
         out.append(f'| [[{rel[:-3]}\\|{title}]] | {kind} | {proj} | {kb}KB |')
     out.append('')
 os.makedirs(os.path.join(root, '_작업'), exist_ok=True)
-open(os.path.join(root, '_작업', '원자료 인벤토리.md'), 'w', encoding='utf-8').write('\n'.join(out))
+open(os.path.join(root, '_작업', '원자료 인벤토리.md'), 'w', encoding='utf-8', newline='\n').write('\n'.join(out))
 print({k: len(v) for k, v in rows.items()})

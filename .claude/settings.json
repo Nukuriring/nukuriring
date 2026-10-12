@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "Bash(py -3 _작업/스크립트/*)",
+      "Bash(git status*)",
+      "Bash(git diff*)",
+      "Bash(git log*)",
+      "Bash(git add*)",
+      "Bash(git commit*)"
+    ],
+    "deny": [
+      "Edit(_원자료/**)",
+      "Write(_원자료/**)"
+    ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "py -3 \"$CLAUDE_PROJECT_DIR/_작업/스크립트/lint.py\" --hook",
+            "timeout": 30
+          }
+        ]
+      }
+    ]
+  }
+}

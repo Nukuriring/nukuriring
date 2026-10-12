@@ -40,5 +40,5 @@ updated: 2026-10-12
 
 ## 구조 노트
 """ + '\n'.join(f'- [[{h}]]' for h in hubs) + '\n\n## 키워드\n'
-open(idx_path, 'w', encoding='utf-8').write(head + '\n'.join(rows) + '\n')
+open(idx_path, 'w', encoding='utf-8', newline='\n').write(head + '\n'.join(rows) + '\n')
 print('keywords', len(rows), 'hubs', len(hubs), 'bad', bad)

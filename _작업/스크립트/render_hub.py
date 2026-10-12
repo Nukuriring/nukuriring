@@ -19,7 +19,7 @@ for p in sys.argv[2:]:
     if '/색인조각/' in p.replace(os.sep, '/'):
         target = None
     else:
-        target = os.path.join(V, '구조', os.path.basename(p)); open(target, 'w', encoding='utf-8').write(out)
+        target = os.path.join(V, '구조', os.path.basename(p)); open(target, 'w', encoding='utf-8', newline='\n').write(out)
     for l in re.findall(r'\[\[([^\]|#]+)', out):
         l = l.strip()
         if l.startswith('_원자료/') or l in names: continue

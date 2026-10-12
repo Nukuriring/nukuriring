@@ -79,7 +79,7 @@ created: 2026-10-09
 - 행위와 실천이성: 앤스컴, 톰슨, 밀그램(5번 줄기와 연결)
 - 자기지식과 투명성: 모런, 월튼, 카벨
 '''
-open(os.path.join(V, '구조', '지각의 철학.md'), 'w', encoding='utf-8').write(render(hub))
+open(os.path.join(V, '구조', '지각의 철학.md'), 'w', encoding='utf-8', newline='\n').write(render(hub))
 idx = r'''---
 type: 색인
 updated: 2026-10-09
@@ -121,5 +121,5 @@ updated: 2026-10-09
 - looks: {2c}
 - uptake: {5b}
 '''
-open(os.path.join(V, '01 색인.md'), 'w', encoding='utf-8').write(render(idx))
+open(os.path.join(V, '01 색인.md'), 'w', encoding='utf-8', newline='\n').write(render(idx))
 print('ok')

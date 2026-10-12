@@ -36,7 +36,7 @@ def write_conv(conv, folder, project):
         for f in m.get('files') or []:
             lines.append(f"> 파일: {f}")
         lines += ['', (m.get('text') or '').strip(), '']
-    open(path, 'w', encoding='utf-8').write('\n'.join(lines))
+    open(path, 'w', encoding='utf-8', newline='\n').write('\n'.join(lines))
     return path
 n = 0
 for pname, p in d['projects'].items():
@@ -46,7 +46,7 @@ for pname, p in d['projects'].items():
         dpath = os.path.join(base, 'docs', *[safe(x, 120) for x in rel.split('/')])
         if not os.path.splitext(dpath)[1]: dpath += '.md'
         os.makedirs(os.path.dirname(dpath), exist_ok=True)
-        open(dpath, 'w', encoding='utf-8').write(doc.get('content') or ''); n += 1
+        open(dpath, 'w', encoding='utf-8', newline='\n').write(doc.get('content') or ''); n += 1
     for c in p['conversations']:
         write_conv(c, os.path.join(base, 'chats'), pname); n += 1
 for c in d['non_project_conversations']:

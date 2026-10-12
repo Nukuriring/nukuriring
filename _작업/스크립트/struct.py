@@ -45,11 +45,11 @@ for i in ids:
     if n in cards: st.append(f"- 다음: [[{cards[n]['file']}]]")
     for k in kids.get(i, []): st.append(f"- 가지: [[{cards[k]['file']}]]")
     new = head + '## 연결\n' + '\n'.join(st + body) + '\n' + tail
-    if new != t: open(p, 'w', encoding='utf-8').write(new)
-json.dump(cards, open(os.path.join(V, '_작업', '번호표.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
+    if new != t: open(p, 'w', encoding='utf-8', newline='\n').write(new)
+json.dump(cards, open(os.path.join(V, '_작업', '번호표.json'), 'w', encoding='utf-8', newline='\n'), ensure_ascii=False, indent=0)
 rows = ['---', 'type: 작업', 'updated: 2026-10-09', '---', '# 번호표', '', '영구 노트 전체 목록입니다. 스크립트가 자동으로 만듭니다.', '', '| 번호 | voice | 클러스터 | 파일 |', '|---|---|---|---|']
 rows += [f"| {i} | {cards[i]['voice']} | {cards[i]['cluster']} | [[{cards[i]['file']}]] |" for i in ids]
-open(os.path.join(V, '_작업', '번호표.md'), 'w', encoding='utf-8').write('\n'.join(rows) + '\n')
+open(os.path.join(V, '_작업', '번호표.md'), 'w', encoding='utf-8', newline='\n').write('\n'.join(rows) + '\n')
 names = {f[:-3] for dp, _, fs in os.walk(V) for f in fs if f.endswith('.md')}
 paths = {os.path.relpath(os.path.join(dp, f), V)[:-3].replace(os.sep, '/') for dp, _, fs in os.walk(V) for f in fs if f.endswith('.md')}
 bad = []

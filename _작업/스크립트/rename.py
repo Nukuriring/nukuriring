@@ -27,12 +27,12 @@ for dp, dirs, fs in os.walk(V):
         for old, new in sorted(old2new.items(), key=lambda x: -len(x[0])):
             t = t.replace('[[' + old + ']]', '[[' + new + ']]').replace('[[' + old + '|', '[[' + new + '|')
         t = re.sub(r'후보\s*([A-D])-C(\d+)', lambda m: '[[' + cand2new.get(f'{m.group(1)}-C{int(m.group(2)):02d}', m.group(0)) + ']]', t)
-        if t != o: open(p, 'w', encoding='utf-8').write(t); changed += 1
+        if t != o: open(p, 'w', encoding='utf-8', newline='\n').write(t); changed += 1
 for i in mp: mp[i]['file'] = old2new[mp[i]['file']]; mp[i]['title'] = titles[i]
-json.dump(mp, open(os.path.join(V, '_작업', '번호표.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
+json.dump(mp, open(os.path.join(V, '_작업', '번호표.json'), 'w', encoding='utf-8', newline='\n'), ensure_ascii=False, indent=0)
 rows = ['---', 'type: 작업', 'updated: 2026-10-09', '---', '# 번호표 (지각의 철학 시범)', '', '| 번호 | 후보 | 파일 |', '|---|---|---|']
 rows += [f"| {i} | {d['cand']} | [[{d['file']}]] |" for i, d in mp.items()]
-open(os.path.join(V, '_작업', '번호표.md'), 'w', encoding='utf-8').write('\n'.join(rows) + '\n')
+open(os.path.join(V, '_작업', '번호표.md'), 'w', encoding='utf-8', newline='\n').write('\n'.join(rows) + '\n')
 # link check
 names = {f[:-3] for dp, _, fs in os.walk(V) for f in fs if f.endswith('.md')}
 paths = {os.path.relpath(os.path.join(dp, f), V)[:-3].replace(os.sep, '/') for dp, _, fs in os.walk(V) for f in fs if f.endswith('.md')}

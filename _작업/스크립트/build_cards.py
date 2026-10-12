@@ -60,10 +60,10 @@ for i in ids:
     basis = [b.strip() for b in re.split(r';\s*(?=\[|\()', d['basis']) if b.strip()]
     out = fm + ['', f"# {i} {d['title']}", '', d['body'], '', '## 연결'] + links + \
           ['<!-- 관계 제안(통합 시 링크로 바꾸고 이 주석을 지움): ' + d['rel'].replace('-->', '->') + ' -->', '', '## 출처'] + [f'- {b}' for b in basis] + ['']
-    open(os.path.join(V, '영구', d['file'] + '.md'), 'w', encoding='utf-8').write('\n'.join(out))
+    open(os.path.join(V, '영구', d['file'] + '.md'), 'w', encoding='utf-8', newline='\n').write('\n'.join(out))
 rows = ['---', 'type: 작업', 'updated: 2026-10-09', '---', '# 번호표 (지각의 철학 시범)', '', '| 번호 | 후보 | voice | 파일 |', '|---|---|---|---|']
 for i in ids:
     d = info[i]; rows.append(f"| {i} | {d['cand']} | {d['voice']} | [[{d['file']}]] |")
-open(os.path.join(V, '_작업', '번호표.md'), 'w', encoding='utf-8').write('\n'.join(rows) + '\n')
-json.dump({i: dict(file=info[i]['file'], cand=info[i]['cand']) for i in ids}, open(os.path.join(V, '_작업', '번호표.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
+open(os.path.join(V, '_작업', '번호표.md'), 'w', encoding='utf-8', newline='\n').write('\n'.join(rows) + '\n')
+json.dump({i: dict(file=info[i]['file'], cand=info[i]['cand']) for i in ids}, open(os.path.join(V, '_작업', '번호표.json'), 'w', encoding='utf-8', newline='\n'), ensure_ascii=False, indent=0)
 print(len(ids), 'cards written')
