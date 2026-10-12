@@ -1,0 +1,29 @@
+---
+id: 2a
+type: 영구
+voice: 문헌
+status: 초안
+tags: [지각의철학, 트래비스]
+sources: ["[[@Travis2004 The Silence of the Senses]]"]
+cluster: 지각의 철학
+candidate: A-C02
+created: 2026-10-09
+---
+
+# 2a 트래비스는 표상주의의 네 요소를 세우고 looks-indexing을 잠정적으로 가정한다
+
+§1에서 트래비스는 공격할 견해를 네 요소로 묶는다. 첫째, 문제의 표상은 사물을 그러하다(as so)고 표상하는 것이며, 나이테가 한 해의 성장을 표상하거나 지도의 선이 강을 표상하는 경우처럼 틀릴 수 없는 표상은 여기서 제외된다. 둘째, 지각 경험은 지각자가 받아들이거나 거부할 수 있는 face value를 가진다. 셋째, 지각에서 표상받는 일은 autorepresentation일 수 없다. 넷째, 그 표상은 지각자가 인지할 수 있어야 하며, 사람들에게 그들이 인지할 수 없는 방식으로 사물을 그러하다고 표상할 수는 없다. 트래비스는 넷째 요소를 구체화하는 작업가설로, 표상 내용이 사물이 보이는 방식(the way things look)에 따라 정해진다는 looks-indexing을 잠정적으로 받아들인다. 'looks like things are thus and so'가 '사물이 그러하다고 표상된다'와 동의어라면 looks는 내용을 인지 가능하게 만드는 일을 하지 못하므로, looks는 표상 내용과 별도로 확인할 수 있어야 한다. 대화 속 설명에 따르면 트래비스는 이 가정이 표상주의에 본질적이지 않다고 보고, §5에서 이 가정 없이도 같은 결론이 따라 나온다고 예고한다.
+
+## 연결
+- 상위: [[2 트래비스는 감각이 침묵하며 지각 경험에 표상 내용이 없다고 주장한다]]
+- 다음: [[2b 트래비스에 따르면 오도는 indicating으로 설명되므로 표상주의를 지지하지 않는다]]
+- 가지: [[2a1 트래비스에 따르면 face value를 주는 것은 P가 성립하지 않아도 거기 있어야 한다]]
+- 가지: [[2a2 트래비스에 따르면 지각에서 표상받는 일은 allorepresentation이어야 한다]]
+- [[5a Stampe의 욕구-지각론은 face value 조건과 가용성 조건을 충족하지 못한다]]: Claude의 평가에 따르면 영진이 Stampe 비판에 쓴 face value 조건과 가용성 조건은 이 네 요소 가운데 둘째와 넷째 요소에 대응한다.
+- [[2c 트래비스는 looks에서 looking like와 looking as if를 구별한다]]: 넷째 요소를 구체화한 looks-indexing의 검증은 looks에 섞인 두 개념을 구별하는 데서 시작한다.
+- [[4i Gauker는 보인다 화법이 지각의 정당화 역할을 보여 주지 못한다고 논증한다]]: Gauker도 '보인다' 진술이 지각 내용을 보고한다는 가정을 문제 삼으므로 looks-indexing 가정과 견주어 읽을 수 있다.
+
+## 출처
+- [[@Travis2004 The Silence of the Senses]] §1
+- [[_원자료/claude.ai/chats/2026-05-25_첫 챕터부터 차근차근 공부하기]] (2026-05-25, Claude 05:23·05:41 설명)
+- [The silence of the senses](https://app.notion.com/p/1097344d008a4a9396759ade5bb2a2ba) '네 가지 기본 주장들' 항목

@@ -1,0 +1,125 @@
+import json, os, re, sys
+V = sys.argv[1]
+mp = json.load(open(os.path.join(V, '_작업', '번호표.json'), encoding='utf-8'))
+def L(m):
+    i = m.group(1); return f"[[{mp[i]['file']}]]"
+def render(s): return re.sub(r'\{([0-9][0-9a-z]*)\}', L, s)
+hub = r'''---
+type: 구조
+status: 초안
+cluster: 지각의 철학
+created: 2026-10-09
+---
+# 지각의 철학
+
+이 구조 노트는 지각 경험이 무엇이고 그것이 믿음과 행위에 어떻게 관여하는지를 다룬 카드들을 엮습니다. 줄기는 다섯 개입니다. 오스틴이 일상 언어로 앎과 지각을 검토한 작업(1)에서 출발하고, 트래비스가 감각의 침묵을 논증한 작업(2)과 맥도웰이 경험의 합리적 제약에서 개념주의를 끌어낸 작업(3)을 나란히 둔 뒤, 두 사람의 논쟁(4)을 거쳐 영진 님이 이 지각 모델을 욕구로 옮긴 작업(5)으로 나아갑니다.
+
+## 1. 오스틴: 앎과 지각의 일상 언어적 검토
+1. {1}: 방법의 출발점
+2. {1a}: 앎을 판단 능력의 성공으로 보는 그림
+3. {1a2}: 안다는 말이 권위를 내주는 일이라는 점
+4. {1a4}: 회의주의적 도전에 대한 오스틴의 응수
+5. {1b}: 교정 불가능한 토대에 대한 거부
+6. {1c}: 착각 논증과 그에 대한 반박, 이어서 {1c1}의 선언주의 단초
+7. {1d}: 진술의 참이 상황에 따라 달라진다는 점
+8. {1e}: 오스틴의 구도가 받을 수 있는 소여의 신화 비판
+
+## 2. 트래비스: 감각은 침묵한다
+1. {2}: 중심 테제
+2. {2a}: 공격 대상인 표상주의의 네 요소
+3. {2a1}, {2a2}: face value와 allorepresentation 조건
+4. {2b}: 오도하는 경험의 설명
+5. {2c}, {2c1}, {2c2}: looks로 내용을 지정할 수 없다는 논증
+6. {2c1a}: 이 논증의 핵심을 미결정성으로 읽는 영진 님의 독해
+7. {2d}: appearance와 판단의 관계에 대한 영진 님의 입장
+
+## 3. 맥도웰: 경험의 합리적 제약과 개념주의
+1. {3}: 문제 설정
+2. {3a}, {3a1}, {3b}, {3c}: 소여의 신화와 정합론 사이의 시소
+3. {3d}, {3d1}, {3d2}: 수용성 안에서 작동하는 개념 능력
+4. {3e}: 셀라스 독해, 특히 {3e1}의 세계를 시야에 두는 지향성
+5. {3f}, {3f2}: 소여의 신화 재정의와 직관적 내용으로의 수정
+6. {3d3}: 2018년의 재정식화
+7. {3g}, {3g1}: 전인격적 정보 처리와 데닛
+8. {3h}: 개념주의와 비개념주의 논쟁의 지도
+
+## 4. 트래비스와 맥도웰의 논쟁
+1. {4}: 갈림길
+2. {4a}: 맥도웰의 응수
+3. {4b}, {4b1}, {4b2}: 예화와 진리 부여
+4. {4c}, {4f}: 너무 늦게 오는 개념적 내용
+5. {4d}, {4d1}: 개념을 가지는 일과 회의주의
+6. {4e}: 재인 가능한 예화의 자리
+7. {4g}, {4h}, {4i}: Gersel, Ginsborg, Gauker의 개입
+8. {4b3}, {4j}: 카벨의 시각에서 본 논쟁
+
+## 5. 영진: 욕구는 행위를 시야에 두는 일이다
+1. {5}: 기본 착상
+2. {5a}: Stampe에 대한 비판
+3. {5b}, {5b1}: 권위와 옳고 그름을 uptake에 두기
+4. {5c}, {5c1}: 판단과 의도의 대응, 아크라시아
+5. {5d}: 이론과 실천 이원론에 대한 저항
+6. {5e}, {5e1}: 정식화와 미결 문제
+
+## 줄기를 가로지르는 실
+- **상황 민감성의 계보**: {1d} → {1d1} → {2c2} → {5e1}
+- **소여의 신화**: {1e} → {3a} → {3f} → {4g}
+- **face value**: {2a1} → {3} → {5a}
+- **시야에 둠**: {3e1} → {2} → {5}
+- **회의주의와 오류 가능성**: {1a3} → {1a4} → {4d1}
+
+## 관련 문헌
+- [[@Austin1946 Other Minds]], [[@Austin1962 Sense and Sensibilia]], [[@Longworth SEP John Langshaw Austin]]
+- [[@Travis2004 The Silence of the Senses]], [[@Travis2018 The Move, the Divide, the Myth, and its Dogma]]
+- [[@McDowell1994 Mind and World]], [[@McDowell1994b The Content of Perceptual Experience]], [[@McDowell1998 Sellars on Perceptual Experience]], [[@McDowell2008 Avoiding the Myth of the Given]], [[@McDowell2018 Travis on Frege, Kant, and the Given]], [[@Sellars1956 Empiricism and the Philosophy of Mind]]
+- [[@Gersel2018 What is the Myth of the Given]], [[@Ginsborg2018 Empiricism and Normative Constraint]], [[@Gauker2018 Do Perceptions Justify Beliefs]]
+
+## 앞으로 이어질 구조 노트
+- 언어와 의미: 트래비스의 프레게 독해와 상황 민감성(I WANT YOU TO BRING ME A SLAB 프로젝트)
+- 행위와 실천이성: 앤스컴, 톰슨, 밀그램(5번 줄기와 연결)
+- 자기지식과 투명성: 모런, 월튼, 카벨
+'''
+open(os.path.join(V, '구조', '지각의 철학.md'), 'w', encoding='utf-8').write(render(hub))
+idx = r'''---
+type: 색인
+updated: 2026-10-09
+---
+# 색인
+
+키워드에서 진입 카드로 가는 목록입니다. 한 키워드에는 진입점이 되는 카드를 한두 장만 적고, 나머지는 그 카드의 연결을 따라갑니다. 주제 전체를 보려면 `구조/`의 구조 노트에서 시작합니다.
+
+## 구조 노트
+- [[지각의 철학]]
+
+## 키워드
+- 가환적 판단(generality of judgement): {4d}
+- 개념주의(conceptualism): {3d}, {3h}
+- 과학적 이미지와 감각: {3e3}
+- 규범성, 원초적(primitive normativity): {4h1}
+- 데닛(Dennett): {3g1}
+- 비개념주의(nonconceptualism): {3h}, {3h3}
+- 상황 민감성(occasion-sensitivity): {1d}, {1d1}, {2c2}
+- 선언주의(disjunctivism): {1c1}
+- 셀라스(Sellars): {3e}
+- 소여의 신화(Myth of the Given): {3a}, {3f}, {4g}
+- 시야에 둠(having in view): {3e1}, {5}
+- 아크라시아(akrasia): {5c1}
+- 앎과 믿음: {1a}, {1a1}
+- 예화(instancing): {4b}
+- 오류 가능주의(fallibilism): {1a3}
+- 욕구(desire): {5}
+- 이론과 실천: {5d}
+- 일상 언어 철학: {1}
+- 정합론(coherentism): {3b}
+- 직관적 내용(intuitional content): {3f2}
+- 착각 논증(argument from illusion): {1c}
+- 카벨(Cavell): {4b3}, {4j}
+- 표상주의(representationalism): {2}, {2a}
+- 회의주의(scepticism): {1a4}, {4d1}
+- face value: {2a1}
+- Guise of the Good: {5b1}
+- looks: {2c}
+- uptake: {5b}
+'''
+open(os.path.join(V, '01 색인.md'), 'w', encoding='utf-8').write(render(idx))
+print('ok')
