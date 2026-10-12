@@ -1,0 +1,65 @@
+- 자기지식(self-knowledge): {41a}, {41b}, {41n1}
+- 투명성(transparency): {41}, {41b4}, {41a5}
+- 합리적 행위자성(rational agency): {41a}, {41a7}, {41b16}
+- 비관찰적 자기지식(non-observational self-knowledge): {41a}, {41b}
+- 이유 민감성(reason-sensitivity): {41a1a}, {41a7}, {41f2a}
+- 능동성(activity): {41a3}, {41b14}
+- 모런(Moran): {41a}, {41b}, {41b11}
+- 즉각성(immediacy): {41b1}, {41b}
+- 소외(alienation): {41b2}, {41b9a}, {41g3c}
+- 공언(avowal): {41b11}, {41b11a}, {41b10}
+- 일인칭 권위(first-person authority): {41b15}, {41b19}
+- 무어의 역설(Moore's paradox): {41b6}, {41b6a}
+- 사르트르의 도박사(Sartre's gambler): {41b8}, {41b8a}
+- 비인격 원칙(Impersonal Principle): {41b20}, {41b20c}
+- 숙고적 관점과 이론적 관점(deliberative and theoretical stance): {41b17}, {41b4a}
+- 에반스(Evans): {41c}, {41c3a}
+- 일인칭 사고(first-person thought): {41c}, {41c3}
+- 확인 면제(identification-freedom): {41c3}, {41c2b}
+- 콕스(Cox): {41d}, {41d5}
+- 숙고(deliberation): {41d5}, {41b16b}
+- 델리버스펙션(deliberspection): {41d5}, {41d5a}
+- 욕구 투명성(desire transparency): {41e}, {41e2a}
+- 애시웰(Ashwell): {41e}, {41e3a}
+- 바이른의 BEL(Byrne's BEL): {41f1}, {41f1b}, {41g3a}
+- 박(Park): {41f}, {41f3}, {41f4}
+- 이유 기반 인식(reasons-based epistemology): {41f3}, {41f4}
+- 보일(Boyle): {41g}, {41g5}, {41g11}
+- 비정립적 의식(non-positional consciousness): {41g}, {41g5a}, {41g8}
+- 반성(reflection): {41g14}, {41g14a}, {41g5c}
+- 사르트르(Sartre): {41g5a}, {41g5b}
+- 슈메이커(Shoemaker): {41h}, {41h4}
+- 자기맹(self-blindness): {41h}, {41h1}, {41h6a}
+- 내감 이론(inner sense theory): {41h}, {41h5}, {41h7}
+- 부합 방향(direction of fit): {41i}, {41o}, {41i6}
+- 프로스트(Frost): {41i}, {41i2d}
+- 텔릭 태도(telic attitude): {41i3}, {41i5}
+- 험버스톤(Humberstone): {41i6a}, {41i7}
+- 흄적 동기 이론(Humean theory of motivation): {41i8}, {41i13}, {41i9b}
+- 욕구의 성향 모형(dispositional model of desire): {41i9}, {41i10}
+- 스미스의 퍼즐(Smith's puzzle): {41i14}
+- 앤스컴(Anscombe): {41i17}, {41i5a}, {41c1}
+- 보고시안(Boghossian): {41j}, {41j4}, {41r}
+- 보증 전달(transmission of warrant): {41j}, {41j1}
+- 추론(inference): {41j}, {41j3}
+- 개념 구성 설명(meaning-constituting account): {41j4}, {41k}
+- 개념 소유(concept possession): {41k}, {41j4}
+- 윌리엄슨(Williamson): {41k}, {41o}, {41o4}
+- boche와 tonk: {41j4a}, {41k2}
+- 관습적 함축(conventional implicature): {41k2a}, {41k7}
+- 분석성(analyticity): {41r}, {41r2}
+- 정당화와 권리부여(justification and entitlement): {41r3}, {41r2a}
+- 구조적 합리성(structural rationality): {41l}, {41m}, {41n}
+- 보장 가설(guarantee hypothesis): {41l}, {41l4}
+- 워스닙(Worsnip): {41l}, {41l5}
+- 비정합성(incoherence): {41l5}, {41m2}
+- 완전한 투명성 조건(full transparency condition): {41l5a}, {41l5d}
+- 순응 구성적(compliance-constitutive): {41l6}
+- 아르니오(Aarnio): {41m}, {41m2}
+- 주장의 규칙(norm of assertion): {41o2}, {41o1}
+- 복권 사례(lottery): {41o3}, {41o4}
+- 지식 규칙(knowledge rule): {41o4}, {41o2}
+- 인용(quotation): {41p}, {41p1}
+- 크릴(Creel): {41q}, {41q1}
+- 알고리즘 투명성(algorithmic transparency): {41q1}, {41q2a}
+- 실행 투명성(runtime transparency): {41q1a}, {41q2}
