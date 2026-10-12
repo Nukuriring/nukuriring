@@ -11,6 +11,7 @@ read_via:
   - "[[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-16_Railton-DNP-2]]"
   - "[[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-17_Railton-DNP-3]]"
   - "[[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Railton-DNP_주석]]"
+  - "Notion 「레일턴 헴펠」 (과학철학 논자시, Chapter 6 폴더, 날짜 미상, 필기. 같은 폴더의 「A Deductive-Nomological Model of probabilistic Exp」는 제목만 있는 빈 페이지)"
 created: 2026-10-09
 ---
 # A Deductive-Nomological Model of Probabilistic Explanation
@@ -81,3 +82,4 @@ created: 2026-10-09
 - [[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-16_Railton-DNP-2]] (날짜 미상): §4, pp. 697–702, 멈춤 9곳
 - [[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-17_Railton-DNP-3]] (날짜 미상): §5–6, pp. 702–709, 멈춤 12곳
 - [[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Railton-DNP_주석]]: 원주 1–9, 참고문헌, 편자 주
+- Notion 「레일턴 헴펠」 (과학철학 논자시, Chapter 6 폴더, 날짜 미상): 레일턴이 헴펠의 I-S 모형을 비판하는 세 문제(고확률 요건, 최대 특수성 요건과 인식적 상대성, 예측과 설명의 연관)의 필기이다. 이 노트의 카드와 겹쳐 새 카드를 만들지 않았다.

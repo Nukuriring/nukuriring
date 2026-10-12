@@ -11,6 +11,7 @@ read_via:
   - "[[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-22_Kitcher-Unification-2]]"
   - "[[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-23_Kitcher-Unification-3]]"
   - "[[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Kitcher-Unification_주석]]"
+  - "Notion 「Kitcher」 (과학철학 논자시, Chapter 6 폴더, 날짜 미상, 필기)"
 created: 2026-10-09
 ---
 # Explanatory Unification
@@ -79,3 +80,4 @@ created: 2026-10-09
 - [[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-22_Kitcher-Unification-2]] (날짜 미상): §5–6, pp. 717–724, 멈춤 10곳
 - [[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-23_Kitcher-Unification-3]] (날짜 미상): §7–9, pp. 724–731, 멈춤 11곳
 - [[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Kitcher-Unification_주석]]: 원주 1–9, 참고문헌, 편자 주
+- Notion 「Kitcher」 (과학철학 논자시, Chapter 6 폴더, 날짜 미상): 프리드먼 모형의 K-원자성 비판, 논증 패턴, 연역 우월주의, 무관련성과 비대칭 반론, 반스의 반론의 필기이다. 이 노트의 카드와 겹쳐 새 카드를 만들지 않았다.

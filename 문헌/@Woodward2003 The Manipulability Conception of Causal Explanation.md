@@ -11,6 +11,7 @@ read_via:
   - "[[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-19_Woodward-Manipulability-2]]"
   - "[[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-20_Woodward-Manipulability-3]]"
   - "[[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Woodward-Manipulability_주석]]"
+  - "Notion 「Woodward」 (과학철학 논자시, Chapter 6 폴더, 날짜 미상, 필기)"
 created: 2026-10-09
 ---
 # The Manipulability Conception of Causal Explanation
@@ -76,3 +77,4 @@ created: 2026-10-09
 - [[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-19_Woodward-Manipulability-2]] (날짜 미상): §1.4, pp. 738–743, 멈춤 8곳
 - [[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-20_Woodward-Manipulability-3]] (날짜 미상): §1.5–1.9, pp. 743–749, 멈춤 12곳
 - [[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Woodward-Manipulability_주석]]: 원주 1–2, 참고문헌
+- Notion 「Woodward」 (과학철학 논자시, Chapter 6 폴더, 날짜 미상): 기압계 사례, 개입의 정의, 불변성, 인식적 퇴행 반론, 차폐 관계, 반사실적 조건문의 진리 조건, 개입이 불가능한 인과 주장의 필기이다. 이 노트와 @CurdCover2013의 카드와 겹쳐 새 카드를 만들지 않았다.

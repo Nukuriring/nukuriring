@@ -9,6 +9,7 @@ status: 초안
 read_via:
   - "[[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-14_Hempel-IS-1]]"
   - "[[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Hempel-IS_주석]]"
+  - "Notion 「Hempel_Inductive-Statisical Explanation」 (과학철학 논자시, Chapter 6 폴더, 날짜 미상, 필기)"
 created: 2026-10-09
 ---
 # Inductive-Statistical Explanation
@@ -61,3 +62,4 @@ created: 2026-10-09
 ## 원자료
 - [[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-14_Hempel-IS-1]] (날짜 미상): C&C 2판 pp. 677–687 전문, 멈춤 15곳
 - [[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Hempel-IS_주석]]: 원주 1–7, 참고문헌, 편자 주
+- Notion 「Hempel_Inductive-Statisical Explanation」 (과학철학 논자시, Chapter 6 폴더, 날짜 미상): 같은 글의 필기이다. 양상 수식어 비판, 두 모호성, 최대 특수성 요건, 인식적 상대성이 이 노트의 카드와 겹쳐 새 카드를 만들지 않았다.

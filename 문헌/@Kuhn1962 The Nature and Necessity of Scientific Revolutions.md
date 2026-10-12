@@ -11,6 +11,7 @@ read_via:
   - "[[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-02_Kuhn-SSR9-2]]"
   - "[[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-03_Kuhn-SSR9-3]]"
   - "[[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Kuhn-SSR9_주석]]"
+  - "Notion 「Kuhn_The Nature and Necessity of Scientific Revolutions(1970)」 (과학철학 논자시, 날짜 미상, 정의와 핵심 질문만 적힌 짧은 필기)"
 created: 2026-10-09
 ---
 # The Nature and Necessity of Scientific Revolutions
@@ -66,3 +67,4 @@ created: 2026-10-09
 - [[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-02_Kuhn-SSR9-2]] (날짜 미상): pp. 84–87, 실증주의적 반론과 의미 변화
 - [[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-03_Kuhn-SSR9-3]] (날짜 미상): pp. 87–93, 문제와 기준의 변화
 - [[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Kuhn-SSR9_주석]]: 원주와 Curd·Cover 편자 주
+- Notion 「Kuhn_The Nature and Necessity of Scientific Revolutions(1970)」 (과학철학 논자시)와 「과학 철학 chap2」 (철학 자료 아카이브, 수정일 2025-07-30): 혁명의 정의와 핵심 질문, 9장의 개념어 목록만 적힌 짧은 필기여서 새 카드를 만들지 않았다. 영진 님이 쓴 답안은 [[@영진2025 과학철학 쿤과 라우든 답안]]에 정리했다.

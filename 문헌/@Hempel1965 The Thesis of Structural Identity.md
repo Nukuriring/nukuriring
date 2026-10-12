@@ -9,6 +9,7 @@ status: 초안
 read_via:
   - "[[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-13_Hempel-StructuralIdentity-1]]"
   - "[[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Hempel-StructuralIdentity_주석]]"
+  - "Notion 「The thesis of Structural Identity」 (과학철학 논자시, Chapter 6 폴더, 날짜 미상, 필기)"
 created: 2026-10-09
 ---
 # The Thesis of Structural Identity
@@ -53,3 +54,4 @@ created: 2026-10-09
 ## 원자료
 - [[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-13_Hempel-StructuralIdentity-1]] (날짜 미상): C&C 2판 pp. 667–675 전문, 멈춤 10곳
 - [[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Hempel-StructuralIdentity_주석]]: 원주 1–11, 참고문헌, 편자 주
+- Notion 「The thesis of Structural Identity」 (과학철학 논자시, Chapter 6 폴더, 날짜 미상): 같은 글의 필기이다. 두 하위 논제와 스크리븐, 툴민, 셰플러에 대한 응답이 이 노트의 카드와 겹쳐 새 카드를 만들지 않았다.

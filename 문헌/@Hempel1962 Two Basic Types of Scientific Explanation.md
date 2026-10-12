@@ -9,6 +9,7 @@ status: 초안
 read_via:
   - "[[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-12_Hempel-TwoTypes-1]]"
   - "[[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Hempel-TwoTypes_주석]]"
+  - "Notion 「Two Basic Types of Scientific Explanation, Hempel」 (과학철학 논자시, Chapter 6 폴더, 날짜 미상, 필기)"
 created: 2026-10-09
 ---
 # Two Basic Types of Scientific Explanation
@@ -56,3 +57,4 @@ created: 2026-10-09
 ## 원자료
 - [[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-12_Hempel-TwoTypes-1]] (날짜 미상): C&C 2판 pp. 657–665 전문, 멈춤 11곳
 - [[_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Hempel-TwoTypes_주석]]: 원주 1–5와 편자 주
+- Notion 「Two Basic Types of Scientific Explanation, Hempel」 (과학철학 논자시, Chapter 6 폴더, 날짜 미상): 같은 글의 필기이다. D-N 설명과 통계적 설명, 생략적 설명과 부분적 설명과 설명 스케치가 이 노트의 카드와 겹쳐 새 카드를 만들지 않았다.
