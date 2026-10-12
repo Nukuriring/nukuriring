@@ -1,0 +1,125 @@
+- 책임(responsibility): {46}, {46f}, {46g}
+- 스트로슨(Strawson): {46}, {46a}
+- 반응적 태도(reactive attitudes): {46}, {46a}, {46b2}
+- 왓슨(Watson): {46a}, {46a2}, {46a3}
+- 표현 이론(expressive theory): {46a}
+- 변명(excuse): {46a1}, {46a1a}
+- 면제(exemption): {46a2}, {46a2a}
+- 선의의 의지에 대한 요구(demand for good will): {46a2}, {46g7}
+- 도덕적 호소(moral address): {46a2a}, {46a3}
+- 극단적 악(extreme evil): {46a3}, {46a4}
+- 도덕적 운(moral luck): {46a5}, {46a5a}, {46g5}
+- 취약성의 평등: {46a5}
+- 자유지상론(libertarianism): {46a6}
+- 비난(blame)의 모형: {46b}, {46b1}, {46b2}
+- 스미스(Angela Smith): {46b}, {46b4}
+- 기능 모형(functional model): {46b3}, {46f13}
+- 신호 이론(signaling theory): {46b3a}
+- 비난 자격(standing to blame): {46b4}, {46b4a}
+- 절차 규범: {46b4b}
+- 비난 관행의 편향: {46b5}
+- 월러스(Wallace): {46c}, {46c3}
+- 적합성(fittingness): {46c}, {46d3}, {46f3}
+- 관리 이유(reasons of management): {46c}, {46c3}, {46c5}
+- 분노(anger): {46c1}, {46f5}
+- 용서(forgiveness): {46c3}, {46d1}
+- 전면적 회의주의(global skepticism): {46c4}, {46a7}, {46f7}
+- 인지적 감정 이론(cognitivism about emotions): {46d}, {46d2}
+- 위선(hypocrisy): {46b4a1}, {46c2}, {46e}
+- 일축(dismissal): {46e1}, {46e2}
+- 이인칭적 비난(second-personal blame): {46e3}
+- 슈메이커(Shoemaker): {46f}, {46f5}
+- 반응 의존(response-dependent): {46f}, {46f3}, {46f12}
+- 반응 독립(response-independent): {46f2}, {46f4}
+- 부담 전환(burden-shifting): {46f5}, {46f10}
+- 거짓 긍정과 거짓 부정(false positive/negative): {46f4}, {46f11}
+- 반응 포화 회의론(response-drenched skepticism): {46f6}
+- 이론 포화 회의론(theory-drenched skepticism): {46f7}
+- 그림자 회의론(shadow skepticism): {46f8}, {46f9}
+- 원한(resentment): {46f13}
+- 하먼(Harman): {46g}, {46g4}
+- 도덕적 무지(moral ignorance): {46g}, {46g1}, {46g6}
+- 부적절한 관심(inappropriate care): {46g3}, {46g4}, {46g7}
+- 마피아 사례: {46g3}
+- 쿠헬버그(Coeckelbergh): {46h}, {46h1}
+- 도덕적 지위(moral standing): {46h}, {46h2}
+- 관계적 접근(relational approach): {46h1}, {46h3}
+- 베처(Bettcher): {46i}, {46i1}
+- 이중구속(double bind): {46i}, {46i3}
+- 기만(deception)과 가장(pretense): {46i}, {46i2}
+- 프랭크퍼트(Frankfurt): {46j}, {46j3}
+- 자기애(self-love): {46j}, {46j1}, {46j2}
+- 온전한 마음(wholeheartedness): {46j3}, {46j4}, {46k2}
+- 의지의 분열(volitional fragmentation): {46j3}
+- 유머 감각(sense of humor): {46j6}, {25l6}
+- 헤겔(Hegel)의 직접적 의지(immediate will): {46k}, {46k1}
+- 욕망의 정화(purification of desires): {46k1}, {46k2}
+- 비동일성 문제(non-identity problem): {25}, {25b}
+- 파핏(Parfit): {25}, {25d}, {25e}
+- 인격 영향 원리(person-affecting principle): {25a}, {25d}
+- 비인격적 총합 원리(impersonal total principle): {25c}
+- 혐오스러운 결론(Repugnant Conclusion): {25c}, {25d1}, {25e}
+- 미래 세대 정책: {25b}, {25c1}
+- 정의로운 저축 원칙(just savings principle): {25c2}
+- 실존적 이익(existential benefit): {25d}
+- 광의 이원 인격 영향 원리(wide dual person-affecting principle): {25d1}
+- 평가적 어림(evaluative imprecision): {25e}
+- 임계 수준 견해(critical-level view): {25e1}, {25g1}
+- 우드워드(Woodward)와 권리 침해: {25f}
+- 문턱 해악(threshold notion of harm): {25g}, {25g1}
+- 비교 없는 해악(non-comparative harm): {25h}, {25h1}
+- 가드너(Gardner)의 존재 설명(existence account): {25i}, {25i1}
+- Dim Vision: {25i1}, {25i1a}
+- 필연성 원리(Inevitable Harming Principle): {25i3}
+- 비인격적 가치(impersonal value): {25i4}
+- 사전적 파레토(Ex Ante Pareto): {25j}, {25j4}
+- 상태별 우월성(Statewise Dominance): {25j}, {25j5}
+- 무한 집계(infinite aggregation): {25j}, {25j3}
+- 사회적 세인트피터즈버그: {25j1}
+- 슈팅룸(Shooting Room): {25k}, {25k1}
+- 주변분포와 결합분포: {25k2}
+- 에르고딕성(ergodicity): {25k3}
+- 필멸(mortality): {25l}, {25l2}, {25l7}
+- 뢰브(Loew)의 전역적 선택(global choice): {25l}, {25l5}
+- 충만성 원리(Principle of Plenitude): {25l1}
+- 자율성의 비도구적 가치: {25l3}
+- 영원과 약속: {25l6}, {25l6a}
+- 인간 본성(human nature): {26}, {26a}, {26a4}
+- 인간 향상(human enhancement): {26}, {26d}, {26e}
+- 전통적 꾸러미(traditional package): {26a}
+- 통계적 정상성(statistical normality): {26a1}, {26b}
+- 생애사 특성 군집(life-history trait cluster): {26a2}, {26a2a}
+- 섞인 자루(mixed bag): {26b}
+- 불활성 견해(Inert View): {26b1}
+- 인간 형식(human form): {26b1}, {26b1e}
+- 그롤(Groll)과 로트(Lott): {26b1}, {26b1c}
+- ~로서의 좋음과 ~에게 좋음: {26b1c}
+- 분리 불가능한 취약성(inseparable vulnerability): {26b1d}, {26b1d1}
+- 톰슨(Thompson)과 삶의 형식(life-form): {26c}, {26c1}
+- 아리스토텔레스적 범주문(Aristotelian categoricals): {26c}
+- 자연적 좋음(natural goodness): {26c2}, {26b1c}
+- 풋(Foot)과 도덕적 악: {26c2}
+- 신아리스토텔레스주의(neo-Aristotelianism): {26c3}, {26c3a}
+- 루언스(Lewens)의 칸트적 투사주의(Kantian projectivism): {26c4}, {26c4a}
+- 미결정성(underdetermination): {26c4}
+- 초월론적 논변(transcendental argument): {26c1}, {26c4b}
+- 카스(Kass): {26d}, {26d3}
+- 선물성(giftedness): {26d1}, {26e}
+- 영혼의 활동(energeia psyches): {26d2}
+- 유한성(finitude): {26d3}, {26d4}, {25l3}
+- 메논의 물음 순서: {26d5}
+- 샌델(Sandel)의 선물 논증: {26e}, {26e1}
+- 하이퍼에이전시(hyperagency): {26e}
+- 과잉 양육(hyperparenting): {26e2}, {26e10}
+- 자유주의 우생학(liberal eugenics): {26e2}
+- 치료와 향상(therapy and enhancement): {26e2a}, {26b1e}
+- 보스트롬(Bostrom)과 자연의 지혜: {26e5}, {26e6}
+- 포스트휴먼 존엄(posthuman dignity): {26e5a}
+- 진화적 최적성 도전(Evolutionary Optimality Challenge): {26e6}, {26e6a}
+- 향상 예외주의(biomedical enhancement exceptionalism): {26e8}
+- 캄(Kamm)과 허용 가능성: {26e9}
+- 검토되지 않은 삶(the unexamined life): {26f}, {26f3}, {26f4}
+- 엘렝코스(elenchus): {26f4}
+- 항진명제와 불의: {26f1}
+- 판결과 권유: {26f2a}, {26f3a}
+- 메타 검토: {26f5}

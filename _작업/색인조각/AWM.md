@@ -1,0 +1,79 @@
+- 투명성(transparency): {24a}, {24a3}, {24a7}
+- 사진의 투명성(photographic transparency): {24a}, {24a2}
+- 월튼(Kendall Walton): {24a}, {24d}
+- 허구적 봄(fictional seeing): {24a1}, {24a1a}
+- 믿는 체하기(make-believe): {24a1}, {24a1a}
+- 반사실적 의존(counterfactual dependence): {24a3}, {24a3a}
+- 자연적 의미(natural meaning): {24a4}
+- 사진의 정확성(accuracy of photographs): {24a2}, {24a4}
+- 투명성의 정도(degrees of transparency): {24a5}, {24a6}
+- 지각적 접촉(perceptual contact): {24a7}
+- 바쟁(André Bazin): {24}
+- 사진의 자동성(automatism): {24}, {24b7}
+- 자동성의 두 뜻(automatism): {24b7}, {24b7a}
+- 카벨(Cavell)의 영화론: {24b}, {24b5}, {24b6}
+- 현재성(presentness): {24b}, {24b3}
+- 부재(absence): {24b}, {24b3}
+- 회화와 사진(painting and photography): {24b1}, {24b1a}
+- 스크린(screen): {24b2}
+- 영화 관객(film viewer): {24b3}
+- 녹음(recording): {24b4}
+- 회의주의의 움직이는 이미지(a moving image of skepticism): {24b6}
+- 매체와 매체들(medium, media): {24b8}
+- 온전성(integrity): {24b8a}
+- 거울(mirror): {24c1}
+- 월튼과 카벨의 비교: {24c}, {24c1}
+- 음악의 추상성(abstractness of music): {24d}
+- 표현 코드(expressive code): {24d1}, {24d1a}
+- 조성 정서(tonality and emotion): {24d1a}
+- 역동적 요소(dynamic element): {24d2}, {24d2a}
+- 한슬리크(Hanslick): {24d2}
+- 사례가 됨으로써 제시하기(exemplification): {24d3}
+- 상상적 내성(imaginative introspection): {24d4}, {24d4a}
+- 음악의 표현 불가능성(ineffability): {24d5}
+- 닐리(Neely): {24d1a}, {24e}
+- 음절 추적(syllable tracking): {24e}
+- 언어와 음악(language and music): {24e}
+- 페히(Paech): {24f}, {24f1}, {24f2}
+- 상호매체성(Intermedialität): {24f}, {24f1}
+- 매체적 차이(mediale Differenz): {24f1}
+- 실패의 윤리(ethics of failure): {35}, {35b}, {35h}
+- 양효실(Yang Hyo-sil): {35b}, {35h}
+- 코스텔로(Costello): {35}, {35c}, {35h1}
+- 면제와 과제: {35}, {35d}
+- 경계인 소설: {35a}
+- 과도한 앎(inordinate knowledge): {35c}
+- 회의주의자의 물음(the skeptic's question): {35c1}, {35f}
+- 주행성화(diurnalizing): {35c1}
+- 일상은 과제(the ordinary as task): {35d}
+- 예언(prophecy), 공모(complicity): {35e}
+- 괴물(monster): {35f}
+- 타협(compromise)과 회계: {35g}, {35h1}
+- 노출(exposure): {35h}
+- 가죽 구두 장면: {35h1}
+- 동행(companionship): {35h2}
+- 서운함: {35i}, {35i1}, {35i3}
+- 양극성(bipolarity): {35i1}
+- 둘만의 질서: {35i2}, {35i2a}
+- 시정 요구: {35i2}, {35i3a}
+- 비우연적 공유: {35i3}
+- 흄의 관행(convention): {35i4}
+- 톰슨(Thompson)의 양극 형식: {35i1}, {35i4a}
+- 자기 상과 궤적(path dependence): {35j}, {35j1}
+- 피벗 불가능성: {35j1}, {35j1a}
+- 부활(resurrection): {35k}, {35k1}, {35k2}
+- 청구와 증여: {35k}, {35k1}
+- 삶의 완료형: {35k2}
+- 놀람도(surprisal): {35l}, {35l1}
+- 레비(Levy)의 기대 기반 문장 처리: {35l}
+- 독해 훈련: {35l1}
+- 파인(Fine): {60a}, {60a5}
+- 본질(essence): {60a}, {60a4}, {60a7}
+- 본질의 양상적 기준(modal account of essence): {60a}, {60a1}, {60a2}
+- 소크라테스와 단일집합: {60a}
+- 필연적 참(necessary truth): {60a1}
+- 조건적 설명(conditional account): {60a2}
+- 심신 사례: {60a4}
+- 형이상학적 필연성(metaphysical necessity): {60a5}
+- 분석성과 의미(analyticity and meaning): {60a6}
+- 정의와 본질(definition and essence): {60a7}
