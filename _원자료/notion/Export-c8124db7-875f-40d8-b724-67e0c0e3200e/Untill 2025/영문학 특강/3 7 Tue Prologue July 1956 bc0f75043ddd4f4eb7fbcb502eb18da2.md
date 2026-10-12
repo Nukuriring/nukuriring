@@ -1,0 +1,21 @@
+# 3/7 Tue: Prologue July 1956
+
+- Kazuo Ishiguro
+- Stevens : Butler, work in Darilington hall. 집사 일을 중요시하게 생각한다. 신중하면서도 우유부단하다? 조심스러운 성격. 사용하는 언어가 고급스럽다. 완곡어법 사용. euphorism. 입장을 강하게 드러내지 않는 듯한 느낌. reserved.
+- 우회 - 간접성 : 사실에 대해서 이야기할 때, 혹은 자기 자신에 대해서 이야기할 때… why digressive? Narrative stratedgy.
+- 변화하는 시기. 달링튼 홀의 주인이 바뀜. 전통적인 것들이 사라지고 있다. 많은 변화들이 일어나고 있다. 규모 축소. 유구한 역사를 자랑하는 영국인이 미국인 패러데이로 바뀜. 일손이 부족하니까 이런 저런 것을 덮어 놓는다.
+- keyword: professional. duty.
+- 말하는 방식: 완곡 - 어법.
+- accounting oneself - 자기 자신을 adress하는 방식의 이야기.
+- Countryside trip. - 여행과 성장. 집으로 돌아가기.
+- 늙은이, 노인의 여행. “내가 이 집 바깥을 나간다고…?” 내가 가야만 하는 이유를 스스로에게 설득하기. 그리고 가야겠다고 흥분함.
+- 자부심. 미국인 주인에 대한 비웃음. 하지만 주인에게 respectful함.
+- explaining oneself to oneself. clariyfying
+- adressing to someone whom the words ‘us’ can be used to communicate.
+- 이 이야기는 마치 ‘why?‘ 질문을 받은 사람이 답변을 주는 식이다.
+- class society and attire.
+- tone and manner. how he says? in what tone?
+- “I do not imagine that German bombs have altered our countryside so significantly…” - stevens의 인식
+- Bantering as 일치(배경지식, 문화, 감정의 일치) - 일치의 실패..
+- 집안에서 겪는 세계의 변화 - 미국의 침입. 옛날에 대한 향수. 프로페셔널 기준이 무너지고 있다는 인식, 소통할 만한 전문적 집사들의 사라짐.
+-

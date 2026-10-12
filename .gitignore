@@ -1,5 +1,4 @@
 ﻿# 업로드 제외 목록
-_원자료/
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .trash/

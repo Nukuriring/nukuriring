@@ -1,0 +1,787 @@
+---
+book: "Keynes, A Treatise on Probability (1921)"
+chapter: "Index"
+pages: "529–539"
+pdf_pages: "542–552"
+source: "John Maynard Keynes, A Treatise on Probability (London: Macmillan, 1921). Project Gutenberg eBook #32625 (LaTeX/PDF edition, 2014)"
+---
+# Index
+
+*This Index does not cover the Bibliography.* (색인의 숫자는 이 PDF에 인쇄된 쪽수이며, 각 챕터 파일의 {{p.N}} 표지와 대응한다. n. = 각주, f. = 이하)
+
+{{p.529}}
+
+- Acquaintance, direct, 11
+- Addition, of probabilities, 39, 148
+  - definition of, 131
+  - and measurement, 179
+  - Theorem of, 115, 132, 160
+- Analogy, principle of, 74
+  - and Bacon, 308
+  - and generalisation, 256
+  - and induction, 251, 255
+  - and Jevons, 313
+  - and Leibniz, 312
+  - logical foundation of, 296
+  - negative, 252, 256, 269, 474
+  - positive, 253, 256, 474
+  - and statistics, 445, 464, 474 f.
+- Ancillon, 4 n., 91
+- Apprehension, direct, and ethical judgment, 361
+- Argument, 13
+- Aristotle, 87, 102
+  - and induction, 315
+- Arithmetic mean (or average), 237
+  - Gauss on, 238
+  - Laplace on, 238
+  - and laws of error, 227
+- Astronomers and Least Squares, 243
+- Asymmetry, and Bernoulli’s Theorem, 407 f.
+- Atomic Uniformity, 286
+- Averages, 237 f.
+  - and discordant observations, 248
+  - weighting of, 244
+- Axioms, 148 f.
+  - non-self-evident, 342
+- Bachelier, 394 n.
+  - and Rule of Succession, 428 n.
+  - and statistical frequency, 396 n., 399
+- Bacon, 304 f.
+  - and limited variety, 310
+  - tables of, 309
+- Bayes, and Inverse Probability, 199
+  - Theorem of, 431
+- Belief, rational, 2 f., 8, 15, 350
+  - degrees of, 9
+- Bentham, measurement of Probability, 19
+- Bernoulli’s Theorem, 121, 359, 364 n., 377, 381 f.
+  - and asymmetry, 407 f.
+  - empirical verification of, 411 f.
+  - Inverse of, 419 f., 439 f.
+- Bernoulli, Daniel, and Inverse Probability, 199
+  - and Petersburg Paradox, 361, 362
+  - and planets, 334 n., 336
+- Bernoulli, Jac., 14 n., 43, 83, 89, 91, 95, 419, 420
+  - and regular frequency, 376
+  - second axiom of, 368
+  - and statistical series, 446
+  - weight of evidence, 357
+- Bertrand, 52 n., 54
+  - and Bernoulli’s Theorem, 384
+  - and chance, 324
+  - and independence, 198
+  - and Law of Error, 241 n.
+  - and Maxwell, 197 n.
+  - on multiplication, 149
+  - and Petersburg Paradox, 362
+
+{{p.530}}
+
+  - and Rule of Succession, 436
+- Bicquilley and testimony, 211 n.
+- Bobek and Rule of Succession, 436
+- Bode’s Law, 347
+- Boole, 46 n., 54 n., 92, 336 n.
+  - and approximation, 184
+  - and Challenge Problem, 215
+  - and combination of premisses, 206
+  - and Cournot, 324 n.
+  - and German logicians, 96
+  - and independence, 191
+  - and relation of Probability, 100
+  - and Rule of Succession, 436
+  - and symbolic probability, 177
+  - and testimony, 207
+  - and Whately, 206
+- Borel, 50 n., 52
+- Bortkiewicz, von, and great numbers, 376 n.
+  - and Law of Small Numbers, 457 f.
+  - and Lexis, 448 f.
+  - and Marbe, 415 n.
+  - method of, 437
+  - and Quetelet, 458
+- Boscovitch and Least Squares, 243
+- Bowley, 481, 484 f.
+- Bradley, 364 n.
+  - and Bernoulli’s Theorem, 387 n.
+  - and relativity of Probability, 101
+- Broad, C. D., 295 n.
+- Brömse and Marbe, 415 n.
+- Brünn and lotteries, 414
+- Bruns and Marbe, 415 n.
+- Buffon, 363, 368
+  - and coin-tossing, 411
+- Butler, Bishop, 86, 87, 353, 354
+  - and risk, 366
+- Calculus of Probability, 91 n., 168, 187, 346, 489
+  - and Psychical Research, 345
+  - and Sociology, 380
+- ‘Casual’, 329
+- Causality, 302, 317
+  - and independence, 187
+- ‘Cause’, 316
+- Cause, final, 339
+- Cayley, and tradition, 213
+  - and Challenge Problem, 214
+- Certainty, 9, 139, 141
+  - and Bacon, 307
+  - definition of, 131
+  - Kahle and, 99 n.
+  - and Leibniz, 313
+  - relation of, 147
+  - and truth, 14
+- Chance, objective, 321, 326 f., 337, 477
+  - and binary stars, 337
+  - Condorcet on, 324
+  - Couturat on, 323
+  - definition of, 327
+  - and planets, 334
+  - Poincaré on, 324, 330
+- Coefficient of Credibility, 210
+  - of Correlation, 481 f.
+- Combination of premisses, 168, 205
+- Comte
+  - and ‘seven’, 284
+  - and statistics, 379
+- Condorcet, 91 n., 362
+  - and chance, 322, 324
+  - and ethics, 358, 361
+  - and gambling, 365
+  - and testimony, 207
+- Conduct and Probability, 350
+- Consistence and group theory, 135
+- Contradiction, 159
+- Coover, J., 340 n.
+- Correlation, 373, 444
+
+{{p.531}}
+
+  - coefficient, 481 f.
+  - Inductive, 464
+  - Quantitative, 446, 487
+  - and statistical frequency, 375
+- Cournot, and frequency theory, 101
+  - and causality, 316
+  - and chance, 321, 323
+  - and independence, 190
+  - on testimony, 206
+- Couturat, 312 n., 355 n.
+- Craig and tradition, 211
+- Cramer and Petersburg Paradox, 363
+- Crofton, 50 n.
+- Cumulative Formula, 169
+  - Johnson and, 133
+- Czuber, 50 n., 85, 90, 96, 384 n., 391 n., 394
+  - and Bernoulli’s Theorem, 385 n.
+  - and ‘cause’, 316 n.
+  - and Inverse of Bernoulli’s Theorem, 422 n.
+  - and lotteries, 414
+  - and Marbe, 416
+  - and risk, 360 n.
+  - and Rule of Succession, 428 n., 436
+  - and statistical frequency, 399, 449
+  - and symbolic probability, 178
+  - and Tchebycheff’s Theorem, 401 n., 404 n.
+  - and verification of Bernoulli, 412 n.
+- D’Alembert, 91, 194 n., 367, 415 n., 421
+  - and chance, 322
+  - and ethics, 361
+  - and Marbe, 416
+  - and mathematical expectation, 359
+  - and Petersburg Paradox, 363
+  - and planets, 335
+- Darbon, A., and Cournot, 324
+- Darwin, 120
+  - and Lyell, 183
+  - and Mill, 305
+- De Morgan, 21, 81, 91
+  - and combination of premisses, 205
+  - and independence, 192
+  - and inference, 152
+  - and Inverse of Bernoulli’s Theorem, 421 n.
+  - and Inverse Probability, 204
+  - and planets, 335
+  - pupil of, 411
+  - and Rule of Succession, 427, 435
+  - and tradition, 211 n.
+- De Witt and arithmetic averages, 238
+- Dedekind and ‘Challenge Problem’, 215 n.
+- definition of, 255
+  - from statistics, 371
+- Definitions, 146 f.
+  - de la Placette, Jean, and chance, 323
+  - summary of, 131
+- Dice-tossing, 410 f.
+- Diderot on testimony, 210
+- Discordant observations, rejection of, 246
+- Donkin, W. F., 19
+  - and Inverse Probability, 201
+- Dormoy, 450
+- Edgeworth, 30 n., 92, 95, 411 n., 432, 456
+  - and ethics, 361
+  - and German statisticians, 450
+  - and Psychical Research, 341 n.
+  - and randomness, 332
+  - use of ‘Probability’, 107 n.
+- Eggenberger, 385 n.
+- Ellis, Leslie, 92, 93
+
+{{p.532}}
+
+  - and Bacon, 304, 305 n., 309 n., 311 n., 315 n.
+  - and Bernoulli’s Theorem, 386
+  - and frequency theory, 101
+  - and Least Squares, 239 n., 242
+- Empirical School, 93, 95
+- Epistemology, 345
+  - and inductive hypothesis, 301
+- Equiprobability, 44, 70, 71
+- Equivalence, definition of, 131, 146
+  - axiom of, 148
+  - principle of, 156
+- Error, probable, 373
+- Ethics, 350 f.
+- Euler and Least Squares, 243
+- Event, probability of, 4
+- Evidence, and measurement of Probability, 6, 37
+  - addition of, 71, 74
+  - external, 62
+  - independent and complementary, 60
+  - and Induction, 254
+  - relevant and irrelevant, 57, 59
+  - weight of, 77
+- Excluded Middle, Law of, 159
+- Experience and the Principle of
+  - Indifference, 110
+- Fechner, and median, 232
+  - and law of sensation, 240
+  - and lotteries, 414
+- Fermat, formula of, 278
+- Forbes, J. D., 19 n., 21, 336 n.
+- Frazer, Sir J., 282
+- Frequency curves, 231
+  - and statistics, 371
+- Frequency theory, 101 f.
+  - and Bernoulli’s Theorem, 390
+  - and randomness, 331
+  - and Rule of Succession, 431
+- Frequency, statistical, 374
+- Fresnel and simplicity, 238
+- Fries, 14 n.
+- Galton, 367
+  - and Fechner’s law, 241
+- Gambling, 365
+- Gauss, and laws of error, 226 n., 229
+  - and arithmetic mean, 238
+  - and Least Squares, 243
+- Generalisation, 444
+- Generator properties, 292
+  - plurality of, 292, 294, 295
+- Geometrical probability, 51, 68
+- German logicians, 96
+- Gibbon, 30, 368, 377
+- Gilman, B. I., and symbolic probability, 177
+- Goldschmidt, 30 n.
+- Goodness, organic nature of, 354
+- Graunt, 446 n.
+- Great Numbers, Law of, 90, 374, 376 f.
+- Grimsehl, 285 n.
+  - and Marbe, 415 n.
+- Groups, of propositions, 128, 135
+  - definition of, 131, 137
+  - real and hypothetical, 141
+- Grünbaum and Marbe, 415 n.
+- Hagen, and error, 239
+  - and discordant observations, 247 n.
+- Halley and mortality statistics, 375
+- Herodotus, 351
+- Herschell and binary stars, 336
+- Houdin, 414 n.
+- Hudson, W. H., and animism, 284 n.
+- Hume, 56, 77, 89, 91, 276, 488
+  - and analogy, 256, 258
+
+{{p.533}}
+
+  - and chance, 322
+  - and Induction, 251, 269, 305, 312
+  - and testimony, 210
+- Huyghens, 90
+  - and ‘six’, 284
+- Hypothesis, 7
+- Hypothetical entities, 341
+- Implication, 137
+- Impossibility, 15
+  - definition of, 131
+  - relation of, 147
+- Inconsistency, definition of, 131
+- Independence, for knowledge, 118, 188
+  - and averages, 245
+  - and chance, 323
+  - definition of, 131, 151
+  - and discordant observations, 247
+  - and law of error, 225
+  - and measurement, 236
+  - of events, 187
+  - Theorem of, 132, 163
+- Index numbers, 244
+- Induction, 107
+  - and frequency theory, 108, 109, 119
+  - and Logic, 250
+  - Principle of, 74
+  - pure, 251
+  - statistical, 464 f.
+  - and statistics, 371 f.
+  - universal, 253, 464, 477
+  - validity of, 254
+- ‘Induction’, 315
+- Inductive correlation, 253, 296, 447, 452, 464
+- Inductive hypothesis, 299, 304
+- Inductive method, 299
+- Inference, 141
+  - hypothetical and assertoric, 142
+  - necessary, 132, 153
+  - statistical, 371 f.
+- Insurance, 22, 326, 462
+- Intuition versus experience, 95
+  - and ethical judgment, 356
+- Inverse Probability, 167, 200
+  - and Bowley, 486
+  - and frequency theory, 118
+  - and statistics, 420, 421 n.
+  - Theorem of, 133
+  - and Venn, 111
+- Irrelevance, 294
+  - definition of, 60, 132, 152
+  - judgments of, 59
+  - Theorem of, 133, 164
+- James, W., and spirits, 344
+- Jesuits, 351
+- Jevons, 281 n.
+  - and analogy, 283
+  - and coin-tossing, 412
+  - and equiprobability, 46 n.
+  - and index numbers, 245
+  - and Induction, 255, 275, 280, 305, 314, 315
+  - and Inverse Probability, 205
+  - and Rule of Succession, 436
+- Johnson, W. E., 126
+  - and added evidence, 74
+  - and cumulative formula, 132, 168, 173, 176
+  - and groups, 135
+  - and propositions, 9 n.
+  - and testimony, 210
+- Judgments, 59
+  - direct, 76
+  - disjunctive, 84
+  - of preference and relevance, 71
+
+{{p.534}}
+
+- Kahle and the Probability relation, 99
+- Kant, 377
+  - and Hume, 313
+- Kapteyn, Prof. J. C.
+  - and law of error, 231
+- Knowledge, 9
+  - and chance, 330
+  - direct and indirect, 11, 301
+  - homologic and ontologic, 317, 329
+  - and ignorance, 321
+  - incomplete and proper, 12
+  - kinds of, 2
+  - of logical relations, 13
+  - probable and vague, 16
+  - relativity of, 16
+  - vague and distinct, 58
+- Kries, von, 44, 47–49 n., 54, 73 n., 92
+  - and Cournot, 324 n.
+  - and equiprobability, 96
+  - and independence, 198
+  - and Inverse Probability, 201
+  - and knowledge, 317
+  - and Principle of Indifference, 197
+  - and School of Lexis, 449
+- Lacroix, 211 n.
+- Lambert and Least Squares, 243
+- Lämmel, 50 n.
+  - and symbolic probability, 177
+- Laplace, 14 n., 29 n., 32, 90, 92, 363, 488
+  - and arithmetic mean, 239
+  - and Bayes’ Theorem, 433
+  - and Bernoulli’s Theorem, 386, 421
+  - and birth proportions, 414
+  - and chance, 322
+  - and doctrine of averages, 234
+  - and independence, 194
+  - and Induction, 254, 276, 305, 314
+  - and Inverse Probability, 200, 204
+  - and Least Squares, 243
+  - and planets, 335 n.
+  - and Quetelet, 378
+  - and relation of Probability, 101
+  - and Rule of Succession, 399 n., 408 n., 419
+  - school of, 47, 56, 95, 407, 416
+  - and statistical series, 447
+  - and testimony, 207, 210
+  - and unknown probabilities, 421
+- Laurent and gambling, 364
+- Law, 355 n.
+- Law of error, 224 f.
+  - and arithmetic mean, 227
+  - and geometric mean, 229
+  - Lexis and, 454
+  - and median, 231
+  - and mode, 235
+  - normal law, 230, 234, 238
+- Least Squares and Venn, 238
+  - method of, 234, 237, 238, 242
+- Lee and tradition, 211 n.
+- Legendre and Least Squares, 243
+- Leibniz, 24 n., 352, 419, 447, 488
+  - and arithmetic average, 238
+  - and Induction, 313
+- Lexis, and asymmetry of statistical frequency, 408 n.
+  - and Edgeworth, 457
+  - and Marbe, 415 n.
+  - method of, 437, 448 f., 452 f.
+  - and statistical stability, 474, 478 n.
+- Locke, 84, 88, 90, 91, 352, 369
+  - on tradition, 213
+  - and weight of evidence, 358
+- Logic, academic, 2
+  - and Induction, 250, 282
+  - and initial probability, 341
+  - of implication, 63
+  - of probability, 7
+
+{{p.535}}
+
+- Logical priority, 142
+- Lotteries, 376 n., 411, 414 f.
+  - published results of, 414
+- Lotze, 99
+  - and Rule of Succession, 436
+- Lucretius, 488
+- M’Alister, Sir Donald, and laws of error, 229
+- Macaulay and Bacon, 305
+- Macfarlane, and independence, 193 n.
+  - and ‘Challenge Problem’, 214 n.
+  - and tradition, 213
+- Maclaurin, Theorem of, 239
+- Marbe, Dr. Karl, and roulette, 415
+- Marginal utility, 364
+- Markoff, A. A., 203 n.
+  - and Inverse Probability, 201
+  - and Tchebycheff’s Theorem, 405
+- Mathematical Expectation, 356, 360, 362
+- Mathematicians, and probability, 92
+  - and cumulative formula, 172
+  - and ethics, 361
+  - and laws of error, 239
+- Maxim, Sir Hiram, 414 n.
+- Maxwell, 197 n.
+  - and theory of gases, 197
+- Mayer and Least Squares, 243
+- McColl, and symbolic probability, 176
+  - and Boole, 191 n.
+  - and ‘Challenge Problem’, 216 n.
+  - and Inverse Probability, 201
+- Means and laws of error, 224 f.
+- Measurement of Probability, 35, 179, 355
+  - and ethics, 355
+  - and frequency theory, 104
+  - and induction, 298, 442
+  - and psychical research, 345
+- Median and laws of error, 231
+- Meinong, 85
+- Meissner, Otto, and dice-throwing, 413
+- Memory, 13
+- Mendelism and statistics, 379, 478, 489
+- Merriman, Mansfield, and Least Squares, 242
+- Metaphysics and certainty, 275
+- Method of Difference, 283
+- Michell, 346
+  - and binary stars, 336
+  - and Inverse Probability, 200
+- Middle Term, Fallacy of, 74, 176
+- Mill, and inductive correlations, 253
+  - and induction, 304 f.
+  - and limited variety, 311
+  - methods of, 310
+  - and plurality of causes, 307 n.
+  - and probability, 308 n.
+  - and pure induction, 309
+- Modality and probability, 15 n.
+  - Venn and, 108
+- Mode, and law of error, 235
+  - asymmetry about, 410
+- Monte Carlo, 415
+- Moore, G. E., 18, 276 n., 353
+- Multiplication, 148
+  - definition of, 131
+  - of instances, 269 f.
+  - theorems of, 133, 166, 388
+- Munro, 421 n.
+- Necessary connection, law of, 288
+- Newton, and induction, 281
+  - and ‘seven’, 284
+  - and Bacon, 304
+- Nitsche, A., 48 n., 54 n., 85, 197 n.
+
+{{p.536}}
+
+- Occurrences, remarkable, 345
+- Pascal, 90
+- Pearson, Karl, 92, 399 n.
+  - and arithmetic mean, 240
+  - and asymmetry, 394, 408 n.
+  - and frequency theory, 110
+  - and generalised Probability curves, 394
+  - and roulette, 414
+  - and Rule of Succession, 431, 435
+  - and stars, 339
+- Peirce, 54 n., 347
+  - and randomness, 331
+- Petersburg Paradox, 362
+  - and Buffon, 411
+  - psychology of, 363
+- Peterson and tradition, 211
+- Physics and initial probability, 341
+- Planets, movements of, 334
+- Playfair, Dr. Lyon, 348
+- Plurality of causes and Mill, 307
+- Poetry and statistics, 457
+- Poincaré, Henri, 52, 92
+  - and chance, 324, 330
+  - and independence, 198
+- Poisson, 55 n., 411 n.
+  - and gambling, 365
+  - and great numbers, 377, 380
+  - and inverse of Bernoulli’s Theorem, 422
+  - and least errors, 240
+  - on testimony, 207
+  - and Petersburg Paradox, 362
+  - and statistical frequency, 395
+  - and Tchebycheff, 406
+  - Theorem of, 391
+- Poretzki, Platon S., and symbolic
+  - probability, 178
+- Port Royal logic, 76, 87, 367
+  - and probabilism, 352
+- Prediction, value of, 348
+- Price and Bayes, 199 n.
+- Primitive people and rational belief, 282
+- Principle of compelling reason, 96
+- Principle of Indifference, 45, 90, 91 f., 96, 115, 118, 196
+  - analysis of, 57
+  - and ethics, 354
+  - and induction, 109
+  - and Laplace, 423, 426
+  - and measurement, 182
+  - modification of, 60, 64
+  - and Psychical Research, 345
+  - and Rule of Succession, 430
+  - and statistics, 418
+- Principle of Non-Sufficient Reason, 44, 94
+- Principle of superposition of small
+  - effects, 286
+- Probabilism, 352
+- ‘Probability’, 7
+  - Edgeworth’s use of, 106 n.
+  - Venn’s use of, 105
+- Probability relation, 2, 7, 12, 146
+  - intuition of, 56
+- Probability, and relevant knowledge, 2
+  - and binary stars, 336
+  - comparison of, 35, 71, 182
+  - dependent on evidence, 6
+  - and ethics, 350
+  - and final causes, 339
+  - finite, 273
+  - from statistics, 417 f.
+  - ‘geometrical’, 50, 52, 68
+  - Inverse, 117, 167
+  - and law, 24
+  - mathematical, 5
+
+{{p.537}}
+
+  - measurement of, 19 f., 39
+  - negative, 152
+  - objective relation of, 4, 7, 321
+  - philosophical definition of, 7
+  - and planetary orbits, 334
+  - and randomness, 332
+  - and rational belief, 107
+  - series of, 37, 41
+  - and similarity, 29, 38
+  - and spirits, 342, 344
+  - and star drifts, 338
+  - and statistical frequency, 108
+  - and telepathy, 342
+  - three senses of, 9
+  - and truth, 126, 368
+  - and truth frequency, 111 f., 381 f.
+  - ‘unknown,’ and Laplace, 423
+- Probable error, 81
+- Proctor, 414 n.
+- Proposition, characterisation of, 2
+  - classes of, 111 f.
+  - disjunction and conjunction of, 146
+  - existential, 317
+  - groups of, 128, 135
+  - knowledge of, 11
+  - primary and secondary, 9, 12
+  - self-evident, 16
+  - subgroups of, 138, 141
+  - synthetic, 302
+- Propositional function, 61
+  - and induction, 255
+  - and randomness, 333
+- Psychical Research, 319 f.
+- Psychology and probability, 56
+- Pythagoras and ‘seven’, 283
+- Quetelet, 376 n., 378, 379, 458, 478, 488, 489
+  - and arithmetic mean, 241
+  - and balls, 412
+  - and statistical stability, 448
+- Randomness, 321, 331, 470
+  - Pearson’s use of, 340
+- Relation, of probability, 5
+  - of ‘between’, 37, 42
+- Relativity, of knowledge, 16
+  - doctrine of, and the Law of Uniformity, 285 n.
+  - of probabilities, 113
+- Relevance, judgments of, 59
+  - and frequency theory, 115
+  - theorems of, 165
+- Remarkableness, 345
+- Requirement, 142
+- Risk, 360
+  - and ethics, 358
+  - ‘moral’, 366, 368
+  - and Petersburg Paradox, 364
+  - ‘physical’, 368
+- Roulette, 410, 415
+  - published results of, 414 n.
+- Rule of Succession, 408 n., 419, 423, 426
+  - and frequency theory, 431
+  - and Pearson, 433 n.
+  - proof of, 428
+- Russell, Bertrand, 18, 126, 135 n., 138
+  - and implication, 135
+  - and inference, 128
+- Schematisation, 73
+- Schröder and symbolic probability, 178
+- Selection, random, 333
+- Series of probabilities, 37, 41
+  - and frequency theory, 102
+  - Gaussian, 481 n.
+  - independent, 323, 479
+
+{{p.538}}
+
+  - organic, 455, 479
+- Sigwart, 98
+  - and induction, 314
+  - and inverse probability, 205
+- Simmons and asymmetry in Bernoulli’s
+  - Theorem, 408
+- Simpson and Least Squares, 243
+- Small Numbers, Law of, 457 f.
+- Society for Psychical Research, 340 n.
+- Space, 294
+  - irrelevance of, 345
+  - and uniformity, 261
+- Spedding and Ellis and Bacon, 304, 305 n.
+- Spielräume, doctrine of, 97
+- Spinoza, 126 n., 321 n.
+- Spirits, probability of, 342
+- Star drifts, 339
+- Stars, binary, 336
+- Statistical frequency, theory of, 102 f.
+  - criticism of, 114
+  - fluctuation of, 446
+  - generalisation of, 111
+  - stability of, 380, 446–475
+- Statistical inference, 371 f.
+  - induction, 463 f.
+- Statistics, and prediction, 349
+  - descriptive and inductive, 371
+- Stumpf, 47 n., 54 n., 197 n.
+- Sub-analogies, 257, 264
+- Subgroups of propositions, 138, 141
+- Succession, Law of, 90
+- Süssmilch and regular frequencies, 376
+- Taylor, Jeremy, 351 n.
+- Tchebycheff
+  - and Poisson’s Theorem, 405
+- Tchebycheff, Theorem of, 401, 403
+- Telepathy, probability of, 342
+- Terrot, Bishop, 46 n.
+  - and combination of premisses, 205
+  - and Whately, 205 n.
+- Testimony, theory of, 206
+- Time, 294
+  - irrelevance of, 345
+  - and uniformity, 261
+- Todhunter, 336 n., 363 n., 421 n.
+  - and Bayes, 201
+  - and Bernoulli’s Theorem, 386 n.
+  - and Craig, 212
+  - and Petersburg Paradox, 362
+- Truth and probability, 126 n., 368
+- Truth frequency, 111, 464
+- Tschuprow, 407, 455 n.
+  - method of, 438
+  - and statistical frequency, 395, 449 n.
+- Uniformity of Nature, Law of, 260, 285, 293, 302, 317
+  - and Mill, 310
+- Universal Causation, Law of, 285
+- Universal Induction and statistical
+  - methods, 443, 463–477
+- Universe of reference, 128, 142, 143
+- Unknown probabilities, 423, 424, 428
+- Variables in Probability, 63, 134, 470 n.
+- Variety, 270
+  - and induction, 252
+  - limitation of, 297, 300, 489
+- Venn, 92, 117 n., 336 n.
+  - and Bernoulli, 95, 386
+  - and chance, 329
+  - and experience, 94
+  - and frequency theory, 103 f.
+  - and induction, 314
+  - and inverse probability, 111
+
+{{p.539}}
+
+  - and Least Squares, 239 n.
+  - and ‘random’, 331
+  - and Rule of Succession, 423, 431
+- Weight, of evidence, 356
+  - and ethics, 360
+- Weighting of averages, 244
+- Weldon and dice, 411
+- Whately and combination of misses, 204
+- Whitehead, and frequency theory
+  - and invalid inference, 373 n.
+- Whittaker, E. T., and Rule of Succession, 428 n.
+- Wilbraham, H., and Boole, 191 n.
+- Wolf and dice, 411
+- Yule, 396 n., 410 n.
+  - and approximation, 184
+  - and coin-tossing, 393 n., 411 n.
+  - and correlation, 481, 484
+  - and independence, 190
+  - and ‘statistics’, 371
+
+---
+
+> O False and treacherous Probability,
+> Enemy of truth, and friend to wickednesse;
+> With whose bleare eyes Opinion learnes to see,
+> Truth’s feeble party here, and barrennesse.
+> THE END
+> PRINTED BY R. & R. CLARK, LTD., EDINBURGH

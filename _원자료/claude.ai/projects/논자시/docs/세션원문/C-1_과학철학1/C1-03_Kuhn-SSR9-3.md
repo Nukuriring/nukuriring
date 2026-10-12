@@ -1,0 +1,85 @@
+# [C1-03] Kuhn, “The Nature and Necessity of Scientific Revolutions” (3/3) 비실질적 차이: 문제·기준의 변화
+
+| 항목 | 내용 |
+|---|---|
+| 문헌 | Thomas S. Kuhn, “The Nature and Necessity of Scientific Revolutions” (*The Structure of Scientific Revolutions* 9장, 3rd ed., 1996, pp. 92–110) |
+| 수록 | Curd, Cover & Pincock (eds.), *Philosophy of Science: The Central Issues*, 2nd ed. (Norton, 2013), ch. 2, pp. 79–93 |
+| 이 대목 | 비실질적 차이: 문제·기준의 변화 · 뉴턴 이후 과학의 문제·기준 변화, 패러다임의 규범적 기능, 공약불가능성 |
+| 쪽 | pp. 87–93 (C&C 2판 쪽수) |
+| 분량 | 약 2,300단어 · 멈춤 6곳 |
+| 순서 | 3개 대목 중 3번째 · 이전: C1-02 · 문헌 마지막 대목 |
+| 원문 파일 | NSJ/Philosophy of science the central issues Second Edition (Martin Curd , J. A. Cover etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf · PDF 111–117쪽 |
+
+> **표기 규약** · `[p. 257]`은 Curd & Cover 2판 257쪽이 시작되는 지점입니다. `⟦멈춤 n⟧`은 논증 단계가 바뀌는 자리로, 여기서 읽기를 멈추고 앞 단계를 자기 말로 재구성합니다. 해설은 넣지 않았습니다. 스캔본을 OCR로 읽은 텍스트라서 원주 번호가 기호나 숫자로 붙어 있고(예: `research.*`, `naming,’`), 원주와 편자 주는 `C1-Kuhn-SSR9_주석.md`에 모았습니다. OCR 오류는 확인한 범위에서 바로잡았으며, 인용하기 전에 의심스러운 곳은 원문 PDF와 대조합니다.
+
+---
+Let us, therefore, now take it for granted that the differences between successive paradigms are both necessary and irreconcilable. Can we then say more explicitly what sorts of differences these are? The most apparent type has already been illustrated repeatedly. Successive paradigms tell us different things about the population of the universe and about the population’s behavior. They differ, that is, about such questions as the existence of subatomic particles, the materiality of light, and the conservation of heat or of energy. These are the substantive differences between successive paradigms, and they require no further illustration. But paradigms differ in more than substance, for they are directed not only to nature but also back upon the science that produced them. They are the source of the methods, problem-field, and standards of solution accepted by any mature scientific community at any given time. As a result, the reception of a new paradigm often necessitates a redefinition of the corresponding science. Some old problems may be relegated to another science or declared entirely “unscientific.” Others that were previously non-existent or trivial may, with a new paradigm, become the very archetypes of significant scientific achievement. And as the problems change, so, often, does the standard that distinguishes a real scientific solution from a mere metaphysical speculation, word game, or mathematical play. The normal-scientific tradition that emerges from a [p. 88] scientific revolution is not only incompatible but often actually incommensurable with that which has gone before.
+
+
+**⟦멈춤 1⟧**
+
+The impact of Newton’s work upon the normal seventeenth-century tradition of scientific practice provides a striking example of these subtler effects of paradigm shift. Before Newton was born the “new science” of the century had at last succeeded in rejecting Aristotelian and scholastic explanations expressed in terms of the essences of material bodies. To say that a stone fell because its “nature” drove it toward the center of the universe had been made to look a mere tautological word-play, something it had not previously been. Henceforth the entire flux of sensory appearances, including color, taste, and even weight, was to be explained in terms of the size, shape, position, and motion of the elementary corpuscles of base matter. The attribution of other qualities to the elementary atoms was a resort to the occult and therefore out of bounds for science. Moliére caught the new spirit precisely when he ridiculed the doctor who explained opium’s efficacy as a soporific by attributing to it a dormitive potency.* During the last half of the seventeenth century many scientists preferred to say that the round shape of the opium particles enabled them to sooth the nerves about which they moved.’
+
+In an earlier period explanations in terms of occult qualities had been an integral part of productive scientific work. Nevertheless, the seventeenth century’s new commitment to mechanico-corpuscular explanation proved immensely fruitful for a number of sciences, ridding them of problems that had defied generally accepted solution and suggesting others to replace them. In dynamics, for example, Newton's three laws of motion are less a product of novel experiments than of the attempt to reinterpret well-known observations in terms of the motions and interactions of primary neutral corpuscles. Consider just one concrete illustration. Since neutral corpuscles could act on each other only by contact, the mechanico-corpuscular view of nature directed scientific attention to a brand-new subject of study, the alteration of particulate motions by collisions. Descartes announced the problem and provided its first putative solution. Huyghens, Wren, and Wallis [p. 89] carried it still further, partly by experimenting with colliding pendulum bobs, but mostly by applying previously well-known characteristics of motion to the new problem. And Newton embedded their results in his laws of motion. The equal “action” and “reaction” of the third law are the changes in quantity of motion experienced by the two parties to a collision. he same change of motion supplies the definition of dynamical force implicit in the second law. In this case, as in many others during the seventeenth century, the corpuscular paradigm bred both a new problem and a large part of that problem’s solution.°
+
+
+**⟦멈춤 2⟧**
+
+Yet, though much of Newton’s work was directed to problems and embodied standards derived from the mechanico-corpuscular world view, the effect of the paradigm that resulted from his work was a further and partially destructive change in the problems and standards legitimate for science. Gravity, interpreted as an innate attraction between every pair of particles of matter, was an occult quality in the same sense as the scholastics’ “tendency to fall” had been. Therefore, while the standards of corpuscularism remained in effect, the search for a mechanical explanation of gravity was one of the most challenging problems for those who accepted the Principia as paradigm. Newton devoted much attention to it and so did many of his eighteenth-century successors. The only apparent option was to reject Newton’s theory for its failure to explain gravity, and that alternative, too, was widely adopted. Yet neither of these views ultimately triumphed. Unable either to practice science without the Principia or to make that work conform to the corpuscular standards of the seventeenth century, scientists gradually accepted the view that gravity was indeed innate. By the mid-eighteenth century that interpretation had been almost universally accepted, and the result was a genuine reversion (which is not the same as a retrogression) to a scholastic standard. Innate attractions and repulsions joined size, shape, position, and motion as physically irreducible primary properties of matter.’
+
+The resulting change in the standards and problem-field of physical science was once again consequential. By the 1740's, for example, electricians could speak of the attractive “virtue” of the electric fluid without thereby inviting the ridicule that had greeted Moliére’s doctor a century before. As they did so, electrical phenomena increasingly displayed an order different from the one they had shown when viewed as the effects of a mechanical effluvium that could act only by contact. In particular, when electrical action-at-a-distance became a subject for study in its own right, the phenomenon we now call charging by induction could be recognized as one of its effects. Previously, when seen at all, it had been attributed to the direct action of electrical “atmospheres” or to the leakages inevitable in any electrical laboratory. The new view of inductive effects was, in turn, the key to Franklin’s analysis of the Leyden jar and thus to the emergence of a new and Newtonian paradigm for electricity. Nor were dynamics and electricity the only scientific fields affected by the legitimization of the search [p. 90] for forces innate to matter. The large body of eighteenth-century literature on chemical affinities and replacement series also derives from this supramechanical aspect of Newtonianism. Chemists who believed in these differential attractions between the various chemical species set up previously unimagined experiments and searched for new sorts of reactions. Without the data and the chemical concepts developed in that process, the later work of Lavoisier and, more particularly, of Dalton would be incomprehensible.>* Changes in the standards governing permissible problems, concepts, and explanations can transform a science. . . .
+
+
+**⟦멈춤 3⟧**
+
+Other examples of these nonsubstantive differences between successive paradigms can be retrieved from the history of any science in almost any period of its development. For the moment let us be content with just two other and far briefer illustrations. Before the chemical revolution, one of the acknowledged tasks of chemistry was to account for the qualities of chemical substances and for the changes these qualities underwent during chemical reactions. With the aid of a small number of elementary “principles” —of which phlogiston was one—the chemist was to explain why some substances are acidic, others metalline, combustible, and so forth. Some success in this direction had been achieved. We have already noted that phlogiston explained why the metals were so much alike, and we could have developed a similar argument for the acids. Lavoisier’s reform, however, ultimately did away with chemical “principles,” and thus ended by depriving chemistry of some actual and much potential explanatory power. To compensate for this loss, a change in standards was required. During much of the nineteenth century failure to explain the qualities of compounds was no indictment of a chemical theory.’
+
+Or again, Clerk Maxwell shared with other nineteenth-century proponents of the wave theory of light the conviction that light waves must be propagated through a material ether. Designing a mechanical medium to support such waves was a standard problem for many of his ablest contemporaries. His own theory, however, the electromagnetic theory of light, gave no account at all of a medium able to support light waves, and it clearly [p. 91] made such an account harder to provide than it had seemed before. Initially, Maxwell’s theory was widely rejected for those reasons. But, like Newton’s theory, Maxwell’s proved difficult to dispense with, and as it achieved the status of a paradigm, the community’s attitude toward it changed. In the early decades of the twentieth century Maxwell’s insistence upon the existence of a mechanical ether looked more and more like lip service, which it emphatically had not been, and the attempts to design such an ethereal medium were abandoned. Scientists no longer thought it unscientific to speak of an electrical “displacement” without specifying what was being displaced.* The result, again, was a new set of problems and standards, one which, in the event, had much to do with the emergence of relativity theory.!”
+
+
+**⟦멈춤 4⟧**
+
+These characteristic shifts in the scientific community’s conception of its legitimate problems and standards would have less significance to this essay’s thesis if one could suppose that they always occurred from some methodologically lower to some higher type. In that case their effects, too, would seem cumulative. No wonder that some historians have argued that the history of science records a continuing increase in the maturity and refinement of man’s conception of the nature of science.!! Yet the case for cumulative development of science’s problems and standards is even harder to make than the case for cumulation of theories. The attempt to explain gravity, though fruitfully abandoned by most eighteenth-century scientists, was not directed to an intrinsically illegitimate problem; the objections to innate forces were neither inherently unscientific nor metaphysical in some pejorative sense. There are no external standards to permit a judgment of that sort. What occurred was neither a decline nor a raising of standards, but simply a change demanded by the adoption of a new paradigm. Furthermore, [p. 92] that change has since been reversed and could be again. In the twentieth century Einstein succeeded in explaining gravitational attractions, and that explanation has returned science to a set of canons and problems that are, in this particular respect, more like those of Newton’s predecessors than of his successors. Or again, the development of quantum mechanics has reversed the methodological prohibition that originated in the chemical revolution. Chemists now attempt, and with great success, to explain the color, state of aggregation, and other qualities of the substances used and produced in their laboratories. A similar reversal may even be underway in electromagnetic theory. Space, in contemporary physics, is not the inert and homogeneous substratum employed in both Newton’s and Maxwell’s theories; some of its new properties are not unlike those once attributed to the ether; we may someday come to know what an electric displacement is.
+
+By shifting emphasis from the cognitive to the normative functions of paradigms, the preceding examples enlarge our understanding of the ways in which paradigms give form to the scientific life. Previously, we had principally examined the paradigm’s role as a vehicle for scientific theory. In that role it functions by telling the scientist about the entities that nature does and does not contain and about the ways in which those entities behave. That information provides a map whose details are elucidated by mature scientific research. And since nature is too complex and varied to be explored at random, that map is as essential as observation and experiment to science’s continuing development. Through the theories they embody, paradigms prove to be constitutive of the research activity. They are also, however, constitutive of science in other respects, and that is now the point. In particular, our most recent examples show that paradigms provide scientists not only with a map but also with some of the directions essential for map-making. In learning a paradigm the scientist acquires theory, methods, and standards together, usually in an inextricable mixture. Therefore, when paradigms change, there are usually significant shifts in the criteria determining the legitimacy both of problems and of proposed solutions.
+
+
+**⟦멈춤 5⟧**
+
+That observation returns us to the point from which this section began, for it provides our first explicit indication of why the choice between competing paradigms regularly raises questions that cannot be resolved by the criteria of normal science. To the extent, as significant as it is incomplete, that two scientific schools disagree about what is a problem and what a solution, they will inevitably talk through each other when debating the relative merits of their respective paradigms. In the partially circular arguments that regularly result, each paradigm will be shown to satisfy more or less the criteria that it dictates for itself and to fall short of a few of those dictated by its opponent. There are other reasons, too, for the incompleteness of logical contact that consistently characterizes paradigm debates. For example, since no paradigm ever solves all the problems it defines and since no two paradigms leave all the same problems unsolved, paradigm debates always involve the question: Which problems is it more significant to have solved? Like the [p. 93] issue of competing standards, that question of values can be answered only in terms of criteria that lie outside of normal science altogether, and it is that recourse to external criteria that most obviously makes paradigm debates revolutionary. . . .
+
+
+**⟦멈춤 6 · 대목 끝⟧**
+
+---
+
+## 관련 기출 (문헌 마지막 세션의 답안 연습용)
+
+출처: 서울대 철학과 논자시 <이론철학 2> 기출 원문입니다. 연도는 학년도-학기입니다.
+
+**2011-2 C-1**
+
+> ‘과학혁명에 대한 쿤(Thomas Kuhn)의 견해에 따르면 경쟁이론간의 비교는 불가능하다’는 비판이 나오게 된 이유와 이에 대한 쿤의 대응을 상술하고 이를 평가하시오.
+
+**2015-2 C-1**
+
+> ‘과학혁명에 대한 쿤(Thomas Kuhn)의 견해에 따르면 경쟁이론 간의 비교가 불가능하다’는 비판과 이에 대한 쿤의 대응 그리고 이 논쟁과 유관한 라우든(Larry Laudan)의 대안적 견해를 상술하면서 편들어 논하시오.
+
+**2018-2 C-1**
+
+> ‘혁명적 과학변동에 대한 쿤(Thomas Kuhn)의 견해에 의하면 과학자의 이론 선택은 합리성을 결여하게 된다’는 지적과 이에 대한 쿤의 해명 그리고 라우든(Larry Laudan)의 관련된 문제 제기 및 대안적 견해를 상술하면서 편들어 논하시오.
+
+**2020-2 C-1**
+
+> <과학혁명의 구조>의 9장(“과학혁명의 본성과 필연성”)에서 쿤(T. S. Kuhn)은 패러다임의 교체가 정치혁명과 유사한 의미에서 혁명이라고 주장한다. 정확히 어떠한 의미에서 패러다임 교체는 혁명적인 변화인가? 이에 관한 쿤의 견해를 서술하고, 그러한 견해의 함축을 고려하여 이에 대해 비판적으로 논하시오.
+
+**2021-2 C-1**
+
+> <과학혁명의 구조>의 9장(“과학혁명의 본성과 필연성”)에서 쿤(T. S. Kuhn)은 뉴턴 역학이 상대성 이론으로 환원된다는 입장을 비판하면서 두 이론이 공약불가능함을 주장한다. 그러한 주장의 명확한 의미와 근거를 검토하면서, 쿤의 주장을 비판적으로 논하시오.
+
+**2025-2 C-1**
+
+> 『과학혁명의 구조』의 9장(“The Nature and Necessity of Scientific
+> Revolution”)에서 쿤(T. S. Kuhn)은 뉴턴 역학이 상대성 이론으로 환원된다는
+> 입장을 비판하면서 두 이론이 공약불가능함을 주장한다. 그러한 주장의 명확한
+> 의미와 근거를 검토하면서, 쿤의 주장을 비판적으로 논하시오.

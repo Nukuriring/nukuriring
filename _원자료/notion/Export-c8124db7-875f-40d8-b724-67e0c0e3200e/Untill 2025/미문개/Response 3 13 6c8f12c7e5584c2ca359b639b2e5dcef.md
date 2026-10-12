@@ -1,0 +1,17 @@
+# Response 3.13
+
+(1)
+
+The tone and mood of these three texts can be described as dark, eerie, and unsettling. Throughout the stories, there is a pervasive sense of dread and impending doom, which is enhanced by the author's vivid descriptions of decaying mansions and their inhabitants (The Fall of the House of Usher), haunted forests and demonic communion held in the forest (Young Goodman Brown), and the narrator's desperate search for answers and resignation to his fate (The Raven).
+
+We need to clarify the terms used here. Firstly, terms such as ‘unsettling’ and ‘eerie’ are used to describe an object that causes a certain feeling in a subject. For example, we may call something ‘unsettling’ when it makes us feel anxious or uneasy. In contrast, the term ‘dark’ seems to be used in a different sense. Something could be ‘dark’ on its own, meaning that we may say something is dark without referring to a subject who feels or conceives it as dark. This difference, in my opinion, constitutes the difference between the so-called ‘tone’ and ‘mood’. When I ask ‘what is the tone of the text?’, I am asking how the narrative strategy or way of conveying the story ends up affecting your feelings. On the other hand, when I ask about the mood of the story, I am trying to figure out how the text renders the world through its unique perspective.
+
+(2)
+
+One scene that stands out to me is the end scene of “Young Goodman Brown”. When Goodman Brown wakes up, he is unsure if the events of the previous night were real or just a dream. Then, he finds a minister walking by him, and he almost automatically shrinks from him. This scene shows how the incident of the previous night changed Goodman Brown’s life. He is now unable to believe, love, or respect anyone in his town, including his wife, whom he now sees as tainted by evil.
+
+This scene stood out for me because it focuses on how Goodman's life was irreparably changed, rather than the truth of the previous night’s events in the woods. This ending scene shows how Goodman Brown is radically alienated from his own society, family, and religion. The story ends with Goodman Brown living the rest of his life in a state of spiritual despair and isolation.
+
+I believe what makes this story truly dreadful and terrifying for us is exactly this way of presenting the consequence of the demonic event that happened in the forest. Whether the event was real or not, last night’s event made Goodman Brown fail to see his fellow townspeople as ‘fellow’ or ‘companion’. He lost his community, his wife, and even himself in the course of participating in the ritual in the forest. The real tragedy comes into play here. His tragedy does not consist of perceiving his fellows as evil creatures. Rather, his tragedy comes from his failing to see, or failing to tell, who and what his townspeople really are. In other words, Goodman Brown’s life is destroyed not because he realized the true nature of his fellows, but because he reached a point where he cannot be certain of what his fellows really are.
+
+Therefore, I found the last scene of Young Goodman Brown significant because it points out that the destruction and devastation of Goodman Brown’s life was not caused by the realization of evil human nature. The last scene brings out the fact that the experience (or dream, vision, fantasy… whatever it is) of the previous night annihilated the intelligibility of his community, his wife, his religion, and even his own ‘forms of life’.

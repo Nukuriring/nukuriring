@@ -1,0 +1,27 @@
+# response
+
+로렌 올리미나는 불타는 마을에서 탈출하여 길거리를 떠돌다 폐허가 된 한 집의 차고에서 잠시 머물게 된다. 기진맥진한 그녀는 그곳에서 숨을 돌리고 잠시 휴식을 취하기로 결정한다. 잠시간의 휴식을 취하고 잠에서 깨어난 로렌은 집에 가야만 한다고 생각한다. 그녀는 돌아가고 싶지 않아하면서도 동시에 돌아가야만 한다고 느낀다. 불탄 마을을 생각하는 것만으로도 겁이 나 죽을 것 같고, 집이라는 단 한 단어를 쓰는 것도 버겁게 느끼지만 그럼에도 불구하고 그녀는 집으로 돌아가야만 한다는 의무를 느낀다. 그녀는 잠시 동네의 상황을 생각해본다. 얼굴에 색칠을 한 패거리들이 마을을 장악하고 있을지, 아니면 경찰들이 와서 상황을 정리하고 있을지 가늠해보며, 어느쪽이든 집으로 돌아가는 것이 현명한 선택이 아니라는 결론을 내린다. 그렇지만 그녀는 스스로에게 다짐한다. 뭐가 어떻게 되었든 상관없이, 자신이 직접 가서 확인해야만 한다고 결정한다.
+
+그녀가 자신이 직접 가서 확인해야만 한다고 느끼는 것은 이 자리에 앉아서는 그 어떤 것에도 확신할 수 없으며, 변화에 적응하기 위해서는 가장 먼저 현실을 직시하여 정확하게 파악하는 것이 필요하다는 것을 알기 때문인 것처럼 보인다. 
+
+그녀는 마을로 돌아가야겠다는 결정을 하기 전에 탈출 한 이후 식구들이 모일 곳을 미리 정해놓지 않은 것에 대해서 자책하는 모습을 보인다. 이 생각을 실천해야만 했지만, 끝까지 밀어붙이지 않았다는 것이다. 그녀는 자신의 이런 실책을 미숙한 하느님 빚기로, 예지가 부족한 것으로 간주한다. 이 미숙한 하느님 빚기란, 그리고 예지의 부족함이란 바로 지속 가능하지 않은 종류의 삶을 지속하려 노력하면서, 그 삶이 무너지게 되었을 때에 대비한 아무런 방비도 세워놓지 않은 것이다. 즉, 눈 앞에 닥쳐오는 임박한 재앙의 현실에 대해서 그저 불안해하며 그런 일이 생기진 않을것이라고 자신을 위로하는 종류의 자기-위로를 그녀는, 그리고 그녀의 아버지는 하고 있었던 것이다. 
+
+이런 자책에 바로 이어지는 것이 어떻게 되었든 상관없이 집으로 돌아가여 무슨 일이 일어났는지 직접 확인해야만 한다는 결심이라는 사실에 비춰보면, 그녀가 현실과 대면하고, 그에 맞춰 변화하기 위해 집으로 돌아가기를 결심하고 있다는 것을 우리는 추론해볼 수 있다. 그녀는 집에, 가족에, 그리고 마을에 무슨 일이 일어났을 지에 대해서 추론해보지만, 그 어떤 추론도 자신이 직접 확인해보기까지 확신할 수 없다는 것을 알고 있다. 지금의 재난이 어떤 의미에서 눈 앞에 임박한 현실에 대해서 직시하지 않으려는 공동체의 안일함 때문에 발생했다는 사실을 상기해보면, 그녀는 자신이 분명하게 무엇을 해야하는지 알고 있다. 아무리 끔찍한 현실이라고 하더라도, 그것이 그저 우리의 삶을 굴절시키는 공포나 두려움으로 남아 있지 않으려면 그것의 정체를 확인해야 한다. 더 이상 자신을 안전하게 지켜주던 공동체가 없다는 사실을, 그리고 자신이 정말로 돌아갈 곳 없이 온갖 위험이 넘쳐나는 거리에 덩그러니 남겨졌다는 사실을 그녀는 자신의 두 눈으로 직시해야만 하는 것이다.
+
+그렇다면 그녀가 집으로 돌아가서 한 것은 도대체 무엇인가? 그녀는 자신의 가족이 살던 집을 낯선 사람 다섯 명과 함께 약탈한다. 그녀는 자신의 집안을 약탈하는 자들을 보면서 구역질을 느끼면서도, 그들의 약탈에 합류한다. 그녀는 아버지의 물건들을 챙기고, 생존했을지도 모르는 가족들을 위해 옷가지를 챙긴다. 뒤뜰에 있던 채소들도 챙기고, 땅에 뭍어놓은 비상금도 챙긴다. 이렇게 그녀는 자신의 가족의 보금자리가 완전히 사라져 버렸다는 사실을 확인한다. 또한, 그녀는 자라에게서 자신의 가족들이 모두 살해당했다는 사실 역시 전해 듣는다. 원하든, 원하지 않았든 그녀의 삶은 변화해야만 하는 압박에 놓였다.  
+
+Lauren Olivemina escapes from the burning village and wanders the streets, eventually finding temporary shelter in a garage of a dilapidated house. Exhausted and worn out, she decides to catch her breath and rest for a while. After a brief period of respite, she awakens from her slumber and realizes she must go back home. Although the thought of the burnt village fills her with fear and dread, and even uttering the word "home" feels heavy, she feels an obligation to return.
+
+She contemplates the situation in the neighborhood for a moment, wondering if the painted vagabonds have taken control of the village or if the police have arrived to restore order. Regardless of the outcome, she concludes that going back home is not a wise choice. However, she makes a solemn pledge to herself that no matter what happened, she must go and see for herself.
+
+The feeling that she needs to personally go and see for herself stems from the realization that sitting in one place offers no certainty, and in order to adapt to change, she must first confront reality and grasp it accurately.
+
+Before making the decision to return to the village, she reproaches herself for not prearranging a meeting place with her family after the escape. It is something she should have put into practice but didn't persist until the end. She considers her own failure as a result of immature divine debts and a lack of foresight. These immature divine debts and lack of foresight refer to not setting up any precautions for a life that is unsustainable, persisting in a life that would eventually collapse. She and her father were engaged in a kind of self-soothing that reassured themselves that nothing like that would happen, simply being anxious and denying the impending reality of a disaster.
+
+This self-reproach leads to the decision to return home and personally verify what has happened, regardless of the circumstances. She ponders about her home, her family, and what might have occurred, but she knows that no matter how much she speculates, she cannot be certain until she sees it with her own eyes. Considering the fact that the current disaster arose from the complacency of a community that refused to confront the imminent reality, she knows what she must do. Even if the reality is terrifying, it cannot be left lingering as a source of fear or apprehension in their lives. She must confront its true nature. She is aware that there is no longer a community to protect her, and she finds herself alone in the streets filled with various dangers.
+
+So, what did she do when she returned home? She pillaged her own family's house along with five strangers. Although repulsed by the act of looting her own home, she joins in their looting. She gathers her father's belongings and collects clothes for the family members who may have survived. She also collects the vegetables from the backyard and retrieves the emergency fund buried in the ground. In this way, she confirms that her family's haven has completely vanished. Moreover, she learns from Zara that her family has all been killed. Whether she wants it or not, her life is now under pressure to change.
+
+I wondred why she feels some kind of obiligation to return to the town and see with her own eye what happened. I wanted to make sense, why she feels that she must go back.
+
+she concludes that going back home is not a wise choice. However, she makes a solemn pledge to herself that no matter what happened, she must go and see for herself.
