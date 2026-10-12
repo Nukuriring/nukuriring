@@ -1,0 +1,17 @@
+{
+  "id": "70a4",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "quam 비교에서 비교되는 두 항은 같은 격이고 quam에 최상급을 붙이면 가능한 한을 뜻한다", "label": "지지됨", "evidence": "비교되는 것은 같은 격이어야 한다 / Quam celerrime", "note": ""},
+    {"n": 1, "text": "quam은 than을 뜻한다", "label": "지지됨", "evidence": "quam = than", "note": ""},
+    {"n": 2, "text": "Numquam iuvenem fortiorem vidi quam Marcum에서 iuvenem과 Marcum은 모두 대격이다", "label": "부분 지지", "evidence": "예문과 '같은 격' 규칙은 24과에 있음", "note": "두 항이 대격이라는 분석은 필기에 없고 카드가 규칙을 예문에 대어 본 것(카드도 밝힘)"},
+    {"n": 3, "text": "24.3의 quaero maiorem navem quam hanc에서 navem과 hanc이 같은 대격이다", "label": "부분 지지", "evidence": "maiorem navem quearo quam hanc", "note": "격 분석은 필기에 없음. 필기의 철자는 quearo"},
+    {"n": 4, "text": "quam celerrime를 as quick as possible로, quam primum을 as soon as possible로 풀이한다", "label": "지지됨", "evidence": "Quam primum : as soon as possible", "note": ""},
+    {"n": 5, "text": "영진의 작문 25.3 답안도 cupio quam primum discedere를 쓴다", "label": "지지됨", "evidence": "cupio quam primum discedere", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/24과 a7b9df1c131947589726980e427f98ac.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/25과 fb33471ec7884b80ad4af71544794d0c.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/작문 11f0e7d5ccac4514bcd036b4906c468a.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

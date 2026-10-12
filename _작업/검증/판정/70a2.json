@@ -1,0 +1,16 @@
+{
+  "id": "70a2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "-er로 끝나는 형용사는 r을, -ilis로 끝나는 형용사는 l을 겹쳐 최상급을 만든다", "label": "지지됨", "evidence": "r로 끝나는 형용사들. 최상급을 만들 때 R을 하나더 추가", "note": "원문은 'r로 끝나는'이고 예는 celer, miser, pulcher"},
+    {"n": 1, "text": "예는 celer·celerior·celerrimus, miser·miserior·miserrimus, pulcher·pulchrior·pulcherrimus이다", "label": "지지됨", "evidence": "pulcher - pulchrior - pulcherrimus", "note": ""},
+    {"n": 2, "text": "-ilis형은 facilis·facilior·facillimus, difficilis·difficilior·difficillimus이다", "label": "지지됨", "evidence": "facilis - facilior - facillimus", "note": ""},
+    {"n": 3, "text": "두 경우 모두 비교급은 규칙적인 -ior이다", "label": "지지됨", "evidence": "celerior, miserior, facilior", "note": "pulchrior는 e 탈락형"},
+    {"n": 4, "text": "라틴어 본 페이지 정리표에는 pulchrrimus처럼 철자가 다르게 적힌 곳이 있어 25과의 표기를 따랐다", "label": "지지됨", "evidence": "pulchrior - pulchrrimus (본 페이지)", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/25과 fb33471ec7884b80ad4af71544794d0c.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어 52786f1e55fe4b2685de3b877427c467.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

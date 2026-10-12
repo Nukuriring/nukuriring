@@ -1,0 +1,16 @@
+{
+  "id": "70a3",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "비교급 부사는 형용사 비교급의 중성 대격이다", "label": "지지됨", "evidence": "비교급 형용사의 중성 대격이 비교급 부사로 쓰인다", "note": ""},
+    {"n": 1, "text": "최상급 부사는 최상급 형용사의 어미를 -e로 바꾼 형태이다", "label": "지지됨", "evidence": "어미를 -e로 바꾸어서 쓰인다", "note": ""},
+    {"n": 2, "text": "예는 fortiter·fortius·fortissime, lente, longe, bene·melius·optime, facile, misere 계열이다", "label": "지지됨", "evidence": "bene - Melius - Optime", "note": "25과는 fortiter를 'fortier'로 적었고 본 페이지는 fortiter"},
+    {"n": 3, "text": "불규칙 부사 비교로 multum·plus·plurimum, magnopere·magis·maxime, saepe·saepius·saepissime가 실려 있다", "label": "지지됨", "evidence": "magnopere - magis - maxime", "note": ""},
+    {"n": 4, "text": "diu의 비교급 diutius도 적혀 있으나 최상급은 철자가 어긋나 확인이 필요하다", "label": "지지됨", "evidence": "dius - diutius - diustissime", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/25과 fb33471ec7884b80ad4af71544794d0c.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어 52786f1e55fe4b2685de3b877427c467.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

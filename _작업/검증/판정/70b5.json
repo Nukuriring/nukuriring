@@ -1,0 +1,16 @@
+{
+  "id": "70b5",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "라틴어 명령법은 단수에 어간형을, 복수에 -te를 쓰고 복수 금지는 nolite와 부정사로 나타낸다", "label": "부분 지지", "evidence": "redite는 복수 명령형 / fugite, servate me", "note": "필기에 규칙 요약이 없고 예문 몇 개에서 카드가 일반화(카드도 밝힘)"},
+    {"n": 1, "text": "fer는 fero의 명령형, fac은 facio의 단수 명령형, redite는 redeo의 복수 명령형이라고 필기에 적혀 있다", "label": "지지됨", "evidence": "fer: fero의 명령형 / redite는 복수 명령형", "note": ""},
+    {"n": 2, "text": "deprehende illum furem, veni mecum, mane hic는 단수 명령이다", "label": "부분 지지", "evidence": "deprehende illum furem", "note": "문장은 있으나 단수 명령이라는 분류는 필기에 없음"},
+    {"n": 3, "text": "fugite, naves e periculo eripite, servate me, accipite me, currite ad naves, festinate는 복수 명령이다", "label": "부분 지지", "evidence": "currite ad naves, festinate", "note": "문장은 있으나 복수 명령 분류는 필기에 없음"},
+    {"n": 4, "text": "금지는 nolite에 부정사를 붙이며 23.3의 nolite, pueri, totam urbem tantis clamoribus excitare와 nolite me Cyclopibus tradere가 예이다", "label": "지지됨", "evidence": "nolite me cyclopobus tradere", "note": "필기 철자는 cyclopobus. 금지 구문이라는 분류는 카드의 해석"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/23과 d564da1b1e374a63b6d825c4f3d244bc.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/25과 fb33471ec7884b80ad4af71544794d0c.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/Latin 8f6d1e07add64e52a2b9918e413a0d39.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

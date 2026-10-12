@@ -1,0 +1,16 @@
+{
+  "id": "70a1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "bonus, malus, magnus, multus, parvus는 다른 어간으로 비교급과 최상급을 만든다", "label": "지지됨", "evidence": "bonus - melior - optimus", "note": ""},
+    {"n": 1, "text": "malus는 peior, pessimus, magnus는 maior, maximus, multus는 plus, plurimus, parvus는 minor, minimus이다", "label": "지지됨", "evidence": "parvus - minor - minimus", "note": ""},
+    {"n": 2, "text": "plus는 단수에서 명사로 쓰이는 중성이고 plus, pluris, pluri, plus, plure로 변한다", "label": "지지됨", "evidence": "plus는 단수에서 중성 명사 (본 페이지)", "note": "24과는 '명사'만, '중성'은 라틴어 본 페이지에 있음"},
+    {"n": 3, "text": "복수에서는 3변화 형용사처럼 plures와 plura, 속격 plurium, 여격과 탈격 pluribus로 변한다", "label": "지지됨", "evidence": "복수에서는 3변화 형용사", "note": ""},
+    {"n": 4, "text": "필기는 이 다섯 줄을 원형, 비교급, 최상급의 세 묶음으로도 따로 적었다", "label": "지지됨", "evidence": "bonus, malus, magnus, parvus, multus / melior…", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/24과 a7b9df1c131947589726980e427f98ac.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어 52786f1e55fe4b2685de3b877427c467.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

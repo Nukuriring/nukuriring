@@ -1,0 +1,17 @@
+{
+  "id": "32d",
+  "voice": "문헌",
+  "verdict": "원문없음",
+  "claims": [
+    {"n": 0, "text": "가우스와 스래셔에 따르면 머니펌프 논증은 이행성을 미리 전제한다", "label": "지지됨", "evidence": "책소개: 머니펌프 논증이 사실은 이행성을 미리 전제한다고 지적", "note": ""},
+    {"n": 1, "text": "가우스와 스래셔는 2장에서 선호와 단순히 좋아함을 구분하고, 순환하는 선호를 가진 사람에게서 돈을 끝없이 뽑아낼 수 있다는 머니펌프 논증을 검토한다", "label": "지지됨", "evidence": "책소개: 선호와 '좋아함'을 구분하고, 순환하는 선호를", "note": ""},
+    {"n": 2, "text": "이 논증은 통상 순환하는 선호가 비합리적임을 보이는 논증으로 쓰인다", "label": "원문에 없음", "evidence": "", "note": "카드가 '위키 밖의 일반 지식'이라고 스스로 밝힘. 책소개에는 이 논증의 통상 용도를 말하는 문장이 없음"},
+    {"n": 3, "text": "이 논증이 실제로 드러내는 바는 우리가 이행성에 깊이 헌신하고 있다는 사실이다(\"What it really shows is that we are deeply committed to transitivity.\", p. 49)", "label": "지지됨", "evidence": "What it really shows is that *we* are deeply committed to transitivity.", "note": "인용문이 원자료와 일치(강조 표시만 다름). 쪽수는 책소개 기준"},
+    {"n": 4, "text": "이행성을 합리적 행위자 개념을 구성하는 조건으로 보는 이 입장은 구조적 합리성의 규범성을 둘러싼 논쟁과 맞닿는다고 책 소개 글은 짚는다", "label": "지지됨", "evidence": "책소개: 구조적 합리성의 규범성을 둘러싼 논쟁과 바로 맞닿는다", "note": ""},
+    {"n": 5, "text": "이 카드는 2장의 정리글이 없어 책 소개 글의 요약만 근거로 하며 논증의 세부 단계는 확인하지 못했다", "label": "연결", "evidence": "", "note": "카드 자신의 근거 한계 표시. 2장 정리글·source_md는 보관함에 없고 판정도 책소개 요약에만 근거함"}
+  ],
+  "sources_used": ["_원자료/로컬/Macro/GausThrasher2021_Philosophy-Politics-Economics/00_책소개.md"],
+  "sources_missing": ["2장 본문(source_md)과 2장 정리글은 보관함에 없음"],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

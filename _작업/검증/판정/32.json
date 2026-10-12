@@ -1,0 +1,19 @@
+{
+  "id": "32",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "가우스와 스래셔는 합리성의 일반 개념 위에 호모 에코노미쿠스 모형을 세운다", "label": "지지됨", "evidence": "1장 정리: 일반 개념에 다섯 가지 형식적 특성을 더한 모형", "note": ""},
+    {"n": 1, "text": "두 저자는 철학·정치학·경제학이 만나는 자리에 합리적 선택과 합리적 믿음이 인간 행동을 설명·정당화하는 방식에 대한 관심이 있다고 본다", "label": "지지됨", "evidence": "서론 정리: 합리성을 이해하려는 관심 … 설명하고 정당화", "note": ""},
+    {"n": 2, "text": "이 관심을 가장 정교하게 다듬은 학문이 경제학이므로 경제학의 합리적 선택 모형을 책 전체의 기초로 삼는다", "label": "지지됨", "evidence": "서론 정리: 경제학이 … 가장 정교하고 우아한 모형", "note": ""},
+    {"n": 3, "text": "모형은 한 사람의 선택에서 서로를 의식하는 전략적 선택으로, 사회의 집합적 선택으로 넓어지고 책의 아홉 장도 이 순서를 따른다", "label": "지지됨", "evidence": "00_책소개: 책의 아홉 장도 정확히 이 순서를 따른다", "note": ""},
+    {"n": 4, "text": "1장은 합리성 개념을 먼저 세우고 최적화, 한계가치 체감, 수요 법칙, 자기 이익, 제약하의 극대화를 더해 호모 에코노미쿠스를 만든다", "label": "지지됨", "evidence": "1장 읽기 전에: 다섯 가지 형식적 특성을 더한 모형", "note": ""},
+    {"n": 5, "text": "이 모형은 비판자와 지지자가 생각하는 것보다 정교하고 다양한 목표를 담을 만큼 일반적이어서 그 자체로 이기적이거나 탐욕스러운 소비자를 뜻하지 않는다", "label": "지지됨", "evidence": "서론 정리: 이기심을 함축하지 않는다고 주장한다", "note": ""},
+    {"n": 6, "text": "경제적 합리성 모형을 이해하지 않고는 훌륭한 도덕철학자나 정치철학자가 되기 어렵다고 본다(인용 p. 3)", "label": "지지됨", "evidence": "We do not believe that one can be a good moral or political philosopher …", "note": "인용문이 원자료와 일치"},
+    {"n": 7, "text": "이 줄기는 1장의 합리성 논증, 9장의 공공선택과 존슨의 정치 시장, 같은 논리를 쓴 경매와 가격 모형을 차례로 정리한다", "label": "연결", "evidence": "", "note": "카드군의 구성 안내이며 출처 명제가 아님. 경매·가격 모형은 이 판정의 출처 범위 밖"}
+  ],
+  "sources_used": ["_원자료/로컬/Macro/GausThrasher2021_Philosophy-Politics-Economics/summaries/ch00_정리_서문과-서론-PPE와-호모-에코노미쿠스.md", "_원자료/로컬/Macro/GausThrasher2021_Philosophy-Politics-Economics/00_책소개.md", "_원자료/로컬/Macro/GausThrasher2021_Philosophy-Politics-Economics/summaries/ch01_정리_합리성.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "70a",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "라틴어 형용사는 어간에 -ior를 붙여 비교급을, -issimus를 붙여 최상급을 만든다", "label": "지지됨", "evidence": "-us - -ior, -issimus / fortis fortior fortissimus", "note": ""},
+    {"n": 1, "text": "필기의 예는 fortis, laetus, gravis, ingens, altus의 세 형태이다", "label": "지지됨", "evidence": "laetus -laetior, laetissimus", "note": ""},
+    {"n": 2, "text": "비교급은 남성·여성 fortior와 중성 fortius로 나뉘며 속격 fortioris, 여격 fortiori, 대격 fortiorem·fortius, 탈격 fortiore이다", "label": "지지됨", "evidence": "fortior fortius / fortioris / fortiorem fortius", "note": "격 이름은 표 순서에서 읽은 것"},
+    {"n": 3, "text": "복수는 주격 fortiores·fortiora, 속격 fortiorum, 여격과 탈격 fortioribus이다", "label": "지지됨", "evidence": "fortiores fortiora / fortiorum / fortioribus", "note": ""},
+    {"n": 4, "text": "최상급은 bonus, bona, bonum처럼 변한다", "label": "지지됨", "evidence": "최상급은 보누스 보나 보눔처럼 변한다", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/24과 a7b9df1c131947589726980e427f98ac.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

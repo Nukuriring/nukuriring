@@ -1,0 +1,17 @@
+{
+  "id": "70b",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "라틴어 완료 계열 시제는 세 번째 주요형인 완료 어간에서 만들므로 동사마다 세 형태를 외워야 한다", "label": "부분 지지", "evidence": "capio capere cepi / perfect stem + (ero…)", "note": "필기는 세 형태를 적고 미래완료가 perfect stem에서 만들어진다고만 적음. '세 번째 주요형', '외워야 한다'는 필기에 없는 일반화"},
+    {"n": 1, "text": "시제 정리는 직설법의 현재, 미완료, 완료, 미래, 과거완료, 미래완료를 나열하고 sum esse fui와 possum posse potui를 본보기로 든다", "label": "지지됨", "evidence": "현재 임퍼펙트 퍼펙트 퓨처 플루퍼펙트 퓨처퍼펙트", "note": ""},
+    {"n": 2, "text": "23.1과 23.5 연습은 동사를 현재 1인칭, 부정사, 완료 1인칭의 세 형태로 적게 한다", "label": "지지됨", "evidence": "aperio - aperire - aperui / capio capere cepi", "note": "'적게 한다'는 연습 형식을 필기에서 읽은 것"},
+    {"n": 3, "text": "예는 capio, facio, fero, pono, peto, quaero, frango, maneo, trado의 세 형태이다", "label": "지지됨", "evidence": "trado - tradere - tradidi", "note": "ferre tuli와 ponere posui는 25.4, peto petere petivi는 23.1에 있음"},
+    {"n": 4, "text": "완료 어간은 fero의 tuli나 frango의 fregi처럼 현재 어간과 달라질 수 있다", "label": "부분 지지", "evidence": "fero ferre tuli / frango frangere fregi", "note": "형태는 있으나 '어간이 달라진다'는 서술은 카드의 해석"},
+    {"n": 5, "text": "완료와 과거완료와 미래완료는 모두 이 어간에 어미를 붙여 만든다", "label": "부분 지지", "evidence": "perfect stem + (ero, eris, erit…)", "note": "미래완료만 명시, 완료·과거완료는 예에서 읽은 것"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/23과 d564da1b1e374a63b6d825c4f3d244bc.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어 52786f1e55fe4b2685de3b877427c467.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/25과 fb33471ec7884b80ad4af71544794d0c.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/27과 463b437384774cb6987bb0d998bb6244.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

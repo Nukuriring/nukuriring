@@ -1,0 +1,16 @@
+{
+  "id": "70b3",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "라틴어 미래시제는 1·2변화에서 -bo 계열, 3·4변화에서 -am 계열 어미를 취한다", "label": "지지됨", "evidence": "1,2 변화 bo, bis, bit… 3,4 변화 am, es, et", "note": ""},
+    {"n": 1, "text": "paro와 moneo의 미래는 parabo…parabunt, monebo…monebunt이다", "label": "지지됨", "evidence": "monebo, monebis, monebit, monebimus", "note": "필기는 parbis로 오기"},
+    {"n": 2, "text": "rego, audio, capio의 미래는 regam…regent, audiam…audient, capiam…capient이다", "label": "지지됨", "evidence": "capiam, capies, capiet, capiemus", "note": ""},
+    {"n": 3, "text": "27.1 연습에서 dicunt·mittit(현재)와 dicent·mittet(미래)을 나란히 식별하게 한다", "label": "지지됨", "evidence": "dicent - pl,3 / dicunt - pl,3 pre.", "note": "mittit은 단수 3인칭. '어미 모음으로만 갈린다'는 관찰은 카드의 서술"},
+    {"n": 4, "text": "sum의 미래 eris와 possum의 미래 poterit도 같은 연습에 나온다", "label": "지지됨", "evidence": "eris - f.s.2. / poterit - f.s.3", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/27과 463b437384774cb6987bb0d998bb6244.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

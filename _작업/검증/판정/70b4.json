@@ -1,0 +1,17 @@
+{
+  "id": "70b4",
+  "voice": "문헌",
+  "verdict": "원문없음",
+  "claims": [
+    {"n": 0, "text": "라틴어는 미래보다 앞서 끝나는 일을 cum이나 si 절에 미래완료로 쓴다", "label": "원문에 없음", "evidence": "", "note": "예문의 cum/si 절은 있으나 '미래보다 앞서 끝나는 일'이라는 용법 설명은 필기에 없음"},
+    {"n": 1, "text": "미래완료는 완료 어간에 ero, eris, erit, erimus, eritis, erint를 붙여 만든다", "label": "지지됨", "evidence": "perfect stem + (ero, eris, erit, erimus…)", "note": ""},
+    {"n": 2, "text": "27.6 연습문의 Cum advenerimus Romam…, Cum Quintus navigaverit…, Si statim Roma discessero…, Cum te videro…, Si Antonius excitaverit…는 미래완료 종속절에 미래 주절이다", "label": "부분 지지", "evidence": "Cum advenerimus Romam, sine mora epistolam tibi mittam", "note": "문장은 모두 있음. 종속절=미래완료, 주절=미래라는 분석은 필기에 없음"},
+    {"n": 3, "text": "Latin 페이지 프시케 본문 si me in luce videris, numquam ad te redibo도 같은 짜임이다", "label": "지지됨", "evidence": "si me in luce videris, numquam ad te redibo", "note": "같은 짜임이라는 분석은 카드의 해석"},
+    {"n": 4, "text": "27.4의 한국어 번역은 '아테네에 도착하게 되었을 때', '집으로 돌아가게 될 때'처럼 옮겼다", "label": "지지됨", "evidence": "아테네에 도착을 하게 되었을 때", "note": ""},
+    {"n": 5, "text": "필기는 27.6 첫 문장 풀이에 mittere가 여격을 받는다는 메모(send + dative)를 달았다", "label": "지지됨", "evidence": "send + dative", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/27과 463b437384774cb6987bb0d998bb6244.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/Latin 8f6d1e07add64e52a2b9918e413a0d39.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

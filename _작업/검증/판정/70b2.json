@@ -1,0 +1,17 @@
+{
+  "id": "70b2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "라틴어 현재분사는 -ns로 끝나고 어간은 -nt-이며 eo는 euntis로 변한다", "label": "지지됨", "evidence": "except) eo → iens, euntis, eunti", "note": "-ns, -nt-는 표 형태에서 읽은 것"},
+    {"n": 1, "text": "paro에서 parans, parantis, parante, moneo에서 monens, monentis, monente가 나온다", "label": "지지됨", "evidence": "paro → parans, parantis .. parante", "note": ""},
+    {"n": 2, "text": "rego는 regens·regentis, audio는 audiens·audientis, capio는 capiens·capientis이다", "label": "지지됨", "evidence": "Capio → Capiens, capientis", "note": ""},
+    {"n": 3, "text": "eo는 iens, euntis, eunti, euntem, eunte로 변한다", "label": "지지됨", "evidence": "iens, euntis, eunti, euntem, eunte", "note": ""},
+    {"n": 4, "text": "26.3 연습의 sedentes, sedentem, dicenti, roganti, currentem은 격에 따라 어미가 달라지는 분사를 알아보게 하는 문제이다", "label": "지지됨", "evidence": "sedentes / dicenti / roganti / currentem", "note": "연습의 목적은 카드의 해석"},
+    {"n": 5, "text": "26.1과 26.2의 번역문은 학교로 서두르는 퀸투스, 서커스로 모이는 사람들처럼 분사가 명사를 꾸미는 문장을 다룬다", "label": "지지됨", "evidence": "학교로 서두르는 퀸투스는 광장을 가로질렀다", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/26과 27bbf91813c441d68173c1d38b29925a.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

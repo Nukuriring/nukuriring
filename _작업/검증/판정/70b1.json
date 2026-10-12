@@ -1,0 +1,16 @@
+{
+  "id": "70b1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "완료는 완료 어간에 -i, -isti, -it 계열 어미를, 과거완료는 -eram 계열 어미를 붙인다", "label": "지지됨", "evidence": "pluperfect: feceram, feceratis fecerat", "note": "완료 어미는 필기에 표가 없고 예에서 읽은 것(카드도 밝힘)"},
+    {"n": 1, "text": "완료 1인칭 -i(cepi, quaesivi), 2인칭 -isti(tulisti, fregisti, arcessivisti), 3인칭 -it(cupivit, aperuit), 1복 -imus(quaesivimus), 3복 -erunt(posuerunt)", "label": "지지됨", "evidence": "quaesivimus: quaero - quaerere -quaesivi", "note": "각 인칭 표기는 23.1과 23.5에 있음"},
+    {"n": 2, "text": "필기는 facio의 과거완료로 feceram, feceratis, fecerat를 적고 fugerant, tulerat, petiverat, siveramus를 연습 답으로 싣는다", "label": "지지됨", "evidence": "feceratis: facio -facere - feci", "note": ""},
+    {"n": 3, "text": "23.5는 현재문을 완료문으로 바꾸게 하며 aperit→aperuit, aquam fero→aquam tuli, urnam frangis→urnam fregisti, domi manent→domi manserunt이다", "label": "지지됨", "evidence": "ianuam aperuit; 그가 문을 열었다", "note": ""},
+    {"n": 4, "text": "같은 목록에 미완료 iaciebat도 들어 있어 어미로 시제를 구별하는 연습을 겸한다", "label": "지지됨", "evidence": "iaciebat: iacio의 imperfect 3인칭 단수", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/23과 d564da1b1e374a63b6d825c4f3d244bc.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}
