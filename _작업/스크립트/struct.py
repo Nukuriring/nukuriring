@@ -53,11 +53,13 @@ open(os.path.join(V, '_작업', '번호표.md'), 'w', encoding='utf-8').write('\
 names = {f[:-3] for dp, _, fs in os.walk(V) for f in fs if f.endswith('.md')}
 paths = {os.path.relpath(os.path.join(dp, f), V)[:-3].replace(os.sep, '/') for dp, _, fs in os.walk(V) for f in fs if f.endswith('.md')}
 bad = []
+skip_raw = not os.path.isdir(os.path.join(V, '_원자료'))  # 원자료 없는 사본(클라우드)에서는 원자료 링크를 검사하지 않는다
 for d in ['영구', '문헌', '구조']:
     for f in os.listdir(os.path.join(V, d)):
         if not f.endswith('.md'): continue
         for l in re.findall(r'\[\[([^\]|#]+)', open(os.path.join(V, d, f), encoding='utf-8').read()):
             l = l.strip().rstrip('\\')
+            if skip_raw and l.startswith('_원자료/'): continue
             if l and l not in names and l not in paths: bad.append((d, f[:25], l))
 print('cards', len(cards), 'dangling', len(bad))
 for b in bad[:60]: print('  ', b)
