@@ -1,0 +1,53 @@
+- 증언(testimony), 증언 인식론(epistemology of testimony): {14}, {37}
+- 환원주의(reductionism), 비환원주의(non-reductionism): {14a}, {36}
+- 증언의 정의(래키, Lackey), 증언적 지식: {14a1}
+- 인식론적 개인주의와 사회 인식론: {14a2}, {14d5}
+- 흄(Hume)의 증언론, 항상적 결합(constant conjunction): {14b}, {36a}
+- 흄의 기적론(Of Miracles): {37a1}, {15f1b}
+- 전역 환원주의(global reductionism)와 국지 환원주의(local reductionism): {14b1}, {15}
+- 환원의 강도와 층위, 발생론적 환원주의: {36b2}, {36b3}
+- 원천 기반 정당화 정의, 갖게 됨과 형성: {36c}, {36c1}
+- 코디(Coady)의 딜레마, 개인 관찰과 공동 경험: {14c}, {36d}, {37a}
+- 환원주의 테제(Reductionist Thesis, RT): {14c}, {37a}
+- 순환과 악순환(vicious circularity): {14c1}, {37a2}, {37d1b}
+- 형성 불가: {36d2}, {36d2a}
+- 보고의 종류(kind of report): {14c3}
+- 화성인 사고실험, 무상관(no-correlation): {14d}, {14d1}
+- 유사문제(pseudo-problem): {14d3}
+- 자율적 지식(autonomous knowledge), 통제적 지성: {14d5}
+- 성공 문법(success grammar), learn: {14e}
+- 직접 지식으로서의 증언 지식: {14e1}
+- 대칭 논증, 지각과 증언의 유비: {14e1a}, {36e}
+- 자아중심적 전제(egocentric premiss): {14e3}
+- 사전 검증 요구, 피장파장(tu quoque): {36e}, {36e2}
+- 직접성과 다리 전제: {36e3}
+- 진실성 원리(principle of veracity), 경신성 원리(principle of credulity): {14f}
+- 리드(Reid)의 원초지각과 자연언어: {14f3}
+- 리드 증언론의 수용사, 개혁주의 인식론(Reformed Epistemology): {14f5}
+- 일견 정당성(prima facie justification), 기본 권리(default entitlement): {36f}
+- 반 클리브(Van Cleve), 실용적 정당화: {14g}, {14g2}
+- 폴록(Pollock)의 선천성 요구, 의미론적 순환: {14g1}
+- 버지(Burge)의 선험적 일견 자격: {14h}, {14h1}
+- 지연된 지시(deferred ostension): {14h2}
+- 보존 기억(preservative memory): {14h3}
+- 프리커(Fricker)의 국소 환원주의: {15}, {15h}
+- 포괄적 일반화(blanket generalisation): {15a1}, {37d}
+- 신빙성(trustworthiness), 진실성(sincerity)과 유능성(competence): {15b}, {15b2}
+- 상식 심리학(commonsense psychology), 인격 이론(person-theory): {15b1}, {15e2a}
+- 기본값 테제(default-position thesis): {15b3}
+- 추정적 권리(presumptive right, PR): {37c}, {15c}
+- PR 논제와 단순 방어(simple defence): {37c1}
+- 부정 주장(Negative Claim, NC), 초월론적 논증(transcendental argument): {15c}, {37c3}
+- 기술적 전제(descriptive premise): {37c2}
+- 화자 일반의 신빙성과 한 화자의 신빙성: {37d}, {37d1}
+- 허수아비 공격(straw man): {37d3}
+- 기원적 의존(genetic dependence): {15e1}
+- 절단(Fricker의 cut): {15e2}, {15e2b}
+- 부류 단위 귀납, 부류 식별: {15d2}, {37b}
+- 화자 부류 귀속과 후퇴(regress): {37b1}, {37b1b}
+- 지각적 식별과 사회적 부류: {37b1c}, {37b1d}
+- 겔퍼트(Gelfert)의 흄 해석, 경험의 풀링(pooling): {15f1}, {15f2}
+- 더밋(Dummett)의 설득적 정당화와 설명적 정당화: {15g}, {15g2}
+- 수용 원리(Acceptance Principle, AP): {15g1}
+- 언어 습득기 아이의 사례: {36g1}, {37a4}
+- 신빙성 판별의 토대: {36g}
