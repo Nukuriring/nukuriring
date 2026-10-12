@@ -1,0 +1,67 @@
+- 영(Young): {52a}, {52a3}
+- 억압(oppression): {52a3}, {52a4}, {52a13}
+- 지배(domination): {52a3}, {52a14}
+- 분배 정의(distributive justice): {52a1}, {52d1}
+- 사회 집단(social group): {52a5}, {52a6}, {52a7}
+- 착취(exploitation): {52a8}, {52a8a}
+- 주변화(marginalization): {52a9}
+- 무력함(powerlessness): {52a10}
+- 문화적 제국주의(cultural imperialism): {52a11}, {52a11a}
+- 폭력(violence): {52a12}, {52c5}
+- 권력(power): {52b1}, {52b2}, {52b4c}
+- 여성주의 권력론(feminist theories of power): {52b}, {52b1}
+- 임파워먼트(empowerment): {52b1i}, {52b1j}
+- 하우가드(Haugaard): {52b2}, {52b3}
+- 권력의 네 차원(four dimensions of power): {52b2}, {52b2c}, {52b2d}
+- 포지티브섬(positive-sum): {52b2a}, {52b3a}
+- 교차성(intersectionality): {52b1e}, {52d2a}, {52f4h}
+- 연대(solidarity): {52b4}, {52b4a}, {52f}
+- 밑으로부터의 연대(solidarity from below): {52b4}, {52b4d}
+- 정(Zheng): {52b4}, {52b4c}
+- 인종(race): {52c}, {52c3}, {52c13}
+- 셰스(Sheth): {52c}, {52c3}
+- 아메드(Ahmed): {52c13}, {52c14}
+- 알코프(Alcoff): {52c18}, {52c19}
+- 인종화(racialization): {52c13}, {52c16}
+- 인종의 사회적 구성(social construction of race): {52c18}, {52c20}
+- 체현(embodiment): {52c13}, {52c17}
+- 생명권력(biopower): {52c6}, {52c9}
+- 위협(threat): {52c3}, {52c7}, {52c10}
+- 한 방울 규칙(one-drop rule): {52c4}
+- 푸코(Foucault): {52c6}, {52b2d}, {52b1f}
+- 알고리즘 공정성(algorithmic fairness): {52d}, {52d1}, {52d4}
+- 구조적 부정의(structural injustice): {52d1}, {52d1a}, {52d3a}
+- 카시르자데(Kasirzadeh): {52d1}, {52d1a}
+- 콩(Kong): {52d2}, {52e1}, {52e3}
+- 게리맨더링(gerrymandering): {52d2c}, {52d2d}
+- 통계적 유의미성(statistical significance): {52d2d}, {52d2e}
+- 기회(opportunity): {52d2g}, {52d2f}
+- 정체성(identity): {52e}, {52e3}, {52e10}
+- 정체성 정치(identity politics): {52f2d}, {52f4}, {52f4e}
+- 유동적 객체(fluid object): {52e}, {52e8}, {52e11}
+- 고장-수리 모델(breakdown-repair model): {52e2}, {52e2a}
+- 유지 보수(maintenance): {52e3}, {52e4}, {52e8a}
+- 인프라(infrastructure): {52e9}, {52e9b}, {52e9d}
+- 애착(attachment): {52e4a}, {52e8b}
+- 공중(public): {52e5}, {52e8c}
+- 해석적 인격론(interpretive personhood): {52e13}, {52e13a}
+- 리건(Reagon): {52f1}, {52f1a}
+- 연합 정치(coalition politics): {52f1}, {52f1b}
+- 모한티(Mohanty): {52f2}, {52f2b}
+- 와이어(Weir): {52f3}, {52f3a}
+- 변형적 동일시(transformative identification): {52f3}, {52f3e}, {52f4c}
+- 루고네스(Lugones): {52f3e}, {52g2}
+- 세계 여행(world-traveling): {52f3e}, {52g2}
+- 하게 만듦(faire-faire): {52f4f}, {52f4g}
+- 라투르(Latour): {52h2}, {52f4f}, {52e8c}
+- 행위자-네트워크 이론(actor-network theory): {52h2}, {52h2a}
+- 신유물론(new materialism): {52h}, {52h1}
+- 커비(Kirby): {52h1}, {52h1a}
+- 베처(Bettcher): {52g3}, {52g3a}
+- 현실 강제(reality enforcement): {52g3}
+- 외국인 혐오(xenophobia): {52g1}, {52g1a}
+- 다스(Das): {52i}, {52i2}
+- 사적 언어(private language): {52i}, {52i1}, {52i3}
+- 좋음의 외양(guise of the good): {52j}, {52j3}, {52j4}
+- 오르시(Orsi): {52j}, {52j4}
+- 앤스콤(Anscombe): {52j5}, {52j5a}, {52j5b}
