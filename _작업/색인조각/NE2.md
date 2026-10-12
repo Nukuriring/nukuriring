@@ -1,4 +1,4 @@
-- 윤리학 공부(ethics): {47}, {47h}
+- 결과주의와 윤리학 공부(consequentialism): {47}, {47h}
 - 공리주의(utilitarianism): {47a}, {47a1}, {47a2}
 - 벤담(Bentham): {47a1}
 - 밀(Mill): {47a2}, {47a5}, {47a10}
@@ -14,7 +14,6 @@
 - 레일턴(Railton): {47c}, {47c13}, {47h}
 - 소외(alienation): {47c}, {47c2}, {47c11}
 - 쾌락주의의 역설(paradox of hedonism): {47c4}, {47c6}, {47c7}
-- 세련된 쾌락주의자(sophisticated hedonist): {47c6}, {47c8}
 - 객관적 결과주의와 주관적 결과주의(objective and subjective consequentialism): {47c13}, {47c14}, {47h}
 - 요구 과다(demandingness): {47a3a}, {47c17}, {47d7}
 - 진리 조건과 수용 조건(truth and acceptance conditions): {47c16}, {47h9}
@@ -43,15 +42,12 @@
 - 품성 상태(hexis): {47i}, {47i3}, {47i7}
 - 습관 형성(habituation): {47i8}, {47i9}
 - 덕 윤리와 상대주의(virtue ethics and relativism): {47i10}, {47i11}
-- 누스바움(Nussbaum): {47i11}
 - 맥키(Mackie): {47j}, {47j1}, {47j3}
 - 상대성 논변(argument from relativity): {47j}, {47j2}
 - 무어(Moore): {47j4}, {47j5}
 - 좋음의 정의불가능성(indefinability of good): {47j4}, {47j5}
 - 비도덕주의자(amoralist): {47b16}
 - 헤겔의 국가와 전쟁(Hegel on the state and war): {47l}, {47l3}, {47l8}
-- 외적 국가법(external state law): {47l5}, {47l6}
-- 세계 정신(world spirit): {47l7}
 - 프랭크퍼트(Frankfurt): {47m}, {47n}, {47n1}
 - 마음 씀(caring): {47m}, {47m1}, {47m2}
 - 사랑(love): {47m3}, {47n}, {47o}
@@ -60,7 +56,6 @@
 - 사랑의 편애(partiality): {47o6}, {47p1}
 - 사랑하는 대상의 가치(value of the beloved): {47p}, {47m3}
 - 자살(suicide): {47q}, {47q1}, {47q4}
-- 윤리 이론의 유연성(flexibility of ethical theories): {47q8}
 - 윌리엄슨(Williamson): {47r}, {47r2}, {47r4}
 - 선험성과 분석성(a priori and analytic): {47r}, {47r2}, {47r3}
 - 사이몬 사례(Simon case): {47r3}, {47r4}
