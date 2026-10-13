@@ -1,0 +1,63 @@
+{
+ "id": "58h",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "맥도웰에 따르면 정언 명령 주장의 요점은 요구를 제대로 인식하면 반대 이유가 침묵한다",
+   "label": "부분 지지",
+   "evidence": "part of the point … may lie in a rejection",
+   "note": "원문은 'part of the point … may lie'로 일부이고 가능성이다. 제목은 '일부'와 '~일 수 있다'를 뺀 단정. 본문은 한정을 유지함."
+  },
+  {
+   "n": 1,
+   "text": "덕 있는 사람처럼 상황을 보면 행위할 이유를 보지 않을 수 없다",
+   "label": "지지됨",
+   "evidence": "one cannot share a virtuous person's view",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "남은 가능성은 이유를 보지만 다른 이유에 압도된다고 여기는 것",
+   "label": "지지됨",
+   "evidence": "takes the reason to be outweighed",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "요점 일부가 이 가능성의 거부에 있을 수 있다",
+   "label": "지지됨",
+   "evidence": "part of the point … may lie in a rejection",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "한 근거는 덕의 명령이 달리 행위할 이유를 언제나 이긴다는 생각",
+   "label": "지지됨",
+   "evidence": "dictates of virtue always outweigh reasons",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "더 흥미로운 근거는 제대로 인식되면 다른 이유와 전혀 비교되지 않는다는 생각",
+   "label": "지지됨",
+   "evidence": "are not weighed with other reasons at all",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "고려들은 'silenced altogether-not overridden by the requirement'",
+   "label": "지지됨",
+   "evidence": "silenced altogether-not overridden",
+   "note": "인용 글자 일치."
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/철학 자료 마스터/Macdowell(Are moral imperatives Hypothetical Imper 35697cdd867e81b88571f7b369c4d8e9.md",
+  "문헌/@McDowell1978 Are Moral Requirements Hypothetical Imperatives.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,183 @@
+{
+  "model": "sonnet",
+  "date": "2026-10-13",
+  "cards": [
+    {"id":"57f1","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"공식 이론에서 마음은 의식과 내성으로 직접 알려지고 … 절대적 고독","label":"지지됨","evidence":"절대적인 고독은 영혼의 피할 수 없는 운명","note":""},
+      {"n":1,"text":"의식·자의식·내성으로 직접 알고 환각·의심에서 면역","label":"지지됨","evidence":"환각과 혼란, 의심으로부터 면역","note":""},
+      {"n":2,"text":"현재의 사유·느낌·의지·지각은 인광을 낸다","label":"지지됨","evidence":"내재적으로 'phosphorescent'","note":""},
+      {"n":3,"text":"타인의 마음은 문제적 추론, 유추, 관찰 확증 불가","label":"지지됨","evidence":"관찰적 확증의 가능성도 결여","note":""},
+      {"n":4,"text":"다른 마음이 있다고 믿을 좋은 이유가 없게 된다","label":"지지됨","evidence":"믿을 좋은 이유가 없다","note":""},
+      {"n":5,"text":"라일은 절대적 고독·오로지 몸만이 만난다로 정리","label":"지지됨","evidence":"오로지 우리의 신체만이 서로 만날","note":""},
+      {"n":6,"text":"프로이트의 숨은 지류도 직접 앎 주장을 바꾸지 못한다","label":"지지됨","evidence":"정상적인 상황에서 … 알려진다고 주장","note":""}
+    ],"sources_used":["_원자료/notion/…/철학/Gilbert Ryle 번역 4b119de0948e42dfafd0ef0a8a77cc04.md"],"sources_missing":[]},
+    {"id":"57f3a","voice":"문헌","verdict":"부분","claims":[
+      {"n":0,"text":"이론적으로 중요한 범주 오류는 능숙한 사용자가 추상적 사고에서","label":"지지됨","evidence":"추상적 사고에서는 그 개념들을 원래 속하지 않은 유형에","note":""},
+      {"n":1,"text":"앞의 사례는 개념을 쓸 줄 모르는 사람의 오류","label":"지지됨","evidence":"어떻게 사용할지를 모르는 사람들에 의해","note":""},
+      {"n":2,"text":"주목할 오류는 완벽히 능숙하거나 익숙한 상황에서만 그런 사람","label":"지지됨","evidence":"완벽히 능숙하게 활용할 수 있는 사람들","note":""},
+      {"n":3,"text":"정치학 학생은 영국 헌법을 같은 의미의 기관으로 놓고 관계를 묻는다","label":"부분 지지","evidence":"질문받을 때마다 답할 수 없어 한다","note":"원문에서 학생은 관계를 묻는 쪽이 아니라 질문받고 답하지 못하는 쪽이다. 같은 기관으로 놓는 것도 '계속 비슷하게 생각한다면'이라는 조건 아래의 서술."},
+      {"n":4,"text":"존 도우 … 리처드 로의 사촌일 수 있으나 세금 납부자의 사촌일 수 없다. 같은 경우","label":"부분 지지","evidence":"부분적으로 비슷한 방식으로","note":"원문은 '부분적으로 비슷한 방식으로'라고 한정함. 카드는 '같은 경우'로 단정."},
+      {"n":5,"text":"헌법을 신비로운 특이한 기관으로, 세금 납부자를 유령으로 생각하게 된다","label":"지지됨","evidence":"실체가 없고 모든 곳에 있지만 아무 곳에도 없는 유령","note":""}
+    ],"sources_used":["_원자료/notion/…/철학/Gilbert Ryle 번역 4b119de0948e42dfafd0ef0a8a77cc04.md"],"sources_missing":[]},
+    {"id":"57h2","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"선택지는 회의주의와 무적의 이성과 하이브리드 지식 개념","label":"지지됨","evidence":"option 1 회의주의 / 2 / 3 지식의 개념을 바꾸자","note":""},
+      {"n":1,"text":"회의주의: 이유의 공간 입장을 지각으로 재구성 못하므로 지각 지식은 실수","label":"지지됨","evidence":"지각을 통해서 지식을 얻는다는 것은 실수다","note":""},
+      {"n":2,"text":"위험 없는 정책·습관은 이성의 선험적이고 신비한 무적의 힘 상정","label":"지지됨","evidence":"선험적인 신비한 무적 파워","note":""},
+      {"n":3,"text":"지식의 필요조건으로 두되 사실성이 없어 세계가 운 좋게 배열될 때 지식","label":"지지됨","evidence":"세계가 … 운 좋게 배열되어 있을 때","note":""},
+      {"n":4,"text":"셋째는 정당화는 내적, 참은 외적인 하이브리드","label":"지지됨","evidence":"(1) 정당화 - 내적 + (2) 참 - 외적","note":""}
+    ],"sources_used":["_원자료/notion/…/Mcdowell, Knowledge and Internal 5f29e66043ef471184431f8fa09a381b.md"],"sources_missing":[]},
+    {"id":"57h2a","voice":"종합","verdict":"부분","claims":[
+      {"n":0,"text":"하이브리드는 지식과 우연히 참인 믿음을 가르는 문제에 부딪힌다","label":"지지됨","evidence":"지식과 그저 참인 믿음을 분간시켜야만 하는 문제","note":""},
+      {"n":1,"text":"정당화와 세계가 별개이므로 세계가 이성 범위에 어떻게 들어오는지 물어야","label":"지지됨","evidence":"어떻게 세계가 내 이성적 능력의 범위 안에","note":""},
+      {"n":2,"text":"이유의 공간은 그럴듯함만 주어 정당화되었으나 거짓인 믿음이 가능","label":"지지됨","evidence":"제공해주는 것은 그저 '그럴듯함'","note":""},
+      {"n":3,"text":"노트는 참 조건을 덧붙인 것과 비슷하지 않느냐고 묻는다","label":"지지됨","evidence":"지식에 참 조건을 추가한 것이랑 비슷한 거","note":""},
+      {"n":4,"text":"신빙성을 내적으로 취급하면 외재주의 대체 사정을 너무 포기","label":"지지됨","evidence":"너무 많은 것을 포기하는 것이 아닌가?","note":""},
+      {"n":5,"text":"외재주의는 온전히 외적 연관으로 보아 온도계에도 지식을 준다","label":"지지됨","evidence":"우리는 온도계에도 지식을 수여해야","note":""},
+      {"n":6,"text":"영진 님은 참 조건이 왜 필요하고 어쩌다 붙었는지 다시 생각하게 된다고 적는다","label":"부분 지지","evidence":"어쩌다가 지식에 참 조건이 붙어야만 했는가?","note":"원문은 이 물음을 '~라는 아이디어로 생각하는 맥도웰'로 적어 주체가 맥도웰로도 읽힘. '다시 생각하게 한다'는 영진 님의 반응 서술은 원문에 없음."}
+    ],"sources_used":["_원자료/notion/…/Mcdowell, Knowledge and Internal 5f29e66043ef471184431f8fa09a381b.md"],"sources_missing":[]},
+    {"id":"57e","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"무어의 상식 명제는 맥락에서 떨어진 메타 상식이어서 평범한 상식과 구별","label":"지지됨","evidence":"meta-CS를 주장한다 → 맥락에서 떨어진","note":""},
+      {"n":1,"text":"무어는 평범한 사람의 편에서 상식의 일반 명제를 내세운다","label":"지지됨","evidence":"The Inveterate plain man","note":""},
+      {"n":2,"text":"물병 주장을 회의주의자가 공격하면 회의주의자가 틀린 것","label":"지지됨","evidence":"회의주의자들은 그냥 틀린 것이다","note":""},
+      {"n":3,"text":"'물질적 대상들이 존재한다는 것을 안다'는 메타 상식","label":"지지됨","evidence":"나는 물질적 대상들이 존재한다는 것을 안다","note":""},
+      {"n":4,"text":"우유병 같은 평범한 상식은 맥락에 묶여 있다","label":"지지됨","evidence":"meta Cs의 특징: 맥락-자유적","note":"대비로 읽은 바꿔 쓰기."},
+      {"n":5,"text":"무어의 반박과 증명이 옳은 경우는 평범한 상식에 한정","label":"지지됨","evidence":"옳은 케이스는 평범한 CS의 경우다","note":""},
+      {"n":6,"text":"영진 님은 메타 상식이 평범한 말인지 따로 묻는다","label":"지지됨","evidence":"meta-CS는 plain한 말들인가?","note":""}
+    ],"sources_used":["_원자료/notion/…/철학/Skepticism 38081f8f1f254f7a9d8fcc551c18371e.md"],"sources_missing":[]},
+    {"id":"57e2","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"회의주의자는 평범한 인식 상황을 제한된 것으로 보고 철학함을 물러서는 일로","label":"지지됨","evidence":"회의주의자의 눈엔 평범함이란 제한되어","note":""},
+      {"n":1,"text":"회의주의자에게도 비회의주의적 면모가 있다","label":"지지됨","evidence":"비-회의주의적 면모가 있다","note":""},
+      {"n":2,"text":"적기 식별에서 실천적 목적 때문에 틀릴 가능성을 무시","label":"지지됨","evidence":"실천적 목적을 위해 틀릴 가능성이 있다는 것을 무시","note":""},
+      {"n":3,"text":"'적기 발견!'은 자기 말이 뜻하는 것보다 덜 뜻한다","label":"지지됨","evidence":"의미하는 것보다 덜 의미하고 있는 것","note":""},
+      {"n":4,"text":"철학함은 평범함의 공간에서 빠져나와 제한 없이 말하려는 시도","label":"지지됨","evidence":"제한되지 않은 방식으로 말하려고 시도","note":""},
+      {"n":5,"text":"질문의 순수성은 낱말 의미만으로 결정되는 함축에서 나온다","label":"지지됨","evidence":"오로지 의미로만 결정되는 … 함축들","note":""}
+    ],"sources_used":["_원자료/notion/…/철학/Skepticism 38081f8f1f254f7a9d8fcc551c18371e.md"],"sources_missing":[]},
+    {"id":"57n","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"카벨은 인간으로 보는 일이 가능하면 영혼맹도 가능하다고 보고 동물에 대해 묻는다","label":"지지됨","evidence":"영혼-맹과 비견할만한 종류의 blindness","note":""},
+      {"n":1,"text":"사람을 인간으로 본다는 것이 말이 되는지 묻는다","label":"지지됨","evidence":"인간으로서 본다는 것이 말이 되는가?","note":""},
+      {"n":2,"text":"말이 된다면 보지 못하는 일도 말이 되고 이를 영혼맹이라 부른다","label":"지지됨","evidence":"나는 이런 상태를 '영혼-맹'이라고","note":""},
+      {"n":3,"text":"쟁점은 비인간 동물 측면에도 비견할 맹목이 있을 수 있느냐","label":"지지됨","evidence":"비인간 동물들의 측면에서도 있을 수 있겠는가","note":""},
+      {"n":4,"text":"카벨은 대량 사육과 뒤얽힘이 인간 본성의 한계를 시험한다는 생각에 관심","label":"지지됨","evidence":"카벨 자신을 흥미롭게 했던 아이디어","note":""}
+    ],"sources_used":["_원자료/notion/…/Stanley Cavell/Companionable thinking 23124f4a173d406f9d88da1c6381c9e8.md"],"sources_missing":[]},
+    {"id":"57n4","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"현실의 어려움은 응답하는 능력이 한계에 이르는 순간이고 철학의 어려움은 그 안에서 생긴다","label":"지지됨","evidence":"'현실의 어려움'에 안에, 혹은 이 어려움에 의해","note":"다이아몬드의 말로 귀속됨(본문은 귀속을 유지)."},
+      {"n":1,"text":"응답하는 인간적 능력이 한계나 브레이킹 포인트에 닿는 순간","label":"지지됨","evidence":"한계, 혹은 어떤 브레이킹 포인트","note":""},
+      {"n":2,"text":"시험에 처해질 때, 이해와 상상을 압도하거나 얼어붙게 하는 순간","label":"지지됨","evidence":"압도하거나 얼어붙게 만드는 순간들","note":""},
+      {"n":3,"text":"숭고한 아름다움에 치이거나 공포 앞에서 말이 막히는 일","label":"지지됨","evidence":"숭고한 아름다움에 치일 때, 공포 앞에 말이 막힐","note":""},
+      {"n":4,"text":"철학의 어려움은 어떤 표현을 진지하게 받아들이는 일의 어려움","label":"지지됨","evidence":"어떤 표현을 진지하게 간주하기","note":""},
+      {"n":5,"text":"다이아몬드는 이 어려움이 현실의 어려움 안에서 생긴다고 말한다","label":"지지됨","evidence":"코라 다이아몬드는 이 어려움이 … 생겨난다고","note":""},
+      {"n":6,"text":"자기 표현의 만성적 어려움이며 언어에 대한 불만으로 표현","label":"지지됨","evidence":"언어에 대한 불만으로 표현되는 종류","note":""},
+      {"n":7,"text":"카벨은 이 불만이 『철학적 탐구』 읽기에 근본적이라고 본다","label":"지지됨","evidence":"철학적 탐구를 읽는 일에 근본적이라고","note":""}
+    ],"sources_used":["_원자료/notion/…/Stanley Cavell/Companionable thinking 23124f4a173d406f9d88da1c6381c9e8.md"],"sources_missing":[]},
+    {"id":"57q1","voice":"종합","verdict":"지지됨","claims":[
+      {"n":0,"text":"일상언어철학은 쇠락보다 디아스포라, 수출된 것은 도구","label":"지지됨","evidence":"쇠락의 이야기가 아니라 디아스포라의 이야기","note":""},
+      {"n":1,"text":"대화는 퍼즐을 쇠락 대신 디아스포라로 받아 수출 기록을 든다","label":"지지됨","evidence":"실제 수출 기록을 보라","note":""},
+      {"n":2,"text":"기어츠는 라일, 버틀러는 데리다 거친 오스틴, 스키너는 화행 이론","label":"지지됨","evidence":"기어츠의 … 라일에게서 … 들어 올린 것","note":""},
+      {"n":3,"text":"대화 분석·민속방법론은 응용 비트겐슈타인, 다스는 응용 카벨, 하트는 OLP 법리학","label":"지지됨","evidence":"비나 다스의 일상 윤리는 응용 카벨","note":""},
+      {"n":4,"text":"모든 경우에 수출된 것은 도구였고 치료는 한 번도 아니었다","label":"지지됨","evidence":"언제나 도구였고, 치료는 한 번도 아니었다","note":""},
+      {"n":5,"text":"다른 분과는 환자가 아니어서 도구를 가져갔고 철학만 자기 진단으로 받는다","label":"지지됨","evidence":"오직 철학만이 … 자기 자신에 대한 진단","note":""},
+      {"n":6,"text":"산출물이 이론인 직업은 더 적은 이론의 방법을 소화 못해 면역 반응","label":"지지됨","evidence":"'더 적은 이론'인 방법을 소화할 수 없다","note":""}
+    ],"sources_used":["_원자료/notion/…/비트겐슈타인의 시대는 갔는가 … 37b97cdd867e810e9e86eb21322eb440.md","문헌/@영진2026 비트겐슈타인의 유산 대화.md"],"sources_missing":[]},
+    {"id":"57q2","voice":"종합","verdict":"부분","claims":[
+      {"n":0,"text":"제자들에게 떠나라고 권했다면 남은 트래비스는 불복종의 형태를 한 충실성","label":"지지됨","evidence":"불복종의 형태를 한 충실성","note":""},
+      {"n":1,"text":"대화 속 설명은 디아스포라를 비트겐슈타인에 대한 복종으로 읽는다","label":"지지됨","evidence":"배신이 아니라 복종이다","note":""},
+      {"n":2,"text":"뛰어난 제자들에게 떠나라고, 드루어리에게 정신의학을 권했다","label":"지지됨","evidence":"드루어리에게는 정신의학을 권했고","note":""},
+      {"n":3,"text":"이민자들은 스승이 시킨 대로 한 것","label":"지지됨","evidence":"이민자들은 스승이 시킨 대로 한 것","note":""},
+      {"n":4,"text":"해커 국경 수비대·주해자, 다이아몬드·코넌트 경전 독해자, 카벨 문체로 이민","label":"지지됨","evidence":"카벨은 몸은 남되 문체로 이민 갔고","note":""},
+      {"n":5,"text":"바즈를 메타 수준의 싸움꾼으로 분류","label":"부분 지지","evidence":"바즈는 남되 주로 방법에 관한 메타 수준에서","note":"원문은 '주로 방법에 관한 메타 수준'이라고 한정함. 카드는 한정어 '주로'와 '방법에 관한'을 뺌."},
+      {"n":6,"text":"트래비스만이 진리조건 의미론·표상주의·맥도웰의 칸트 구장에서 원정 경기","label":"지지됨","evidence":"트래비스만이 … 원정 경기를 뛴다","note":""},
+      {"n":7,"text":"§309의 주석으로서 트래비스는 파리들이 들을 수 있는 거리 안에 남았다","label":"지지됨","evidence":"Travis stayed in earshot","note":""}
+    ],"sources_used":["_원자료/notion/…/비트겐슈타인의 시대는 갔는가 … 37b97cdd867e810e9e86eb21322eb440.md","문헌/@영진2026 비트겐슈타인의 유산 대화.md"],"sources_missing":[]},
+    {"id":"58c1","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"실천적 목적을 들어 하는 양보는 결론이 일상적 말과 양립 불가하다는 그의 앎을 확정","label":"지지됨","evidence":"양립 불가능하다는 그의 지식을 정확하게 확정","note":""},
+      {"n":1,"text":"불공평함의 둘째 방식은 '우리 모두가 그렇게 말한다'는 반박","label":"지지됨","evidence":"우리 모두가 그렇게 말한다는 사실이","note":""},
+      {"n":2,"text":"책상이 여기 있다는 확실성, 볼 수 있다는 말을 부정한다고 하자","label":"지지됨","evidence":"이 책상은 여기에 있다는 것이 확실해","note":""},
+      {"n":3,"text":"곧바로 실천적 목적에서는 말할 수 있다는 한정을 덧붙일 것","label":"지지됨","evidence":"'실천적인 목적'에서 … 말할 수 있을 것","note":""},
+      {"n":4,"text":"카벨은 이런 양보가 그 앎을 확정한다고 본다","label":"지지됨","evidence":"양립 불가능하다는 그의 지식을 정확하게 확정","note":""},
+      {"n":5,"text":"같은 양보는 일상적 말을 당황스러운 방식으로나마 온전히 보존","label":"지지됨","evidence":"다소 당황스러운 방식이기는 하지만 온전히 보존","note":""}
+    ],"sources_used":["_원자료/notion/…/철학 자료 마스터/Knowing and Acknowledging 35697cdd867e8163b951d021a0872fe3.md","문헌/@Cavell1969a Knowing and Acknowledging.md"],"sources_missing":[]},
+    {"id":"58d","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"양보가 공허함을 보이려면 먼저 능숙한 영어 사용자가 쓰임을 찾지 못함을 보여야","label":"지지됨","evidence":"어떤 진짜 사용도 찾을 수 없음을 보여줘야","note":""},
+      {"n":1,"text":"회의주의자의 양보는 강요된 것이거나 공허해 보일 수 있다","label":"지지됨","evidence":"강요되는 것처럼 – 혹은 공허해 – 보일 수 있다","note":""},
+      {"n":2,"text":"능숙한 사용자는 비판자가 아는 것을 모두 아는 사람","label":"지지됨","evidence":"당신이 알고 있는 것을 역시 모두 알고 있는","note":""},
+      {"n":3,"text":"카벨은 이것이 어떻게 보여질 수 있느냐고 묻는다","label":"지지됨","evidence":"그런 것이 어떻게 보여질 수 있는가?","note":""},
+      {"n":4,"text":"가장 중요한 단계는 '네 말이 무엇을 말한다고 여기는지 안다'를 납득시키는 것","label":"지지됨","evidence":"가장 중요한 단계는 … 납득시키는 것","note":""},
+      {"n":5,"text":"이것은 '의미한다고 여기는지 아는 것'과 같지 않다","label":"지지됨","evidence":"(주의하라. 이는 … 같지 않다","note":""},
+      {"n":6,"text":"후자는 말에 특별·기술적 의미가 있다고 여길 때 해야 하는 일처럼 보인다","label":"지지됨","evidence":"특별하거나 기술적인 의미를 가지고 있다","note":""}
+    ],"sources_used":["_원자료/notion/…/철학 자료 마스터/Knowing and Acknowledging 35697cdd867e8163b951d021a0872fe3.md","문헌/@Cavell1969a Knowing and Acknowledging.md"],"sources_missing":[]},
+    {"id":"58h","voice":"문헌","verdict":"부분","claims":[
+      {"n":0,"text":"맥도웰에 따르면 정언 명령 주장의 요점은 요구를 제대로 인식하면 반대 이유가 침묵한다","label":"부분 지지","evidence":"part of the point … may lie in a rejection","note":"원문은 'part of the point … may lie'로 일부이고 가능성이다. 제목은 '일부'와 '~일 수 있다'를 뺀 단정. 본문은 한정을 유지함."},
+      {"n":1,"text":"덕 있는 사람처럼 상황을 보면 행위할 이유를 보지 않을 수 없다","label":"지지됨","evidence":"one cannot share a virtuous person's view","note":""},
+      {"n":2,"text":"남은 가능성은 이유를 보지만 다른 이유에 압도된다고 여기는 것","label":"지지됨","evidence":"takes the reason to be outweighed","note":""},
+      {"n":3,"text":"요점 일부가 이 가능성의 거부에 있을 수 있다","label":"지지됨","evidence":"part of the point … may lie in a rejection","note":""},
+      {"n":4,"text":"한 근거는 덕의 명령이 달리 행위할 이유를 언제나 이긴다는 생각","label":"지지됨","evidence":"dictates of virtue always outweigh reasons","note":""},
+      {"n":5,"text":"더 흥미로운 근거는 제대로 인식되면 다른 이유와 전혀 비교되지 않는다는 생각","label":"지지됨","evidence":"are not weighed with other reasons at all","note":""},
+      {"n":6,"text":"고려들은 'silenced altogether-not overridden by the requirement'","label":"지지됨","evidence":"silenced altogether-not overridden","note":"인용 글자 일치."}
+    ],"sources_used":["_원자료/notion/…/철학 자료 마스터/Macdowell(Are moral imperatives Hypothetical Imper 35697cdd867e81b88571f7b369c4d8e9.md","문헌/@McDowell1978 Are Moral Requirements Hypothetical Imperatives.md"],"sources_missing":[]},
+    {"id":"58h3","voice":"종합","verdict":"지지됨","claims":[
+      {"n":0,"text":"카벨의 must와 맥도웰의 침묵시킴은 대안을 비교 대상으로 올리지 않는 요구라는 점에서 이어 읽을 수 있다","label":"연결","evidence":"","note":"종합 연결."},
+      {"n":1,"text":"카벨은 ought가 대안이 권리 안에 있음을 시사하는 반면 must는 그렇지 않다","label":"지지됨","evidence":"ought는 must와 달리 대안이 당신의 권리 안에","note":""},
+      {"n":2,"text":"must를 말하는 사람은 상대가 다르게 행하면 틀렸다고 증명할 수 없다는 뜻","label":"지지됨","evidence":"내가 틀렸다고 증명할 수 없음을 말하는 것","note":"문헌 노트(@Cavell1969)에는 이 문장이 없고, 그 노트의 read_via인 원자료 '_원자료/claude.ai/projects/Cavell/docs/Must 2.md' 123행에 있음. 카드 출처 줄에는 문헌 노트만 적혀 있음."},
+      {"n":3,"text":"맥도웰은 제대로 인식되면 달리 행위할 이유들이 압도되지 않고 침묵한다고 본다","label":"지지됨","evidence":"silenced altogether-not overridden","note":""},
+      {"n":4,"text":"두 대목은 요구를 이기는 것으로 보지 않고 대안을 비교에서 빼는 것으로 그린다","label":"연결","evidence":"","note":"두 출처를 엮는 연결."},
+      {"n":5,"text":"위키 두 카드를 겹쳐 읽은 해석이고 서로 인용한다는 근거는 없다","label":"연결","evidence":"","note":"카드 자체 단서."},
+      {"n":6,"text":"카벨의 must는 이미 하는 일을 배경으로 삼는 진술","label":"지지됨","evidence":"must 진술은 우리가 이미 하는 일을","note":""},
+      {"n":7,"text":"맥도웰의 침묵시킴은 덕 있는 사람의 상황 인식에 관한 이야기","label":"지지됨","evidence":"덕 있는 사람과 같이 보는 사람","note":""}
+    ],"sources_used":["문헌/@McDowell1978 Are Moral Requirements Hypothetical Imperatives.md","문헌/@Cavell1969 Must We Mean What We Say.md","_원자료/notion/…/Macdowell(Are moral imperatives Hypothetical Imper 35697cdd867e81b88571f7b369c4d8e9.md","_원자료/claude.ai/projects/Cavell/docs/Must 2.md"],"sources_missing":[]},
+    {"id":"64b","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"조선 유학을 주자학으로 보는 2파설에 기학을 더한 3파설을 소개","label":"지지됨","evidence":"기학이 있었지롱! 3파설 성립","note":""},
+      {"n":1,"text":"조선이 주자학의 나라라는 통념을 의문에 부치며 시작","label":"지지됨","evidence":"조선은 주자학의 나라다?","note":""},
+      {"n":2,"text":"정이-주희-이황이 주자학, 개인적으로 주류는 순자…이이","label":"지지됨","evidence":"주류는 순자 장재 호굉 나흠순 대진 이이","note":""},
+      {"n":3,"text":"리학·심학 대립이 전통 관점, 양명학이 약해 주자학뿐이라는 결론","label":"지지됨","evidence":"리학과 심학이라는 두 학파의 대립","note":""},
+      {"n":4,"text":"기학이라는 셋째 흐름을 3파설이라 부른다","label":"지지됨","evidence":"3파설 성립","note":""},
+      {"n":5,"text":"근세라는 단어는 근대를 한국 틀에 적용해 안 맞아서 나온 결과","label":"지지됨","evidence":"잘 안 맞아서 나온 결과","note":""},
+      {"n":6,"text":"동양에서 근대를 찾으려는 노력에서 기학이 나왔고 유물론 물음과 연결","label":"지지됨","evidence":"동양에서 근대를 찾기 위한 노력으로 나온 것이 기학","note":""}
+    ],"sources_used":["_원자료/notion/…/철학 자료 마스터/0314 서론 35697cdd867e81d5a96df7ad10bf910f.md","문헌/@한국철학사2022 서론에서 이이까지 강의 필기.md"],"sources_missing":[]},
+    {"id":"64b2","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"중국은 리학과 도학으로, 서구는 Neo-Confucianism으로 신유학을 부른다","label":"지지됨","evidence":"중국에서는 리학(理學)","note":""},
+      {"n":1,"text":"중국에서는 신유학을 리학이라 부른다","label":"지지됨","evidence":"중국에서는 리학(理學)","note":""},
+      {"n":2,"text":"송사에 도학전이 있어 도학이라는 이름도 쓰이고 도학과 반도학의 대립","label":"지지됨","evidence":"송사에 도학전 … 도학 <-> 반도학","note":""},
+      {"n":3,"text":"서구에서는 신유학을 Neo-Confucianism이라 옮긴다","label":"지지됨","evidence":"신유학 (서구에서 많이 쓴 말)","note":""},
+      {"n":4,"text":"Confucius는 공부자의 음역","label":"지지됨","evidence":"콩푸스(공부자) 음역","note":""},
+      {"n":5,"text":"송대 유학이 이전 것을 재해석했다는 뜻에서 네오 공부자","label":"지지됨","evidence":"이전의 것을 재해석했다고 해서, 네오 공부자","note":""},
+      {"n":6,"text":"풍우란이 서양인에게 쉽게 하려고 이 용어를 차용","label":"지지됨","evidence":"이해하기 쉽게 하기 위해서 … 용어 차용","note":""},
+      {"n":7,"text":"현대 신유학은 New Confucianism으로 따로 부른다","label":"지지됨","evidence":"현대(당대) 신유학은 New confuciansim","note":""}
+    ],"sources_used":["_원자료/notion/…/철학 자료 마스터/0314 서론 35697cdd867e81d5a96df7ad10bf910f.md","문헌/@한국철학사2022 서론에서 이이까지 강의 필기.md"],"sources_missing":[]},
+    {"id":"64c","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"정도전은 고려 선불교를 도덕적 허무주의로 비판한다","label":"지지됨","evidence":"정도전의 불교 비판 불교 – 도덕적 허무주의","note":""},
+      {"n":1,"text":"강의는 정도전의 불교 비판을 도덕적 허무주의 비판으로 요약","label":"지지됨","evidence":"불교 – 도덕적 허무주의","note":""},
+      {"n":2,"text":"이 비판은 고려 시대 불교, 곧 선불교의 특징과 관련","label":"지지됨","evidence":"고려 시대 불교 (선불교)의 특징과 관련","note":""},
+      {"n":3,"text":"가장 자유로운 행동이 도덕률을 깨뜨리고 정도전이 본 것이 이 점인 것 같다","label":"지지됨","evidence":"정도전이 본 것은 바로 이것인 것 같다","note":"'인 것 같다' 한정이 카드에 남아 있음."},
+      {"n":4,"text":"자유는 위험·방종이 될 수 있고 빙자한 이상한 행동일 수도 있다","label":"지지됨","evidence":"자유 = 위험 = 방종 … 이상한 행동이 될 수도","note":""},
+      {"n":5,"text":"유학자들은 선불교를 비판하고 허무를 관통하는 질서로서 리를 제시","label":"지지됨","evidence":"허무를 관통하는 질서로서 리를 제시한다","note":""}
+    ],"sources_used":["_원자료/notion/…/철학 자료 마스터/0321 35697cdd867e8117bb66e12bfe513f5d.md","문헌/@한국철학사2022 서론에서 이이까지 강의 필기.md"],"sources_missing":[]},
+    {"id":"64c3","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"정도전은 마음을 기로 보고 질서인 리를 예로 제시한 심기학의 선구자","label":"지지됨","evidence":"정도전은 이이와 같은 사람의 선구자","note":"선구자 규정은 제도 개혁론자 이이 쪽에 걸리나, 심기학을 거칠게 말한 것과 이이 이론의 핵심이라는 서술로 이어짐."},
+      {"n":1,"text":"마음=기=욕망, 질서와 도덕을 부여하는 것이 정도전의 임무","label":"지지됨","evidence":"질서와 도덕을 부여하는 것이 정도전의 임무","note":""},
+      {"n":2,"text":"질서는 리이고 리는 예이다","label":"지지됨","evidence":"질서 = 리 = 예","note":""},
+      {"n":3,"text":"마음을 대체로 기로 보고 예로서의 리를 제시하는 이론이 심기학, 이이에서 핵심","label":"지지됨","evidence":"마음을 대충 기로 보고 … 심기학이다","note":""},
+      {"n":4,"text":"정도전은 깊이 있게 전개하지 않고 거칠게 말했다","label":"지지됨","evidence":"아주 깊이 있게 하지 않지만, 거칠게는","note":""},
+      {"n":5,"text":"신유학자인 점은 마음을 기로 보는 전통이 제도 개혁으로 나아간 것","label":"지지됨","evidence":"넓은 의미의 제도 개혁으로 나아갔다","note":""},
+      {"n":6,"text":"마음 수양 위주의 신유학과 구별, 신유학자는 제도를 전면에 안 내세움","label":"지지됨","evidence":"신유학자들은 제도를 전면으로 내세우지는 않는다","note":""},
+      {"n":7,"text":"수양과 제도 개혁을 함께 말하는 이이 같은 사람, 정도전은 선구자","label":"지지됨","evidence":"정도전은 이이와 같은 사람의 선구자","note":""},
+      {"n":8,"text":"정도전을 주희·이황 같은 심리기학자의 성리학과 구별","label":"지지됨","evidence":"성리학은 : 주희, 이황, 심리기학자들","note":""}
+    ],"sources_used":["_원자료/notion/…/철학 자료 마스터/0321 35697cdd867e8117bb66e12bfe513f5d.md","문헌/@한국철학사2022 서론에서 이이까지 강의 필기.md"],"sources_missing":[]},
+    {"id":"64d4","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"조광조는 문묘종사·향약·소격서 폐지·현량과로 정치의 도덕화를 추진","label":"지지됨","evidence":"업적: (1) 문묘종사 … (4) 현량과 설치","note":""},
+      {"n":1,"text":"정치의 도덕화는 모든 유학자의 꿈이자 한국 사람들의 로망 중 하나","label":"지지됨","evidence":"모든 유학자들의 꿈 … 로망 중 하나","note":""},
+      {"n":2,"text":"문묘종사로 정몽주를 모시고, 향약으로 도덕적 마을 공동체 조직","label":"지지됨","evidence":"정몽주를 사당에 모시게 되었다","note":""},
+      {"n":3,"text":"소격서는 왕실 인척들이 추진하던 도교식 제사, 조광조가 시위로 폐지 관철","label":"지지됨","evidence":"조광조가 시위를 해서 관철 시킨 제안","note":""},
+      {"n":4,"text":"현량과는 지방 추천자를 모아 시험하는 천거 기반 과거","label":"지지됨","evidence":"지방에서 추천 받은 사람들을 모아 놓고 시험","note":""},
+      {"n":5,"text":"유학자들은 과거에 애매한 태도, 시험으로 인격자를 뽑기 어렵다","label":"지지됨","evidence":"유학자들은 과거에 대해 애매한 태도","note":""},
+      {"n":6,"text":"현량과는 천거로 푸는 조광조의 주장, 유학적 시스템의 확장","label":"지지됨","evidence":"유학적인 시스템을 확장하고 있었음","note":""}
+    ],"sources_used":["_원자료/notion/…/철학 자료 마스터/2022 03 23 35697cdd867e81c5bbdfff1ccf53cdd7.md","문헌/@한국철학사2022 서론에서 이이까지 강의 필기.md"],"sources_missing":[]},
+    {"id":"64d5","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"위훈 삭제는 훈구의 반발과 중종의 급변한 태도를 불렀다","label":"지지됨","evidence":"훈구들의 반발 … 중종의 태도가 돌변","note":""},
+      {"n":1,"text":"반정공신 103명 중 78명 삭제, 약 4분의 3","label":"지지됨","evidence":"반정공신 중 103 // 78명 삭제","note":""},
+      {"n":2,"text":"중종이 동의한 이유는 공신이 많으면 포상·면세로 국가 부담","label":"지지됨","evidence":"반정공신이 많으면 국가에 부담이 되기","note":""},
+      {"n":3,"text":"홍경주·남곤·심정 반발, 실록에 신임이 갑자기 사라짐","label":"지지됨","evidence":"중종의 신임이 갑자기 사라짐","note":""},
+      {"n":4,"text":"죄가 무엇이냐 묻고, 국왕 기만죄라지만 명분이 없다","label":"지지됨","evidence":"국왕을 기만한 죄? ,,, 명분이 없음","note":""},
+      {"n":5,"text":"성균관 유생들이 들고 일어났으나 중종 태도는 수습 불가로 돌변","label":"지지됨","evidence":"수습할 수 없을 정도로 중종의 태도가 돌변","note":""}
+    ],"sources_used":["_원자료/notion/…/철학 자료 마스터/2022 03 23 35697cdd867e81c5bbdfff1ccf53cdd7.md","문헌/@한국철학사2022 서론에서 이이까지 강의 필기.md"],"sources_missing":[]}
+  ]
+}

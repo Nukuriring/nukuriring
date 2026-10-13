@@ -1,0 +1,62 @@
+{
+ "id": "57e",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "무어의 상식 명제는 맥락에서 떨어진 메타 상식이어서 평범한 상식과 구별",
+   "label": "지지됨",
+   "evidence": "meta-CS를 주장한다 → 맥락에서 떨어진",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "무어는 평범한 사람의 편에서 상식의 일반 명제를 내세운다",
+   "label": "지지됨",
+   "evidence": "The Inveterate plain man",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "물병 주장을 회의주의자가 공격하면 회의주의자가 틀린 것",
+   "label": "지지됨",
+   "evidence": "회의주의자들은 그냥 틀린 것이다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "'물질적 대상들이 존재한다는 것을 안다'는 메타 상식",
+   "label": "지지됨",
+   "evidence": "나는 물질적 대상들이 존재한다는 것을 안다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "우유병 같은 평범한 상식은 맥락에 묶여 있다",
+   "label": "지지됨",
+   "evidence": "meta Cs의 특징: 맥락-자유적",
+   "note": "대비로 읽은 바꿔 쓰기."
+  },
+  {
+   "n": 5,
+   "text": "무어의 반박과 증명이 옳은 경우는 평범한 상식에 한정",
+   "label": "지지됨",
+   "evidence": "옳은 케이스는 평범한 CS의 경우다",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "영진 님은 메타 상식이 평범한 말인지 따로 묻는다",
+   "label": "지지됨",
+   "evidence": "meta-CS는 plain한 말들인가?",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/철학/Skepticism 38081f8f1f254f7a9d8fcc551c18371e.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

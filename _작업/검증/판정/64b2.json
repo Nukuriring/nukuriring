@@ -1,0 +1,70 @@
+{
+ "id": "64b2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "중국은 리학과 도학으로, 서구는 Neo-Confucianism으로 신유학을 부른다",
+   "label": "지지됨",
+   "evidence": "중국에서는 리학(理學)",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "중국에서는 신유학을 리학이라 부른다",
+   "label": "지지됨",
+   "evidence": "중국에서는 리학(理學)",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "송사에 도학전이 있어 도학이라는 이름도 쓰이고 도학과 반도학의 대립",
+   "label": "지지됨",
+   "evidence": "송사에 도학전 … 도학 <-> 반도학",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "서구에서는 신유학을 Neo-Confucianism이라 옮긴다",
+   "label": "지지됨",
+   "evidence": "신유학 (서구에서 많이 쓴 말)",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "Confucius는 공부자의 음역",
+   "label": "지지됨",
+   "evidence": "콩푸스(공부자) 음역",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "송대 유학이 이전 것을 재해석했다는 뜻에서 네오 공부자",
+   "label": "지지됨",
+   "evidence": "이전의 것을 재해석했다고 해서, 네오 공부자",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "풍우란이 서양인에게 쉽게 하려고 이 용어를 차용",
+   "label": "지지됨",
+   "evidence": "이해하기 쉽게 하기 위해서 … 용어 차용",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "현대 신유학은 New Confucianism으로 따로 부른다",
+   "label": "지지됨",
+   "evidence": "현대(당대) 신유학은 New confuciansim",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/철학 자료 마스터/0314 서론 35697cdd867e81d5a96df7ad10bf910f.md",
+  "문헌/@한국철학사2022 서론에서 이이까지 강의 필기.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
