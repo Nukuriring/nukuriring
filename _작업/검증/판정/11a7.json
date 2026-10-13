@@ -1,0 +1,64 @@
+{
+ "id": "11a7",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "골드만은 사전 정당화를 사후 정당화가 가능한 인지 상태로 분석한다",
+   "label": "지지됨",
+   "evidence": "ex ante justified ... ex post justified",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "믿음 없이 쓰이는 justified의 용법(조언 예)",
+   "label": "지지됨",
+   "evidence": "he is still suspending judgment",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "사후/사전 구별 정의",
+   "label": "지지됨",
+   "evidence": "ex post use ... ex ante use",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "분석 (11) 내용(p. 345)",
+   "label": "지지됨",
+   "evidence": "reliable belief-forming operation available to S",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "전체 인지 상태도 알맞은 인과 이력이 필요해 (11)도 역사적",
+   "label": "지지됨",
+   "evidence": "(11) is implicitly an Historical account",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "주석: 퍼스의 믿음적/명제적 보증 구별과 비슷",
+   "label": "지지됨",
+   "evidence": "similar to Roderick Firth's distinction",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "앎과의 관계에서는 사후 정당화가 알맞은 분석 대상",
+   "label": "지지됨",
+   "evidence": "appropriate analysandum if ... knowledge",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Goldman1979 What Is Justified Belief.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-12_Goldman-3.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-Goldman_주석.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

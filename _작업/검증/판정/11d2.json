@@ -1,0 +1,63 @@
+{
+ "id": "11d2",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "콰인에 따르면 전형적 물체 진술은 자기 몫의 경험적 함축을 가지지 않는다",
+   "label": "지지됨",
+   "evidence": "has no fund of experiential implications it can call its own",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "퍼스 기준과 긴 관찰 문장 번역의 길",
+   "label": "지지됨",
+   "evidence": "chapter-length sentence in observational language",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "번역 포기는 경험적 의미에 다가갈 수 없다는 인정",
+   "label": "지지됨",
+   "evidence": "inaccessible and ineffable",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "경험적 함축은 이론 덩어리가 함께 가지며 예측 실패 시 덩어리 전체 반증",
+   "label": "부분 지지",
+   "evidence": "A substantial mass of theory ... will commonly have",
+   "note": "원문은 'commonly'(흔히)인데 카드는 한정 없이 단정."
+  },
+  {
+   "n": 4,
+   "text": "퍼스+뒤엠이면 번역 불확정성이 자연스러운 결론",
+   "label": "지지됨",
+   "evidence": "indeterminacy of translation ... natural conclusion",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "결론이 반갑지 않아도 검증주의 의미론 유지, 아이의 언어 학습",
+   "label": "지지됨",
+   "evidence": "Surely one has no choice but to be an empiricist",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "현장 언어학자는 발화와 자극 상황의 공존밖에 자료 없다",
+   "label": "부분 지지",
+   "evidence": "If the linguist does not lean on related languages",
+   "note": "원문은 '관련 언어의 기존 번역 관행에 기대지 않는다면'이라는 조건을 달았는데 카드에서 빠짐."
+  }
+ ],
+ "sources_used": [
+  "문헌/@Quine1969 Epistemology Naturalized.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-18_Quine-EN-2.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

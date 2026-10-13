@@ -1,0 +1,81 @@
+{
+ "id": "11b3b",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "골드만의 역사적 신빙론은 소사가 말하는 형식적 토대론의 한 사례이다",
+   "label": "연결",
+   "evidence": "",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "골드만은 비인식적 용어·재귀 형식으로 조건을 명시하려 한다",
+   "label": "지지됨",
+   "evidence": "recursive or inductive format ... non-epistemic terms",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "골드만은 자기 이론을 통시적 토대론으로 규정",
+   "label": "지지됨",
+   "evidence": "I have no objection to this label",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "기초 조항은 믿음 독립적 과정을 출발점으로 삼는다",
+   "label": "지지됨",
+   "evidence": "none of whose inputs are belief-states",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "소사의 실질적 토대론 정의",
+   "label": "지지됨",
+   "evidence": "ultimate sources of justification other than relations",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "골드만 이론은 실질적 토대론에도 해당",
+   "label": "연결",
+   "evidence": "",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "골드만은 현재 시점 사실만으로 정해진다는 가정을 버림",
+   "label": "지지됨",
+   "evidence": "depend on its prior history",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "소사의 수반 기반에 인지·경험 이력 포함",
+   "label": "지지됨",
+   "evidence": "his cognitive and experiential history",
+   "note": ""
+  },
+  {
+   "n": 8,
+   "text": "주석 7: 인과적 앎 이론은 정당화 원리 정식화이며 골드만·스웨인이 비슷한 결론",
+   "label": "지지됨",
+   "evidence": "fundamental principles of justification",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Goldman1979 What Is Justified Belief.md",
+  "문헌/@Sosa1980 The Raft and the Pyramid.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-11_Goldman-2.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-14_Sosa-2.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-15_Sosa-3.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-Sosa_주석.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

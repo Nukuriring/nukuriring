@@ -1,0 +1,70 @@
+{
+ "id": "11a1",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "의심 불가능성에서 교정 불가능성까지 기초 조항 후보를 모두 기각한다",
+   "label": "지지됨",
+   "evidence": "(1)~(4) 각각 반례로 기각",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "의심 불가능성(심리적): 광신자와 닉슨 사례",
+   "label": "지지됨",
+   "evidence": "A religious fanatic may be psychologically incapable",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "자명성: 인간적 불가능성이면 타고난 성향 명제까지 정당화",
+   "label": "부분 지지",
+   "evidence": "That reading would probably make (2) an unacceptable principle",
+   "note": "원문은 'probably', 'it seems unlikely'로 한정했는데 카드는 단정."
+  },
+  {
+   "n": 3,
+   "text": "자명성: 논리적 불가능성이면 어떤 명제도 충족 못함",
+   "label": "부분 지지",
+   "evidence": "I suspect that (2) is a vacuous principle. I doubt that",
+   "note": "'I suspect', 'I doubt' 한정어가 빠지고 단정으로 바뀜."
+  },
+  {
+   "n": 4,
+   "text": "자기 현시성: 뇌 외과의 사례",
+   "label": "지지됨",
+   "evidence": "brain-surgeon operating on S artificially induced",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "교정 불가능성: 넬슨과 험퍼딩크 반례",
+   "label": "지지됨",
+   "evidence": "Nelson ... Humperdink ... 40 disjuncts",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "보장이 wholly fortuitous할 수 있다(p. 337)",
+   "label": "지지됨",
+   "evidence": "might be wholly fortuitous",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "recognize 조건 추가는 인식적 용어라 불허",
+   "label": "지지됨",
+   "evidence": "\"recognize\" is obviously an epistemic term",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Goldman1979 What Is Justified Belief.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-10_Goldman-1.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

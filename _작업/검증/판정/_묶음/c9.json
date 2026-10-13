@@ -1,0 +1,207 @@
+{
+  "model": "sonnet",
+  "date": "2026-10-13",
+  "cards": [
+    {"id": "11", "voice": "종합", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "골드만과 소사는 인식적 정당화를 비인식적 조건으로 설명하는 일을 과제로 삼는다", "label": "연결", "evidence": "", "note": ""},
+      {"n": 1, "text": "골드만: 정당화 이론은 비인식적 용어로 조건을 밝혀야 한다", "label": "지지됨", "evidence": "specify in non-epistemic terms when a belief is justified", "note": ""},
+      {"n": 2, "text": "행위 공리주의 유비", "label": "지지됨", "evidence": "act utilitarianism ... involve no ethical notions", "note": ""},
+      {"n": 3, "text": "소사: 인식론은 정당화가 비인식적인 것에 수반함을 설명하려 한다", "label": "지지됨", "evidence": "explain how the epistemic justification of a belief supervenes", "note": ""},
+      {"n": 4, "text": "골드만은 신빙성, 소사는 형식적 토대론으로 답한다", "label": "지지됨", "evidence": "reliability of the process ...; formal foundationalism", "note": ""},
+      {"n": 5, "text": "게티어는 정당화 조건을 갖추어도 앎에 불충분한 경우를 보인다", "label": "지지됨", "evidence": "do not constitute a sufficient condition", "note": ""},
+      {"n": 6, "text": "콰인은 연역의 꿈을 접고 심리학 안에서 연구하자고 한다", "label": "지지됨", "evidence": "stopped dreaming of deducing science from sense data", "note": ""},
+      {"n": 7, "text": "콰인은 이 과제와 거리를 둔다", "label": "연결", "evidence": "", "note": ""}
+    ], "sources_used": ["문헌/@Goldman1979 What Is Justified Belief.md", "문헌/@Sosa1980 The Raft and the Pyramid.md", "문헌/@Quine1969 Epistemology Naturalized.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-10_Goldman-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-14_Sosa-2.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-18_Quine-EN-2.md"], "sources_missing": []},
+    {"id": "11a", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "골드만은 정당화 이론이 비인식적 용어로 깊은 설명을 주어야 한다고 요구한다", "label": "지지됨", "evidence": "specify in non-epistemic terms ... deep or revelatory", "note": ""},
+      {"n": 1, "text": "설명 이론을 목표로 하고 일상 기준을 해명한다", "label": "지지됨", "evidence": "explicate the ordinary standards", "note": ""},
+      {"n": 2, "text": "justified는 평가어, 실질 조건을 비인식적으로 진술", "label": "지지됨", "evidence": "an evaluative term, a term of appraisal", "note": ""},
+      {"n": 3, "text": "인식적/비인식적 용어 예시", "label": "지지됨", "evidence": "\"believes that,\" \"is true,\" \"causes\"", "note": ""},
+      {"n": 4, "text": "둘째 제약: 붉게 감각하는 예로 깊이 요구", "label": "지지됨", "evidence": "appropriately deep or revelatory", "note": ""},
+      {"n": 5, "text": "정당화를 알거나 진술할 수 있다고 가정하지 않는다", "label": "지지됨", "evidence": "I make none of these sorts of assumptions", "note": ""},
+      {"n": 6, "text": "기초·재귀·폐쇄 조항, 기초 조항에 인식적 술어 불가", "label": "지지됨", "evidence": "neither this predicate, nor any other epistemic predicate", "note": ""}
+    ], "sources_used": ["문헌/@Goldman1979 What Is Justified Belief.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-10_Goldman-1.md"], "sources_missing": []},
+    {"id": "11a1", "voice": "문헌", "verdict": "부분", "claims": [
+      {"n": 0, "text": "의심 불가능성에서 교정 불가능성까지 기초 조항 후보를 모두 기각한다", "label": "지지됨", "evidence": "(1)~(4) 각각 반례로 기각", "note": ""},
+      {"n": 1, "text": "의심 불가능성(심리적): 광신자와 닉슨 사례", "label": "지지됨", "evidence": "A religious fanatic may be psychologically incapable", "note": ""},
+      {"n": 2, "text": "자명성: 인간적 불가능성이면 타고난 성향 명제까지 정당화", "label": "부분 지지", "evidence": "That reading would probably make (2) an unacceptable principle", "note": "원문은 'probably', 'it seems unlikely'로 한정했는데 카드는 단정."},
+      {"n": 3, "text": "자명성: 논리적 불가능성이면 어떤 명제도 충족 못함", "label": "부분 지지", "evidence": "I suspect that (2) is a vacuous principle. I doubt that", "note": "'I suspect', 'I doubt' 한정어가 빠지고 단정으로 바뀜."},
+      {"n": 4, "text": "자기 현시성: 뇌 외과의 사례", "label": "지지됨", "evidence": "brain-surgeon operating on S artificially induced", "note": ""},
+      {"n": 5, "text": "교정 불가능성: 넬슨과 험퍼딩크 반례", "label": "지지됨", "evidence": "Nelson ... Humperdink ... 40 disjuncts", "note": ""},
+      {"n": 6, "text": "보장이 wholly fortuitous할 수 있다(p. 337)", "label": "지지됨", "evidence": "might be wholly fortuitous", "note": ""},
+      {"n": 7, "text": "recognize 조건 추가는 인식적 용어라 불허", "label": "지지됨", "evidence": "\"recognize\" is obviously an epistemic term", "note": ""}
+    ], "sources_used": ["문헌/@Goldman1979 What Is Justified Belief.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-10_Goldman-1.md"], "sources_missing": []},
+    {"id": "11a3", "voice": "문헌", "verdict": "부분", "claims": [
+      {"n": 0, "text": "믿음의 정당화 지위는 그 믿음을 낳은 과정의 신빙성에 달려 있다", "label": "지지됨", "evidence": "a function of the reliability of the process", "note": ""},
+      {"n": 1, "text": "결함 있는 과정은 오류를 자주 낳는 비신빙성을 공유", "label": "지지됨", "evidence": "tend to produce error a large proportion of the time", "note": ""},
+      {"n": 2, "text": "지각·기억·좋은 추론·내성은 대체로 참인 믿음을 낳음", "label": "지지됨", "evidence": "the beliefs they produce are generally true", "note": ""},
+      {"n": 3, "text": "신빙성을 참인 믿음을 낳는 경향으로 일차 규정", "label": "지지됨", "evidence": "as a first approximation ... tendency", "note": ""},
+      {"n": 4, "text": "산양 사례: 멀리서 본 믿음이 30야드 믿음보다 덜 정당화", "label": "부분 지지", "evidence": "(ceteris paribus) more justified", "note": "원문의 'ceteris paribus' 조건이 카드에서 빠짐(경미)."},
+      {"n": 5, "text": "흐릿한 기억, 편향된 표본 추론도 정도가 낮다", "label": "지지됨", "evidence": "hazy and indistinct memory impression ... biased sampling", "note": ""},
+      {"n": 6, "text": "완전한 신빙성 불요, 거짓인 정당화된 믿음 가능", "label": "지지됨", "evidence": "there can be justified beliefs that are false", "note": ""},
+      {"n": 7, "text": "빈도/성향, 신빙성 정도는 일상 개념이 모호해 이론도 모호", "label": "지지됨", "evidence": "appropriate to leave the theory vague", "note": ""}
+    ], "sources_used": ["문헌/@Goldman1979 What Is Justified Belief.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-11_Goldman-2.md"], "sources_missing": []},
+    {"id": "11a3b", "voice": "문헌", "verdict": "부분", "claims": [
+      {"n": 0, "text": "골드만은 추론과 기억에 조건부 신빙성을 요구하여 재귀적 이론을 세운다", "label": "지지됨", "evidence": "a notion of \"conditional reliability\"", "note": ""},
+      {"n": 1, "text": "(5)는 충분조건으로 쓸 만하나 필요조건으로는 너무 강하다", "label": "지지됨", "evidence": "But these requirements are too strong", "note": ""},
+      {"n": 2, "text": "거짓 전제 추론, 거짓 믿음 보존 기억은 참인 믿음을 낳을 수 없다", "label": "부분 지지", "evidence": "cannot be expected to produce true belief", "note": "원문은 '낳을 것을 기대할 수 없다'인데 카드는 '낳을 수 없다'로 단정."},
+      {"n": 3, "text": "조건부 신빙성 정의(입력 참일 때 충분한 비율이 참)", "label": "지지됨", "evidence": "sufficient proportion of its output-beliefs are true", "note": ""},
+      {"n": 4, "text": "믿음 의존적/독립적 과정 구별", "label": "지지됨", "evidence": "belief-dependent and belief-independent", "note": ""},
+      {"n": 5, "text": "(6A), (6B) 내용(pp. 340–341)", "label": "지지됨", "evidence": "(6A) ... (6B) ... themselves justified", "note": ""},
+      {"n": 6, "text": "폐쇄 조항: 신빙적 계보를 가질 때 잘 형성됨", "label": "지지됨", "evidence": "it is \"well-formed;'", "note": ""},
+      {"n": 7, "text": "과잉 결정되면 한 계보만 전부 신빙적이면 된다", "label": "지지됨", "evidence": "at least one ancestral tree must have", "note": ""},
+      {"n": 8, "text": "주석 10: 복권 역설 유비를 인정하고 일상 개념이 이를 의식 않고 형성", "label": "지지됨", "evidence": "formed without recognition of this kind of problem", "note": ""}
+    ], "sources_used": ["문헌/@Goldman1979 What Is Justified Belief.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-11_Goldman-2.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-Goldman_주석.md"], "sources_missing": []},
+    {"id": "11a5", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "골드만은 자애로운 악마 반례에 맞서 신빙성에 대한 우리의 믿음을 설명 근거로 삼는다", "label": "지지됨", "evidence": "must refer to our beliefs about reliability", "note": ""},
+      {"n": 1, "text": "악마 세계에서 희망적 사고가 신빙적이나 정당화로 보기 어렵다", "label": "지지됨", "evidence": "surely we don't want to regard", "note": ""},
+      {"n": 2, "text": "자기 직관도 타인의 직관도 분명하지 않다", "label": "지지됨", "evidence": "those of other people I have consulted) are not entirely clear", "note": ""},
+      {"n": 3, "text": "첫째 길: 그 세계에서는 정당화된다고 수용", "label": "지지됨", "evidence": "beliefs ... wishful thinking are justified", "note": ""},
+      {"n": 4, "text": "둘째 길: 비조작 환경에서의 성향으로 제한", "label": "지지됨", "evidence": "non-manipulated environment", "note": ""},
+      {"n": 5, "text": "셋째 길: 우리 세계에서 신빙적인 과정, 게으른 악마 문제", "label": "지지됨", "evidence": "lazy until now, will shortly start arranging", "note": ""},
+      {"n": 6, "text": "표준 개념 분석을 벗어나 우리의 믿음으로 설명(p. 343)", "label": "지지됨", "evidence": "depart from that format", "note": ""},
+      {"n": 7, "text": "그 믿음이 틀려도 설명 적합성은 줄지 않고, what we believe about wishful thinking", "label": "지지됨", "evidence": "that does not affect the adequacy of the explanation", "note": ""}
+    ], "sources_used": ["문헌/@Goldman1979 What Is Justified Belief.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-12_Goldman-3.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-Goldman_주석.md"], "sources_missing": []},
+    {"id": "11a6a", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "메타믿음 조건은 동물과 어린아이의 정당화된 믿음을 배제한다", "label": "지지됨", "evidence": "wrongly precludes unreflective creatures", "note": ""},
+      {"n": 1, "text": "(7)은 justifiably 때문에 기초 조항이 될 수 없다", "label": "지지됨", "evidence": "contains the epistemic term \"justifiably\"", "note": ""},
+      {"n": 2, "text": "(8)은 부모의 반대 증언에도 존스가 믿는 경우를 못 막는다", "label": "지지됨", "evidence": "despite all the (trustworthy) contrary testimony", "note": ""},
+      {"n": 3, "text": "(9)는 형식상 허용되나 두 문제", "label": "지지됨", "evidence": "formally admissible as a base clause", "note": ""},
+      {"n": 4, "text": "정당화된 믿음을 대략 잘 형성된 믿음으로 보는 골드만", "label": "지지됨", "evidence": "justified belief is, at least roughly, well-formed", "note": ""},
+      {"n": 5, "text": "일차 믿음의 계보는 정당화 못하는데 메타믿음의 계보는 한다는 함의", "label": "지지됨", "evidence": "reliability of a meta-belief's ancestry confers", "note": ""},
+      {"n": 6, "text": "흘러내림을 받아들여도 메타믿음의 정당화는 보장 안 됨", "label": "지지됨", "evidence": "no assurance ... meta-belief itself is justified", "note": ""}
+    ], "sources_used": ["문헌/@Goldman1979 What Is Justified Belief.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-12_Goldman-3.md"], "sources_missing": []},
+    {"id": "11a7", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "골드만은 사전 정당화를 사후 정당화가 가능한 인지 상태로 분석한다", "label": "지지됨", "evidence": "ex ante justified ... ex post justified", "note": ""},
+      {"n": 1, "text": "믿음 없이 쓰이는 justified의 용법(조언 예)", "label": "지지됨", "evidence": "he is still suspending judgment", "note": ""},
+      {"n": 2, "text": "사후/사전 구별 정의", "label": "지지됨", "evidence": "ex post use ... ex ante use", "note": ""},
+      {"n": 3, "text": "분석 (11) 내용(p. 345)", "label": "지지됨", "evidence": "reliable belief-forming operation available to S", "note": ""},
+      {"n": 4, "text": "전체 인지 상태도 알맞은 인과 이력이 필요해 (11)도 역사적", "label": "지지됨", "evidence": "(11) is implicitly an Historical account", "note": ""},
+      {"n": 5, "text": "주석: 퍼스의 믿음적/명제적 보증 구별과 비슷", "label": "지지됨", "evidence": "similar to Roderick Firth's distinction", "note": ""},
+      {"n": 6, "text": "앎과의 관계에서는 사후 정당화가 알맞은 분석 대상", "label": "지지됨", "evidence": "appropriate analysandum if ... knowledge", "note": ""}
+    ], "sources_used": ["문헌/@Goldman1979 What Is Justified Belief.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-12_Goldman-3.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-Goldman_주석.md"], "sources_missing": []},
+    {"id": "11b", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "소사는 특수주의 입장에서 고전적 토대론을 버리고 피라미드와 뗏목을 비교한다", "label": "지지됨", "evidence": "as good particularists we hold on to the knowledge", "note": ""},
+      {"n": 1, "text": "A1 참이고 정당화, A2 인식적 정당화", "label": "지지됨", "evidence": "epistemic (or theoretical) justification", "note": ""},
+      {"n": 2, "text": "특수주의와 방법주의 정의", "label": "지지됨", "evidence": "Particularism would have us begin with an answer to a(i)", "note": ""},
+      {"n": 3, "text": "데카르트와 흄은 모두 방법주의자, 각자의 결론", "label": "지지됨", "evidence": "Hume ... was no less a methodist than Descartes", "note": ""},
+      {"n": 4, "text": "피라미드 은유와 데카르트식 토대론의 말단·연역", "label": "지지됨", "evidence": "each terminating node must be an indubitable proposition", "note": ""},
+      {"n": 5, "text": "이중의 약점과 인용문(p. 147)", "label": "지지됨", "evidence": "hold on to the knowledge and reject the criteria", "note": ""},
+      {"n": 6, "text": "뗏목: 닻 없이 떠서 수리, 포괄적 체계와 정합", "label": "지지됨", "evidence": "a raft that floats free of any anchor", "note": ""}
+    ], "sources_used": ["문헌/@Sosa1980 The Raft and the Pyramid.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-13_Sosa-1.md"], "sources_missing": []},
+    {"id": "11b1b", "voice": "종합", "verdict": "부분", "claims": [
+      {"n": 0, "text": "소사가 거부하는 딜레마의 둘째 뿔은 맥도웰의 소여 비판과 같은 요구를 담는다", "label": "연결", "evidence": "", "note": ""},
+      {"n": 1, "text": "둘째 뿔: 명제 내용 없는 상태가 가설을 어떻게 지지하나", "label": "지지됨", "evidence": "an enigma how such a state can provide support", "note": ""},
+      {"n": 2, "text": "소사는 요약에서 logically dumb라고 정리(p. 160)", "label": "지지됨", "evidence": "must be logically dumb?", "note": ""},
+      {"n": 3, "text": "맥도웰: 보증 관계는 개념 능력 행사 사이로만, 바깥 영향은 면죄", "label": "지지됨", "evidence": "문헌/@McDowell1994 §3 요약: 정당화 대신 면죄", "note": ""},
+      {"n": 4, "text": "두 요구는 같은 논리적 공간 요구로 겹침", "label": "연결", "evidence": "", "note": ""},
+      {"n": 5, "text": "데이비슨 인용 nothing can count as a reason", "label": "지지됨", "evidence": "_작업/후보/C_맥도웰_개념주의.md C04", "note": ""},
+      {"n": 6, "text": "소사는 이 요구를 지성주의 모형이라 부르고 윤리 유비로 거부", "label": "지지됨", "evidence": "rests on an Intellectualist Model of Justification", "note": ""},
+      {"n": 7, "text": "소사는 붉은 것의 시각 경험을 정당화의 원천으로 인정한다", "label": "부분 지지", "evidence": "justified in part because it has its origins", "note": "원문은 '일부'(in part)이고 '가능하지 않은가'라는 물음과 'If we accept such examples'라는 조건으로 말함. 카드는 단정."},
+      {"n": 8, "text": "수반 이해→소사 결론, 이유의 공간→맥도웰 결론", "label": "연결", "evidence": "", "note": ""},
+      {"n": 9, "text": "소사: 같은 딜레마가 정합론에도 적용", "label": "지지됨", "evidence": "a form of it can be turned against the coherentist", "note": ""},
+      {"n": 10, "text": "맥도웰은 소여와 정합론의 왕복을 시소로 진단", "label": "지지됨", "evidence": "이 왕복을 시소(seesaw)에 빗대고", "note": ""},
+      {"n": 11, "text": "소사는 전제를 버리고, 맥도웰은 경험 안 개념 능력으로 빠져나옴", "label": "지지됨", "evidence": "conceptual capacities are drawn on in receptivity", "note": ""}
+    ], "sources_used": ["문헌/@Sosa1980 The Raft and the Pyramid.md", "문헌/@McDowell1994 Mind and World.md", "문헌/@McDowell2008 Avoiding the Myth of the Given.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-13_Sosa-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-16_Sosa-4.md", "_작업/후보/C_맥도웰_개념주의.md"], "sources_missing": []},
+    {"id": "11b3b", "voice": "종합", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "골드만의 역사적 신빙론은 소사가 말하는 형식적 토대론의 한 사례이다", "label": "연결", "evidence": "", "note": ""},
+      {"n": 1, "text": "골드만은 비인식적 용어·재귀 형식으로 조건을 명시하려 한다", "label": "지지됨", "evidence": "recursive or inductive format ... non-epistemic terms", "note": ""},
+      {"n": 2, "text": "골드만은 자기 이론을 통시적 토대론으로 규정", "label": "지지됨", "evidence": "I have no objection to this label", "note": ""},
+      {"n": 3, "text": "기초 조항은 믿음 독립적 과정을 출발점으로 삼는다", "label": "지지됨", "evidence": "none of whose inputs are belief-states", "note": ""},
+      {"n": 4, "text": "소사의 실질적 토대론 정의", "label": "지지됨", "evidence": "ultimate sources of justification other than relations", "note": ""},
+      {"n": 5, "text": "골드만 이론은 실질적 토대론에도 해당", "label": "연결", "evidence": "", "note": ""},
+      {"n": 6, "text": "골드만은 현재 시점 사실만으로 정해진다는 가정을 버림", "label": "지지됨", "evidence": "depend on its prior history", "note": ""},
+      {"n": 7, "text": "소사의 수반 기반에 인지·경험 이력 포함", "label": "지지됨", "evidence": "his cognitive and experiential history", "note": ""},
+      {"n": 8, "text": "주석 7: 인과적 앎 이론은 정당화 원리 정식화이며 골드만·스웨인이 비슷한 결론", "label": "지지됨", "evidence": "fundamental principles of justification", "note": ""}
+    ], "sources_used": ["문헌/@Goldman1979 What Is Justified Belief.md", "문헌/@Sosa1980 The Raft and the Pyramid.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-11_Goldman-2.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-14_Sosa-2.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-15_Sosa-3.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-Sosa_주석.md"], "sources_missing": []},
+    {"id": "11b5a", "voice": "종합", "verdict": "부분", "claims": [
+      {"n": 0, "text": "소사와 골드만은 신빙성이 세계마다 달라지는 사례를 서로 반대 방향으로 쓴다", "label": "연결", "evidence": "", "note": ""},
+      {"n": 1, "text": "소사의 물음 인용(p. 159)", "label": "지지됨", "evidence": "nearly always false?", "note": ""},
+      {"n": 2, "text": "소사는 이 물음을 원리의 권위가 신빙성이라는 우연적 사정에서 온다는 근거로 쓴다", "label": "부분 지지", "evidence": "authority ... apparently derives from contingent circumstances", "note": "원문은 'apparently'(그렇게 보인다)로 한정했는데 카드는 단정."},
+      {"n": 3, "text": "골드만의 악마 세계와 반론 검토(pp. 342–343)", "label": "지지됨", "evidence": "benevolent demon so arranges things", "note": ""},
+      {"n": 4, "text": "소사 사례는 원천 고정·신빙성 하락, 골드만은 반대", "label": "연결", "evidence": "", "note": ""},
+      {"n": 5, "text": "셋째 해석: 우리 세계에서 신빙적이면 어느 세계서든 정당화", "label": "지지됨", "evidence": "reliable in our world", "note": ""},
+      {"n": 6, "text": "셋째 해석과 마지막 제안이 소사의 물음 직관과 충돌", "label": "연결", "evidence": "", "note": ""}
+    ], "sources_used": ["문헌/@Sosa1980 The Raft and the Pyramid.md", "문헌/@Goldman1979 What Is Justified Belief.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-15_Sosa-3.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-12_Goldman-3.md"], "sources_missing": []},
+    {"id": "11c", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "게티어는 정당화된 참인 믿음이 앎에 충분하지 않음을 두 사례로 보인다", "label": "지지됨", "evidence": "do not constitute a sufficient condition", "note": ""},
+      {"n": 1, "text": "정식 (a)와 치좀·에이어 정식을 겨냥", "label": "지지됨", "evidence": "The same argument will show that (b) and (c) fail", "note": ""},
+      {"n": 2, "text": "첫째 전제: 거짓 명제도 정당화될 수 있다", "label": "지지됨", "evidence": "justified in believing a proposition which is in fact false", "note": ""},
+      {"n": 3, "text": "둘째 전제: 연역의 결과로 받아들이면 정당화 전이", "label": "지지됨", "evidence": "accepts Q as a result of this deduction", "note": ""},
+      {"n": 4, "text": "사례 I의 구성과 결론", "label": "지지됨", "evidence": "(e) is true in virtue of the number of coins", "note": ""},
+      {"n": 5, "text": "사례 II: 포드 선언 명제, 빌린 차, 우연히 바르셀로나(p. 193)", "label": "지지됨", "evidence": "by the sheerest coincidence", "note": ""},
+      {"n": 6, "text": "적절히 바꾸면 치좀·에이어 정식에도 적용", "label": "지지됨", "evidence": "with appropriate changes, will suffice", "note": ""},
+      {"n": 7, "text": "주석: 플라톤 테아이테토스 201, 메논 98", "label": "지지됨", "evidence": "Theaetetus 201, and perhaps accepting one at Meno 98", "note": ""}
+    ], "sources_used": ["문헌/@Gettier1963 Is Justified True Belief Knowledge.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-19_Gettier-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-Gettier_주석.md"], "sources_missing": []},
+    {"id": "11c1", "voice": "종합", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "게티어의 두 사례는 거짓 전제를 거치므로 소사의 무결함 조건을 충족하지 못한다", "label": "연결", "evidence": "", "note": ""},
+      {"n": 1, "text": "사례 I의 (d)와 사례 II의 (f)는 거짓", "label": "지지됨", "evidence": "(d), from which Smith inferred (e), is false", "note": ""},
+      {"n": 2, "text": "두 사례는 게티어의 두 전제를 이용한다", "label": "지지됨", "evidence": "justified false belief; deduction transfers", "note": ""},
+      {"n": 3, "text": "소사: 결함 없는 피라미드, 모든 마디 참이고 명증, 거짓 마디 없음", "label": "지지됨", "evidence": "must contain no false nodes", "note": ""},
+      {"n": 4, "text": "정식 (C): 어떤 거짓 믿음도 귀속하지 않고 명증하게", "label": "지지됨", "evidence": "without attributing to S any false belief", "note": ""},
+      {"n": 5, "text": "소사의 정식은 게티어의 두 사례를 배제", "label": "연결", "evidence": "", "note": ""},
+      {"n": 6, "text": "소사: 거짓 없는 추론의 믿음은 게티어 사례에 면역인 듯(p. 162)", "label": "지지됨", "evidence": "seems immune to Gettier examples", "note": ""},
+      {"n": 7, "text": "알 수 있는 위치가 아니면 앎에 못 미침", "label": "지지됨", "evidence": "may not be in a position to know", "note": ""}
+    ], "sources_used": ["문헌/@Gettier1963 Is Justified True Belief Knowledge.md", "문헌/@Sosa1980 The Raft and the Pyramid.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-19_Gettier-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-16_Sosa-4.md"], "sources_missing": []},
+    {"id": "11d", "voice": "문헌", "verdict": "부분", "claims": [
+      {"n": 0, "text": "콰인은 인식론을 개념과 교설의 두 측면으로 나누고 교설 측면의 실패를 인정한다", "label": "지지됨", "evidence": "The Humean predicament is the human predicament", "note": ""},
+      {"n": 1, "text": "수학 기초론의 개념적·교설적 이중 구조", "label": "지지됨", "evidence": "divide symmetrically into two sorts, conceptual and doctrinal", "note": ""},
+      {"n": 2, "text": "논리학·집합론 환원, 집합론 공리는 정리보다 덜 자명", "label": "지지됨", "evidence": "less obviousness and certainty ... than do most", "note": ""},
+      {"n": 3, "text": "자연적 앎의 개념 측면과 교설 측면", "label": "지지됨", "evidence": "explaining the notion of body in sensory terms", "note": ""},
+      {"n": 4, "text": "흄: 개념 측면 대담, 교설 측면 절망", "label": "지지됨", "evidence": "On the doctrinal side ... Hume despaired", "note": ""},
+      {"n": 5, "text": "콰인은 흄이 남긴 자리보다 나아가지 못했다고 쓴다(p. 529)", "label": "지지됨", "evidence": "I do not see that we are further along today", "note": ""},
+      {"n": 6, "text": "개념 측면 진보: 벤담의 문맥적 정의와 집합론 보조 자원", "label": "부분 지지", "evidence": "the crucial step forward ... Bentham", "note": "진보는 벤담의 문맥적 정의에 귀속되고, 집합론은 '해방 효과를 기대할 수 있는' 방도이면서 존재론적 후퇴라고 평가됨. 카드는 둘 다 진보를 가져왔다고 단정."}
+    ], "sources_used": ["문헌/@Quine1969 Epistemology Naturalized.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-17_Quine-EN-1.md"], "sources_missing": []},
+    {"id": "11d1", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "합리적 재구성은 번역적 환원에 실패하여 심리학보다 나은 점을 잃는다", "label": "지지됨", "evidence": "renounce the last remaining advantage", "note": ""},
+      {"n": 1, "text": "러셀의 기획, 카르납 1928 『구조』가 가장 가까이 감", "label": "지지됨", "evidence": "who came nearest to executing it", "note": ""},
+      {"n": 2, "text": "확실성 포기 뒤에도 두 동기가 남는다(p. 530)", "label": "지지됨", "evidence": "There were two good reasons still", "note": ""},
+      {"n": 3, "text": "수용기 자극이 증거의 전부라면 심리학으로 만족하지 못할 까닭은", "label": "지지됨", "evidence": "Why not settle for psychology?", "note": ""},
+      {"n": 4, "text": "남는 까닭은 번역적 환원, 이론적 불필요 입증", "label": "지지됨", "evidence": "theoretically superfluous", "note": ""},
+      {"n": 5, "text": "시공간 위치 배정 대목에서 번역 열쇠 없음, 1936 환원 형식", "label": "지지됨", "evidence": "do not in general give equivalences; they give implications", "note": ""},
+      {"n": 6, "text": "Definire est eliminare, 제거에 의한 정당화(p. 531)", "label": "지지됨", "evidence": "a legitimation by elimination", "note": ""},
+      {"n": 7, "text": "마지막 이점이 사라지고 Better to discover(pp. 531–532)", "label": "지지됨", "evidence": "Better to discover how science is in fact developed", "note": ""}
+    ], "sources_used": ["문헌/@Quine1969 Epistemology Naturalized.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-17_Quine-EN-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-18_Quine-EN-2.md"], "sources_missing": []},
+    {"id": "11d2", "voice": "문헌", "verdict": "부분", "claims": [
+      {"n": 0, "text": "콰인에 따르면 전형적 물체 진술은 자기 몫의 경험적 함축을 가지지 않는다", "label": "지지됨", "evidence": "has no fund of experiential implications it can call its own", "note": ""},
+      {"n": 1, "text": "퍼스 기준과 긴 관찰 문장 번역의 길", "label": "지지됨", "evidence": "chapter-length sentence in observational language", "note": ""},
+      {"n": 2, "text": "번역 포기는 경험적 의미에 다가갈 수 없다는 인정", "label": "지지됨", "evidence": "inaccessible and ineffable", "note": ""},
+      {"n": 3, "text": "경험적 함축은 이론 덩어리가 함께 가지며 예측 실패 시 덩어리 전체 반증", "label": "부분 지지", "evidence": "A substantial mass of theory ... will commonly have", "note": "원문은 'commonly'(흔히)인데 카드는 한정 없이 단정."},
+      {"n": 4, "text": "퍼스+뒤엠이면 번역 불확정성이 자연스러운 결론", "label": "지지됨", "evidence": "indeterminacy of translation ... natural conclusion", "note": ""},
+      {"n": 5, "text": "결론이 반갑지 않아도 검증주의 의미론 유지, 아이의 언어 학습", "label": "지지됨", "evidence": "Surely one has no choice but to be an empiricist", "note": ""},
+      {"n": 6, "text": "현장 언어학자는 발화와 자극 상황의 공존밖에 자료 없다", "label": "부분 지지", "evidence": "If the linguist does not lean on related languages", "note": "원문은 '관련 언어의 기존 번역 관행에 기대지 않는다면'이라는 조건을 달았는데 카드에서 빠짐."}
+    ], "sources_used": ["문헌/@Quine1969 Epistemology Naturalized.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-18_Quine-EN-2.md"], "sources_missing": []},
+    {"id": "11d3", "voice": "문헌", "verdict": "부분", "claims": [
+      {"n": 0, "text": "콰인은 인식론을 심리학의 한 장으로 놓고 상호 포함을 인정한다", "label": "지지됨", "evidence": "reciprocal containment", "note": ""},
+      {"n": 1, "text": "환원 불가능성에서 인식론의 파산, 비엔나 학단, 비트겐슈타인 치료", "label": "지지됨", "evidence": "the term \"epistemology\" was next", "note": ""},
+      {"n": 2, "text": "인식론은 a chapter of psychology and hence of natural science(p. 533)", "label": "지지됨", "evidence": "a chapter of psychology and hence of natural science", "note": ""},
+      {"n": 3, "text": "통제된 입력·출력 연구", "label": "지지됨", "evidence": "experimentally controlled input", "note": ""},
+      {"n": 4, "text": "빈약한 입력/쏟아지는 출력 연구의 동기는 옛 인식론과 같다", "label": "부분 지지", "evidence": "somewhat the same reasons that always prompted epistemology", "note": "원문은 'somewhat'(어느 정도)인데 카드는 '같아서'로 단정."},
+      {"n": 5, "text": "옛 인식론은 자연과학을 품고 새 인식론은 자연과학에 포함(p. 534)", "label": "지지됨", "evidence": "containment in different senses", "note": ""},
+      {"n": 6, "text": "연역의 꿈을 접었으므로 순환 우려는 힘을 잃는다", "label": "지지됨", "evidence": "it is all right now that we have stopped dreaming", "note": ""},
+      {"n": 7, "text": "이해가 대상 과학보다 낫기를 기대하지 않고 노이라트의 뱃사람", "label": "지지됨", "evidence": "the mariner who has to rebuild his boat", "note": ""}
+    ], "sources_used": ["문헌/@Quine1969 Epistemology Naturalized.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-18_Quine-EN-2.md"], "sources_missing": []},
+    {"id": "11d3b", "voice": "종합", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "골드만의 신빙론은 정당화 개념을 유지하므로 콰인의 자연화와 일부만 겹친다", "label": "연결", "evidence": "", "note": ""},
+      {"n": 1, "text": "골드만은 콰인·포퍼를 역사적 인식론으로 분류하되 정당화는 해명 대상이 아니라 단서(p. 341)", "label": "지지됨", "evidence": "not their avowed explicandum", "note": ""},
+      {"n": 2, "text": "두 기획이 입력에서 출력에 이르는 인과 과정을 중시하며 겹침", "label": "연결", "evidence": "", "note": ""},
+      {"n": 3, "text": "골드만은 과정을 유기체 안의 인지적 사건으로 한정", "label": "지지됨", "evidence": "events within the organism's nervous system", "note": ""},
+      {"n": 4, "text": "콰인은 수용기 자극을 인지 기제의 입력으로 삼는다", "label": "지지됨", "evidence": "best looked upon as the input to our cognitive mechanism", "note": ""},
+      {"n": 5, "text": "골드만은 justified를 평가어로 유지, 비인식적 사실로 밝히려 함", "label": "지지됨", "evidence": "an evaluative term, a term of appraisal", "note": ""},
+      {"n": 6, "text": "콰인은 입증 목표를 접고 이해가 과학보다 낫기를 기대하지 않는다", "label": "지지됨", "evidence": "do not intend that understanding to be any better", "note": ""},
+      {"n": 7, "text": "자연주의적이지만 규범 개념을 남겨 갈린다", "label": "연결", "evidence": "", "note": ""},
+      {"n": 8, "text": "악마 세계 대목의 설명이 콰인의 기획에 가까워진다", "label": "연결", "evidence": "", "note": ""}
+    ], "sources_used": ["문헌/@Goldman1979 What Is Justified Belief.md", "문헌/@Quine1969 Epistemology Naturalized.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-11_Goldman-2.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-12_Goldman-3.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-18_Quine-EN-2.md"], "sources_missing": []},
+    {"id": "11d4a", "voice": "문헌", "verdict": "부분", "claims": [
+      {"n": 0, "text": "관찰문장은 증거의 저장소이면서 언어로 들어가는 유일한 입구이다", "label": "지지됨", "evidence": "They afford the only entry to a language", "note": ""},
+      {"n": 1, "text": "관찰문장은 개념/교설 양쪽에서 근본적, 증거 저장소", "label": "지지됨", "evidence": "repository of evidence for scientific hypotheses", "note": ""},
+      {"n": 2, "text": "아이와 현장 언어학자가 가장 먼저 이해를 배우는 문장", "label": "지지됨", "evidence": "learn to understand first, both as children and", "note": ""},
+      {"n": 3, "text": "의미론의 초석, 감각 주변부 최소 검증 단위, wears it on its sleeve", "label": "지지됨", "evidence": "minimal verifiable aggregate", "note": ""},
+      {"n": 4, "text": "번역 불확정성은 관찰문장에 거의 영향이 없다", "label": "지지됨", "evidence": "has little bearing on observation sentences", "note": ""},
+      {"n": 5, "text": "두 언어의 관찰문장을 같게 놓는 일은 경험적 일반화의 문제", "label": "부분 지지", "evidence": "is mostly a matter of empirical generalization", "note": "원문은 'mostly'(대체로)인데 카드는 단정."},
+      {"n": 6, "text": "핸슨 예와 콰인의 답: 공동체 폭, 모든 화자면 절대적 기준(p. 535)", "label": "부분 지지", "evidence": "taking in all speakers of the language, or most", "note": "원문은 '모든 화자, 또는 대부분'인데 카드는 '모든 화자'만 적음(경미)."},
+      {"n": 7, "text": "evidence is verification, 인식론은 의미론이 되고 심리학·언어학과 합쳐짐", "label": "지지됨", "evidence": "epistemology merges with psychology, as well as", "note": ""},
+      {"n": 8, "text": "지각 규범, 캠벨의 진화론적 인식론, 귀납을 진전 기대 영역으로(p. 536)", "label": "지지됨", "evidence": "One possible area is perceptual norms", "note": ""}
+    ], "sources_used": ["문헌/@Quine1969 Epistemology Naturalized.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-18_Quine-EN-2.md"], "sources_missing": []}
+  ]
+}

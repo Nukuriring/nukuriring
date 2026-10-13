@@ -1,0 +1,71 @@
+{
+ "id": "11d1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "합리적 재구성은 번역적 환원에 실패하여 심리학보다 나은 점을 잃는다",
+   "label": "지지됨",
+   "evidence": "renounce the last remaining advantage",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "러셀의 기획, 카르납 1928 『구조』가 가장 가까이 감",
+   "label": "지지됨",
+   "evidence": "who came nearest to executing it",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "확실성 포기 뒤에도 두 동기가 남는다(p. 530)",
+   "label": "지지됨",
+   "evidence": "There were two good reasons still",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "수용기 자극이 증거의 전부라면 심리학으로 만족하지 못할 까닭은",
+   "label": "지지됨",
+   "evidence": "Why not settle for psychology?",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "남는 까닭은 번역적 환원, 이론적 불필요 입증",
+   "label": "지지됨",
+   "evidence": "theoretically superfluous",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "시공간 위치 배정 대목에서 번역 열쇠 없음, 1936 환원 형식",
+   "label": "지지됨",
+   "evidence": "do not in general give equivalences; they give implications",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "Definire est eliminare, 제거에 의한 정당화(p. 531)",
+   "label": "지지됨",
+   "evidence": "a legitimation by elimination",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "마지막 이점이 사라지고 Better to discover(pp. 531–532)",
+   "label": "지지됨",
+   "evidence": "Better to discover how science is in fact developed",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Quine1969 Epistemology Naturalized.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-17_Quine-EN-1.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-18_Quine-EN-2.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

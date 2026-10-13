@@ -1,0 +1,71 @@
+{
+ "id": "11c",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "게티어는 정당화된 참인 믿음이 앎에 충분하지 않음을 두 사례로 보인다",
+   "label": "지지됨",
+   "evidence": "do not constitute a sufficient condition",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "정식 (a)와 치좀·에이어 정식을 겨냥",
+   "label": "지지됨",
+   "evidence": "The same argument will show that (b) and (c) fail",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "첫째 전제: 거짓 명제도 정당화될 수 있다",
+   "label": "지지됨",
+   "evidence": "justified in believing a proposition which is in fact false",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "둘째 전제: 연역의 결과로 받아들이면 정당화 전이",
+   "label": "지지됨",
+   "evidence": "accepts Q as a result of this deduction",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "사례 I의 구성과 결론",
+   "label": "지지됨",
+   "evidence": "(e) is true in virtue of the number of coins",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "사례 II: 포드 선언 명제, 빌린 차, 우연히 바르셀로나(p. 193)",
+   "label": "지지됨",
+   "evidence": "by the sheerest coincidence",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "적절히 바꾸면 치좀·에이어 정식에도 적용",
+   "label": "지지됨",
+   "evidence": "with appropriate changes, will suffice",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "주석: 플라톤 테아이테토스 201, 메논 98",
+   "label": "지지됨",
+   "evidence": "Theaetetus 201, and perhaps accepting one at Meno 98",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Gettier1963 Is Justified True Belief Knowledge.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-19_Gettier-1.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-Gettier_주석.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

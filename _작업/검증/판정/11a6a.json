@@ -1,0 +1,63 @@
+{
+ "id": "11a6a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "메타믿음 조건은 동물과 어린아이의 정당화된 믿음을 배제한다",
+   "label": "지지됨",
+   "evidence": "wrongly precludes unreflective creatures",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "(7)은 justifiably 때문에 기초 조항이 될 수 없다",
+   "label": "지지됨",
+   "evidence": "contains the epistemic term \"justifiably\"",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "(8)은 부모의 반대 증언에도 존스가 믿는 경우를 못 막는다",
+   "label": "지지됨",
+   "evidence": "despite all the (trustworthy) contrary testimony",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "(9)는 형식상 허용되나 두 문제",
+   "label": "지지됨",
+   "evidence": "formally admissible as a base clause",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "정당화된 믿음을 대략 잘 형성된 믿음으로 보는 골드만",
+   "label": "지지됨",
+   "evidence": "justified belief is, at least roughly, well-formed",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "일차 믿음의 계보는 정당화 못하는데 메타믿음의 계보는 한다는 함의",
+   "label": "지지됨",
+   "evidence": "reliability of a meta-belief's ancestry confers",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "흘러내림을 받아들여도 메타믿음의 정당화는 보장 안 됨",
+   "label": "지지됨",
+   "evidence": "no assurance ... meta-belief itself is justified",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Goldman1979 What Is Justified Belief.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-12_Goldman-3.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

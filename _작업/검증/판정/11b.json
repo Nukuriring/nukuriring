@@ -1,0 +1,63 @@
+{
+ "id": "11b",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "소사는 특수주의 입장에서 고전적 토대론을 버리고 피라미드와 뗏목을 비교한다",
+   "label": "지지됨",
+   "evidence": "as good particularists we hold on to the knowledge",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "A1 참이고 정당화, A2 인식적 정당화",
+   "label": "지지됨",
+   "evidence": "epistemic (or theoretical) justification",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "특수주의와 방법주의 정의",
+   "label": "지지됨",
+   "evidence": "Particularism would have us begin with an answer to a(i)",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "데카르트와 흄은 모두 방법주의자, 각자의 결론",
+   "label": "지지됨",
+   "evidence": "Hume ... was no less a methodist than Descartes",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "피라미드 은유와 데카르트식 토대론의 말단·연역",
+   "label": "지지됨",
+   "evidence": "each terminating node must be an indubitable proposition",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "이중의 약점과 인용문(p. 147)",
+   "label": "지지됨",
+   "evidence": "hold on to the knowledge and reject the criteria",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "뗏목: 닻 없이 떠서 수리, 포괄적 체계와 정합",
+   "label": "지지됨",
+   "evidence": "a raft that floats free of any anchor",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Sosa1980 The Raft and the Pyramid.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-13_Sosa-1.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

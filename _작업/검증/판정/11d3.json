@@ -1,0 +1,70 @@
+{
+ "id": "11d3",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "콰인은 인식론을 심리학의 한 장으로 놓고 상호 포함을 인정한다",
+   "label": "지지됨",
+   "evidence": "reciprocal containment",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "환원 불가능성에서 인식론의 파산, 비엔나 학단, 비트겐슈타인 치료",
+   "label": "지지됨",
+   "evidence": "the term \"epistemology\" was next",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "인식론은 a chapter of psychology and hence of natural science(p. 533)",
+   "label": "지지됨",
+   "evidence": "a chapter of psychology and hence of natural science",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "통제된 입력·출력 연구",
+   "label": "지지됨",
+   "evidence": "experimentally controlled input",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "빈약한 입력/쏟아지는 출력 연구의 동기는 옛 인식론과 같다",
+   "label": "부분 지지",
+   "evidence": "somewhat the same reasons that always prompted epistemology",
+   "note": "원문은 'somewhat'(어느 정도)인데 카드는 '같아서'로 단정."
+  },
+  {
+   "n": 5,
+   "text": "옛 인식론은 자연과학을 품고 새 인식론은 자연과학에 포함(p. 534)",
+   "label": "지지됨",
+   "evidence": "containment in different senses",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "연역의 꿈을 접었으므로 순환 우려는 힘을 잃는다",
+   "label": "지지됨",
+   "evidence": "it is all right now that we have stopped dreaming",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "이해가 대상 과학보다 낫기를 기대하지 않고 노이라트의 뱃사람",
+   "label": "지지됨",
+   "evidence": "the mariner who has to rebuild his boat",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Quine1969 Epistemology Naturalized.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-18_Quine-EN-2.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

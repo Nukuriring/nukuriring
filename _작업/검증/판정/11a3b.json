@@ -1,0 +1,78 @@
+{
+ "id": "11a3b",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "골드만은 추론과 기억에 조건부 신빙성을 요구하여 재귀적 이론을 세운다",
+   "label": "지지됨",
+   "evidence": "a notion of \"conditional reliability\"",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "(5)는 충분조건으로 쓸 만하나 필요조건으로는 너무 강하다",
+   "label": "지지됨",
+   "evidence": "But these requirements are too strong",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "거짓 전제 추론, 거짓 믿음 보존 기억은 참인 믿음을 낳을 수 없다",
+   "label": "부분 지지",
+   "evidence": "cannot be expected to produce true belief",
+   "note": "원문은 '낳을 것을 기대할 수 없다'인데 카드는 '낳을 수 없다'로 단정."
+  },
+  {
+   "n": 3,
+   "text": "조건부 신빙성 정의(입력 참일 때 충분한 비율이 참)",
+   "label": "지지됨",
+   "evidence": "sufficient proportion of its output-beliefs are true",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "믿음 의존적/독립적 과정 구별",
+   "label": "지지됨",
+   "evidence": "belief-dependent and belief-independent",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "(6A), (6B) 내용(pp. 340–341)",
+   "label": "지지됨",
+   "evidence": "(6A) ... (6B) ... themselves justified",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "폐쇄 조항: 신빙적 계보를 가질 때 잘 형성됨",
+   "label": "지지됨",
+   "evidence": "it is \"well-formed;'",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "과잉 결정되면 한 계보만 전부 신빙적이면 된다",
+   "label": "지지됨",
+   "evidence": "at least one ancestral tree must have",
+   "note": ""
+  },
+  {
+   "n": 8,
+   "text": "주석 10: 복권 역설 유비를 인정하고 일상 개념이 이를 의식 않고 형성",
+   "label": "지지됨",
+   "evidence": "formed without recognition of this kind of problem",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Goldman1979 What Is Justified Belief.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-11_Goldman-2.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-Goldman_주석.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

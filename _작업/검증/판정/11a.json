@@ -1,0 +1,63 @@
+{
+ "id": "11a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "골드만은 정당화 이론이 비인식적 용어로 깊은 설명을 주어야 한다고 요구한다",
+   "label": "지지됨",
+   "evidence": "specify in non-epistemic terms ... deep or revelatory",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "설명 이론을 목표로 하고 일상 기준을 해명한다",
+   "label": "지지됨",
+   "evidence": "explicate the ordinary standards",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "justified는 평가어, 실질 조건을 비인식적으로 진술",
+   "label": "지지됨",
+   "evidence": "an evaluative term, a term of appraisal",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "인식적/비인식적 용어 예시",
+   "label": "지지됨",
+   "evidence": "\"believes that,\" \"is true,\" \"causes\"",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "둘째 제약: 붉게 감각하는 예로 깊이 요구",
+   "label": "지지됨",
+   "evidence": "appropriately deep or revelatory",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "정당화를 알거나 진술할 수 있다고 가정하지 않는다",
+   "label": "지지됨",
+   "evidence": "I make none of these sorts of assumptions",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "기초·재귀·폐쇄 조항, 기초 조항에 인식적 술어 불가",
+   "label": "지지됨",
+   "evidence": "neither this predicate, nor any other epistemic predicate",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Goldman1979 What Is Justified Belief.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-10_Goldman-1.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

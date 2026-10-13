@@ -1,0 +1,65 @@
+{
+ "id": "11b5a",
+ "voice": "종합",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "소사와 골드만은 신빙성이 세계마다 달라지는 사례를 서로 반대 방향으로 쓴다",
+   "label": "연결",
+   "evidence": "",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "소사의 물음 인용(p. 159)",
+   "label": "지지됨",
+   "evidence": "nearly always false?",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "소사는 이 물음을 원리의 권위가 신빙성이라는 우연적 사정에서 온다는 근거로 쓴다",
+   "label": "부분 지지",
+   "evidence": "authority ... apparently derives from contingent circumstances",
+   "note": "원문은 'apparently'(그렇게 보인다)로 한정했는데 카드는 단정."
+  },
+  {
+   "n": 3,
+   "text": "골드만의 악마 세계와 반론 검토(pp. 342–343)",
+   "label": "지지됨",
+   "evidence": "benevolent demon so arranges things",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "소사 사례는 원천 고정·신빙성 하락, 골드만은 반대",
+   "label": "연결",
+   "evidence": "",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "셋째 해석: 우리 세계에서 신빙적이면 어느 세계서든 정당화",
+   "label": "지지됨",
+   "evidence": "reliable in our world",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "셋째 해석과 마지막 제안이 소사의 물음 직관과 충돌",
+   "label": "연결",
+   "evidence": "",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Sosa1980 The Raft and the Pyramid.md",
+  "문헌/@Goldman1979 What Is Justified Belief.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-15_Sosa-3.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-12_Goldman-3.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

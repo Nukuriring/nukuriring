@@ -1,0 +1,77 @@
+{
+ "id": "11d4a",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "관찰문장은 증거의 저장소이면서 언어로 들어가는 유일한 입구이다",
+   "label": "지지됨",
+   "evidence": "They afford the only entry to a language",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "관찰문장은 개념/교설 양쪽에서 근본적, 증거 저장소",
+   "label": "지지됨",
+   "evidence": "repository of evidence for scientific hypotheses",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "아이와 현장 언어학자가 가장 먼저 이해를 배우는 문장",
+   "label": "지지됨",
+   "evidence": "learn to understand first, both as children and",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "의미론의 초석, 감각 주변부 최소 검증 단위, wears it on its sleeve",
+   "label": "지지됨",
+   "evidence": "minimal verifiable aggregate",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "번역 불확정성은 관찰문장에 거의 영향이 없다",
+   "label": "지지됨",
+   "evidence": "has little bearing on observation sentences",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "두 언어의 관찰문장을 같게 놓는 일은 경험적 일반화의 문제",
+   "label": "부분 지지",
+   "evidence": "is mostly a matter of empirical generalization",
+   "note": "원문은 'mostly'(대체로)인데 카드는 단정."
+  },
+  {
+   "n": 6,
+   "text": "핸슨 예와 콰인의 답: 공동체 폭, 모든 화자면 절대적 기준(p. 535)",
+   "label": "부분 지지",
+   "evidence": "taking in all speakers of the language, or most",
+   "note": "원문은 '모든 화자, 또는 대부분'인데 카드는 '모든 화자'만 적음(경미)."
+  },
+  {
+   "n": 7,
+   "text": "evidence is verification, 인식론은 의미론이 되고 심리학·언어학과 합쳐짐",
+   "label": "지지됨",
+   "evidence": "epistemology merges with psychology, as well as",
+   "note": ""
+  },
+  {
+   "n": 8,
+   "text": "지각 규범, 캠벨의 진화론적 인식론, 귀납을 진전 기대 영역으로(p. 536)",
+   "label": "지지됨",
+   "evidence": "One possible area is perceptual norms",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Quine1969 Epistemology Naturalized.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-18_Quine-EN-2.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,70 @@
+{
+ "id": "11a3",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "믿음의 정당화 지위는 그 믿음을 낳은 과정의 신빙성에 달려 있다",
+   "label": "지지됨",
+   "evidence": "a function of the reliability of the process",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "결함 있는 과정은 오류를 자주 낳는 비신빙성을 공유",
+   "label": "지지됨",
+   "evidence": "tend to produce error a large proportion of the time",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "지각·기억·좋은 추론·내성은 대체로 참인 믿음을 낳음",
+   "label": "지지됨",
+   "evidence": "the beliefs they produce are generally true",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "신빙성을 참인 믿음을 낳는 경향으로 일차 규정",
+   "label": "지지됨",
+   "evidence": "as a first approximation ... tendency",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "산양 사례: 멀리서 본 믿음이 30야드 믿음보다 덜 정당화",
+   "label": "부분 지지",
+   "evidence": "(ceteris paribus) more justified",
+   "note": "원문의 'ceteris paribus' 조건이 카드에서 빠짐(경미)."
+  },
+  {
+   "n": 5,
+   "text": "흐릿한 기억, 편향된 표본 추론도 정도가 낮다",
+   "label": "지지됨",
+   "evidence": "hazy and indistinct memory impression ... biased sampling",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "완전한 신빙성 불요, 거짓인 정당화된 믿음 가능",
+   "label": "지지됨",
+   "evidence": "there can be justified beliefs that are false",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "빈도/성향, 신빙성 정도는 일상 개념이 모호해 이론도 모호",
+   "label": "지지됨",
+   "evidence": "appropriate to leave the theory vague",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Goldman1979 What Is Justified Belief.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-11_Goldman-2.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
