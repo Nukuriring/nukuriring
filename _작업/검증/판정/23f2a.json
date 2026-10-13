@@ -1,0 +1,49 @@
+{
+ "id": "23f2a",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "라이트의 권위 수축론은 수용적 개념을 옹호하지 않아 방어가 남겨 둔 전선이다",
+   "label": "지지됨",
+   "evidence": "a rival deflationary account",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "에세이는 라이트의 반론을 이기지 못한다고 명시",
+   "label": "지지됨",
+   "evidence": "does not claim to defeat",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "헛바퀴 검사의 권위 논증은 규범적 지위라 하므로 라이트의 반증거주의와 어울린다",
+   "label": "지지됨",
+   "evidence": "congenial to Wright's anti-evidential",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "남는 불일치: 증거와 무관한 일인칭 관계가 앎의 방식인지 공언뿐인지, 결정하지 않음",
+   "label": "지지됨",
+   "evidence": "only of avowing ... declines to settle",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "반론 목록: 문법 결론에 맞서려면 소유가 하류의 앎을 근거 짓는다는 긍정적 주장 필요",
+   "label": "지지됨",
+   "evidence": "owning ... grounding downstream knowledge",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/ESSAY_v5_What-the-Objections-Assume.md",
+  "_원자료/로컬/Integrating Transparency/OBJECTIONS_catalogue.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

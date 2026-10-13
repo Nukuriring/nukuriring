@@ -1,0 +1,62 @@
+{
+ "id": "41b20b",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "믿음만으로는 그를 칭찬할 근거가 되지 못한다(제목)",
+   "label": "부분 지지",
+   "evidence": "it is not clear that…basis for…commendation",
+   "note": "원문은 '불분명하다'로 한정, 카드 제목은 '되지 못한다'로 단정."
+  },
+  {
+   "n": 1,
+   "text": "건달은 믿음은 두고 수치 태도를 대체",
+   "label": "지지됨",
+   "evidence": "only supplants the experienced…shame",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "수치 그침과 믿음 그침은 다름",
+   "label": "지지됨",
+   "evidence": "ceasing to be ashamed…not the same thing",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "영원히 느낄 의무는 없으나 이유 없이 버리면 안 됨",
+   "label": "지지됨",
+   "evidence": "No one is obliged to continue feeling",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "믿음은 정서처럼 자연스럽게 흐르다 사라지지 않음(p.180)",
+   "label": "부분 지지",
+   "evidence": "do not typically run their natural course",
+   "note": "원문은 'typically'로 한정, 카드는 단정."
+  },
+  {
+   "n": 5,
+   "text": "구분은 모순에서 구하나 다른 어려움 낳음",
+   "label": "지지됨",
+   "evidence": "another difficulty",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "정서는 총체적 지향, 경험 차이가 자기 칭찬 막음",
+   "label": "지지됨",
+   "evidence": "closer to a total orientation of the self",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Μoran e25b31c4….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

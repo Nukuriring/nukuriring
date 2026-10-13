@@ -1,0 +1,62 @@
+{
+ "id": "41c3a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "중심 사례는 지각으로 세계 속 자기 위치를 아는 일",
+   "label": "지지됨",
+   "evidence": "자신의 지각이라는 수단을 통해서",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "방과 내용물을 지각해 이 방에 있고 나무가 오른쪽",
+   "label": "지지됨",
+   "evidence": "나무가 내 오른쪽에 있다는 것",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "필기의 네 패턴",
+   "label": "지지됨",
+   "evidence": "투명한 사고의 pattern (1)~(4)",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "지각 상태는 믿음과 다른 비개념적 정보 상태",
+   "label": "지지됨",
+   "evidence": "비-개념적인 정보적인 상태들",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "자기 수여는 안을 들여다봄이 아니고 초점은 바깥",
+   "label": "지지됨",
+   "evidence": "주체의 초점은 바깥 세계이다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "자기 스캔·내적 감각 불필요",
+   "label": "지지됨",
+   "evidence": "self-scanning이나 내적 감각이 필요하지는",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "알 수 있는 이유와 알아야 하는 이유를 설명해야",
+   "label": "지지됨",
+   "evidence": "왜 우리가 그렇게 해야만 하는지까지",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Evans on Transparency and Thinking of Oneself Mark 1e097cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

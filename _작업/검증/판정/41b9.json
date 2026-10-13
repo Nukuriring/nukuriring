@@ -1,0 +1,55 @@
+{
+ "id": "41b9",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "분석 받는 사람은 믿음을 귀속·보고하나 공언 못함",
+   "label": "지지됨",
+   "evidence": "can report on such a belief…not express",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "대상 성찰로는 알 수 없고 이론적 방식으로만",
+   "label": "지지됨",
+   "evidence": "only learn of it in a fully theoretical",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "투명성은 이 경우 실패한다",
+   "label": "지지됨",
+   "evidence": "transparency fails",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "배신감을 기술하나 배신했다는 판단은 긍정 안 함",
+   "label": "지지됨",
+   "evidence": "will not…affirm the judgment",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "믿음이 믿는다 연산자 괄호 안에 갇힘",
+   "label": "지지됨",
+   "evidence": "within the brackets of the psychological operator",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "실패를 보면 경험적 관점 한계와 합리적 요구 드러남(p.84)",
+   "label": "지지됨",
+   "evidence": "limitations of the theoretical or empirical",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Μoran e25b31c4….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

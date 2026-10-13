@@ -1,0 +1,56 @@
+{
+ "id": "22h3",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "탈융합과 탈중심화 같은 치료 기법은 투명한 사고를 일부러 불투명한 대상으로",
+   "label": "지지됨",
+   "evidence": "의도적으로 투명성을 깨뜨리는 기술",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "ACT 인지적 탈융합은 '나는 실패자다'를 '…생각을 하고 있다'로 바꾼다",
+   "label": "지지됨",
+   "evidence": "인위적으로 불투명한 대상으로 만드는 절차",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "맥락으로서의 자기/내용으로서의 자기 구별은 초월론적/경험적 자아 구별과 겹친다",
+   "label": "지지됨",
+   "evidence": "놀랄 만큼 겹칩니다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "웰스의 탈중심적 마음챙김과 MBCT 탈중심화도 같은 구조",
+   "label": "지지됨",
+   "evidence": "같은 구조입니다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "벡의 인지 재구성은 신념을 가설로 다루라 하므로 모런 용어로 소외를 처방",
+   "label": "지지됨",
+   "evidence": "치료가 소외를 처방하는 셈",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "MCT는 웰스의 메타인지치료와 이름만 겹치고 계보가 다르다",
+   "label": "지지됨",
+   "evidence": "이름만 겹치고 계보가 다르므로",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/claude.ai/chats/2026-08-26_Apperception and psychopathology literature.md"
+ ],
+ "sources_missing": [],
+ "note": "frontmatter sources에 Moran2001이 있으나 실제 출처는 대화이다(출처 절은 맞음).",
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

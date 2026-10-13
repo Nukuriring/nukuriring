@@ -1,0 +1,55 @@
+{
+ "id": "41d3",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "비증거적 추론 규칙은 평범한 추론 능력의 소박한 확장이 못 됨",
+   "label": "부분 지지",
+   "evidence": "perhaps better seen as endowing…unlike",
+   "note": "원문은 'perhaps better seen', 'would undermine'로 한정, 카드는 단정."
+  },
+  {
+   "n": 1,
+   "text": "p에서 나는 p라고 믿는다를 추론하는 규칙, 비증거적",
+   "label": "지지됨",
+   "evidence": "I believe p 를 추론하는 규칙…비증거적",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "안전하고 자기 검증적이라는 답",
+   "label": "지지됨",
+   "evidence": "최소한 safe하다. self-verifying",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "증거 관계 개의치 않고 적용하는 능력, 그럴듯하지 않음",
+   "label": "지지됨",
+   "evidence": "This assumption looks implausible",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "평범한 추론 능력과 다른 능력을 부여, 장점 약해짐",
+   "label": "부분 지지",
+   "evidence": "perhaps better seen as endowing",
+   "note": "'perhaps'와 'would'가 카드에서 빠짐."
+  },
+  {
+   "n": 5,
+   "text": "믿음 이외의 상태엔 적용 어렵고 욕구는 자기 검증적 아님",
+   "label": "지지됨",
+   "evidence": "desire…self-verifying하지 않다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Models of self-knowledge 1e797cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

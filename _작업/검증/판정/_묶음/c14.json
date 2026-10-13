@@ -1,0 +1,169 @@
+{
+ "model": "sonnet",
+ "date": "2026-10-13",
+ "cards": [
+  {"id":"41a6","voice":"문헌","verdict":"부분","claims":[
+   {"n":0,"text":"BEL을 따르는 일이 합리적 연관 이해를 요구","label":"지지됨","evidence":"합리적 연관을 이해하기를 요구한다","note":""},
+   {"n":1,"text":"바이른은 BEL로 투명성을 설명하고 추론으로 본다","label":"지지됨","evidence":"일종의 reasoning이다","note":""},
+   {"n":2,"text":"전제와 결론이 논리적으로 독립이다","label":"지지됨","evidence":"전제가 결론의 증거가 되지 않는다","note":""},
+   {"n":3,"text":"신빙성 외재주의는 이해가 필요 없다","label":"지지됨","evidence":"믿음 소유 당사자의 이해 없이도 작동","note":""},
+   {"n":4,"text":"BEL은 규칙이어서 외재주의 길을 쓸 수 없다","label":"지지됨","evidence":"BEL은 외재주의적 설명을 기용할 수 없다","note":""},
+   {"n":5,"text":"BEL이 안전한 추론이라는 사실은 자격을 주지 않는다","label":"부분 지지","evidence":"자격을 부여하는 것처럼 보이지는 않는다","note":"원문은 '~처럼 보이지는 않는다'로 한정, 카드는 단정."},
+   {"n":6,"text":"자격이 합리적 연관에서 나오고 없으면 공허","label":"부분 지지","evidence":"부여되는 것처럼 보인다","note":"원문은 '~처럼 보인다'로 한정, 카드는 '본다'로만 쓰고 한정 약화."}
+  ],"sources_used":["_원자료/notion/…/Moran(2012) 정리 35697cdd…md"],"sources_missing":[]},
+  {"id":"41a6a","voice":"문헌","verdict":"지지됨","claims":[
+   {"n":0,"text":"BEL의 너는 정체 확인 없는 나의 주어적 용법으로","label":"지지됨","evidence":"identifying information을 필요로 하지 말아야","note":""},
+   {"n":1,"text":"BEL은 너가 들어간 명령문, BEL*(아마)로 옮김","label":"지지됨","evidence":"BEL*: If p, I probably believe","note":""},
+   {"n":2,"text":"같은 사람임을 알아봐야 하고 실패할 수 없어야","label":"지지됨","evidence":"인식하기를 실패할 수 없어야만","note":""},
+   {"n":3,"text":"정체 정보 필요하면 존스와 같은 근거 요구","label":"지지됨","evidence":"존스의 믿음을 형성하는 것과 같은 근거","note":""},
+   {"n":4,"text":"좋은 규칙 조건: 믿음 지식만, 소유자로 알아봄","label":"지지됨","evidence":"당사자의 믿음에 대한 지식만이 요구","note":""},
+   {"n":5,"text":"서술적 방식이면 투명성은 실패","label":"지지됨","evidence":"attributive한 양상이라면 투명성은 실패","note":""}
+  ],"sources_used":["_원자료/notion/…/Moran(2012) 정리 35697cdd…md"],"sources_missing":[]},
+  {"id":"41a6b","voice":"문헌","verdict":"지지됨","claims":[
+   {"n":0,"text":"투명성의 물음을 자기 귀속과 이유의 연결로 세운다","label":"지지됨","evidence":"왜 자기에 대한 믿음 부여는 …이유와 관련","note":""},
+   {"n":1,"text":"믿음 후보 조건 세 가지","label":"지지됨","evidence":"“나는 P를 믿는다”…(1)과 같은 이유들에 호소","note":""},
+   {"n":2,"text":"P 내용 물음이 자기 귀속 물음과 연결, BEL도 같음","label":"지지됨","evidence":"P의 내용에 대한 질문을 자기 부여에 대한 질문과","note":""},
+   {"n":3,"text":"BEL 설명은 전환의 정당성을 설명할 의무","label":"지지됨","evidence":"어떻게 정당한지 설명해야 하는 의무","note":""}
+  ],"sources_used":["_원자료/notion/…/Moran(2012) 정리 35697cdd…md"],"sources_missing":[]},
+  {"id":"41b9","voice":"문헌","verdict":"지지됨","claims":[
+   {"n":0,"text":"분석 받는 사람은 믿음을 귀속·보고하나 공언 못함","label":"지지됨","evidence":"can report on such a belief…not express","note":""},
+   {"n":1,"text":"대상 성찰로는 알 수 없고 이론적 방식으로만","label":"지지됨","evidence":"only learn of it in a fully theoretical","note":""},
+   {"n":2,"text":"투명성은 이 경우 실패한다","label":"지지됨","evidence":"transparency fails","note":""},
+   {"n":3,"text":"배신감을 기술하나 배신했다는 판단은 긍정 안 함","label":"지지됨","evidence":"will not…affirm the judgment","note":""},
+   {"n":4,"text":"믿음이 믿는다 연산자 괄호 안에 갇힘","label":"지지됨","evidence":"within the brackets of the psychological operator","note":""},
+   {"n":5,"text":"실패를 보면 경험적 관점 한계와 합리적 요구 드러남(p.84)","label":"지지됨","evidence":"limitations of the theoretical or empirical","note":""}
+  ],"sources_used":["_원자료/notion/…/Μoran e25b31c4….md"],"sources_missing":[]},
+  {"id":"41b10","voice":"문헌","verdict":"부분","claims":[
+   {"n":0,"text":"공언의 입장과 설명의 입장은 같은 상태를 알아차리는 두 방식","label":"부분 지지","evidence":"in some sense the same state of affairs","note":"원문은 'in some sense'(어떤 의미에서)로 한정, 카드는 뺌."},
+   {"n":1,"text":"산책 진술은 증거 없이 하나 참거짓이 증거 문제(p.88)","label":"지지됨","evidence":"may be true or false…evidence for another","note":""},
+   {"n":2,"text":"근거는 달라도 같은 심리 용어가 같은 현상 지시","label":"지지됨","evidence":"same psychological terms refer to the same","note":""},
+   {"n":3,"text":"사르트르·칸트 언어는 서로 다른 입장 전달","label":"지지됨","evidence":"different stances toward","note":""},
+   {"n":4,"text":"공언은 경험적 심리 사실로만 다루지 않음","label":"지지됨","evidence":"not treating it as just an empirical","note":""},
+   {"n":5,"text":"초월론적 입장은 헌신, 유지·철회 가능(p.89)","label":"지지됨","evidence":"mine to maintain or revoke","note":""}
+  ],"sources_used":["_원자료/notion/…/Μoran e25b31c4….md"],"sources_missing":[]},
+  {"id":"41b11","voice":"문헌","verdict":"지지됨","claims":[
+   {"n":0,"text":"공언을 투명성 조건을 따르는 믿음 진술로 정의","label":"지지됨","evidence":"An avowal is a statement of one’s belief which obeys","note":""},
+   {"n":1,"text":"X의 사실을 고려해 하고 내면·행동 관찰 아님","label":"지지됨","evidence":"not by either an “inward glance”","note":""},
+   {"n":2,"text":"모든 보고가 표현이므로 셋째 범주 필요","label":"지지됨","evidence":"any report is also an expression","note":""},
+   {"n":3,"text":"쟁점은 공언도 보고로 셈하는가","label":"지지됨","evidence":"avowals still count as reports","note":""},
+   {"n":4,"text":"투명성이 보고를 한낱 표현으로 무너뜨리지 않음","label":"지지됨","evidence":"not entail the collapse of a report","note":""},
+   {"n":5,"text":"승인 헌신은 믿음 개념에 내재, 자기 지시 못 지움","label":"지지됨","evidence":"internal to the very concept of belief","note":""}
+  ],"sources_used":["_원자료/notion/…/Μoran e25b31c4….md"],"sources_missing":[]},
+  {"id":"41b12","voice":"문헌","verdict":"부분","claims":[
+   {"n":0,"text":"공언할 수 없는 태도는 고립되어 수정에 반응 안 함","label":"지지됨","evidence":"인식적으로 고립되어 있으며","note":""},
+   {"n":1,"text":"모런이 자기지식·합리성 그림이 잘 설명한다고 봄(p.107)","label":"지지됨","evidence":"best accounts for the relations","note":""},
+   {"n":2,"text":"소외된 분석 대상자에게 무엇이 문제인가가 출발점","label":"지지됨","evidence":"뭐가 문제인가?","note":""},
+   {"n":3,"text":"알아챌 수 없는 태도는 합리적 고려의 영향 안 받음","label":"지지됨","evidence":"합리적 고려에 영향을 받지 않을 것","note":""},
+   {"n":4,"text":"영향 못 받으면 합리적일 수 없고 강박·고정에 가까워짐","label":"부분 지지","evidence":"일종의 강박이나 고정에 가까울 것","note":"원문은 '일종의…가까울 것'으로 한정, 카드는 단정."}
+  ],"sources_used":["_원자료/notion/…/Μoran e25b31c4….md"],"sources_missing":[]},
+  {"id":"41b13","voice":"문헌","verdict":"지지됨","claims":[
+   {"n":0,"text":"맥귄: 자기의식 없으면 논리 통제력 설득력 잃음(1982)","label":"지지됨","evidence":"would be deprived of its compelling force","note":""},
+   {"n":1,"text":"모런은 이 생각이 자연스럽다고 인정","label":"지지됨","evidence":"자연스럽다 생각하는건","note":""},
+   {"n":2,"text":"하위 인격 수준 수정, 심장 박동과 비슷","label":"지지됨","evidence":"심장 박동의 규제와 비슷해지는 것","note":""},
+   {"n":3,"text":"통제 개념은 모호, 규범적으로 읽으면 의식 무관","label":"지지됨","evidence":"regardless of whether the beliefs…conscious","note":""},
+   {"n":4,"text":"심리적으로 읽으면 예외가 있다","label":"지지됨","evidence":"hardly true without exception","note":""},
+   {"n":5,"text":"알아챔 요구는 너무 강하고 숙고 제한은 너무 약함","label":"지지됨","evidence":"과도한 조건…너무 약하다","note":""}
+  ],"sources_used":["_원자료/notion/…/Μoran e25b31c4….md"],"sources_missing":[]},
+  {"id":"41b20","voice":"문헌","verdict":"지지됨","claims":[
+   {"n":0,"text":"비인격 원칙이 도덕적 나르시시즘으로 비틀릴 수 있다","label":"지지됨","evidence":"can be distorted to serve…moral narcissism","note":""},
+   {"n":1,"text":"비인격성 호소의 오용·자기 파괴를 주로 살핀다(p.179)","label":"지지됨","evidence":"primarily by looking at certain ways","note":""},
+   {"n":2,"text":"타인엔 안정적이나 자기엔 불안정한 성격 평가 사례","label":"지지됨","evidence":"seems straightforward when applied to others","note":""},
+   {"n":3,"text":"실패한 시도로 이해하자는 제안","label":"지지됨","evidence":"unsuccessful attempts to adopt a stance","note":""},
+   {"n":4,"text":"나르시시즘은 이기심·자기몰입과 다름(p.174)","label":"지지됨","evidence":"not selfishness or self-absorption","note":""},
+   {"n":5,"text":"자기-타자 비대칭은 피할 수 없다","label":"지지됨","evidence":"inescapable features of human action","note":""}
+  ],"sources_used":["_원자료/notion/…/Μoran e25b31c4….md"],"sources_missing":[]},
+  {"id":"41b20a","voice":"문헌","verdict":"지지됨","claims":[
+   {"n":0,"text":"건달은 수치 믿음을 정당하다고 보며 물러나는 역설","label":"지지됨","evidence":"no stage…sees that belief as unjustified","note":""},
+   {"n":1,"text":"수치 느끼는 자신이 나쁘지 않다고 평가","label":"지지됨","evidence":"he’s not so bad after all","note":""},
+   {"n":2,"text":"두 사람이면 이상하지 않고 안정적(p.175)","label":"지지됨","evidence":"perfectly stable one","note":""},
+   {"n":3,"text":"한 사람이면 첫 판단을 심리적 사실로 다뤄 이상","label":"지지됨","evidence":"simply a kind of psychological fact","note":""},
+   {"n":4,"text":"믿는다는 알아챔이 믿음 그만둘 이유 못 됨","label":"지지됨","evidence":"cannot be his reason for no longer","note":""},
+   {"n":5,"text":"믿음 존재 주목이 대상 주목을 가림","label":"지지됨","evidence":"eclipses attention to what that belief","note":""},
+   {"n":6,"text":"정당하다고 보는 것이 물러남을 떠받침(p.177)","label":"지지됨","evidence":"it is his seeing it as justified","note":""}
+  ],"sources_used":["_원자료/notion/…/Μoran e25b31c4….md"],"sources_missing":[]},
+  {"id":"41b20b","voice":"문헌","verdict":"부분","claims":[
+   {"n":0,"text":"믿음만으로는 그를 칭찬할 근거가 되지 못한다(제목)","label":"부분 지지","evidence":"it is not clear that…basis for…commendation","note":"원문은 '불분명하다'로 한정, 카드 제목은 '되지 못한다'로 단정."},
+   {"n":1,"text":"건달은 믿음은 두고 수치 태도를 대체","label":"지지됨","evidence":"only supplants the experienced…shame","note":""},
+   {"n":2,"text":"수치 그침과 믿음 그침은 다름","label":"지지됨","evidence":"ceasing to be ashamed…not the same thing","note":""},
+   {"n":3,"text":"영원히 느낄 의무는 없으나 이유 없이 버리면 안 됨","label":"지지됨","evidence":"No one is obliged to continue feeling","note":""},
+   {"n":4,"text":"믿음은 정서처럼 자연스럽게 흐르다 사라지지 않음(p.180)","label":"부분 지지","evidence":"do not typically run their natural course","note":"원문은 'typically'로 한정, 카드는 단정."},
+   {"n":5,"text":"구분은 모순에서 구하나 다른 어려움 낳음","label":"지지됨","evidence":"another difficulty","note":""},
+   {"n":6,"text":"정서는 총체적 지향, 경험 차이가 자기 칭찬 막음","label":"지지됨","evidence":"closer to a total orientation of the self","note":""}
+  ],"sources_used":["_원자료/notion/…/Μoran e25b31c4….md"],"sources_missing":[]},
+  {"id":"41b20c","voice":"문헌","verdict":"지지됨","claims":[
+   {"n":0,"text":"비인격 원칙은 건달을 양쪽으로 끌고 재개엔 이유 필요","label":"지지됨","evidence":"Impersonal Principle itself can pull us","note":""},
+   {"n":1,"text":"수치를 증거에 넣는 것이 공평하다는 호소","label":"지지됨","evidence":"unmotivated and unfair","note":""},
+   {"n":2,"text":"총체적 증거 요구도 같은 방향(p.182–83)","label":"지지됨","evidence":"epistemically irresponsible","note":""},
+   {"n":3,"text":"이론적 반성과 숙고적 반성 분리 불가, 사실이 바뀜","label":"지지됨","evidence":"cannot be kept separate from deliberative","note":""},
+   {"n":4,"text":"수치로 이미 답했기에 물음을 다시 열 이유 필요","label":"지지됨","evidence":"Reopening this question requires its own","note":""},
+   {"n":5,"text":"실용적 이유는 해당하지 않음","label":"지지됨","evidence":"as opposed to pragmatic reasons","note":""}
+  ],"sources_used":["_원자료/notion/…/Μoran e25b31c4….md"],"sources_missing":[]},
+  {"id":"41c1","voice":"문헌","verdict":"지지됨","claims":[
+   {"n":0,"text":"에반스는 앤스컴의 두 전제를 받아들이며 지칭 결론 지킴","label":"지지됨","evidence":"에반스: 앤스컴을 거절. 그러나 그녀의 전제는","note":""},
+   {"n":1,"text":"지표적 표현이 특정한 무지를 동반하는 퍼즐","label":"지지됨","evidence":"지표적 표현이 특정한 종류의 ‘무지’","note":""},
+   {"n":2,"text":"나의 뜻과 갑의 뜻은 다르나 지시체는 같다","label":"지지됨","evidence":"sense는 …다르다. …같은 지시체","note":""},
+   {"n":3,"text":"이모 판단은 틀릴 방향이 둘, 나는 이모를 봄은 주어 오류 없음","label":"지지됨","evidence":"‘나’라는 주어가 misidentify되는 방향은 없다","note":""},
+   {"n":4,"text":"앤스컴은 일인칭 표현이 지칭 아니라고 봄","label":"지지됨","evidence":"일인칭 표현은 지칭하는 표현이 아니다","note":""},
+   {"n":5,"text":"앤스컴 전제 둘","label":"지지됨","evidence":"identifying knowledge을 포함하지 않는다","note":""},
+   {"n":6,"text":"세 주장을 뜻·지시체로 화해시킴","label":"지지됨","evidence":"중심에 놓여 있는 것은 뜻과 지시체","note":""}
+  ],"sources_used":["_원자료/notion/…/Evans on Transparency and Thinking of Oneself Mark 1e097cdd….md"],"sources_missing":[]},
+  {"id":"41c3a","voice":"문헌","verdict":"지지됨","claims":[
+   {"n":0,"text":"중심 사례는 지각으로 세계 속 자기 위치를 아는 일","label":"지지됨","evidence":"자신의 지각이라는 수단을 통해서","note":""},
+   {"n":1,"text":"방과 내용물을 지각해 이 방에 있고 나무가 오른쪽","label":"지지됨","evidence":"나무가 내 오른쪽에 있다는 것","note":""},
+   {"n":2,"text":"필기의 네 패턴","label":"지지됨","evidence":"투명한 사고의 pattern (1)~(4)","note":""},
+   {"n":3,"text":"지각 상태는 믿음과 다른 비개념적 정보 상태","label":"지지됨","evidence":"비-개념적인 정보적인 상태들","note":""},
+   {"n":4,"text":"자기 수여는 안을 들여다봄이 아니고 초점은 바깥","label":"지지됨","evidence":"주체의 초점은 바깥 세계이다","note":""},
+   {"n":5,"text":"자기 스캔·내적 감각 불필요","label":"지지됨","evidence":"self-scanning이나 내적 감각이 필요하지는","note":""},
+   {"n":6,"text":"알 수 있는 이유와 알아야 하는 이유를 설명해야","label":"지지됨","evidence":"왜 우리가 그렇게 해야만 하는지까지","note":""}
+  ],"sources_used":["_원자료/notion/…/Evans on Transparency and Thinking of Oneself Mark 1e097cdd….md"],"sources_missing":[]},
+  {"id":"41d3","voice":"문헌","verdict":"부분","claims":[
+   {"n":0,"text":"비증거적 추론 규칙은 평범한 추론 능력의 소박한 확장이 못 됨","label":"부분 지지","evidence":"perhaps better seen as endowing…unlike","note":"원문은 'perhaps better seen', 'would undermine'로 한정, 카드는 단정."},
+   {"n":1,"text":"p에서 나는 p라고 믿는다를 추론하는 규칙, 비증거적","label":"지지됨","evidence":"I believe p 를 추론하는 규칙…비증거적","note":""},
+   {"n":2,"text":"안전하고 자기 검증적이라는 답","label":"지지됨","evidence":"최소한 safe하다. self-verifying","note":""},
+   {"n":3,"text":"증거 관계 개의치 않고 적용하는 능력, 그럴듯하지 않음","label":"지지됨","evidence":"This assumption looks implausible","note":""},
+   {"n":4,"text":"평범한 추론 능력과 다른 능력을 부여, 장점 약해짐","label":"부분 지지","evidence":"perhaps better seen as endowing","note":"'perhaps'와 'would'가 카드에서 빠짐."},
+   {"n":5,"text":"믿음 이외의 상태엔 적용 어렵고 욕구는 자기 검증적 아님","label":"지지됨","evidence":"desire…self-verifying하지 않다","note":""}
+  ],"sources_used":["_원자료/notion/…/Models of self-knowledge 1e797cdd….md"],"sources_missing":[]},
+  {"id":"41d4","voice":"문헌","verdict":"지지됨","claims":[
+   {"n":0,"text":"투명성 관계는 두 질문 사이 관계","label":"지지됨","evidence":"투명성 관계란 두 질문 사이의 관계","note":""},
+   {"n":1,"text":"두 명제 사이 관계로도 설명","label":"지지됨","evidence":"또는 두 명제 사이의 관계","note":""},
+   {"n":2,"text":"대부분 이론가가 믿음의 투명성 명제 수용","label":"지지됨","evidence":"대부분의 이론가들이…수용함","note":""},
+   {"n":3,"text":"욕구·의도의 대응 물음","label":"지지됨","evidence":"“φ하는 것이 바람직한가?”","note":""},
+   {"n":4,"text":"그 밖의 상태에도 비슷한 시도","label":"지지됨","evidence":"기타 여러 정신 상태들에 대해서도","note":""},
+   {"n":5,"text":"투명성 관계에만 의존하면 부족, 일부 입력 방식은 어려움","label":"지지됨","evidence":"투명성 관계에만 의존하는 것은 불충분","note":""}
+  ],"sources_used":["_원자료/notion/…/Models of self-knowledge 1e797cdd….md"],"sources_missing":[]},
+  {"id":"41e2","voice":"문헌","verdict":"지지됨","claims":[
+   {"n":0,"text":"바람직성 판단에서 욕구 자기지식, 소외 욕구는 제외","label":"지지됨","evidence":"바람직성 판단이 곧 ‘나는 x를 욕구한다’","note":""},
+   {"n":1,"text":"자기지식은 숙고적·규범적 물음을 통해 얻어짐","label":"지지됨","evidence":"숙고적인 규범적 질문을 통해 획득","note":""},
+   {"n":2,"text":"믿음 사례: p인가를 고려해 나는 p를 믿는다","label":"지지됨","evidence":"‘p인가?’를 고려함으로써 답해진다","note":""},
+   {"n":3,"text":"절차는 일인칭","label":"지지됨","evidence":"기본적으로 일인칭적이다","note":""},
+   {"n":4,"text":"소외된 욕구에는 절차가 적용되지 않음","label":"지지됨","evidence":"투명한 …절차가 적용되는 욕구 vs. 소외된","note":""},
+   {"n":5,"text":"무의식적 욕구는 알아채지 못해, 아크라틱·신체 욕구는 주체화 결여","label":"지지됨","evidence":"규범적 주체화가 결여 되어 있기 때문","note":""}
+  ],"sources_used":["_원자료/notion/…/깊고 어두운… Laura Ashwell 1fd97cdd….md"],"sources_missing":[]},
+  {"id":"41e3a","voice":"문헌","verdict":"지지됨","claims":[
+   {"n":0,"text":"DD는 가치-욕구 괴리를 충분히 산출 못함","label":"지지됨","evidence":"DD는 가치-욕구 괴리를 Undergenerate","note":""},
+   {"n":1,"text":"둘째 비판은 설명 순서의 전도","label":"지지됨","evidence":"설명적 순서의 전도","note":""},
+   {"n":2,"text":"DD가 발동하려면 DTR이 이미 작동해야","label":"지지됨","evidence":"DD가 발동하려면 DTR이 작동","note":""},
+   {"n":3,"text":"DD 취소 조건(소파 의도 등)","label":"지지됨","evidence":"소파에 눕고 싶다는 의도","note":""},
+   {"n":4,"text":"의도를 세운 까닭은 운동을 욕구하지 않아서","label":"지지됨","evidence":"운동을 욕구하지 않기 때문 아닌가?","note":""},
+   {"n":5,"text":"DD는 사후 검증만, 최초 욕구 지식은 다른 기제","label":"지지됨","evidence":"체크리스트처럼 후행적 검증만","note":""}
+  ],"sources_used":["_원자료/notion/…/깊고 어두운… Laura Ashwell 1fd97cdd….md"],"sources_missing":[]},
+  {"id":"41f2a","voice":"문헌","verdict":"지지됨","claims":[
+   {"n":0,"text":"규범적 이유는 합리적 행위자에게 동기 부여의 힘","label":"지지됨","evidence":"동기-부여적 힘이 있다","note":""},
+   {"n":1,"text":"이유 인식하면 상태를 지니고 반대 이유면 수정","label":"지지됨","evidence":"자신의 지향적적 상태를 수정하게 될 것","note":""},
+   {"n":2,"text":"설명적 이유는 규범적 이유에 부합하는 경향","label":"지지됨","evidence":"규범적 이유에 부합하는 경향이 있다","note":""},
+   {"n":3,"text":"이유 민감성은 규범적 이유에 따라 상태를 지니는 능력","label":"지지됨","evidence":"규범적 이유에 따라 지향적적 상태를 지닐 수","note":""},
+   {"n":4,"text":"정당화 책임, 팔꿈치 통증엔 요구 안 함","label":"지지됨","evidence":"수동적인 마음 상태들에 대한 정당화를 요구하지","note":""},
+   {"n":5,"text":"PRS와 대체로 준수, 구성적","label":"지지됨","evidence":"대부분 이 원칙은 합리적 행위자들에 의해 준수","note":""},
+   {"n":6,"text":"규범적 이유 고려해 자기 귀속, 행동 증거 아닌 외부 사태","label":"지지됨","evidence":"3인칭 귀속에 필요한 행위적 증거가 아님","note":""}
+  ],"sources_used":["_원자료/notion/…/Reading note Park(2022) 35697cdd….md"],"sources_missing":[]},
+  {"id":"41f2b","voice":"문헌","verdict":"지지됨","claims":[
+   {"n":0,"text":"박: 모런 설명이 투명성의 두 문제에 답하지 못함","label":"지지됨","evidence":"투명성의 심리학적 문제와 인식론적 문제에 대답 X","note":""},
+   {"n":1,"text":"심리학적 문제에 숙고 상황을 듦","label":"지지됨","evidence":"“deliberative consideration” 숙고 상황","note":""},
+   {"n":2,"text":"숙고는 일반적 자기귀속 모델이 되기 어려움, 바지 사례","label":"지지됨","evidence":"숙고 없이 바지 입고 있다는 것을","note":""},
+   {"n":3,"text":"숙고 가능성을 종적 차이 표지로 써도 설명 못함","label":"지지됨","evidence":"“종적인 차이”를 지시한다고 함","note":""},
+   {"n":4,"text":"인식론적 문제: 가정할 수 있다면 권리가 있다","label":"지지됨","evidence":"여길 권리가 있다, if","note":""},
+   {"n":5,"text":"그 가정은 PRS 일반 준수 가정과 같고 즉각성과 양립 불가","label":"지지됨","evidence":"즉각적이라고 하는데…양립 불가능","note":""}
+  ],"sources_used":["_원자료/notion/…/Reading note Park(2022) 35697cdd….md"],"sources_missing":[]}
+ ]
+}

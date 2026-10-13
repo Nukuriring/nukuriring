@@ -1,0 +1,56 @@
+{
+ "id": "23e",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "헛바퀴 검사는 고유한 특징마다 수용적 요소가 설명을 맡는지 묻는다",
+   "label": "지지됨",
+   "evidence": "receptive component ... or non-receptive",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "해명 대상을 A류(신빙성·진리)와 B류(권위·직접성·무어 역설)로 나눈다",
+   "label": "지지됨",
+   "evidence": "Two explananda-classes",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "A류는 경험론자에게 조건 없이 양보하고 자기지식이 앎임을 부정하지 않는다",
+   "label": "지지됨",
+   "evidence": "without reservation",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "비수용적 요소(지위·헌신·규칙)를 몰래 들여와야 하면 수용적 개념은 헛바퀴, 부담 역전",
+   "label": "지지됨",
+   "evidence": "a standing, a commitment, a rule",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "신빙성이 권위에 헛돈다는 국소적 관찰은 캠벨의 것, 체계적 일반화가 에세이 기여",
+   "label": "지지됨",
+   "evidence": "the local observation ... is Campbell's",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "DEFENSE: 검사는 B류에만, A류까지 넓히면 신빙성·진리를 잘못 부정",
+   "label": "지지됨",
+   "evidence": "falsely deny self-knowledge is reliable",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/ESSAY_v5_What-the-Objections-Assume.md",
+  "_원자료/로컬/Integrating Transparency/DEFENSE_new-moves.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

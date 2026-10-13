@@ -1,0 +1,56 @@
+{
+ "id": "23e2",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "무어의 역설은 현재 일인칭에서만 비정합이므로 탐지 관계로 설명되지 않는다",
+   "label": "지지됨",
+   "evidence": "not a feature a detection-relation can explain",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "과거 일인칭과 현재 삼인칭은 거짓일 수 있는 평범한 연언",
+   "label": "지지됨",
+   "evidence": "merely possibly false",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "수용적 관계는 시간과 인칭에 대칭적, 탐지 모델은 세 칸에서 같은 결과 예측",
+   "label": "지지됨",
+   "evidence": "symmetric across time and person",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "에세이는 비정합을 헌신의 비정합으로 설명",
+   "label": "지지됨",
+   "evidence": "the incoherence of commitment",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "바이른 도식은 헌신하며 따르는 규칙이라 경험론자 설명도 비수용적 요소에 기댄다",
+   "label": "지지됨",
+   "evidence": "a rule one follows in committing oneself",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "DEFENSE: 무어 설명이 없다 주장하면 거짓, 작동 부분이 비수용적이라고만",
+   "label": "지지됨",
+   "evidence": "Must not claim the empiricist has no Moore-account",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/ESSAY_v5_What-the-Objections-Assume.md",
+  "_원자료/로컬/Integrating Transparency/DEFENSE_new-moves.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

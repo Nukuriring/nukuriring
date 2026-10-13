@@ -1,0 +1,55 @@
+{
+ "id": "41b20",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "비인격 원칙이 도덕적 나르시시즘으로 비틀릴 수 있다",
+   "label": "지지됨",
+   "evidence": "can be distorted to serve…moral narcissism",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "비인격성 호소의 오용·자기 파괴를 주로 살핀다(p.179)",
+   "label": "지지됨",
+   "evidence": "primarily by looking at certain ways",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "타인엔 안정적이나 자기엔 불안정한 성격 평가 사례",
+   "label": "지지됨",
+   "evidence": "seems straightforward when applied to others",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "실패한 시도로 이해하자는 제안",
+   "label": "지지됨",
+   "evidence": "unsuccessful attempts to adopt a stance",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "나르시시즘은 이기심·자기몰입과 다름(p.174)",
+   "label": "지지됨",
+   "evidence": "not selfishness or self-absorption",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "자기-타자 비대칭은 피할 수 없다",
+   "label": "지지됨",
+   "evidence": "inescapable features of human action",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Μoran e25b31c4….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

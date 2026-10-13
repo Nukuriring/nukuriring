@@ -1,0 +1,55 @@
+{
+ "id": "41a6a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "BEL의 너는 정체 확인 없는 나의 주어적 용법으로",
+   "label": "지지됨",
+   "evidence": "identifying information을 필요로 하지 말아야",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "BEL은 너가 들어간 명령문, BEL*(아마)로 옮김",
+   "label": "지지됨",
+   "evidence": "BEL*: If p, I probably believe",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "같은 사람임을 알아봐야 하고 실패할 수 없어야",
+   "label": "지지됨",
+   "evidence": "인식하기를 실패할 수 없어야만",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "정체 정보 필요하면 존스와 같은 근거 요구",
+   "label": "지지됨",
+   "evidence": "존스의 믿음을 형성하는 것과 같은 근거",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "좋은 규칙 조건: 믿음 지식만, 소유자로 알아봄",
+   "label": "지지됨",
+   "evidence": "당사자의 믿음에 대한 지식만이 요구",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "서술적 방식이면 투명성은 실패",
+   "label": "지지됨",
+   "evidence": "attributive한 양상이라면 투명성은 실패",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Moran(2012) 정리 35697cdd…md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

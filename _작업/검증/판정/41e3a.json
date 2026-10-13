@@ -1,0 +1,55 @@
+{
+ "id": "41e3a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "DD는 가치-욕구 괴리를 충분히 산출 못함",
+   "label": "지지됨",
+   "evidence": "DD는 가치-욕구 괴리를 Undergenerate",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "둘째 비판은 설명 순서의 전도",
+   "label": "지지됨",
+   "evidence": "설명적 순서의 전도",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "DD가 발동하려면 DTR이 이미 작동해야",
+   "label": "지지됨",
+   "evidence": "DD가 발동하려면 DTR이 작동",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "DD 취소 조건(소파 의도 등)",
+   "label": "지지됨",
+   "evidence": "소파에 눕고 싶다는 의도",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "의도를 세운 까닭은 운동을 욕구하지 않아서",
+   "label": "지지됨",
+   "evidence": "운동을 욕구하지 않기 때문 아닌가?",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "DD는 사후 검증만, 최초 욕구 지식은 다른 기제",
+   "label": "지지됨",
+   "evidence": "체크리스트처럼 후행적 검증만",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/깊고 어두운… Laura Ashwell 1fd97cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

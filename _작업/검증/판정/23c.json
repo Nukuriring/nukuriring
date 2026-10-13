@@ -1,0 +1,56 @@
+{
+ "id": "23c",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "두 반론은 수용적 앎 개념을 전제로 써서 논점을 선취한다",
+   "label": "지지됨",
+   "evidence": "the objections beg the question",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "자기지식이 앎이라는 얇은 주장은 주제를 가리킬 뿐이고 두 입장도 받아들인다",
+   "label": "지지됨",
+   "evidence": "merely names the topic ... They keep (i)",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "수용적 개념: 소유와 무관하게 먼저 성립한 태도에 통제받거나 답할 때만 앎",
+   "label": "지지됨",
+   "evidence": "controlled-by or answerable-to",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "주제 변경 반론은 앎이 알려지는 것에 통제받아야 한다고 명시한다",
+   "label": "지지됨",
+   "evidence": "controlled by what is known",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "인지적 성취 반론은 태도에 답해야 한다고 가정한다",
+   "label": "지지됨",
+   "evidence": "answerable to the attitude",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "일차 부담과 입장료는 같은 요구여서 두 입장은 함께 서고 넘어진다",
+   "label": "지지됨",
+   "evidence": "the same demand ... stand or fall together",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/ESSAY_v5_What-the-Objections-Assume.md",
+  "_원자료/로컬/Integrating Transparency/OBJECTIONS_catalogue.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

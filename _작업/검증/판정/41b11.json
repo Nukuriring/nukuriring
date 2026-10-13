@@ -1,0 +1,55 @@
+{
+ "id": "41b11",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "공언을 투명성 조건을 따르는 믿음 진술로 정의",
+   "label": "지지됨",
+   "evidence": "An avowal is a statement of one’s belief which obeys",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "X의 사실을 고려해 하고 내면·행동 관찰 아님",
+   "label": "지지됨",
+   "evidence": "not by either an “inward glance”",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "모든 보고가 표현이므로 셋째 범주 필요",
+   "label": "지지됨",
+   "evidence": "any report is also an expression",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "쟁점은 공언도 보고로 셈하는가",
+   "label": "지지됨",
+   "evidence": "avowals still count as reports",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "투명성이 보고를 한낱 표현으로 무너뜨리지 않음",
+   "label": "지지됨",
+   "evidence": "not entail the collapse of a report",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "승인 헌신은 믿음 개념에 내재, 자기 지시 못 지움",
+   "label": "지지됨",
+   "evidence": "internal to the very concept of belief",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Μoran e25b31c4….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,62 @@
+{
+ "id": "41b20a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "건달은 수치 믿음을 정당하다고 보며 물러나는 역설",
+   "label": "지지됨",
+   "evidence": "no stage…sees that belief as unjustified",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "수치 느끼는 자신이 나쁘지 않다고 평가",
+   "label": "지지됨",
+   "evidence": "he’s not so bad after all",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "두 사람이면 이상하지 않고 안정적(p.175)",
+   "label": "지지됨",
+   "evidence": "perfectly stable one",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "한 사람이면 첫 판단을 심리적 사실로 다뤄 이상",
+   "label": "지지됨",
+   "evidence": "simply a kind of psychological fact",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "믿는다는 알아챔이 믿음 그만둘 이유 못 됨",
+   "label": "지지됨",
+   "evidence": "cannot be his reason for no longer",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "믿음 존재 주목이 대상 주목을 가림",
+   "label": "지지됨",
+   "evidence": "eclipses attention to what that belief",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "정당하다고 보는 것이 물러남을 떠받침(p.177)",
+   "label": "지지됨",
+   "evidence": "it is his seeing it as justified",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Μoran e25b31c4….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

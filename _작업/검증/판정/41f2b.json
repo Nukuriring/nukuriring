@@ -1,0 +1,55 @@
+{
+ "id": "41f2b",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "박: 모런 설명이 투명성의 두 문제에 답하지 못함",
+   "label": "지지됨",
+   "evidence": "투명성의 심리학적 문제와 인식론적 문제에 대답 X",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "심리학적 문제에 숙고 상황을 듦",
+   "label": "지지됨",
+   "evidence": "“deliberative consideration” 숙고 상황",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "숙고는 일반적 자기귀속 모델이 되기 어려움, 바지 사례",
+   "label": "지지됨",
+   "evidence": "숙고 없이 바지 입고 있다는 것을",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "숙고 가능성을 종적 차이 표지로 써도 설명 못함",
+   "label": "지지됨",
+   "evidence": "“종적인 차이”를 지시한다고 함",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "인식론적 문제: 가정할 수 있다면 권리가 있다",
+   "label": "지지됨",
+   "evidence": "여길 권리가 있다, if",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "그 가정은 PRS 일반 준수 가정과 같고 즉각성과 양립 불가",
+   "label": "지지됨",
+   "evidence": "즉각적이라고 하는데…양립 불가능",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Reading note Park(2022) 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

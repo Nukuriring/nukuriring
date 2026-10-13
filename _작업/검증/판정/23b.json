@@ -1,0 +1,65 @@
+{
+ "id": "23b",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "인지적 성취 반론: 근거 없는 공언은 신빙성 있게 참이어도 앎이 되지 못한다",
+   "label": "지지됨",
+   "evidence": "however reliably true ... not knowledge",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "표현주의: 공언은 찡그림처럼 상태에서 곧바로 나오고 증거 없이 권위",
+   "label": "지지됨",
+   "evidence": "as a wince does, with no evidence",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "바온 신표현주의는 공언이 참·거짓을 가진다고 인정하고 안전성을 표현 관계로 설명",
+   "label": "지지됨",
+   "evidence": "keeps avowals truth-evaluable",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "반론은 앎을 증거·신빙성·정당화 같은 인식적 작업으로 얻는 지위로 본다",
+   "label": "지지됨",
+   "evidence": "evidence/reliability/justification",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "표현주의는 공언을 그런 작업이 없는 것으로 정의하므로 성취가 못 된다",
+   "label": "지지됨",
+   "evidence": "defines avowals by freedom from this",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "훈련된 앵무새도 표현주의자의 조건을 충족한다는 예",
+   "label": "지지됨",
+   "evidence": "a parrot trained to say 'I'm in pain'",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "출처는 브루크너 2006과 게르틀러 SEP §3.8, 정교한 문헌이 답하려 존재",
+   "label": "지지됨",
+   "evidence": "Brueckner 2006; SEP §3.8",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/OBJECTIONS_catalogue.md",
+  "_원자료/로컬/Integrating Transparency/KB_SEP_Self-Knowledge.md",
+  "_원자료/로컬/Integrating Transparency/ESSAY_v5_What-the-Objections-Assume.md",
+  "문헌/@Gertler SEP Self-Knowledge.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

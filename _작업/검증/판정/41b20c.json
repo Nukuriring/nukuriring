@@ -1,0 +1,55 @@
+{
+ "id": "41b20c",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "비인격 원칙은 건달을 양쪽으로 끌고 재개엔 이유 필요",
+   "label": "지지됨",
+   "evidence": "Impersonal Principle itself can pull us",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "수치를 증거에 넣는 것이 공평하다는 호소",
+   "label": "지지됨",
+   "evidence": "unmotivated and unfair",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "총체적 증거 요구도 같은 방향(p.182–83)",
+   "label": "지지됨",
+   "evidence": "epistemically irresponsible",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "이론적 반성과 숙고적 반성 분리 불가, 사실이 바뀜",
+   "label": "지지됨",
+   "evidence": "cannot be kept separate from deliberative",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "수치로 이미 답했기에 물음을 다시 열 이유 필요",
+   "label": "지지됨",
+   "evidence": "Reopening this question requires its own",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "실용적 이유는 해당하지 않음",
+   "label": "지지됨",
+   "evidence": "as opposed to pragmatic reasons",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Μoran e25b31c4….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,41 @@
+{
+ "id": "22h2a",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "사고 주입은 칸트의 나는 생각한다가 소유와 저자성 가운데 무엇을",
+   "label": "지지됨",
+   "evidence": "소유의 주장인지 저자성의 주장인지가 곧바로 문제",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "소유와 저자성의 해리로 분석하면 그 수반이 어느 쪽 주장인지 문제가 된다",
+   "label": "지지됨",
+   "evidence": "소유와 저자성의 해리로 분석했습니다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "슈메이커 IEM, 캠벨 1999, 콜리바·보르톨로티·브룸의 논쟁이 이 자리에 모인다",
+   "label": "지지됨",
+   "evidence": "논쟁이 모두 이 자리에 모여 있습니다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "생각의 저자성과 소유가 갈라질 수 있다면 태도의 소유와 책임도 갈라질 수 있다",
+   "label": "연결",
+   "evidence": "",
+   "note": "Claude의 연결로 표시됨"
+  }
+ ],
+ "sources_used": [
+  "_원자료/claude.ai/chats/2026-08-26_Apperception and psychopathology literature.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

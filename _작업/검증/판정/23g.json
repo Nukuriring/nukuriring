@@ -1,0 +1,65 @@
+{
+ "id": "23g",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "캠벨에 따르면 근거 없는 자기지식은 이미 비대칭을 설명해 병렬주의는 동기를 잃는다",
+   "label": "지지됨",
+   "evidence": "no further work for a non-epistemic account",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "표현주의 가족을 단순, 수축, 바온 병렬주의 셋으로 나눈다",
+   "label": "지지됨",
+   "evidence": "Simple/Eliminativist → Deflationist → Parallelist",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "병렬주의는 진짜 자기지식과 비인식적 권위 설명을 함께 원한다",
+   "label": "지지됨",
+   "evidence": "genuine self-knowledge and a non-epistemic",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "증거에 기대면 어떻게 아느냐는 물음이 되살아나 비대칭이 설명되지 않는다",
+   "label": "지지됨",
+   "evidence": "'How do you know?' reappears",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "증거에 기대지 않으면 이미 인식적 비대칭이라 설명이 공짜, 표현주의는 군더더기",
+   "label": "지지됨",
+   "evidence": "comes for free ... redundant",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "캠벨이 옳다고 보는 견해는 인식적 접근의 한 판본",
+   "label": "지지됨",
+   "evidence": "a version of the epistemic approach",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "목록은 기획서가 캠벨을 지지자로 분류했다가 비판자로 바로잡았다고 적는다",
+   "label": "지지됨",
+   "evidence": "Campbell is a critic, not a proponent",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/OBJECTIONS_catalogue.md",
+  "_원자료/로컬/Integrating Transparency/ESSAY_v5_What-the-Objections-Assume.md",
+  "문헌/@Campbell2022 Self-Knowledge Expression without Expressivism.md"
+ ],
+ "sources_missing": [],
+ "note": "캠벨 원문은 없고 반론 목록과 에세이 요약에 대조함.",
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

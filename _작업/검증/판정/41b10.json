@@ -1,0 +1,55 @@
+{
+ "id": "41b10",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "공언의 입장과 설명의 입장은 같은 상태를 알아차리는 두 방식",
+   "label": "부분 지지",
+   "evidence": "in some sense the same state of affairs",
+   "note": "원문은 'in some sense'(어떤 의미에서)로 한정, 카드는 뺌."
+  },
+  {
+   "n": 1,
+   "text": "산책 진술은 증거 없이 하나 참거짓이 증거 문제(p.88)",
+   "label": "지지됨",
+   "evidence": "may be true or false…evidence for another",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "근거는 달라도 같은 심리 용어가 같은 현상 지시",
+   "label": "지지됨",
+   "evidence": "same psychological terms refer to the same",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "사르트르·칸트 언어는 서로 다른 입장 전달",
+   "label": "지지됨",
+   "evidence": "different stances toward",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "공언은 경험적 심리 사실로만 다루지 않음",
+   "label": "지지됨",
+   "evidence": "not treating it as just an empirical",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "초월론적 입장은 헌신, 유지·철회 가능(p.89)",
+   "label": "지지됨",
+   "evidence": "mine to maintain or revoke",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Μoran e25b31c4….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,55 @@
+{
+ "id": "41b13",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "맥귄: 자기의식 없으면 논리 통제력 설득력 잃음(1982)",
+   "label": "지지됨",
+   "evidence": "would be deprived of its compelling force",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "모런은 이 생각이 자연스럽다고 인정",
+   "label": "지지됨",
+   "evidence": "자연스럽다 생각하는건",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "하위 인격 수준 수정, 심장 박동과 비슷",
+   "label": "지지됨",
+   "evidence": "심장 박동의 규제와 비슷해지는 것",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "통제 개념은 모호, 규범적으로 읽으면 의식 무관",
+   "label": "지지됨",
+   "evidence": "regardless of whether the beliefs…conscious",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "심리적으로 읽으면 예외가 있다",
+   "label": "지지됨",
+   "evidence": "hardly true without exception",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "알아챔 요구는 너무 강하고 숙고 제한은 너무 약함",
+   "label": "지지됨",
+   "evidence": "과도한 조건…너무 약하다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Μoran e25b31c4….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

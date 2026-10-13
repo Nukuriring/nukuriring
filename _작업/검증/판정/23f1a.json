@@ -1,0 +1,57 @@
+{
+ "id": "23f1a",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "레비의 긍정적 교훈은 약속적 행위자 이론을 지지하는 내부 판정이다",
+   "label": "지지됨",
+   "evidence": "adjudicates an intramural dispute",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "에세이는 레비 반론이 수용적 개념과 무관해 비껴갈 수 없다고 인정하고 세 가지로 답",
+   "label": "지지됨",
+   "evidence": "it cannot be deflected ... Three points",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "첫째: 모런의 강한 평가 논제를 물려받을 필요 없고 핵심 주장은 응답 가능성이라는 기술적 주장",
+   "label": "지지됨",
+   "evidence": "need not inherit Moran's strong evaluative",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "둘째: '나는 알코올 중독자'는 지속 조건에 대한 앎, 다른 범주",
+   "label": "지지됨",
+   "evidence": "knowledge of a standing condition",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "셋째: 회복 중인 중독자는 조건을 떠맡는 공언으로 행위성을 되찾는다",
+   "label": "지지됨",
+   "evidence": "taking on 'I am an alcoholic'",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "맥기어의 약속적 이론에 해당, 모런의 반관찰 덧칠은 내주고 핵심은 지킨다",
+   "label": "지지됨",
+   "evidence": "We concede Moran's anti-observation overlay",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/ESSAY_v5_What-the-Objections-Assume.md",
+  "_원자료/로컬/Integrating Transparency/OBJECTIONS_catalogue.md"
+ ],
+ "sources_missing": [],
+ "note": "문헌 노트 @Levy2016은 열지 않고 에세이 v5와 반론 목록으로 대조함.",
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

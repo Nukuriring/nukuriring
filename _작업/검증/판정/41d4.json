@@ -1,0 +1,55 @@
+{
+ "id": "41d4",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "투명성 관계는 두 질문 사이 관계",
+   "label": "지지됨",
+   "evidence": "투명성 관계란 두 질문 사이의 관계",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "두 명제 사이 관계로도 설명",
+   "label": "지지됨",
+   "evidence": "또는 두 명제 사이의 관계",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "대부분 이론가가 믿음의 투명성 명제 수용",
+   "label": "지지됨",
+   "evidence": "대부분의 이론가들이…수용함",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "욕구·의도의 대응 물음",
+   "label": "지지됨",
+   "evidence": "“φ하는 것이 바람직한가?”",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "그 밖의 상태에도 비슷한 시도",
+   "label": "지지됨",
+   "evidence": "기타 여러 정신 상태들에 대해서도",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "투명성 관계에만 의존하면 부족, 일부 입력 방식은 어려움",
+   "label": "지지됨",
+   "evidence": "투명성 관계에만 의존하는 것은 불충분",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Models of self-knowledge 1e797cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

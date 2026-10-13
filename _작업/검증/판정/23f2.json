@@ -1,0 +1,58 @@
+{
+ "id": "23f2",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "라이트에 따르면 일인칭 권위는 자기귀속 언어놀이의 문법에서 나온다",
+   "label": "지지됨",
+   "evidence": "constitutive feature of the language-game",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "'아니, 너는 그렇지 않아'는 놀이 규범을 오해한 것, 권위는 규칙의 부산물",
+   "label": "지지됨",
+   "evidence": "a by-product of the rules",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "권위를 인지적 성취로 보지 않아 권위 설명 이론은 앎에서 주제를 바꾼다",
+   "label": "지지됨",
+   "evidence": "changed the subject away from knowledge",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "공언은 현상적(근거 없고 권위 강함)과 태도적(권위 약하고 자기기만 가능)으로 갈린다",
+   "label": "지지됨",
+   "evidence": "phenomenal ... attitudinal",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "반론 목록은 이 반론을 덫의 턱이라 부르며 가장 깊은 반론으로 평가",
+   "label": "부분 지지",
+   "evidence": "the jaws of the trap ... Deep",
+   "note": "목록은 'Deep'이라 썼고 'deepest'는 에세이 §5의 표현. 귀속과 강도가 어긋남."
+  },
+  {
+   "n": 5,
+   "text": "표현주의 범위 반론의 출처에도 라이트, 1991년 연도 바로잡음",
+   "label": "지지됨",
+   "evidence": "the sensation/privacy paper is 1991",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/OBJECTIONS_catalogue.md",
+  "_원자료/로컬/Integrating Transparency/ESSAY_v5_What-the-Objections-Assume.md",
+  "문헌/@Wright1998 Self-Knowledge The Wittgensteinian Legacy.md"
+ ],
+ "sources_missing": [],
+ "note": "라이트 원문은 없고 2차 요약(목록, 에세이)에 대조함.",
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

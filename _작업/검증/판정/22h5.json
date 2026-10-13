@@ -1,0 +1,55 @@
+{
+ "id": "22h5",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "이인증은 실재 검증이 유지된 채 내 것임이 사라지는 사례로 연구된다",
+   "label": "지지됨",
+   "evidence": "reality-testing intact, mineness gone",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "빌롱 2023: 이인증은 내 것임이라는 현상적 표지의 결여",
+   "label": "지지됨",
+   "evidence": "lack of a phenomenal mark (mineness)",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "사스 등 2013: 수동성·소외는 겹치고 자기-세계 혼동·일인칭 침식은 조현병 고유",
+   "label": "지지됨",
+   "evidence": "distinctive of schizophrenia",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "실재 검증이 온전한 이인증을 소유 실패만 떼어 보여 주는 더 깨끗한 사례로 본다",
+   "label": "지지됨",
+   "evidence": "DP is the cleaner case",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "빌롱 2024: doute métaphysique 환자에서 비실재와 실재 직관의 충돌",
+   "label": "지지됨",
+   "evidence": "intuition of unreality and ... reality",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "빌롱 2016: 코타르 망상은 이인증 경험을 액면 그대로 받아들인 결과",
+   "label": "지지됨",
+   "evidence": "experience taken at face value",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/READING_Psychopathology-and-Transparency.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
