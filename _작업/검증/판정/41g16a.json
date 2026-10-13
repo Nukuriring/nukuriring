@@ -1,0 +1,62 @@
+{
+ "id": "41g16a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "실천적 취함과 믿음의 취함도 명시적 상위 표상 없이 이해",
+   "label": "지지됨",
+   "evidence": "it cannot in general require a further thought",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "푸트: 비합리적 행위자도 목적 추구, 합리적 동물만 목적으로 이해",
+   "label": "지지됨",
+   "evidence": "sheep do not pursue their ends 'as ends'",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "보일이 이를 실천적 취함 조건(PTC)으로 쓴다",
+   "label": "지지됨",
+   "evidence": "subject to a Practical Taking Condition",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "PTC: E를 추구가치 있는 목적으로 취하기 때문에 추구",
+   "label": "지지됨",
+   "evidence": "because she takes E to be an end worth pursuing",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "명시적 동기 표상은 합리적 행위를 과대 지성화",
+   "label": "지지됨",
+   "evidence": "overintellectualize rational agency",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "오섀너시: 동물은 진리를 알아도 그 진리임을 알지 못한다",
+   "label": "지지됨",
+   "evidence": "animals know truths, but not their truth",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "믿음의 취함 조건(DTC)",
+   "label": "지지됨",
+   "evidence": "because she takes it to be true that p",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Self-kn boyle 35697cdd867e8154aaadf42bceb5084e.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

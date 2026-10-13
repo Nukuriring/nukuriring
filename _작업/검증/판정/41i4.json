@@ -1,0 +1,62 @@
+{
+ "id": "41i4",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "세계가 텔릭 태도에 맞아야 한다는 말은 투정, 요구는 주체에게",
+   "label": "지지됨",
+   "evidence": "a markedly petulant way of talking",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "믿음이 세계에 맞는다는 말은 이상하지 않다",
+   "label": "지지됨",
+   "evidence": "nothing prima facie odd about saying that beliefs",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "청바지가 나에게 맞아야 한다는 사례",
+   "label": "지지됨",
+   "evidence": "These jeans ought to fit me, but they don't!",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "규범적 판단이려면 청바지에 스스로를 바꾸는 능력이 있어야",
+   "label": "지지됨",
+   "evidence": "a capacity to change themselves to fit my",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "필기는 ought implies can을 끌어낸다",
+   "label": "지지됨",
+   "evidence": "'ought implies can' 법칙",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "요구가 걸리는 것은 태도가 아니라 그 주체",
+   "label": "지지됨",
+   "evidence": "적용되는 것은 사실 attitude가 아니라 그 주체",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "텔릭 쪽 세계는 마음과 독립된 세계가 아니다",
+   "label": "지지됨",
+   "evidence": "마음-독립적인 세계가 아니다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2025-1/심리철학연습/Direction of fit - Frost 1b597cdd867e80f289c9f5851ca436da.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

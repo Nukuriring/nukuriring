@@ -1,0 +1,62 @@
+{
+ "id": "41g8",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "새 해법은 방식을 비정립적으로 의식하는 데서 투명성 설명",
+   "label": "지지됨",
+   "evidence": "방식을 (비정립적으로) 의식하고 있어야 하며",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "세계의 사태만 고려해서 심리 상태를 알 수 있다",
+   "label": "지지됨",
+   "evidence": "세계의 사태들만을 고려(의식)함으로써",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "세계를 특정한 방식으로 의식한다",
+   "label": "지지됨",
+   "evidence": "반드시 어떤 특정한 방식(manner)으로 의식",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "방식 하나하나가 대응하는 심리 상태를 전제한다",
+   "label": "지지됨",
+   "evidence": "대응되는 심리상태들을 전제하고 있기 때문이다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "Kang: 상태는 주체가 세계에 접근하는 관점",
+   "label": "지지됨",
+   "evidence": "states from whose perspective the subject approaches",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "암묵적 알아챔이 없으면 세계를 제대로 의식 못함",
+   "label": "지지됨",
+   "evidence": "otherwise she cannot be aware of the world",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "상태를 귀속하면 암묵적 알아챔이 명시적이 된다",
+   "label": "지지됨",
+   "evidence": "she can make it explicit by self-ascribing",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Self-kn boyle 35697cdd867e8154aaadf42bceb5084e.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,55 @@
+{
+ "id": "41g10a",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "편향된 심사자는 믿는 줄 알면서 의식적으로 믿지는 않는다",
+   "label": "지지됨",
+   "evidence": "aware of himself believing …not aware of believing",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "남성 우월 믿음을 알아챌 수 있다",
+   "label": "지지됨",
+   "evidence": "might (arguably) become aware of himself believing",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "그 명제를 숙고하면 의심스럽거나 거짓이라고 여길 수 있다",
+   "label": "지지됨",
+   "evidence": "he may find it dubious or outright false",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "어떤 층위에서 받아들이고 있음을 인정할 수밖에 없다",
+   "label": "부분 지지",
+   "evidence": "he may be forced to admit",
+   "note": "원문은 'may be forced'인데 카드는 '인정할 수밖에 없다'로 단정함. 가능 표현이 빠짐."
+  },
+  {
+   "n": 4,
+   "text": "p를 믿는다는 앎이 주체로서의 의식 없이 성립한다",
+   "label": "지지됨",
+   "evidence": "without having consciousness-as-subject of believing p",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "숙고하는 투명한 방식으로 귀속할 수 없다",
+   "label": "지지됨",
+   "evidence": "cannot ascribe it transparently",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Self-kn boyle 35697cdd867e8154aaadf42bceb5084e.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,55 @@
+{
+ "id": "41h4",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "표현 성향과 평가·수정 능력이라는 독립된 두 논증으로 자기맹 배제",
+   "label": "지지됨",
+   "evidence": "two arguments that are independent of each other",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "협력 관계를 인식하므로 드러내는 성향을 반드시 갖는다",
+   "label": "지지됨",
+   "evidence": "necessarily be disposed to manifest those beliefs",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "드러냄에 내성적 알아챔을 귀속하는 발화가 쉽게 포함",
+   "label": "지지됨",
+   "evidence": "this manifestation will easily include",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "그러면 해당 상태에 자기맹이 아니다",
+   "label": "지지됨",
+   "evidence": "not self-blind to those states",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "평가·수정 능력은 내성적 알아챔을 전제한다",
+   "label": "지지됨",
+   "evidence": "presupposes that the creature is introspectively aware",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "합리적 능력이 있으면 내성 능력도 있어 자기맹은 불가능",
+   "label": "지지됨",
+   "evidence": "cannot but have the introspective capacity as well",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/LEE Seungsoo, Summary and Critique Paper 5 35697cdd867e81f8a131dd067986d9f4.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

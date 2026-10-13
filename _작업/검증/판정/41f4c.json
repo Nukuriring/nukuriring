@@ -1,0 +1,62 @@
+{
+ "id": "41f4c",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "박의 보증 논증은 자기기만과 나쁜 신념이 가능한지 부담",
+   "label": "지지됨",
+   "evidence": "이 설명은 bad faith의 가능성을 차단하는 것 같다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "자기기만이나 아크라시아는 brute error 면역이 아니다",
+   "label": "지지됨",
+   "evidence": "immune하지 않은 case? : 자기-기만, or Akrasia",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "면접관이 차별하지 않는다고 믿는 bad faith 예",
+   "label": "지지됨",
+   "evidence": "면접관, 흑인을 차별하지 않아. 'bad faith'",
+   "note": "필기는 흑인으로 적었고 카드는 특정 집단으로 일반화함. 뜻은 같음."
+  },
+  {
+   "n": 3,
+   "text": "나쁜 신념이 가능하면 이유 기반 인식이 비합리적",
+   "label": "지지됨",
+   "evidence": "이유-기반 인식은 비합리적일 것",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "자기기만자는 투명한 자기지식을 얻지 못한다",
+   "label": "지지됨",
+   "evidence": "투명한 자기-지식을 얻을 수 없고",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "우리와 같은 인간이 아니게 된다",
+   "label": "지지됨",
+   "evidence": "우리와 같은 인간이 아닐 것이다",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "필기가 끊겨 답이 확인되지 않는다",
+   "label": "지지됨",
+   "evidence": "그러나 자기-기만적인 사람 역시",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Reading note Park(2022) 35697cdd867e81ef949fea0586c2e557.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

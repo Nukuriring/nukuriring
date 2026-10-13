@@ -1,0 +1,62 @@
+{
+ "id": "41i2a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "험버스톤 이론이 소외된 욕구 반례를 만나고 해명이 순환적",
+   "label": "지지됨",
+   "evidence": "그 설명은 순환적이다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "규범성의 원천은 고차 심적 의도에 있다",
+   "label": "지지됨",
+   "evidence": "고차 심적 의도에 놓여 있다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "믿음은 거짓을 믿지 않으려는 의도를 구성적 원칙으로",
+   "label": "지지됨",
+   "evidence": "구성적 원칙으로 가진다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "텔릭 부합 방향은 Intend(p/Wp)",
+   "label": "지지됨",
+   "evidence": "Intend ( p / Wp)",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "원함에서 소외되면 조건문이 거짓",
+   "label": "지지됨",
+   "evidence": "원함에서 소외될 수 있다 …거짓",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "다른 의도라는 답은 텔릭하되 소외 시 헌신시키지 않아야",
+   "label": "지지됨",
+   "evidence": "소외 case에서 문제가 될 정도로 commit를 시키지는",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "데틱을 텔릭에 근거시키려 하므로 순환적",
+   "label": "지지됨",
+   "evidence": "thetic Dof를 Telic Dof에 근거시키려고",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2025-1/심리철학연습/Direction of fit - Frost 1b597cdd867e80f289c9f5851ca436da.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

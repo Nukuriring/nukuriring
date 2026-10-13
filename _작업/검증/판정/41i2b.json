@@ -1,0 +1,62 @@
+{
+ "id": "41i2b",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "스미스의 이론은 임의적 묶음이어서 대칭성을 설명 못함",
+   "label": "지지됨",
+   "evidence": "임의적 기준이고 …대칭성이 설명되지 않는다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "부합 방향은 규범적 관계 대신 성향",
+   "label": "지지됨",
+   "evidence": "DOF는 규범적 관계가 아니라 disposition이다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "세 요소: 버티는 성향, 없어지는 성향, 성향 짓는 힘",
+   "label": "지지됨",
+   "evidence": "(1) 안 사라지고 버티려는 성향",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "데틱은 없어지려는 성향만, 텔릭은 (1)과 (3)",
+   "label": "지지됨",
+   "evidence": "telic dof —> (1)과 (3)을 가지고 있음",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "(2)+(3)의 제3의 부합 방향은 왜 없는가",
+   "label": "지지됨",
+   "evidence": "제 3의 dof (2) + (3)은 없나?",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "성향 다발에 관한 이론이고 구성 가능성은 무한",
+   "label": "지지됨",
+   "evidence": "무한한 가능성이 있다",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "논리 구조가 눈에 띄게 한쪽으로 치우쳐 있다",
+   "label": "지지됨",
+   "evidence": "notbly lopsided logical structure",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2025-1/심리철학연습/Direction of fit - Frost 1b597cdd867e80f289c9f5851ca436da.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

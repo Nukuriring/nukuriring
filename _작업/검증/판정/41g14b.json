@@ -1,0 +1,62 @@
+{
+ "id": "41g14b",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "반성적 믿음은 일차 상태와 구별되는 상태일 수 없다",
+   "label": "지지됨",
+   "evidence": "not be a distinct mental state over and above",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "투명한 자기지식은 거주하는 관점을 귀속할 때에만 가능",
+   "label": "지지됨",
+   "evidence": "the very one we consciously inhabit",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "거주자는 일차 상태와 이차 믿음을 따로 가진 사람이 아니다",
+   "label": "지지됨",
+   "evidence": "does not merely have some first-order mental state",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "두 관점이 하나로 합쳐져 일차 관점을 표현한다",
+   "label": "지지됨",
+   "evidence": "fuse into one",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "단지 이차 믿음이면 거주자 관점에서 알아채기 어렵다",
+   "label": "지지됨",
+   "evidence": "hard to see how it could amount to an awareness",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "일차 상태의 한 측면이어야 한다",
+   "label": "지지됨",
+   "evidence": "somehow an aspect of this first-order state",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "반성이 일차 상태를 어떻게 바꾸는지 설명해야 한다",
+   "label": "지지됨",
+   "evidence": "How does the dawning of reflective awareness modify",
+   "note": "지식에 구별이 있다는 말은 원문에서 수사적 물음으로 제시됨. 뜻은 같음."
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Self-kn boyle 35697cdd867e8154aaadf42bceb5084e.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
