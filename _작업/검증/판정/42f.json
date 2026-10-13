@@ -1,0 +1,62 @@
+{
+ "id": "42f",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "버지는 합리적 행위자이자 비판적 추론가라서 자기 지향적 상태를 선험적으로 알 수 있다고 주장",
+   "label": "지지됨",
+   "evidence": "capable of knowing our own intentional",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "합리주의 이론(슈메이커, 갈루아)은 합리적 능력 덕분에 자기 마음 상태를 알 수 있어야 한다고 본다",
+   "label": "지지됨",
+   "evidence": "must be capable of knowing his/her",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "합리적 행위자성 이론은 지향적 상태 일부가 개입하고 책임지는 합리적 행위자성의 표현이라고 본다",
+   "label": "지지됨",
+   "evidence": "things we do to which we are committed",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "행위는 신체적 행위와 비판적 추론 같은 정신적 행위를 포함",
+   "label": "지지됨",
+   "evidence": "신체적 행위 뿐 아니라 정신적 행위",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "버지는 믿음 등을 상태로 보아 가질 때 정신적 행위를 한다고 보지 않는다",
+   "label": "지지됨",
+   "evidence": "상태로 보고 있지 활동으로 보고 있지 않으므로",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "버지의 주 테제는 합리적 행위자이자 비판적 추론가이기 때문에 자기 지향적 상태를 안다는 것",
+   "label": "부분 지지",
+   "evidence": "We are capable of knowing",
+   "note": "원문은 '알 수 있는(capable of knowing)'인데 본문 문장은 '안다'로 단정함(제목은 '알 수 있다'로 유지)."
+  },
+  {
+   "n": 6,
+   "text": "개입과 책임은 합리적 행위자성만으로 그 상태를 아는 능력이 있을 때에만 가능",
+   "label": "지지됨",
+   "evidence": "only if he/she has the capacity",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/심리철학연습_강의록_20210420 (…).md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

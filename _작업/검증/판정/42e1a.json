@@ -1,0 +1,55 @@
+{
+ "id": "42e1a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "내감 이론가에게 특권적 접근은 오직 자기 심리 상태에만 닿도록 배선된 우연한 사실에서 나온다",
+   "label": "지지됨",
+   "evidence": "it is a contingent fact",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "생물학적으로 자기 심리 상태에만 닿도록 배선되어 있어 특권적 접근이 있다",
+   "label": "지지됨",
+   "evidence": "biologically hardwired",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "외부 지각 대상은 우리 모두에게 공통이지만 내적 감각의 대상은 그렇지 않다",
+   "label": "지지됨",
+   "evidence": "common things among us",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "이 비대칭은 우연이고 원리적으로 타인의 심리 상태를 알지 못할 이유가 없다",
+   "label": "지지됨",
+   "evidence": "no bar to knowing others' mental",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "암스트롱: 경험적 사실일 뿐이며 타인의 현재 상태를 비추론적으로 아는 능력을 생각할 수 있고 텔레파시에 가깝다",
+   "label": "지지됨",
+   "evidence": "only an empirical fact",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "대면 이론가는 그 감각이 다른 사람의 것일 수 있다는 것이 상상 가능한지 되묻는다",
+   "label": "지지됨",
+   "evidence": "someone else's sensation?",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/심리철학연습_강의록_20210413 (…).md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

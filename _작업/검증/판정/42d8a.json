@@ -1,0 +1,62 @@
+{
+ "id": "42d8a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "윌리엄슨은 앎이 신뢰할 만한 기반을 요구한다는 점으로 오차 허용 원리를 정당화하고 신뢰성을 안전성으로 읽을 수 있다",
+   "label": "지지됨",
+   "evidence": "reliably based ... it is safe",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "ti에서 안다면 상당히 확신하고 그 확신은 신뢰할 만하게 기반 지어져야 한다",
+   "label": "지지됨",
+   "evidence": "at least reasonably confident",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "ti+1에서 거의 같은 확신이고 그때 춥지 않다면 ti의 확신도 신뢰할 만한 기반이 아님",
+   "label": "지지됨",
+   "evidence": "not reliably based",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "강의는 신뢰성이 안전성을 뜻한다고 읽는다",
+   "label": "지지됨",
+   "evidence": "what Williamson means ... is safe",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "안전한 믿음의 정의(가까운 가능세계에서 참)",
+   "label": "지지됨",
+   "evidence": "almost all nearby possible worlds",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "증거 없이 비가 오리라 믿었다가 우연히 맞은 경우는 안전하지 않다",
+   "label": "지지됨",
+   "evidence": "could have been easily false",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "지식이 새 증거 앞에서 더 강건해 시간적 거리를 둔 행위를 더 잘 돕는다는 점으로 지지",
+   "label": "지지됨",
+   "evidence": "more robust in the face of new evidence",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/심리철학연습_강의록_20210406 (…).md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

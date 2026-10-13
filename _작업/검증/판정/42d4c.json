@@ -1,0 +1,48 @@
+{
+ "id": "42d4c",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "가능세계를 실제 세계로 고려할 수 있는 까닭은 완전한 지식이 없기 때문",
+   "label": "지지됨",
+   "evidence": "완전한 지식을 갖고 있지 않기 때문",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "가능성 지식의 수단이 상상력뿐이라 이상적 상상 가능성은 형이상학적 가능성을 함축",
+   "label": "지지됨",
+   "evidence": "conceivability in an ideal condition",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "인식적·형이상학적 가능세계를 서로 다른 두 집합으로 구별하지 않는다",
+   "label": "지지됨",
+   "evidence": "shouldn't distinguish between",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "같은 가능세계들을 실제 세계로 고려하느냐 반사실적으로 고려하느냐의 차이",
+   "label": "지지됨",
+   "evidence": "as actual worlds and as counterfactual",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "완전한 지식이 있다면 하나를 실제 세계로 간주하겠지만 없으므로 여러 상황을 고려",
+   "label": "지지됨",
+   "evidence": "어느 하나를 우리의 실제 세계로 간주",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/심리철학연습_강의록_20210406 (…).md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

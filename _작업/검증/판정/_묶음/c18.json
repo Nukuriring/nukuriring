@@ -1,0 +1,281 @@
+{
+  "model": "sonnet",
+  "date": "2026-10-13",
+  "cards": [
+    {
+      "id": "42b3a", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "맥킨지의 귀류 논증은 외재주의와 선험적 자기지식이 합쳐지면 외부 세계를 선험적으로 안다", "label": "지지됨", "evidence": "Oscar can know a priori", "note": ""},
+        {"n": 1, "text": "EXT와 SK가 모두 참이라고 가정", "label": "지지됨", "evidence": "suppose that both (EXT) and (SK)", "note": ""},
+        {"n": 2, "text": "SK에 따라 오스카는 물이 축축하다고 생각함을 선험적으로 안다", "label": "지지됨", "evidence": "knows a priori ... (from SK)", "note": ""},
+        {"n": 3, "text": "EXT에 따라 그 생각은 외부 조건 E를 개념적으로 함축", "label": "지지됨", "evidence": "conceptually implies ... E", "note": ""},
+        {"n": 4, "text": "두 전제에서 E를 선험적으로 알 수 있다는 결론", "label": "지지됨", "evidence": "From (1) and (2) ... a priori", "note": ""},
+        {"n": 5, "text": "E를 선험적으로 알 수 없다는 것은 분명한 참", "label": "지지됨", "evidence": "the following obvious truth", "note": ""},
+        {"n": 6, "text": "개념적 함축의 정의(필연적/개념적 보조 전제, 자명한 추론 규칙)", "label": "지지됨", "evidence": "necessary or conceptual truths", "note": ""},
+        {"n": 7, "text": "따라서 가정은 부조리에 이른다", "label": "지지됨", "evidence": "clearly an absurd conclusion", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210316 (…).md", "_원자료/notion/…/심리철학연습_강의록_20210323 (…).md"],
+      "sources_missing": []
+    },
+    {
+      "id": "42b4a", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "보고시안은 마른 지구 딜레마로 둘째 전제를 옹호한다", "label": "지지됨", "evidence": "Why should we accept (2*)?", "note": ""},
+        {"n": 1, "text": "마른 지구는 물 같은 물질도 자연종도 없는 세계", "label": "지지됨", "evidence": "no watery stuff exists", "note": ""},
+        {"n": 2, "text": "외재주의자는 낱말 물이 어떤 개념을 표현하는지 답해야 한다", "label": "지지됨", "evidence": "What concept, if any, should", "note": ""},
+        {"n": 3, "text": "첫 선택지: 복합 개념이면 의미론적·통사적 성질이 환경에 달린다", "label": "지지됨", "evidence": "통사론적 특성도 외부 환경에 따라", "note": ""},
+        {"n": 4, "text": "둘째 선택지: 원자 개념이면 개념을 정하는 외연이 없다", "label": "지지됨", "evidence": "nothing that determines the extension", "note": ""},
+        {"n": 5, "text": "지시체 없는 고유명사 문제를 자연종 용어에 옮긴 것", "label": "지지됨", "evidence": "'empty term'의 문제", "note": ""},
+        {"n": 6, "text": "어떤 개념도 표현 못 함 → 물 개념 가졌다면 물이 존재함이 선험적", "label": "지지됨", "evidence": "if we have the concept water then", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210323 (…).md"],
+      "sources_missing": []
+    },
+    {
+      "id": "42c1", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "라이트는 보증 폐쇄는 받아들이고 전달은 순환적 논증에서 실패한다고 구별", "label": "지지됨", "evidence": "distinguish between (WC) and (WT)", "note": ""},
+        {"n": 1, "text": "보증 폐쇄의 정의", "label": "지지됨", "evidence": "then S has a warrant for accepting q", "note": ""},
+        {"n": 2, "text": "보증 전달: 보증이 q로 전달되어 S가 처음으로 q의 보증을 얻는다", "label": "부분 지지", "evidence": "acquires (perhaps for the first time)", "note": "원문은 'perhaps for the first time'(아마 처음으로)인데 카드는 '처음으로'로 단정함."},
+        {"n": 3, "text": "폐쇄는 그럴듯하지만 전달에는 반례가 있다", "label": "지지됨", "evidence": "plausible principle ... counter-examples", "note": ""},
+        {"n": 4, "text": "p, p이면 p, 그러므로 p에서 결론이 이미 보증되어 있었기 때문에 전제 보증이 있다", "label": "지지됨", "evidence": "antecedently warranted", "note": ""},
+        {"n": 5, "text": "이 경우 전달은 실패하고 폐쇄는 유지", "label": "지지됨", "evidence": "(Warrant Closure) holds", "note": ""},
+        {"n": 6, "text": "전달이 성립하려면 결론의 보증이 전제의 보증에서 와야 한다", "label": "지지됨", "evidence": "not the other way around", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210323 (…).md"],
+      "sources_missing": []
+    },
+    {
+      "id": "42c3", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "전제를 보증받을 가능성이 결론의 독립된 권리부여를 요구하면 전달 실패", "label": "지지됨", "evidence": "we must be independently warranted", "note": ""},
+        {"n": 1, "text": "환상 가능성 때문에 A와 구별 안 되고 양립 불가하며 B의 부정을 함축하는 C가 있다", "label": "지지됨", "evidence": "discount the negation of B", "note": "필기 (iii)은 'entails B'로 적혀 있으나 얼룩말 예(C=가장한 노새, B=노새 아님)와 Step 4에 비추면 B의 부정을 뜻하는 필기 오기로 보임. 카드의 서술이 맞음."},
+        {"n": 2, "text": "A 또는 C 선언에 그치지 않으려면 C를 배제할 독립된 보증이 필요", "label": "지지됨", "evidence": "independently warranted in discounting C", "note": ""},
+        {"n": 3, "text": "그러려면 B를 받아들일 권리가 이미 있어야 한다", "label": "지지됨", "evidence": "entitled to accept B", "note": ""},
+        {"n": 4, "text": "이 권리는 기본 설정에 가까운 비증거적 보증, 특수 상황에서만 패배", "label": "지지됨", "evidence": "default, non-evidential warrant", "note": ""},
+        {"n": 5, "text": "B의 보증은 A의 보증과 독립적이며 선결 조건이라 전달되지 않는다", "label": "지지됨", "evidence": "a precondition for ... any warrant for A", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210323 (…).md"],
+      "sources_missing": []
+    },
+    {
+      "id": "42d1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "강한 속성 이원론은 좀비의 논리적 가능성에서 수반 부정을 끌어낸다", "label": "지지됨", "evidence": "logically (or metaphysically) possible", "note": ""},
+        {"n": 1, "text": "약한 속성 이원론은 동일하지 않지만 수반한다고 본다", "label": "지지됨", "evidence": "동일하지 않을 뿐 ... 수반", "note": ""},
+        {"n": 2, "text": "강한 속성 이원론: 동일하지도 수반하지도 않아 물리적으로 같아도 다를 수 있다", "label": "지지됨", "evidence": "수반하지도 않는다", "note": ""},
+        {"n": 3, "text": "차머스의 근거는 좀비 논증", "label": "지지됨", "evidence": "zombie argument for strong property dualism", "note": ""},
+        {"n": 4, "text": "물리주의가 참이면 현상적 속성이 물리적 속성에 논리적으로 수반", "label": "지지됨", "evidence": "logically (or metaphysically) supervenient", "note": ""},
+        {"n": 5, "text": "자연적 수반만으로는 물리적이지 않은 법칙 가설과 양립", "label": "지지됨", "evidence": "not purely physical", "note": ""},
+        {"n": 6, "text": "좀비가 가능하다면 물리주의는 틀렸다", "label": "지지됨", "evidence": "shows that physicalism is wrong", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210330 (…).md"],
+      "sources_missing": []
+    },
+    {
+      "id": "42d2a", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "직접 현상적 믿음은 인과 대신 구성으로 의식과 이어져 역설이 풀린다", "label": "지지됨", "evidence": "explanatorily relevant ... not causally", "note": ""},
+        {"n": 1, "text": "역설의 둘째 단계(인지가 모두 물리 법칙으로 설명됨)를 거부", "label": "지지됨", "evidence": "Chalmers reject (Step 2)", "note": ""},
+        {"n": 2, "text": "현상적 믿음 가운데 일부는 물리 법칙으로 충분히 설명되지 않는다", "label": "지지됨", "evidence": "in particular our phenomenal beliefs", "note": ""},
+        {"n": 3, "text": "현상적 성질은 인과적이 아니라 설명적으로 관련, 내용을 구성하기 때문", "label": "지지됨", "evidence": "they constitute the contents", "note": ""},
+        {"n": 4, "text": "R을 가질 때 대면 관계라 순수 직접 현상적 믿음에서 틀릴 수 없다", "label": "지지됨", "evidence": "cannot be wrong in his/her", "note": ""},
+        {"n": 5, "text": "오류 불가능성이 현상적 속성의 특이성에서 올지도 모른다(축소적 이해)", "label": "지지됨", "evidence": "현상적 속성들의 특이성 때문일지도", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210330 (…).md"],
+      "sources_missing": []
+    },
+    {
+      "id": "42d3b", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "지표사는 화자를 가리키는 인식적 내포를 갖고 고유명의 인식적 내포는 사적이거나 위임될 수 있다", "label": "부분 지지", "evidence": "<'I'라는 단어를 포함한 문장을 발화한 사람>", "note": "필기의 근거는 'I' 한 예뿐인데 제목은 지표사 일반으로 넓힘. 필기는 지표사 일반이 인식적 내포를 갖는 것이 '그럴듯할 수 있다'고만 적음. 고유명 부분은 지지됨."},
+        {"n": 1, "text": "두 사람의 나는 철학자이다에 의미가 다르다는 직관과 같다는 직관이 있다", "label": "지지됨", "evidence": "두 직관", "note": ""},
+        {"n": 2, "text": "가정적 내포는 서로 다르다", "label": "지지됨", "evidence": "두 사람이 사용한 문장의 가정적 내포는 다르다", "note": ""},
+        {"n": 3, "text": "인식적 내포는 같다(나 낱말이 든 문장을 발화한 사람)", "label": "지지됨", "evidence": "인식적 내포는 동일하다", "note": ""},
+        {"n": 4, "text": "고유명의 인식적 내포는 파인만을 잘 아는 사람들이 쓰는 속성이라는 위임적 내용일 수 있다", "label": "지지됨", "evidence": "The epistemic intension ... can be deferential", "note": ""},
+        {"n": 5, "text": "인식적 내포는 공적 의미일 필요가 없고 사적일 수 있다", "label": "지지됨", "evidence": "It can be private.", "note": ""},
+        {"n": 6, "text": "메리의 새 믿음 내용은 새 개념 R의 내용에 있는 듯하다", "label": "지지됨", "evidence": "개념 R이 갖고 있는 내용인 것 같다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210330 (…).md"],
+      "sources_missing": []
+    },
+    {
+      "id": "42d3c", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "차머스는 개념을 심적 표현으로 보고 개념에도 두 내포가 있다고 본다", "label": "지지됨", "evidence": "concepts ... also have both", "note": ""},
+        {"n": 1, "text": "개념이 무엇인지에 대해 철학자와 심리학자 사이에 합의가 없다", "label": "지지됨", "evidence": "no shared agreement about what concepts are", "note": ""},
+        {"n": 2, "text": "보통 개념은 심적 내용의 구성 요소로 이해되어 언어적 의미와 유비", "label": "지지됨", "evidence": "analogous to linguistic meanings", "note": ""},
+        {"n": 3, "text": "차머스에게 개념은 믿음 등 명제 태도의 구성 요소인 심적 개체", "label": "지지됨", "evidence": "loosely analogous to the way", "note": ""},
+        {"n": 4, "text": "사고의 언어 가설에 묶이지 않지만 심적 기호로 생각하면 편리", "label": "지지됨", "evidence": "it is convenient to think of", "note": ""},
+        {"n": 5, "text": "심적 표현으로서 개념에도 내용과 두 내포, 사적일 수 있다", "label": "지지됨", "evidence": "so can be the epistemic and subjunctive", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210330 (…).md"],
+      "sources_missing": []
+    },
+    {
+      "id": "42d4b", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "크립키 논증은 대체 진술이 없다는 점에, 차머스 논증은 선험적 수반 실패에 기댄다", "label": "지지됨", "evidence": "what feels like pain is pain", "note": ""},
+        {"n": 1, "text": "물리주의가 참이고 두 용어가 고정 지시어면 고통=C 섬유 발화는 모든 가능세계에서 참", "label": "지지됨", "evidence": "must be true in every metaphysically", "note": ""},
+        {"n": 2, "text": "이 진술이 거짓임은 상상할 수 있다", "label": "지지됨", "evidence": "it is conceivable that", "note": ""},
+        {"n": 3, "text": "상상 가능성을 대체 진술의 거짓으로 설명할 수 없다", "label": "지지됨", "evidence": "For what feels like pain is pain", "note": ""},
+        {"n": 4, "text": "따라서 원래 진술이 거짓인 가능세계가 있고 물리주의는 거짓", "label": "지지됨", "evidence": "Therefore, physicalism is false.", "note": ""},
+        {"n": 5, "text": "차머스: 고통의 인식적·가정적 내포가 모두 고통", "label": "지지됨", "evidence": "subjunctive intension ... <pain>", "note": ""},
+        {"n": 6, "text": "물리주의면 인식적 내포가 고르는 속성이 선험적으로 논리적 수반해야 하나 상상으로 성립 안 됨", "label": "지지됨", "evidence": "not a priori logically supervenient", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210330 (…).md"],
+      "sources_missing": []
+    },
+    {
+      "id": "42d4c", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "가능세계를 실제 세계로 고려할 수 있는 까닭은 완전한 지식이 없기 때문", "label": "지지됨", "evidence": "완전한 지식을 갖고 있지 않기 때문", "note": ""},
+        {"n": 1, "text": "가능성 지식의 수단이 상상력뿐이라 이상적 상상 가능성은 형이상학적 가능성을 함축", "label": "지지됨", "evidence": "conceivability in an ideal condition", "note": ""},
+        {"n": 2, "text": "인식적·형이상학적 가능세계를 서로 다른 두 집합으로 구별하지 않는다", "label": "지지됨", "evidence": "shouldn't distinguish between", "note": ""},
+        {"n": 3, "text": "같은 가능세계들을 실제 세계로 고려하느냐 반사실적으로 고려하느냐의 차이", "label": "지지됨", "evidence": "as actual worlds and as counterfactual", "note": ""},
+        {"n": 4, "text": "완전한 지식이 있다면 하나를 실제 세계로 간주하겠지만 없으므로 여러 상황을 고려", "label": "지지됨", "evidence": "어느 하나를 우리의 실제 세계로 간주", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210406 (…).md"],
+      "sources_missing": []
+    },
+    {
+      "id": "42d5b", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "순수 현상적 개념은 가정적으로도 인식적으로도 고정되어 지시체가 인식적 내용을 구성한다", "label": "부분 지지", "evidence": "epistemic content itself seems to be", "note": "원문은 '구성되는 듯하다(seems)'인데 제목은 '구성한다'로 단정함. 이중 고정성 부분은 지지됨."},
+        {"n": 1, "text": "고유명·자연종 용어·지표사는 가정적으로 고정된다", "label": "지지됨", "evidence": "subjunctively rigid", "note": ""},
+        {"n": 2, "text": "반사실적으로 고려된 모든 가능세계에서 같은 지시체", "label": "지지됨", "evidence": "every possible world considered as counterfactual", "note": ""},
+        {"n": 3, "text": "순수 현상적 개념은 인식적 고정성도 가진다", "label": "지지됨", "evidence": "also epistemically rigid", "note": ""},
+        {"n": 4, "text": "차머스는 러셀의 직접 지시 능력 주장에 일부 정당화가 있다고 본다", "label": "부분 지지", "evidence": "One might see here some justification", "note": "원문은 'One might see'(볼 수도 있다)라는 조건적 표현인데 카드는 차머스가 '본다'고 단정함."},
+        {"n": 5, "text": "현대 직접지시론자의 사례는 가정적 내용만 지시체에 의존하는 약한 의미에서만 직접적", "label": "지지됨", "evidence": "'direct' only in the weak sense", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210330 (…).md"],
+      "sources_missing": []
+    },
+    {
+      "id": "42d5c", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "현상적 개념이 두 차원 모두에서 고정 지시어인 이유를 두 직접성에서 찾는다", "label": "지지됨", "evidence": "매우 직접적인 관계를 맺고 있기 때문", "note": ""},
+        {"n": 1, "text": "물의 인식적 내포는 맑고 투명하고 갈증 해소하는 액체라 외연이 달라진다", "label": "지지됨", "evidence": "<맑고 투명하고 갈증을 해소하는 액체>", "note": ""},
+        {"n": 2, "text": "물의 가정적 내포는 H2O라 반사실적으로 고정", "label": "지지됨", "evidence": "반사실적으로 고정지시어", "note": ""},
+        {"n": 3, "text": "현상적 개념 R은 인식적·가정적 내포가 모두 R이라 두 차원에서 고정", "label": "지지됨", "evidence": "인식적으로 고정지시어", "note": ""},
+        {"n": 4, "text": "차머스가 직접적 관계 때문이라고 제안한다", "label": "지지됨", "evidence": "이유를 ... 제안한다", "note": ""},
+        {"n": 5, "text": "형이상학적 직접성: 현상적 속성이 개념의 내용을 구성", "label": "지지됨", "evidence": "현상적 속성이 현상적 개념의 내용을 구성", "note": ""},
+        {"n": 6, "text": "인식적 직접성: 속성을 예화하는 주체가 믿음을 가질 때 대면", "label": "지지됨", "evidence": "해당 주체가 현상적 속성과 대면", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210406 (…).md"],
+      "sources_missing": []
+    },
+    {
+      "id": "42d8a", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "윌리엄슨은 앎이 신뢰할 만한 기반을 요구한다는 점으로 오차 허용 원리를 정당화하고 신뢰성을 안전성으로 읽을 수 있다", "label": "지지됨", "evidence": "reliably based ... it is safe", "note": ""},
+        {"n": 1, "text": "ti에서 안다면 상당히 확신하고 그 확신은 신뢰할 만하게 기반 지어져야 한다", "label": "지지됨", "evidence": "at least reasonably confident", "note": ""},
+        {"n": 2, "text": "ti+1에서 거의 같은 확신이고 그때 춥지 않다면 ti의 확신도 신뢰할 만한 기반이 아님", "label": "지지됨", "evidence": "not reliably based", "note": ""},
+        {"n": 3, "text": "강의는 신뢰성이 안전성을 뜻한다고 읽는다", "label": "지지됨", "evidence": "what Williamson means ... is safe", "note": ""},
+        {"n": 4, "text": "안전한 믿음의 정의(가까운 가능세계에서 참)", "label": "지지됨", "evidence": "almost all nearby possible worlds", "note": ""},
+        {"n": 5, "text": "증거 없이 비가 오리라 믿었다가 우연히 맞은 경우는 안전하지 않다", "label": "지지됨", "evidence": "could have been easily false", "note": ""},
+        {"n": 6, "text": "지식이 새 증거 앞에서 더 강건해 시간적 거리를 둔 행위를 더 잘 돕는다는 점으로 지지", "label": "지지됨", "evidence": "more robust in the face of new evidence", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210406 (…).md"],
+      "sources_missing": []
+    },
+    {
+      "id": "42d9", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "직접 현상적 믿음이 오류 불가능하면 현상적 상태가 투명해져 윌리엄슨의 논증과 충돌", "label": "지지됨", "evidence": "must be 'luminous' in Williamson's", "note": ""},
+        {"n": 1, "text": "직접 현상적 믿음은 가질 때 거짓일 수 없는 오류 불가능한 믿음", "label": "지지됨", "evidence": "cannot be false when we have them", "note": ""},
+        {"n": 2, "text": "F를 예화하고 F를 가진다고 믿으면 F의 예화는 투명해야 하고 S는 믿을 뿐 아니라 안다", "label": "지지됨", "evidence": "not only believe but also know", "note": ""},
+        {"n": 3, "text": "윌리엄슨은 투명한 사태가 없다고 논증", "label": "지지됨", "evidence": "there cannot be such 'luminous'", "note": ""},
+        {"n": 4, "text": "윌리엄슨의 논증이 틀렸거나 차머스의 대면 이론이 틀렸다", "label": "지지됨", "evidence": "either Williamson's argument is wrong or", "note": ""},
+        {"n": 5, "text": "이 충돌은 자기지식의 특별한 지위를 정당화하려는 시도에 윌리엄슨이 반례를 제시하는 형태", "label": "부분 지지", "evidence": "Anti-Luminosity Argument against Chalmers's Theory?", "note": "필기는 물음표를 붙인 소제목으로만 두 입장의 충돌을 제시함. 차머스 이론이 '자기지식의 특별한 지위를 정당화하려는 시도'라는 규정과 윌리엄슨이 '반례를 제시'한다는 서술은 필기에 없는 해석임."}
+      ],
+      "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210406 (…).md"],
+      "sources_missing": []
+    },
+    {
+      "id": "42e1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "내감 이론은 자기지식이 지각과 닮은 인과 과정에서 나오고 신뢰성이 지식을 만든다고 보며 대면 이론과 세 점에서 갈린다", "label": "지지됨", "evidence": "Ontological/Epistemological/Phenomenological", "note": ""},
+        {"n": 1, "text": "존재론적 테제: 외부 세계 지각과 닮은 인과 과정으로 믿음을 얻는다", "label": "지지됨", "evidence": "importantly similar to the causal", "note": ""},
+        {"n": 2, "text": "암스트롱은 내성을 뇌 안의 자기 스캔 과정으로 본다", "label": "지지됨", "evidence": "self-scanning process in the brain", "note": ""},
+        {"n": 3, "text": "인식론적 테제: 인과 과정이 신뢰할 만하기 때문에 지식, 인식적 정당화에 외재주의", "label": "지지됨", "evidence": "the causal processes ... are reliable", "note": ""},
+        {"n": 4, "text": "현상학적 테제: 현상적 특징은 부수적이며 인식적 근거 역할이 없다", "label": "지지됨", "evidence": "incidental and do not play any role", "note": ""},
+        {"n": 5, "text": "대면 이론은 고통 감각에 대한 대면이 지식을 구성하고 정당화", "label": "지지됨", "evidence": "정당화 역할을 하고 있다", "note": ""},
+        {"n": 6, "text": "내감 이론은 같은 지식을 뇌 상태에 대한 지식으로 보고 신뢰할 만한 인과 과정이 지식으로 만든다", "label": "지지됨", "evidence": "동일한 내 두뇌상태에 대한 지식", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210413 (…).md"],
+      "sources_missing": []
+    },
+    {
+      "id": "42e1a", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "내감 이론가에게 특권적 접근은 오직 자기 심리 상태에만 닿도록 배선된 우연한 사실에서 나온다", "label": "지지됨", "evidence": "it is a contingent fact", "note": ""},
+        {"n": 1, "text": "생물학적으로 자기 심리 상태에만 닿도록 배선되어 있어 특권적 접근이 있다", "label": "지지됨", "evidence": "biologically hardwired", "note": ""},
+        {"n": 2, "text": "외부 지각 대상은 우리 모두에게 공통이지만 내적 감각의 대상은 그렇지 않다", "label": "지지됨", "evidence": "common things among us", "note": ""},
+        {"n": 3, "text": "이 비대칭은 우연이고 원리적으로 타인의 심리 상태를 알지 못할 이유가 없다", "label": "지지됨", "evidence": "no bar to knowing others' mental", "note": ""},
+        {"n": 4, "text": "암스트롱: 경험적 사실일 뿐이며 타인의 현재 상태를 비추론적으로 아는 능력을 생각할 수 있고 텔레파시에 가깝다", "label": "지지됨", "evidence": "only an empirical fact", "note": ""},
+        {"n": 5, "text": "대면 이론가는 그 감각이 다른 사람의 것일 수 있다는 것이 상상 가능한지 되묻는다", "label": "지지됨", "evidence": "someone else's sensation?", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210413 (…).md"],
+      "sources_missing": []
+    },
+    {
+      "id": "42e3b", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "비트겐슈타인은 나가 지칭하지 않는다고 보았으나 지금은 대부분이 거부하고 나와의 직접 관계를 고려한다", "label": "부분 지지", "evidence": "대면 등의 특수한 직접적인 관계", "note": "결론 거부는 지지되나, '대부분이 나와의 직접 관계를 고려한다'는 필기에 없음. 필기는 지칭 표현을 고수하려면 그런 관계를 주장해야 할 것 '같기도 하다'고만 적음."},
+        {"n": 1, "text": "나의 두 쓰임: 목적어는 특정 사람 확인 포함, 오류 가능성 마련", "label": "지지됨", "evidence": "recognition of a particular person", "note": ""},
+        {"n": 2, "text": "주어 쓰임은 사람 확인이 없고 다른 사람으로 오인 가정이 불가능", "label": "지지됨", "evidence": "no question of recognizing a person", "note": ""},
+        {"n": 3, "text": "결론: 주어로 쓰인 나는 대상을 가리키지 않는 표현", "label": "지지됨", "evidence": "not a referring expression", "note": ""},
+        {"n": 4, "text": "지칭하려면 잘못 지칭할 가능성이 있어야 하는데 이 쓰임엔 없다", "label": "지지됨", "evidence": "잘못 가리킬 수 있는 가능성이 없다", "note": "필기가 '(비트겐슈타인의 논증?)'로 물음표를 붙인 재구성."},
+        {"n": 5, "text": "앤스컴은 받아들였으나 에반스 비판 이후 대부분은 급진적 결론을 거부", "label": "지지됨", "evidence": "거의 대부분의 철학자들은 ... 거부", "note": ""},
+        {"n": 6, "text": "지칭 표현임을 지키며 설명하려면 나 자신과도 대면 같은 직접적 관계가 필요해 보인다", "label": "지지됨", "evidence": "주장해야 할 것 같기도 하다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210413 (…).md"],
+      "sources_missing": []
+    },
+    {
+      "id": "42e6", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "슈메이커는 독립 조건에서 합리적 자기맹의 가능성을 끌어내고 합리성이 자기맹을 배제한다는 논증으로 넓은 지각 모형을 비판", "label": "지지됨", "evidence": "Therefore, the broad perceptual model", "note": ""},
+        {"n": 1, "text": "자기맹은 내성적으로 눈먼 존재", "label": "지지됨", "evidence": "introspectively blind", "note": ""},
+        {"n": 2, "text": "비추론적으로는 못 알지만 관찰에 기반한 추론으로 알고, 통증의 말뜻을 안다", "label": "지지됨", "evidence": "through inferences based on the observations", "note": ""},
+        {"n": 3, "text": "두 전제: 넓은 지각 모형이면 합리적 자기맹 가능, 그러나 불가능", "label": "지지됨", "evidence": "(Premise 1) ... (Premise 2)", "note": ""},
+        {"n": 4, "text": "합리적 조건은 합리적 시각 장애인이 실제로 많기 때문", "label": "지지됨", "evidence": "실제로 많이 존재!", "note": ""},
+        {"n": 5, "text": "자기맹의 가능성은 지각 모형에 내장된 독립 조건에서 나온다", "label": "지지됨", "evidence": "a consequence of the independence condition", "note": ""},
+        {"n": 6, "text": "합리적 A는 비슷한 통증 행동을 보여야 하고 그러려면 자기 통증·믿음·욕구를 알아야 한다", "label": "지지됨", "evidence": "A knows that A feels pain", "note": ""},
+        {"n": 7, "text": "행위의 이유를 댈 수 있는 합리적 존재는 자기 믿음과 욕구를 알아야 하기 때문", "label": "부분 지지", "evidence": "(한 답변) 합리적인 개체라면", "note": "필기는 이를 '한 답변'(가능한 답 중 하나)으로 제시하는데 카드는 확정된 이유로 서술함."},
+        {"n": 8, "text": "A는 자기맹이라 이를 알지 못하므로 합리적이지 않다", "label": "지지됨", "evidence": "A is not a rational creature", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210413 (…).md"],
+      "sources_missing": []
+    },
+    {
+      "id": "42e7", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "슈메이커의 구성 이론에서 합리적 존재의 어떤 마음 상태든 알아챔을 구성한다", "label": "지지됨", "evidence": "M will constitute an awareness", "note": ""},
+        {"n": 1, "text": "기능주의: 마음 상태는 인과망에서 맡는 인과적 역할", "label": "지지됨", "evidence": "the causal role it has", "note": ""},
+        {"n": 2, "text": "합리적 피조물에서 M에 있다는 것의 일부는 M에 있음을 알아채는 상태를 규정하는 결과를 갖는 것", "label": "지지됨", "evidence": "part of what it is to be in a mental", "note": ""},
+        {"n": 3, "text": "고통 예: 고통을 느끼는 개체와 아는 개체 모두 울부짖거나 찡그린다", "label": "지지됨", "evidence": "울부짓거나 찡그린다", "note": ""},
+        {"n": 4, "text": "고통을 느끼는 상태는 고통을 안다는 앎의 상태를 구성한다", "label": "지지됨", "evidence": "심리상태 (1)은 심리상태 (2)를 구성", "note": ""},
+        {"n": 5, "text": "두 상태의 핵심 실현자는 같다(C 섬유 발화)", "label": "지지됨", "evidence": "핵심실현자도 마찬가지로 C-신경섬유", "note": ""},
+        {"n": 6, "text": "핵심 실현자만으로 정체성이 정해지면 같은 상태이나 총체적 실현자도 정하므로 구별된다", "label": "지지됨", "evidence": "총체적 실현자가 무엇인지에 의해서", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210420 (…).md"],
+      "sources_missing": []
+    },
+    {
+      "id": "42f", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "버지는 합리적 행위자이자 비판적 추론가라서 자기 지향적 상태를 선험적으로 알 수 있다고 주장", "label": "지지됨", "evidence": "capable of knowing our own intentional", "note": ""},
+        {"n": 1, "text": "합리주의 이론(슈메이커, 갈루아)은 합리적 능력 덕분에 자기 마음 상태를 알 수 있어야 한다고 본다", "label": "지지됨", "evidence": "must be capable of knowing his/her", "note": ""},
+        {"n": 2, "text": "합리적 행위자성 이론은 지향적 상태 일부가 개입하고 책임지는 합리적 행위자성의 표현이라고 본다", "label": "지지됨", "evidence": "things we do to which we are committed", "note": ""},
+        {"n": 3, "text": "행위는 신체적 행위와 비판적 추론 같은 정신적 행위를 포함", "label": "지지됨", "evidence": "신체적 행위 뿐 아니라 정신적 행위", "note": ""},
+        {"n": 4, "text": "버지는 믿음 등을 상태로 보아 가질 때 정신적 행위를 한다고 보지 않는다", "label": "지지됨", "evidence": "상태로 보고 있지 활동으로 보고 있지 않으므로", "note": ""},
+        {"n": 5, "text": "버지의 주 테제는 합리적 행위자이자 비판적 추론가이기 때문에 자기 지향적 상태를 안다는 것", "label": "부분 지지", "evidence": "We are capable of knowing", "note": "원문은 '알 수 있는(capable of knowing)'인데 본문 문장은 '안다'로 단정함(제목은 '알 수 있다'로 유지)."},
+        {"n": 6, "text": "개입과 책임은 합리적 행위자성만으로 그 상태를 아는 능력이 있을 때에만 가능", "label": "지지됨", "evidence": "only if he/she has the capacity", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210420 (…).md"],
+      "sources_missing": []
+    }
+  ]
+}

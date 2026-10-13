@@ -1,0 +1,55 @@
+{
+ "id": "42d2a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "직접 현상적 믿음은 인과 대신 구성으로 의식과 이어져 역설이 풀린다",
+   "label": "지지됨",
+   "evidence": "explanatorily relevant ... not causally",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "역설의 둘째 단계(인지가 모두 물리 법칙으로 설명됨)를 거부",
+   "label": "지지됨",
+   "evidence": "Chalmers reject (Step 2)",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "현상적 믿음 가운데 일부는 물리 법칙으로 충분히 설명되지 않는다",
+   "label": "지지됨",
+   "evidence": "in particular our phenomenal beliefs",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "현상적 성질은 인과적이 아니라 설명적으로 관련, 내용을 구성하기 때문",
+   "label": "지지됨",
+   "evidence": "they constitute the contents",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "R을 가질 때 대면 관계라 순수 직접 현상적 믿음에서 틀릴 수 없다",
+   "label": "지지됨",
+   "evidence": "cannot be wrong in his/her",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "오류 불가능성이 현상적 속성의 특이성에서 올지도 모른다(축소적 이해)",
+   "label": "지지됨",
+   "evidence": "현상적 속성들의 특이성 때문일지도",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/심리철학연습_강의록_20210330 (…).md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

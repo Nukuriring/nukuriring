@@ -1,0 +1,62 @@
+{
+ "id": "42e7",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "슈메이커의 구성 이론에서 합리적 존재의 어떤 마음 상태든 알아챔을 구성한다",
+   "label": "지지됨",
+   "evidence": "M will constitute an awareness",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "기능주의: 마음 상태는 인과망에서 맡는 인과적 역할",
+   "label": "지지됨",
+   "evidence": "the causal role it has",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "합리적 피조물에서 M에 있다는 것의 일부는 M에 있음을 알아채는 상태를 규정하는 결과를 갖는 것",
+   "label": "지지됨",
+   "evidence": "part of what it is to be in a mental",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "고통 예: 고통을 느끼는 개체와 아는 개체 모두 울부짖거나 찡그린다",
+   "label": "지지됨",
+   "evidence": "울부짓거나 찡그린다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "고통을 느끼는 상태는 고통을 안다는 앎의 상태를 구성한다",
+   "label": "지지됨",
+   "evidence": "심리상태 (1)은 심리상태 (2)를 구성",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "두 상태의 핵심 실현자는 같다(C 섬유 발화)",
+   "label": "지지됨",
+   "evidence": "핵심실현자도 마찬가지로 C-신경섬유",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "핵심 실현자만으로 정체성이 정해지면 같은 상태이나 총체적 실현자도 정하므로 구별된다",
+   "label": "지지됨",
+   "evidence": "총체적 실현자가 무엇인지에 의해서",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/심리철학연습_강의록_20210420 (…).md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

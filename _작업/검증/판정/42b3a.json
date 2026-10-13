@@ -1,0 +1,70 @@
+{
+ "id": "42b3a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "맥킨지의 귀류 논증은 외재주의와 선험적 자기지식이 합쳐지면 외부 세계를 선험적으로 안다",
+   "label": "지지됨",
+   "evidence": "Oscar can know a priori",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "EXT와 SK가 모두 참이라고 가정",
+   "label": "지지됨",
+   "evidence": "suppose that both (EXT) and (SK)",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "SK에 따라 오스카는 물이 축축하다고 생각함을 선험적으로 안다",
+   "label": "지지됨",
+   "evidence": "knows a priori ... (from SK)",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "EXT에 따라 그 생각은 외부 조건 E를 개념적으로 함축",
+   "label": "지지됨",
+   "evidence": "conceptually implies ... E",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "두 전제에서 E를 선험적으로 알 수 있다는 결론",
+   "label": "지지됨",
+   "evidence": "From (1) and (2) ... a priori",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "E를 선험적으로 알 수 없다는 것은 분명한 참",
+   "label": "지지됨",
+   "evidence": "the following obvious truth",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "개념적 함축의 정의(필연적/개념적 보조 전제, 자명한 추론 규칙)",
+   "label": "지지됨",
+   "evidence": "necessary or conceptual truths",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "따라서 가정은 부조리에 이른다",
+   "label": "지지됨",
+   "evidence": "clearly an absurd conclusion",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/심리철학연습_강의록_20210316 (…).md",
+  "_원자료/notion/…/심리철학연습_강의록_20210323 (…).md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

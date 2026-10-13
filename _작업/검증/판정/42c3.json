@@ -1,0 +1,55 @@
+{
+ "id": "42c3",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "전제를 보증받을 가능성이 결론의 독립된 권리부여를 요구하면 전달 실패",
+   "label": "지지됨",
+   "evidence": "we must be independently warranted",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "환상 가능성 때문에 A와 구별 안 되고 양립 불가하며 B의 부정을 함축하는 C가 있다",
+   "label": "지지됨",
+   "evidence": "discount the negation of B",
+   "note": "필기 (iii)은 'entails B'로 적혀 있으나 얼룩말 예(C=가장한 노새, B=노새 아님)와 Step 4에 비추면 B의 부정을 뜻하는 필기 오기로 보임. 카드의 서술이 맞음."
+  },
+  {
+   "n": 2,
+   "text": "A 또는 C 선언에 그치지 않으려면 C를 배제할 독립된 보증이 필요",
+   "label": "지지됨",
+   "evidence": "independently warranted in discounting C",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "그러려면 B를 받아들일 권리가 이미 있어야 한다",
+   "label": "지지됨",
+   "evidence": "entitled to accept B",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "이 권리는 기본 설정에 가까운 비증거적 보증, 특수 상황에서만 패배",
+   "label": "지지됨",
+   "evidence": "default, non-evidential warrant",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "B의 보증은 A의 보증과 독립적이며 선결 조건이라 전달되지 않는다",
+   "label": "지지됨",
+   "evidence": "a precondition for ... any warrant for A",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/심리철학연습_강의록_20210323 (…).md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

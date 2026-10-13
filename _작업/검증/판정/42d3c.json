@@ -1,0 +1,55 @@
+{
+ "id": "42d3c",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "차머스는 개념을 심적 표현으로 보고 개념에도 두 내포가 있다고 본다",
+   "label": "지지됨",
+   "evidence": "concepts ... also have both",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "개념이 무엇인지에 대해 철학자와 심리학자 사이에 합의가 없다",
+   "label": "지지됨",
+   "evidence": "no shared agreement about what concepts are",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "보통 개념은 심적 내용의 구성 요소로 이해되어 언어적 의미와 유비",
+   "label": "지지됨",
+   "evidence": "analogous to linguistic meanings",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "차머스에게 개념은 믿음 등 명제 태도의 구성 요소인 심적 개체",
+   "label": "지지됨",
+   "evidence": "loosely analogous to the way",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "사고의 언어 가설에 묶이지 않지만 심적 기호로 생각하면 편리",
+   "label": "지지됨",
+   "evidence": "it is convenient to think of",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "심적 표현으로서 개념에도 내용과 두 내포, 사적일 수 있다",
+   "label": "지지됨",
+   "evidence": "so can be the epistemic and subjunctive",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/심리철학연습_강의록_20210330 (…).md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
