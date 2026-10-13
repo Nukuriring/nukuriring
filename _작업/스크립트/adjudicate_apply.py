@@ -4,7 +4,7 @@
 # 반영 후 verify_apply.py를 다시 돌리면 frontmatter의 verify가 갱신된다.
 # - 카드를 고침, 카드의 교정을 인정, 판정이 틀림: 문제 명제를 지지됨으로
 # - 해석임을 밝힘: 문제 명제를 연결로 (카드 문장 끝에 해석 표시가 붙었다는 전제)
-# - 문장을 지움: 문제 명제를 claims에서 빼 removed_claims로 옮김
+# - 문장을 지움, 제목을 고침: 문제 명제를 claims에서 빼 removed_claims로 옮김
 # - 원서를 넣고 다시 판정, 그대로 둠, 보류: 판정은 그대로 두고 표시만 남김
 # - 결정 값은 문자열이거나 {choice, skip_n(판정을 바꾸지 않을 명제 번호), pending(남은 일이 있으면 보류로 처리)}
 import json, os, sys
@@ -32,15 +32,15 @@ for cid, dec in sorted(DEC.items()):
     if dec.get('pending'): choice = '보류'
     p = os.path.join(JDIR, cid + '.json')
     j = json.load(open(p, encoding='utf-8'))
-    if j.get('adjudication'):
+    if j.get('adjudication') and not dec.get('redo'):
         out.append(f'{cid}: 이미 반영됨'); continue
     before = j['verdict']
     tag = f'영진 판정({DATE}): {choice}'
     keep, removed = [], []
     for c in j['claims']:
-        if c.get('label') in BAD and c.get('n') not in skip and choice in ('카드를 고침', '카드의 교정을 인정', '판정이 틀림', '해석임을 밝힘', '문장을 지움'):
+        if c.get('label') in BAD and c.get('n') not in skip and choice in ('카드를 고침', '카드의 교정을 인정', '판정이 틀림', '해석임을 밝힘', '문장을 지움', '제목을 고침'):
             c = dict(c, sonnet_label=c['label'])
-            if choice == '문장을 지움':
+            if choice in ('문장을 지움', '제목을 고침'):
                 removed.append(c); continue
             c['label'] = '연결' if choice == '해석임을 밝힘' else '지지됨'
             c['note'] = (tag + '. ' + c.get('note', '')).strip()

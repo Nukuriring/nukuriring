@@ -1,15 +1,8 @@
 {
  "id": "70c2",
  "voice": "문헌",
- "verdict": "원문없음",
+ "verdict": "부분",
  "claims": [
-  {
-   "n": 0,
-   "text": "관계대명사 qui, quae, quod는 선행사의 성과 수를 따르고 격은 관계절 안의 기능을 따른다",
-   "label": "원문에 없음",
-   "evidence": "",
-   "note": "필기에는 변화표와 번역 연습만 있고 이 규칙 설명은 없음(카드도 밝힘)"
-  },
   {
    "n": 1,
    "text": "28과 필기는 관계대명사의 변화를 단수 qui…quo와 복수 qui…quibus로 적는다",
@@ -46,15 +39,23 @@
   "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/작문 11f0e7d5ccac4514bcd036b4906c468a.md"
  ],
  "sources_missing": [],
- "model": "sonnet",
+ "model": "sonnet·영진",
  "date": "2026-10-12",
  "adjudication": {
-  "choice": "해석임을 밝힘",
+  "choice": "제목을 고침",
   "date": "2026-10-13",
   "sonnet_verdict": "원문없음",
-  "skip_n": [
-   0
-  ],
-  "note": "명제 0은 제목에만 있음: 제목 수정 여쭘"
- }
+  "redo": true,
+  "note": "명제 3·4는 해석임을 밝힘으로 먼저 반영, 명제 0은 제목에만 있어 제목을 고침"
+ },
+ "removed_claims": [
+  {
+   "n": 0,
+   "text": "관계대명사 qui, quae, quod는 선행사의 성과 수를 따르고 격은 관계절 안의 기능을 따른다",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "필기에는 변화표와 번역 연습만 있고 이 규칙 설명은 없음(카드도 밝힘)",
+   "sonnet_label": "원문에 없음"
+  }
+ ]
 }
