@@ -1,0 +1,49 @@
+{
+ "id": "27i",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "명계환에 따르면 불교는 불효 비난에 맞서 효를 유교 규범에 맞추어 변형했다",
+   "label": "지지됨",
+   "evidence": "Buddhism's defensive adaptation strategies",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "명계환(2021)은 불교의 효를 살아남기 위해 택한 전략으로 본다",
+   "label": "지지됨",
+   "evidence": "the problem and the mechanism…survive",
+   "note": "Claude 07:48 작업 메모"
+  },
+  {
+   "n": 2,
+   "text": "출가와 삭발은 불효로 비난받았고 불교는 유교화된 불교로 응답",
+   "label": "지지됨",
+   "evidence": "shaving head, leaving family…不孝",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "도구는 오계오상 일치론과 『부모은중경』 같은 위경 제작",
+   "label": "지지됨",
+   "evidence": "오계오상 일치론…위경 제작",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "뿌리는 연기법이며 모든 중생이 전생의 부모라는 논리로 보은의 대상이 넓어진다",
+   "label": "지지됨",
+   "evidence": "연기법 → all beings have been my parents",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/claude.ai/chats/2026-06-23_불교의 효 개념 분석 보고서.md",
+  "문헌/@명계환2021 유교적 불교의 변형에 관한 고찰.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,50 @@
+{
+ "id": "51h",
+ "voice": "종합",
+ "verdict": "원문없음",
+ "claims": [
+  {
+   "n": 0,
+   "text": "기술과 제도의 설계는 편견과 책임과 위험을 누구에게 나눌지 정하고 중립적 도구라는 외양이 그 선택을 가린다",
+   "label": "연결",
+   "evidence": "",
+   "note": "카드 스스로 작성자의 해석이라 밝힘. '중립적 도구라는 외양'은 세 노트에 직접 없음"
+  },
+  {
+   "n": 1,
+   "text": "이 갈래의 필기는 알고리즘 차별, 로봇의 지위, 의료 AI, AI의 창의성, 혈액과 몸의 법적 분류, 위험의 사회화를 한곳에 모은다",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "'AI의 창의성'(보든)은 카드가 든 세 문헌 노트에 없음. Grep: 창의, 보든, Boden 0건. 나머지 주제는 세 노트에 있음"
+  },
+  {
+   "n": 2,
+   "text": "데이터 마이닝은 의도 없이도 과거의 불평등을 되풀이한다",
+   "label": "지지됨",
+   "evidence": "의도 없이도 과거의 편견과 불평등을 재생산",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "로봇을 사람처럼 대하면 책임이 흐려진다",
+   "label": "지지됨",
+   "evidence": "책임 구조의 해체",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "혈액의 신성함이라는 기준은 거래 허용 여부를 따지는 논의를 막는다",
+   "label": "부분 지지",
+   "evidence": "신성함을 쓰는 것이 위험하다",
+   "note": "영진의 독해 메모(51h5a)는 '위험하다'고만 말함. '논의를 막는다'는 기제는 없음. 영진 voice 입장이 필기의 내용처럼 쓰임"
+  }
+ ],
+ "sources_used": [
+  "문헌/@BarocasSelbst2016 Big Data's Disparate Impact.md",
+  "문헌/@Bryson2010 Robots Should Be Slaves.md",
+  "문헌/@미상 The Ethics of Generative AI in Health and Medicine.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

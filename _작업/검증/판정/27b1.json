@@ -1,0 +1,49 @@
+{
+ "id": "27b1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "푸코는 파레지아에서 발화가 화자에게 무엇을 요구하는지 묻는다",
+   "label": "지지됨",
+   "evidence": "그 발화가 화자에게 무엇을 요구하며",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "파레지아를 다루는 층위는 진실진술(véridiction)의 형식",
+   "label": "지지됨",
+   "evidence": "진실말하기의 형식(véridiction)",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "1982~83 첫 강의에서 작업 전체를 세 축의 교차로 기술하고 파레지아를 그 사례로 도입",
+   "label": "지지됨",
+   "evidence": "세 축이 만나는 지점의 사례로 도입",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "묻는 것은 발화가 요구하는 것과 주체 관계이고 참·옳음은 비켜나 있다",
+   "label": "지지됨",
+   "evidence": "'참인가'도 '옳은가'도 아니고",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "푸코는 이 분석을 참된 담론의 극작술(dramatique)이라 부른다",
+   "label": "지지됨",
+   "evidence": "극작술(dramatique)이라는 정식",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/claude.ai/chats/2026-07-31_파레지아를 윤리적 원칙으로 읽는 것의 문제.md",
+  "문헌/@Foucault2008 Le gouvernement de soi et des autres.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

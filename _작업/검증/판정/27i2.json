@@ -1,0 +1,56 @@
+{
+ "id": "27i2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "박성일에 따르면 조선의 왕들은 불교 효 경전을 골라 편집하여 교화에 썼다",
+   "label": "지지됨",
+   "evidence": "selectively edited by states",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "박성일(2025)은 불교의 효 경전이 국가의 손으로 선택·편집된 과정을 다룬다",
+   "label": "지지됨",
+   "evidence": "국가의 손에 선택·편집되는 과정",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "세종은 『보은경』에서 충과 사리불 대목을 앞으로 옮기고 사신 묘사를 줄여 『삼강행실도』 수준을 넘지 않게",
+   "label": "지지됨",
+   "evidence": "stay below 삼강행실도's level",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "정조는 1796년 『은중경』을 골랐고 이는 부모의 자애와 희생을 앞세운다",
+   "label": "지지됨",
+   "evidence": "은중경(Jeongjo, 1796)",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "과장된 효행 비판으로 『은중경』 틀이 교화에 더 쓸모 있었고 정조는 『오륜행실도』와 짝지었다",
+   "label": "지지됨",
+   "evidence": "pedagogically useful…오륜행실도",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "같은 주제의 경전이라도 고르고 편집하는 방식에 따라 효의 내용이 달라졌다",
+   "label": "지지됨",
+   "evidence": "same theme, different emphasis",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/claude.ai/chats/2026-06-23_불교의 효 개념 분석 보고서.md",
+  "문헌/@박성일2025 조선시대 불교 경전의 효개념 연구.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
