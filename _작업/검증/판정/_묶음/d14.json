@@ -1,0 +1,287 @@
+{
+  "model": "sonnet",
+  "date": "2026-10-13",
+  "cards": [
+    {
+      "id": "36", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "흄에 따르면 증언적 믿음의 정당성은 지각과 추론이 주는 정당성으로 환원된다", "label": "지지됨", "evidence": "증언의 정당성은 비-증언적 근거로 환원됩니다", "note": ""},
+        {"n": 1, "text": "흄은 「기적에 관하여」에서 정당성을 다른 인식 원천으로 확보한 근거에서 찾는다", "label": "지지됨", "evidence": "다른 인식 원천을 통해 화자의 신뢰성을 입증", "note": ""},
+        {"n": 2, "text": "청자는 지각과 기억으로 관찰하고 귀납적으로 일반화해 지금의 보고도 믿을 만하다고 추론", "label": "지지됨", "evidence": "지각과 기억을 통해…귀납적 추론을 통해", "note": ""},
+        {"n": 3, "text": "흄에게 증언은 독립적인 정당화의 원천이 되지 못한다", "label": "지지됨", "evidence": "증언은 정당화의 새로운 원천이 아니다", "note": ""},
+        {"n": 4, "text": "이 입장을 환원주의라고 부른다", "label": "지지됨", "evidence": "증언의 정당성은 다른 원천의 정당성으로 환원된다", "note": ""},
+        {"n": 5, "text": "환원주의는 청자가 적어도 원리상 긍정적 근거를 가져야 한다고 요구한다", "label": "지지됨", "evidence": "(적어도 원리상으로는)…긍정적 근거를 가져야", "note": ""}
+      ],
+      "sources_used": ["문헌/@Hume1748 Of Miracles.md", "_원자료/claude.ai/chats/2026-05-12_증언의 환원주의 vs 비환원주의.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "36a", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "흄은 보고와 사실의 연결을 경험된 항상적 결합에서 찾는다", "label": "지지됨", "evidence": "보고와 사실 사이의 항상적 결합에서 찾는다", "note": ""},
+        {"n": 1, "text": "보고했다는 사실과 내용이 참이라는 사실 사이에 경험 없이 알 수 있는 연결이 없다", "label": "지지됨", "evidence": "경험에 호소하지 않고도 알 수 있는 연결이 없다", "note": ""},
+        {"n": 2, "text": "그러므로 결합을 경험으로 따로 확인해야 한다", "label": "지지됨", "evidence": "경험을 통해 별도로 확인해야 한다", "note": ""},
+        {"n": 3, "text": "청자는 부합해 온 사례들에 기대어 이번 보고도 부합하리라 추론한다", "label": "지지됨", "evidence": "사례들을 근거로 이번 보고도 사실에 부합하리라 추론", "note": ""},
+        {"n": 4, "text": "증언적 믿음을 떠받치는 것은 결합 사례에 대한 지각과 추론이다", "label": "지지됨", "evidence": "결합에 대한 청자의 지각과…추론으로 환원", "note": ""}
+      ],
+      "sources_used": ["문헌/@Hume1748 Of Miracles.md", "_원자료/claude.ai/chats/2026-05-12_증언의 정당화와 흄의 환원주의.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "36b1", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "환원이라는 말의 무게는 정당성이 다른 원천의 정당성으로 분해된다는 주장에 실린다", "label": "지지됨", "evidence": "문자 그대로의 무게는 2번에 실립니다", "note": ""},
+        {"n": 1, "text": "환원은 원천, 근거, 정당성 세 자리에서 일어날 수 있다", "label": "지지됨", "evidence": "환원이 작동할 수 있는 자리는 세 곳", "note": ""},
+        {"n": 2, "text": "흄의 입장은 근거 차원에서 읽는 편이 가장 충실하다는 설명이 있다", "label": "지지됨", "evidence": "가장 충실한 것은 2번(근거 차원)", "note": ""},
+        {"n": 3, "text": "흄은 어떤 근거가 필요한지를 묻고 경험으로부터의 귀납이라고 답했다", "label": "지지됨", "evidence": "그 답이 경험으로부터의 귀납이었습니다", "note": ""},
+        {"n": 4, "text": "독립된 원천이 못 된다는 것은 부정적 결론, 환원의 무게는 분해된다는 적극적 주장", "label": "지지됨", "evidence": "원천이 아니다는 결론이고, 분해된다가 환원 행위", "note": ""},
+        {"n": 5, "text": "흄이 환원주의자로 불리는 까닭은 분해되거나 근거가 소급된다는 데 있다", "label": "지지됨", "evidence": "분해된다는…근거가 소급된다는 점에서", "note": ""}
+      ],
+      "sources_used": ["문헌/@Hume1748 Of Miracles.md", "_원자료/claude.ai/chats/2026-05-12_증언의 환원주의 vs 비환원주의.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "36b2", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "환원주의는 환원의 강도와 층위에 따라 여러 형태로 갈린다", "label": "지지됨", "evidence": "강한 환원주의와 약한 환원주의의 분기", "note": ""},
+        {"n": 1, "text": "강한은 원천이 아예 못 된다, 약한은 원천이되 다른 원천의 뒷받침이 있어야 정당화 수행", "label": "지지됨", "evidence": "뒷받침되어야 비로소 정당화를 수행", "note": ""},
+        {"n": 2, "text": "발생론적 환원주의는 청자가 경험과 귀납을 실제로 거친다고 본다", "label": "지지됨", "evidence": "청자가 실제로 그 작업을 수행한다", "note": ""},
+        {"n": 3, "text": "정당화적 환원주의는 원리상 경험과 귀납으로 분해될 수 있다고 본다", "label": "지지됨", "evidence": "원리상 그 작업으로 분해 가능하다", "note": ""},
+        {"n": 4, "text": "'남김없이' 환원된다는 강한 형태로 읽으면 흄을 지나치게 강하게 해석한다는 비판", "label": "지지됨", "evidence": "지나치게 강하게 해석한다는 비판의 여지", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-12_증언의 환원주의 vs 비환원주의.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "36b3", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "증언 논쟁은 발생, 정당화, 환원 가능성의 세 층위에서 진행된다", "label": "지지됨", "evidence": "세 층위로 정리됩니다", "note": ""},
+        {"n": 1, "text": "발생 층위: 귀납 추론을 실제로 거치는가, 비환원주의는 거치지 않는다고 답", "label": "지지됨", "evidence": "비환원주의는 거치지 않는다고 본다", "note": ""},
+        {"n": 2, "text": "정당화 층위: 비증언적 근거가 원리상 요구되는가, 환원주의의 핵심 주장", "label": "지지됨", "evidence": "원리상 요구되는가? (환원주의의 핵심 주장)", "note": ""},
+        {"n": 3, "text": "환원 가능성 층위: 증언이 환원 불가능한 기본 원천인가", "label": "지지됨", "evidence": "환원 불가능한 기본 원천인가", "note": ""},
+        {"n": 4, "text": "과학적 증언, 전문가 신뢰, 사회 인식론, 인식적 부정의 논의의 토대로 이어진다", "label": "지지됨", "evidence": "토대 논의로 확장됩니다", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-12_증언의 환원주의 vs 비환원주의.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "36g", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "증언 인식론은 신빙성 판별을 가능하게 하는 토대를 묻는다", "label": "지지됨", "evidence": "경험적 판별 자체가 어떻게 가능한지를 묻는", "note": ""},
+        {"n": 1, "text": "남의 말을 어떻게 믿을 것인가는 실용적 읽기와 철학적 읽기 두 가지로 읽힌다", "label": "지지됨", "evidence": "실용적 질문과 철학적 질문 두 가지 의미", "note": ""},
+        {"n": 2, "text": "실용적 읽기는 특정 보고·출처·발언자를 믿을지 판별하는 경험적·맥락적 문제", "label": "지지됨", "evidence": "실용적 질문은 경험적·맥락적입니다", "note": ""},
+        {"n": 3, "text": "철학적 읽기는 앎이 성립하려면 어떤 근거가 있어야 하는지를 묻는 구조적·원리적 문제", "label": "지지됨", "evidence": "철학적 질문은 구조적·원리적입니다", "note": ""},
+        {"n": 4, "text": "판별 기준도 결국 누군가에게 들은 것이라 판별은 기준을 이미 받아들인 상태에서만 작동", "label": "지지됨", "evidence": "의사의 권위도, 언론의 신뢰도도…말해준 것", "note": ""},
+        {"n": 5, "text": "물음은 판별 이전에 작동하는 증언의 정당화 구조를 겨눈다", "label": "지지됨", "evidence": "판별 이전에 작동하는 정당성", "note": ""},
+        {"n": 6, "text": "경험적 방법론 도입부로 읽힐 위험은 영진이, 두 층위 구별은 Claude가 정리", "label": "지지됨", "evidence": "경험적 방법론에 대한 도입부로 읽힐 수 있어서", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-12_증언의 환원주의 vs 비환원주의.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "15", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "국소 환원주의는 이 화자의 이 발화에 대한 비증언적 근거만 요구한다", "label": "지지됨", "evidence": "reliable testifier on this occasion", "note": ""},
+        {"n": 1, "text": "정당화되려면 이번 경우 믿을 만한 증언자라고 볼 비증언적 근거를 가져야 한다", "label": "지지됨", "evidence": "non-testimonially based reasons", "note": ""},
+        {"n": 2, "text": "개설문은 친구가 강아지를 들였다고 말한 경우를 예로 든다", "label": "지지됨", "evidence": "your friend tells you that he got a puppy", "note": ""},
+        {"n": 3, "text": "(1)(2)를 비증언적 근거로 지지할 때에만 정당화된다", "label": "지지됨", "evidence": "only justified…non-testimonially based reasons", "note": ""},
+        {"n": 4, "text": "근거는 오래 앎, 반려동물 이야기 하는 사람은 대개 진실, 정직한 답 얻기 쉬움에서 올 수 있다", "label": "지지됨", "evidence": "Or perhaps…probably telling the truth", "note": ""},
+        {"n": 5, "text": "증언적 정당화는 지각·기억·추론적 정당화의 조합으로 환원된다", "label": "지지됨", "evidence": "reduced to a combination of perceptual, memorial", "note": ""},
+        {"n": 6, "text": "증언을 통일된 범주로 보지 않고 일반 신빙성 근거도 요구하지 않아 전역 환원주의의 문제를 피한다", "label": "지지됨", "evidence": "not committed to the claim that testimony is unified", "note": ""},
+        {"n": 7, "text": "직접 강아지를 볼 수 있어 제삼자 증언이 불필요하고 악순환·퇴행이 없다", "label": "지지됨", "evidence": "no worry of running into the kinds of vicious circles", "note": ""},
+        {"n": 8, "text": "프리커는 청자가 그 사실을 가정하지 않고 증거를 가지는 경우가 있다고 정식화한다", "label": "지지됨", "evidence": "without assuming this very fact", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-13_Local reductionism and testimonial justification.md", "_원자료/claude.ai/chats/2026-05-14_Local reductionism and testimony reliability.md", "_원자료/claude.ai/chats/2026-05-13_프리커의 논증 체계적 분석.md", "문헌/@Fricker1994 Against Gullibility.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "15d", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "코디의 순환 비판은 청자 개인 경험이 모자라 인류 공통 경험에 기대는 지점을 겨눈다", "label": "지지됨", "evidence": "청자 개인 경험의 부족을 표적으로 함", "note": ""},
+        {"n": 1, "text": "증언 지식 대부분은 신빙성을 지지하는 관찰 경험 없이 얻어져 흄의 설명은 관행과 충돌", "label": "지지됨", "evidence": "관찰 경험 없이 얻어졌다는 것이다", "note": ""},
+        {"n": 2, "text": "역사 교과서와 낯선 도시 행인 안내의 사례", "label": "지지됨", "evidence": "역사 교과서…처음 본 행인의 안내", "note": ""},
+        {"n": 3, "text": "인류 공통 경험은 증언으로만 도달하므로 다시 증언에 기대는 순환이 생긴다", "label": "지지됨", "evidence": "다시 증언에 의존하는 순환을 범한다", "note": ""},
+        {"n": 4, "text": "이 정리에는 증언 일반 명제가 명시적으로 나오지 않고 표적은 개인 경험 부족", "label": "지지됨", "evidence": "G가 명시적으로 등장하지 않습니다", "note": ""},
+        {"n": 5, "text": "그래서 이 화자가 이 영역에서 참을 말할 개연성이라는 국소적 명제에도 압박을 가한다", "label": "지지됨", "evidence": "이 비판은 L에 대해서도 압박이 됩니다", "note": ""},
+        {"n": 6, "text": "친구 사례는 답할 수 있지만 교과서·행인 사례에서는 국소적 명제도 뒷받침 안 됨", "label": "지지됨", "evidence": "L조차도 비증언적 근거로 뒷받침되지 못함", "note": ""},
+        {"n": 7, "text": "코디가 흄을 전역 환원주의자로 읽어 무너뜨렸고 그 등식이 관용어처럼 굳었다", "label": "지지됨", "evidence": "거의 관용어처럼 굳었다", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-13_Local reductionism and testimonial justification.md", "_원자료/claude.ai/chats/2026-05-13_프리커의 논증 체계적 분석.md", "문헌/@Coady1992 Testimony.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "15d3", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "흄의 환원 프로그램은 전역 정식화를 버리고 국소화의 단위를 낮추면 코디의 비판을 견딘다", "label": "지지됨", "evidence": "코디의 순환성 비판을 동력원에서 차단", "note": "같은 대화 01:51은 '완전히 회피'는 부정확하고 동력을 약화시킬 뿐이라고 단서를 붙임. 카드 본문은 한계를 적어 둠."},
+        {"n": 1, "text": "전역 환원주의 그대로 구하려는 응답은 다섯 가지로 검토되었다", "label": "지지됨", "evidence": "응답 1~5", "note": ""},
+        {"n": 2, "text": "누적 경험으로 표본을 넓히는 길은 표본이 작고 사후 확인에 증언이 끼어 실패", "label": "지지됨", "evidence": "표본 부족·순환 잔존 → 실패", "note": ""},
+        {"n": 3, "text": "비증언적 공통 경험에 기대는 길은 너무 좁아 실패", "label": "지지됨", "evidence": "비증언적인 부분이 너무 좁음 → 실패", "note": ""},
+        {"n": 4, "text": "일부 내용 검증이나 명제 약화의 길은 국소 환원주의로 옮겨 간다", "label": "지지됨", "evidence": "국소 환원주의로 이행", "note": ""},
+        {"n": 5, "text": "환원 포기의 길은 반환원주의로 넘어간다", "label": "지지됨", "evidence": "반환원주의로 전향", "note": ""},
+        {"n": 6, "text": "프로그램과 전역 정식화를 나누면 옹호의 길이 열린다", "label": "지지됨", "evidence": "(라)만 포기하면 (가)(나)(다)는 모두 살아남는다", "note": ""},
+        {"n": 7, "text": "화자 단위에 머물면 막히고 영역·맥락·유형 단위로 내려가면 일생의 표본으로 닿는다", "label": "지지됨", "evidence": "영역·맥락·유형 단위 국소화", "note": ""},
+        {"n": 8, "text": "작은 일반화도 귀납이고 확인에 증언이 섞일 수 있으며 낯선 전문 영역은 표본 빈약", "label": "지지됨", "evidence": "확인하는 수단의 일부에 다시 증언이 매개", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-13_Local reductionism and testimonial justification.md"],
+      "sources_missing": [],
+      "note": "02:10에서 Claude는 영진 초안의 흄이 이미 화자 단위로 국소화돼 있어 '전역에서 국소로의 후퇴' 구도가 아니라고 정정함. 카드는 01:51의 후퇴 구도와 02:03의 단위 낮추기를 함께 씀."
+    },
+    {
+      "id": "37c", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "코디의 추정적 권리는 두 제약(증언에 기대지 않을 것, 증언적 지식 보존)에서 나온다", "label": "지지됨", "evidence": "두 제약을 병치했습니다", "note": ""},
+        {"n": 1, "text": "첫째 제약: 정당화 근거가 또 다른 증언에 의존해서는 안 된다", "label": "지지됨", "evidence": "또 다른 증언에 의존해서는 안 된다", "note": ""},
+        {"n": 2, "text": "둘째 제약: 실제 증언적 지식의 범위를 좁혀서는 안 된다", "label": "지지됨", "evidence": "증언적 지식의 폭을 좁혀서도 안 된다", "note": ""},
+        {"n": 3, "text": "직접 경험할 수 있는 화자는 일부라 비증언적 근거만으로는 증언적 지식 대부분이 폐기", "label": "지지됨", "evidence": "극히 일부에 지나지 않으므로", "note": ""},
+        {"n": 4, "text": "따라서 청자는 확인 없이도 신뢰할 자격을 처음부터 지녀야 한다", "label": "지지됨", "evidence": "신뢰할 자격을 처음부터 지니고 있다", "note": ""},
+        {"n": 5, "text": "그 자격은 의심할 이유가 없는 한 어떤 화자든 신빙성 있다고 판단할 권리이며 사전적으로 적용", "label": "지지됨", "evidence": "임의의 화자에게 사전적으로 적용된다", "note": ""},
+        {"n": 6, "text": "이 논증은 대안 봉쇄로 선택지를 끌어내는 초월적 논증의 형태", "label": "지지됨", "evidence": "대안 봉쇄의 압박", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-19_증언적 지식과 화자 신빙성의 구분.md", "_원자료/claude.ai/chats/2026-05-19_증언적 지식의 정당화 근거에 관한 철학적 논쟁.md", "_원자료/claude.ai/chats/2026-05-20_Hume's circular reasoning on testimony and experience.md", "문헌/@Fricker1994 Against Gullibility.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "37d", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "화자 일반의 신빙성은 한 화자의 신빙성에 대한 충분조건도 필요조건도 아니다", "label": "부분 지지", "evidence": "neither sufficient nor necessary evidence", "note": "프리커 원문은 포괄적 일반화가 이 발화의 신빙성을 정당화하는 '증거'로서 충분하지도 필요하지도 않다는 것. 신빙성 자체의 조건으로 옮긴 것은 영진의 재구성."},
+        {"n": 1, "text": "한 화자의 신빙성은 특정 상황의 문제, 화자 일반은 임의의 화자가 일반적으로 믿을 만한가의 문제", "label": "지지됨", "evidence": "특정 상황에서 그 화자가 믿을 만한가의 문제", "note": ""},
+        {"n": 2, "text": "화자 일반이 신빙성 있어도 정황에 따라 X는 아닐 수 있어 충분조건이 못 된다", "label": "지지됨", "evidence": "정황에 따라 특정 화자 X는 신빙성 있지 않을 수 있다", "note": ""},
+        {"n": 3, "text": "X가 신빙성 있어도 화자 일반은 아닐 수 있어 필요조건도 못 된다", "label": "지지됨", "evidence": "화자 X가 신빙성 있더라도 화자 일반은 있지 않을 수 있다", "note": "영진 초고 근거. 프리커 원문에 이 반례는 없음."},
+        {"n": 4, "text": "그러므로 증언적 지식에는 그 화자의 신빙성이면 되고 화자 일반은 따로 요구되지 않는다", "label": "지지됨", "evidence": "개별 화자의 신빙성만이 요구될 뿐", "note": ""},
+        {"n": 5, "text": "일반 신빙성이 불요하면 추정적 권리의 존재도 코디의 논증에서 도출되지 않는다", "label": "지지됨", "evidence": "추정적 권리의 존재 역시…도출되지 않는다", "note": ""},
+        {"n": 6, "text": "영진은 이 논증을 프리커의 코디 비판으로 서술한다", "label": "지지됨", "evidence": "프리커는 코디가…혼동하고 있다고 본다", "note": ""},
+        {"n": 7, "text": "프리커는 포괄적 일반화가 증거로서 \"neither sufficient nor necessary\"라고 쓴다", "label": "지지됨", "evidence": "neither sufficient nor necessary evidence", "note": ""},
+        {"n": 8, "text": "필요조건 부정의 근거로 신빙성 기대 근거가 정황·성격·주제의 본성에 관련된다는 점을 든다", "label": "부분 지지", "evidence": "typically the grounds…relate to the circumstances", "note": "원문은 'typically'(대개)로 한정함. 카드는 단정. 또 원문은 이를 '필요조건' 부정의 근거로 명시하지 않음."}
+      ],
+      "sources_used": ["문헌/@Fricker1994 Against Gullibility.md", "_원자료/claude.ai/chats/2026-05-19_증언적 지식과 화자 신빙성의 구분.md", "_원자료/claude.ai/chats/2026-05-19_증언적 지식의 정당화 근거에 관한 철학적 논쟁.md", "_원자료/claude.ai/chats/2026-05-20_Hume's circular reasoning on testimony and experience.md", "_원자료/claude.ai/chats/2026-05-13_프리커의 논증 체계적 분석.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "37d3", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "화자 일반의 신빙성 요구를 코디에게 귀속하는 독해는 허수아비 공격이라는 의심을 받는다", "label": "지지됨", "evidence": "프리커가 straw man을 친 것 아닌가", "note": ""},
+        {"n": 1, "text": "코디는 청자가 임의의 화자에 대해 신빙성을 추정할 권리를 갖는다고 말한다", "label": "지지됨", "evidence": "어떤 화자든 신빙성 있다고 판단할 수 있는 권리", "note": ""},
+        {"n": 2, "text": "프리커식 비판은 코디가 화자 일반이 실제로 신빙성 있을 것을 요구한다고 읽는다", "label": "지지됨", "evidence": "화자 일반이 신빙성 있어야 한다고 요구하고 있다", "note": ""},
+        {"n": 3, "text": "앞은 청자 쪽 권리, 뒤는 화자 쪽 사실 주장이라 독해의 정확성을 의심할 수 있다", "label": "지지됨", "evidence": "전자는 인식적 권리 주장이고, 후자는 사실 주장", "note": ""},
+        {"n": 4, "text": "다리로 권리가 작동하려면 화자들이 일반적으로 신빙성 있게 작동해야 한다는 가정이 제시", "label": "지지됨", "evidence": "화자들 일반이 신빙성 있게 작동한다는 가정", "note": ""},
+        {"n": 5, "text": "프리커는 PR 논제를 기술적 전제와 구별하면서도 그 전제가 철학적 논증에 쓰일 수 있다고 인정", "label": "지지됨", "evidence": "might be invoked in an attempted philosophical", "note": ""},
+        {"n": 6, "text": "화자 일반의 신빙성은 PR 옹호 논증의 층위에 놓일 수 있고 비판의 표적도 그 층위", "label": "연결", "evidence": "", "note": "프리커 p.127과 영진 초고를 엮는 카드 자체의 추론"}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-19_증언적 지식과 화자 신빙성의 구분.md", "_원자료/claude.ai/chats/2026-05-19_증언적 지식의 정당화 근거에 관한 철학적 논쟁.md", "문헌/@Fricker1994 Against Gullibility.md", "_원자료/claude.ai/chats/2026-05-20_Hume's circular reasoning on testimony and experience.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "4j", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "워크스루 토론에 따르면 철학은 물음을 다시 열면서 끝나야 한다", "label": "지지됨", "evidence": "ends in a question that reopens", "note": ""},
+        {"n": 1, "text": "카벨의 Claim of Reason은 \"But can philosophy become literature and still know itself?\"로 끝난다", "label": "지지됨", "evidence": "ends…in a question: \"But can philosophy", "note": ""},
+        {"n": 2, "text": "토론은 올바른 끝맺음의 길을 어려운 길(bloody hard way)이라고 부른다", "label": "지지됨", "evidence": "the BHW…a vow to keep the question awake", "note": ""},
+        {"n": 3, "text": "맥도웰은 치유로, 트래비스의 One Bad Question은 기각으로 멈추려 한다", "label": "지지됨", "evidence": "Both want to stop; their texts close", "note": ""},
+        {"n": 4, "text": "최종 침묵을 바라는 태도는 무조건적인 것을 바라는 소망이 방법으로 옮겨 간 것", "label": "지지됨", "evidence": "the unconditioned displaced to the level of method", "note": ""},
+        {"n": 5, "text": "개별 문제는 해소돼도 전면적 최종 침묵은 얻을 수 없다", "label": "지지됨", "evidence": "only the global final silence is a fantasy", "note": ""},
+        {"n": 6, "text": "물음을 계속 다시 여는 일을 합리성의 표지로 본다", "label": "지지됨", "evidence": "signature of rationality", "note": ""},
+        {"n": 7, "text": "학계는 이 길을 수용만 할 수 있고, 다른 일 하며 사랑으로 하는 사람이 더 자유로울 수 있다", "label": "지지됨", "evidence": "hostable but not constitutable", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/Walkthrough/Walkthrough_Notes/03_Discussion_Travis-McDowell-Cavell.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/Bloody Hard Way a4d322ab819042e8b319b14f270f25ae.md"],
+      "sources_missing": [],
+      "note": "카드 출처 줄은 Notion 'Bloody Hard Way' 내용을 확인하지 못했다고 적었으나 파일은 존재함. 그 노트의 BHW는 규범적이지 않은 기술적 철학함을 가리켜, 워크스루의 BHW(물음을 열어 두는 길)와 쓰임이 다름."
+    },
+    {
+      "id": "57c", "voice": "문헌", "verdict": "모순",
+      "claims": [
+        {"n": 0, "text": "BHW 논자는 일관성을 묻는 회의주의는 정당하고 말하기의 요점을 부정하는 회의주의는 저항받아야 한다", "label": "지지됨", "evidence": "일관적이지 않을 때, 회의주의자들은 자격을 얻는다", "note": ""},
+        {"n": 1, "text": "회의주의는 특정한 일상적 말하기에 요점이 있음을 부정하는 한에서만 문제가 된다", "label": "모순", "evidence": "특정…말하기 방식에 요점이 있음을 부정한다는 점에서 정당화되는", "note": "원문은 특정 말하기의 요점 부정을 '정당화되는' 회의주의로 서술하고, 저항 대상은 '이해할 수 있는 형태의 말하기'의 요점을 부정하는 회의주의임. 카드는 앞의 것을 문제로 뒤집음."},
+        {"n": 2, "text": "사람들이 말과 행위에서 일관되지 않을 때 회의주의자는 자격을 얻는다", "label": "지지됨", "evidence": "회의주의자들은 자격을 얻는다", "note": ""},
+        {"n": 3, "text": "이해할 수 있는 말하기의 요점을 부정하는 회의주의는 저항받아야 한다", "label": "지지됨", "evidence": "요점을 부정하는 종류의 회의주의는 저항되어야", "note": ""},
+        {"n": 4, "text": "철학은 혼란에 빠진 회의주의에 저항하는 주된 힘이다", "label": "지지됨", "evidence": "저항하는 주요한 전력", "note": ""},
+        {"n": 5, "text": "철학은 요점·이해 가능성이 사라졌을 때 혼란을 정돈하는 편견 없는 학문", "label": "지지됨", "evidence": "unbiased discipline that tidies up confusion", "note": ""},
+        {"n": 6, "text": "노트는 이 노선에 로크와 에이어의 이름을 붙이고 철학이 분석에서 규범적이어서는 안 된다고 정리", "label": "부분 지지", "evidence": "joat list : John Locke, A. J. Ayer", "note": "노트에는 'joat list'로 두 이름만 있고 이 노선과의 연결은 설명이 없음. 규범적이어서는 안 된다는 문장은 있음."}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/Bloody Hard Way a4d322ab819042e8b319b14f270f25ae.md"],
+      "sources_missing": [],
+      "note": "카드 frontmatter sources의 [[@미상 Bloody Hard Way 노트]]는 읽지 않음. Notion 원본으로 판정."
+    },
+    {
+      "id": "57d", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "BHW 논자는 화이트헤드의 사례로 철학자에게도 세계를 개혁하려는 끌림이 강하다고 본다", "label": "지지됨", "evidence": "pull to reform the world is as strongly found", "note": ""},
+        {"n": 1, "text": "화이트헤드를 중심 사례로 삼는 이유는 영향력, 규범·기술 접근 모두 시도, 일상과의 관계 미조명", "label": "지지됨", "evidence": "일상적인 것의 관계가 충분히 조명 안 됐다", "note": ""},
+        {"n": 2, "text": "규범적 기능을 넣은 일은 회의주의와 맞서는 맥락에서 이해 가능성 책임을 크게 위태롭게 한다", "label": "부분 지지", "evidence": "risks putting its responsibility…at risk", "note": "원문은 'risks'(위태롭게 할 위험이 있다). 카드는 단정."},
+        {"n": 3, "text": "로티처럼 철학으로 민주적 삶의 방식을 증진하려 하며 논자는 철학의 소관이 아니라 본다", "label": "지지됨", "evidence": "not a job for philosophy to do", "note": ""},
+        {"n": 4, "text": "끌림이 응용 윤리학자·신학자·정치가만큼 철학자에게도 강하다", "label": "지지됨", "evidence": "as strongly…as it is in applied ethicists", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/Bloody Hard Way a4d322ab819042e8b319b14f270f25ae.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "18d1a", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "크립키는 p.17에서 비트겐슈타인의 문장을 명제로 인용하고 §217을 부르지 않는다", "label": "지지됨", "evidence": "명제로 인용되어, 명제로 흐름에 합류", "note": ""},
+        {"n": 1, "text": "WoR p.17 단락에는 따옴표가 두 번 나온다", "label": "부분 지지", "evidence": "따옴표가 두 번 등장한다", "note": "대화 03:25는 그렇게 말하나 같은 대화가 옮긴 원문과 Kripke 노트에서 \"justifications…\"만 따옴표이고 blindly는 이탤릭임."},
+        {"n": 2, "text": "첫째는 PI §1 explanations를 justifications로 바꾼 인용(PI 대조는 대화 속 설명)", "label": "지지됨", "evidence": "explanations를 justifications로 바꿔서 인용", "note": ""},
+        {"n": 3, "text": "둘째 blindly는 §219의 \"I obey the rule blindly\"에서 떼어 온 한 낱말", "label": "지지됨", "evidence": "§219의 \"I obey the rule blindly\"의 한 단어", "note": ""},
+        {"n": 4, "text": "두 인용은 명제로 합류하고 §219의 자기 표시는 함께 오지 않는다", "label": "지지됨", "evidence": "함께 흐르지 않는다", "note": ""},
+        {"n": 5, "text": "정당화가 다한 자리에 대한 가장 강한 발언 §217은 이 단락에서 호출되지 않는다", "label": "지지됨", "evidence": "비트겐슈타인의 가장 강한 발언", "note": ""},
+        {"n": 6, "text": "대화는 카벨의 진단이 들어맞는 자리로 읽으면서도 매끄러움의 성격은 단락만으로 결정되지 않는다고 봄", "label": "지지됨", "evidence": "17쪽의 텍스트 자체에서는 결정되지 않는다", "note": ""}
+      ],
+      "sources_used": ["문헌/@Kripke1982 Wittgenstein on Rules and Private Language.md", "문헌/@Wittgenstein1953 Philosophical Investigations.md", "_원자료/claude.ai/projects/크립키의 위악성/chats/2026-05-10_인계 노트의 어조 변환 도식 검토.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "40a", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "크립키는 §217 대신 §1의 변형과 §219의 blindly를 인용한다", "label": "지지됨", "evidence": "§1과 §219의 결합. §217은 부재", "note": ""},
+        {"n": 1, "text": "17쪽은 \"justifications come to an end somewhere\"를 끌어오고 환원되지 않는 규칙과 남는다고 이어 감", "label": "지지됨", "evidence": "completely unreduced to any other", "note": ""},
+        {"n": 2, "text": "단락은 \"an unjustified stab in the dark\"를 거쳐 \"I apply the rule blindly.\"로 끝난다", "label": "지지됨", "evidence": "unjustified stab in the dark. I apply the rule", "note": ""},
+        {"n": 3, "text": "Claude는 §1 변형과 §219 blindly로 식별했다", "label": "지지됨", "evidence": "§1…변형 인용과 §219의 \"blindly\"의 인용", "note": ""},
+        {"n": 4, "text": "§217은 호출되지 않는다: \"If I have exhausted the justifications…'This is simply what I do.'\"", "label": "지지됨", "evidence": "If I have exhausted the justifications I have reached bedrock", "note": ""},
+        {"n": 5, "text": "두 인용은 크립키 진술을 비트겐슈타인의 권위로 뒷받침하고 §217의 비유와 표시는 들어오지 않는다", "label": "지지됨", "evidence": "비트겐슈타인의 권위로 보강", "note": ""},
+        {"n": 6, "text": "영진은 기억과 맞는다고 확인했고 평면화라 부르는 데 동의했다", "label": "지지됨", "evidence": "평면화로 가도 좋아…내 기억에 부합해", "note": ""}
+      ],
+      "sources_used": ["문헌/@Kripke1982 Wittgenstein on Rules and Private Language.md", "문헌/@Wittgenstein1953 Philosophical Investigations.md", "_원자료/claude.ai/projects/크립키의 위악성/chats/2026-05-10_프로젝트 본문 주장과 근거 확보.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "40d", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "크립키의 인용은 비트겐슈타인의 명제를 받고 자기 표시를 떨어낸다", "label": "지지됨", "evidence": "명제만 흡수", "note": ""},
+        {"n": 1, "text": "40a, 40b, 40c를 함께 놓으면 인용 방식에서 한 규칙성이 드러난다", "label": "지지됨", "evidence": "세 자리 모두에서…일관되게 빠뜨려", "note": ""},
+        {"n": 2, "text": "두 문구를 명제로 받아 쓰고 §217·§219·§220·§221의 자기 표시는 들어오지 않는다", "label": "지지됨", "evidence": "I am inclined to say, symbolically, mythological", "note": ""},
+        {"n": 3, "text": "대화는 이를 거리의 평면화로 묘사하고 매끄러움이 여기서 실현된다고 보았다", "label": "지지됨", "evidence": "형식이 자기 내용에 대해 취하는 거리", "note": ""},
+        {"n": 4, "text": "위악 진단에는 부분 인용이 체계적이고 책의 자기 규정이 보호함이 보여야 한다", "label": "지지됨", "evidence": "체계적이어야, 자기 자리매김에 의해 보호받는다", "note": ""},
+        {"n": 5, "text": "초기 정식은 매끄러움과 유보의 양식의 결합이고 지금까지 확보된 것은 앞의 조건", "label": "지지됨", "evidence": "(a) 손에 잡힘 (b) 아직 펴지지 않음", "note": ""}
+      ],
+      "sources_used": ["문헌/@Kripke1982 Wittgenstein on Rules and Private Language.md", "문헌/@Wittgenstein1953 Philosophical Investigations.md", "_원자료/claude.ai/projects/크립키의 위악성/chats/2026-05-10_프로젝트 본문 주장과 근거 확보.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "27a4", "voice": "문헌", "verdict": "원문없음",
+      "claims": [
+        {"n": 0, "text": "롤스는 시민 불복종을 공적·비폭력적·법에 충실한 정치적 행위로 한정한다", "label": "지지됨", "evidence": "공적·비폭력·합법성 인정 3조건", "note": ""},
+        {"n": 1, "text": "「The Justification of Civil Disobedience」(1969)와 『정의론』 §55~59에서 정의하고 정당화", "label": "지지됨", "evidence": "1969…및 A Theory of Justice §55–59", "note": ""},
+        {"n": 2, "text": "세 조건의 이 정의가 이후 논쟁의 표준 입력이 되었다", "label": "지지됨", "evidence": "후속 논쟁의 표준 입력", "note": ""},
+        {"n": 3, "text": "이 정당화는 합법적 권위와 준정의 사회를 전제한다", "label": "지지됨", "evidence": "합법적 권위와 준정의 사회 전제 하에서", "note": ""},
+        {"n": 4, "text": "Claude 정리: 공정성 의무로 복종하고 시민 불복종은 그 안에서 한정적으로 정당화", "label": "지지됨", "evidence": "공정 게임의 의무에 따라 법에 복종할 의무", "note": ""},
+        {"n": 5, "text": "『정의론』의 롤스가 복종 근거를 정의의 자연적 의무에 둔다는 해석도 있다(위키 밖 지식)", "label": "원문에 없음", "evidence": "", "note": "카드가 위키 밖 지식이라 밝힘. 05-28 대화에서 Grep한 어구 natural duty, 자연적 의무, 자연 의무는 정치적 의무의 진영 목록에만 나오고 롤스 해석은 없음."},
+        {"n": 6, "text": "분석철학의 시민 불복종 논의는 베다우(1961)의 정의를 기준점으로 삼아 왔다", "label": "지지됨", "evidence": "후속 문헌 전체가 Bedau의 정의를 기준점으로", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-28_시민 불복종의 철학적 정당화.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "27a4a", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "롤스 이후 논의는 시민 불복종의 세 조건을 모두 문제 삼는다", "label": "지지됨", "evidence": "3대 조건은 모두 도전받았다", "note": ""},
+        {"n": 1, "text": "공적성, 비폭력성, 합법성 인정의 세 조건은 이후 모두 도전받았다", "label": "지지됨", "evidence": "공적성·비폭력성·합법성 인정", "note": ""},
+        {"n": 2, "text": "라이언스(1998)는 준정의 사회 전제를 문제 삼아야 킹과 간디를 정당화한다고 본다", "label": "지지됨", "evidence": "Rawls의 준정의 사회 전제에 대한 비판", "note": ""},
+        {"n": 3, "text": "레프코위츠(2007)는 도덕적 권리로 정식화하고 법적 처벌과의 양립을 묻는다", "label": "지지됨", "evidence": "도덕적 권리 vs. 법적 처벌의 양립 가능성", "note": ""},
+        {"n": 4, "text": "브라운리(2012)는 양심적 확신에 근거한 도덕적 권리로 재정식화", "label": "지지됨", "evidence": "양심적 확신에 근거한 도덕적 권리", "note": ""},
+        {"n": 5, "text": "셀리카테스(2016)는 롤스의 좁은 정의를 넓혀 민주적 전환을 대표한다", "label": "지지됨", "evidence": "협소한 정의를 민주주의 이론 관점에서 확장", "note": ""},
+        {"n": 6, "text": "이 흐름은 반법적·민주적·아나키즘적 전환으로 불린다", "label": "지지됨", "evidence": "anti-legal turn / democratic turn / anarchist turn", "note": ""},
+        {"n": 7, "text": "공통 배경에는 비이상 이론과 밀스의 비판적 인종철학이 있다", "label": "지지됨", "evidence": "비이상 이론과 비판적 인종철학(Mills)", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-28_시민 불복종의 철학적 정당화.md"],
+      "sources_missing": []
+    }
+  ]
+}

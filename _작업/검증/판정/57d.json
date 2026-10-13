@@ -1,0 +1,48 @@
+{
+ "id": "57d",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "BHW 논자는 화이트헤드의 사례로 철학자에게도 세계를 개혁하려는 끌림이 강하다고 본다",
+   "label": "지지됨",
+   "evidence": "pull to reform the world is as strongly found",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "화이트헤드를 중심 사례로 삼는 이유는 영향력, 규범·기술 접근 모두 시도, 일상과의 관계 미조명",
+   "label": "지지됨",
+   "evidence": "일상적인 것의 관계가 충분히 조명 안 됐다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "규범적 기능을 넣은 일은 회의주의와 맞서는 맥락에서 이해 가능성 책임을 크게 위태롭게 한다",
+   "label": "부분 지지",
+   "evidence": "risks putting its responsibility…at risk",
+   "note": "원문은 'risks'(위태롭게 할 위험이 있다). 카드는 단정."
+  },
+  {
+   "n": 3,
+   "text": "로티처럼 철학으로 민주적 삶의 방식을 증진하려 하며 논자는 철학의 소관이 아니라 본다",
+   "label": "지지됨",
+   "evidence": "not a job for philosophy to do",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "끌림이 응용 윤리학자·신학자·정치가만큼 철학자에게도 강하다",
+   "label": "지지됨",
+   "evidence": "as strongly…as it is in applied ethicists",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/Bloody Hard Way a4d322ab819042e8b319b14f270f25ae.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

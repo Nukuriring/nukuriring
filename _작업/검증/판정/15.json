@@ -1,0 +1,79 @@
+{
+ "id": "15",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "국소 환원주의는 이 화자의 이 발화에 대한 비증언적 근거만 요구한다",
+   "label": "지지됨",
+   "evidence": "reliable testifier on this occasion",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "정당화되려면 이번 경우 믿을 만한 증언자라고 볼 비증언적 근거를 가져야 한다",
+   "label": "지지됨",
+   "evidence": "non-testimonially based reasons",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "개설문은 친구가 강아지를 들였다고 말한 경우를 예로 든다",
+   "label": "지지됨",
+   "evidence": "your friend tells you that he got a puppy",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "(1)(2)를 비증언적 근거로 지지할 때에만 정당화된다",
+   "label": "지지됨",
+   "evidence": "only justified…non-testimonially based reasons",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "근거는 오래 앎, 반려동물 이야기 하는 사람은 대개 진실, 정직한 답 얻기 쉬움에서 올 수 있다",
+   "label": "지지됨",
+   "evidence": "Or perhaps…probably telling the truth",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "증언적 정당화는 지각·기억·추론적 정당화의 조합으로 환원된다",
+   "label": "지지됨",
+   "evidence": "reduced to a combination of perceptual, memorial",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "증언을 통일된 범주로 보지 않고 일반 신빙성 근거도 요구하지 않아 전역 환원주의의 문제를 피한다",
+   "label": "지지됨",
+   "evidence": "not committed to the claim that testimony is unified",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "직접 강아지를 볼 수 있어 제삼자 증언이 불필요하고 악순환·퇴행이 없다",
+   "label": "지지됨",
+   "evidence": "no worry of running into the kinds of vicious circles",
+   "note": ""
+  },
+  {
+   "n": 8,
+   "text": "프리커는 청자가 그 사실을 가정하지 않고 증거를 가지는 경우가 있다고 정식화한다",
+   "label": "지지됨",
+   "evidence": "without assuming this very fact",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/claude.ai/chats/2026-05-13_Local reductionism and testimonial justification.md",
+  "_원자료/claude.ai/chats/2026-05-14_Local reductionism and testimony reliability.md",
+  "_원자료/claude.ai/chats/2026-05-13_프리커의 논증 체계적 분석.md",
+  "문헌/@Fricker1994 Against Gullibility.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

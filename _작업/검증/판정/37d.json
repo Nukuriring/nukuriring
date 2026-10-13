@@ -1,0 +1,80 @@
+{
+ "id": "37d",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "화자 일반의 신빙성은 한 화자의 신빙성에 대한 충분조건도 필요조건도 아니다",
+   "label": "부분 지지",
+   "evidence": "neither sufficient nor necessary evidence",
+   "note": "프리커 원문은 포괄적 일반화가 이 발화의 신빙성을 정당화하는 '증거'로서 충분하지도 필요하지도 않다는 것. 신빙성 자체의 조건으로 옮긴 것은 영진의 재구성."
+  },
+  {
+   "n": 1,
+   "text": "한 화자의 신빙성은 특정 상황의 문제, 화자 일반은 임의의 화자가 일반적으로 믿을 만한가의 문제",
+   "label": "지지됨",
+   "evidence": "특정 상황에서 그 화자가 믿을 만한가의 문제",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "화자 일반이 신빙성 있어도 정황에 따라 X는 아닐 수 있어 충분조건이 못 된다",
+   "label": "지지됨",
+   "evidence": "정황에 따라 특정 화자 X는 신빙성 있지 않을 수 있다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "X가 신빙성 있어도 화자 일반은 아닐 수 있어 필요조건도 못 된다",
+   "label": "지지됨",
+   "evidence": "화자 X가 신빙성 있더라도 화자 일반은 있지 않을 수 있다",
+   "note": "영진 초고 근거. 프리커 원문에 이 반례는 없음."
+  },
+  {
+   "n": 4,
+   "text": "그러므로 증언적 지식에는 그 화자의 신빙성이면 되고 화자 일반은 따로 요구되지 않는다",
+   "label": "지지됨",
+   "evidence": "개별 화자의 신빙성만이 요구될 뿐",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "일반 신빙성이 불요하면 추정적 권리의 존재도 코디의 논증에서 도출되지 않는다",
+   "label": "지지됨",
+   "evidence": "추정적 권리의 존재 역시…도출되지 않는다",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "영진은 이 논증을 프리커의 코디 비판으로 서술한다",
+   "label": "지지됨",
+   "evidence": "프리커는 코디가…혼동하고 있다고 본다",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "프리커는 포괄적 일반화가 증거로서 \"neither sufficient nor necessary\"라고 쓴다",
+   "label": "지지됨",
+   "evidence": "neither sufficient nor necessary evidence",
+   "note": ""
+  },
+  {
+   "n": 8,
+   "text": "필요조건 부정의 근거로 신빙성 기대 근거가 정황·성격·주제의 본성에 관련된다는 점을 든다",
+   "label": "부분 지지",
+   "evidence": "typically the grounds…relate to the circumstances",
+   "note": "원문은 'typically'(대개)로 한정함. 카드는 단정. 또 원문은 이를 '필요조건' 부정의 근거로 명시하지 않음."
+  }
+ ],
+ "sources_used": [
+  "문헌/@Fricker1994 Against Gullibility.md",
+  "_원자료/claude.ai/chats/2026-05-19_증언적 지식과 화자 신빙성의 구분.md",
+  "_원자료/claude.ai/chats/2026-05-19_증언적 지식의 정당화 근거에 관한 철학적 논쟁.md",
+  "_원자료/claude.ai/chats/2026-05-20_Hume's circular reasoning on testimony and experience.md",
+  "_원자료/claude.ai/chats/2026-05-13_프리커의 논증 체계적 분석.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
