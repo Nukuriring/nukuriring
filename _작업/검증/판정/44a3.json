@@ -1,0 +1,49 @@
+{
+ "id": "44a3",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "믿음과 욕구는 같은 내용을 표상하되 욕구는 성립하면 좋을 것으로 표상한다",
+   "label": "지지됨",
+   "evidence": "represented as the obtaining of which would be good",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "p를 욕구한다는 것과 믿는다는 것의 기능적 역할 정의",
+   "label": "지지됨",
+   "evidence": "disposed to act in ways that would tend to bring it about",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "믿음에서는 성립한 것으로, 욕구에서는 성립하면 좋을 것으로 표상",
+   "label": "지지됨",
+   "evidence": "represented as obtaining",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "양태 차이가 p를 참으로 만들 이유와 욕구의 지향성을 설명한다",
+   "label": "지지됨",
+   "evidence": "욕구의 지향성 역시 설명한다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "좋을 것이라 믿는 사람과 원하는 사람이 같은 내용을 표상한다는 점이 문제",
+   "label": "지지됨",
+   "evidence": "What is the difference between one who believes",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/The authority of desire 1f397cdd….md",
+  "문헌/@Stampe1987 The Authority of Desire.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

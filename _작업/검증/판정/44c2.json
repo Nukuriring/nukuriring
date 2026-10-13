@@ -1,0 +1,63 @@
+{
+ "id": "44c2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "RSPD는 감각이 쾌인 것을 주체의 욕구에서 찾고 내재적 욕구로 범위를 좁힌다",
+   "label": "지지됨",
+   "evidence": "내재적 욕구로 논의를 제한해야",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "RSPD: 감각 S가 감각적 쾌인 것은 주체가 S의 발생을 욕구하는 때이고 그때뿐",
+   "label": "지지됨",
+   "evidence": "iff the subject of S desires that S occur",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "쌍조건문은 필연적 동치를 넘어 속성의 정체와 구성에 관한 분석",
+   "label": "지지됨",
+   "evidence": "iff는 그저 필연적인 동등성 이상의 것",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "감각이 쾌의 감각이 되는 것은 주체가 욕구를 갖기 때문이며 쾌=욕구 주장은 아니다",
+   "label": "지지됨",
+   "evidence": "감각적 쾌 = 욕구를 주장하는 것은 아니다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "RSPD는 쾌 아닌 감각을 다른 이유로 욕구하는 경우까지 쾌로 만든다(불안 예)",
+   "label": "지지됨",
+   "evidence": "미래의 성공을 위해 당장 불안한 감각",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "그래서 내재적 욕구로 좁힌 RSPD2를 낸다",
+   "label": "지지됨",
+   "evidence": "RSPD2: ... 내재적으로 S가 발생하기를 원한다",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "수단으로 또는 이유를 대며 원하는 욕구는 외재적",
+   "label": "지지됨",
+   "evidence": "then you have an extrinsic desire for it",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/RSPD 35697cdd….md",
+  "_원자료/notion/…/Response_0416 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

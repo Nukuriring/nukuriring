@@ -1,0 +1,56 @@
+{
+ "id": "44a2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "쾌감이나 내재적 좋음으로 설명하면 욕구의 권위가 설명되지 않는다",
+   "label": "지지됨",
+   "evidence": "이 설명도 실패한다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "첫째 길: 욕구를 간지러움 같은 쾌감/불쾌감 상태로 본다",
+   "label": "지지됨",
+   "evidence": "욕구는 어떤 쾌감이나 불쾌감이다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "이 경우 충족 행위는 소멸 행위와 같아져 설명되는 듯하다",
+   "label": "지지됨",
+   "evidence": "extinguish하는 방식으로 행위함에 다름 아니다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "충족 없이 소멸시킬 수 있어도 얻으려 할 이유가 남으므로 실패",
+   "label": "지지됨",
+   "evidence": "even if one could extinguish the desire",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "둘째 길: 충족이 그 자체로 좋다. 좋음과 욕구는 분리 가능해 실패",
+   "label": "지지됨",
+   "evidence": "좋음과 욕구 역시 분리가능해서",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "교훈: 설명은 욕구의 표상적 성질을 써야 한다",
+   "label": "지지됨",
+   "evidence": "욕구의 표상적 성질의 용어를 포함해야",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/The authority of desire 1f397cdd….md",
+  "문헌/@Stampe1987 The Authority of Desire.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,48 @@
+{
+ "id": "57g",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "프레게식 조건과 규약 T가 모두 의미 개념을 끌어와 참 이론이 의미 이론을 세울 수 없다",
+   "label": "지지됨",
+   "evidence": "의미 이론을 위한 참에 대한 이론이 될 수 없다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "언어 이론은 의미 이론이어야 하고 의미 개념 없이 의미를 해명해야 한다",
+   "label": "지지됨",
+   "evidence": "의미 개념을 사용하지 않고서",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "프레게식 조건: 진리 조건으로 의미를 주고 s는 참이다 iff p 정리를 내는 참 이론",
+   "label": "지지됨",
+   "evidence": "“s 는 참이다 iff p”",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "p가 s와 같은 사고를 표현해야 하므로 뜻의 동일성 개념을 쓰게 된다",
+   "label": "지지됨",
+   "evidence": "문장-뜻의 동일성이라는 개념을 기용",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "규약 T의 번역 성립 이유가 같은 의미라면 의미 개념이 참 이론에서 이미 쓰인다",
+   "label": "지지됨",
+   "evidence": "의미 개념이 이미 참 이론에 사용",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/Macdowell_ Truth Conditions, Bivalence, and Verifi 1ab858f4dbb947f7a07b66ecdde5cf15.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,56 @@
+{
+ "id": "44a1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "이유는 사실이어야 하지만 욕구의 대상은 사실이 아니어서 욕구의 권위가 문제가 된다",
+   "label": "지지됨",
+   "evidence": "cannot themselves comprise reasons for us to act",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "행위의 이유는 사실이며 사실로 잘못 여겼다면 이유가 없었던 것이다",
+   "label": "지지됨",
+   "evidence": "우리가 이유로 간주하는 것은, 사실이다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "욕구의 대상은 사실이 아닐 수도 있어 대상에서 출발하는 추론은 사실에서 출발하는 추론이 아니다",
+   "label": "지지됨",
+   "evidence": "cannot be what we reason from",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "출발점을 '나는 p를 원한다'로 바꾸면 자기 욕구에 대한 추론일 뿐이다",
+   "label": "지지됨",
+   "evidence": "nothing more than reasoning about one's desires",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "실천 추론의 합리성은 사실 아닌 것을 사실로 만들 수 있다는 데서 오며 abduction과 구별",
+   "label": "지지됨",
+   "evidence": "행위가 사실이 아니었던 것을 사실로 만들 수 있음",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "대상이 사실이 아니라는 점은 실천 추론의 요점이자 설명해야 할 이유",
+   "label": "지지됨",
+   "evidence": "THe very point of practical reasoning",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/The authority of desire 1f397cdd….md",
+  "문헌/@Stampe1987 The Authority of Desire.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

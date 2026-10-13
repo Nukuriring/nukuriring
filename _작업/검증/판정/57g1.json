@@ -1,0 +1,55 @@
+{
+ "id": "57g1",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "대상언어와 메타언어가 다르면 번역 개념이 먼저 정의되어야 하고 타르스키의 답은 불분명",
+   "label": "지지됨",
+   "evidence": "타르스키가…답변했을지는 불분명하다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "타르스키는 역설을 피하려 참 술어를 메타언어 술어로만 정의",
+   "label": "지지됨",
+   "evidence": "오직 메타언어의 술어로만 간주",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "메타언어가 대상언어를 일부로 포함하거나 번역할 수 있어야 한다고 요구",
+   "label": "지지됨",
+   "evidence": "대상언어가 메타언어로 번역될 수 있어야",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "규약 T의 p 자리 문장이 s의 번역이라는 조건에서 번역 개념이 먼저 정의되어야",
+   "label": "지지됨",
+   "evidence": "먼저 번역 개념이 정확하고 분명하게",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "맥도웰도 번역 개념을 문제적으로 본다는 점이 영진의 덧붙임",
+   "label": "지지됨",
+   "evidence": "맥도웰도 번역 개념이 문제적이라고",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "이 물음은 참 이론이 의미 개념을 빌려 온다는 앞 카드 논점을 되받는다",
+   "label": "연결",
+   "evidence": "",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/Macdowell_ Truth Conditions, Bivalence, and Verifi 1ab858f4dbb947f7a07b66ecdde5cf15.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

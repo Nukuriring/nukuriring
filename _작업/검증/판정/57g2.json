@@ -1,0 +1,55 @@
+{
+ "id": "57g2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "의미 이론은 언어 이해를 기술하고 참 개념은 그 이론으로 해명되어야 한다",
+   "label": "지지됨",
+   "evidence": "참이라는 개념이 의미 이론에 의해 해명",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "의미 이론의 기능을 언어 이해에 포함된 것의 체계적 기술로 밝힌다",
+   "label": "지지됨",
+   "evidence": "체계적인 기술로 밝히기",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "힘의 이론과 결합해 발화에서 명제적 행위와 내용을 끌어낸다",
+   "label": "지지됨",
+   "evidence": "특정한 명제적 행위에 대한 기술을 끌어",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "참 개념은 이론에 의미 이론의 지위를 주려고 동원될 필요가 없다",
+   "label": "지지됨",
+   "evidence": "지위를 부여하기 위해서 기용될 필요가 없다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "정리의 채움이 is true iff로 대체될 수 있어야 하므로 진리 조건을 규명한다",
+   "label": "지지됨",
+   "evidence": "문장들의 진리-조건을 규명해주어야",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "영진은 이를 참 이론 만들 의무는 없지만 진리 조건은 말해야 한다는 순서로 압축",
+   "label": "지지됨",
+   "evidence": "참 이론을 만들 의무가 없었네",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/Macdowell_ Truth Conditions, Bivalence, and Verifi 1ab858f4dbb947f7a07b66ecdde5cf15.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

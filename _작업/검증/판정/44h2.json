@@ -1,0 +1,70 @@
+{
+ "id": "44h2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "미래 지향적 의도의 헌신은 의지적 차원과 추론 중심 차원으로 나뉜다",
+   "label": "지지됨",
+   "evidence": "volitional and reasoning-centered",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "의지적 헌신은 의도와 행위의 관계에 관한 것",
+   "label": "지지됨",
+   "evidence": "relation between intention and action",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "의도와 욕구는 모두 동기적 역할의 친태도",
+   "label": "지지됨",
+   "evidence": "Both intentions and desires are...pro-attitudes",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "의도는 행위를 통제하는 친태도, 보통의 욕구는 잠재적 요인에 그친다",
+   "label": "지지됨",
+   "evidence": "merely potential influencers of action",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "추론 중심 헌신: 형성과 실행 사이 기간의 역할",
+   "label": "지지됨",
+   "evidence": "between their initial formation and eventual execution",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "문제가 정해졌다는 감각, 재고 저항 관성, 유지가 기본 선택지",
+   "label": "지지됨",
+   "evidence": "the 'default option.'",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "수단이나 예비 단계에 대한 추가 의도로 나아가는 추론의 입력",
+   "label": "지지됨",
+   "evidence": "reason from intended end to intended means",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "두 차원은 시너지: 시도하리라는 기대와 성공하리라는 기대를 지지",
+   "label": "지지됨",
+   "evidence": "a kind of synergy",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Bratman_chapter 2 35697cdd….md",
+  "_원자료/notion/…/Response_0409 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

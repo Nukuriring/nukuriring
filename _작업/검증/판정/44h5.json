@@ -1,0 +1,76 @@
+{
+ "id": "44h5",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "의도 기반 이유 견해는 너무 약하고 너무 강하다고 비판",
+   "label": "지지됨",
+   "evidence": "in one way too weak, and yet in another way too strong",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "사전 의도가 욕구-믿음 이유 외의 추가 이유를 준다고 본다",
+   "label": "지지됨",
+   "evidence": "a reason over and above my relevant desire-belief reasons",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "너무 약함: 의도를 여러 이유 중 하나로만 취급해 단호함을 놓친다",
+   "label": "지지됨",
+   "evidence": "fail to recognize the peremptoriness",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "너무 강함: 허용할 수 없는 부트스트래핑을 승인",
+   "label": "지지됨",
+   "evidence": "sanction unacceptable forms of bootstrapping",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "먼데일은 중동 정책이 낫다는 것을 알면서도 비합리적으로 별들의 전쟁 공격을 결정",
+   "label": "부분 지지",
+   "evidence": "Mondale should have seen that...better to focus on Middle East",
+   "note": "원문은 '알았어야 했다(should have seen)'이고 사실과 다를 수도 있다는 가정. 카드는 '알면서도'로 바꿈."
+  },
+  {
+   "n": 5,
+   "text": "세 번째 질문 결정은 그 공격의 수단",
+   "label": "지지됨",
+   "evidence": "a means to attacking the Star Wars program",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "이 견해에서는 비합리적 의도가 추가 이유가 되어 세 번째 질문 결정을 합리적 결정으로 끌어올린다",
+   "label": "부분 지지",
+   "evidence": "may well favor...can bootstrap",
+   "note": "원문은 may well, can, might로 한정함. 카드는 단정('끌어올린다')."
+  },
+  {
+   "n": 7,
+   "text": "비판받을 비합리성을 너무 쉽게 면해 준다",
+   "label": "지지됨",
+   "evidence": "too easily let off the hook",
+   "note": ""
+  },
+  {
+   "n": 8,
+   "text": "겸손한 확장도 약한 부트스트래핑은 허용하나 이 견해는 비용을 감안해도 비합리적 결정을 합리화한다",
+   "label": "부분 지지",
+   "evidence": "even the modest extension...support a kind of bootstrapping",
+   "note": "원문은 'may be bootstrapped'로 한정, 카드는 '합리화한다'로 단정. '약한' 부트스트래핑이라는 말은 원문에 없고 'a kind of'일 뿐."
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Bratman_chapter 2 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

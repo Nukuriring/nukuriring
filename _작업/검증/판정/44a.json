@@ -1,0 +1,56 @@
+{
+ "id": "44a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "스탬프는 욕구가 이유가 되는 권위를 욕구가 일종의 지각이라는 데서 설명한다",
+   "label": "지지됨",
+   "evidence": "Desire is an origin of rationality because it is a kind of perception",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "욕구가 그 자체로 이유가 된다는 직관을 욕구의 권위라 부른다",
+   "label": "지지됨",
+   "evidence": "욕구의 권위 / 욕구는 이유를 제공한다",
+   "note": "저자명 Dennis Stampe는 Notion 필기에 없고 문헌 노트가 추정으로 표시함(카드 오류는 아님)."
+  },
+  {
+   "n": 2,
+   "text": "첫째: 이유는 사실이어야 하는데 욕구의 대상은 사실이 아닐 수 있다",
+   "label": "지지됨",
+   "evidence": "욕구의 대상 혹은 명제는 fact가 아니다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "둘째: 쾌감이나 내재적 좋음으로 푸는 두 설명을 물리친다",
+   "label": "지지됨",
+   "evidence": "이 설명도 실패한다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "셋째: 욕구는 내용을 성립하면 좋을 것으로 표상하고 이를 지각 상태로 해석",
+   "label": "지지됨",
+   "evidence": "욕구는 지각의 한 종류다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "넷째: 지각이 믿음의 이유가 되듯 욕구도 좋을 것처럼 보인다는 사실로 이유가 된다",
+   "label": "지지됨",
+   "evidence": "perception is an origin of rationality",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/The authority of desire 1f397cdd….md",
+  "문헌/@Stampe1987 The Authority of Desire.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
