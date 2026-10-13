@@ -1,0 +1,313 @@
+{
+  "model": "sonnet",
+  "date": "2026-10-13",
+  "cards": [
+    {
+      "id": "21e", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "톰슨은 앤스컴의 의도적 행위 정의를 실천적 지식에 의한 실재적 정의로 읽는다", "label": "지지됨", "evidence": "이것이 실재적 정의이고", "note": ""},
+        {"n": 1, "text": "총괄 테제: 자기 지식이 내가 하고 있는 일에까지 미친다", "label": "지지됨", "evidence": "내가 하고 있는 일에까지 미칩니다", "note": ""},
+        {"n": 2, "text": "커피 얼룩 앎은 타자로서의 자기에 대한 지식, 의사 유비로 자기 지식과 가름", "label": "지지됨", "evidence": "타자로서의 자기에 대한 지식", "note": ""},
+        {"n": 3, "text": "수와 심리적 규정은 타인에게 지각되지 않으나 의도적 행위는 감각을 통해 주어진다", "label": "지지됨", "evidence": "감각을 통해 낯선 것으로 주어짐", "note": ""},
+        {"n": 4, "text": "두 앎의 방식이면 두 대상이 있어야 하지 않느냐는 앤스컴 51쪽의 물음", "label": "지지됨", "evidence": "두 개의 대상이 있어야 하지 않는가", "note": ""},
+        {"n": 5, "text": "의도적 행위는 정확히 실천적 지식의 내용일 때; 왜 기준은 명목적 정의", "label": "지지됨", "evidence": "외연을 고정하는 명목적 정의", "note": ""},
+        {"n": 6, "text": "이 독해는 통상적 독해의 의존 방향을 뒤집는다", "label": "지지됨", "evidence": "의존 방향을 뒤집고 있습니다", "note": ""},
+        {"n": 7, "text": "관찰 없이 정식은 순수하게 부정적이고 외연이 넘쳐 최종 이론에서 뺀다", "label": "지지됨", "evidence": "순수하게 부정적이며 ... 외연이 넘칩니다", "note": ""}
+      ],
+      "sources_used": ["문헌/@Thompson2011 Intention and Practical Knowledge.md", "_원자료/claude.ai/chats/2026-08-24_Article walkthrough and explanation.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "21e1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "실천적 지식의 내용은 미완료상이므로 카본지 논변은 표적을 빗나간다", "label": "지지됨", "evidence": "미완료상이라는 규정으로 ... 무력화", "note": ""},
+        {"n": 1, "text": "카본지 논변: 열 장 서명자는 알지 못한 채 의도적으로 서명, 앎은 조건 아님", "label": "지지됨", "evidence": "앎은 의도적 행위의 조건이 아니라", "note": ""},
+        {"n": 2, "text": "데이비슨 예시는 과거 완료상, 앤스컴 예시는 현재 미완료상이라는 레먼의 지적", "label": "지지됨", "evidence": "과거·완료상이고 ... 현재·미완료상", "note": ""},
+        {"n": 3, "text": "존스: 발랐다는 거짓, 바르고 있었다는 참, 쓰러지는 순간까지 알았다", "label": "지지됨", "evidence": "쓰러지는 순간까지 ... 알고 있었습니다", "note": ""},
+        {"n": 4, "text": "실천적 지식의 대상은 진행 중인 일, 데이비슨 물음은 앤스컴의 앎을 겨냥 못함", "label": "지지됨", "evidence": "진행 중인 일입니다", "note": ""},
+        {"n": 5, "text": "보통의 먹지 서명은 확인·재시도 과정, 데이비슨 서명자는 예외적 상황", "label": "지지됨", "evidence": "확인도 재시도도 금지된 예외적 상황", "note": ""},
+        {"n": 6, "text": "데이비슨 체계가 일어나고 있던 일을 놓쳐 완결된 행위의 본성도 파악 못함", "label": "지지됨", "evidence": "완결된 의도적 행위의 본성마저", "note": ""},
+        {"n": 7, "text": "마지막 절 논증은 재구성 과제로 남겨져 결론 세부는 대화 속 요약에 기댄다", "label": "지지됨", "evidence": "6수는 설명하지 않겠습니다", "note": ""}
+      ],
+      "sources_used": ["문헌/@Thompson2011 Intention and Practical Knowledge.md", "_원자료/claude.ai/chats/2026-08-24_Article walkthrough and explanation.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "45", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "영진의 응답문과 논문은 한 줄기로 이어진다", "label": "연결", "evidence": "", "note": "종합 연결"},
+        {"n": 1, "text": "영진이 2023~2025년 쓴 필기와 응답문과 논문을 모아 읽는다", "label": "지지됨", "evidence": "수정일 2023-06-30 / 2025-06-28", "note": ""},
+        {"n": 2, "text": "중심 물음은 구조적 합리성의 요구에 순응할 이유가 있는지이다", "label": "지지됨", "evidence": "정합적이어야 할 이유가 있는가?", "note": ""},
+        {"n": 3, "text": "45a는 키제베터의 이유 주장이 규범성 물음을 미리 전제한다는 필기", "label": "지지됨", "evidence": "이유 주장에 합리성을 대입하는 구도", "note": "Kiesewetter 문헌 노트(TNOR Week 1)로 확인; 카드 출처 줄에는 없는 노트"},
+        {"n": 4, "text": "45b와 45c는 두 합리성의 구분과 워스닙의 규범성 설명을 정리", "label": "지지됨", "evidence": "영진2024 파생 노트 45b, 45c", "note": ""},
+        {"n": 5, "text": "45d는 2023년 논문의 워스닙 비판", "label": "지지됨", "evidence": "영진2023 파생 노트 45d", "note": ""},
+        {"n": 6, "text": "45e~45h는 2024년 논문: 딜레마 후 숙고의 본성에서 규범성을 파생시킴", "label": "지지됨", "evidence": "숙고의 본성에서 파생된 ... 규범성", "note": ""},
+        {"n": 7, "text": "45i~45m은 같은 시기 응답문에서 브룸·로드·워스닙·포갈에게 제기한 의문과 제안서의 투명성 구상", "label": "부분 지지", "evidence": "Response_8 수정일 2023-05-25", "note": "응답문은 모두 2023-1학기(2023-03~06)이고 제안서는 2023-05-31이라 직전 문장의 2024년 논문과 같은 시기가 아님. '같은 시기'가 2024년을 가리키면 어긋남"},
+        {"n": 8, "text": "나머지는 심리철학연습 기록: 도구적 원리 45n, 아크라시아 45o, 감정 지각 모델 45p, 좋음의 외양 45q", "label": "지지됨", "evidence": "심리철학연습 2025-1, 필기", "note": ""},
+        {"n": 9, "text": "이 선에서 반복되는 개념은 이유 민감성과 투명성이다", "label": "연결", "evidence": "", "note": "종합자의 특징화(여러 출처를 엮는 연결)로 보아 판정하지 않음"}
+      ],
+      "sources_used": ["문헌/@영진2023 구조적 합리성의 규범성 정합성과 숙고의 관계.md", "문헌/@영진2024 구조적 합리성과 실질적 합리성의 규범성을 통합하기.md", "문헌/@영진2025 좋음의 외양 논제에 대한 비판적 재검토.md", "문헌/@Kiesewetter2017 The Normativity of Rationality.md", "문헌/@Broome2013 Rationality Through Reasoning.md", "문헌/@Lord2018 The Importance of Being Rational.md", "문헌/@Worsnip2021 Fitting Things Together.md", "문헌/@Fogal2020 Rational Requirements and the Primacy of Pressure.md", "문헌/@Davidson1970 How Is Weakness of the Will Possible.md", "문헌/@쉬나바부 Humean Nature 4장 도덕적 판단.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "20f7d", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "대칭성 논변은 반내적항목 절반만 지지하고 비개념성 절반에는 별도 논거가 필요하다", "label": "지지됨", "evidence": "반-내적항목 절반만 떠받치고", "note": ""},
+        {"n": 1, "text": "톰슨은 세련된 행위철학을 표상주의/HCF와 같은 자리에 놓고 원함으로의 환원을 거부", "label": "지지됨", "evidence": "명시적으로 같은 자리에 놓습니다", "note": ""},
+        {"n": 2, "text": "그러므로 행위에 대한 선언주의를 지지하는 셈이다", "label": "지지됨", "evidence": "행위에 대한 선언주의/반HCF", "note": ""},
+        {"n": 3, "text": "반공통요소 논변은 지각의 인식론에서 맥도웰이 직접 편 논변이기도 하다", "label": "지지됨", "evidence": "다름 아닌 McDowell 자신의 것", "note": ""},
+        {"n": 4, "text": "맥도웰은 지각 인식론에서 선언주의자, 경험 내용에서 개념주의자(두 얼굴)", "label": "지지됨", "evidence": "McDowell의 두 얼굴", "note": ""},
+        {"n": 5, "text": "트래비스가 맥도웰과 맞서는 지점은 개념적 내용이다", "label": "지지됨", "evidence": "선언주의가 아니라 개념적 내용", "note": ""},
+        {"n": 6, "text": "대칭성 논변은 욕구에 개념적 내용이 있는지는 판정하지 않는다", "label": "지지됨", "evidence": "판정하지 않습니다", "note": ""},
+        {"n": 7, "text": "비개념성 절반은 돌 밀기에서 나온 얇은 개념 틀·직관적 주어짐과 트래비스 침묵 테제가 맡는다", "label": "지지됨", "evidence": "얇은 개념 틀 + 직관적 주어짐", "note": ""},
+        {"n": 8, "text": "반표상성 기제가 다르다: 지각은 감각의 침묵·직접성, 행위는 합리화 표의 대칭", "label": "지지됨", "evidence": "감각의 침묵·직접성 ... 합리화의 대칭", "note": ""},
+        {"n": 9, "text": "톰슨을 트래비스의 무차별한 동맹으로 인용하면 과대 인용", "label": "지지됨", "evidence": "무차별 Travis 동맹으로 과대 인용", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-06-04_설명 요청.md (06:28 절, 474~478행 돌 밀기)", "문헌/@Thompson2008 Life and Action.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "20f7c", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "indication을 쓰려면 원함의 비표상성을 먼저 확보해야 하므로 톰슨은 대칭성 귀류를 택했다", "label": "부분 지지", "evidence": "골랐다고 읽는 게 자연스럽다", "note": "원문은 톰슨의 동기를 'Claude가 읽는 게 자연스럽다'로 한정함. 제목은 단정. (원함의 비표상성 선결 요건 자체는 06:54에서 확인)"},
+        {"n": 1, "text": "indication을 행위에 직접 쓰면 원함이 표상일 필요 없다는 전제를 먼저 확보해야 한다", "label": "지지됨", "evidence": "원함의 비표상성을 먼저 확보", "note": ""},
+        {"n": 2, "text": "세련된 입장은 원함을 마음→세계 적합 방향의 찬성 태도로 보아 결론에 너무 가깝다", "label": "지지됨", "evidence": "결론 자체와 너무 가까워서", "note": ""},
+        {"n": 3, "text": "직접 처리는 선결문제를 요구할 위험이 있다", "label": "지지됨", "evidence": "begging the question 위험", "note": ""},
+        {"n": 4, "text": "대칭성 귀류는 세련된 입장의 장치를 모두 인정한 채 자기 파괴를 이끈다", "label": "지지됨", "evidence": "장치를 전부 인정한 채로", "note": ""},
+        {"n": 5, "text": "원함 논쟁을 이기지 않고도 환원 불가능성을 확보한다", "label": "지지됨", "evidence": "정체 논쟁을 이기지 않고도", "note": ""},
+        {"n": 6, "text": "분업: 대칭성 귀류는 원함관을 선취하지 않고 환원 불가능성을 확정", "label": "지지됨", "evidence": "원함관을 선취하지 않고", "note": ""},
+        {"n": 7, "text": "indication·선언주의: 좋은 경우 실재하는 함이 함을 떠받치고 나쁜 경우 한갓 보임", "label": "지지됨", "evidence": "나쁜 경우=한갓 보임/null", "note": ""},
+        {"n": 8, "text": "톰슨의 관계적 원함이 둘을 잇되 첫 단계 뒤에 와야 선취를 피한다", "label": "지지됨", "evidence": "1단계 뒤에 와야 선취를 피한다", "note": ""},
+        {"n": 9, "text": "관계항은 지각에서 눈앞 대상, 행위에서 할 법한 행위; 표상을 안 들이므로 수의 동일성 유지", "label": "지지됨", "evidence": "수의 동일성을 깨지 않는다", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-06-04_설명 요청.md (06:45, 06:54)", "문헌/@Thompson2008 Life and Action.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "61h", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "인식적 아크라시아는 일차 믿음과 증거의 지지 관계에 대한 믿음이 어긋나는 상태이며 같은 종류인지가 물음", "label": "부분 지지", "evidence": "일차 믿음과 내 증거들 사이에 괴리", "note": "필기는 '일차 믿음과 증거 사이의 괴리'이며 (2)는 증거가 지지 사실을 지지하지 않는다는 것. '지지 관계에 대한 믿음'이라는 말은 필기에 없음. 같은 종류인지 묻는 부분은 지지됨"},
+        {"n": 1, "text": "필기는 인식적 아크라시아를 일차 믿음과 증거 사이 괴리 상황으로 정의", "label": "지지됨", "evidence": "믿음과 내 증거들 사이에 괴리", "note": ""},
+        {"n": 2, "text": "증거가 p를 지지하는데 그 지지 사실을 증거가 지지하지 않는 경우", "label": "지지됨", "evidence": "지지한다는 사실을 증거가 지지하지 않는다", "note": ""},
+        {"n": 3, "text": "이런 상황에서 여전히 p를 믿는 것은 불가능해 보인다", "label": "지지됨", "evidence": "믿는 것은 불가능해 보인다", "note": ""},
+        {"n": 4, "text": "워스닙의 답: 투명성 조건에서 수정 성향이 아크라시아에서는 약하다", "label": "지지됨", "evidence": "수정하려는 성향이 ... 좀 약하다", "note": ""},
+        {"n": 5, "text": "규범적 믿음에 따라 의도할 성향이 전혀 없는 사람은 그 믿음을 가졌다고 보기 어렵다", "label": "지지됨", "evidence": "성향이 아예 없는 사람이", "note": ""},
+        {"n": 6, "text": "필기는 다른 종류의 비정합성인지, 성향 강약 차이일 뿐인지 묻는다", "label": "지지됨", "evidence": "다른 종류의 비정합성을 지니고", "note": ""},
+        {"n": 7, "text": "필기는 콜로드니 핵심 요구에서는 인식적·실천적 아크라시아가 같은 종류라고 적는다", "label": "지지됨", "evidence": "동일한 종류의 아크라시아다", "note": ""},
+        {"n": 8, "text": "성향의 강도는 주체마다 다르므로 강도의 일반성을 말할 수 있는지 되묻는다", "label": "지지됨", "evidence": "성향의 강도는 또 주체마다 다르지", "note": ""},
+        {"n": 9, "text": "워스닙은 특수한 개인 성향이 아니라 태도를 가진 모두가 공유하는 성향에 의존", "label": "지지됨", "evidence": "모든 사람이 공유하는 성향", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/.../6 09 인식론 연습 50c96fe2784a4efaa52951e8b6b1327b.md", "문헌/@미상 인식론 연습 합리성 토론 필기.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "43j3", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "압력 기반 설명에서 구조적 비합리성은 태도가 낳는 압력에 올바르게 반응하지 못한 일", "label": "지지됨", "evidence": "태도들에 올바르게 반응하는 일에 실패", "note": ""},
+        {"n": 1, "text": "비정합적이라서 비합리적일 때 궁극적으로 자기 태도에 올바르게 반응하지 못해서", "label": "지지됨", "evidence": "궁극적으로 ... 올바르게 반응하는 일에 실패", "note": ""},
+        {"n": 2, "text": "이 설명은 요구 기반 설명의 어려움을 피하고 직관적으로도 맞다", "label": "부분 지지", "evidence": "직관적 지지 가능성을 지닌다", "note": "필기는 '직관적 지지 가능성을 지닌다'. 카드는 '직관적으로도 맞다'로 단정(강도 변경)"},
+        {"n": 3, "text": "검사 말만 들은 배심원 사례: 어느 정도의 압력은 있으나 구조적으로 믿음이 요구되지 않음", "label": "지지됨", "evidence": "'어느 정도'의 합리적 프레셔", "note": ""},
+        {"n": 4, "text": "합리적 압력은 강도와 방향을 가진 pro tanto 압력; 증거 믿음→믿으라, 좋다는 믿음→의도하라", "label": "지지됨", "evidence": "pro tanto한 합리적 압박", "note": ""},
+        {"n": 5, "text": "압력은 대립하거나 평가절하될 수 있고, 거짓말쟁이 증거는 정당화 압력을 평가절하", "label": "지지됨", "evidence": "믿을 정당화를 평가 절하시킨다", "note": ""},
+        {"n": 6, "text": "구조적 합리성은 총체적 태도적 압력이 지지하는 것에 올바르게 반응(기반 조건 포함)", "label": "지지됨", "evidence": "적절한 basing condition과 함께", "note": ""},
+        {"n": 7, "text": "요구·올바른 정당화 같은 규범적 상태는 압력에서 설명되는 파생적 사실", "label": "지지됨", "evidence": "압력에 의해 설명되는 파생적 사실", "note": ""},
+        {"n": 8, "text": "압력은 태도를 가졌다는 사실에서 생기나 심리적이지 않고, 태도 부재는 압력을 안 만든다", "label": "지지됨", "evidence": "태도의 부재는 압력을 지니지 않는다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/.../Fogal Primacy 82a1a9e2518c49cf934fa13aee7dfe54.md", "문헌/@Fogal2020 Rational Requirements and the Primacy of Pressure.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "43k2", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "아내의 말을 놓친 남편 사례는 이유를 내용으로 가진 심적 상태를 요구하는 소유 관점을 반박", "label": "지지됨", "evidence": "Against Holding views / 아침 케이스", "note": ""},
+        {"n": 1, "text": "소유 관점은 이유 소유에 이유를 내용으로 하는 심적 상태를 요구한다", "label": "지지됨", "evidence": "이유를 그 내용으로 가지는 심적 상태", "note": ""},
+        {"n": 2, "text": "아침 사례: 아내가 데려와 달라 했으나 남편은 처리 못하고 평소대로라 믿는다", "label": "지지됨", "evidence": "제대로 정보를 처리하지 못했다", "note": ""},
+        {"n": 3, "text": "아내는 그 믿음을 합리적으로 비판할 수 있어 보인다", "label": "지지됨", "evidence": "합리적인 비판을 가할 수 있어 보인다", "note": ""},
+        {"n": 4, "text": "남편은 그 내용의 상태가 없어 소유 관점에선 이유를 소유하지 않는다", "label": "지지됨", "evidence": "이유를 지니고 있지 않다", "note": ""},
+        {"n": 5, "text": "따라서 소유 관점은 남편의 믿음이 합리적이라고 말하게 된다", "label": "지지됨", "evidence": "합리적임을 함축한다", "note": ""},
+        {"n": 6, "text": "반론(들을 결정적 이유)에 로드는 모든 사례가 그렇지 않다고 답한다", "label": "지지됨", "evidence": "모든 경우 커버 불가능", "note": ""},
+        {"n": 7, "text": "전화 중이라 믿을 좋은 이유가 있으면 결정적 이유 없으나, 주의 부족으로 정보를 놓치면 비판받을 수 있다", "label": "지지됨", "evidence": "합리적인 방식으로 비판받을 수 있다", "note": ""},
+        {"n": 8, "text": "광범위한 접근을 가진 이유가 믿음의 합리적 상태에 영향을 주며 소유 관점은 설명 못한다", "label": "지지됨", "evidence": "소유 관점은 이를 설명할 수 없다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/.../Importance of being Rational ch 4-5 9638454fc575451da593e7900ed06395.md", "문헌/@Lord2018 The Importance of Being Rational.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "43l", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "브룸은 합리성의 요구를 마음에 수반하는 정합성 요구로 보고 넓은 범위로 정식화", "label": "지지됨", "evidence": "합리성은 특정한 측면에서 정합적", "note": ""},
+        {"n": 1, "text": "합리성을 달성해야 할 것으로 다루고 요구를 출처가 처방해서 생기는 요구로 이해", "label": "지지됨", "evidence": "Source - prescribe", "note": ""},
+        {"n": 2, "text": "합리성이 마음에 수반하므로 요구는 정신 상태들이 맞게 연결되도록 하는 정합성 요구", "label": "지지됨", "evidence": "정신 상태가 서로서로 제대로 연결", "note": ""},
+        {"n": 3, "text": "요구는 태도들 사이의 관계를 대상으로 하며 한 태도를 직접 가지라 않는다: 넓은 범위", "label": "지지됨", "evidence": "한 특정한 태도를 가지거나", "note": ""},
+        {"n": 4, "text": "수단적 요구와 에크라시아 요구는 모두 이 형태로 쓰인다", "label": "지지됨", "evidence": "Instrumental Requirement도 비슷한", "note": ""},
+        {"n": 5, "text": "좁은 범위 에크라시아는 비일관적 요구와 비대칭 때문에 거부된다", "label": "부분 지지", "evidence": "NS Enkrasia를 거부해야만 한다", "note": "비일관적 요구로 NS를 거부함은 근거 있음. 비대칭은 슈로더가 넓은 범위(WS)에 제기한 문제이고 필기는 NS도 비대칭을 설명 못한다고만 하며 NS 거부 이유로 들지 않음"},
+        {"n": 6, "text": "콜로드니 부트스트래핑 논증에는 좁은 범위 정식화가 틀렸다는 교훈만 남는다", "label": "지지됨", "evidence": "정식화가 틀렸다는 것", "note": ""},
+        {"n": 7, "text": "시간에 걸친 요구로 의도 지속 요구와 기반 금지를 둔다", "label": "지지됨", "evidence": "기반 금지는 시간에 걸친 요구", "note": "근거는 Broome2013 문헌 노트(RTR CH 10 통시적 요구). 카드 출처 줄에는 RTR CH 10이 없음"}
+      ],
+      "sources_used": ["_원자료/notion/.../RTR CH 9 55a789ee6910409f8549db51c9cf58f6.md", "_원자료/notion/.../RTR chap 10 Conditional requirements cf3081fd67cb48b99ce7a1a4c0c26cdd.md", "문헌/@Broome2013 Rationality Through Reasoning.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "43l2", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "브룸은 출처 요구의 논리에서 공리 D와 논리적 동치만 받아들이고 규범적 전송을 거부한다", "label": "부분 지지", "evidence": "Necessary Detachment ... 필연성 분리", "note": "필기는 D·동치 외에 필연성 분리도 받아들이므로 '만'은 과함. 거부되는 것은 필연성 승계·목적-수단 전송이며, 규범적 전송은 '있을 수도..?'로 열려 있음"},
+        {"n": 1, "text": "공리 K는 마라톤 사례에서 그냥 많이 먹는 것까지 요구되어 받아들이기 어렵다", "label": "지지됨", "evidence": "별로 그럴듯 하지 않다", "note": ""},
+        {"n": 2, "text": "논리적 승계도 K와 같은 문제로 거부되고 논리적 동치는 받아들인다", "label": "지지됨", "evidence": "K와 같은 문제 / 요건 ok", "note": ""},
+        {"n": 3, "text": "공리 D: 무엇이 요구되면 그 부정은 요구되지 않는다", "label": "지지됨", "evidence": "-p가 요구되는 것이 아니다", "note": ""},
+        {"n": 4, "text": "D는 요구 일반에는 어렵지만 합리성 요구 같은 특수한 요구에는 적용해도 좋다", "label": "지지됨", "evidence": "적용해도 좋아 보인다", "note": ""},
+        {"n": 5, "text": "필연성 분리는 받아들이고 필연성 승계와 목적-수단 전송은 거부; 의사·휴가 사례", "label": "지지됨", "evidence": "이 원리도 거부한다", "note": ""},
+        {"n": 6, "text": "규범적 요구에 동기 전송이 필요하다는 주장은 부트스트래핑을 낳아, 동기 전송을 의도로 설명하겠다고 한다", "label": "지지됨", "evidence": "동기의 전송을 의도로써 설명", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/.../RTR Chapter 7 “Requirments” 53de594547b941d4ab608e5d97c73610.md", "문헌/@Broome2013 Rationality Through Reasoning.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "61p6", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "모순적 의도의 비합리성은 핵심 요구만으로 설명하기 어렵다", "label": "지지됨", "evidence": "코어 리콰이먼트들만으로 설명하기 힘들다", "note": ""},
+        {"n": 1, "text": "4월 21일 필기는 I(p)와 I(not-p)를 함께 가지는 경우를 다룬다", "label": "지지됨", "evidence": "I(p) & I(~p)", "note": ""},
+        {"n": 2, "text": "필기는 핵심 요구를 p를 의도할 충분한 이유가 있는데 결정적 이유는 없는 경우와 관련지어 읽는다", "label": "부분 지지", "evidence": "core requirement를 (문장 끊김)", "note": "필기 문장이 'core requirement를'에서 끊기고 다음 줄에 사례만 있어 '관련지어 읽는다'는 연결은 카드의 보충"},
+        {"n": 3, "text": "믿음에서는 충분한 이유가 있는데 결정적 이유가 없는 경우가 없어 보인다", "label": "지지됨", "evidence": "경우가 없는 것 같은데", "note": ""},
+        {"n": 4, "text": "의도에서는 이런 경우를 찾기 쉽다", "label": "지지됨", "evidence": "의도와 관련해서 찾기 쉽다 보니까", "note": ""},
+        {"n": 5, "text": "그래서 의도가 핵심 요구에 특별한 문제를 제기한다고 필기는 본다", "label": "지지됨", "evidence": "특별한 문제를 제기한다", "note": ""},
+        {"n": 6, "text": "충분한 이유와 결정적 이유의 구분이 어떻게 쓰이는지를 물음으로 남긴다", "label": "지지됨", "evidence": "충분한 이유와 결정적인 이유의 구분?", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/.../인식론연습 4 21 10586713a15a45468eb459190293db91.md", "문헌/@Kolodny2005 Why Be Rational.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "43p2", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "세티야는 좋음의 외양 논제를 설명적 이유에 관한 주장으로 읽을 때만 방어할 수 있다고 본다", "label": "지지됨", "evidence": "약한 이유의 개념 속에서만 옹호", "note": ""},
+        {"n": 1, "text": "GG는 욕구의 구조보다 이유 개념에 관한 주장으로 이해되어야 한다", "label": "지지됨", "evidence": "이유 개념에 대한 주장으로 이해", "note": ""},
+        {"n": 2, "text": "좋음은 구체적 측면 F에서의 좋음이고 F가 이유로 기능, 욕구는 이유가 되는 특성을 가진 것으로 표상", "label": "지지됨", "evidence": "그 측면(F)은 이유(reason)으로 기능", "note": ""},
+        {"n": 3, "text": "정당화적 이유(규범적 주장)와 설명적 이유(행위 설명) 두 개념", "label": "지지됨", "evidence": "정당화적 이유 / 설명적 이유", "note": ""},
+        {"n": 4, "text": "두 개념은 논리적으로 독립; 거짓인 이유로 행위한 설명적 이유도 가능", "label": "지지됨", "evidence": "두 개념은 논리적으로 독립적", "note": ""},
+        {"n": 5, "text": "왜 물음에 필요한 것은 설명적 이유뿐, 정당화 이유라는 믿음이 아니다", "label": "지지됨", "evidence": "필요한 것은 '정당화적 이유'가 아니라", "note": ""},
+        {"n": 6, "text": "정당화적 이유 주장으로 읽으면 터무니없는 귀결", "label": "지지됨", "evidence": "Outright absurd한 귀결", "note": ""},
+        {"n": 7, "text": "이유 설명은 이해 가능하게 만들고 그 가능성은 좋은 이유 주장보다 약한 긍정적 평가를 포함한다고 본다", "label": "부분 지지", "evidence": "그 가능성은 결국 이 질문에 답함에", "note": "필기는 이를 성립 여부가 열린 물음(positive assessment를 포함하는가?)으로 두고 이후 악의 사례에서 무너진다고 함. 카드는 '포함한다고 본다'로 단정"}
+      ],
+      "sources_used": ["_원자료/notion/.../Setiya_Sympathy for the devil 1fc97cdd867e809aadf8c183d5b95445.md", "문헌/@Setiya2010 Sympathy for the Devil.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "44b2", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "쾌와 불쾌의 느낌은 욕구 충족도의 변동을 표상하는 신호이다", "label": "지지됨", "evidence": "욕구 충족도의 변동—을 표상하는", "note": ""},
+        {"n": 1, "text": "쾌·불쾌 느낌은 욕구의 필수 요소도 충분조건도 아니다", "label": "지지됨", "evidence": "충분하지도, 필요하지도 않다고", "note": ""},
+        {"n": 2, "text": "느낌 없이 음식·정의·가족 안녕을 추구하는 존재를 상상할 수 있고 욕구 귀속에 어려움 없다", "label": "지지됨", "evidence": "귀속하는 데 별 어려움을 느끼지", "note": ""},
+        {"n": 3, "text": "클로르프로마진은 감정을 평탄화하나 행동 성향은 남아 욕구 제거로 보기 어렵다", "label": "지지됨", "evidence": "욕구 자체를 제거했다고 설명하기는 어렵다", "note": ""},
+        {"n": 4, "text": "표상은 대상과 동일할 수 없다(그림이 마리 퀴리를 구성 못함)", "label": "지지됨", "evidence": "그림이 마리 퀴리를 '구성'하지 못하듯", "note": ""},
+        {"n": 5, "text": "술 취한 하이디·무감동 치트라에서의 오류 평가와 쾌·불쾌를 단서로 한 욕구 탐지를 설명", "label": "지지됨", "evidence": "단서 삼아 자신의 욕구를 탐지", "note": ""},
+        {"n": 6, "text": "쾌·불쾌는 따뜻함/차가움처럼 연속선·상호 배타·가감 구조를 갖는다", "label": "지지됨", "evidence": "연속선·상호배타·가감 구조를 공유", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/.../Response_0507 35697cdd867e81c29bd5cc19832752f8.md", "_원자료/notion/.../What desires are not 1e997cdd867e8023bf6cfa90bd22e9b5.md", "문헌/@ArpalySchroeder2014 In Praise of Desire.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "44c10", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "수업 필기는 RSPD3의 대물 조건이 대면을 요구하는지와 암묵적 대물 태도 허용 여부를 쟁점으로 남긴다", "label": "지지됨", "evidence": "대면이 필요 없다? / 암묵적 de re", "note": ""},
+        {"n": 1, "text": "필기는 대물 조건 물음을 키워드 수준으로 남겼다", "label": "지지됨", "evidence": "키워드식 메모 (Dead sea apple 등)", "note": ""},
+        {"n": 2, "text": "반대 방향의 반례로 사해의 사과·냉장고·후각 사례가 거론된다", "label": "지지됨", "evidence": "Dead sea apple / 냉장고 사례 / 후각", "note": ""},
+        {"n": 3, "text": "상실을 통해 무엇을 자각하는 사례가 욕구 설명에 위협이 될 수 있다", "label": "지지됨", "evidence": "case들이 위협이 될 수 있다", "note": ""},
+        {"n": 4, "text": "대물적 욕구에 대면이 필요한지, 같은 감각 반복에서 동일성이 중요한지 물음으로 남는다", "label": "지지됨", "evidence": "동일한 감각이 반복되는 것", "note": ""},
+        {"n": 5, "text": "토큰에 대해서도 대언적 태도를 취할 수 있어 데카르트 사례 문제가 되살아난다는 예상", "label": "지지됨", "evidence": "데카르트 케이스와 같은 문제", "note": ""},
+        {"n": 6, "text": "암묵적 대물 사고와 욕구를 인정하면 히스우드가 문제를 피할 수 있다는 가능성", "label": "지지됨", "evidence": "히스우드는 문제를 피할 수 있다", "note": ""},
+        {"n": 7, "text": "욕구 충족과 해소를 구별해야 하며 충족된 욕구는 충족된 채로 남는다", "label": "지지됨", "evidence": "충족과 해소를 구분하라", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/.../스터디 트래커/.../심리철학연습_0425/수업 1e097cdd867e8019b1c6d733cd34421d.md", "문헌/@Heathwood2007 The Reduction of Sensory Pleasure to Desire.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "44e", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "쉬나바부는 로베르타 사례를 기존 반감이 생생한 정보로 활성화된 경우로 읽어 증거로 삼는다", "label": "지지됨", "evidence": "기존 반감이 정보와 결합해", "note": ""},
+        {"n": 1, "text": "로베르타는 안락한 환경에서 자라 먼 곳 고통의 정보를 접하지 못했다", "label": "지지됨", "evidence": "별다른 정보를 접하지 않고 살아왔다", "note": ""},
+        {"n": 2, "text": "다큐를 보고 충격·불쾌를 느껴 불매 운동 전단을 나누어 주기로 한다", "label": "지지됨", "evidence": "불매 운동 전단을 나눠주는 데", "note": ""},
+        {"n": 3, "text": "믿음이 추론으로 새 욕구를 만든 것처럼 보여 반례로 제시된다", "label": "지지됨", "evidence": "믿음이 추론을 통해서 ... 새로운 욕구", "note": ""},
+        {"n": 4, "text": "쉬나바부는 쾌락적 측면에 호소해 사례를 오히려 증거로 쓴다", "label": "지지됨", "evidence": "Hedonic aspect를 통해서", "note": ""},
+        {"n": 5, "text": "욕구는 무의식에 있던 타인 고통에 대한 반감이 생생한 장면으로 활성화된 것", "label": "지지됨", "evidence": "이미 무의식적으로 존재하던", "note": ""},
+        {"n": 6, "text": "충격과 불쾌를 느꼈다는 사실이 이미 반감이 있었다는 증거", "label": "지지됨", "evidence": "이미 반감이 있었다는 증거이다", "note": ""},
+        {"n": 7, "text": "그래서 기존 욕구가 증폭된 경우로 읽힌다", "label": "지지됨", "evidence": "활성화 ... 증폭된 사례", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/.../Response_0319 35697cdd867e8119890de0b3b396b9a1.md", "문헌/@쉬나바부 흄적 동기 이론.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "45k", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "워스닙은 보장 가설의 반례를 예외로 처리하는 응답에 네 가지로 반박한다", "label": "지지됨", "evidence": "워스닙은 ... 네 가지 반론을 제시", "note": ""},
+        {"n": 1, "text": "로드·키제베터는 반례가 비합리성 없이 비정합적인 예외라고 응답한다", "label": "지지됨", "evidence": "비합리성 없이 비정합적인 예외적인", "note": ""},
+        {"n": 2, "text": "첫째: 구조적 비합리성을 비정합성으로 바꿔 놓았을 뿐, 독립적 분석 필요", "label": "지지됨", "evidence": "독립적인 분석이 필요하다", "note": ""},
+        {"n": 3, "text": "둘째: 환원주의·제거주의가 매력을 잃고 사소한 주장이 되며 보편적 주장을 원한다", "label": "지지됨", "evidence": "우리가 원하는 것은 보편적 주장", "note": ""},
+        {"n": 4, "text": "셋째: 태도 조합만 보고 판단·실질 이유에서 추상해 식별하는 직관을 설명 못함", "label": "지지됨", "evidence": "실질적 이유에 대한 판단에서 추상하여", "note": ""},
+        {"n": 5, "text": "넷째: 환원주의자는 주기적 선호 사례가 언제나 구조적으로 비합리적이지 않다고 주장해야", "label": "지지됨", "evidence": "절대로 구조적으로 비합리적이지 않다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/.../Response_8_김영진 35697cdd867e818aa124fa8cf819f322.md", "문헌/@Worsnip2021 Fitting Things Together.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "45n2", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "코스가드는 도구적 원리를 자율적 의지의 구성 원리로 보아 그 규범성을 해명한다", "label": "지지됨", "evidence": "자율적 의지의 구조에 내재한 구성적 원리", "note": ""},
+        {"n": 1, "text": "경험주의는 동기는 설명하나 규범성은 못하고, 독단주의는 왜 따라야 하는지 설명 못한다", "label": "지지됨", "evidence": "규범성을 설명하지 못하고", "note": ""},
+        {"n": 2, "text": "먼저 합리성을 칸트적으로 규정: 스스로 법칙을 세우고 자신을 통치하려는 의지", "label": "지지됨", "evidence": "스스로 법칙을 세우고", "note": ""},
+        {"n": 3, "text": "이런 주체는 목적을 정하고 의무를 부여하고 판단·이행한다", "label": "지지됨", "evidence": "자기 자신에게 의무를 부여하며", "note": ""},
+        {"n": 4, "text": "법칙을 세우는 차원과 어길 수 있는 차원이 있어 도구적 원리가 명령으로 기능", "label": "지지됨", "evidence": "두 차원이 존재하기에", "note": ""},
+        {"n": 5, "text": "도구적 원리는 의지적 행위의 구성 원리이자 행동하는 한 부정 못 할 내재적 규범", "label": "지지됨", "evidence": "인간이 행동하는 한 부정할 수 없는", "note": ""},
+        {"n": 6, "text": "순응은 목적 설정·준칙 제정 주체가 되는 일에 본질적이라 거절·채택의 대상이 아니다", "label": "지지됨", "evidence": "거절이나 채택의 대상이 아니다", "note": ""},
+        {"n": 7, "text": "거절하면 행위자로서의 주체가 사라지기 때문이다", "label": "지지됨", "evidence": "'주체' 자체를 사라지게 만들기", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/.../response_0403 35697cdd867e8158b89ce98dd7f7be48.md", "문헌/@Korsgaard1997 The Normativity of Instrumental Reason.md (존재 확인만)"],
+      "sources_missing": []
+    },
+    {
+      "id": "45c", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "워스닙은 합리성이 규범적이라는 말을 요구에 대한 사실이 적절히 연관된 반응을 지닐 이유를 구성한다는 말로 풀이", "label": "지지됨", "evidence": "적절히 연관된 반응 R을 지닐 이유를 구성", "note": ""},
+        {"n": 1, "text": "합리성이 요구하는 것에 대한 사실이 어떤 반응을 지닐 이유가 된다는 뜻", "label": "지지됨", "evidence": "반응을 지닐 이유가 된다’는 것을 의미", "note": ""},
+        {"n": 2, "text": "합리성은 도덕이나 타산처럼 이유의 내재적 원천", "label": "지지됨", "evidence": "이유의 내재적인 원천이라고 이해", "note": ""},
+        {"n": 3, "text": "반응 R 자체가 이유의 내용일 필요 없고 R을 결과로 갖는 다른 반응의 이유면 충분", "label": "지지됨", "evidence": "R을 결과로 가지는 무언가를 할 이유", "note": ""},
+        {"n": 4, "text": "예: 도덕이 복수심에 불타지 않는 마음을 요구하면 원수를 미워하지 않는 반응의 이유가 될 수 있다", "label": "지지됨", "evidence": "복수심에 불타지 않는 마음을 지니라", "note": ""},
+        {"n": 5, "text": "정식과 영진의 명칭 Facts about Rationality Constitute Reasons* (FTT 242~244)", "label": "지지됨", "evidence": "FTT 242 / FTT, 243-4", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/.../구조적 합리성과 실질적 합리성의 규범성을 통합하기 HWP 35697cdd867e81e59ed3eff6e0098792.md (49~57행)", "_원자료/notion/.../김영진_인신록 연습 기말 논문 35697cdd867e815f8ce4f44950caf3f5.md", "문헌/@Worsnip2021 Fitting Things Together.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "45q4", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "외양 견해로 첫 전제를 부정하는 응답에 오르시는 외양도 평가이므로 가치 충돌이 있다고 재반박", "label": "지지됨", "evidence": "이미 일종의 평가의 한 형태", "note": ""},
+        {"n": 1, "text": "GG 옹호자에게 가장 매력적인 응답은 윌리엄스 논증의 첫 전제(한 욕구만 가진다)를 부정하는 것", "label": "부분 지지", "evidence": "부정하는 것으로 보인다", "note": "원문은 '가장 매력적인 선택지는 ~ 부정하는 것으로 보인다'로 한정. 카드는 단정"},
+        {"n": 2, "text": "윌리엄스가 좋게 여김을 너무 좁게 해석했다는 주장이다", "label": "부분 지지", "evidence": "주장으로 이어질 수 있다", "note": "원문은 '~ 종류의 주장으로 이어질 수 있다'. 가능 표현이 단정으로 바뀜"},
+        {"n": 3, "text": "외양 견해는 좋게 여김을 대상이 좋게 나타나 보이는 일로 본다", "label": "지지됨", "evidence": "좋게 나타나 보이는 것’(appear good)", "note": ""},
+        {"n": 4, "text": "한 욕구에 가치를 둔 행위자도 다른 대상이 좋게 나타나나 판단은 않아 다른 욕구를 가질 수 있다", "label": "지지됨", "evidence": "좋다고 판단하지는 않을 수 있기 때문", "note": ""},
+        {"n": 5, "text": "오르시는 이 답이 윌리엄스의 최초 가설을 충분히 존중하지 않는다고 지적", "label": "지지됨", "evidence": "최초 가설을 충분히 존중하지 않는다", "note": ""},
+        {"n": 6, "text": "그 가설은 행위자가 어떤 종류의 가치 충돌도 겪지 않음을 확보한다", "label": "지지됨", "evidence": "어떤 종류의 가치 충돌도 겪을 수 없는", "note": ""},
+        {"n": 7, "text": "외양은 평가적 내용을 지녀 평가의 한 형태, 판단 않는 대상이 좋게 제시되면 가치 충돌", "label": "지지됨", "evidence": "가치 충돌로 볼 수밖에 없다", "note": ""},
+        {"n": 8, "text": "그래서 외양 견해는 가치 충돌 없는 행위자가 다른 욕구를 가질 수 있음을 보이지 못한다", "label": "지지됨", "evidence": "충돌도 겪지 않고 있음을 보여주지는 못한다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/.../김영진_Term paper_Final 35697cdd867e8167a8f5cf81c2ed1d2c.md", "문헌/@영진2025 좋음의 외양 논제에 대한 비판적 재검토.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "44", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "이유가 동기와 평가에 어떻게 이어지는지를 욕구·의도·합리성 이론들이 서로 다른 지점에서 따진다", "label": "연결", "evidence": "", "note": "종합 연결"},
+        {"n": 1, "text": "스탬프는 욕구를 좋을 것처럼 보이는 지각 상태로 설명(44a)", "label": "지지됨", "evidence": "좋을 것처럼 보임(seems(d))이라는 지각", "note": ""},
+        {"n": 2, "text": "아팔리와 슈로더는 욕구를 보상 시스템의 상태로 설명(44b)", "label": "지지됨", "evidence": "욕구=보상-시스템 상태", "note": ""},
+        {"n": 3, "text": "히스우드는 감각적 쾌를 욕구로 환원(44c)", "label": "지지됨", "evidence": "쾌를 욕구로 환원하는 RSPD3", "note": ""},
+        {"n": 4, "text": "플랫츠와 스미스는 현상적 설명과 성향적 설명으로 갈린다(44d)", "label": "지지됨", "evidence": "Platt은 욕구를 일종의 현상적 특징", "note": "Platts 근거는 SmithM 노트의 원자료 Notion 「0314」(54행). 문헌 노트 본문에는 플랫츠 설명이 없음"},
+        {"n": 5, "text": "쉬나바부는 흄적 동기 이론을 방어하며 도덕적 동기를 반감의 활성화로 읽는다(44e)", "label": "지지됨", "evidence": "기존 반감이 정보와 결합해", "note": ""},
+        {"n": 6, "text": "욕구가 좋음의 외양을 갖는지는 세티야와 사에미(44f)와 벨먼(44g)이 다룬다", "label": "지지됨", "evidence": "세티야의 반례 논증이 GG를", "note": ""},
+        {"n": 7, "text": "브래트먼은 의도를 계획의 요소로 설명(44h)", "label": "지지됨", "evidence": "의도를 ... 부분적 계획의 요소로", "note": ""},
+        {"n": 8, "text": "데이비슨은 이유를 행위의 원인으로 논증(44i)", "label": "지지됨", "evidence": "일차적 이유가 ... 행위의 원인", "note": ""},
+        {"n": 9, "text": "콜로드니가 같은 물음을 사랑의 이유로 옮긴다(44j)", "label": "연결", "evidence": "", "note": "'같은 물음'으로 잇는 종합 연결. 사랑의 이유가 관계라는 귀속은 Kolodny2003 노트로 확인"},
+        {"n": 10, "text": "마지막 갈래는 키제베터와 사우스우드를 따라 구조적 요구와 규범성이 함께 성립할 수 있는지 묻는다(44k)", "label": "지지됨", "evidence": "구조적 합리성은 허상으로 남는다 / 규범성 옹호", "note": ""}
+      ],
+      "sources_used": ["문헌/@Stampe1987 The Authority of Desire.md", "문헌/@ArpalySchroeder2014 In Praise of Desire.md", "문헌/@Heathwood2007 The Reduction of Sensory Pleasure to Desire.md", "문헌/@SmithM Humean Theory of Motivation.md", "문헌/@쉬나바부 흄적 동기 이론.md", "문헌/@Gregory2021 Desire as Belief.md", "문헌/@Saemi2017 Self-Knowledge and the Guise of the Good.md", "문헌/@Velleman1992 The Guise of the Good.md", "문헌/@Bratman1987 Intention, Plans, and Practical Reason.md", "문헌/@Davidson1963 Actions, Reasons, and Causes.md", "문헌/@Kolodny2003 Love as Valuing a Relationship.md", "문헌/@Kiesewetter2017 The Normativity of Rationality.md", "문헌/@Southwood2008 Vindicating the Normativity of Rationality.md", "_원자료/notion/.../0314 35697cdd867e818ab51acefc4c123c4c.md (Platts 확인)"],
+      "sources_missing": []
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+ "id": "45c",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "워스닙은 합리성이 규범적이라는 말을 요구에 대한 사실이 적절히 연관된 반응을 지닐 이유를 구성한다는 말로 풀이",
+   "label": "지지됨",
+   "evidence": "적절히 연관된 반응 R을 지닐 이유를 구성",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "합리성이 요구하는 것에 대한 사실이 어떤 반응을 지닐 이유가 된다는 뜻",
+   "label": "지지됨",
+   "evidence": "반응을 지닐 이유가 된다’는 것을 의미",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "합리성은 도덕이나 타산처럼 이유의 내재적 원천",
+   "label": "지지됨",
+   "evidence": "이유의 내재적인 원천이라고 이해",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "반응 R 자체가 이유의 내용일 필요 없고 R을 결과로 갖는 다른 반응의 이유면 충분",
+   "label": "지지됨",
+   "evidence": "R을 결과로 가지는 무언가를 할 이유",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "예: 도덕이 복수심에 불타지 않는 마음을 요구하면 원수를 미워하지 않는 반응의 이유가 될 수 있다",
+   "label": "지지됨",
+   "evidence": "복수심에 불타지 않는 마음을 지니라",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "정식과 영진의 명칭 Facts about Rationality Constitute Reasons* (FTT 242~244)",
+   "label": "지지됨",
+   "evidence": "FTT 242 / FTT, 243-4",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/.../구조적 합리성과 실질적 합리성의 규범성을 통합하기 HWP 35697cdd867e81e59ed3eff6e0098792.md (49~57행)",
+  "_원자료/notion/.../김영진_인신록 연습 기말 논문 35697cdd867e815f8ce4f44950caf3f5.md",
+  "문헌/@Worsnip2021 Fitting Things Together.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

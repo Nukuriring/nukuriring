@@ -1,0 +1,71 @@
+{
+ "id": "43l",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "브룸은 합리성의 요구를 마음에 수반하는 정합성 요구로 보고 넓은 범위로 정식화",
+   "label": "지지됨",
+   "evidence": "합리성은 특정한 측면에서 정합적",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "합리성을 달성해야 할 것으로 다루고 요구를 출처가 처방해서 생기는 요구로 이해",
+   "label": "지지됨",
+   "evidence": "Source - prescribe",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "합리성이 마음에 수반하므로 요구는 정신 상태들이 맞게 연결되도록 하는 정합성 요구",
+   "label": "지지됨",
+   "evidence": "정신 상태가 서로서로 제대로 연결",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "요구는 태도들 사이의 관계를 대상으로 하며 한 태도를 직접 가지라 않는다: 넓은 범위",
+   "label": "지지됨",
+   "evidence": "한 특정한 태도를 가지거나",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "수단적 요구와 에크라시아 요구는 모두 이 형태로 쓰인다",
+   "label": "지지됨",
+   "evidence": "Instrumental Requirement도 비슷한",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "좁은 범위 에크라시아는 비일관적 요구와 비대칭 때문에 거부된다",
+   "label": "부분 지지",
+   "evidence": "NS Enkrasia를 거부해야만 한다",
+   "note": "비일관적 요구로 NS를 거부함은 근거 있음. 비대칭은 슈로더가 넓은 범위(WS)에 제기한 문제이고 필기는 NS도 비대칭을 설명 못한다고만 하며 NS 거부 이유로 들지 않음"
+  },
+  {
+   "n": 6,
+   "text": "콜로드니 부트스트래핑 논증에는 좁은 범위 정식화가 틀렸다는 교훈만 남는다",
+   "label": "지지됨",
+   "evidence": "정식화가 틀렸다는 것",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "시간에 걸친 요구로 의도 지속 요구와 기반 금지를 둔다",
+   "label": "지지됨",
+   "evidence": "기반 금지는 시간에 걸친 요구",
+   "note": "근거는 Broome2013 문헌 노트(RTR CH 10 통시적 요구). 카드 출처 줄에는 RTR CH 10이 없음"
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/.../RTR CH 9 55a789ee6910409f8549db51c9cf58f6.md",
+  "_원자료/notion/.../RTR chap 10 Conditional requirements cf3081fd67cb48b99ce7a1a4c0c26cdd.md",
+  "문헌/@Broome2013 Rationality Through Reasoning.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
