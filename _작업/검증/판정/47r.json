@@ -1,0 +1,48 @@
+{
+ "id": "47r",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "윌리엄슨은 선험/후험 구분이 경계 사례를 낳아 폐기되어야 한다고 본다",
+   "label": "지지됨",
+   "evidence": "그러므로 이 구분은 폐기되어야 한다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "구분은 명료히 정의되고 많은 경우 적용되나 인식적 사실을 정확히 양분하지 못한다",
+   "label": "지지됨",
+   "evidence": "인식적 사실들을 정확히 양분하지는 못한다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "감각 경험은 증거 역할 또는 가능화 역할만 한다는 예(셔츠, 초록)",
+   "label": "지지됨",
+   "evidence": "이 셔츠가 초록색이다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "많은 경우 경험이 두 역할 사이의 역할을 하며 어느 쪽으로 정해도 직관에 어긋남",
+   "label": "지지됨",
+   "evidence": "어떻게 결정하든지, 직관적으로 틀린 결론",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "대신 안락의자 지식과 비안락의자 지식의 구분이 필요",
+   "label": "지지됨",
+   "evidence": "arm-chair / non arm-chair",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Williamson on the A priori and the Analytic 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

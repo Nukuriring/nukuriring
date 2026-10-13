@@ -1,0 +1,48 @@
+{
+ "id": "47p",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "세 이론은 대상의 가치를 사랑이 만들고 지각하고 관계가 부여한다고 설명",
+   "label": "지지됨",
+   "evidence": "created by the act of loving",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "프랭크퍼트: 사랑하기 때문에 가치 있어진다",
+   "label": "지지됨",
+   "evidence": "what makes them especially valuable to us",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "벨먼: 사람됨의 가치를 알아보는 감응, 가치는 사랑에 앞서 모든 사람이 지님",
+   "label": "지지됨",
+   "evidence": "independent and pre-existent",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "콜로드니: 관계가 사랑의 이유이고 가치는 당사자에게 상대적",
+   "label": "지지됨",
+   "evidence": "agent-relative value",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "차이가 사랑에 이유가 있는지를 두고 프랭크퍼트와 나머지 둘이 갈리는 지점과 겹친다",
+   "label": "지지됨",
+   "evidence": "Frankfurt stands on one side",
+   "note": "보고서는 두 쟁점을 따로 다룸. '겹친다'는 카드의 정리지만 두 구도가 일치함."
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Comparing Theories of Love … 1df97cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

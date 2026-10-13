@@ -1,0 +1,48 @@
+{
+ "id": "42q3",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "자기 앎을 행동·독백 관찰에서 법칙적 명제를 세우는 방법론 문제로 환원",
+   "label": "지지됨",
+   "evidence": "simply the methodological question",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "자기·타인 마음 앎의 방법은 본질적으로 같다",
+   "label": "지지됨",
+   "evidence": "our method of acquiring two kinds of knowledge is essentially the same",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "행동을 관찰하고 귀납적 법칙과 함께 마음 상태를 추론",
+   "label": "지지됨",
+   "evidence": "inductive laws we have established",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "행동에는 소리 내지 않은 독백까지 포함",
+   "label": "지지됨",
+   "evidence": "includes “unspoken soliloquies”",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "강의는 근본적 의문을 제기: 직접적인 것 같다",
+   "label": "지지됨",
+   "evidence": "훨씬 더 직접적인 것 같다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/핸드아웃_ 02_(Self-Knowledge_Not_Special) 35697cdd867e8144894ad653e35e975b.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

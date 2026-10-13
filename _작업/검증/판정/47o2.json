@@ -1,0 +1,41 @@
+{
+ "id": "47o2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "벨먼은 칸트의 존경을 추상 규칙이 아닌 이상적 자아로서 이성적 의지에 대한 경외로 재구성",
+   "label": "지지됨",
+   "evidence": "not as an attitude toward abstract moral rules",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "경외의 대상은 규칙·보편화 절차가 아니라 보편적 준칙을 입법하는 의지의 능력",
+   "label": "지지됨",
+   "evidence": "capacity to legislate universally valid maxims",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "이상적 이성 의지가 참된 자기를 이루므로 존경은 인격적 태도",
+   "label": "지지됨",
+   "evidence": "fundamentally personal attitude",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "재해석이 존경과 사랑을 나란히 놓을 가능성을 열고 둘 다 규범적 시선으로 파악된 사람을 향한다",
+   "label": "지지됨",
+   "evidence": "person conceived through a normative lens",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Velleman_Love moral emotion 1df97cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

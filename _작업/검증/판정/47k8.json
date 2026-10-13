@@ -1,0 +1,41 @@
+{
+ "id": "47k8",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "일상 의무 이행의 마음가짐과 도덕적 가치의 관계를 묻는 발췌는 협력의 필요가 선의에 달려서는 안 된다고 본다",
+   "label": "지지됨",
+   "evidence": "should not depend upon the beneficence",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "암울·무감정하게 이행하면 만족·짜증·안도를 느끼며 이행할 때보다 도덕적 가치가 높은지를 묻는다",
+   "label": "지지됨",
+   "evidence": "grimly or affectlessly rather than with",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "필자는 도덕적 속물근성이라는 완전주의의 악덕에 빠질 위험을 인정",
+   "label": "지지됨",
+   "evidence": "I may be risking that moral snobbery",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "선의에 달려 있다면 사회가 잘못 형성된 신호이지 개인 가치가 낮다는 신호가 아니다",
+   "label": "지지됨",
+   "evidence": "a poorly formed society",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/사실 Hope의 문제는 … 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

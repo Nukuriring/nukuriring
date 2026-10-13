@@ -1,0 +1,48 @@
+{
+ "id": "47k3",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "자연의 법칙은 선택 없이 적용되고 도덕 법칙은 악의 선택이 가능하다",
+   "label": "지지됨",
+   "evidence": "we do have a choice over whether the laws",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "이성 법칙을 자연에 적용하지 않으면 세계 자체를 잃는다",
+   "label": "지지됨",
+   "evidence": "세계에 대한 앎을 잃어 버리는게 아니라, 세계 자체를 잃어",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "도덕 법칙은 명령으로 나타나 따를지가 열려 있다",
+   "label": "지지됨",
+   "evidence": "leave it open (to each of us) whether",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "노력해도 못 지키는 데 그치지 않고 악을 선택해 도덕의 실재성을 부정할 수도 있다",
+   "label": "지지됨",
+   "evidence": "we might choose evil, choose to thwart",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "영진은 이 대목에 이건 좀 중요한 것 같다는 표시를 붙인다",
+   "label": "지지됨",
+   "evidence": "이건 좀 중요한 것 같은데",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/사실 Hope의 문제는 다름 아니라 Morality가 real하기 위해서는 무엇이 필요하냐 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

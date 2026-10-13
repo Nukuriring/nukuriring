@@ -1,0 +1,48 @@
+{
+ "id": "47p1",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "세 이론은 편애와 도덕의 충돌을 각각 받아들이고 없애고 정당화하며 비용을 진다",
+   "label": "지지됨",
+   "evidence": "Frankfurt lets love and morality stand apart",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "프랭크퍼트: 사랑의 요구를 도덕 의무와 별개의 필연성으로 두어 충돌을 받아들임",
+   "label": "지지됨",
+   "evidence": "distinct realm of necessities",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "벨먼: 사랑을 재정의해 충돌을 없애고 편애는 모두를 알아볼 수 없는 한계",
+   "label": "지지됨",
+   "evidence": "eliminate the conflict … redefining love",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "콜로드니: 관계의 행위자 상대적 이유로 편애 정당화",
+   "label": "지지됨",
+   "evidence": "embraces partiality as justified",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "비용: 비도덕적 요구 시 지침 없음, 벨먼은 실제 편애에서 멀어 보일 수 있음, 콜로드니는 저울질을 다 말하지 않음",
+   "label": "지지됨",
+   "evidence": "little guidance for when love demands",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Comparing Theories of Love … 1df97cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

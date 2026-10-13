@@ -1,0 +1,48 @@
+{
+ "id": "42q1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "의식을 마음의 정의에 넣으면 무한 퇴행, 표지 삼을 수 없다",
+   "label": "지지됨",
+   "evidence": "could no longer be retained as part of the definition",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "데카르트식 이론에서 모든 마음 상태는 의식의 대상",
+   "label": "지지됨",
+   "evidence": "every mental state must be an object of consciousness",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "의식에 대한 의식도 마음 상태이고 앞의 상태와 다르다",
+   "label": "지지됨",
+   "evidence": "consciousness of one’s mental state is itself a mental state",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "무한한 양파 껍질 같은 의식은 불가능",
+   "label": "지지됨",
+   "evidence": "infinite number of onion-skins of consciousness",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "의식할 수 없는 상태를 인정하면 정의에 넣을 수 없다, 딜레마",
+   "label": "지지됨",
+   "evidence": "mental states of which we cannot be conscious",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/핸드아웃_ 02_(Self-Knowledge_Not_Special) 35697cdd867e8144894ad653e35e975b.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

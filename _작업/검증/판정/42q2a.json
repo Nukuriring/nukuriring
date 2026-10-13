@@ -1,0 +1,55 @@
+{
+ "id": "42q2a",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "내성이 다시 내성의 대상이어야 하므로 동시 수행 불가한 내성",
+   "label": "지지됨",
+   "evidence": "must be a potential object of introspection",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "무한한 내성을 동시에 수행하기는 불가능",
+   "label": "지지됨",
+   "evidence": "impossible to perform infinite number of introspections",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "내성할 수 없는 마음 과정이 있어야 하고 앎은 내성에 근거할 수 없다",
+   "label": "지지됨",
+   "evidence": "some mental processes which are unintrospectible",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "내성에 근거할 때가 있는지도 의문",
+   "label": "지지됨",
+   "evidence": "it is open to question whether it ever does",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "의식에 호소한다는 응답에 카리브디스와 스킬라 비유",
+   "label": "지지됨",
+   "evidence": "To the guests of Charybdis, Scylla appears",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "의식도 퇴행의 문제를 갖기 때문",
+   "label": "부분 지지",
+   "evidence": "he seems to think here that an appeal to consciousness",
+   "note": "핸드아웃은 라일이 명시하지 않았고 'seems to think'로 필자가 해석한 것인데, 카드는 라일의 이유로 단정."
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/핸드아웃_ 02_(Self-Knowledge_Not_Special) 35697cdd867e8144894ad653e35e975b.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

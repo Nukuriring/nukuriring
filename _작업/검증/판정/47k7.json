@@ -1,0 +1,55 @@
+{
+ "id": "47k7",
+ "voice": "종합",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "행위가 말하듯 해석 가능하다는 점이 준칙이 비판에 열려 있는 이유",
+   "label": "부분 지지",
+   "evidence": "part of the life form of talkers makes them open to criticism",
+   "note": "원문은 비판에 열려 있는 이유를 행위가 말하는 삶의 형식의 일부라는 점에 두고 대상도 행위임. 해석 가능성(준칙의 인정)과 비판 가능성을 이유로 이은 것은 카드의 정리."
+  },
+  {
+   "n": 1,
+   "text": "준칙은 행위의 주관적 원리이며 행위가 말하고 해석 가능한 의미를 가짐을 인정",
+   "label": "지지됨",
+   "evidence": "human actions speak, that they have (interpretable)",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "행위의 조건은 문법이 말을 결정 못하듯 행위를 결정하지 못한다",
+   "label": "지지됨",
+   "evidence": "no more determine what I do than the laws of grammar",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "무감각·잔인·부주의 비판에 열려 있음은 부당·의무 저버림 비판만큼 신비",
+   "label": "지지됨",
+   "evidence": "is as much a mystery as my being open",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "자신에게 투명하지 않아 비판은 대면과 대화를 요구한다",
+   "label": "지지됨",
+   "evidence": "such criticism demands confrontation",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "신비는 불순함이 아니라 말과 침묵으로 변화할 수 있다는 데 있다",
+   "label": "지지됨",
+   "evidence": "we can be moved to change by speech",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/사실 Hope의 문제는 … 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

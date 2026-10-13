@@ -1,0 +1,55 @@
+{
+ "id": "42t",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "자기지식은 마음 상태 앎이며 자아·행위 앎과 구별되지만 긴밀히 이어진다",
+   "label": "부분 지지",
+   "evidence": "If Constitutivism and Constructivism … is correct",
+   "note": "원문은 구성주의·표준 행위론이 옳다면 연결이 있어야 한다는 조건부인데, 제목은 조건 없이 단정."
+  },
+  {
+   "n": 1,
+   "text": "자기지식은 감각·생각·믿음·욕구·의도를 포함한 마음 상태 앎",
+   "label": "지지됨",
+   "evidence": "Standardly … sensations, thoughts, beliefs",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "자아에 대한 앎과 구별, 구성주의라면 긴밀한 연결",
+   "label": "지지됨",
+   "evidence": "should be an intimate connection",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "표준 행위론이 옳다면 행위 앎과 긴밀히 이어진다",
+   "label": "지지됨",
+   "evidence": "행위는 … 야기되고 합리화되는 것",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "마음 상태를 직접 알고 행위 앎은 마음 상태 앎으로 설명",
+   "label": "지지됨",
+   "evidence": "행위에 대한 앎은 … 앎에 의해 설명된다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "세미나의 세 물음",
+   "label": "지지됨",
+   "evidence": "Question 1 … Question 2 … Question 3",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/핸드아웃_ 01_(세미나_ 주제_ 소개) 35697cdd867e8149827bce0c55eed437.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
