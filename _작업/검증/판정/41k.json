@@ -1,0 +1,56 @@
+{
+ "id": "41k",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "윌리엄슨은 특정 추론을 수행하려는 의향이 개념 소유의 필요조건이 아니라고 논증해 보고시안의 개념 구성 설명을 비판한다",
+   "label": "지지됨",
+   "evidence": "추론하려고 하는 것은 필요 조건이 아니다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "보고시안의 맹목적이되 비난받지 않는 추론의 개념 구성 설명을 겨냥한다",
+   "label": "지지됨",
+   "evidence": "Blameless-blindness에 대한 concept-constitution account",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "그 설명은 개념 소유와 추론 사이의 필수적 연결을 전제하는데 윌리엄슨은 그런 연결이 없다고 본다",
+   "label": "지지됨",
+   "evidence": "필수적인 연결의 존재에 대한 의심",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "단어를 이해하는 일은 개념을 가지는 데 필요조건은 아니지만 충분조건",
+   "label": "지지됨",
+   "evidence": "필요조건은 아니지만, 충분조건이다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "논문은 2절 비정통, 3절 boche, 4절 규정된 조건, 5절 조건화, 6절 고유 특성화, 7절 논리 개념을 차례로 검토",
+   "label": "지지됨",
+   "evidence": "section 5,6 and 7, Williamson examines",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "결론: 이해·개념 소유에 리트머스 시험지가 없고 특정 추론 형태로 추론하려는 의향도 필요조건이 아니다",
+   "label": "지지됨",
+   "evidence": "리트머스 테스트 같은 것은 없다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Understanding and Inference 35697cdd867e813fa622c8d02438aa86.md",
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Understanding and inference response 35697cdd867e8105adc9d3948867cf57.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

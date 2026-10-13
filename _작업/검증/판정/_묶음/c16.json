@@ -1,0 +1,281 @@
+{
+  "model": "sonnet",
+  "date": "2026-10-13",
+  "cards": [
+    {
+      "id": "41i7", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "험버스톤은 믿음을 거짓이면 믿지 않겠다는 배경 의도를 구성적 원칙으로 가진 태도로 읽고 내적 가치론", "label": "지지됨", "evidence": "거짓이라면 믿지 않는다라는 조건부 의도가 따라붙는 태도", "note": ""},
+        {"n": 1, "text": "내적 가치론은 믿음이 진리라는 가치를 그 자체로 지향한다는 점", "label": "지지됨", "evidence": "믿음이 그 자체로 ‘진리’라는 가치를 지향", "note": ""},
+        {"n": 2, "text": "p를 믿는 것은 상상·희망과 달리 p가 사실이어야 성공하는 내재적 기준을 가진 태도", "label": "지지됨", "evidence": "p가 사실이어야 믿음이 성공한다", "note": ""},
+        {"n": 3, "text": "내재적이란 그 기준이 태도 부여·소유에 구성적인 원칙임", "label": "지지됨", "evidence": "태도 수여 혹은 태도 소유에 있어서 구성적인 원칙", "note": ""},
+        {"n": 4, "text": "기준을 피하거나 부정하면 믿음이라는 태도를 가진다고 보기 어렵다", "label": "지지됨", "evidence": "회피하거나 부정하면 … 간주하기 어렵다", "note": ""},
+        {"n": 5, "text": "배경 의도는 Intend(-Bp / -p)로 쓰이고 태도가 세계에 조건화되어 부합 방향을 포착", "label": "지지됨", "evidence": "Intend(-Bp / -p) … 세계에 조건화", "note": ""},
+        {"n": 6, "text": "필기는 이를 성공의 기준과 구성적 원칙의 문제로 정리한다", "label": "지지됨", "evidence": "dof에 대한 설명이라는 것이 구성적 원칙", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2025-1/심리철학연습/Direction of fit 1b497cdd867e808082e2d410004488f0.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "41i9", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "스미스에 따르면 욕구는 조건 C에서 F하려는 성향이며 이 모형이 명제 내용을 갖는 이유를 설명", "label": "지지됨", "evidence": "욕구란 ”C에서 F하려는 성향“", "note": ""},
+        {"n": 1, "text": "믿음은 세계에 맞추려 하고 욕구는 세계를 맞추려 한다", "label": "지지됨", "evidence": "믿음은 세계에 맞추려고 하고, 욕구는 세계‘를’ 맞추려고", "note": ""},
+        {"n": 2, "text": "욕구는 특정한 기능적 역할을 가진 것, 조건 C에서 F하려는 성향", "label": "지지됨", "evidence": "특정한 기능적 역할을 가지고 있는", "note": ""},
+        {"n": 3, "text": "욕구가 원인이라는 것은 흄적 테제의 내용이 아니다", "label": "지지됨", "evidence": "욕구가 원인이다 라는게 휴미안 띠시스가 아님", "note": ""},
+        {"n": 4, "text": "장점은 욕구의 명제 내용을 설명, 내용은 기능적 역할에 의해 결정될 뿐", "label": "지지됨", "evidence": "기능적 역할에 의해 결정될 뿐이다", "note": ""},
+        {"n": 5, "text": "F하려는 욕구는 어떤 조건에서 F가 일단 바람직하다고(F할 이유가 있다고) 믿으려는 성향이기도 하다", "label": "지지됨", "evidence": "a disposition to believe … prima facie desirable", "note": ""},
+        {"n": 6, "text": "믿음과 욕구의 차이는 not-p 지각에 대한 반사실적 의존성 차이로 환원되고 반사실 조건문이 주체에 대해 참", "label": "지지됨", "evidence": "comes down to a difference between the counterfactual dependence", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2025-1/심리철학연습/Humean theory of Motivation - Smith cb697e4525a84490ba7bdc940ff681bc.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "41i9a", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "스미스에 따르면 욕구의 현상적 모델은 틀렸으므로 흄적 모형은 욕구자가 자기 욕구를 반드시 안다고 요구하지 않는다", "label": "지지됨", "evidence": "모를 수 없기를 요구하지 않는다", "note": ""},
+        {"n": 1, "text": "흄이 욕구를 이해하는 한 방식은 욕구를 감각·고통과 같은 질적인 것으로 보는 강한 현상적 모델", "label": "지지됨", "evidence": "강한 현상적 욕구 모델", "note": ""},
+        {"n": 2, "text": "이 모델은 틀렸다: 고통처럼 투명해야 하나 욕구는 그렇지 않을 수 있고, 욕구는 명제 태도", "label": "지지됨", "evidence": "욕구는 그렇지 않을 수 있다 … 명제 태도다", "note": ""},
+        {"n": 3, "text": "교훈은 욕구에 대한 실패 가능주의: 자신의 욕구를 모를 수 있다", "label": "지지됨", "evidence": "자신이 가진 욕구에 대해 모를 수 있다", "note": ""},
+        {"n": 4, "text": "자동적으로 욕구함을 아는 것은 욕구가 강한 의미에서 현상적일 때만 가능하며 흄적 모형은 이를 지지하지 않는다", "label": "지지됨", "evidence": "강한 의미에서 ‘현상적’일 때만 가능", "note": ""},
+        {"n": 5, "text": "현상적 모델 일체를 거부해야 하는 것은 명제적 내용을 설명하지 못하기 때문", "label": "지지됨", "evidence": "명제적 내용을 가지고 있다는 것을 현상적 모델이 설명할 수 없기", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2025-1/심리철학연습/Humean theory of Motivation - Smith cb697e4525a84490ba7bdc940ff681bc.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "41i9b", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "흄적 추론은 동기 이유=목적, 목적=욕구하는 상태라는 세 단계", "label": "지지됨", "evidence": "Humean reasoning (1)(2)(3)", "note": ""},
+        {"n": 1, "text": "동기 이유를 가짐은 목적을 가짐", "label": "지지됨", "evidence": "M-reason을 가진다는 것은 목적을 가진다는 것", "note": ""},
+        {"n": 2, "text": "목적을 가짐은 부합 방향이 마음에서 세계로 향하는 상태에 있음", "label": "지지됨", "evidence": "direction of fit이 마음에서 세계로 향하는 상태", "note": ""},
+        {"n": 3, "text": "그런 부합 방향의 상태란 바로 욕구하는 것", "label": "지지됨", "evidence": "그런 fit direction을 가진 상태란 바로 욕구하는 것", "note": ""},
+        {"n": 4, "text": "흄주의자는 어떤 인지 상태가 어떤 비인지 상태에 있을 때에만 가능하다고 인정할 수 있다", "label": "지지됨", "evidence": "Humean may admit that there are cognitive states", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2025-1/심리철학연습/Humean theory of Motivation - Smith cb697e4525a84490ba7bdc940ff681bc.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "41i14", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "쉬나바부는 인지주의·내재주의·흄적 동기 이론이 함께 참일 수 없다는 스미스의 퍼즐에서 인지주의와 흄적 동기 이론을 택한다", "label": "지지됨", "evidence": "쉬나바부의 선택 인지주의 + HTM", "note": ""},
+        {"n": 1, "text": "퍼즐은 인지주의(도덕 판단은 믿음), 내재주의(그 자체로 동기부여적 힘)로 이루어진다", "label": "지지됨", "evidence": "도덕적 판단은 믿음이다 / 동기부여적 힘을 생산", "note": ""},
+        {"n": 2, "text": "흄적 동기 이론은 믿음만으로는 행위가 동기지어지지 않는다고 한다", "label": "지지됨", "evidence": "moral belief alone could never motivate us", "note": "필기의 HTM 항목은 '믿음은 그 자체로 행ㅇ'에서 잘려 있으나 인용문이 뒷받침함."},
+        {"n": 3, "text": "인지주의는 도덕 판단이 참·거짓일 수 있고 도덕적 논증이 가능함을 설명", "label": "지지됨", "evidence": "참이거나 거짓일 수 있음을 설명한다", "note": ""},
+        {"n": 4, "text": "내재주의는 잘못이라는 판단이 왜 하지 않을 동기를 일으키는지 설명", "label": "지지됨", "evidence": "하지 않겠다는 동기를 유발하는지 설명", "note": ""},
+        {"n": 5, "text": "세 명제는 동시에 참일 수 없고, 모두 참이면 우리는 개이다", "label": "지지됨", "evidence": "we’re the dogs", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2025-1/심리철학연습/쉬나바부 1bb97cdd867e809084acea87a47cc9ca.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "41i14a", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "쉬나바부는 스미스가 믿음이 추론으로 새 욕구를 낳는 것을 허용해 흄의 관점을 메타윤리적으로 흥미롭지 않게 약화시켰다고 비판", "label": "지지됨", "evidence": "흄의 관점을 메타-윤리적으로 흥미롭게 만드는데 실패", "note": ""},
+        {"n": 1, "text": "스미스는 DBTA만 쓰고 DBRA는 쓰지 않는다", "label": "지지됨", "evidence": "스미스는 DBTA만 쓰고, DBRA는 쓰지 않는다", "note": ""},
+        {"n": 2, "text": "도덕 판단은 믿음이면서 추론으로 새 욕구를 만들어 동기부여적 힘을 가진다", "label": "지지됨", "evidence": "도덕적 판단은 믿음이다. 하지만 동시에 동기 부여적 힘", "note": ""},
+        {"n": 3, "text": "모든 동기가 욕구-믿음 쌍에서 비롯한다는 견해는 새 욕구가 추론의 산물이므로 무너지지 않는다", "label": "지지됨", "evidence": "Humean view는 여기서 무너지지 않는다", "note": ""},
+        {"n": 4, "text": "합리적이라 믿어 추론으로 새 욕구를 만들 수 있다는 것은 반흄적 테제의 수용", "label": "지지됨", "evidence": "anit-humean thesis를 받아들이게 된다", "note": ""},
+        {"n": 5, "text": "약한 흄적 견해는 진정한 트릴레마를 낳기에 부족하다", "label": "지지됨", "evidence": "진정한 트릴레마를 만들어 내기에는 부족", "note": ""},
+        {"n": 6, "text": "필기는 이성이 정념의 노예라는 흄의 말을 인용하고 스미스를 배신자라 부른다", "label": "지지됨", "evidence": "스미스는 배신자다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2025-1/심리철학연습/쉬나바부 1bb97cdd867e809084acea87a47cc9ca.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "41i16", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "쉬나바부는 욕구가 동기 부여, 쾌·불쾌, 주의 인도, 추론에 대한 내재적 불변성이라는 속성들을 가진다고 본다", "label": "지지됨", "evidence": "욕구의 다섯 속성", "note": ""},
+        {"n": 1, "text": "욕구는 만족 확률을 높이는 방법에 대한 믿음과 결합해 동기를 부여한다", "label": "지지됨", "evidence": "확률을 어떻게 올릴지에 대한 믿음과 결합하여 동기를 부여", "note": ""},
+        {"n": 2, "text": "욕구는 쾌와 불쾌를 일으키고 욕구 대상을 향한 집중을 인도한다", "label": "지지됨", "evidence": "쾌와 불쾌를 인과한다 / 집중을 인도한다", "note": ""},
+        {"n": 3, "text": "이 모든 효과는 욕구 대상과 연관된 생생한 재현이 있을 때 강화된다", "label": "지지됨", "evidence": "생생한 재현을 가지고 있을 때 강화된다", "note": ""},
+        {"n": 4, "text": "내재적 욕구는 추론으로 바뀌지 않는다", "label": "지지됨", "evidence": "내재적 욕구는 리즈닝을 통해서 바뀌지 않는다", "note": ""},
+        {"n": 5, "text": "동기는 욕구의 힘과 주관적 확률 상승의 곱에 비례하는 행위 성향", "label": "지지됨", "evidence": "욕구의 힘 x E의 주관적 확률의 상승", "note": ""},
+        {"n": 6, "text": "한 사람의 동기는 찬성 쌍의 힘에서 반대 쌍의 힘을 뺀 값", "label": "지지됨", "evidence": "pro … 힘 - anti … 힘", "note": ""},
+        {"n": 7, "text": "수량 관계는 왜 그렇게 행동하는지 설명하지만 계산하게 하지는 않는다", "label": "지지됨", "evidence": "나로 하여금 그것을 계산하게 하지는 않는다", "note": ""},
+        {"n": 8, "text": "스미스의 부합 방향 설명은 동기부여적 측면에 대한 비유적 설명, 진정한 자연종은 내재적 욕구뿐이라는 견해", "label": "지지됨", "evidence": "DOF 설명은 … 비유적 설명이다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2025-1/심리철학연습/쉬나바부 1bb97cdd867e809084acea87a47cc9ca.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "41i16a", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "쉬나바부의 쾌락적 측면은 확률을 높이는 믿음이나 생생한 재현과 결합해 쾌를 낳고 주의 측면은 대상에 집중하게 한다", "label": "지지됨", "evidence": "Hedonic aspect / Attentional aspect", "note": ""},
+        {"n": 1, "text": "E 욕구는 E의 주관적 확률을 높이는 믿음이나 생생한 상상적 재현과 결합해 쾌를 일으킨다", "label": "지지됨", "evidence": "생생한 상상적 재현과 결합하여 쾌를 유발", "note": ""},
+        {"n": 2, "text": "쾌는 욕구 강도와 확률 상승 또는 재현의 생생함에 비례, 확률 감소는 불쾌", "label": "지지됨", "evidence": "주관적 확률의 감소는 불쾌를 낳는다", "note": ""},
+        {"n": 3, "text": "욕구하는 것을 생각하면 쾌의 감각이, 얻지 못한다 생각하면 불쾌의 감각이 일어난다", "label": "지지됨", "evidence": "욕구하는 것에 대한 생각은 쾌의 감각을 낳는다", "note": ""},
+        {"n": 4, "text": "주의: E 욕구는 E와 연관된 대상에 집중하도록 성향 짓고 욕구 강도와 관련 강도에 따라 늘어난다", "label": "지지됨", "evidence": "욕구의 강도와 관련의 강도에 따라 증가", "note": ""},
+        {"n": 5, "text": "반흄주의자가 옳다면 선재 욕구 없는 행위나 실천적 추론 사례를 내놓을 수 있어야 한다", "label": "지지됨", "evidence": "they should be able to suggest cases", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2025-1/심리철학연습/쉬나바부 1bb97cdd867e809084acea87a47cc9ca.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "41j1a", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "보고시안은 천리안 사례에서 정당화가 인식적 비난 가능성과 양립 못 한다는 교훈을 끌어내 접근 내재주의의 동기를 얻는다", "label": "부분 지지", "evidence": "동기를 제공하는 것처럼 보인다", "note": "필기는 '동기를 제공하는 것처럼 보인다'로 한정하고, 뒤에서 내재주의로 가는 것은 강제되지 않는다고 적음. 카드는 단정."},
+        {"n": 1, "text": "노먼은 신빙성 있는 천리안 능력을 가졌으나 그 능력의 가능성·소유에 대한 증거가 없다", "label": "지지됨", "evidence": "지지할, 혹은 반대할 이유와 증거를 지니고 있지 않음", "note": ""},
+        {"n": 2, "text": "대통령이 뉴욕에 있다고 믿게 되고 이 믿음은 참이며 천리안의 산물", "label": "지지됨", "evidence": "대통령이 정말로 뉴욕에 있었고", "note": ""},
+        {"n": 3, "text": "직관적으로 노먼은 이 믿음에 정당화되어 있지 않다", "label": "지지됨", "evidence": "직관적으로 그렇지 않아 보임", "note": ""},
+        {"n": 4, "text": "보고시안은 그 까닭을 노먼이 인식적으로 무책임하기 때문이라고 읽는다", "label": "부분 지지", "evidence": "아마, 인식 주체가 … irresponsible하다면", "note": "필기는 '아마'로 한정하고 우리가 정당화를 인정하기 꺼리는 이유로 서술. 카드는 단정."},
+        {"n": 5, "text": "정당화는 최소한 인식적으로 비난받을 만한 상황을 배제해야 하고 신빙성만으로는 불가능", "label": "지지됨", "evidence": "신빙성만으로는 이것이 불가능", "note": ""},
+        {"n": 6, "text": "접근 내재주의: 성찰만으로 p에 대한 보장을 가졌음을 알 수 있는 위치에 있어야 한다", "label": "지지됨", "evidence": "성찰만으로 스스로 p라는 믿음에 대한 보장", "note": ""},
+        {"n": 7, "text": "진정한 정당화는 성찰적으로 투명한 정당화", "label": "지지됨", "evidence": "반성적으로 transparent한 정당화", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Boghossian Blind reasoning reading note 35697cdd867e81fb81a5fe477df929fd.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "41j4a", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "보고시안은 tonk와 boche가 의미-자격 연결의 반례임을 인정하고 참-보존성 요구만으로는 반례를 거르지 못한다고 본다", "label": "지지됨", "evidence": "참-보존만으로는 MEC의 문제를 다룰 수 없다", "note": ""},
+        {"n": 1, "text": "프라이어의 tonk는 어떤 A에서든 B를 추론하게 한다", "label": "지지됨", "evidence": "어떠한 A에서도 B를 추론하는 것에 자격부여될 수 없음", "note": ""},
+        {"n": 2, "text": "MEC에 따르면 tonk의 소유 조건이 그 추론을 자격 부여적으로 만든다", "label": "지지됨", "evidence": "MEC: 소유 조건 기반 추론적 전환은 자격부여적", "note": ""},
+        {"n": 3, "text": "boche도 모든 독일인이 잔인하다는 믿음에 자격을 주지 못한다", "label": "지지됨", "evidence": "모든 독일인들은 잔인하다는 믿음에 자격부여되지 않는다", "note": ""},
+        {"n": 4, "text": "자격이 나중에 무효화될 수 있다는 응답은 처음부터 자격이 없다는 점을 놓친다", "label": "지지됨", "evidence": "자격부여가 애초에 있기는 하냐는 것", "note": ""},
+        {"n": 5, "text": "피콕식 참-보존성 요구는 tonk는 거르지만 boche는 걸러지지 않는 듯하다", "label": "지지됨", "evidence": "tonk에 대해서는 맞는 것 같지만, boche에 대해서는 틀린 것 같다", "note": ""},
+        {"n": 6, "text": "aqua·flurg는 규칙이 참-보존적일 수 있는데도 도입만으로 선험적 자격이 생긴다고 말하기 어렵다", "label": "지지됨", "evidence": "선험적으로 자격부여되었다는 것은 믿기 어려움", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Boghossian Blind reasoning reading note 35697cdd867e81fb81a5fe477df929fd.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "41j4b", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "보고시안은 소유 조건이 이론의 참을 미리 닫는 비조건화 개념을 결함 있다고 보고 조건화된 개념을 수용 가능하다고 논한다", "label": "지지됨", "evidence": "조건화된 버전만이 인식적으로 수용 가능해 보임", "note": ""},
+        {"n": 1, "text": "aqua·flurg·비조건화 뉴트리노는 같은 문제를 가진다", "label": "지지됨", "evidence": "Flurg, aqua, neutrino+는 모두 같은 문제", "note": ""},
+        {"n": 2, "text": "소유 조건이 이론을 그대로 담아 그런 것이 정말 있는지 묻는 길이 닫힌다", "label": "지지됨", "evidence": "가정되는 존재에 대한 질문이 폐제되어 있음", "note": ""},
+        {"n": 3, "text": "건전한 과학 용어는 열려 있고, 뉴트리노 이론의 참을 조건화한 조건문을 소유 조건으로 삼는다", "label": "지지됨", "evidence": "neurtrino 이론의 참을 조건화", "note": ""},
+        {"n": 4, "text": "옹호자와 반대자가 같은 개념으로 뉴트리노가 있는지 논쟁할 수 있다", "label": "지지됨", "evidence": "동의하지 않을 수 있는 가능성을 열어두어야", "note": ""},
+        {"n": 5, "text": "대담한 주장: 둘 다 가능하면 조건화된 쪽을 써야 한다", "label": "지지됨", "evidence": "조건화된 버전이 이용되어야만 한다", "note": ""},
+        {"n": 6, "text": "소박한 주장: 일부 개념은 비조건화 버전만 가능하며 그 사례가 기본 논리 상항", "label": "지지됨", "evidence": "어떤 개념들의 경우에만, 조건화되지 않은 버전", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Boghossian Blind reasoning reading note 35697cdd867e81fb81a5fe477df929fd.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "41k", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "윌리엄슨은 특정 추론을 수행하려는 의향이 개념 소유의 필요조건이 아니라고 논증해 보고시안의 개념 구성 설명을 비판한다", "label": "지지됨", "evidence": "추론하려고 하는 것은 필요 조건이 아니다", "note": ""},
+        {"n": 1, "text": "보고시안의 맹목적이되 비난받지 않는 추론의 개념 구성 설명을 겨냥한다", "label": "지지됨", "evidence": "Blameless-blindness에 대한 concept-constitution account", "note": ""},
+        {"n": 2, "text": "그 설명은 개념 소유와 추론 사이의 필수적 연결을 전제하는데 윌리엄슨은 그런 연결이 없다고 본다", "label": "지지됨", "evidence": "필수적인 연결의 존재에 대한 의심", "note": ""},
+        {"n": 3, "text": "단어를 이해하는 일은 개념을 가지는 데 필요조건은 아니지만 충분조건", "label": "지지됨", "evidence": "필요조건은 아니지만, 충분조건이다", "note": ""},
+        {"n": 4, "text": "논문은 2절 비정통, 3절 boche, 4절 규정된 조건, 5절 조건화, 6절 고유 특성화, 7절 논리 개념을 차례로 검토", "label": "지지됨", "evidence": "section 5,6 and 7, Williamson examines", "note": ""},
+        {"n": 5, "text": "결론: 이해·개념 소유에 리트머스 시험지가 없고 특정 추론 형태로 추론하려는 의향도 필요조건이 아니다", "label": "지지됨", "evidence": "리트머스 테스트 같은 것은 없다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Understanding and Inference 35697cdd867e813fa622c8d02438aa86.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Understanding and inference response 35697cdd867e8105adc9d3948867cf57.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "41k1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "윌리엄슨은 맥기 사례를 일반화해 어떤 추론 사례를 이론적 이유로 거부하는 전문가도 그 개념을 가진다고 논증한다", "label": "지지됨", "evidence": "C와 P에 대한 전문가는 ‘C’를 완벽히 이해한다", "note": ""},
+        {"n": 1, "text": "맥기는 이론적 이유로 전건 긍정 일부를 받아들이지 않지만 if를 온전히 이해한다", "label": "지지됨", "evidence": "rejects some instances of Modus Ponens", "note": ""},
+        {"n": 2, "text": "어떤 개별 전건 긍정 추론도 이론적 주장에 근거해 거부될 수 있어 일부 사례만 선행 조건이라 할 수 없다", "label": "지지됨", "evidence": "어떠한 개별적 전건 긍정 추론도 … 거부될 수 있음", "note": ""},
+        {"n": 3, "text": "대부분의 사례를 수행하려는 의향이 선행 조건이라 해도 사정은 같다", "label": "지지됨", "evidence": "대부분의 경우 … 받아들여도 그렇다", "note": ""},
+        {"n": 4, "text": "일반화: 전문가는 복잡한 이론적 이유나 실수로 Inst를 거부하면서도 C를 이해하고 적절히 쓴다", "label": "지지됨", "evidence": "대화에서 C를 적절히 사용하고", "note": ""},
+        {"n": 5, "text": "그러므로 Inst에 따라 추론하는 일은 C를 가지기 위한 선행 조건이 아니며, 논증은 P·Inst의 타당성과 독립적", "label": "지지됨", "evidence": "P의 타당성과 … 독립적이다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Understanding and Inference 35697cdd867e813fa622c8d02438aa86.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Understanding and inference response 35697cdd867e8105adc9d3948867cf57.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "41k2a", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "윌리엄슨에 따르면 경멸어와 중립어의 차이는 관습적 함축에 있고 단어를 이해하면서도 그 규칙에 따른 추론을 거부할 수 있다", "label": "지지됨", "evidence": "conventional implicature에서 다르다", "note": ""},
+        {"n": 1, "text": "프레게식 설명에서 boche와 German은 지시체와 진리 조건이 같고 어조만 다르다", "label": "지지됨", "evidence": "같은 지시체를 가졌지만, 다른 tone", "note": ""},
+        {"n": 2, "text": "윌리엄슨은 이 차이를 그라이스의 관습적 함축으로 설명한다", "label": "지지됨", "evidence": "그라이스 … conventional implicature", "note": ""},
+        {"n": 3, "text": "레싱이 독일인임을 아는 사람도 ‘레싱은 boche다’ 말하기를 거부할 수 있고 거짓 함축은 독일인은 잔인한 경향이 있다", "label": "지지됨", "evidence": "독일인들은 잔인한 경향이 있다", "note": ""},
+        {"n": 4, "text": "관습적 함축은 분리 가능하며 쉽게 취소되지 않고 논리적 귀결보다 스트로슨식 선제에 가깝다", "label": "지지됨", "evidence": "Detachable, 그러나 쉽게 취소되지 않는다", "note": ""},
+        {"n": 5, "text": "단어를 온전히 이해하려면 그 단어의 관습적 함축을 암묵적으로라도 알아야 한다", "label": "지지됨", "evidence": "however inexplicit, of the conventional implicatures", "note": ""},
+        {"n": 6, "text": "함축은 쓸 때 개입하므로 이해하며 쓰기를 거부하는 사람은 규칙의 참-보존성을 언급만으로 알 수 있다", "label": "지지됨", "evidence": "언급만으로 충분함", "note": ""},
+        {"n": 7, "text": "boche는 MEC의 반례가 못 된다", "label": "지지됨", "evidence": "MEC에 대한 경멸적 표현 반례를 제거함", "note": ""},
+        {"n": 8, "text": "구성적인 추론적 전환이 없으므로 MEC는 사소하게 참이 되어 추론적 자격을 설명하지 못한다", "label": "부분 지지", "evidence": "MEC가 사소하게 참일 수도 있음", "note": "Understanding 필기는 '사소하게 참일 수도 있음 … 설명하지 못할수도'로 한정. 카드는 단정. 응답 필기는 'vacuously true'로 단정하나 논문 필기의 한정이 빠짐."}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Understanding and Inference 35697cdd867e813fa622c8d02438aa86.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Understanding and inference response 35697cdd867e8105adc9d3948867cf57.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "41k6", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "윌리엄슨은 연언 같은 논리 상항에도 조건화된 규칙이 가능하며 부정을 조건화하면 약한 체계가 나올 뿐이라고 본다", "label": "지지됨", "evidence": "weaker system … does not mean it is impossible", "note": ""},
+        {"n": 1, "text": "보고시안은 조건사·양화사 없이는 조건화할 수 없으므로 기본 논리 상항은 조건화되지 않았지만 결함이 없다고 한다", "label": "지지됨", "evidence": "비조건화되어 있지만 결함 없다고", "note": ""},
+        {"n": 2, "text": "윌리엄슨은 그 추론에 빈틈이 있다고 본다: 규칙에 나타난다고 해서 조건화 전에 이미 가져야 하는 것은 아니다", "label": "지지됨", "evidence": "보고시안의 추론은 무언가 비어있다", "note": ""},
+        {"n": 3, "text": "연언의 조건화된 규칙은 다른 문장 C가 원하는 추론적 힘을 가지면 A&B도 가진다고 말한다", "label": "지지됨", "evidence": "A&B 또한 바라던 추론적 힘을 지니고 있다", "note": ""},
+        {"n": 4, "text": "이 규칙만으로는 p, q에서 p&q를 도출 못 하는 등 비일반적 추론이 나오나 조건화 자체는 가능", "label": "지지됨", "evidence": "p&q를 p와 q에서 도출할 수 없다", "note": ""},
+        {"n": 5, "text": "부정을 조건화하면 직관주의에서 증명 안 되는 고전적 추론을 잃는다 (예: (p→q)∨(q→p))", "label": "지지됨", "evidence": "직관주의적으로 타당하지 않다", "note": ""},
+        {"n": 6, "text": "약한 체계가 나온다는 사실이 불가능성을 보이지 않으므로 비조건화 버전뿐이라는 주장은 거짓", "label": "지지됨", "evidence": "claim … is false", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Understanding and Inference 35697cdd867e813fa622c8d02438aa86.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Understanding and inference response 35697cdd867e8105adc9d3948867cf57.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "41l", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "워스닙은 구조적 합리성이 실질적 합리성과 구별되는 독자적 요구인지를 보장 가설 중심으로 제거주의·환원주의를 검토", "label": "지지됨", "evidence": "구조적 합리성의 요구들이란 규범적으로 잉여적", "note": ""},
+        {"n": 1, "text": "보장 가설: 구조적으로 비합리적인 조합에는 어떤 태도가 실질적으로 비합리적임이 보장되어 있다", "label": "지지됨", "evidence": "실질적으로 비합리적인 것이 보장되어 있다", "note": ""},
+        {"n": 2, "text": "가설이 옳다면 구조적 합리성의 요구는 아무것도 더하지 않는 규범적 잉여", "label": "지지됨", "evidence": "실질적 합리성의 요구에 아무것도 추가하지 않기", "note": ""},
+        {"n": 3, "text": "제거주의는 구조적 합리성이 진정한 합리성이 아니라고 본다", "label": "지지됨", "evidence": "진정한 종류의 합리성이 아니며", "note": ""},
+        {"n": 4, "text": "환원주의는 구조적 합리성이 있되 실질적 합리성의 용어로 환원 분석한다고 본다", "label": "지지됨", "evidence": "환원적 분석을 실질적 합리성의 용어로", "note": ""},
+        {"n": 5, "text": "워스닙의 전략: 보장 가설을 가정하고도 두 입장이 결정적 반론을 맞음을 보인 뒤 보장 가설 자체를 반박", "label": "지지됨", "evidence": "보장 가설이 참이라고 가정하고", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/분석철학/FTT ch3 Eliminations and Reductions 8df3bd80ed584be29bf6ff26eff162e8.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "41l1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "환원주의는 구조적 비합리성을 실질적 비합리성이 보장되어 있음과 동일시하므로 보장 가설보다 세 방식으로 강하다", "label": "지지됨", "evidence": "보장 가설보다 세 가지 방식으로 더 강하다", "note": ""},
+        {"n": 1, "text": "환원주의: 집합이 구조적으로 비합리적임은 원소 하나가 실질적으로 비합리적임이 보장된다는 것일 뿐", "label": "지지됨", "evidence": "그저 … 보장되어 있다는 것이다", "note": ""},
+        {"n": 2, "text": "세 방식: 구조적 합리성이 있다는 주장에 개입, ‘일 뿐’으로 내포 일치, 역방향 조건문 수용", "label": "지지됨", "evidence": "내포적 일치, 그저 외연적 일치가 아니라", "note": ""},
+        {"n": 3, "text": "역방향 조건문: 원소 하나가 실질적으로 비합리적이면 그 조합은 구조적으로 비합리적", "label": "지지됨", "evidence": "구조적으로 비합리적이다 (역인 조건문)", "note": ""},
+        {"n": 4, "text": "보장의 존재는 실질적 비합리성보다 강한 속성: 비합리적이어도 보장되지 않는 경우가 많다", "label": "지지됨", "evidence": "보장되어 있지 않은 경우가 많다", "note": ""},
+        {"n": 5, "text": "환원주의는 증거 이유에 응답 못 한 것과 증거 이유로 도저히 지지되지 않는 태도의 구별을 보존, 제거주의는 말할 수 없다", "label": "지지됨", "evidence": "제거주의는 이런 것에 대해 말할 수가 없음", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/분석철학/FTT ch3 Eliminations and Reductions 8df3bd80ed584be29bf6ff26eff162e8.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "41l5b", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "워스닙은 안락의자 심리학 반론에 태도의 본성은 철학적 물음이라고 답하고 모순주의자도 비정합적이라고 본다", "label": "지지됨", "evidence": "그들은 분명히 비정합적이다", "note": ""},
+        {"n": 1, "text": "첫째 반론: IT는 선험적 안락의자 심리학이다", "label": "지지됨", "evidence": "이건 선험적 안락의자 심리학 아니냐?", "note": ""},
+        {"n": 2, "text": "답: 믿음·의도가 무엇인지는 철학적 질문, 조건의 일부가 성향이면 모든 행위자에게 있다는 말은 과도한 일반화가 아니다", "label": "지지됨", "evidence": "과도한 일반화가 아닐 것이다", "note": ""},
+        {"n": 3, "text": "둘째 반론: 모순주의자는 투명성 실패 없이 모순된 믿음을 가지면서 수정하려 하지 않아 보인다", "label": "지지됨", "evidence": "수정 안하려고 하잖슴", "note": ""},
+        {"n": 4, "text": "모순주의자 자신은 비정합적이지 않다고 여기므로 IT를 두고 논쟁할 이유가 없다", "label": "지지됨", "evidence": "IT에 대해서 논쟁할 필요가 없다", "note": ""},
+        {"n": 5, "text": "사례의 판정은 모순주의의 정합성 직관과 온전한 투명성 아래 수정 의지 없이 지니는지에 대한 직관에 달렸다", "label": "지지됨", "evidence": "정합적인 태도 조합인지에 대한 우리의 직관", "note": "필기는 두 직관을 나란히 적고 끝남. 카드가 이를 판정 기준으로 이은 것."}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/분석철학/Unifying the Instances of Incoherence - FTT ch 5 eebdd67092e741878c0e29ba5282a0b3.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "41l5c", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "워스닙은 실천적 아크라시아가 덜 수수께끼 같은 까닭을 의도하려는 구성적 성향이 약해 쉽게 패배하기 때문이라고 설명", "label": "지지됨", "evidence": "구성적 성향이 조금 더 약하다", "note": ""},
+        {"n": 1, "text": "아크라시아는 비정합성 사례로 받아들여지지만 다른 사례보다 덜 수수께끼 같다", "label": "지지됨", "evidence": "다른 비정합성 케이스보다 덜 퍼즐링", "note": ""},
+        {"n": 2, "text": "아크라시아가 비정합적이지 않다는 길은 택하기 어렵다", "label": "지지됨", "evidence": "이 옵션은 채택하기 어렵다", "note": ""},
+        {"n": 3, "text": "답: 모든 것을 고려해 φ해야 한다고 믿는 상태의 본성에 φ를 의도하려는 성향이 들어 있다 (판단 내재주의와 닮음)", "label": "지지됨", "evidence": "판단 내재주의와 비슷함", "note": ""},
+        {"n": 4, "text": "비정합적 아크라시아는 모든 것을 고려한 당위의 믿음을 포함하는 경우, 도덕적 당위만 믿고 의도 않는 것은 도덕을 중시하지 않는 것", "label": "지지됨", "evidence": "도덕성을 중요하게 여기지 않는 것 뿐", "note": ""},
+        {"n": 5, "text": "반례는 의도할 성향이 전혀 없는 행위자인데 그런 행위자는 그 당위를 믿는 것으로 간주되기 어렵다", "label": "지지됨", "evidence": "간주될 수 없기 때문이다", "note": ""},
+        {"n": 6, "text": "비정합성에 정도를 두면 층위 간 비정합성은 실천적 아크라시아보다 더 비정합적", "label": "지지됨", "evidence": "층위-간 비정합성은 … 더 비정합적이다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/분석철학/Unifying the Instances of Incoherence - FTT ch 5 eebdd67092e741878c0e29ba5282a0b3.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "41l6", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "워스닙에 따르면 구조적 합리성의 규범은 지배하는 상태에 순응 구성적이지만 실질적 증거 규범은 그렇지 않다", "label": "지지됨", "evidence": "구조적 합리성의 규범들은 구성적이지만, 실질적 합리성의 규범들은 아니다", "note": ""},
+        {"n": 1, "text": "종속 구성주의는 K를 가짐이 N에 규범적으로 종속됨에 구성적, 순응 구성주의는 N에 따라 규제하려는 성향이 구성적", "label": "지지됨", "evidence": "종속 구성주의 / 순응 구성주의", "note": ""},
+        {"n": 2, "text": "종속 구성주의는 규범이 필연적으로 적용된다는 것 이상을 말하지 못해 약한 주장이 된다", "label": "지지됨", "evidence": "약한 주장으로 만든다", "note": ""},
+        {"n": 3, "text": "워스닙은 순응 구성주의를 택한다", "label": "지지됨", "evidence": "내가 옹호하고 있는 관점은 … 성향지어진다", "note": ""},
+        {"n": 4, "text": "증거가 p를 지지하는지는 내가 그렇게 믿는지와 독립적이어서 증거 없이도 수정 성향 없이 p를 믿을 수 있다", "label": "지지됨", "evidence": "수정할 성향을 가지지 않은채로 무언가를 믿을 수 있다", "note": ""},
+        {"n": 5, "text": "증거가 좋지 않다는 내 판단이 믿음에 위협이므로, 증거 규범의 구성성 사례는 실은 층위 간 정합성이라는 구조적 요구의 사례", "label": "지지됨", "evidence": "층위-간 정합성의 구조적 요구가 믿음에 구성적", "note": ""},
+        {"n": 6, "text": "완전한 투명성은 심적 상태에 대한 지식이지 규범에 대한 지식이 아니므로 성향은 위반을 깨닫는 일과 무관하게 성립", "label": "지지됨", "evidence": "규범들에 대한 지식으로 구성되어 있지 않다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/분석철학/Unifying the Instances of Incoherence - FTT ch 5 eebdd67092e741878c0e29ba5282a0b3.md"],
+      "sources_missing": []
+    }
+  ]
+}

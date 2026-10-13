@@ -1,0 +1,77 @@
+{
+ "id": "41k2a",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "윌리엄슨에 따르면 경멸어와 중립어의 차이는 관습적 함축에 있고 단어를 이해하면서도 그 규칙에 따른 추론을 거부할 수 있다",
+   "label": "지지됨",
+   "evidence": "conventional implicature에서 다르다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "프레게식 설명에서 boche와 German은 지시체와 진리 조건이 같고 어조만 다르다",
+   "label": "지지됨",
+   "evidence": "같은 지시체를 가졌지만, 다른 tone",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "윌리엄슨은 이 차이를 그라이스의 관습적 함축으로 설명한다",
+   "label": "지지됨",
+   "evidence": "그라이스 … conventional implicature",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "레싱이 독일인임을 아는 사람도 ‘레싱은 boche다’ 말하기를 거부할 수 있고 거짓 함축은 독일인은 잔인한 경향이 있다",
+   "label": "지지됨",
+   "evidence": "독일인들은 잔인한 경향이 있다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "관습적 함축은 분리 가능하며 쉽게 취소되지 않고 논리적 귀결보다 스트로슨식 선제에 가깝다",
+   "label": "지지됨",
+   "evidence": "Detachable, 그러나 쉽게 취소되지 않는다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "단어를 온전히 이해하려면 그 단어의 관습적 함축을 암묵적으로라도 알아야 한다",
+   "label": "지지됨",
+   "evidence": "however inexplicit, of the conventional implicatures",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "함축은 쓸 때 개입하므로 이해하며 쓰기를 거부하는 사람은 규칙의 참-보존성을 언급만으로 알 수 있다",
+   "label": "지지됨",
+   "evidence": "언급만으로 충분함",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "boche는 MEC의 반례가 못 된다",
+   "label": "지지됨",
+   "evidence": "MEC에 대한 경멸적 표현 반례를 제거함",
+   "note": ""
+  },
+  {
+   "n": 8,
+   "text": "구성적인 추론적 전환이 없으므로 MEC는 사소하게 참이 되어 추론적 자격을 설명하지 못한다",
+   "label": "부분 지지",
+   "evidence": "MEC가 사소하게 참일 수도 있음",
+   "note": "Understanding 필기는 '사소하게 참일 수도 있음 … 설명하지 못할수도'로 한정. 카드는 단정. 응답 필기는 'vacuously true'로 단정하나 논문 필기의 한정이 빠짐."
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Understanding and Inference 35697cdd867e813fa622c8d02438aa86.md",
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Understanding and inference response 35697cdd867e8105adc9d3948867cf57.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

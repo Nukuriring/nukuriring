@@ -1,0 +1,62 @@
+{
+ "id": "41i9",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "스미스에 따르면 욕구는 조건 C에서 F하려는 성향이며 이 모형이 명제 내용을 갖는 이유를 설명",
+   "label": "지지됨",
+   "evidence": "욕구란 ”C에서 F하려는 성향“",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "믿음은 세계에 맞추려 하고 욕구는 세계를 맞추려 한다",
+   "label": "지지됨",
+   "evidence": "믿음은 세계에 맞추려고 하고, 욕구는 세계‘를’ 맞추려고",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "욕구는 특정한 기능적 역할을 가진 것, 조건 C에서 F하려는 성향",
+   "label": "지지됨",
+   "evidence": "특정한 기능적 역할을 가지고 있는",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "욕구가 원인이라는 것은 흄적 테제의 내용이 아니다",
+   "label": "지지됨",
+   "evidence": "욕구가 원인이다 라는게 휴미안 띠시스가 아님",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "장점은 욕구의 명제 내용을 설명, 내용은 기능적 역할에 의해 결정될 뿐",
+   "label": "지지됨",
+   "evidence": "기능적 역할에 의해 결정될 뿐이다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "F하려는 욕구는 어떤 조건에서 F가 일단 바람직하다고(F할 이유가 있다고) 믿으려는 성향이기도 하다",
+   "label": "지지됨",
+   "evidence": "a disposition to believe … prima facie desirable",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "믿음과 욕구의 차이는 not-p 지각에 대한 반사실적 의존성 차이로 환원되고 반사실 조건문이 주체에 대해 참",
+   "label": "지지됨",
+   "evidence": "comes down to a difference between the counterfactual dependence",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2025-1/심리철학연습/Humean theory of Motivation - Smith cb697e4525a84490ba7bdc940ff681bc.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

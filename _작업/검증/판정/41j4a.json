@@ -1,0 +1,62 @@
+{
+ "id": "41j4a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "보고시안은 tonk와 boche가 의미-자격 연결의 반례임을 인정하고 참-보존성 요구만으로는 반례를 거르지 못한다고 본다",
+   "label": "지지됨",
+   "evidence": "참-보존만으로는 MEC의 문제를 다룰 수 없다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "프라이어의 tonk는 어떤 A에서든 B를 추론하게 한다",
+   "label": "지지됨",
+   "evidence": "어떠한 A에서도 B를 추론하는 것에 자격부여될 수 없음",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "MEC에 따르면 tonk의 소유 조건이 그 추론을 자격 부여적으로 만든다",
+   "label": "지지됨",
+   "evidence": "MEC: 소유 조건 기반 추론적 전환은 자격부여적",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "boche도 모든 독일인이 잔인하다는 믿음에 자격을 주지 못한다",
+   "label": "지지됨",
+   "evidence": "모든 독일인들은 잔인하다는 믿음에 자격부여되지 않는다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "자격이 나중에 무효화될 수 있다는 응답은 처음부터 자격이 없다는 점을 놓친다",
+   "label": "지지됨",
+   "evidence": "자격부여가 애초에 있기는 하냐는 것",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "피콕식 참-보존성 요구는 tonk는 거르지만 boche는 걸러지지 않는 듯하다",
+   "label": "지지됨",
+   "evidence": "tonk에 대해서는 맞는 것 같지만, boche에 대해서는 틀린 것 같다",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "aqua·flurg는 규칙이 참-보존적일 수 있는데도 도입만으로 선험적 자격이 생긴다고 말하기 어렵다",
+   "label": "지지됨",
+   "evidence": "선험적으로 자격부여되었다는 것은 믿기 어려움",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Boghossian Blind reasoning reading note 35697cdd867e81fb81a5fe477df929fd.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

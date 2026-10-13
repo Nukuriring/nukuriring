@@ -1,0 +1,56 @@
+{
+ "id": "41k1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "윌리엄슨은 맥기 사례를 일반화해 어떤 추론 사례를 이론적 이유로 거부하는 전문가도 그 개념을 가진다고 논증한다",
+   "label": "지지됨",
+   "evidence": "C와 P에 대한 전문가는 ‘C’를 완벽히 이해한다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "맥기는 이론적 이유로 전건 긍정 일부를 받아들이지 않지만 if를 온전히 이해한다",
+   "label": "지지됨",
+   "evidence": "rejects some instances of Modus Ponens",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "어떤 개별 전건 긍정 추론도 이론적 주장에 근거해 거부될 수 있어 일부 사례만 선행 조건이라 할 수 없다",
+   "label": "지지됨",
+   "evidence": "어떠한 개별적 전건 긍정 추론도 … 거부될 수 있음",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "대부분의 사례를 수행하려는 의향이 선행 조건이라 해도 사정은 같다",
+   "label": "지지됨",
+   "evidence": "대부분의 경우 … 받아들여도 그렇다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "일반화: 전문가는 복잡한 이론적 이유나 실수로 Inst를 거부하면서도 C를 이해하고 적절히 쓴다",
+   "label": "지지됨",
+   "evidence": "대화에서 C를 적절히 사용하고",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "그러므로 Inst에 따라 추론하는 일은 C를 가지기 위한 선행 조건이 아니며, 논증은 P·Inst의 타당성과 독립적",
+   "label": "지지됨",
+   "evidence": "P의 타당성과 … 독립적이다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Understanding and Inference 35697cdd867e813fa622c8d02438aa86.md",
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Understanding and inference response 35697cdd867e8105adc9d3948867cf57.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,48 @@
+{
+ "id": "41i9b",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "흄적 추론은 동기 이유=목적, 목적=욕구하는 상태라는 세 단계",
+   "label": "지지됨",
+   "evidence": "Humean reasoning (1)(2)(3)",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "동기 이유를 가짐은 목적을 가짐",
+   "label": "지지됨",
+   "evidence": "M-reason을 가진다는 것은 목적을 가진다는 것",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "목적을 가짐은 부합 방향이 마음에서 세계로 향하는 상태에 있음",
+   "label": "지지됨",
+   "evidence": "direction of fit이 마음에서 세계로 향하는 상태",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "그런 부합 방향의 상태란 바로 욕구하는 것",
+   "label": "지지됨",
+   "evidence": "그런 fit direction을 가진 상태란 바로 욕구하는 것",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "흄주의자는 어떤 인지 상태가 어떤 비인지 상태에 있을 때에만 가능하다고 인정할 수 있다",
+   "label": "지지됨",
+   "evidence": "Humean may admit that there are cognitive states",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2025-1/심리철학연습/Humean theory of Motivation - Smith cb697e4525a84490ba7bdc940ff681bc.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

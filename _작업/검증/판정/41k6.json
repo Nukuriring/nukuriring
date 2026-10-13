@@ -1,0 +1,63 @@
+{
+ "id": "41k6",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "윌리엄슨은 연언 같은 논리 상항에도 조건화된 규칙이 가능하며 부정을 조건화하면 약한 체계가 나올 뿐이라고 본다",
+   "label": "지지됨",
+   "evidence": "weaker system … does not mean it is impossible",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "보고시안은 조건사·양화사 없이는 조건화할 수 없으므로 기본 논리 상항은 조건화되지 않았지만 결함이 없다고 한다",
+   "label": "지지됨",
+   "evidence": "비조건화되어 있지만 결함 없다고",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "윌리엄슨은 그 추론에 빈틈이 있다고 본다: 규칙에 나타난다고 해서 조건화 전에 이미 가져야 하는 것은 아니다",
+   "label": "지지됨",
+   "evidence": "보고시안의 추론은 무언가 비어있다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "연언의 조건화된 규칙은 다른 문장 C가 원하는 추론적 힘을 가지면 A&B도 가진다고 말한다",
+   "label": "지지됨",
+   "evidence": "A&B 또한 바라던 추론적 힘을 지니고 있다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "이 규칙만으로는 p, q에서 p&q를 도출 못 하는 등 비일반적 추론이 나오나 조건화 자체는 가능",
+   "label": "지지됨",
+   "evidence": "p&q를 p와 q에서 도출할 수 없다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "부정을 조건화하면 직관주의에서 증명 안 되는 고전적 추론을 잃는다 (예: (p→q)∨(q→p))",
+   "label": "지지됨",
+   "evidence": "직관주의적으로 타당하지 않다",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "약한 체계가 나온다는 사실이 불가능성을 보이지 않으므로 비조건화 버전뿐이라는 주장은 거짓",
+   "label": "지지됨",
+   "evidence": "claim … is false",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Understanding and Inference 35697cdd867e813fa622c8d02438aa86.md",
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Understanding and inference response 35697cdd867e8105adc9d3948867cf57.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
