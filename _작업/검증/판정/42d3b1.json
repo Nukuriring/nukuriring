@@ -1,0 +1,41 @@
+{
+ "id": "42d3b1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "고유명의 인식적 내포는 전문가에게 위임될 수 있고 사적일 수 있다",
+   "label": "지지됨",
+   "evidence": "can be deferential … can be private",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "파인만을 잘 아는 이 세계 사람들이 쓰는 속성이라는 위임적 내용",
+   "label": "지지됨",
+   "evidence": "people in this world who know Richard Feynman well",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "인식적 내포는 공유된 공적 의미일 필요가 없고 사적일 수 있다",
+   "label": "지지됨",
+   "evidence": "It can be private.",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "메리의 새 믿음 내용은 공적 낱말이 아니라 새 개념 R의 내용에 있는 듯하다",
+   "label": "지지됨",
+   "evidence": "개념 R이 갖고 있는 내용인 것 같다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/심리철학연습_강의록_20210330 35697cdd867e813c85f1fdb7b2272104.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

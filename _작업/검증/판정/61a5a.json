@@ -1,0 +1,41 @@
+{
+ "id": "61a5a",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "필기는 지칭 표현을 상항과 변항으로 나누고 지시체와 외연을 구분하며 기술 이론과 인과 이론을 병기",
+   "label": "지지됨",
+   "evidence": "Constant vs variable / 지시체와 외연",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "I, she, he, you는 맥락 보충이 필요하고 Pacific Ocean은 그렇지 않다",
+   "label": "부분 지지",
+   "evidence": "대부분의 지칭이 맥락적인 보충을 필요로 하기는 하다",
+   "note": "필기는 대부분의 지칭이 맥락 보충을 필요로 한다고 단서를 달았으나 카드는 이를 빼고 대비를 단정함."
+  },
+  {
+   "n": 2,
+   "text": "지시체는 집어내는 사물, 외연은 지시체가 될 수 있는 것들의 집합; 두꺼비의 외연은 모든 두꺼비",
+   "label": "지지됨",
+   "evidence": "두꺼비의 외연은 모든 두꺼비들이다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "러셀·프레게·설의 기술 이론과 세례로 유통된다는 인과 이론",
+   "label": "지지됨",
+   "evidence": "이름은 baptism에 의해 주어지고 유통된다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Untill 2025/Semantic ef690315a9a54c3ca109f838bf096ba9.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

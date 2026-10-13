@@ -1,0 +1,49 @@
+{
+ "id": "7g5",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "트래비스는 매개변수 함수를 고정한다는 길들이기를 거부한다",
+   "label": "지지됨",
+   "evidence": "둘 다 막습니다. 둘째가 본격적인 표적",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "생략 방안은 생략되지 않은 문장이 같은 변이를 보여 무한퇴행(pp.113–114)",
+   "label": "지지됨",
+   "evidence": "다시 같은 변이를 보이므로 무한퇴행",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "실제 발화 사례에는 함수가 언제나 있으나 아직 안 이루어진 발화에는 기여하지 않는다",
+   "label": "지지됨",
+   "evidence": "의미론은 역사가 아닙니다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "'I'와 'green'의 비대칭, 다시 말하려 할 때 드러난다(pp.115–116)",
+   "label": "지지됨",
+   "evidence": "다시 말하려 할 때 드러납니다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "확정적 기여 항목을 기호로 인정해도 피아 사례 변이에 대응하는 기호는 없다(pp.116–117)",
+   "label": "지지됨",
+   "evidence": "그 변이에 대응하는 symbol이 없기 때문",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Travis1997 Pragmatics.md",
+  "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-28_트레비스와 르카나티의 관계.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

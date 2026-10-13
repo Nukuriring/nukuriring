@@ -1,0 +1,48 @@
+{
+ "id": "61a7a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "어휘 의미 연구는 반의어와 상하 관계와 부분 관계를 구별한다",
+   "label": "지지됨",
+   "evidence": "Hyponymy / Meronymy / 반의어",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "반의어는 하나의 요소에서만 다르며 네 종류",
+   "label": "지지됨",
+   "evidence": "단 하나의 요소에서 다르다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "단계적 반의어는 척도와 맥락 기준을 동반, 상호 보완적 반의어는 서로 모순",
+   "label": "지지됨",
+   "evidence": "모순 관계를 형성한다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "상하 관계는 이행적이다",
+   "label": "지지됨",
+   "evidence": "이들의 관계는 이행적이다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "부분 관계는 이행적일 필요가 없다(셔츠·단추·구멍)",
+   "label": "지지됨",
+   "evidence": "꼭 이행적이지 않아도 된다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Untill 2025/Semantic ef690315a9a54c3ca109f838bf096ba9.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

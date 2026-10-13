@@ -1,0 +1,62 @@
+{
+ "id": "61r3b",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "루키안은 진지한 문학을 읽은 사람이 정신을 환기하며 교양 있는 반성을 얻도록 썼다",
+   "label": "지지됨",
+   "evidence": "provoke some degree of cultured reflection",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "서문 첫 두 문단에서 작품 수용 바람을 밝힌다",
+   "label": "지지됨",
+   "evidence": "가장 첫 문단과 두 번째 문단에는 ... 바람이 적혀있다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "문학에 전념하는 사람은 오래 읽은 뒤 정신적으로 쉬며 대비해야 한다",
+   "label": "지지됨",
+   "evidence": "relax mentally, to refresh themselves",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "휴식은 오락에 그치지 않고 반성을 자극하는 작품이 곁에 있을 때 만족스럽다",
+   "label": "지지됨",
+   "evidence": "if they choose as company such works as",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "영진: 청중은 문학적인 사람들, 고전 과몰입을 경계하는 것처럼 보인다",
+   "label": "지지됨",
+   "evidence": "경계하는 것처럼 보인다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "작품이 휴식을 넘어 문학하는 일에 대한 반성을 이끈다는 것이 주장",
+   "label": "지지됨",
+   "evidence": "교양 있는 반성을 이끌어 낼 수 있다고",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "필기는 문학적 전통 감상 등을 물음으로 적고 장르를 견문록·걸리버 등에 견준다",
+   "label": "지지됨",
+   "evidence": "장르의 문제?: 견문록 같기도 하고...걸리버 여행기?",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/실화 35697cdd…."
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

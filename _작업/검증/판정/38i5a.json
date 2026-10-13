@@ -1,0 +1,55 @@
+{
+ "id": "38i5a",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "R-Bedeutung은 전통적으로 Sinn이 하는 일로 여겨져 온 것을 맡는다",
+   "label": "지지됨",
+   "evidence": "전통적으로 Sinn에게 기대되던 개별화 작업을 맡는다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "그러할 방식·표상 방식은 사고를 식별하는 내용이며 표준 해석에선 Sinn의 몫",
+   "label": "지지됨",
+   "evidence": "확실히 Sinn 쪽 어휘로 들린다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "트래비스는 6장 서두에서 Sinn과 짝지은 Bedeutung을 V-Bedeutung으로 설명(p.122)",
+   "label": "지지됨",
+   "evidence": "'Bedeutung'은 지난 장의 V-Bedeutung으로 설명",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "진리치는 사고 식별에 역할이 없고 축약된 내용이 하며, 이것이 V/R 분리의 요점(p.123)",
+   "label": "지지됨",
+   "evidence": "V-Bedeutung을 R-Bedeutung에서 분리해 내는 요점",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "지시적 부분사고의 R-Bedeutung은 대상 자체라 이 행에선 대응 불성립",
+   "label": "지지됨",
+   "evidence": "첫 행이 반례다. ... London이다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "사고는 이미 문장의 Sinn이므로 R-Bedeutung은 Sinn이 서는 관계의 상대항",
+   "label": "지지됨",
+   "evidence": "Sinn인 것이 무엇에 대해 서는가를 묻는 것",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-10_TPBBT 4 함께 이해하기.md (L2171-2200, L2240-2262, 각주 L2317-2326)"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

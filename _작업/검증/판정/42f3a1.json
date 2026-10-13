@@ -1,0 +1,41 @@
+{
+ "id": "42f3a1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "완전한 비판적 추론가는 자기 믿음이라는 명제 태도를 식별하고 평가할 수 있어야 한다",
+   "label": "지지됨",
+   "evidence": "to be fully a critical reasoner, one must be able to",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "비판적 추론은 r, s, not-p 판단과 p, r, s에 대한 자기 믿음 판단도 포함",
+   "label": "지지됨",
+   "evidence": "also his judgments about his propositional attitudes",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "반드시 태도에 초점을 두는 것은 아니며 대개는 세계에 대해 추론",
+   "label": "지지됨",
+   "evidence": "Normally we reason not about ourselves",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "완전한 추론가는 명제가 단언·부정·가설·고려되는 방식을 식별하고 평가해야",
+   "label": "지지됨",
+   "evidence": "asserted, denied, hypothesized, or merely considered",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/심리철학연습_강의록_20210420 35697cdd867e819da03fe4f799246f1f.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
