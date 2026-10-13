@@ -16,7 +16,7 @@
 - 동형성과 재현: {54j3}
 - 발화수반력(illocutionary force): {54k}, {54k1}
 - 바우어(Bauer): {54k}, {54k2}, {54l}
-- 성적 대상화(sexual objectification): {54l}, {54l1}, {54m}
+- 성적 대상화(sexual objectification): {54l}, {39l4}, {54m}
 - 계획 행위주체(planning agency): {54n}, {54n2}
 - 스피노자의 정의: {54p}, {54p1}
 - 반응적 태도(reactive attitudes): {54q}, {54q3}

@@ -1,5 +1,5 @@
 - 카벨(Cavell): {39}, {16}, {17}
-- 크립키(Kripke): {18}, {40}, {18d}
+- 크립키(Kripke): {18}, {18}, {18d}
 - 비트겐슈타인(Wittgenstein): {18d1b}, {57i}, {57p6}
 - 모런(Moran): {16f}, {16f2}, {16f3}
 - 맥도웰(McDowell): {57g}, {57h}, {57h3}
@@ -47,7 +47,7 @@
 - 소외된 위엄(alienated majesty): {16c}
 - 거짓 완전주의(false perfectionism): {16e4}, {17g2}
 - 도덕주의와 부끄러움: {17g2}
-- 기준(criteria): {16d}, {40e2}, {18e1}
+- 기준(criteria): {16d}, {40e2}, {16d2}
 - 일상의 논증(argument of the ordinary): {16d}
 - 교육의 장면(scene of instruction): {16d5}, {40e3}
 - 정의의 대화(conversation of justice): {16e}, {17g4}
@@ -60,8 +60,8 @@
 - 사회계약(social contract): {17h}, {17h1}, {17h3a}
 - 정치적 대변: {17h4}
 - 회의적 역설(skeptical paradox): {18d}, {40e1}
-- 회의적 해결(skeptical solution): {16d2}, {18d2}, {18e1}
-- 위악성(僞惡性): {18}, {40}, {40j}
+- 회의적 해결(skeptical solution): {16d2}, {18d2}, {16d2}
+- 위악성(僞惡性): {18}, {18}, {40j}
 - 맹목적 규칙 따르기(blindly): {18d1}, {18d3}, {40b}
 - §217, 삽이 휜다(my spade is turned): {18e}, {40e3}, {16d1}
 - 말하고 싶어진다(inclined to say): {40c}, {16d1}
@@ -156,7 +156,7 @@
 - 회의주의와 일상의 거래: {40g2}, {40g3}
 - 마치 발견된 듯함: {40h1}, {40g1}
 - 흄 비판과 크립키 비판의 평행: {18e1a}
-- 프래그머티즘 독해: {18e2}
+- 프래그머티즘 독해: {40e3}
 - 규칙에 대한 호소: {40e2}
 - 합리적 의심과 회의주의: {16f1a}
 - 정합성 불안: {16f6c}

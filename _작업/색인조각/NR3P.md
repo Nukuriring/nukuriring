@@ -80,18 +80,18 @@
 - 생명 작용(vital operation)과 비우연적 통일: {20d5a}
 - 스킬라와 카리브디스: {20d7}, {20d2}
 - 즉자적 비판(immanent critique): {20d8}
-- 생명형식(life-form)과 종(species): {20g}, {20c3c}
+- 생명형식(life-form)과 종(species): {20d6}, {20c3c}
 - 생명 기술(life-description): {20g2}
 - 더 넓은 맥락과 유사 상어: {20g1a}, {20g1}
 - 공통 요소와 선언주의: {20g1b}
 - 실천 유비(롤스): {20g3}
 - 늪지인간(Swampman): {20g4}
-- 단칭 지시(singular reference)와 형식의 같음: {20g6}
+- 단칭 지시(singular reference)와 형식의 같음: {20d4}
 - 도감 문장과 수배 전단: {20g6a}
 - 최소 대조와 상황 민감성(occasion-sensitivity): {20g6b}
 - 습성적 현재(habitual present): {20g7}
 - 최하종(infima species)과 분류 위계: {20g9}
-- 자연사적 판단(natural-historical judgment): {20e}, {20g6}
+- 자연사적 판단(natural-historical judgment): {20e}, {20d4}
 - 연언 도입: {20e1}
 - ceteris paribus 법칙: {20e2}
 - 생명형식-어(life-form-word): {20e5}
