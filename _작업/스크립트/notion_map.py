@@ -80,7 +80,26 @@ def by_path(path, context):
 
 
 def lookup(key, context):
+    key = re.sub(r'\s*[>›]\s*', '/', key).strip('/ ')  # 'A > B'와 'A › B'도 경로로 본다
     return by_path(key, context) if '/' in key else by_name(key, context)
+
+
+def subdir(rel):
+    """하위 페이지가 든 같은 이름의 폴더가 있으면 그 경로(목차 역할의 상위 페이지인 경우)."""
+    d = re.sub(r' [0-9a-f]{32}\.md$', '', rel)
+    return d if d != rel and os.path.isdir(os.path.join(V, d)) else None
+
+
+def bare_keys(line):
+    """'Notion 페이지 제목 (…)'에서 제목 후보를 긴 것부터 낸다."""
+    m = re.search(r'Notion\s+(?:내보내기\s+|원자료\s+)?(?:페이지\s+|파일명:\s*)?(.+?)(?:\s+\(|\s*$|;\s|\.\s)', line)
+    if not m or m.group(1).startswith(('노트', '필기 전체')):
+        return []
+    full = m.group(1).strip().strip('`')
+    keys = [full]
+    if ', ' in full:
+        keys.append(full.split(', ')[0])
+    return keys
 
 
 def resolve_line(line):
@@ -96,23 +115,34 @@ def resolve_line(line):
     for b in brackets:
         files, how = lookup(b, line)
         if files:
-            out.append(dict(key=b, method=how, files=files))
-            return out
+            return [dict(key=b, method=how, files=files)]
         first = first or dict(key=b, method='bracket', files=[])
     if first:
         return [first]
-    m = re.search(r'Notion\s+(?:내보내기\s+|원자료\s+)?(?:페이지\s+|파일명:\s*)?(.+?)(?:\s+\(|\s*$|,\s|;\s)', line)
-    if m and not m.group(1).startswith(('노트', '필기 전체')):
-        key = m.group(1).strip().strip('`')
-        files, how = lookup(key, line)
-        if '/' not in key and not files:
-            if True:  # 괄호 앞까지가 길면 앞부분 단어를 줄여 가며 다시 찾는다
-                words = key.split()
-                for k in range(len(words) - 1, 0, -1):
-                    files, how = by_name(' '.join(words[:k]), line)
-                    if files:
-                        key = ' '.join(words[:k]); break
-        out.append(dict(key=key, method=how or 'bare', files=files))
+    keys = bare_keys(line)
+    for key in keys:
+        # 'A와 B'처럼 두 페이지를 함께 적은 경우
+        parts = [key] + [p for p in re.split(r'(?<=\S)(?:와|과| 및) (?=\S)', key) if p != key]
+        found = []
+        for part in parts:
+            files, how = lookup(part, line)
+            if files:
+                found.append(dict(key=part, method=how, files=files))
+                if part == key:
+                    break
+        if found:
+            return found
+    if keys:
+        # 괄호 앞까지가 길면 앞부분 단어를 줄여 가며 찾되, 두 단어·여섯 글자 아래로는 줄이지 않는다
+        words = keys[-1].split()
+        for k in range(len(words) - 1, 1, -1):
+            cand = ' '.join(words[:k])
+            if len(norm(cand)) < 6:
+                break
+            files, how = by_name(cand, line)
+            if files:
+                return [dict(key=cand, method=how, files=files)]
+        out.append(dict(key=keys[0], method='bare', files=[]))
     return out
 
 
@@ -140,6 +170,9 @@ for fn in sorted(os.listdir(os.path.join(V, '영구'))):
             continue
         for r in resolve_line(line):
             r['line'] = line.strip('- ').strip()
+            subs = [d for d in (subdir(f) for f in r['files']) if d]
+            if subs:
+                r['subdir'] = subs[0]
             refs.append(r)
             stat[('해석' if r['files'] else '미해석', r['method'])] += 1
             if not r['files']:
