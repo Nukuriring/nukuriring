@@ -1,0 +1,70 @@
+{
+ "id": "39e2",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "must 진술은 이미 하는 일을 배경으로 하여 is와 must 사이에 간극이 없다",
+   "label": "지지됨",
+   "evidence": "'is'에서 'must'로 어떻게 이동할…질문은 애초에 존재하지 않는다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "모든 방식이 안 일어나도록 조치할 의무가 있다고 보면 틀리다",
+   "label": "지지됨",
+   "evidence": "it would be incorrect to suppose that we are obliged",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "의무는 위험한 행위 피하기, 주의 유지, 절차 건너뛰기 유혹 피하기",
+   "label": "지지됨",
+   "evidence": "절차를 건너 뛰려는 유혹을 피하기 위해서",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "모든 변명에 대응 의무가 있으면 변명이 없고 행위는 견딜 수 없다",
+   "label": "지지됨",
+   "evidence": "변명이란 없을 것이고, 행위는 참을 수 없는",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "must 진술은 이미 무언가를 잘못 하고 있는 맥락에서만 요점이 있다",
+   "label": "부분 지지",
+   "evidence": "혹은 우리가 특정한 지위 …맥락에서나 요점이 있다",
+   "note": "원문은 '또는 특정한 지위나 자리를 차지하고 있으며 부적절하게 행동하는 맥락'이라는 선택지를 함께 두는데 카드는 이를 뺌."
+  },
+  {
+   "n": 5,
+   "text": "양상 조동사는 주동사가 될 수 없고 더 큰 맥락에 놓는 것을 시사",
+   "label": "지지됨",
+   "evidence": "제시한다. 특정 행위를…더 큰 맥락 속에 세팅",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "'must'는 '움직인다' 이상을 주장 않아 is→must 물음이 없다",
+   "label": "지지됨",
+   "evidence": "이상을 주장하는 것이 아니다",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "양상 명령문은 합리성에 호소해 순수한 명령과 구별",
+   "label": "지지됨",
+   "evidence": "상대의 합리성에 호소하고 있어야 함을 요구",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Cavell1969 Must We Mean What We Say.md",
+  "_원자료/claude.ai/projects/Cavell/docs/Must we.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

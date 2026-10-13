@@ -1,0 +1,70 @@
+{
+ "id": "39h",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "'정말로 무엇을 뜻하느냐' 물음은 원래 물음과 다른 상황에서 생긴다",
+   "label": "지지됨",
+   "evidence": "서로 다른 상황들을 함께 특징지으려고",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "뜻 찾기는 사전이나 원어민에게 묻는 일",
+   "label": "지지됨",
+   "evidence": "사전을 찾아보거나 …원어민에게 물어봄",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "'정말로' 찾기는 사전 내용을 이미 알 때, 철학함으로 내몰릴 때",
+   "label": "지지됨",
+   "evidence": "철학함으로 강요될 때 가능하다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "소크라테스의 상대는 자기 낱말은 알았으나 말한 바를 몰랐다",
+   "label": "지지됨",
+   "evidence": "스스로 의미하는 바를 알고 있기 때문이다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "'정말로 의미하는가'는 심오한 판본이 아니고 짝 물음도 다른 물음",
+   "label": "지지됨",
+   "evidence": "전자의 심오한 버전으로 여기고는 한다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "상황 차이를 못 보면 특별한 존재자를 도입, penetrate/perpetrate",
+   "label": "지지됨",
+   "evidence": "만들어(perpetrate) 낼 뿐이다",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "심오함은 물음이 던져지는 때에 달려 있다",
+   "label": "지지됨",
+   "evidence": "그것이 질문되는 타이밍이다",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "세부 주의는 지름길을 못 주나 진정한 명료성을 약속한다",
+   "label": "지지됨",
+   "evidence": "지름길을 제공하지 않을지도…명료성을 약속",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Cavell1969 Must We Mean What We Say.md",
+  "_원자료/claude.ai/projects/Cavell/docs/Must we.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
