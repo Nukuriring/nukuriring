@@ -87,7 +87,7 @@ def sentences(main):
     lines = [l for l in main.split('\n') if l.strip() and not re.match(r'\s*([-*>]|\d+\.)\s', l)]
     txt = ' '.join(lines)
     # 인용문 안의 마침표(영어 원문 인용 등)는 카드 문장의 끝이 아니므로 인용문을 한 글자로 줄인 뒤 센다.
-    txt = re.sub(r'"[^"\n]{1,400}?"|“[^”\n]{1,400}?”|「[^」\n]{1,400}?」|『[^』\n]{1,400}?』', 'Q', txt)
+    txt = re.sub(r'"[^"\n]{1,400}?"|“[^”\n]{1,400}?”|‘[^’\n]{1,200}?[.?!][^’\n]{0,40}’|\x27[^\x27\n]{1,60}?[?!]\x27|「[^」\n]{1,400}?」|『[^』\n]{1,400}?』', 'Q', txt)
     out = []
     for m in SENT_END.finditer(txt):
         prev = m.group(1)
@@ -184,7 +184,7 @@ def check_card(path):
     # 본문 길이와 문체
     ends, flat = sentences(main)
     n = len(ends)
-    if n < 3 or n > 8:
+    if (n < 3 and '남겨 둔 안내 카드' not in main) or n > 8:  # 합치기 안내 카드는 짧은 것이 정상
         W.append(f'W-길이: 본문 {n}문장(기준 3~8)')
     bad_end = [flat[max(0, i - 8):i + 2] for c, i in ends if re.match(r'[가-힣]', c) and c not in ENDINGS]
     if bad_end:
