@@ -7,7 +7,8 @@
 #    kiwipiepy가 없으면 글자 2그램으로 대신한다(품질이 떨어짐). 설치: pip install kiwipiepy
 #  - 벡터: embed.py가 만든 본문 벡터. 질의를 벡터로 바꾸려면 같은 모델이 로컬에 있어야 하므로(PC), 없으면 BM25만 쓴다.
 #    --like는 저장된 카드 벡터끼리 비교하므로 모델 없이도 된다.
-#  - 두 순위를 RRF(k=60)로 합친다.
+#  - 두 순위를 RRF(k=60)로 합친다. 상위 5장의 번호 이웃(부모·하위 가지)을 보강한다(--no-neighbors로 끔).
+#  - `_작업/검색/동의어.txt`가 있으면 질의를 동의어로 넓힌다.
 # 원자료(`_원자료/`)는 검색하지 않는다. 출처는 카드의 `## 출처`를 따라가 확인한다.
 # 토큰 캐시: `_작업/검색/bm25_cache.json`(git 제외). 카드가 바뀌면 그 카드만 다시 분석한다.
 import argparse, collections, glob, hashlib, json, math, os, re, sys
@@ -22,6 +23,7 @@ ap.add_argument('--model', default='BAAI/bge-m3')
 ap.add_argument('--cluster')
 ap.add_argument('--voice')
 ap.add_argument('--rebuild', action='store_true')
+ap.add_argument('--no-neighbors', action='store_true', help='번호 이웃 보강을 끈다')
 a = ap.parse_args()
 V = a.vault
 SD = os.path.join(V, '_작업', '검색')
@@ -152,14 +154,46 @@ if a.like:
 else:
     if not a.query:
         sys.exit('질의를 주거나 --like <id>를 씁니다.')
-    lists.append(bm25(tok(a.query))); via.append('bm25')
+    qtext = a.query
+    syn = os.path.join(SD, '동의어.txt')  # 한 줄에 같은 뜻의 표현을 쉼표로 나열. 질의에 하나가 있으면 나머지를 덧붙인다.
+    if os.path.exists(syn):
+        for line in open(syn, encoding='utf-8'):
+            terms = [t.strip() for t in line.split('#')[0].split(',') if t.strip()]
+            if any(t in a.query for t in terms):
+                qtext += ' ' + ' '.join(t for t in terms if t not in a.query)
+    if qtext != a.query:
+        via.append('동의어')
+    lists.append(bm25(tok(qtext))); via.append('bm25')
     if not a.bm25_only:
         qv = query_vec(a.query)
         v = vec_rank(qv=qv) if qv is not None else None
         if v:
             lists.append(v); via.append('벡터')
     exclude = lambda i: False
-res = [i for i in (rrf(lists) if len(lists) > 1 else lists[0]) if not exclude(i)
+fused = rrf(lists) if len(lists) > 1 else lists[0]
+
+
+def parent(i):
+    m = re.match(r'^(.*?)(\d+|[a-z]+)$', i)
+    return m.group(1) if m and m.group(1) else None
+
+
+if not a.no_neighbors and fused:
+    # 상위 카드의 번호 이웃(부모·하위 가지)을 셋째 순위로 더한다. 빠진 핵심 카드가 대개 이웃이었다(검색 시험 10-13).
+    kids = collections.defaultdict(list)
+    for i in cards:
+        p = parent(i)
+        if p:
+            kids[p].append(i)
+    nb = []
+    for i in [x for x in fused if not exclude(x)][:5]:
+        for j in [parent(i)] + kids.get(i, []):
+            if j and j in cards and j not in nb:
+                nb.append(j)
+    if nb:
+        fused = rrf([fused, fused, nb])  # 기존 순위에 두 배 가중
+        via.append('번호 이웃')
+res = [i for i in fused if not exclude(i)
        and (not a.cluster or cards[i]['cluster'] == a.cluster) and (not a.voice or cards[i]['voice'] == a.voice)]
 print(f"# 검색: {a.query or a.like} ({' + '.join(via)}, 토큰 {TOK})")
 for n, i in enumerate(res[:a.k], 1):
