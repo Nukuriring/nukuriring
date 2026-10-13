@@ -1,0 +1,7416 @@
+[
+{
+"a": "59q6",
+"b": "63y1",
+"via": [
+"body"
+],
+"title_sim": 0.642,
+"body_sim": 0.923,
+"same_group": false,
+"score": 0.923
+},
+{
+"a": "53i9",
+"b": "54t4",
+"via": [
+"title",
+"body",
+"정리후보"
+],
+"title_sim": 0.835,
+"body_sim": 0.885,
+"same_group": false,
+"score": 0.885
+},
+{
+"a": "68r3b",
+"b": "68v1",
+"via": [
+"body"
+],
+"title_sim": 0.717,
+"body_sim": 0.879,
+"same_group": true,
+"score": 0.879
+},
+{
+"a": "45f2",
+"b": "45g3",
+"via": [
+"body"
+],
+"title_sim": 0.66,
+"body_sim": 0.877,
+"same_group": true,
+"score": 0.877
+},
+{
+"a": "41a5",
+"b": "41b4b",
+"via": [
+"title"
+],
+"title_sim": 0.876,
+"body_sim": 0.807,
+"same_group": true,
+"score": 0.876
+},
+{
+"a": "52c18",
+"b": "65l4",
+"via": [
+"body"
+],
+"title_sim": 0.569,
+"body_sim": 0.876,
+"same_group": false,
+"score": 0.876
+},
+{
+"a": "47c13",
+"b": "47f",
+"via": [
+"body"
+],
+"title_sim": 0.766,
+"body_sim": 0.873,
+"same_group": true,
+"score": 0.873
+},
+{
+"a": "12k3",
+"b": "12k4",
+"via": [
+"body"
+],
+"title_sim": 0.712,
+"body_sim": 0.871,
+"same_group": true,
+"score": 0.871
+},
+{
+"a": "41a5",
+"b": "41b4a",
+"via": [
+"body"
+],
+"title_sim": 0.778,
+"body_sim": 0.871,
+"same_group": true,
+"score": 0.871
+},
+{
+"a": "41q1",
+"b": "42u",
+"via": [
+"body"
+],
+"title_sim": 0.674,
+"body_sim": 0.871,
+"same_group": false,
+"score": 0.871
+},
+{
+"a": "42g1",
+"b": "42g2",
+"via": [
+"title"
+],
+"title_sim": 0.87,
+"body_sim": 0.822,
+"same_group": true,
+"score": 0.87
+},
+{
+"a": "66c6",
+"b": "67b1",
+"via": [
+"title",
+"body"
+],
+"title_sim": 0.8,
+"body_sim": 0.87,
+"same_group": true,
+"score": 0.87
+},
+{
+"a": "42k1b",
+"b": "42k1c",
+"via": [
+"body"
+],
+"title_sim": 0.637,
+"body_sim": 0.87,
+"same_group": true,
+"score": 0.87
+},
+{
+"a": "60a2",
+"b": "60a9",
+"via": [
+"title",
+"body"
+],
+"title_sim": 0.799,
+"body_sim": 0.869,
+"same_group": true,
+"score": 0.869
+},
+{
+"a": "42g3",
+"b": "42g4",
+"via": [
+"body"
+],
+"title_sim": 0.64,
+"body_sim": 0.863,
+"same_group": true,
+"score": 0.863
+},
+{
+"a": "20e",
+"b": "26c",
+"via": [
+"title"
+],
+"title_sim": 0.862,
+"body_sim": 0.726,
+"same_group": false,
+"score": 0.862
+},
+{
+"a": "43l9",
+"b": "45i3",
+"via": [
+"body"
+],
+"title_sim": 0.703,
+"body_sim": 0.862,
+"same_group": false,
+"score": 0.862
+},
+{
+"a": "44k15",
+"b": "44k16",
+"via": [
+"body"
+],
+"title_sim": 0.667,
+"body_sim": 0.862,
+"same_group": true,
+"score": 0.862
+},
+{
+"a": "16",
+"b": "17g",
+"via": [
+"title",
+"정리후보"
+],
+"title_sim": 0.861,
+"body_sim": 0.801,
+"same_group": false,
+"score": 0.861
+},
+{
+"a": "52c18",
+"b": "52c20",
+"via": [
+"body"
+],
+"title_sim": 0.78,
+"body_sim": 0.861,
+"same_group": true,
+"score": 0.861
+},
+{
+"a": "45c3",
+"b": "45d",
+"via": [
+"body"
+],
+"title_sim": 0.733,
+"body_sim": 0.86,
+"same_group": true,
+"score": 0.86
+},
+{
+"a": "46h1",
+"b": "46h2",
+"via": [
+"body",
+"정리후보"
+],
+"title_sim": 0.695,
+"body_sim": 0.859,
+"same_group": true,
+"score": 0.859
+},
+{
+"a": "43m2",
+"b": "61p3",
+"via": [
+"title"
+],
+"title_sim": 0.858,
+"body_sim": 0.813,
+"same_group": false,
+"score": 0.858
+},
+{
+"a": "46j1",
+"b": "46j2",
+"via": [
+"title"
+],
+"title_sim": 0.858,
+"body_sim": 0.8,
+"same_group": true,
+"score": 0.858
+},
+{
+"a": "41g2b",
+"b": "41g2c",
+"via": [
+"body"
+],
+"title_sim": 0.677,
+"body_sim": 0.858,
+"same_group": true,
+"score": 0.858
+},
+{
+"a": "41g5a",
+"b": "42n",
+"via": [
+"body"
+],
+"title_sim": 0.634,
+"body_sim": 0.858,
+"same_group": false,
+"score": 0.858
+},
+{
+"a": "47k2",
+"b": "63f6",
+"via": [
+"body"
+],
+"title_sim": 0.553,
+"body_sim": 0.856,
+"same_group": false,
+"score": 0.856
+},
+{
+"a": "53f",
+"b": "63y",
+"via": [
+"body"
+],
+"title_sim": 0.676,
+"body_sim": 0.856,
+"same_group": false,
+"score": 0.856
+},
+{
+"a": "68i11",
+"b": "68i2a",
+"via": [
+"body"
+],
+"title_sim": 0.65,
+"body_sim": 0.856,
+"same_group": true,
+"score": 0.856
+},
+{
+"a": "39l2a",
+"b": "39l2b1",
+"via": [
+"body"
+],
+"title_sim": 0.648,
+"body_sim": 0.855,
+"same_group": true,
+"score": 0.855
+},
+{
+"a": "50b",
+"b": "50c",
+"via": [
+"body"
+],
+"title_sim": 0.682,
+"body_sim": 0.853,
+"same_group": true,
+"score": 0.853
+},
+{
+"a": "63c8",
+"b": "63c9",
+"via": [
+"body"
+],
+"title_sim": 0.758,
+"body_sim": 0.853,
+"same_group": true,
+"score": 0.853
+},
+{
+"a": "36b1",
+"b": "36b2",
+"via": [
+"body"
+],
+"title_sim": 0.638,
+"body_sim": 0.852,
+"same_group": true,
+"score": 0.852
+},
+{
+"a": "60a3",
+"b": "60a9",
+"via": [
+"body"
+],
+"title_sim": 0.724,
+"body_sim": 0.852,
+"same_group": true,
+"score": 0.852
+},
+{
+"a": "68i11",
+"b": "68i2",
+"via": [
+"body"
+],
+"title_sim": 0.709,
+"body_sim": 0.852,
+"same_group": true,
+"score": 0.852
+},
+{
+"a": "41r",
+"b": "61j",
+"via": [
+"body"
+],
+"title_sim": 0.747,
+"body_sim": 0.851,
+"same_group": false,
+"score": 0.851
+},
+{
+"a": "47q6",
+"b": "47q7",
+"via": [
+"title"
+],
+"title_sim": 0.85,
+"body_sim": 0.791,
+"same_group": true,
+"score": 0.85
+},
+{
+"a": "60a2",
+"b": "60a3",
+"via": [
+"body"
+],
+"title_sim": 0.683,
+"body_sim": 0.85,
+"same_group": true,
+"score": 0.85
+},
+{
+"a": "65c1",
+"b": "65c4",
+"via": [
+"body"
+],
+"title_sim": 0.715,
+"body_sim": 0.85,
+"same_group": true,
+"score": 0.85
+},
+{
+"a": "37b1c",
+"b": "37b1d",
+"via": [
+"body"
+],
+"title_sim": 0.693,
+"body_sim": 0.848,
+"same_group": true,
+"score": 0.848
+},
+{
+"a": "49n1",
+"b": "60b1",
+"via": [
+"title",
+"body"
+],
+"title_sim": 0.809,
+"body_sim": 0.847,
+"same_group": false,
+"score": 0.847
+},
+{
+"a": "39l2a",
+"b": "54k2",
+"via": [
+"body"
+],
+"title_sim": 0.651,
+"body_sim": 0.847,
+"same_group": false,
+"score": 0.847
+},
+{
+"a": "41a5",
+"b": "41a6b",
+"via": [
+"body"
+],
+"title_sim": 0.74,
+"body_sim": 0.847,
+"same_group": true,
+"score": 0.847
+},
+{
+"a": "60g5",
+"b": "60g8",
+"via": [
+"body"
+],
+"title_sim": 0.664,
+"body_sim": 0.847,
+"same_group": true,
+"score": 0.847
+},
+{
+"a": "68g5f",
+"b": "68g5g",
+"via": [
+"body"
+],
+"title_sim": 0.731,
+"body_sim": 0.847,
+"same_group": true,
+"score": 0.847
+},
+{
+"a": "17",
+"b": "58c",
+"via": [
+"title"
+],
+"title_sim": 0.846,
+"body_sim": 0.838,
+"same_group": false,
+"score": 0.846
+},
+{
+"a": "43f",
+"b": "44k",
+"via": [
+"body"
+],
+"title_sim": 0.599,
+"body_sim": 0.846,
+"same_group": false,
+"score": 0.846
+},
+{
+"a": "46g4",
+"b": "46g6",
+"via": [
+"body"
+],
+"title_sim": 0.647,
+"body_sim": 0.846,
+"same_group": true,
+"score": 0.846
+},
+{
+"a": "63s1",
+"b": "63s2",
+"via": [
+"title",
+"body"
+],
+"title_sim": 0.8,
+"body_sim": 0.845,
+"same_group": true,
+"score": 0.845
+},
+{
+"a": "45n3",
+"b": "45n4",
+"via": [
+"body"
+],
+"title_sim": 0.653,
+"body_sim": 0.845,
+"same_group": true,
+"score": 0.845
+},
+{
+"a": "43c",
+"b": "43e",
+"via": [
+"body"
+],
+"title_sim": 0.523,
+"body_sim": 0.844,
+"same_group": true,
+"score": 0.844
+},
+{
+"a": "43h1",
+"b": "61p5",
+"via": [
+"body"
+],
+"title_sim": 0.74,
+"body_sim": 0.844,
+"same_group": false,
+"score": 0.844
+},
+{
+"a": "69f3",
+"b": "69f4",
+"via": [
+"title"
+],
+"title_sim": 0.843,
+"body_sim": 0.798,
+"same_group": true,
+"score": 0.843
+},
+{
+"a": "15d",
+"b": "37a2",
+"via": [
+"body"
+],
+"title_sim": 0.624,
+"body_sim": 0.843,
+"same_group": false,
+"score": 0.843
+},
+{
+"a": "41g2c",
+"b": "42l1",
+"via": [
+"body"
+],
+"title_sim": 0.696,
+"body_sim": 0.843,
+"same_group": false,
+"score": 0.843
+},
+{
+"a": "51i4",
+"b": "52g2",
+"via": [
+"body"
+],
+"title_sim": 0.754,
+"body_sim": 0.843,
+"same_group": false,
+"score": 0.843
+},
+{
+"a": "27h2a",
+"b": "27h2b",
+"via": [
+"title",
+"body"
+],
+"title_sim": 0.799,
+"body_sim": 0.842,
+"same_group": true,
+"score": 0.842
+},
+{
+"a": "47r",
+"b": "61s",
+"via": [
+"title",
+"body"
+],
+"title_sim": 0.839,
+"body_sim": 0.842,
+"same_group": false,
+"score": 0.842
+},
+{
+"a": "68i5a",
+"b": "68l6",
+"via": [
+"title",
+"body"
+],
+"title_sim": 0.801,
+"body_sim": 0.842,
+"same_group": true,
+"score": 0.842
+},
+{
+"a": "15d1",
+"b": "37d1b",
+"via": [
+"body"
+],
+"title_sim": 0.711,
+"body_sim": 0.842,
+"same_group": false,
+"score": 0.842
+},
+{
+"a": "17j2",
+"b": "61t2",
+"via": [
+"body"
+],
+"title_sim": 0.769,
+"body_sim": 0.842,
+"same_group": false,
+"score": 0.842
+},
+{
+"a": "34e1",
+"b": "34j",
+"via": [
+"body"
+],
+"title_sim": 0.682,
+"body_sim": 0.842,
+"same_group": true,
+"score": 0.842
+},
+{
+"a": "45c2",
+"b": "45d1",
+"via": [
+"body"
+],
+"title_sim": 0.557,
+"body_sim": 0.842,
+"same_group": true,
+"score": 0.842
+},
+{
+"a": "59o1",
+"b": "60e9",
+"via": [
+"body"
+],
+"title_sim": 0.729,
+"body_sim": 0.842,
+"same_group": false,
+"score": 0.842
+},
+{
+"a": "64k2",
+"b": "64k3",
+"via": [
+"body"
+],
+"title_sim": 0.718,
+"body_sim": 0.842,
+"same_group": true,
+"score": 0.842
+},
+{
+"a": "68t6",
+"b": "68t8",
+"via": [
+"body"
+],
+"title_sim": 0.689,
+"body_sim": 0.842,
+"same_group": true,
+"score": 0.842
+},
+{
+"a": "44a3",
+"b": "44a5",
+"via": [
+"title"
+],
+"title_sim": 0.841,
+"body_sim": 0.759,
+"same_group": true,
+"score": 0.841
+},
+{
+"a": "47g4",
+"b": "47g5",
+"via": [
+"body"
+],
+"title_sim": 0.544,
+"body_sim": 0.841,
+"same_group": true,
+"score": 0.841
+},
+{
+"a": "50a",
+"b": "50b",
+"via": [
+"body"
+],
+"title_sim": 0.694,
+"body_sim": 0.841,
+"same_group": true,
+"score": 0.841
+},
+{
+"a": "60a8",
+"b": "60a9",
+"via": [
+"body"
+],
+"title_sim": 0.683,
+"body_sim": 0.841,
+"same_group": true,
+"score": 0.841
+},
+{
+"a": "45e2",
+"b": "45g3",
+"via": [
+"title",
+"body",
+"정리후보"
+],
+"title_sim": 0.786,
+"body_sim": 0.84,
+"same_group": true,
+"score": 0.84
+},
+{
+"a": "68g",
+"b": "68h",
+"via": [
+"title",
+"body"
+],
+"title_sim": 0.82,
+"body_sim": 0.84,
+"same_group": true,
+"score": 0.84
+},
+{
+"a": "10f2",
+"b": "10f5",
+"via": [
+"body"
+],
+"title_sim": 0.683,
+"body_sim": 0.84,
+"same_group": true,
+"score": 0.84
+},
+{
+"a": "43f1",
+"b": "44k1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.63,
+"body_sim": 0.84,
+"same_group": false,
+"score": 0.84
+},
+{
+"a": "51g4",
+"b": "53k",
+"via": [
+"정리후보"
+],
+"title_sim": 0.678,
+"body_sim": 0.839,
+"same_group": false,
+"score": 0.839
+},
+{
+"a": "47g10",
+"b": "47g11",
+"via": [
+"정리후보"
+],
+"title_sim": 0.709,
+"body_sim": 0.837,
+"same_group": true,
+"score": 0.837
+},
+{
+"a": "40f",
+"b": "40h",
+"via": [
+"정리후보"
+],
+"title_sim": 0.675,
+"body_sim": 0.837,
+"same_group": true,
+"score": 0.837
+},
+{
+"a": "17",
+"b": "58",
+"via": [
+"title"
+],
+"title_sim": 0.804,
+"body_sim": 0.836,
+"same_group": false,
+"score": 0.836
+},
+{
+"a": "22e7",
+"b": "41a5",
+"via": [
+"title"
+],
+"title_sim": 0.836,
+"body_sim": 0.77,
+"same_group": false,
+"score": 0.836
+},
+{
+"a": "49n2",
+"b": "60b3",
+"via": [
+"title",
+"정리후보"
+],
+"title_sim": 0.836,
+"body_sim": 0.799,
+"same_group": false,
+"score": 0.836
+},
+{
+"a": "68r1c",
+"b": "68r1f",
+"via": [
+"title"
+],
+"title_sim": 0.836,
+"body_sim": 0.83,
+"same_group": true,
+"score": 0.836
+},
+{
+"a": "68g5a",
+"b": "68g5b",
+"via": [
+"title"
+],
+"title_sim": 0.795,
+"body_sim": 0.835,
+"same_group": true,
+"score": 0.835
+},
+{
+"a": "52c20",
+"b": "65l4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.726,
+"body_sim": 0.834,
+"same_group": false,
+"score": 0.834
+},
+{
+"a": "22e2",
+"b": "41h",
+"via": [
+"title"
+],
+"title_sim": 0.833,
+"body_sim": 0.783,
+"same_group": false,
+"score": 0.833
+},
+{
+"a": "42g1b",
+"b": "42h4",
+"via": [
+"title"
+],
+"title_sim": 0.816,
+"body_sim": 0.832,
+"same_group": true,
+"score": 0.832
+},
+{
+"a": "43e4",
+"b": "43h5",
+"via": [
+"title"
+],
+"title_sim": 0.794,
+"body_sim": 0.831,
+"same_group": true,
+"score": 0.831
+},
+{
+"a": "62o4",
+"b": "62o9",
+"via": [
+"title"
+],
+"title_sim": 0.789,
+"body_sim": 0.83,
+"same_group": true,
+"score": 0.83
+},
+{
+"a": "14h3",
+"b": "42b6a",
+"via": [
+"title"
+],
+"title_sim": 0.829,
+"body_sim": 0.762,
+"same_group": false,
+"score": 0.829
+},
+{
+"a": "44a4",
+"b": "44a8",
+"via": [
+"title"
+],
+"title_sim": 0.828,
+"body_sim": 0.744,
+"same_group": true,
+"score": 0.828
+},
+{
+"a": "52a14",
+"b": "52a3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.743,
+"body_sim": 0.828,
+"same_group": true,
+"score": 0.828
+},
+{
+"a": "17",
+"b": "58b",
+"via": [
+"title"
+],
+"title_sim": 0.793,
+"body_sim": 0.827,
+"same_group": false,
+"score": 0.827
+},
+{
+"a": "47i1",
+"b": "47i2",
+"via": [
+"title"
+],
+"title_sim": 0.791,
+"body_sim": 0.826,
+"same_group": true,
+"score": 0.826
+},
+{
+"a": "62b1",
+"b": "62b6",
+"via": [
+"title"
+],
+"title_sim": 0.805,
+"body_sim": 0.825,
+"same_group": true,
+"score": 0.825
+},
+{
+"a": "41r3",
+"b": "42c",
+"via": [
+"title"
+],
+"title_sim": 0.79,
+"body_sim": 0.824,
+"same_group": false,
+"score": 0.824
+},
+{
+"a": "47i7",
+"b": "47i8",
+"via": [
+"title",
+"정리후보"
+],
+"title_sim": 0.823,
+"body_sim": 0.789,
+"same_group": true,
+"score": 0.823
+},
+{
+"a": "44a4",
+"b": "44a5",
+"via": [
+"title"
+],
+"title_sim": 0.806,
+"body_sim": 0.822,
+"same_group": true,
+"score": 0.822
+},
+{
+"a": "59o",
+"b": "60e9",
+"via": [
+"정리후보"
+],
+"title_sim": 0.63,
+"body_sim": 0.822,
+"same_group": false,
+"score": 0.822
+},
+{
+"a": "38j1",
+"b": "38j2",
+"via": [
+"title"
+],
+"title_sim": 0.821,
+"body_sim": 0.659,
+"same_group": true,
+"score": 0.821
+},
+{
+"a": "41a",
+"b": "42g3",
+"via": [
+"title"
+],
+"title_sim": 0.821,
+"body_sim": 0.794,
+"same_group": false,
+"score": 0.821
+},
+{
+"a": "64i1",
+"b": "64k4",
+"via": [
+"title"
+],
+"title_sim": 0.801,
+"body_sim": 0.821,
+"same_group": true,
+"score": 0.821
+},
+{
+"a": "22e7",
+"b": "41b4b",
+"via": [
+"title"
+],
+"title_sim": 0.82,
+"body_sim": 0.784,
+"same_group": false,
+"score": 0.82
+},
+{
+"a": "59b",
+"b": "59h1",
+"via": [
+"title"
+],
+"title_sim": 0.818,
+"body_sim": 0.78,
+"same_group": true,
+"score": 0.818
+},
+{
+"a": "14b",
+"b": "36",
+"via": [
+"title",
+"정리후보"
+],
+"title_sim": 0.817,
+"body_sim": 0.808,
+"same_group": false,
+"score": 0.817
+},
+{
+"a": "43p2",
+"b": "44f",
+"via": [
+"정리후보"
+],
+"title_sim": 0.66,
+"body_sim": 0.817,
+"same_group": false,
+"score": 0.817
+},
+{
+"a": "44a4",
+"b": "44a7",
+"via": [
+"title"
+],
+"title_sim": 0.816,
+"body_sim": 0.807,
+"same_group": true,
+"score": 0.816
+},
+{
+"a": "18f2",
+"b": "40j",
+"via": [
+"title"
+],
+"title_sim": 0.802,
+"body_sim": 0.815,
+"same_group": false,
+"score": 0.815
+},
+{
+"a": "13l",
+"b": "13m",
+"via": [
+"title"
+],
+"title_sim": 0.814,
+"body_sim": 0.751,
+"same_group": true,
+"score": 0.814
+},
+{
+"a": "52e",
+"b": "53p",
+"via": [
+"title",
+"정리후보"
+],
+"title_sim": 0.782,
+"body_sim": 0.813,
+"same_group": false,
+"score": 0.813
+},
+{
+"a": "44a7",
+"b": "44a8",
+"via": [
+"title"
+],
+"title_sim": 0.807,
+"body_sim": 0.812,
+"same_group": true,
+"score": 0.812
+},
+{
+"a": "39f1",
+"b": "57i4",
+"via": [
+"title",
+"정리후보"
+],
+"title_sim": 0.811,
+"body_sim": 0.797,
+"same_group": false,
+"score": 0.811
+},
+{
+"a": "54f2",
+"b": "54f7",
+"via": [
+"title"
+],
+"title_sim": 0.81,
+"body_sim": 0.765,
+"same_group": true,
+"score": 0.81
+},
+{
+"a": "17j",
+"b": "41o",
+"via": [
+"정리후보"
+],
+"title_sim": 0.631,
+"body_sim": 0.81,
+"same_group": false,
+"score": 0.81
+},
+{
+"a": "44a1",
+"b": "44a2",
+"via": [
+"title"
+],
+"title_sim": 0.809,
+"body_sim": 0.795,
+"same_group": true,
+"score": 0.809
+},
+{
+"a": "46a",
+"b": "61q",
+"via": [
+"title"
+],
+"title_sim": 0.783,
+"body_sim": 0.809,
+"same_group": false,
+"score": 0.809
+},
+{
+"a": "53m1",
+"b": "53m3",
+"via": [
+"title"
+],
+"title_sim": 0.793,
+"body_sim": 0.809,
+"same_group": true,
+"score": 0.809
+},
+{
+"a": "53i2",
+"b": "54t2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.662,
+"body_sim": 0.808,
+"same_group": false,
+"score": 0.808
+},
+{
+"a": "65c1",
+"b": "65c2",
+"via": [
+"title"
+],
+"title_sim": 0.802,
+"body_sim": 0.807,
+"same_group": true,
+"score": 0.807
+},
+{
+"a": "42l2",
+"b": "42m1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.603,
+"body_sim": 0.806,
+"same_group": true,
+"score": 0.806
+},
+{
+"a": "59o1",
+"b": "60e6",
+"via": [
+"정리후보"
+],
+"title_sim": 0.748,
+"body_sim": 0.806,
+"same_group": false,
+"score": 0.806
+},
+{
+"a": "62b1",
+"b": "62b2",
+"via": [
+"title"
+],
+"title_sim": 0.805,
+"body_sim": 0.772,
+"same_group": true,
+"score": 0.805
+},
+{
+"a": "63u",
+"b": "63w",
+"via": [
+"title"
+],
+"title_sim": 0.803,
+"body_sim": 0.759,
+"same_group": true,
+"score": 0.803
+},
+{
+"a": "16d2",
+"b": "40e1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.708,
+"body_sim": 0.803,
+"same_group": false,
+"score": 0.803
+},
+{
+"a": "17",
+"b": "18f1",
+"via": [
+"title"
+],
+"title_sim": 0.802,
+"body_sim": 0.764,
+"same_group": false,
+"score": 0.802
+},
+{
+"a": "26b1c",
+"b": "26b1e",
+"via": [
+"title"
+],
+"title_sim": 0.802,
+"body_sim": 0.676,
+"same_group": true,
+"score": 0.802
+},
+{
+"a": "41b4a",
+"b": "42g",
+"via": [
+"title"
+],
+"title_sim": 0.783,
+"body_sim": 0.802,
+"same_group": false,
+"score": 0.802
+},
+{
+"a": "16d2",
+"b": "18f2b",
+"via": [
+"title"
+],
+"title_sim": 0.8,
+"body_sim": 0.718,
+"same_group": false,
+"score": 0.8
+},
+{
+"a": "41b16a",
+"b": "41b4a",
+"via": [
+"title"
+],
+"title_sim": 0.796,
+"body_sim": 0.8,
+"same_group": true,
+"score": 0.8
+},
+{
+"a": "43g",
+"b": "43k",
+"via": [
+"title"
+],
+"title_sim": 0.8,
+"body_sim": 0.76,
+"same_group": true,
+"score": 0.8
+},
+{
+"a": "43g3",
+"b": "44k17",
+"via": [
+"정리후보"
+],
+"title_sim": 0.558,
+"body_sim": 0.8,
+"same_group": false,
+"score": 0.8
+},
+{
+"a": "16d2",
+"b": "40j",
+"via": [
+"title"
+],
+"title_sim": 0.796,
+"body_sim": 0.799,
+"same_group": false,
+"score": 0.799
+},
+{
+"a": "20g6",
+"b": "26c",
+"via": [
+"title"
+],
+"title_sim": 0.799,
+"body_sim": 0.588,
+"same_group": false,
+"score": 0.799
+},
+{
+"a": "42f4b",
+"b": "42f4d",
+"via": [
+"title"
+],
+"title_sim": 0.799,
+"body_sim": 0.753,
+"same_group": true,
+"score": 0.799
+},
+{
+"a": "43h7",
+"b": "45b1",
+"via": [
+"title"
+],
+"title_sim": 0.799,
+"body_sim": 0.752,
+"same_group": false,
+"score": 0.799
+},
+{
+"a": "45c3",
+"b": "61h8",
+"via": [
+"정리후보"
+],
+"title_sim": 0.772,
+"body_sim": 0.799,
+"same_group": false,
+"score": 0.799
+},
+{
+"a": "17",
+"b": "58c1",
+"via": [
+"title"
+],
+"title_sim": 0.798,
+"body_sim": 0.754,
+"same_group": false,
+"score": 0.798
+},
+{
+"a": "20g6",
+"b": "20g7",
+"via": [
+"title"
+],
+"title_sim": 0.798,
+"body_sim": 0.561,
+"same_group": true,
+"score": 0.798
+},
+{
+"a": "39l2a",
+"b": "54k3",
+"via": [
+"title"
+],
+"title_sim": 0.798,
+"body_sim": 0.763,
+"same_group": false,
+"score": 0.798
+},
+{
+"a": "41a4b",
+"b": "42g1b",
+"via": [
+"title"
+],
+"title_sim": 0.798,
+"body_sim": 0.783,
+"same_group": false,
+"score": 0.798
+},
+{
+"a": "68j5",
+"b": "68j6",
+"via": [
+"title"
+],
+"title_sim": 0.798,
+"body_sim": 0.787,
+"same_group": true,
+"score": 0.798
+},
+{
+"a": "44a2",
+"b": "44a6",
+"via": [
+"title"
+],
+"title_sim": 0.797,
+"body_sim": 0.778,
+"same_group": true,
+"score": 0.797
+},
+{
+"a": "58e",
+"b": "58f",
+"via": [
+"title"
+],
+"title_sim": 0.797,
+"body_sim": 0.724,
+"same_group": true,
+"score": 0.797
+},
+{
+"a": "65i2",
+"b": "65i3",
+"via": [
+"title"
+],
+"title_sim": 0.797,
+"body_sim": 0.769,
+"same_group": true,
+"score": 0.797
+},
+{
+"a": "43j3",
+"b": "61h6",
+"via": [
+"정리후보"
+],
+"title_sim": 0.687,
+"body_sim": 0.797,
+"same_group": false,
+"score": 0.797
+},
+{
+"a": "12j3",
+"b": "12j5",
+"via": [
+"title"
+],
+"title_sim": 0.786,
+"body_sim": 0.796,
+"same_group": true,
+"score": 0.796
+},
+{
+"a": "47j4",
+"b": "47j5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.774,
+"body_sim": 0.796,
+"same_group": true,
+"score": 0.796
+},
+{
+"a": "45d3",
+"b": "45g2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.663,
+"body_sim": 0.796,
+"same_group": true,
+"score": 0.796
+},
+{
+"a": "59h3",
+"b": "60g2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.543,
+"body_sim": 0.796,
+"same_group": false,
+"score": 0.796
+},
+{
+"a": "20f2a",
+"b": "20g1a",
+"via": [
+"title"
+],
+"title_sim": 0.795,
+"body_sim": 0.626,
+"same_group": false,
+"score": 0.795
+},
+{
+"a": "47i6",
+"b": "47i7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.779,
+"body_sim": 0.795,
+"same_group": true,
+"score": 0.795
+},
+{
+"a": "52e7",
+"b": "53p7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.747,
+"body_sim": 0.795,
+"same_group": false,
+"score": 0.795
+},
+{
+"a": "20c",
+"b": "20d",
+"via": [
+"title"
+],
+"title_sim": 0.794,
+"body_sim": 0.786,
+"same_group": false,
+"score": 0.794
+},
+{
+"a": "41c2b",
+"b": "41c3",
+"via": [
+"title"
+],
+"title_sim": 0.794,
+"body_sim": 0.768,
+"same_group": true,
+"score": 0.794
+},
+{
+"a": "41g2b",
+"b": "42l1",
+"via": [
+"title"
+],
+"title_sim": 0.794,
+"body_sim": 0.778,
+"same_group": false,
+"score": 0.794
+},
+{
+"a": "39e",
+"b": "39g",
+"via": [
+"title"
+],
+"title_sim": 0.793,
+"body_sim": 0.678,
+"same_group": true,
+"score": 0.793
+},
+{
+"a": "41f4a",
+"b": "41f4b",
+"via": [
+"title"
+],
+"title_sim": 0.793,
+"body_sim": 0.788,
+"same_group": true,
+"score": 0.793
+},
+{
+"a": "47i6",
+"b": "47i8",
+"via": [
+"title",
+"정리후보"
+],
+"title_sim": 0.781,
+"body_sim": 0.793,
+"same_group": true,
+"score": 0.793
+},
+{
+"a": "53b2",
+"b": "53b3",
+"via": [
+"title"
+],
+"title_sim": 0.793,
+"body_sim": 0.779,
+"same_group": true,
+"score": 0.793
+},
+{
+"a": "70b1",
+"b": "70b4",
+"via": [
+"title"
+],
+"title_sim": 0.793,
+"body_sim": 0.76,
+"same_group": true,
+"score": 0.793
+},
+{
+"a": "42l3a",
+"b": "42n3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.636,
+"body_sim": 0.793,
+"same_group": true,
+"score": 0.793
+},
+{
+"a": "45d",
+"b": "45e",
+"via": [
+"정리후보"
+],
+"title_sim": 0.735,
+"body_sim": 0.793,
+"same_group": true,
+"score": 0.793
+},
+{
+"a": "39k1",
+"b": "54f6",
+"via": [
+"title"
+],
+"title_sim": 0.792,
+"body_sim": 0.721,
+"same_group": false,
+"score": 0.792
+},
+{
+"a": "45e",
+"b": "45h2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.629,
+"body_sim": 0.792,
+"same_group": true,
+"score": 0.792
+},
+{
+"a": "52e",
+"b": "53p4",
+"via": [
+"title"
+],
+"title_sim": 0.791,
+"body_sim": 0.791,
+"same_group": false,
+"score": 0.791
+},
+{
+"a": "9d6a",
+"b": "9d6b",
+"via": [
+"title"
+],
+"title_sim": 0.791,
+"body_sim": 0.764,
+"same_group": true,
+"score": 0.791
+},
+{
+"a": "18f2",
+"b": "40e",
+"via": [
+"title"
+],
+"title_sim": 0.79,
+"body_sim": 0.758,
+"same_group": false,
+"score": 0.79
+},
+{
+"a": "45m1",
+"b": "45m2",
+"via": [
+"title"
+],
+"title_sim": 0.79,
+"body_sim": 0.764,
+"same_group": true,
+"score": 0.79
+},
+{
+"a": "46g1",
+"b": "46g6",
+"via": [
+"title"
+],
+"title_sim": 0.79,
+"body_sim": 0.659,
+"same_group": true,
+"score": 0.79
+},
+{
+"a": "68f7",
+"b": "68g2c",
+"via": [
+"title"
+],
+"title_sim": 0.79,
+"body_sim": 0.79,
+"same_group": true,
+"score": 0.79
+},
+{
+"a": "16d",
+"b": "54f7",
+"via": [
+"title"
+],
+"title_sim": 0.789,
+"body_sim": 0.682,
+"same_group": false,
+"score": 0.789
+},
+{
+"a": "17j2",
+"b": "19i",
+"via": [
+"title"
+],
+"title_sim": 0.789,
+"body_sim": 0.776,
+"same_group": false,
+"score": 0.789
+},
+{
+"a": "18e1",
+"b": "40j",
+"via": [
+"title"
+],
+"title_sim": 0.789,
+"body_sim": 0.692,
+"same_group": false,
+"score": 0.789
+},
+{
+"a": "68r1a",
+"b": "68r3a",
+"via": [
+"title"
+],
+"title_sim": 0.789,
+"body_sim": 0.693,
+"same_group": true,
+"score": 0.789
+},
+{
+"a": "41q2a",
+"b": "41q2b",
+"via": [
+"정리후보"
+],
+"title_sim": 0.718,
+"body_sim": 0.789,
+"same_group": true,
+"score": 0.789
+},
+{
+"a": "41g10",
+"b": "41g12",
+"via": [
+"title"
+],
+"title_sim": 0.783,
+"body_sim": 0.788,
+"same_group": true,
+"score": 0.788
+},
+{
+"a": "41g4",
+"b": "41g5",
+"via": [
+"title"
+],
+"title_sim": 0.788,
+"body_sim": 0.711,
+"same_group": true,
+"score": 0.788
+},
+{
+"a": "44k7",
+"b": "45i3",
+"via": [
+"title"
+],
+"title_sim": 0.788,
+"body_sim": 0.784,
+"same_group": false,
+"score": 0.788
+},
+{
+"a": "47o3",
+"b": "47o4",
+"via": [
+"title"
+],
+"title_sim": 0.788,
+"body_sim": 0.777,
+"same_group": true,
+"score": 0.788
+},
+{
+"a": "58b",
+"b": "58e",
+"via": [
+"title"
+],
+"title_sim": 0.788,
+"body_sim": 0.779,
+"same_group": true,
+"score": 0.788
+},
+{
+"a": "18e",
+"b": "40e",
+"via": [
+"정리후보"
+],
+"title_sim": 0.569,
+"body_sim": 0.788,
+"same_group": false,
+"score": 0.788
+},
+{
+"a": "27h3",
+"b": "46h2",
+"via": [
+"title"
+],
+"title_sim": 0.787,
+"body_sim": 0.761,
+"same_group": false,
+"score": 0.787
+},
+{
+"a": "41l4",
+"b": "45k",
+"via": [
+"title"
+],
+"title_sim": 0.787,
+"body_sim": 0.745,
+"same_group": false,
+"score": 0.787
+},
+{
+"a": "64l3",
+"b": "64m9",
+"via": [
+"title"
+],
+"title_sim": 0.787,
+"body_sim": 0.714,
+"same_group": true,
+"score": 0.787
+},
+{
+"a": "17",
+"b": "54f4",
+"via": [
+"title"
+],
+"title_sim": 0.786,
+"body_sim": 0.736,
+"same_group": false,
+"score": 0.786
+},
+{
+"a": "38b",
+"b": "38c3",
+"via": [
+"title"
+],
+"title_sim": 0.786,
+"body_sim": 0.738,
+"same_group": true,
+"score": 0.786
+},
+{
+"a": "40e1",
+"b": "54b1",
+"via": [
+"title"
+],
+"title_sim": 0.786,
+"body_sim": 0.637,
+"same_group": false,
+"score": 0.786
+},
+{
+"a": "41b11",
+"b": "41b4a",
+"via": [
+"title"
+],
+"title_sim": 0.786,
+"body_sim": 0.784,
+"same_group": true,
+"score": 0.786
+},
+{
+"a": "46a2a",
+"b": "61q2a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.708,
+"body_sim": 0.786,
+"same_group": false,
+"score": 0.786
+},
+{
+"a": "40e1",
+"b": "40f",
+"via": [
+"정리후보"
+],
+"title_sim": 0.592,
+"body_sim": 0.786,
+"same_group": true,
+"score": 0.786
+},
+{
+"a": "20f10a",
+"b": "20f9",
+"via": [
+"title",
+"정리후보"
+],
+"title_sim": 0.785,
+"body_sim": 0.717,
+"same_group": true,
+"score": 0.785
+},
+{
+"a": "23i1",
+"b": "24a5",
+"via": [
+"title"
+],
+"title_sim": 0.785,
+"body_sim": 0.759,
+"same_group": false,
+"score": 0.785
+},
+{
+"a": "40g2",
+"b": "54f10",
+"via": [
+"title"
+],
+"title_sim": 0.784,
+"body_sim": 0.664,
+"same_group": false,
+"score": 0.784
+},
+{
+"a": "68b2",
+"b": "68b3",
+"via": [
+"title"
+],
+"title_sim": 0.784,
+"body_sim": 0.784,
+"same_group": true,
+"score": 0.784
+},
+{
+"a": "27h2",
+"b": "27h4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.433,
+"body_sim": 0.784,
+"same_group": true,
+"score": 0.784
+},
+{
+"a": "17e3a",
+"b": "17e3b",
+"via": [
+"title"
+],
+"title_sim": 0.783,
+"body_sim": 0.723,
+"same_group": true,
+"score": 0.783
+},
+{
+"a": "20g7",
+"b": "26c",
+"via": [
+"title"
+],
+"title_sim": 0.783,
+"body_sim": 0.681,
+"same_group": false,
+"score": 0.783
+},
+{
+"a": "45b",
+"b": "45m",
+"via": [
+"title"
+],
+"title_sim": 0.783,
+"body_sim": 0.746,
+"same_group": true,
+"score": 0.783
+},
+{
+"a": "58b",
+"b": "58f",
+"via": [
+"title"
+],
+"title_sim": 0.783,
+"body_sim": 0.753,
+"same_group": true,
+"score": 0.783
+},
+{
+"a": "18f2a",
+"b": "40h",
+"via": [
+"title",
+"정리후보"
+],
+"title_sim": 0.782,
+"body_sim": 0.75,
+"same_group": false,
+"score": 0.782
+},
+{
+"a": "10f1",
+"b": "10k",
+"via": [
+"title"
+],
+"title_sim": 0.781,
+"body_sim": 0.723,
+"same_group": true,
+"score": 0.781
+},
+{
+"a": "18f",
+"b": "54f10",
+"via": [
+"title"
+],
+"title_sim": 0.781,
+"body_sim": 0.705,
+"same_group": false,
+"score": 0.781
+},
+{
+"a": "40e",
+"b": "40j",
+"via": [
+"title"
+],
+"title_sim": 0.781,
+"body_sim": 0.75,
+"same_group": true,
+"score": 0.781
+},
+{
+"a": "52e4a",
+"b": "53p2",
+"via": [
+"title"
+],
+"title_sim": 0.781,
+"body_sim": 0.739,
+"same_group": false,
+"score": 0.781
+},
+{
+"a": "52e",
+"b": "53p7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.742,
+"body_sim": 0.779,
+"same_group": false,
+"score": 0.779
+},
+{
+"a": "18e1",
+"b": "18f2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.779,
+"body_sim": 0.663,
+"same_group": true,
+"score": 0.779
+},
+{
+"a": "45b1",
+"b": "45f2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.607,
+"body_sim": 0.779,
+"same_group": true,
+"score": 0.779
+},
+{
+"a": "52e",
+"b": "53p2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.774,
+"body_sim": 0.778,
+"same_group": false,
+"score": 0.778
+},
+{
+"a": "11a4",
+"b": "11b3b",
+"via": [
+"정리후보"
+],
+"title_sim": 0.659,
+"body_sim": 0.777,
+"same_group": true,
+"score": 0.777
+},
+{
+"a": "47b4",
+"b": "47b7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.62,
+"body_sim": 0.776,
+"same_group": true,
+"score": 0.776
+},
+{
+"a": "47o2",
+"b": "47o4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.663,
+"body_sim": 0.776,
+"same_group": true,
+"score": 0.776
+},
+{
+"a": "41b12",
+"b": "41b9",
+"via": [
+"정리후보"
+],
+"title_sim": 0.698,
+"body_sim": 0.776,
+"same_group": true,
+"score": 0.776
+},
+{
+"a": "59b1",
+"b": "60a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.574,
+"body_sim": 0.776,
+"same_group": false,
+"score": 0.776
+},
+{
+"a": "47f1",
+"b": "47f3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.606,
+"body_sim": 0.775,
+"same_group": true,
+"score": 0.775
+},
+{
+"a": "18",
+"b": "40h",
+"via": [
+"정리후보"
+],
+"title_sim": 0.436,
+"body_sim": 0.774,
+"same_group": false,
+"score": 0.774
+},
+{
+"a": "27a1b",
+"b": "27a3a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.587,
+"body_sim": 0.773,
+"same_group": true,
+"score": 0.773
+},
+{
+"a": "26e10",
+"b": "26e2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.615,
+"body_sim": 0.772,
+"same_group": true,
+"score": 0.772
+},
+{
+"a": "27h1",
+"b": "27h4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.666,
+"body_sim": 0.772,
+"same_group": true,
+"score": 0.772
+},
+{
+"a": "45l1",
+"b": "45l2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.727,
+"body_sim": 0.772,
+"same_group": true,
+"score": 0.772
+},
+{
+"a": "41k",
+"b": "62e",
+"via": [
+"정리후보"
+],
+"title_sim": 0.698,
+"body_sim": 0.771,
+"same_group": false,
+"score": 0.771
+},
+{
+"a": "43d4",
+"b": "44k20",
+"via": [
+"정리후보"
+],
+"title_sim": 0.516,
+"body_sim": 0.769,
+"same_group": false,
+"score": 0.769
+},
+{
+"a": "46f10",
+"b": "46f11",
+"via": [
+"정리후보"
+],
+"title_sim": 0.447,
+"body_sim": 0.768,
+"same_group": true,
+"score": 0.768
+},
+{
+"a": "18e",
+"b": "40e3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.615,
+"body_sim": 0.768,
+"same_group": false,
+"score": 0.768
+},
+{
+"a": "45q1",
+"b": "45q5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.603,
+"body_sim": 0.768,
+"same_group": true,
+"score": 0.768
+},
+{
+"a": "39g1",
+"b": "58v",
+"via": [
+"정리후보"
+],
+"title_sim": 0.653,
+"body_sim": 0.767,
+"same_group": false,
+"score": 0.767
+},
+{
+"a": "52e7",
+"b": "53p2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.694,
+"body_sim": 0.766,
+"same_group": false,
+"score": 0.766
+},
+{
+"a": "18e1",
+"b": "40",
+"via": [
+"정리후보"
+],
+"title_sim": 0.657,
+"body_sim": 0.766,
+"same_group": false,
+"score": 0.766
+},
+{
+"a": "53f",
+"b": "59q",
+"via": [
+"정리후보"
+],
+"title_sim": 0.685,
+"body_sim": 0.766,
+"same_group": false,
+"score": 0.766
+},
+{
+"a": "43m1",
+"b": "61p2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.608,
+"body_sim": 0.764,
+"same_group": false,
+"score": 0.764
+},
+{
+"a": "47f2",
+"b": "47f3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.73,
+"body_sim": 0.762,
+"same_group": true,
+"score": 0.762
+},
+{
+"a": "59c",
+"b": "60d",
+"via": [
+"정리후보"
+],
+"title_sim": 0.642,
+"body_sim": 0.762,
+"same_group": false,
+"score": 0.762
+},
+{
+"a": "47b12",
+"b": "47b14",
+"via": [
+"정리후보"
+],
+"title_sim": 0.611,
+"body_sim": 0.761,
+"same_group": true,
+"score": 0.761
+},
+{
+"a": "41j4",
+"b": "41k",
+"via": [
+"정리후보"
+],
+"title_sim": 0.701,
+"body_sim": 0.76,
+"same_group": true,
+"score": 0.76
+},
+{
+"a": "51g4a",
+"b": "53k3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.69,
+"body_sim": 0.76,
+"same_group": false,
+"score": 0.76
+},
+{
+"a": "52f4b",
+"b": "52f4c",
+"via": [
+"정리후보"
+],
+"title_sim": 0.666,
+"body_sim": 0.76,
+"same_group": true,
+"score": 0.76
+},
+{
+"a": "64r4",
+"b": "64r5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.654,
+"body_sim": 0.758,
+"same_group": true,
+"score": 0.758
+},
+{
+"a": "45d3",
+"b": "45d4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.603,
+"body_sim": 0.758,
+"same_group": true,
+"score": 0.758
+},
+{
+"a": "53p2",
+"b": "53p7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.659,
+"body_sim": 0.757,
+"same_group": true,
+"score": 0.757
+},
+{
+"a": "35i2",
+"b": "35i3a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.631,
+"body_sim": 0.757,
+"same_group": true,
+"score": 0.757
+},
+{
+"a": "18e1",
+"b": "40e1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.757,
+"body_sim": 0.702,
+"same_group": false,
+"score": 0.757
+},
+{
+"a": "47c16",
+"b": "47h9",
+"via": [
+"정리후보"
+],
+"title_sim": 0.528,
+"body_sim": 0.756,
+"same_group": true,
+"score": 0.756
+},
+{
+"a": "18f2",
+"b": "40f",
+"via": [
+"정리후보"
+],
+"title_sim": 0.636,
+"body_sim": 0.756,
+"same_group": false,
+"score": 0.756
+},
+{
+"a": "47f1",
+"b": "47f2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.7,
+"body_sim": 0.755,
+"same_group": true,
+"score": 0.755
+},
+{
+"a": "41f1b",
+"b": "41g3a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.681,
+"body_sim": 0.755,
+"same_group": true,
+"score": 0.755
+},
+{
+"a": "27b5b",
+"b": "27b8b",
+"via": [
+"정리후보"
+],
+"title_sim": 0.583,
+"body_sim": 0.755,
+"same_group": true,
+"score": 0.755
+},
+{
+"a": "18f2",
+"b": "40e1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.658,
+"body_sim": 0.755,
+"same_group": false,
+"score": 0.755
+},
+{
+"a": "52e7",
+"b": "53p",
+"via": [
+"정리후보"
+],
+"title_sim": 0.72,
+"body_sim": 0.754,
+"same_group": false,
+"score": 0.754
+},
+{
+"a": "40e1",
+"b": "40h",
+"via": [
+"정리후보"
+],
+"title_sim": 0.637,
+"body_sim": 0.754,
+"same_group": true,
+"score": 0.754
+},
+{
+"a": "10e",
+"b": "58q1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.631,
+"body_sim": 0.753,
+"same_group": false,
+"score": 0.753
+},
+{
+"a": "43f",
+"b": "44k6",
+"via": [
+"정리후보"
+],
+"title_sim": 0.615,
+"body_sim": 0.753,
+"same_group": false,
+"score": 0.753
+},
+{
+"a": "45d4",
+"b": "45g2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.569,
+"body_sim": 0.753,
+"same_group": true,
+"score": 0.753
+},
+{
+"a": "61p11",
+"b": "61p12",
+"via": [
+"정리후보"
+],
+"title_sim": 0.526,
+"body_sim": 0.75,
+"same_group": true,
+"score": 0.75
+},
+{
+"a": "45d",
+"b": "45h2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.593,
+"body_sim": 0.75,
+"same_group": true,
+"score": 0.75
+},
+{
+"a": "45l1",
+"b": "45m2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.749,
+"body_sim": 0.75,
+"same_group": true,
+"score": 0.75
+},
+{
+"a": "1d",
+"b": "9c4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.605,
+"body_sim": 0.749,
+"same_group": false,
+"score": 0.749
+},
+{
+"a": "47l4",
+"b": "47l8",
+"via": [
+"정리후보"
+],
+"title_sim": 0.641,
+"body_sim": 0.748,
+"same_group": true,
+"score": 0.748
+},
+{
+"a": "41j1a",
+"b": "62p4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.633,
+"body_sim": 0.748,
+"same_group": false,
+"score": 0.748
+},
+{
+"a": "64f2",
+"b": "64q",
+"via": [
+"정리후보"
+],
+"title_sim": 0.748,
+"body_sim": 0.733,
+"same_group": true,
+"score": 0.748
+},
+{
+"a": "56h1",
+"b": "56h2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.651,
+"body_sim": 0.745,
+"same_group": true,
+"score": 0.745
+},
+{
+"a": "39c1",
+"b": "39g1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.584,
+"body_sim": 0.742,
+"same_group": true,
+"score": 0.742
+},
+{
+"a": "6m5",
+"b": "7a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.741,
+"body_sim": 0.729,
+"same_group": false,
+"score": 0.741
+},
+{
+"a": "20d3",
+"b": "20d6",
+"via": [
+"정리후보"
+],
+"title_sim": 0.708,
+"body_sim": 0.741,
+"same_group": true,
+"score": 0.741
+},
+{
+"a": "41b11a",
+"b": "41b12",
+"via": [
+"정리후보"
+],
+"title_sim": 0.654,
+"body_sim": 0.74,
+"same_group": true,
+"score": 0.74
+},
+{
+"a": "41i13a",
+"b": "41i8",
+"via": [
+"정리후보"
+],
+"title_sim": 0.705,
+"body_sim": 0.74,
+"same_group": true,
+"score": 0.74
+},
+{
+"a": "64i1",
+"b": "64r3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.633,
+"body_sim": 0.74,
+"same_group": true,
+"score": 0.74
+},
+{
+"a": "43g2",
+"b": "61p13",
+"via": [
+"정리후보"
+],
+"title_sim": 0.559,
+"body_sim": 0.74,
+"same_group": false,
+"score": 0.74
+},
+{
+"a": "39e3",
+"b": "57j",
+"via": [
+"정리후보"
+],
+"title_sim": 0.62,
+"body_sim": 0.739,
+"same_group": false,
+"score": 0.739
+},
+{
+"a": "44a4",
+"b": "5a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.598,
+"body_sim": 0.738,
+"same_group": false,
+"score": 0.738
+},
+{
+"a": "43k1",
+"b": "43k4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.53,
+"body_sim": 0.737,
+"same_group": true,
+"score": 0.737
+},
+{
+"a": "59j6",
+"b": "60b4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.658,
+"body_sim": 0.737,
+"same_group": false,
+"score": 0.737
+},
+{
+"a": "60b4",
+"b": "60b5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.73,
+"body_sim": 0.737,
+"same_group": true,
+"score": 0.737
+},
+{
+"a": "11b1b",
+"b": "3a1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.598,
+"body_sim": 0.736,
+"same_group": false,
+"score": 0.736
+},
+{
+"a": "16d1",
+"b": "18d1b",
+"via": [
+"정리후보"
+],
+"title_sim": 0.533,
+"body_sim": 0.736,
+"same_group": false,
+"score": 0.736
+},
+{
+"a": "59j1",
+"b": "59j5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.736,
+"body_sim": 0.732,
+"same_group": true,
+"score": 0.736
+},
+{
+"a": "3e1",
+"b": "57h4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.613,
+"body_sim": 0.734,
+"same_group": false,
+"score": 0.734
+},
+{
+"a": "16e",
+"b": "17g5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.658,
+"body_sim": 0.733,
+"same_group": false,
+"score": 0.733
+},
+{
+"a": "59j6",
+"b": "59j7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.523,
+"body_sim": 0.733,
+"same_group": true,
+"score": 0.733
+},
+{
+"a": "11c",
+"b": "62o4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.719,
+"body_sim": 0.732,
+"same_group": false,
+"score": 0.732
+},
+{
+"a": "61p11",
+"b": "61p13",
+"via": [
+"정리후보"
+],
+"title_sim": 0.568,
+"body_sim": 0.732,
+"same_group": true,
+"score": 0.732
+},
+{
+"a": "43k1",
+"b": "61p23",
+"via": [
+"정리후보"
+],
+"title_sim": 0.703,
+"body_sim": 0.731,
+"same_group": false,
+"score": 0.731
+},
+{
+"a": "52c21",
+"b": "65l5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.539,
+"body_sim": 0.731,
+"same_group": false,
+"score": 0.731
+},
+{
+"a": "53k4",
+"b": "59n",
+"via": [
+"정리후보"
+],
+"title_sim": 0.56,
+"body_sim": 0.731,
+"same_group": false,
+"score": 0.731
+},
+{
+"a": "22e7",
+"b": "42g",
+"via": [
+"정리후보"
+],
+"title_sim": 0.693,
+"body_sim": 0.73,
+"same_group": false,
+"score": 0.73
+},
+{
+"a": "52d4a",
+"b": "52d4b",
+"via": [
+"정리후보"
+],
+"title_sim": 0.639,
+"body_sim": 0.729,
+"same_group": true,
+"score": 0.729
+},
+{
+"a": "53e6",
+"b": "53f7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.643,
+"body_sim": 0.729,
+"same_group": true,
+"score": 0.729
+},
+{
+"a": "43k3a",
+"b": "61p18",
+"via": [
+"정리후보"
+],
+"title_sim": 0.593,
+"body_sim": 0.729,
+"same_group": false,
+"score": 0.729
+},
+{
+"a": "6m2",
+"b": "7b",
+"via": [
+"정리후보"
+],
+"title_sim": 0.572,
+"body_sim": 0.728,
+"same_group": false,
+"score": 0.728
+},
+{
+"a": "37c1",
+"b": "37c3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.649,
+"body_sim": 0.728,
+"same_group": true,
+"score": 0.728
+},
+{
+"a": "39a1",
+"b": "57i4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.606,
+"body_sim": 0.728,
+"same_group": false,
+"score": 0.728
+},
+{
+"a": "45l2",
+"b": "45m2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.713,
+"body_sim": 0.727,
+"same_group": true,
+"score": 0.727
+},
+{
+"a": "38c",
+"b": "6m3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.599,
+"body_sim": 0.726,
+"same_group": false,
+"score": 0.726
+},
+{
+"a": "47l3",
+"b": "47l4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.502,
+"body_sim": 0.726,
+"same_group": true,
+"score": 0.726
+},
+{
+"a": "47g14",
+"b": "47g4a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.709,
+"body_sim": 0.726,
+"same_group": true,
+"score": 0.726
+},
+{
+"a": "42g2",
+"b": "42g4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.62,
+"body_sim": 0.726,
+"same_group": true,
+"score": 0.726
+},
+{
+"a": "41a6b",
+"b": "41b4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.709,
+"body_sim": 0.725,
+"same_group": true,
+"score": 0.725
+},
+{
+"a": "43g4a",
+"b": "61p14",
+"via": [
+"정리후보"
+],
+"title_sim": 0.566,
+"body_sim": 0.724,
+"same_group": false,
+"score": 0.724
+},
+{
+"a": "20d4",
+"b": "20d6",
+"via": [
+"정리후보"
+],
+"title_sim": 0.613,
+"body_sim": 0.724,
+"same_group": true,
+"score": 0.724
+},
+{
+"a": "52e11",
+"b": "52e3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.604,
+"body_sim": 0.723,
+"same_group": true,
+"score": 0.723
+},
+{
+"a": "35e",
+"b": "7i2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.641,
+"body_sim": 0.722,
+"same_group": false,
+"score": 0.722
+},
+{
+"a": "20d6",
+"b": "20g3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.722,
+"body_sim": 0.629,
+"same_group": false,
+"score": 0.722
+},
+{
+"a": "43k4",
+"b": "61p23",
+"via": [
+"정리후보"
+],
+"title_sim": 0.498,
+"body_sim": 0.721,
+"same_group": false,
+"score": 0.721
+},
+{
+"a": "27b3",
+"b": "27b7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.664,
+"body_sim": 0.72,
+"same_group": true,
+"score": 0.72
+},
+{
+"a": "20f7b",
+"b": "20f7c",
+"via": [
+"정리후보"
+],
+"title_sim": 0.588,
+"body_sim": 0.72,
+"same_group": true,
+"score": 0.72
+},
+{
+"a": "17j2",
+"b": "41o2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.681,
+"body_sim": 0.718,
+"same_group": false,
+"score": 0.718
+},
+{
+"a": "42b1a",
+"b": "42b1b",
+"via": [
+"정리후보"
+],
+"title_sim": 0.53,
+"body_sim": 0.717,
+"same_group": true,
+"score": 0.717
+},
+{
+"a": "45q3",
+"b": "45q5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.511,
+"body_sim": 0.717,
+"same_group": true,
+"score": 0.717
+},
+{
+"a": "52e11",
+"b": "52e8",
+"via": [
+"정리후보"
+],
+"title_sim": 0.646,
+"body_sim": 0.716,
+"same_group": true,
+"score": 0.716
+},
+{
+"a": "43g2",
+"b": "61p11",
+"via": [
+"정리후보"
+],
+"title_sim": 0.623,
+"body_sim": 0.716,
+"same_group": false,
+"score": 0.716
+},
+{
+"a": "43k1",
+"b": "43k2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.495,
+"body_sim": 0.716,
+"same_group": true,
+"score": 0.716
+},
+{
+"a": "47c18",
+"b": "47f3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.617,
+"body_sim": 0.715,
+"same_group": true,
+"score": 0.715
+},
+{
+"a": "43k1",
+"b": "61h13",
+"via": [
+"정리후보"
+],
+"title_sim": 0.612,
+"body_sim": 0.715,
+"same_group": false,
+"score": 0.715
+},
+{
+"a": "47g2",
+"b": "47k7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.571,
+"body_sim": 0.714,
+"same_group": true,
+"score": 0.714
+},
+{
+"a": "52d2d",
+"b": "52d2e",
+"via": [
+"정리후보"
+],
+"title_sim": 0.51,
+"body_sim": 0.714,
+"same_group": true,
+"score": 0.714
+},
+{
+"a": "44h3",
+"b": "44h7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.714,
+"body_sim": 0.702,
+"same_group": true,
+"score": 0.714
+},
+{
+"a": "45c3",
+"b": "61h5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.603,
+"body_sim": 0.714,
+"same_group": false,
+"score": 0.714
+},
+{
+"a": "17g3",
+"b": "17g5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.526,
+"body_sim": 0.713,
+"same_group": true,
+"score": 0.713
+},
+{
+"a": "39c1",
+"b": "58v",
+"via": [
+"정리후보"
+],
+"title_sim": 0.546,
+"body_sim": 0.713,
+"same_group": false,
+"score": 0.713
+},
+{
+"a": "51i2d",
+"b": "51i2e",
+"via": [
+"정리후보"
+],
+"title_sim": 0.643,
+"body_sim": 0.712,
+"same_group": true,
+"score": 0.712
+},
+{
+"a": "4",
+"b": "58l",
+"via": [
+"정리후보"
+],
+"title_sim": 0.712,
+"body_sim": 0.673,
+"same_group": false,
+"score": 0.712
+},
+{
+"a": "20f10a",
+"b": "21e1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.712,
+"body_sim": 0.608,
+"same_group": false,
+"score": 0.712
+},
+{
+"a": "47e3",
+"b": "47e4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.571,
+"body_sim": 0.711,
+"same_group": true,
+"score": 0.711
+},
+{
+"a": "57n4",
+"b": "7i",
+"via": [
+"정리후보"
+],
+"title_sim": 0.589,
+"body_sim": 0.71,
+"same_group": false,
+"score": 0.71
+},
+{
+"a": "42d8",
+"b": "42d9",
+"via": [
+"정리후보"
+],
+"title_sim": 0.678,
+"body_sim": 0.709,
+"same_group": true,
+"score": 0.709
+},
+{
+"a": "44h10",
+"b": "44h5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.593,
+"body_sim": 0.708,
+"same_group": true,
+"score": 0.708
+},
+{
+"a": "18f2a",
+"b": "40e1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.648,
+"body_sim": 0.707,
+"same_group": false,
+"score": 0.707
+},
+{
+"a": "20f10a",
+"b": "21b",
+"via": [
+"정리후보"
+],
+"title_sim": 0.653,
+"body_sim": 0.707,
+"same_group": false,
+"score": 0.707
+},
+{
+"a": "44h4",
+"b": "44h8",
+"via": [
+"정리후보"
+],
+"title_sim": 0.705,
+"body_sim": 0.673,
+"same_group": true,
+"score": 0.705
+},
+{
+"a": "55h2",
+"b": "55u7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.668,
+"body_sim": 0.704,
+"same_group": true,
+"score": 0.704
+},
+{
+"a": "44h7",
+"b": "44h9",
+"via": [
+"정리후보"
+],
+"title_sim": 0.555,
+"body_sim": 0.703,
+"same_group": true,
+"score": 0.703
+},
+{
+"a": "20c1b",
+"b": "20c2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.703,
+"body_sim": 0.666,
+"same_group": true,
+"score": 0.703
+},
+{
+"a": "6m5",
+"b": "6m6",
+"via": [
+"정리후보"
+],
+"title_sim": 0.66,
+"body_sim": 0.702,
+"same_group": true,
+"score": 0.702
+},
+{
+"a": "18e",
+"b": "40a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.615,
+"body_sim": 0.702,
+"same_group": false,
+"score": 0.702
+},
+{
+"a": "18",
+"b": "40e1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.471,
+"body_sim": 0.701,
+"same_group": false,
+"score": 0.701
+},
+{
+"a": "22",
+"b": "41n1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.525,
+"body_sim": 0.7,
+"same_group": false,
+"score": 0.7
+},
+{
+"a": "43h7",
+"b": "9d6c1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.699,
+"body_sim": 0.67,
+"same_group": false,
+"score": 0.699
+},
+{
+"a": "46j3",
+"b": "47m",
+"via": [
+"정리후보"
+],
+"title_sim": 0.645,
+"body_sim": 0.698,
+"same_group": false,
+"score": 0.698
+},
+{
+"a": "53i1",
+"b": "53i9",
+"via": [
+"정리후보"
+],
+"title_sim": 0.572,
+"body_sim": 0.698,
+"same_group": true,
+"score": 0.698
+},
+{
+"a": "44h3",
+"b": "44h4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.698,
+"body_sim": 0.664,
+"same_group": true,
+"score": 0.698
+},
+{
+"a": "43k2",
+"b": "43k4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.502,
+"body_sim": 0.697,
+"same_group": true,
+"score": 0.697
+},
+{
+"a": "20d3",
+"b": "20d5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.603,
+"body_sim": 0.697,
+"same_group": true,
+"score": 0.697
+},
+{
+"a": "16d1",
+"b": "40c",
+"via": [
+"정리후보"
+],
+"title_sim": 0.526,
+"body_sim": 0.696,
+"same_group": false,
+"score": 0.696
+},
+{
+"a": "57i2",
+"b": "57i3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.635,
+"body_sim": 0.696,
+"same_group": true,
+"score": 0.696
+},
+{
+"a": "20d4",
+"b": "20g1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.696,
+"body_sim": 0.638,
+"same_group": false,
+"score": 0.696
+},
+{
+"a": "25i1a",
+"b": "25i1b",
+"via": [
+"정리후보"
+],
+"title_sim": 0.518,
+"body_sim": 0.695,
+"same_group": true,
+"score": 0.695
+},
+{
+"a": "57e3",
+"b": "58g",
+"via": [
+"정리후보"
+],
+"title_sim": 0.528,
+"body_sim": 0.695,
+"same_group": false,
+"score": 0.695
+},
+{
+"a": "43g2",
+"b": "61p12",
+"via": [
+"정리후보"
+],
+"title_sim": 0.547,
+"body_sim": 0.695,
+"same_group": false,
+"score": 0.695
+},
+{
+"a": "56e3",
+"b": "56j",
+"via": [
+"정리후보"
+],
+"title_sim": 0.694,
+"body_sim": 0.613,
+"same_group": true,
+"score": 0.694
+},
+{
+"a": "42g4",
+"b": "42g8b",
+"via": [
+"정리후보"
+],
+"title_sim": 0.567,
+"body_sim": 0.694,
+"same_group": true,
+"score": 0.694
+},
+{
+"a": "44h4",
+"b": "44h7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.66,
+"body_sim": 0.694,
+"same_group": true,
+"score": 0.694
+},
+{
+"a": "20d2",
+"b": "20d3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.564,
+"body_sim": 0.694,
+"same_group": true,
+"score": 0.694
+},
+{
+"a": "18e1",
+"b": "40f",
+"via": [
+"정리후보"
+],
+"title_sim": 0.663,
+"body_sim": 0.693,
+"same_group": false,
+"score": 0.693
+},
+{
+"a": "26f2a",
+"b": "26f3a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.611,
+"body_sim": 0.692,
+"same_group": true,
+"score": 0.692
+},
+{
+"a": "20d3",
+"b": "20d4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.582,
+"body_sim": 0.692,
+"same_group": true,
+"score": 0.692
+},
+{
+"a": "49n",
+"b": "60b",
+"via": [
+"정리후보"
+],
+"title_sim": 0.657,
+"body_sim": 0.692,
+"same_group": false,
+"score": 0.692
+},
+{
+"a": "44k6d",
+"b": "61p1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.537,
+"body_sim": 0.691,
+"same_group": false,
+"score": 0.691
+},
+{
+"a": "20d3",
+"b": "20d7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.459,
+"body_sim": 0.691,
+"same_group": true,
+"score": 0.691
+},
+{
+"a": "47l3",
+"b": "47l8",
+"via": [
+"정리후보"
+],
+"title_sim": 0.549,
+"body_sim": 0.69,
+"same_group": true,
+"score": 0.69
+},
+{
+"a": "16g1",
+"b": "57i3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.69,
+"body_sim": 0.646,
+"same_group": false,
+"score": 0.69
+},
+{
+"a": "45q2",
+"b": "45q5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.689,
+"body_sim": 0.69,
+"same_group": true,
+"score": 0.69
+},
+{
+"a": "40a",
+"b": "40b",
+"via": [
+"정리후보"
+],
+"title_sim": 0.64,
+"body_sim": 0.689,
+"same_group": true,
+"score": 0.689
+},
+{
+"a": "53m2",
+"b": "56i",
+"via": [
+"정리후보"
+],
+"title_sim": 0.544,
+"body_sim": 0.688,
+"same_group": false,
+"score": 0.688
+},
+{
+"a": "44a4",
+"b": "5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.654,
+"body_sim": 0.688,
+"same_group": false,
+"score": 0.688
+},
+{
+"a": "45q1",
+"b": "45q3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.459,
+"body_sim": 0.688,
+"same_group": true,
+"score": 0.688
+},
+{
+"a": "41l5",
+"b": "62c2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.607,
+"body_sim": 0.687,
+"same_group": false,
+"score": 0.687
+},
+{
+"a": "20c3c",
+"b": "20e5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.576,
+"body_sim": 0.687,
+"same_group": false,
+"score": 0.687
+},
+{
+"a": "20e5",
+"b": "20g9",
+"via": [
+"정리후보"
+],
+"title_sim": 0.67,
+"body_sim": 0.687,
+"same_group": false,
+"score": 0.687
+},
+{
+"a": "52e11",
+"b": "53p7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.686,
+"body_sim": 0.656,
+"same_group": false,
+"score": 0.686
+},
+{
+"a": "43k2",
+"b": "61p15",
+"via": [
+"정리후보"
+],
+"title_sim": 0.648,
+"body_sim": 0.686,
+"same_group": false,
+"score": 0.686
+},
+{
+"a": "42a4",
+"b": "42a5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.526,
+"body_sim": 0.685,
+"same_group": true,
+"score": 0.685
+},
+{
+"a": "64g2",
+"b": "64r5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.621,
+"body_sim": 0.684,
+"same_group": true,
+"score": 0.684
+},
+{
+"a": "52e8",
+"b": "53p2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.572,
+"body_sim": 0.683,
+"same_group": false,
+"score": 0.683
+},
+{
+"a": "52b4d",
+"b": "52b4e",
+"via": [
+"정리후보"
+],
+"title_sim": 0.564,
+"body_sim": 0.683,
+"same_group": true,
+"score": 0.683
+},
+{
+"a": "43k3",
+"b": "61p21",
+"via": [
+"정리후보"
+],
+"title_sim": 0.682,
+"body_sim": 0.666,
+"same_group": false,
+"score": 0.682
+},
+{
+"a": "53e",
+"b": "59p",
+"via": [
+"정리후보"
+],
+"title_sim": 0.654,
+"body_sim": 0.682,
+"same_group": false,
+"score": 0.682
+},
+{
+"a": "47a3a",
+"b": "47c17",
+"via": [
+"정리후보"
+],
+"title_sim": 0.537,
+"body_sim": 0.68,
+"same_group": true,
+"score": 0.68
+},
+{
+"a": "52e11",
+"b": "53p",
+"via": [
+"정리후보"
+],
+"title_sim": 0.662,
+"body_sim": 0.68,
+"same_group": false,
+"score": 0.68
+},
+{
+"a": "14f",
+"b": "36f",
+"via": [
+"정리후보"
+],
+"title_sim": 0.595,
+"body_sim": 0.68,
+"same_group": false,
+"score": 0.68
+},
+{
+"a": "44h7",
+"b": "44h8",
+"via": [
+"정리후보"
+],
+"title_sim": 0.66,
+"body_sim": 0.679,
+"same_group": true,
+"score": 0.679
+},
+{
+"a": "43f2",
+"b": "44k4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.519,
+"body_sim": 0.678,
+"same_group": false,
+"score": 0.678
+},
+{
+"a": "47a3a",
+"b": "47d7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.486,
+"body_sim": 0.677,
+"same_group": true,
+"score": 0.677
+},
+{
+"a": "46j",
+"b": "47n2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.444,
+"body_sim": 0.676,
+"same_group": false,
+"score": 0.676
+},
+{
+"a": "52e11",
+"b": "53p2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.576,
+"body_sim": 0.675,
+"same_group": false,
+"score": 0.675
+},
+{
+"a": "18e",
+"b": "40a1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.528,
+"body_sim": 0.675,
+"same_group": false,
+"score": 0.675
+},
+{
+"a": "16d3",
+"b": "40e1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.675,
+"body_sim": 0.63,
+"same_group": false,
+"score": 0.675
+},
+{
+"a": "41k",
+"b": "47r",
+"via": [
+"정리후보"
+],
+"title_sim": 0.674,
+"body_sim": 0.614,
+"same_group": false,
+"score": 0.674
+},
+{
+"a": "43f1",
+"b": "44h5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.618,
+"body_sim": 0.674,
+"same_group": false,
+"score": 0.674
+},
+{
+"a": "20d3",
+"b": "20g1a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.583,
+"body_sim": 0.674,
+"same_group": false,
+"score": 0.674
+},
+{
+"a": "8b4a1",
+"b": "9d3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.608,
+"body_sim": 0.673,
+"same_group": false,
+"score": 0.673
+},
+{
+"a": "41g14",
+"b": "41g5c",
+"via": [
+"정리후보"
+],
+"title_sim": 0.517,
+"body_sim": 0.673,
+"same_group": true,
+"score": 0.673
+},
+{
+"a": "27h1",
+"b": "27h2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.372,
+"body_sim": 0.673,
+"same_group": true,
+"score": 0.673
+},
+{
+"a": "16e",
+"b": "17g3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.673,
+"body_sim": 0.62,
+"same_group": false,
+"score": 0.673
+},
+{
+"a": "3a1",
+"b": "3e",
+"via": [
+"정리후보"
+],
+"title_sim": 0.596,
+"body_sim": 0.672,
+"same_group": true,
+"score": 0.672
+},
+{
+"a": "44k6d",
+"b": "61p2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.51,
+"body_sim": 0.671,
+"same_group": false,
+"score": 0.671
+},
+{
+"a": "49n2",
+"b": "59j5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.643,
+"body_sim": 0.671,
+"same_group": false,
+"score": 0.671
+},
+{
+"a": "59j6",
+"b": "60b5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.567,
+"body_sim": 0.671,
+"same_group": false,
+"score": 0.671
+},
+{
+"a": "9d6c1",
+"b": "9d6c2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.65,
+"body_sim": 0.67,
+"same_group": true,
+"score": 0.67
+},
+{
+"a": "55d8",
+"b": "55m1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.67,
+"body_sim": 0.633,
+"same_group": true,
+"score": 0.67
+},
+{
+"a": "17j2",
+"b": "41o4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.586,
+"body_sim": 0.67,
+"same_group": false,
+"score": 0.67
+},
+{
+"a": "51c1d",
+"b": "51c4a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.619,
+"body_sim": 0.67,
+"same_group": true,
+"score": 0.67
+},
+{
+"a": "17e4a",
+"b": "19i4a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.67,
+"body_sim": 0.659,
+"same_group": false,
+"score": 0.67
+},
+{
+"a": "59o2",
+"b": "60e7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.669,
+"body_sim": 0.67,
+"same_group": false,
+"score": 0.67
+},
+{
+"a": "15c",
+"b": "37c1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.596,
+"body_sim": 0.669,
+"same_group": false,
+"score": 0.669
+},
+{
+"a": "39c1",
+"b": "58v1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.581,
+"body_sim": 0.669,
+"same_group": false,
+"score": 0.669
+},
+{
+"a": "60f4",
+"b": "60f5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.532,
+"body_sim": 0.668,
+"same_group": true,
+"score": 0.668
+},
+{
+"a": "20f10",
+"b": "20f9",
+"via": [
+"정리후보"
+],
+"title_sim": 0.639,
+"body_sim": 0.667,
+"same_group": true,
+"score": 0.667
+},
+{
+"a": "20f10a",
+"b": "21b1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.471,
+"body_sim": 0.667,
+"same_group": false,
+"score": 0.667
+},
+{
+"a": "46j",
+"b": "47m",
+"via": [
+"정리후보"
+],
+"title_sim": 0.503,
+"body_sim": 0.666,
+"same_group": false,
+"score": 0.666
+},
+{
+"a": "6m6",
+"b": "7a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.562,
+"body_sim": 0.665,
+"same_group": false,
+"score": 0.665
+},
+{
+"a": "52e11",
+"b": "52e7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.616,
+"body_sim": 0.665,
+"same_group": true,
+"score": 0.665
+},
+{
+"a": "44h3",
+"b": "44h8",
+"via": [
+"정리후보"
+],
+"title_sim": 0.665,
+"body_sim": 0.65,
+"same_group": true,
+"score": 0.665
+},
+{
+"a": "18e1",
+"b": "18f2a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.625,
+"body_sim": 0.664,
+"same_group": true,
+"score": 0.664
+},
+{
+"a": "44h4",
+"b": "44h9",
+"via": [
+"정리후보"
+],
+"title_sim": 0.554,
+"body_sim": 0.664,
+"same_group": true,
+"score": 0.664
+},
+{
+"a": "20d5",
+"b": "20d6",
+"via": [
+"정리후보"
+],
+"title_sim": 0.554,
+"body_sim": 0.664,
+"same_group": true,
+"score": 0.664
+},
+{
+"a": "22e7c",
+"b": "42g11",
+"via": [
+"정리후보"
+],
+"title_sim": 0.663,
+"body_sim": 0.63,
+"same_group": false,
+"score": 0.663
+},
+{
+"a": "53i1",
+"b": "53i2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.564,
+"body_sim": 0.663,
+"same_group": true,
+"score": 0.663
+},
+{
+"a": "58i3",
+"b": "58l2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.653,
+"body_sim": 0.663,
+"same_group": true,
+"score": 0.663
+},
+{
+"a": "61p12",
+"b": "61p13",
+"via": [
+"정리후보"
+],
+"title_sim": 0.47,
+"body_sim": 0.663,
+"same_group": true,
+"score": 0.663
+},
+{
+"a": "16d1",
+"b": "40e",
+"via": [
+"정리후보"
+],
+"title_sim": 0.612,
+"body_sim": 0.662,
+"same_group": false,
+"score": 0.662
+},
+{
+"a": "20f9",
+"b": "21e1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.662,
+"body_sim": 0.603,
+"same_group": false,
+"score": 0.662
+},
+{
+"a": "49n2",
+"b": "60b2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.614,
+"body_sim": 0.662,
+"same_group": false,
+"score": 0.662
+},
+{
+"a": "6m5",
+"b": "7e2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.661,
+"body_sim": 0.615,
+"same_group": false,
+"score": 0.661
+},
+{
+"a": "54b",
+"b": "54f",
+"via": [
+"정리후보"
+],
+"title_sim": 0.609,
+"body_sim": 0.66,
+"same_group": true,
+"score": 0.66
+},
+{
+"a": "47c13",
+"b": "47h",
+"via": [
+"정리후보"
+],
+"title_sim": 0.462,
+"body_sim": 0.66,
+"same_group": true,
+"score": 0.66
+},
+{
+"a": "16d1",
+"b": "40a1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.515,
+"body_sim": 0.66,
+"same_group": false,
+"score": 0.66
+},
+{
+"a": "39e3",
+"b": "57k",
+"via": [
+"정리후보"
+],
+"title_sim": 0.659,
+"body_sim": 0.659,
+"same_group": false,
+"score": 0.659
+},
+{
+"a": "64f2",
+"b": "64i5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.598,
+"body_sim": 0.659,
+"same_group": true,
+"score": 0.659
+},
+{
+"a": "49n2",
+"b": "59j1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.606,
+"body_sim": 0.659,
+"same_group": false,
+"score": 0.659
+},
+{
+"a": "53k4",
+"b": "53k6",
+"via": [
+"정리후보"
+],
+"title_sim": 0.573,
+"body_sim": 0.659,
+"same_group": true,
+"score": 0.659
+},
+{
+"a": "26a1",
+"b": "26b",
+"via": [
+"정리후보"
+],
+"title_sim": 0.545,
+"body_sim": 0.658,
+"same_group": true,
+"score": 0.658
+},
+{
+"a": "18f2",
+"b": "40",
+"via": [
+"정리후보"
+],
+"title_sim": 0.658,
+"body_sim": 0.612,
+"same_group": false,
+"score": 0.658
+},
+{
+"a": "64k6",
+"b": "64r7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.533,
+"body_sim": 0.658,
+"same_group": true,
+"score": 0.658
+},
+{
+"a": "56c1",
+"b": "56d4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.531,
+"body_sim": 0.657,
+"same_group": true,
+"score": 0.657
+},
+{
+"a": "20d3",
+"b": "20d5a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.64,
+"body_sim": 0.657,
+"same_group": true,
+"score": 0.657
+},
+{
+"a": "41l5a",
+"b": "62c2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.58,
+"body_sim": 0.656,
+"same_group": false,
+"score": 0.656
+},
+{
+"a": "20f2b",
+"b": "21e1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.656,
+"body_sim": 0.656,
+"same_group": false,
+"score": 0.656
+},
+{
+"a": "43f2",
+"b": "61p6",
+"via": [
+"정리후보"
+],
+"title_sim": 0.623,
+"body_sim": 0.656,
+"same_group": false,
+"score": 0.656
+},
+{
+"a": "56c2a",
+"b": "56d18",
+"via": [
+"정리후보"
+],
+"title_sim": 0.641,
+"body_sim": 0.655,
+"same_group": true,
+"score": 0.655
+},
+{
+"a": "53i",
+"b": "54t",
+"via": [
+"정리후보"
+],
+"title_sim": 0.596,
+"body_sim": 0.655,
+"same_group": false,
+"score": 0.655
+},
+{
+"a": "20f1a",
+"b": "20f1b",
+"via": [
+"정리후보"
+],
+"title_sim": 0.57,
+"body_sim": 0.655,
+"same_group": true,
+"score": 0.655
+},
+{
+"a": "20b5",
+"b": "20c4c",
+"via": [
+"정리후보"
+],
+"title_sim": 0.582,
+"body_sim": 0.655,
+"same_group": false,
+"score": 0.655
+},
+{
+"a": "20d6",
+"b": "20g1a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.629,
+"body_sim": 0.655,
+"same_group": false,
+"score": 0.655
+},
+{
+"a": "16d1",
+"b": "40b",
+"via": [
+"정리후보"
+],
+"title_sim": 0.476,
+"body_sim": 0.654,
+"same_group": false,
+"score": 0.654
+},
+{
+"a": "47d5",
+"b": "47d6",
+"via": [
+"정리후보"
+],
+"title_sim": 0.444,
+"body_sim": 0.652,
+"same_group": true,
+"score": 0.652
+},
+{
+"a": "16g1",
+"b": "57i2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.651,
+"body_sim": 0.614,
+"same_group": false,
+"score": 0.651
+},
+{
+"a": "44d1",
+"b": "44g5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.525,
+"body_sim": 0.651,
+"same_group": true,
+"score": 0.651
+},
+{
+"a": "59j1",
+"b": "60b3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.567,
+"body_sim": 0.651,
+"same_group": false,
+"score": 0.651
+},
+{
+"a": "20d4",
+"b": "20d5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.599,
+"body_sim": 0.65,
+"same_group": true,
+"score": 0.65
+},
+{
+"a": "61p22",
+"b": "61p23",
+"via": [
+"정리후보"
+],
+"title_sim": 0.524,
+"body_sim": 0.649,
+"same_group": true,
+"score": 0.649
+},
+{
+"a": "20d8",
+"b": "20g5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.585,
+"body_sim": 0.649,
+"same_group": false,
+"score": 0.649
+},
+{
+"a": "61p15",
+"b": "61p22",
+"via": [
+"정리후보"
+],
+"title_sim": 0.486,
+"body_sim": 0.648,
+"same_group": true,
+"score": 0.648
+},
+{
+"a": "47e1c",
+"b": "47e1d",
+"via": [
+"정리후보"
+],
+"title_sim": 0.647,
+"body_sim": 0.598,
+"same_group": true,
+"score": 0.647
+},
+{
+"a": "41b11a",
+"b": "41b9",
+"via": [
+"정리후보"
+],
+"title_sim": 0.616,
+"body_sim": 0.647,
+"same_group": true,
+"score": 0.647
+},
+{
+"a": "53i2",
+"b": "53i9",
+"via": [
+"정리후보"
+],
+"title_sim": 0.636,
+"body_sim": 0.646,
+"same_group": true,
+"score": 0.646
+},
+{
+"a": "8a",
+"b": "9b",
+"via": [
+"정리후보"
+],
+"title_sim": 0.645,
+"body_sim": 0.603,
+"same_group": false,
+"score": 0.645
+},
+{
+"a": "54w2",
+"b": "55n7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.508,
+"body_sim": 0.644,
+"same_group": false,
+"score": 0.644
+},
+{
+"a": "47g14a",
+"b": "47q4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.55,
+"body_sim": 0.644,
+"same_group": true,
+"score": 0.644
+},
+{
+"a": "47g4b",
+"b": "47g4d",
+"via": [
+"정리후보"
+],
+"title_sim": 0.584,
+"body_sim": 0.644,
+"same_group": true,
+"score": 0.644
+},
+{
+"a": "41j4",
+"b": "62d",
+"via": [
+"정리후보"
+],
+"title_sim": 0.489,
+"body_sim": 0.644,
+"same_group": false,
+"score": 0.644
+},
+{
+"a": "59b1",
+"b": "59h3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.558,
+"body_sim": 0.644,
+"same_group": true,
+"score": 0.644
+},
+{
+"a": "59j1",
+"b": "60b2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.624,
+"body_sim": 0.644,
+"same_group": false,
+"score": 0.644
+},
+{
+"a": "20f10",
+"b": "21e1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.643,
+"body_sim": 0.585,
+"same_group": false,
+"score": 0.643
+},
+{
+"a": "44h3",
+"b": "44h9",
+"via": [
+"정리후보"
+],
+"title_sim": 0.542,
+"body_sim": 0.643,
+"same_group": true,
+"score": 0.643
+},
+{
+"a": "60e11",
+"b": "60e9",
+"via": [
+"정리후보"
+],
+"title_sim": 0.505,
+"body_sim": 0.643,
+"same_group": true,
+"score": 0.643
+},
+{
+"a": "21h1a",
+"b": "21h2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.511,
+"body_sim": 0.643,
+"same_group": true,
+"score": 0.643
+},
+{
+"a": "41k",
+"b": "47r4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.631,
+"body_sim": 0.642,
+"same_group": false,
+"score": 0.642
+},
+{
+"a": "16g",
+"b": "57r",
+"via": [
+"정리후보"
+],
+"title_sim": 0.518,
+"body_sim": 0.642,
+"same_group": false,
+"score": 0.642
+},
+{
+"a": "20d5",
+"b": "20d7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.352,
+"body_sim": 0.642,
+"same_group": true,
+"score": 0.642
+},
+{
+"a": "20d6",
+"b": "20g1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.61,
+"body_sim": 0.642,
+"same_group": false,
+"score": 0.642
+},
+{
+"a": "49n7",
+"b": "60b",
+"via": [
+"정리후보"
+],
+"title_sim": 0.642,
+"body_sim": 0.636,
+"same_group": false,
+"score": 0.642
+},
+{
+"a": "59p",
+"b": "59q",
+"via": [
+"정리후보"
+],
+"title_sim": 0.545,
+"body_sim": 0.642,
+"same_group": true,
+"score": 0.642
+},
+{
+"a": "51j3",
+"b": "51j5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.608,
+"body_sim": 0.641,
+"same_group": true,
+"score": 0.641
+},
+{
+"a": "20d2",
+"b": "20d7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.364,
+"body_sim": 0.641,
+"same_group": true,
+"score": 0.641
+},
+{
+"a": "20d4",
+"b": "20g1a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.594,
+"body_sim": 0.641,
+"same_group": false,
+"score": 0.641
+},
+{
+"a": "18d1b",
+"b": "18e",
+"via": [
+"정리후보"
+],
+"title_sim": 0.639,
+"body_sim": 0.611,
+"same_group": true,
+"score": 0.639
+},
+{
+"a": "54w2",
+"b": "55n9",
+"via": [
+"정리후보"
+],
+"title_sim": 0.57,
+"body_sim": 0.638,
+"same_group": false,
+"score": 0.638
+},
+{
+"a": "41g14a",
+"b": "41g7a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.638,
+"body_sim": 0.621,
+"same_group": true,
+"score": 0.638
+},
+{
+"a": "18d1b",
+"b": "40a1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.503,
+"body_sim": 0.638,
+"same_group": false,
+"score": 0.638
+},
+{
+"a": "54z",
+"b": "55z",
+"via": [
+"정리후보"
+],
+"title_sim": 0.477,
+"body_sim": 0.637,
+"same_group": false,
+"score": 0.637
+},
+{
+"a": "47b9",
+"b": "47h13",
+"via": [
+"정리후보"
+],
+"title_sim": 0.375,
+"body_sim": 0.637,
+"same_group": true,
+"score": 0.637
+},
+{
+"a": "62d",
+"b": "62e",
+"via": [
+"정리후보"
+],
+"title_sim": 0.532,
+"body_sim": 0.637,
+"same_group": true,
+"score": 0.637
+},
+{
+"a": "44h8",
+"b": "44h9",
+"via": [
+"정리후보"
+],
+"title_sim": 0.491,
+"body_sim": 0.637,
+"same_group": true,
+"score": 0.637
+},
+{
+"a": "40a1",
+"b": "40e3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.505,
+"body_sim": 0.636,
+"same_group": true,
+"score": 0.636
+},
+{
+"a": "52e4a",
+"b": "52e8b",
+"via": [
+"정리후보"
+],
+"title_sim": 0.634,
+"body_sim": 0.62,
+"same_group": true,
+"score": 0.634
+},
+{
+"a": "59b1",
+"b": "59j6",
+"via": [
+"정리후보"
+],
+"title_sim": 0.547,
+"body_sim": 0.634,
+"same_group": true,
+"score": 0.634
+},
+{
+"a": "43k7a",
+"b": "61p25",
+"via": [
+"정리후보"
+],
+"title_sim": 0.449,
+"body_sim": 0.633,
+"same_group": false,
+"score": 0.633
+},
+{
+"a": "43m1",
+"b": "44k6d",
+"via": [
+"정리후보"
+],
+"title_sim": 0.606,
+"body_sim": 0.633,
+"same_group": false,
+"score": 0.633
+},
+{
+"a": "11a5",
+"b": "62p4a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.493,
+"body_sim": 0.632,
+"same_group": false,
+"score": 0.632
+},
+{
+"a": "18e1",
+"b": "40h",
+"via": [
+"정리후보"
+],
+"title_sim": 0.585,
+"body_sim": 0.63,
+"same_group": false,
+"score": 0.63
+},
+{
+"a": "44g1",
+"b": "44g5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.587,
+"body_sim": 0.63,
+"same_group": true,
+"score": 0.63
+},
+{
+"a": "20f7",
+"b": "21g2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.565,
+"body_sim": 0.63,
+"same_group": false,
+"score": 0.63
+},
+{
+"a": "59j7",
+"b": "60b5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.436,
+"body_sim": 0.63,
+"same_group": false,
+"score": 0.63
+},
+{
+"a": "61p15",
+"b": "61p23",
+"via": [
+"정리후보"
+],
+"title_sim": 0.502,
+"body_sim": 0.629,
+"same_group": true,
+"score": 0.629
+},
+{
+"a": "55d9",
+"b": "55h",
+"via": [
+"정리후보"
+],
+"title_sim": 0.6,
+"body_sim": 0.628,
+"same_group": true,
+"score": 0.628
+},
+{
+"a": "40b",
+"b": "40c",
+"via": [
+"정리후보"
+],
+"title_sim": 0.576,
+"body_sim": 0.628,
+"same_group": true,
+"score": 0.628
+},
+{
+"a": "45q1",
+"b": "45q2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.628,
+"body_sim": 0.6,
+"same_group": true,
+"score": 0.628
+},
+{
+"a": "59p",
+"b": "59q7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.443,
+"body_sim": 0.628,
+"same_group": true,
+"score": 0.628
+},
+{
+"a": "20f1b",
+"b": "21d",
+"via": [
+"정리후보"
+],
+"title_sim": 0.528,
+"body_sim": 0.627,
+"same_group": false,
+"score": 0.627
+},
+{
+"a": "61o",
+"b": "8b4a1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.497,
+"body_sim": 0.626,
+"same_group": false,
+"score": 0.626
+},
+{
+"a": "52f3a",
+"b": "52f4d",
+"via": [
+"정리후보"
+],
+"title_sim": 0.589,
+"body_sim": 0.626,
+"same_group": true,
+"score": 0.626
+},
+{
+"a": "10a1",
+"b": "11c",
+"via": [
+"정리후보"
+],
+"title_sim": 0.514,
+"body_sim": 0.625,
+"same_group": false,
+"score": 0.625
+},
+{
+"a": "40a",
+"b": "40e3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.542,
+"body_sim": 0.625,
+"same_group": true,
+"score": 0.625
+},
+{
+"a": "20b5a",
+"b": "20c4c",
+"via": [
+"정리후보"
+],
+"title_sim": 0.561,
+"body_sim": 0.625,
+"same_group": false,
+"score": 0.625
+},
+{
+"a": "46d3",
+"b": "46d4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.502,
+"body_sim": 0.624,
+"same_group": true,
+"score": 0.624
+},
+{
+"a": "57j",
+"b": "57k",
+"via": [
+"정리후보"
+],
+"title_sim": 0.562,
+"body_sim": 0.624,
+"same_group": true,
+"score": 0.624
+},
+{
+"a": "17j4",
+"b": "41o",
+"via": [
+"정리후보"
+],
+"title_sim": 0.458,
+"body_sim": 0.622,
+"same_group": false,
+"score": 0.622
+},
+{
+"a": "20d2",
+"b": "20d5a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.586,
+"body_sim": 0.621,
+"same_group": true,
+"score": 0.621
+},
+{
+"a": "61a5",
+"b": "8a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.473,
+"body_sim": 0.62,
+"same_group": false,
+"score": 0.62
+},
+{
+"a": "57r",
+"b": "57s",
+"via": [
+"정리후보"
+],
+"title_sim": 0.44,
+"body_sim": 0.62,
+"same_group": true,
+"score": 0.62
+},
+{
+"a": "43k4",
+"b": "61p15",
+"via": [
+"정리후보"
+],
+"title_sim": 0.494,
+"body_sim": 0.62,
+"same_group": false,
+"score": 0.62
+},
+{
+"a": "52e2b",
+"b": "52e9d",
+"via": [
+"정리후보"
+],
+"title_sim": 0.55,
+"body_sim": 0.618,
+"same_group": true,
+"score": 0.618
+},
+{
+"a": "64i5",
+"b": "64q",
+"via": [
+"정리후보"
+],
+"title_sim": 0.615,
+"body_sim": 0.618,
+"same_group": true,
+"score": 0.618
+},
+{
+"a": "20c7",
+"b": "20g6",
+"via": [
+"정리후보"
+],
+"title_sim": 0.606,
+"body_sim": 0.618,
+"same_group": false,
+"score": 0.618
+},
+{
+"a": "52e8a",
+"b": "53p2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.584,
+"body_sim": 0.617,
+"same_group": false,
+"score": 0.617
+},
+{
+"a": "51h1c",
+"b": "51h1d",
+"via": [
+"정리후보"
+],
+"title_sim": 0.489,
+"body_sim": 0.617,
+"same_group": true,
+"score": 0.617
+},
+{
+"a": "43m1",
+"b": "61p1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.429,
+"body_sim": 0.617,
+"same_group": false,
+"score": 0.617
+},
+{
+"a": "62d",
+"b": "62f",
+"via": [
+"정리후보"
+],
+"title_sim": 0.38,
+"body_sim": 0.616,
+"same_group": true,
+"score": 0.616
+},
+{
+"a": "41l",
+"b": "62c",
+"via": [
+"정리후보"
+],
+"title_sim": 0.392,
+"body_sim": 0.616,
+"same_group": false,
+"score": 0.616
+},
+{
+"a": "16g",
+"b": "57s",
+"via": [
+"정리후보"
+],
+"title_sim": 0.382,
+"body_sim": 0.616,
+"same_group": false,
+"score": 0.616
+},
+{
+"a": "20c7a",
+"b": "20e1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.616,
+"body_sim": 0.568,
+"same_group": false,
+"score": 0.616
+},
+{
+"a": "7a",
+"b": "7e2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.614,
+"body_sim": 0.599,
+"same_group": true,
+"score": 0.614
+},
+{
+"a": "42e7",
+"b": "42h3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.57,
+"body_sim": 0.614,
+"same_group": true,
+"score": 0.614
+},
+{
+"a": "20d2",
+"b": "20d5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.552,
+"body_sim": 0.613,
+"same_group": true,
+"score": 0.613
+},
+{
+"a": "20b5a",
+"b": "20c4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.57,
+"body_sim": 0.612,
+"same_group": false,
+"score": 0.612
+},
+{
+"a": "47c17",
+"b": "47d7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.402,
+"body_sim": 0.609,
+"same_group": true,
+"score": 0.609
+},
+{
+"a": "41k",
+"b": "41r",
+"via": [
+"정리후보"
+],
+"title_sim": 0.54,
+"body_sim": 0.609,
+"same_group": true,
+"score": 0.609
+},
+{
+"a": "59j7",
+"b": "60b4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.452,
+"body_sim": 0.609,
+"same_group": false,
+"score": 0.609
+},
+{
+"a": "54t2",
+"b": "54t4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.594,
+"body_sim": 0.608,
+"same_group": true,
+"score": 0.608
+},
+{
+"a": "41r",
+"b": "47r",
+"via": [
+"정리후보"
+],
+"title_sim": 0.537,
+"body_sim": 0.606,
+"same_group": false,
+"score": 0.606
+},
+{
+"a": "16f4",
+"b": "57r1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.424,
+"body_sim": 0.606,
+"same_group": false,
+"score": 0.606
+},
+{
+"a": "22f1",
+"b": "23e2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.552,
+"body_sim": 0.605,
+"same_group": false,
+"score": 0.605
+},
+{
+"a": "45i",
+"b": "45k",
+"via": [
+"정리후보"
+],
+"title_sim": 0.464,
+"body_sim": 0.604,
+"same_group": true,
+"score": 0.604
+},
+{
+"a": "55n7",
+"b": "55n9",
+"via": [
+"정리후보"
+],
+"title_sim": 0.558,
+"body_sim": 0.603,
+"same_group": true,
+"score": 0.603
+},
+{
+"a": "16e",
+"b": "17g",
+"via": [
+"정리후보"
+],
+"title_sim": 0.511,
+"body_sim": 0.603,
+"same_group": false,
+"score": 0.603
+},
+{
+"a": "41l",
+"b": "41m",
+"via": [
+"정리후보"
+],
+"title_sim": 0.465,
+"body_sim": 0.602,
+"same_group": true,
+"score": 0.602
+},
+{
+"a": "43k2",
+"b": "61p22",
+"via": [
+"정리후보"
+],
+"title_sim": 0.493,
+"body_sim": 0.602,
+"same_group": false,
+"score": 0.602
+},
+{
+"a": "43k3",
+"b": "61p18",
+"via": [
+"정리후보"
+],
+"title_sim": 0.483,
+"body_sim": 0.602,
+"same_group": false,
+"score": 0.602
+},
+{
+"a": "44k4",
+"b": "61p6",
+"via": [
+"정리후보"
+],
+"title_sim": 0.51,
+"body_sim": 0.602,
+"same_group": false,
+"score": 0.602
+},
+{
+"a": "60e2",
+"b": "60e7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.538,
+"body_sim": 0.599,
+"same_group": true,
+"score": 0.599
+},
+{
+"a": "57i3",
+"b": "58l2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.509,
+"body_sim": 0.598,
+"same_group": false,
+"score": 0.598
+},
+{
+"a": "46k",
+"b": "47l8",
+"via": [
+"정리후보"
+],
+"title_sim": 0.537,
+"body_sim": 0.597,
+"same_group": false,
+"score": 0.597
+},
+{
+"a": "18f2a",
+"b": "40",
+"via": [
+"정리후보"
+],
+"title_sim": 0.597,
+"body_sim": 0.592,
+"same_group": false,
+"score": 0.597
+},
+{
+"a": "45q2",
+"b": "45q3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.417,
+"body_sim": 0.597,
+"same_group": true,
+"score": 0.597
+},
+{
+"a": "59b1",
+"b": "60b5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.533,
+"body_sim": 0.597,
+"same_group": false,
+"score": 0.597
+},
+{
+"a": "21e1",
+"b": "60i2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.546,
+"body_sim": 0.597,
+"same_group": false,
+"score": 0.597
+},
+{
+"a": "18d1b",
+"b": "40e3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.501,
+"body_sim": 0.596,
+"same_group": false,
+"score": 0.596
+},
+{
+"a": "21e1",
+"b": "60i",
+"via": [
+"정리후보"
+],
+"title_sim": 0.582,
+"body_sim": 0.596,
+"same_group": false,
+"score": 0.596
+},
+{
+"a": "40a",
+"b": "40e",
+"via": [
+"정리후보"
+],
+"title_sim": 0.578,
+"body_sim": 0.595,
+"same_group": true,
+"score": 0.595
+},
+{
+"a": "40a1",
+"b": "40b",
+"via": [
+"정리후보"
+],
+"title_sim": 0.432,
+"body_sim": 0.595,
+"same_group": true,
+"score": 0.595
+},
+{
+"a": "40a1",
+"b": "40c",
+"via": [
+"정리후보"
+],
+"title_sim": 0.429,
+"body_sim": 0.595,
+"same_group": true,
+"score": 0.595
+},
+{
+"a": "60b2",
+"b": "60b3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.595,
+"body_sim": 0.585,
+"same_group": true,
+"score": 0.595
+},
+{
+"a": "41g10b",
+"b": "41l5d",
+"via": [
+"정리후보"
+],
+"title_sim": 0.456,
+"body_sim": 0.594,
+"same_group": true,
+"score": 0.594
+},
+{
+"a": "60a",
+"b": "60b5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.496,
+"body_sim": 0.593,
+"same_group": true,
+"score": 0.593
+},
+{
+"a": "59j5",
+"b": "60b2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.593,
+"body_sim": 0.587,
+"same_group": false,
+"score": 0.593
+},
+{
+"a": "40a1",
+"b": "40e",
+"via": [
+"정리후보"
+],
+"title_sim": 0.4,
+"body_sim": 0.592,
+"same_group": true,
+"score": 0.592
+},
+{
+"a": "44c8",
+"b": "44g1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.514,
+"body_sim": 0.592,
+"same_group": true,
+"score": 0.592
+},
+{
+"a": "52e7",
+"b": "52e8",
+"via": [
+"정리후보"
+],
+"title_sim": 0.505,
+"body_sim": 0.59,
+"same_group": true,
+"score": 0.59
+},
+{
+"a": "45i",
+"b": "45k1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.555,
+"body_sim": 0.59,
+"same_group": true,
+"score": 0.59
+},
+{
+"a": "61p1",
+"b": "61p2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.496,
+"body_sim": 0.589,
+"same_group": true,
+"score": 0.589
+},
+{
+"a": "52e8",
+"b": "53p7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.521,
+"body_sim": 0.588,
+"same_group": false,
+"score": 0.588
+},
+{
+"a": "59o2",
+"b": "60e9",
+"via": [
+"정리후보"
+],
+"title_sim": 0.587,
+"body_sim": 0.579,
+"same_group": false,
+"score": 0.587
+},
+{
+"a": "54b5",
+"b": "54f1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.586,
+"body_sim": 0.55,
+"same_group": true,
+"score": 0.586
+},
+{
+"a": "54q1",
+"b": "54s3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.533,
+"body_sim": 0.586,
+"same_group": true,
+"score": 0.586
+},
+{
+"a": "41k",
+"b": "62d",
+"via": [
+"정리후보"
+],
+"title_sim": 0.462,
+"body_sim": 0.586,
+"same_group": false,
+"score": 0.586
+},
+{
+"a": "40a",
+"b": "40c",
+"via": [
+"정리후보"
+],
+"title_sim": 0.458,
+"body_sim": 0.586,
+"same_group": true,
+"score": 0.586
+},
+{
+"a": "44c8",
+"b": "44d1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.55,
+"body_sim": 0.586,
+"same_group": true,
+"score": 0.586
+},
+{
+"a": "49n",
+"b": "60c1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.524,
+"body_sim": 0.586,
+"same_group": false,
+"score": 0.586
+},
+{
+"a": "46j3",
+"b": "47n2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.46,
+"body_sim": 0.583,
+"same_group": false,
+"score": 0.583
+},
+{
+"a": "60d4",
+"b": "60f4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.582,
+"body_sim": 0.535,
+"same_group": true,
+"score": 0.582
+},
+{
+"a": "44d1",
+"b": "44g",
+"via": [
+"정리후보"
+],
+"title_sim": 0.485,
+"body_sim": 0.581,
+"same_group": true,
+"score": 0.581
+},
+{
+"a": "6m6",
+"b": "7e2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.517,
+"body_sim": 0.58,
+"same_group": false,
+"score": 0.58
+},
+{
+"a": "52b1g",
+"b": "52b1h",
+"via": [
+"정리후보"
+],
+"title_sim": 0.549,
+"body_sim": 0.579,
+"same_group": true,
+"score": 0.579
+},
+{
+"a": "18e",
+"b": "40b",
+"via": [
+"정리후보"
+],
+"title_sim": 0.532,
+"body_sim": 0.578,
+"same_group": false,
+"score": 0.578
+},
+{
+"a": "39e3",
+"b": "57i4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.524,
+"body_sim": 0.576,
+"same_group": false,
+"score": 0.576
+},
+{
+"a": "56a11",
+"b": "56a12",
+"via": [
+"정리후보"
+],
+"title_sim": 0.505,
+"body_sim": 0.575,
+"same_group": true,
+"score": 0.575
+},
+{
+"a": "46k",
+"b": "47l",
+"via": [
+"정리후보"
+],
+"title_sim": 0.572,
+"body_sim": 0.575,
+"same_group": false,
+"score": 0.575
+},
+{
+"a": "57i4",
+"b": "57j",
+"via": [
+"정리후보"
+],
+"title_sim": 0.427,
+"body_sim": 0.575,
+"same_group": true,
+"score": 0.575
+},
+{
+"a": "16f4",
+"b": "16g",
+"via": [
+"정리후보"
+],
+"title_sim": 0.343,
+"body_sim": 0.575,
+"same_group": true,
+"score": 0.575
+},
+{
+"a": "18d1",
+"b": "53h1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.439,
+"body_sim": 0.574,
+"same_group": false,
+"score": 0.574
+},
+{
+"a": "18e",
+"b": "40c",
+"via": [
+"정리후보"
+],
+"title_sim": 0.51,
+"body_sim": 0.573,
+"same_group": false,
+"score": 0.573
+},
+{
+"a": "43k4",
+"b": "61p22",
+"via": [
+"정리후보"
+],
+"title_sim": 0.428,
+"body_sim": 0.572,
+"same_group": false,
+"score": 0.572
+},
+{
+"a": "60a",
+"b": "60g2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.316,
+"body_sim": 0.572,
+"same_group": true,
+"score": 0.572
+},
+{
+"a": "59h3",
+"b": "59j6",
+"via": [
+"정리후보"
+],
+"title_sim": 0.491,
+"body_sim": 0.571,
+"same_group": true,
+"score": 0.571
+},
+{
+"a": "20f1a",
+"b": "21f1a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.432,
+"body_sim": 0.57,
+"same_group": false,
+"score": 0.57
+},
+{
+"a": "47m",
+"b": "47n2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.467,
+"body_sim": 0.569,
+"same_group": true,
+"score": 0.569
+},
+{
+"a": "60a",
+"b": "60b4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.519,
+"body_sim": 0.569,
+"same_group": true,
+"score": 0.569
+},
+{
+"a": "42e3a",
+"b": "42e3b",
+"via": [
+"정리후보"
+],
+"title_sim": 0.532,
+"body_sim": 0.568,
+"same_group": true,
+"score": 0.568
+},
+{
+"a": "44d1",
+"b": "44g1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.453,
+"body_sim": 0.568,
+"same_group": true,
+"score": 0.568
+},
+{
+"a": "53a",
+"b": "59p",
+"via": [
+"정리후보"
+],
+"title_sim": 0.456,
+"body_sim": 0.568,
+"same_group": false,
+"score": 0.568
+},
+{
+"a": "59p9",
+"b": "59q7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.431,
+"body_sim": 0.568,
+"same_group": true,
+"score": 0.568
+},
+{
+"a": "59o",
+"b": "60e11",
+"via": [
+"정리후보"
+],
+"title_sim": 0.405,
+"body_sim": 0.564,
+"same_group": false,
+"score": 0.564
+},
+{
+"a": "20f7a",
+"b": "21g2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.541,
+"body_sim": 0.563,
+"same_group": false,
+"score": 0.563
+},
+{
+"a": "44h10",
+"b": "44i4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.451,
+"body_sim": 0.563,
+"same_group": true,
+"score": 0.563
+},
+{
+"a": "60d4",
+"b": "60f5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.548,
+"body_sim": 0.563,
+"same_group": true,
+"score": 0.563
+},
+{
+"a": "44h",
+"b": "59m",
+"via": [
+"정리후보"
+],
+"title_sim": 0.483,
+"body_sim": 0.563,
+"same_group": false,
+"score": 0.563
+},
+{
+"a": "10a1",
+"b": "62o4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.503,
+"body_sim": 0.562,
+"same_group": false,
+"score": 0.562
+},
+{
+"a": "52e3",
+"b": "52e8",
+"via": [
+"정리후보"
+],
+"title_sim": 0.523,
+"body_sim": 0.561,
+"same_group": true,
+"score": 0.561
+},
+{
+"a": "40c",
+"b": "40e",
+"via": [
+"정리후보"
+],
+"title_sim": 0.424,
+"body_sim": 0.561,
+"same_group": true,
+"score": 0.561
+},
+{
+"a": "59q7",
+"b": "60h4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.459,
+"body_sim": 0.561,
+"same_group": false,
+"score": 0.561
+},
+{
+"a": "39a1",
+"b": "39e3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.518,
+"body_sim": 0.559,
+"same_group": true,
+"score": 0.559
+},
+{
+"a": "40c",
+"b": "40e3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.448,
+"body_sim": 0.559,
+"same_group": true,
+"score": 0.559
+},
+{
+"a": "20f4b",
+"b": "21g5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.486,
+"body_sim": 0.558,
+"same_group": false,
+"score": 0.558
+},
+{
+"a": "51h1a1",
+"b": "51h1a6",
+"via": [
+"정리후보"
+],
+"title_sim": 0.49,
+"body_sim": 0.555,
+"same_group": true,
+"score": 0.555
+},
+{
+"a": "51d4b",
+"b": "51d4c",
+"via": [
+"정리후보"
+],
+"title_sim": 0.513,
+"body_sim": 0.555,
+"same_group": true,
+"score": 0.555
+},
+{
+"a": "40b",
+"b": "40e3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.519,
+"body_sim": 0.554,
+"same_group": true,
+"score": 0.554
+},
+{
+"a": "44h5",
+"b": "44i4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.458,
+"body_sim": 0.551,
+"same_group": true,
+"score": 0.551
+},
+{
+"a": "20d5a",
+"b": "20d7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.381,
+"body_sim": 0.549,
+"same_group": true,
+"score": 0.549
+},
+{
+"a": "53k6",
+"b": "59n3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.498,
+"body_sim": 0.548,
+"same_group": false,
+"score": 0.548
+},
+{
+"a": "16f4",
+"b": "57r",
+"via": [
+"정리후보"
+],
+"title_sim": 0.289,
+"body_sim": 0.547,
+"same_group": false,
+"score": 0.547
+},
+{
+"a": "3a1",
+"b": "62q",
+"via": [
+"정리후보"
+],
+"title_sim": 0.446,
+"body_sim": 0.546,
+"same_group": false,
+"score": 0.546
+},
+{
+"a": "57i3",
+"b": "58i3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.472,
+"body_sim": 0.546,
+"same_group": false,
+"score": 0.546
+},
+{
+"a": "59b1",
+"b": "60g2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.406,
+"body_sim": 0.546,
+"same_group": false,
+"score": 0.546
+},
+{
+"a": "44c8",
+"b": "44g5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.474,
+"body_sim": 0.542,
+"same_group": true,
+"score": 0.542
+},
+{
+"a": "54j",
+"b": "54k3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.473,
+"body_sim": 0.54,
+"same_group": true,
+"score": 0.54
+},
+{
+"a": "61p18",
+"b": "61p21",
+"via": [
+"정리후보"
+],
+"title_sim": 0.54,
+"body_sim": 0.521,
+"same_group": true,
+"score": 0.54
+},
+{
+"a": "60b",
+"b": "60c1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.539,
+"body_sim": 0.525,
+"same_group": true,
+"score": 0.539
+},
+{
+"a": "44c8",
+"b": "44g",
+"via": [
+"정리후보"
+],
+"title_sim": 0.485,
+"body_sim": 0.538,
+"same_group": true,
+"score": 0.538
+},
+{
+"a": "3e",
+"b": "62q",
+"via": [
+"정리후보"
+],
+"title_sim": 0.396,
+"body_sim": 0.536,
+"same_group": false,
+"score": 0.536
+},
+{
+"a": "59c5",
+"b": "59p",
+"via": [
+"정리후보"
+],
+"title_sim": 0.462,
+"body_sim": 0.536,
+"same_group": true,
+"score": 0.536
+},
+{
+"a": "59o2",
+"b": "60e11",
+"via": [
+"정리후보"
+],
+"title_sim": 0.457,
+"body_sim": 0.536,
+"same_group": false,
+"score": 0.536
+},
+{
+"a": "57r1",
+"b": "57s",
+"via": [
+"정리후보"
+],
+"title_sim": 0.481,
+"body_sim": 0.535,
+"same_group": true,
+"score": 0.535
+},
+{
+"a": "16g1",
+"b": "58i3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.459,
+"body_sim": 0.535,
+"same_group": false,
+"score": 0.535
+},
+{
+"a": "18b",
+"b": "40i",
+"via": [
+"정리후보"
+],
+"title_sim": 0.424,
+"body_sim": 0.535,
+"same_group": false,
+"score": 0.535
+},
+{
+"a": "61c",
+"b": "62n",
+"via": [
+"정리후보"
+],
+"title_sim": 0.371,
+"body_sim": 0.534,
+"same_group": true,
+"score": 0.534
+},
+{
+"a": "17c3",
+"b": "57o",
+"via": [
+"정리후보"
+],
+"title_sim": 0.482,
+"body_sim": 0.534,
+"same_group": false,
+"score": 0.534
+},
+{
+"a": "59b1",
+"b": "60b4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.534,
+"body_sim": 0.53,
+"same_group": false,
+"score": 0.534
+},
+{
+"a": "55h5",
+"b": "55u5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.472,
+"body_sim": 0.531,
+"same_group": true,
+"score": 0.531
+},
+{
+"a": "59h3",
+"b": "60b5",
+"via": [
+"정리후보"
+],
+"title_sim": 0.435,
+"body_sim": 0.531,
+"same_group": false,
+"score": 0.531
+},
+{
+"a": "64g2",
+"b": "64r4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.471,
+"body_sim": 0.529,
+"same_group": true,
+"score": 0.529
+},
+{
+"a": "39a1",
+"b": "57j",
+"via": [
+"정리후보"
+],
+"title_sim": 0.479,
+"body_sim": 0.528,
+"same_group": false,
+"score": 0.528
+},
+{
+"a": "59q7",
+"b": "60i",
+"via": [
+"정리후보"
+],
+"title_sim": 0.43,
+"body_sim": 0.527,
+"same_group": false,
+"score": 0.527
+},
+{
+"a": "59q",
+"b": "60h4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.445,
+"body_sim": 0.526,
+"same_group": false,
+"score": 0.526
+},
+{
+"a": "55f6",
+"b": "55u3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.423,
+"body_sim": 0.525,
+"same_group": true,
+"score": 0.525
+},
+{
+"a": "57n",
+"b": "7i",
+"via": [
+"정리후보"
+],
+"title_sim": 0.418,
+"body_sim": 0.524,
+"same_group": false,
+"score": 0.524
+},
+{
+"a": "53a",
+"b": "53e",
+"via": [
+"정리후보"
+],
+"title_sim": 0.433,
+"body_sim": 0.521,
+"same_group": true,
+"score": 0.521
+},
+{
+"a": "16g",
+"b": "57r1",
+"via": [
+"정리후보"
+],
+"title_sim": 0.414,
+"body_sim": 0.52,
+"same_group": false,
+"score": 0.52
+},
+{
+"a": "59q",
+"b": "60h",
+"via": [
+"정리후보"
+],
+"title_sim": 0.468,
+"body_sim": 0.519,
+"same_group": false,
+"score": 0.519
+},
+{
+"a": "59p",
+"b": "60h",
+"via": [
+"정리후보"
+],
+"title_sim": 0.447,
+"body_sim": 0.518,
+"same_group": false,
+"score": 0.518
+},
+{
+"a": "59p",
+"b": "60i2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.331,
+"body_sim": 0.516,
+"same_group": false,
+"score": 0.516
+},
+{
+"a": "59p9",
+"b": "60h4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.413,
+"body_sim": 0.516,
+"same_group": false,
+"score": 0.516
+},
+{
+"a": "59q7",
+"b": "60h",
+"via": [
+"정리후보"
+],
+"title_sim": 0.381,
+"body_sim": 0.513,
+"same_group": false,
+"score": 0.513
+},
+{
+"a": "61a3",
+"b": "8e1a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.503,
+"body_sim": 0.51,
+"same_group": false,
+"score": 0.51
+},
+{
+"a": "59h3",
+"b": "60b4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.434,
+"body_sim": 0.51,
+"same_group": false,
+"score": 0.51
+},
+{
+"a": "64e1",
+"b": "64p2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.498,
+"body_sim": 0.508,
+"same_group": true,
+"score": 0.508
+},
+{
+"a": "59p",
+"b": "60i",
+"via": [
+"정리후보"
+],
+"title_sim": 0.366,
+"body_sim": 0.508,
+"same_group": false,
+"score": 0.508
+},
+{
+"a": "60h",
+"b": "60i",
+"via": [
+"정리후보"
+],
+"title_sim": 0.353,
+"body_sim": 0.506,
+"same_group": true,
+"score": 0.506
+},
+{
+"a": "16g1",
+"b": "58l2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.426,
+"body_sim": 0.504,
+"same_group": false,
+"score": 0.504
+},
+{
+"a": "60h4",
+"b": "60i",
+"via": [
+"정리후보"
+],
+"title_sim": 0.482,
+"body_sim": 0.504,
+"same_group": true,
+"score": 0.504
+},
+{
+"a": "18d1b",
+"b": "40e",
+"via": [
+"정리후보"
+],
+"title_sim": 0.329,
+"body_sim": 0.503,
+"same_group": false,
+"score": 0.503
+},
+{
+"a": "59p",
+"b": "60h4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.352,
+"body_sim": 0.503,
+"same_group": false,
+"score": 0.503
+},
+{
+"a": "59q",
+"b": "60i",
+"via": [
+"정리후보"
+],
+"title_sim": 0.396,
+"body_sim": 0.501,
+"same_group": false,
+"score": 0.501
+},
+{
+"a": "41r",
+"b": "47r4",
+"via": [
+"정리후보"
+],
+"title_sim": 0.457,
+"body_sim": 0.5,
+"same_group": false,
+"score": 0.5
+},
+{
+"a": "55n10",
+"b": "55n6",
+"via": [
+"정리후보"
+],
+"title_sim": 0.409,
+"body_sim": 0.498,
+"same_group": true,
+"score": 0.498
+},
+{
+"a": "53k6",
+"b": "59n",
+"via": [
+"정리후보"
+],
+"title_sim": 0.417,
+"body_sim": 0.496,
+"same_group": false,
+"score": 0.496
+},
+{
+"a": "52e7",
+"b": "52e8a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.466,
+"body_sim": 0.494,
+"same_group": true,
+"score": 0.494
+},
+{
+"a": "60h",
+"b": "60i2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.386,
+"body_sim": 0.494,
+"same_group": true,
+"score": 0.494
+},
+{
+"a": "59p9",
+"b": "59q",
+"via": [
+"정리후보"
+],
+"title_sim": 0.394,
+"body_sim": 0.492,
+"same_group": true,
+"score": 0.492
+},
+{
+"a": "60b5",
+"b": "60g2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.376,
+"body_sim": 0.489,
+"same_group": true,
+"score": 0.489
+},
+{
+"a": "59c5",
+"b": "59q7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.371,
+"body_sim": 0.485,
+"same_group": true,
+"score": 0.485
+},
+{
+"a": "59q7",
+"b": "60i2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.37,
+"body_sim": 0.485,
+"same_group": false,
+"score": 0.485
+},
+{
+"a": "40b",
+"b": "40e",
+"via": [
+"정리후보"
+],
+"title_sim": 0.357,
+"body_sim": 0.483,
+"same_group": true,
+"score": 0.483
+},
+{
+"a": "52e11",
+"b": "52e8a",
+"via": [
+"정리후보"
+],
+"title_sim": 0.481,
+"body_sim": 0.476,
+"same_group": true,
+"score": 0.481
+},
+{
+"a": "59j6",
+"b": "60g2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.434,
+"body_sim": 0.481,
+"same_group": false,
+"score": 0.481
+},
+{
+"a": "59c5",
+"b": "60i2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.419,
+"body_sim": 0.479,
+"same_group": false,
+"score": 0.479
+},
+{
+"a": "60b4",
+"b": "60g2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.392,
+"body_sim": 0.479,
+"same_group": true,
+"score": 0.479
+},
+{
+"a": "21h2",
+"b": "59k3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.36,
+"body_sim": 0.477,
+"same_group": false,
+"score": 0.477
+},
+{
+"a": "60h4",
+"b": "60i2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.361,
+"body_sim": 0.471,
+"same_group": true,
+"score": 0.471
+},
+{
+"a": "59c5",
+"b": "60h",
+"via": [
+"정리후보"
+],
+"title_sim": 0.413,
+"body_sim": 0.456,
+"same_group": false,
+"score": 0.456
+},
+{
+"a": "52e8a",
+"b": "53p",
+"via": [
+"정리후보"
+],
+"title_sim": 0.422,
+"body_sim": 0.455,
+"same_group": false,
+"score": 0.455
+},
+{
+"a": "52e8a",
+"b": "53p7",
+"via": [
+"정리후보"
+],
+"title_sim": 0.409,
+"body_sim": 0.453,
+"same_group": false,
+"score": 0.453
+},
+{
+"a": "59p9",
+"b": "60i",
+"via": [
+"정리후보"
+],
+"title_sim": 0.356,
+"body_sim": 0.447,
+"same_group": false,
+"score": 0.447
+},
+{
+"a": "59q",
+"b": "60i2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.376,
+"body_sim": 0.446,
+"same_group": false,
+"score": 0.446
+},
+{
+"a": "59p9",
+"b": "60h",
+"via": [
+"정리후보"
+],
+"title_sim": 0.4,
+"body_sim": 0.442,
+"same_group": false,
+"score": 0.442
+},
+{
+"a": "59p9",
+"b": "60i2",
+"via": [
+"정리후보"
+],
+"title_sim": 0.321,
+"body_sim": 0.44,
+"same_group": false,
+"score": 0.44
+},
+{
+"a": "21h1a",
+"b": "59k3",
+"via": [
+"정리후보"
+],
+"title_sim": 0.276,
+"body_sim": 0.414,
+"same_group": false,
+"score": 0.414
+}
+]
