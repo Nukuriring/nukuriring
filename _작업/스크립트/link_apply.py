@@ -10,7 +10,7 @@ F = {}
 for f in glob.glob(os.path.join(V, '영구', '*.md')):
     F[os.path.basename(f).split(' ')[0]] = f
 rows = []
-for f in sorted(glob.glob(os.path.join(V, '_작업', '연결', '판정', 'l*.md'))):
+for f in sorted(glob.glob(os.path.join(V, '_작업', '연결', '판정', 'l*.md')) + glob.glob(os.path.join(V, '_작업', '연결', '판정', 'm*.md'))):
     for l in open(f, encoding='utf-8'):
         c = [x.strip() for x in l.strip().strip('|').split('|')]
         if len(c) >= 6 and c[0].isdigit(): rows.append((os.path.basename(f)[:-3], *c[1:6]))
