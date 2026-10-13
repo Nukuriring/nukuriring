@@ -1,0 +1,64 @@
+{
+ "id": "25i3",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "가드너에 따르면 해악이 불가피할수록 그것을 가하지 않을 이유는 약해진다",
+   "label": "지지됨",
+   "evidence": "해악이 더 불가피할수록 ... 이유는 더 약하다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "존재 설명에 대한 또 하나의 반론에 답하려고 이유의 강도 원리를 내세운다",
+   "label": "지지됨",
+   "evidence": "another objection to the existence account",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "필연성 원리: 해악이 더 불가피할수록 가하지 않을 이유는 더 약하다",
+   "label": "지지됨",
+   "evidence": "Inevitable Harming Principle",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "존재 설명과 결합하면 비동일성 해악은 성립하되 반대할 이유가 더 약하다",
+   "label": "지지됨",
+   "evidence": "해악은 성립하되 강도가 더 약하다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "가드너는 해악 판정을 유지하고 이유의 강도를 조정하여 반론을 다룬다",
+   "label": "지지됨",
+   "evidence": "가드너의 최종 조정",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "첫 문단은 \"a principle about the strength of the reason against harming\"으로 예고하고 반론 완화에 도움",
+   "label": "지지됨",
+   "evidence": "will help diffuse the objection",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "Claude는 원리 제시 전에 두 층 구조로 갈 것이라 예상했다",
+   "label": "지지됨",
+   "evidence": "이층 구조로 예상되는데",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Gardner2015 A Harm-Based Solution to the Non-Identity Problem.md",
+  "_원자료/로컬/수능_원료/지문/_완료/비동일성_딜레마구도/원료_가드너_존재설명_원문확정_20260824.md",
+  "_원자료/claude.ai/chats/2026-08-26_Existence account of harming and the non-identity problem.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

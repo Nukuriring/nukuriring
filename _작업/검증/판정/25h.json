@@ -1,0 +1,80 @@
+{
+ "id": "25h",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "하만은 나쁜 상태를 야기하는 일을 해악의 충분조건으로 삼아 비동일성 사례를 설명한다",
+   "label": "지지됨",
+   "evidence": "충분조건이지 필요조건이 아니다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "해악 없이도 그른 행위가 있다는 통념은 해악을 '더 나쁘게 만듦'으로 보는 잘못된 개념에서 온다",
+   "label": "지지됨",
+   "evidence": "잘못된 개념에서 온다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "해악 개념을 바꾸면 그름을 개인에 대한 해악으로 설명할 수 있다",
+   "label": "지지됨",
+   "evidence": "개인에 대한 해악으로 설명할 수 있다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "해악 예시 \"causing pain, early death, bodily damage, and deformation\"",
+   "label": "지지됨",
+   "evidence": "causing pain, early death, bodily damage",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "가드너가 빌린 나쁜 상태 목록과 기준 \"worse in some way than the normal healthy state...\"(§5)",
+   "label": "지지됨",
+   "evidence": "worse in some way than the normal healthy",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "비교 없는 해악을 해악의 충분조건으로만 제시",
+   "label": "지지됨",
+   "evidence": "해악의 충분조건이지 필요조건이 아니다",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "§7: 해악을 입고도 그 행위가 없었기를 바라지 않을 수 있으나 그 해악은 부당할 수 있다",
+   "label": "지지됨",
+   "evidence": "그래도 부당한 해악이다",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "비교 없는 해악과 순수 이익의 비대칭은 시프린의 입장(원료 노트 귀속)",
+   "label": "지지됨",
+   "evidence": "비비교적 해악·순수 이익 비대칭 = 시프린",
+   "note": ""
+  },
+  {
+   "n": 8,
+   "text": "Claude가 든 시프린의 금괴 사례: 금괴 값이 치료비를 넘어도 팔을 부러뜨리면 해친 것",
+   "label": "지지됨",
+   "evidence": "치료비를 넘고도 남아 ... 그를 해친 것",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Harman2004 Can We Harm and Benefit in Creating.md",
+  "_원자료/로컬/수능_원료/지문/_완료/비동일성_딜레마구도/자료노트_하만_반례_P-Q스트레스_20260819.md",
+  "_원자료/로컬/수능_원료/지문/_완료/비동일성_딜레마구도/원료_가드너_존재설명_원문확정_20260824.md",
+  "_원자료/로컬/수능_원료/지문/_대기/파핏_NIP-RC_항해/원료노트_파핏NIPRC항해_20260720.md",
+  "_원자료/claude.ai/chats/2026-08-17_파핏의 비동일성 문제와 도덕 원리.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

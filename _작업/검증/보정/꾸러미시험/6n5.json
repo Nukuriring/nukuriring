@@ -1,0 +1,20 @@
+{
+  "id": "6n5",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "초연함과 두 당사자 구도가 함께 내재적인 것의 역설을 낳는다", "label": "지지됨", "evidence": "초연함과 두 당사자 사업이 부딪힌다", "note": ""},
+    {"n": 1, "text": "개념에 내재적인 것은 판별 방식이고 실제 사례가 어떠한지는 아니다(pp.52–53)", "label": "지지됨", "evidence": "내재적인 것은 판별 방식이지", "note": ""},
+    {"n": 2, "text": "Sid가 태어나지 않았어도 라거 애호가 개념은 그대로, 단칭 개념도 예외 아님", "label": "지지됨", "evidence": "단칭 개념도 예외가 아닙니다", "note": ""},
+    {"n": 3, "text": "참·거짓은 개념과 Sid의 있는 그대로만 정하므로 사례화 여부는 개념에 내재적이어야 한다", "label": "지지됨", "evidence": "이 둘만이 정합니다", "note": ""},
+    {"n": 4, "text": "아니라면 제3자가 끼어든 것이고 객관성과 함께 참이 사라진다", "label": "지지됨", "evidence": "제3자의 개입은 곧 객관성의, 따라서 참의 상실", "note": ""},
+    {"n": 5, "text": "사례가 있다는 것조차 내재적이지 않은데 있다면 처리는 내재적이어야 한다는 역설", "label": "지지됨", "evidence": "존재한다는 것조차 개념에 내재적이지 않은데", "note": ""},
+    {"n": 6, "text": "'역설'은 소금 한 알과 함께, 일상 방식의 사례는 대개 승인만 기다린다", "label": "지지됨", "evidence": "대개 승인만을 기다리니까요", "note": ""},
+    {"n": 7, "text": "적용 법칙: 동음 판본은 조건절 '배불뚝이임'이 이미 정해져야 일하고, 조건 C 판본은 물음이 되돌아온다(pp.53–54)", "label": "지지됨", "evidence": "C를 이루는 개념들에 대해 똑같은 질문이 되돌아", "note": ""},
+    {"n": 8, "text": "사례화 일반 이론 전망은 어둡고 얼굴 재인 연구는 고삐를 채울 때만 좋은 과제(pp.54–55)", "label": "지지됨", "evidence": "야심에 고삐를 채우는 한", "note": ""}
+  ],
+  "sources_used": ["문헌/@Travis2021 Frege The Pure Business of Being True.md", "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-05_어려운 설명을 쉽게 풀어달라.md", "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-06_Frege의 근본 사상 정리 및 발표.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

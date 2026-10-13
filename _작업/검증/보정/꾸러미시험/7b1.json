@@ -1,0 +1,17 @@
+{
+  "id": "7b1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "Absicht를 지우면 맞춤 진리 조건의 부담이 참임에 넘어간다", "label": "지지됨", "evidence": "Absicht를 제거하면 그 부담이 참임 자체로", "note": ""},
+    {"n": 1, "text": "참임은 초연하게 일반적 요구만 고정하고 맞춤 번역은 Absicht가 맡는다(p.174)", "label": "지지됨", "evidence": "번역하는 일은 Absicht가 맡습니다", "note": ""},
+    {"n": 2, "text": "담지자는 Absicht와 무관한 특징만으로 자기 진리 조건을 마련해야 한다", "label": "지지됨", "evidence": "자기 진리 조건을 스스로 마련해야", "note": ""},
+    {"n": 3, "text": "참임은 선행 규정 없이 표상자가 실재와 어떻게 관계해야 참인지 정해야 한다(p.180)", "label": "지지됨", "evidence": "선행 규정 없이 … 참인지를 정해야", "note": ""},
+    {"n": 4, "text": "이때 프레게의 논변이 들이닥치며 절멸의 천사라 부른다(pp.175–176)", "label": "지지됨", "evidence": "절멸의 천사가 강림합니다", "note": ""},
+    {"n": 5, "text": "담지자마다 그것이거나 아닌 것은 동일한 하나 참임, 어떻게 맞춤 결과를 산출하나(p.177)", "label": "지지됨", "evidence": "동일한 하나, 즉 참임", "note": "근거는 같은 대화 04:30 응답(각주 p.177)."}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-21_논문과 TPBBT의 관계도 분석.md", "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-24_트래비스의 프레게 참 개념 해석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

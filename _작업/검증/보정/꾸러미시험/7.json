@@ -1,0 +1,18 @@
+{
+  "id": "7",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "진리의 정의 불가능성을 받아들이면서 참임의 내용을 세 자리에서 찾는다", "label": "지지됨", "evidence": "트래비스는 세 자리를 답사합니다", "note": ""},
+    {"n": 1, "text": "8장 첫머리에 프레게의 문장 셋: 1892, 1915, 1918(p.167)", "label": "지지됨", "evidence": "장 첫머리에 프레게 인용 셋이 걸려 있습니다", "note": ""},
+    {"n": 2, "text": "곤경: 문법상 개념 형태에 내용이 없어 보이나 내용이 없어서는 곤란", "label": "지지됨", "evidence": "내용이 없어서는 곤란합니다", "note": ""},
+    {"n": 3, "text": "단서 셋: 진리 법칙, 단언력과의 연결, 술어로는 밟히지 않는 걸음(pp.167–168)", "label": "지지됨", "evidence": "곤경 하나와 단서 셋을 뽑아냅니다", "note": ""},
+    {"n": 4, "text": "내용을 진리 법칙, 참으로 여김의 개입, 사례화 영역에서 차례로 찾는다", "label": "지지됨", "evidence": "하나는 진리 법칙 … 둘은 Fürwahrhalten … 셋은 사례화", "note": ""},
+    {"n": 5, "text": "배경: 사고가 제안하고 사물이 처분하는 두 당사자의 사업이라는 1장 구도", "label": "지지됨", "evidence": "사고가 제안하고 … 사물이 … 처분합니다", "note": ""},
+    {"n": 6, "text": "정의를 줄 수 없다는 사실은 할 말이 없다는 사실과 다르다", "label": "지지됨", "evidence": "정의불가능성은 그래서 무내용성이 아닙니다", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-21_논문과 TPBBT의 관계도 분석.md", "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-24_트래비스의 프레게 참 개념 해석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

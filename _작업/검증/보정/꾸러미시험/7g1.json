@@ -1,0 +1,20 @@
+{
+  "id": "7g1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "르카나티는 어휘 의미와 sense로의 변환과 변조를 나누는 세 층 구조를 세운다", "label": "지지됨", "evidence": "그래서 세 층 그림이 나오는 자리입니다", "note": ""},
+    {"n": 1, "text": "§1 두 층 그림: 어휘 의미에 변조가 작용해 기여된 내용이 나오고 변조가 없으면 관습적 의미가 곧 내용", "label": "지지됨", "evidence": "관습적 의미가 곧 기여된 내용이 됩니다", "note": ""},
+    {"n": 2, "text": "변조는 언어 재료가 강제하지 않아 선택적이며 화자 의미의 문제", "label": "지지됨", "evidence": "optional하며 화자 의미의 문제", "note": ""},
+    {"n": 3, "text": "Wrong Format 견해를 받아들이면 그림이 깨져 §7에서 §1의 두 문장을 철회", "label": "지지됨", "evidence": "§1의 자기 문장 두 개를 명시적으로 철회", "note": ""},
+    {"n": 4, "text": "랭개커를 따라 어휘 의미를 관습화된 sense들과 변조 관계의 그물(§6)로 본다", "label": "지지됨", "evidence": "sense들의 network로 봅니다", "note": ""},
+    {"n": 5, "text": "그물→하나의 sense 변환은 필수(지표사 해소처럼), sense→sense 변조는 선택적", "label": "지지됨", "evidence": "필수인 이유는 … network를 그대로 발화할 수 없기", "note": ""},
+    {"n": 6, "text": "swallow의 확장 sense는 처음엔 변조였고 관습화되어 그물의 새 마디가 되어 다의성은 관습화된 변조", "label": "지지됨", "evidence": "polysemy를 관습화된 modulation이라고 부르는", "note": ""},
+    {"n": 7, "text": "sense는 직관 가능하며 사고의 구성 벽돌 노릇을 한다(§7)", "label": "지지됨", "evidence": "사고의 구성 벽돌 노릇을 한다", "note": ""},
+    {"n": 8, "text": "TCP와 급진적 맥락주의의 대립이 대체로 언어상의 문제라고 결론", "label": "지지됨", "evidence": "대체로 언어상의 문제라고 결론짓습니다", "note": ""}
+  ],
+  "sources_used": ["문헌/@Recanati2017 Contextualism and Polysemy.md", "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-28_트레비스와 르카나티의 관계.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

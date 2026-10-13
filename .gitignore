@@ -6,3 +6,4 @@ __pycache__/
 *.pyc
 .claude/settings.local.json
 _작업/검증/lint.json
+_작업/검증/꾸러미/

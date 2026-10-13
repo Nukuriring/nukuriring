@@ -1,0 +1,18 @@
+{
+  "id": "7a1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "IUP에서 참임의 무내용성이 따라 나오지 않는다고 논증한다", "label": "지지됨", "evidence": "내용을 더하지 않는 것과 내용이 없는 것은 다릅니다", "note": ""},
+    {"n": 1, "text": "프레게 1915: '참'은 뜻을 가지나 문장 전체의 뜻에 기여하지 않는다", "label": "지지됨", "evidence": "문장의 Sinn에는 아무것도 기여하지 않는다는 진술", "note": ""},
+    {"n": 2, "text": "adding no content와 being contentless를 구별(§8.1)", "label": "지지됨", "evidence": "혼동하지 말라고 못 박습니다", "note": ""},
+    {"n": 3, "text": "거짓임은 IUP가 아니므로 내용이 있고 참임만 내용 없을 수 없다(p.170)", "label": "지지됨", "evidence": "거짓임은 iup가 아닙니다", "note": ""},
+    {"n": 4, "text": "시드가 먹고 피아가 마신다의 참은 IUP만으로 안 되고 진리 법칙이 필요(p.171)", "label": "지지됨", "evidence": "진리의 법칙이 따로 필요합니다", "note": ""},
+    {"n": 5, "text": "참임이 그런 법칙의 지배를 받는다는 사실이 참임 술어의 내용에 속한다", "label": "지지됨", "evidence": "참임을 술어하는 것의 내용의 일부입니다", "note": ""},
+    {"n": 6, "text": "참임이 이미 작동하고 있어 내용을 더할 지점이 지나 있다(p.172)", "label": "지지됨", "evidence": "더할 지점을 지나쳐 버린 뒤입니다", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-21_논문과 TPBBT의 관계도 분석.md", "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-24_트래비스의 프레게 참 개념 해석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

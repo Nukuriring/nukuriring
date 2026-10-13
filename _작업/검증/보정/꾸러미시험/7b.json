@@ -1,0 +1,19 @@
+{
+  "id": "7b",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "근본적 추상을 내용 담지자를 덜어 내고 사고를 남기는 일로 읽는다", "label": "지지됨", "evidence": "내용 담지자를 무해하게 덜어 낼 수 있고", "note": ""},
+    {"n": 1, "text": "프레게 1918: 그림/돌멩이가 그 자체로 참일 수 있는가, Absicht 없으면 참이라 안 부름", "label": "지지됨", "evidence": "Absicht가 붙지 않는다면 그림을 참이라 부르지", "note": ""},
+    {"n": 2, "text": "Absicht를 의도된 것, 곧 표상하는 것으로 받아들여져야 할 내용으로 읽는다(p.173)", "label": "지지됨", "evidence": "의도하는 행위가 아니라 의도된 것", "note": ""},
+    {"n": 3, "text": "그림은 내용 담지자, Absicht, 참/거짓의 세 요소", "label": "지지됨", "evidence": "내용 담지자(content-bearer), 붙어 있는 Absicht", "note": ""},
+    {"n": 4, "text": "참은 Absicht에 따라서만 달라지므로 담지자를 덜어 내면 사고가 남는다", "label": "지지됨", "evidence": "남는 것이 사고입니다", "note": ""},
+    {"n": 5, "text": "1장에서 참임/참으로 여김의 구별로 정식화하고 근본적 추상이라 부른다(p.9)", "label": "지지됨", "evidence": "Wahrsein과 Fürwahrhalten의 구별로 정식화", "note": ""},
+    {"n": 6, "text": "8장 논증은 더 큰 논증 안에 끼워진 '사례 안의 사례'", "label": "지지됨", "evidence": "case within a case", "note": ""},
+    {"n": 7, "text": "표적: 포더, 러셀(사적 심리 사태), 전기 비트겐슈타인(vertreten)(pp.174–175)", "label": "지지됨", "evidence": "Absicht를 제거하려 합니다", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-21_논문과 TPBBT의 관계도 분석.md", "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-28_트레비스와 르카나티의 관계.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

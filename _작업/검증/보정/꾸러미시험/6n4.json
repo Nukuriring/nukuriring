@@ -1,0 +1,20 @@
+{
+  "id": "6n4",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "사례들의 외연은 개념이 어떻게 일반화하는지를 정하지 못한다", "label": "지지됨", "evidence": "외연은 일반성이 아닙니다", "note": ""},
+    {"n": 1, "text": "Kernsatz 13의 두 정당화 경로, 논리의 대상은 앞의 것뿐(Frege 연대 미상: 190, p.50)", "label": "지지됨", "evidence": "논리의 대상은 오직 전자", "note": ""},
+    {"n": 2, "text": "뒤의 경로의 중심 관계는 사례화이다", "label": "지지됨", "evidence": "후자의 중심 관계가 사례화임을 짚고", "note": ""},
+    {"n": 3, "text": "추론은 참 보존, 사례화는 참 산출 이행(Benno 수다 떨기)", "label": "지지됨", "evidence": "사례화는 참-산출(truth-yielding) 이행", "note": ""},
+    {"n": 4, "text": "W-임과 Sid: Sid를 조사해도 W-임을 더 알 수 없다(pp.51–52)", "label": "지지됨", "evidence": "W-임이 무엇인지에 관해 조금도 더 지혜로워지지 않", "note": ""},
+    {"n": 5, "text": "사례는 일반화 방식을 지시할 수 없고, 할 수 있다면 개념이 아니라 이름(p.51)", "label": "지지됨", "evidence": "그것은 개념이 아니라 이름일 것이다", "note": ""},
+    {"n": 6, "text": "사례를 늘려도, 사례와 반례를 합쳐도 사정은 같다(pp.51–52)", "label": "지지됨", "evidence": "n개가 못 하면 n+1개도 못 하고", "note": ""},
+    {"n": 7, "text": "규칙 따르기 회의론과 닮았지만 개념이 적용을 결정하고 실패하는 것은 외연에 의한 식별뿐(대화 속 설명)", "label": "지지됨", "evidence": "개념은 적용을 결정합니다", "note": ""},
+    {"n": 8, "text": "개념이 자기 일반화 방식이 있다는 점에서 세계에 빚지고, 그럼에도 외연 식별 불가를 사유의 자유라 부른다(p.52)", "label": "지지됨", "evidence": "이것이 사유의 자유입니다", "note": ""}
+  ],
+  "sources_used": ["문헌/@Travis2021 Frege The Pure Business of Being True.md", "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-06_Frege의 근본 사상 정리 및 발표.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

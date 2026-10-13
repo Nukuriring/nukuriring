@@ -1,0 +1,20 @@
+{
+  "id": "6n6",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "대상만이 표상 쪽과 세계 쪽 장부에서 같은 항목으로 남는다", "label": "지지됨", "evidence": "두 장부에서 대상만 같은 항목으로 남는다", "note": ""},
+    {"n": 1, "text": "개념이 대상처럼 세계의 일부인지에 세 갈래로 답한다", "label": "지지됨", "evidence": "네 질문에 대한 답 세 겹이다", "note": "세 갈래 구성은 대화 속 Claude의 정리이나 각 갈래는 트래비스 대목에 근거함."},
+    {"n": 2, "text": "존재 의존은 대상 쪽에만 걸린다(§2.1, pp.32–33)", "label": "지지됨", "evidence": "존재 의존이 대상 쪽에만 걸린다", "note": ""},
+    {"n": 3, "text": "Bedeutung을 R/V로 나누어 「London has bridges」를 계산(§5.6)", "label": "지지됨", "evidence": "R-Bedeutung(표상 쪽 장부)과 V-Bedeutung", "note": ""},
+    {"n": 4, "text": "다리 가짐의 R은 한 방식, V는 집합; 런던은 두 장부에서 런던", "label": "지지됨", "evidence": "표상 쪽에서는 방식이고 세계 쪽에서는 집합", "note": ""},
+    {"n": 5, "text": "대상→진리치 함수를 V-Bedeutung으로 삼아도 되지만 강제하는 것은 없다", "label": "지지됨", "evidence": "그렇게 하라고 강제하는 것은 없다", "note": ""},
+    {"n": 6, "text": "'대상'은 셈의 원리를 주지 않아 부류/범주를 이루지 못한다(§3.1)", "label": "지지됨", "evidence": "대상은 부류나 범주를 이루지 않는다", "note": ""},
+    {"n": 7, "text": "대상임을 참임의 사업에서 맡는 역할이나 지위로 보자고 제안", "label": "지지됨", "evidence": "참임의 사업에서 맡는 역할, 혹은 … 지위", "note": ""},
+    {"n": 8, "text": "Sid는 사물로서 사고 밖이나 대상이라는 것은 역할로 이해된다", "label": "지지됨", "evidence": "Sid는 사물이고 사고 밖이다", "note": ""}
+  ],
+  "sources_used": ["문헌/@Travis2021 Frege The Pure Business of Being True.md", "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-05_어려운 설명을 쉽게 풀어달라.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

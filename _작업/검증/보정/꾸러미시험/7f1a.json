@@ -1,0 +1,19 @@
+{
+  "id": "7f1a",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "트래비스는 사고가 해석에 면역인 내용을 갖는다는 관념을 부인한다", "label": "지지됨", "evidence": "사고가 해석에 면역이고 inexorable한 내용", "note": ""},
+    {"n": 1, "text": "§7에서 상황 민감성을 사고에까지 밀어붙인다", "label": "지지됨", "evidence": "사고(thought)에까지 밀어붙입니다", "note": ""},
+    {"n": 2, "text": "사고가 자신의 의미론을 내재적으로 갖는다는 관념, 곧 inexorable content를 부인(pp.126–129)", "label": "지지됨", "evidence": "자신의 의미론을 내재적으로 갖는다는 것", "note": ""},
+    {"n": 3, "text": "같은 사고를 다시 표현하는 일은 적합한 부연 이상도 이하도 아니며 무엇이 적합한지는 경우에 의존할 수 있다", "label": "지지됨", "evidence": "적합한 부연(adequate paraphrase) 이상도 이하도", "note": ""},
+    {"n": 4, "text": "피아의 발화에 대한 적합한 부연이 어떤 정황에서는 '잎이 초록으로 칠해져 있다'일 수 있다", "label": "지지됨", "evidence": "잎이 초록으로 칠해져 있다", "note": ""},
+    {"n": 5, "text": "무어의 보고를 거친 비트겐슈타인 그림자 논점: 그림자도 여러 해석에 열려 있어 사실에 더 가까이 데려가지 못한다(p.127)", "label": "지지됨", "evidence": "여러 해석에 열려 있기 때문입니다", "note": ""},
+    {"n": 6, "text": "§7은 사고를 해석할 경우들을 찾을 줄만 알면 된다는 말로 끝난다", "label": "지지됨", "evidence": "해석할 경우들을 찾을 줄만 알면 된다고 끝맺", "note": ""},
+    {"n": 7, "text": "대화는 처음 긴장으로 보다가 순수성이 자격만 제약한다는 정리로 §7을 6.4절과 같은 주장으로 읽는다", "label": "지지됨", "evidence": "제가 지난번에 만든 딜레마 자체가 잘못", "note": ""}
+  ],
+  "sources_used": ["문헌/@Travis1997 Pragmatics.md", "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-28_트레비스와 르카나티의 관계.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

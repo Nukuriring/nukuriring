@@ -1,0 +1,57 @@
+{
+ "id": "25i2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "가드너는 비동일성 사례에서 경로를 밝히는 조건문으로 비교 세계를 정한다",
+   "label": "지지됨",
+   "evidence": "B3 없이 B4만 쓰면 비교 세계가 미결정",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "본문 사례는 배아 선별 사례 빌리, 고갈·14세 소녀는 각주 4에만",
+   "label": "지지됨",
+   "evidence": "각주 4에만 있고 본문 사례가 아니다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "경로 조건문 B3 \"If I existed but did not have poor health, then I would have received somatic cell gene therapy...\"",
+   "label": "지지됨",
+   "evidence": "received somatic cell gene therapy",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "B4(더 나았을 것)는 B3 때문에 참이고 B3 없이 B4만 쓰면 비교 세계가 정해지지 않는다",
+   "label": "지지됨",
+   "evidence": "B4(더 나았을 것)는 B3 때문에 참이다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "영진의 재구성: X로 태어난 사람들의 나쁜 상태는 해악이고 X가 초래했으니 X는 나쁘다",
+   "label": "지지됨",
+   "evidence": "X가 그 해악을 초래했으니 나쁘다는거지?",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "Claude: 골격 수용, 해악에 반대하는 이유의 강도와 대안 정책 비교 두 마디를 더 넣어야",
+   "label": "지지됨",
+   "evidence": "잘라 넣어야 할 두 마디",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Gardner2015 A Harm-Based Solution to the Non-Identity Problem.md",
+  "_원자료/로컬/수능_원료/지문/_완료/비동일성_딜레마구도/원료_가드너_존재설명_원문확정_20260824.md",
+  "_원자료/claude.ai/chats/2026-08-26_Existence account of harming and the non-identity problem.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

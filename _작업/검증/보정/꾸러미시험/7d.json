@@ -1,0 +1,19 @@
+{
+  "id": "7d",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "문장의 Bedeutung이 진리치라는 정식은 V-Bedeutung 장부에서만 성립한다", "label": "지지됨", "evidence": "오직 V-Bedeutung 쪽 장부의 진술로만", "note": ""},
+    {"n": 1, "text": "프레게는 한 낱말로 두 장부를 운영: R은 요구에 대한 기여, V는 처분 결과에 대한 기여(p.117)", "label": "지지됨", "evidence": "하나의 낱말로 두 가지 다른 일을 시켰다", "note": ""},
+    {"n": 2, "text": "전체 사고의 R은 사물이 그러할 한 방식, V는 참; 정식은 V 장부의 진술(pp.118–119)", "label": "지지됨", "evidence": "전체 사고의 V-Bedeutung은 참(The True)", "note": ""},
+    {"n": 3, "text": "지시 모형으로 읽으면 지시체는 참이든 거짓이든 언제나 사물 전체", "label": "지지됨", "evidence": "언제나 사물 전체일 것입니다", "note": ""},
+    {"n": 4, "text": "자기 진리치에 서 있다면 판단 가능한 내용의 난점으로 돌아간다(pp.110–111)", "label": "지지됨", "evidence": "judgeable content의 난점으로 되돌아갑니다", "note": ""},
+    {"n": 5, "text": "사고가 진리치를 bedeutet해도 designieren이 되지 못한다(p.116)", "label": "지지됨", "evidence": "bedeuten은 designieren이 아니며", "note": ""},
+    {"n": 6, "text": "사고는 사고 역할에서만 Bedeutung을 가지고 대상 역할은 붙이지 않는다(p.120)", "label": "지지됨", "evidence": "그 역할은 사고에 아무 Bedeutung도 붙이지 않습니다", "note": ""},
+    {"n": 7, "text": "표현의 R은 표현되는 사고를 알아보게 하는 역할이나 V를 가진 표현이 많은지는 의심스럽다(p.133)", "label": "지지됨", "evidence": "그리 많은지는 의심스럽다", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-24_트래비스의 프레게 참 개념 해석.md", "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-20_논문 저자의 주장과 TPBBT 비교.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

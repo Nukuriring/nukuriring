@@ -1,0 +1,20 @@
+{
+  "id": "7f3a",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "단칭 개념은 싸고 대상은 개념이 있는 곳에만 있다", "label": "지지됨", "evidence": "Frege에게 단칭 개념은 싸다", "note": ""},
+    {"n": 1, "text": "1장: 사고는 독립적으로 식별되는 구성 벽돌로 조립되지 않는다(§1.1, pp.9–10), 3장이 이를 단칭성·대상에 적용", "label": "지지됨", "evidence": "independently identifiable building blocks", "note": ""},
+    {"n": 2, "text": "3.5절 Singularity는 '프레게에게 단칭 개념은 싸다'로 시작(p.67)", "label": "지지됨", "evidence": "첫 문장이 이것입니다. Frege에게 단칭 개념은 싸다", "note": ""},
+    {"n": 3, "text": "알주바호타의 승자 같은 비단칭 개념에 '그 아래 실제로 드는 바로 그것' 조건을 붙이면 단칭 개념", "label": "지지됨", "evidence": "바로 그것이어야 한다는 조건을 붙이면 단칭 개념", "note": ""},
+    {"n": 4, "text": "단칭 개념은 Beleuchtung을 이용해 조명된 그것이 그 밖에 무엇으로 셀 수 있는지를 채운다(p.68)", "label": "지지됨", "evidence": "그 빠진 것을 채우는 것이 단칭 개념의 일", "note": ""},
+    {"n": 5, "text": "3.6절은 'There is an object only where there is a concept of so being…'로 시작(p.68)", "label": "지지됨", "evidence": "There is an object only where there is a concept", "note": ""},
+    {"n": 6, "text": "러셀은 근본적 추상의 요점을 못 보고 직접지를 요구, 논리/심리 분리를 거부해 그렇게 서야만 생각할 것이 있다고 나아갔다(pp.69–70)", "label": "지지됨", "evidence": "떼어 내기를 거부했기 때문에", "note": ""},
+    {"n": 7, "text": "프레게의 순서는 우리가 자기 사고의 주인이 못 됨을 보이고 실재론의 첫걸음은 프레게의 추상(p.70)", "label": "지지됨", "evidence": "Frege의 추상이 실재론을 향한 첫걸음", "note": ""},
+    {"n": 8, "text": "단칭 개념의 두 채움이 동시에 인정될 수 없어 보이는 사례는 당분간 매달아 둔다(p.68)", "label": "지지됨", "evidence": "당분간 이 문제는 매달아 둔다", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-28_트레비스와 르카나티의 관계.md", "문헌/@Travis2021 Frege The Pure Business of Being True.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

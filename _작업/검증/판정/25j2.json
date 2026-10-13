@@ -1,0 +1,70 @@
+{
+ "id": "25j2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "Two Teams에서 개인의 전망은 같지만 모든 상태에서 한 선택지가 케이크를 더 많이 준다",
+   "label": "지지됨",
+   "evidence": "모든 상태에서 엄격히 더 많습니다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "Two Teams는 1절의 강한 가정을 걷어 내려고 설계되었다",
+   "label": "지지됨",
+   "evidence": "이 목적을 위해 설계된 사례",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "두 선택지는 모든 개인에게 같은 확률(1/2^(n+1))로 케이크 하나를 준다",
+   "label": "지지됨",
+   "evidence": "정확히 같은 확률(1/2ⁿ⁺¹)로 같은 재화",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "어떤 위험 이론을 써도 개인에게 두 선택지는 차이가 없다",
+   "label": "지지됨",
+   "evidence": "어떤 위험 이론을 갖다 대도 구별되지 않습니다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "첫 앞면이 첫 던지기면 One Team Wins는 두 사람에게, Both Teams는 아무에게도 안 줌",
+   "label": "지지됨",
+   "evidence": "Both Teams Can Win은 아무에게도",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "(n+1)번째면 2^((n+1)²) 대 2^(n²+1), 지수 차 2n으로 모든 상태에서 One Team이 엄격히 더 줌",
+   "label": "지지됨",
+   "evidence": "(n+1)² − (n²+1) = 2n > 0",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "팀 정하는 던지기는 받는 사람만 바꾸고 케이크 수는 그대로",
+   "label": "지지됨",
+   "evidence": "수령자가 누구인지만 바꾸기 때문",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "Claude: 사람이 유한하면 평균 당첨자 수가 확률 합이라 일어나지 않고, 무한이면 합이 무한대",
+   "label": "지지됨",
+   "evidence": "그 덧셈이 무한대가 됩니다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@HongRussell2025 Paradoxes of Infinite Aggregation.md",
+  "_원자료/claude.ai/chats/2026-08-04_너무 어려워.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

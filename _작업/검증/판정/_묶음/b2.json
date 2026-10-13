@@ -1,0 +1,303 @@
+{
+  "model": "sonnet",
+  "date": "2026-10-13",
+  "cards": [
+    {
+      "id": "25c2", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "목광수는 롤즈의 정의로운 저축 원칙이 두 난점을 함께 피한다고 본다", "label": "지지됨", "evidence": "딜레마를 피할 세대 간 정의론으로 적합", "note": ""},
+        {"n": 1, "text": "비동일성 문제는 개체·정체성 의존 논의에서 생기고 롤즈는 기본 구조·세대 단위라 비켜 간다", "label": "지지됨", "evidence": "사회의 기본 구조(세대 단위)에 초점", "note": ""},
+        {"n": 2, "text": "저축 원칙은 최소치 충족 목표라 혐오스러운 결론 난점도 피할 가능성이 있다", "label": "지지됨", "evidence": "당혹스러운 결론 쪽 난점도 피할 가능성", "note": ""},
+        {"n": 3, "text": "그래서 이 딜레마를 피할 세대 간 정의론으로 적합하다고 평가한다", "label": "지지됨", "evidence": "이 딜레마를 피할 세대 간 정의론으로 적합", "note": ""},
+        {"n": 4, "text": "파핏과 롤즈는 딜레마 인정·총합주의 거부에서 겹치고, 파핏은 이익 기반 원리를 고치고 롤즈는 정체성 의존 층위를 떠난다", "label": "지지됨", "evidence": "딜레마 인정·총합주의 거부 / 파핏은 이익 기반 원리를 수리", "note": ""},
+        {"n": 5, "text": "롤즈의 응답이 문제를 푼 것인지 피한 것인지라는 물음이 남는다", "label": "지지됨", "evidence": "문제를 푼 것인가 피한 것인가", "note": ""}
+      ],
+      "sources_used": ["문헌/@목광수2016 기후변화와 롤즈의 세대 간 정의.md", "_원자료/로컬/수능_원료/지문/_대기/파핏_NIP-RC_항해/원료노트_파핏NIPRC항해_20260720.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "25e1", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "임계 수준 견해는 혐오스러운 결론을 피하지만 파핏에 따르면 다른 난점을 낳는다", "label": "지지됨", "evidence": "중립형은 잔인한 결론에, 부정형은 가학적 결론", "note": ""},
+        {"n": 1, "text": "영진 초안은 브룸의 제안으로 임계 수준 견해를 소개한다", "label": "지지됨", "evidence": "브룸은 ... 임계 수준을 뺀 값을 합하여", "note": ""},
+        {"n": 2, "text": "임계 수준 미달 삶은 총합을 줄이므로 혐오스러운 결론이 도출되지 않는다", "label": "지지됨", "evidence": "당혹스러운 결론도 도출되지 않는다", "note": ""},
+        {"n": 3, "text": "Claude: 정식화 원조는 BBD, 브룸은 중립 수준 모호성 강조 쪽으로 기억(미확인)", "label": "지지됨", "evidence": "Blackorby·Bossert·Donaldson 쪽이 원조", "note": ""},
+        {"n": 4, "text": "파핏(2016): 중립형은 잔인한 결론, 부정형은 가학적 결론에 부딪힌다", "label": "지지됨", "evidence": "중립형은 잔인한 결론에, 부정형은 가학적 결론", "note": ""},
+        {"n": 5, "text": "가학적 결론은 아레니우스의 명명이고 파핏은 불공정하다는 단서를 단다", "label": "지지됨", "evidence": "아레니우스 명명이 불공정하다는 단서", "note": ""},
+        {"n": 6, "text": "체감 가치 견해: 고통뿐인 삶의 나쁨은 수가 늘어도 체감하지 않아 좋은 삶에만 제한 못 한다", "label": "지지됨", "evidence": "체감 구조를 좋은 삶에만 제한할 수도 없다", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-08-18_비동일성 문제와 도덕적 평가의 기준.md", "문헌/@Parfit2016 Can We Avoid the Repugnant Conclusion.md", "_원자료/로컬/수능_원료/지문/_대기/파핏_NIP-RC_항해/원료노트_파핏NIPRC항해_20260720.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "25f", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "우드워드는 처지 변화로 환원되지 않는 권리 침해로 비동일성 사례의 잘못을 설명한다", "label": "지지됨", "evidence": "권리를 침해하였기에 잘못이라 볼 수 있다", "note": ""},
+        {"n": 1, "text": "「The Non-Identity Problem」(Ethics 96, 1986), 804–831쪽", "label": "지지됨", "evidence": "Ethics 96/4 (1986), 804–831", "note": ""},
+        {"n": 2, "text": "비동일성 문제는 인격 영향 원리를 버릴 이유가 되지 못한다", "label": "지지됨", "evidence": "인격 영향 원리를 거부할 이유가 아니며", "note": ""},
+        {"n": 3, "text": "문제의 원인은 잘못을 해악을 통해 규정한 데 있다", "label": "지지됨", "evidence": "그 원인은 잘못을 해악을 통해 규정한 데", "note": ""},
+        {"n": 4, "text": "신체의 안전·존엄 같은 처지로 환원되지 않는 이익과 그 보호받을 권리가 있다", "label": "지지됨", "evidence": "전체적인 처지의 변화로 환원되지 않는 이익", "note": ""},
+        {"n": 5, "text": "항공사가 인종을 이유로 탑승 거부, 비행기 추락으로 탑승객 전원 사망", "label": "지지됨", "evidence": "인종을 이유로 탑승을 거부했고 ... 추락", "note": ""},
+        {"n": 6, "text": "거부가 목숨을 구했어도 차별받지 않을 권리의 기대를 침해해 결과와 무관하게 부당", "label": "지지됨", "evidence": "결과와 무관하게 부당하다는 논변", "note": ""},
+        {"n": 7, "text": "같은 구조로 보면 낮은 삶의 질로 존재하게 된 사람들은 삶의 질 보장 권리를 침해당해 잘못을 당한 것이다", "label": "부분 지지", "evidence": "권리를 침해하였기에 잘못이라 볼 수 있다는 것", "note": "초안은 '잘못이라 볼 수 있다는 것이다'로 서술했는데 카드는 '잘못을 당한 것이다'로 단정. 한정어 약화."},
+        {"n": 8, "text": "사례와 논변이 원논문에 있다는 점은 Claude가 2026-08-17 검색으로 확인", "label": "지지됨", "evidence": "Woodward는 확인됐습니다", "note": ""},
+        {"n": 9, "text": "파핏은 같은 호에 「Comments」로 응답했다", "label": "지지됨", "evidence": "\"Comments,\" Ethics 96/4 832–872", "note": ""}
+      ],
+      "sources_used": ["문헌/@Woodward1986 The Non-Identity Problem.md", "_원자료/claude.ai/chats/2026-08-17_파핏의 비동일성 문제와 도덕 원리.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "25g", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "마이어는 기본 수준에 못 미치는 처지를 해악으로 보아 비교 없이 해악을 판정한다", "label": "지지됨", "evidence": "행위가 없었을 경우의 처지와 비교하지 않고 판단", "note": ""},
+        {"n": 1, "text": "비동일성 문제는 해악을 처지의 비교로 규정한 데서 생긴다고 진단", "label": "지지됨", "evidence": "해악을 비교로 규정한 데 있다고 지적", "note": ""},
+        {"n": 2, "text": "권리로서 요구할 수 있는 최소 조건 이하 대우를 해악으로 규정", "label": "지지됨", "evidence": "최소한의 조건 이하로 대우받는 것을 해악으로", "note": ""},
+        {"n": 3, "text": "롤즈의 저축 원칙이 최소 조건을 식별하는 지침이 될 수 있다고 본다", "label": "지지됨", "evidence": "최소한의 조건을 식별하는 지침이 될 수 있다", "note": ""},
+        {"n": 4, "text": "미래 세대를 정의로운 제도 아래 살 수 없게 하는 선택은 최소 조건 이하 대우", "label": "지지됨", "evidence": "정의로운 제도 아래에서 살 수 없게 하는 선택", "note": ""},
+        {"n": 5, "text": "SEP: 마이어의 해악 개념은 통시적·가정법적-역사적·문턱 개념의 선언적 규정", "label": "지지됨", "evidence": "선언적 규정으로 정리합니다", "note": ""},
+        {"n": 6, "text": "SEP는 문턱 개념이 약한 인격 영향 관점의 조건을 충족한다고 서술", "label": "지지됨", "evidence": "*약한* 인격 영향 관점의 조건을 충족", "note": ""},
+        {"n": 7, "text": "SEP는 문턱 의존적 해악 개념을 리베라-로페스에 귀속하고 마이어를 참조 문헌으로 덧붙임", "label": "지지됨", "evidence": "Rivera-Lopez 2009에 귀속하며 마이어를 참조", "note": ""},
+        {"n": 8, "text": "문턱 충족 위치의 행위자에게 의무, 불가피한 문턱 이하 해악은 우선주의적 최소화", "label": "지지됨", "evidence": "우선주의적 평가에 따라 해악을 최소화", "note": ""},
+        {"n": 9, "text": "마이어 원문은 미확인이고 서지가 두 제목으로 엇갈림", "label": "지지됨", "evidence": "서지가 두 갈래입니다", "note": ""}
+      ],
+      "sources_used": ["문헌/@Meyer2003 Past and Future.md", "_원자료/claude.ai/chats/2026-08-06_비동일성 문제와 세대 간 정의.md", "_원자료/claude.ai/chats/2026-08-17_파핏의 비동일성 문제와 도덕 원리.md", "_원자료/claude.ai/chats/2026-08-18_비동일성 문제와 도덕적 평가의 기준.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "25g1", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "마이어의 문턱과 임계 수준의 임계는 같은 기준선을 서로 다른 층위에 쓴다", "label": "연결", "evidence": "", "note": "두 출처를 엮는 연결"},
+        {"n": 1, "text": "마이어의 기본 삶의 수준과 임계 수준은 모두 기준선을 도입하는 처방", "label": "지지됨", "evidence": "사실상 같은 처방(기준선 도입)", "note": ""},
+        {"n": 2, "text": "마이어의 문턱은 개인 해악 판정 기준, 임계 수준은 합산 함수의 원점을 옮기는 장치", "label": "지지됨", "evidence": "개인 단위 해악 판정의 문턱 / 원점 이동", "note": ""},
+        {"n": 3, "text": "마이어는 인격 영향 원리를, 임계 수준 견해는 총합 원리를 지킨다", "label": "지지됨", "evidence": "마이어(1번 살림)/브룸(2번 살림)", "note": ""},
+        {"n": 4, "text": "Claude가 파핏·마이어·브룸을 세 입장으로 정리했다", "label": "지지됨", "evidence": "파핏(둘 다 버려라)/마이어/브룸", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-08-18_비동일성 문제와 도덕적 평가의 기준.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "25h", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "하만은 나쁜 상태를 야기하는 일을 해악의 충분조건으로 삼아 비동일성 사례를 설명한다", "label": "지지됨", "evidence": "충분조건이지 필요조건이 아니다", "note": ""},
+        {"n": 1, "text": "해악 없이도 그른 행위가 있다는 통념은 해악을 '더 나쁘게 만듦'으로 보는 잘못된 개념에서 온다", "label": "지지됨", "evidence": "잘못된 개념에서 온다", "note": ""},
+        {"n": 2, "text": "해악 개념을 바꾸면 그름을 개인에 대한 해악으로 설명할 수 있다", "label": "지지됨", "evidence": "개인에 대한 해악으로 설명할 수 있다", "note": ""},
+        {"n": 3, "text": "해악 예시 \"causing pain, early death, bodily damage, and deformation\"", "label": "지지됨", "evidence": "causing pain, early death, bodily damage", "note": ""},
+        {"n": 4, "text": "가드너가 빌린 나쁜 상태 목록과 기준 \"worse in some way than the normal healthy state...\"(§5)", "label": "지지됨", "evidence": "worse in some way than the normal healthy", "note": ""},
+        {"n": 5, "text": "비교 없는 해악을 해악의 충분조건으로만 제시", "label": "지지됨", "evidence": "해악의 충분조건이지 필요조건이 아니다", "note": ""},
+        {"n": 6, "text": "§7: 해악을 입고도 그 행위가 없었기를 바라지 않을 수 있으나 그 해악은 부당할 수 있다", "label": "지지됨", "evidence": "그래도 부당한 해악이다", "note": ""},
+        {"n": 7, "text": "비교 없는 해악과 순수 이익의 비대칭은 시프린의 입장(원료 노트 귀속)", "label": "지지됨", "evidence": "비비교적 해악·순수 이익 비대칭 = 시프린", "note": ""},
+        {"n": 8, "text": "Claude가 든 시프린의 금괴 사례: 금괴 값이 치료비를 넘어도 팔을 부러뜨리면 해친 것", "label": "지지됨", "evidence": "치료비를 넘고도 남아 ... 그를 해친 것", "note": ""}
+      ],
+      "sources_used": ["문헌/@Harman2004 Can We Harm and Benefit in Creating.md", "_원자료/로컬/수능_원료/지문/_완료/비동일성_딜레마구도/자료노트_하만_반례_P-Q스트레스_20260819.md", "_원자료/로컬/수능_원료/지문/_완료/비동일성_딜레마구도/원료_가드너_존재설명_원문확정_20260824.md", "_원자료/로컬/수능_원료/지문/_대기/파핏_NIP-RC_항해/원료노트_파핏NIPRC항해_20260720.md", "_원자료/claude.ai/chats/2026-08-17_파핏의 비동일성 문제와 도덕 원리.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "25h1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "채펠에 따르면 하만의 해악으로는 대안이 있을 때만 생기는 그름을 설명하지 못한다", "label": "지지됨", "evidence": "P를 그르게 만드는 것은 해악이 아니라", "note": ""},
+        {"n": 1, "text": "채펠(2024)은 해피 해리와 미들링 모 사례로 하만을 반박", "label": "지지됨", "evidence": "해피 해리 / 미들링 모", "note": ""},
+        {"n": 2, "text": "해리와 30세에 죽을 모 중 한 사람만 창조 가능할 때 모 창조가 그르다는 합의", "label": "지지됨", "evidence": "그르다는 데는 합의한다", "note": ""},
+        {"n": 3, "text": "모의 삶은 좋으므로 모를 위해 존재하지 않기를 바랄 이유 없음", "label": "지지됨", "evidence": "모가 존재하지 않기를 바랄 이유가 없다", "note": ""},
+        {"n": 4, "text": "모 창조의 그름은 대안에 달린 외재적 사실이나 모의 해악 크기는 대안과 무관", "label": "지지됨", "evidence": "해악의 크기는 대안 유무와 무관하게 동일", "note": ""},
+        {"n": 5, "text": "그 외재적 사실이 모에게 \"of no essential interest\"", "label": "지지됨", "evidence": "of no essential interest to Moe", "note": ""},
+        {"n": 6, "text": "그름을 이익을 줄 이유로 설명: 해리가 자기 존재에서 더 많이 이익", "label": "지지됨", "evidence": "reasons to benefit ... 더 많이 이익", "note": ""},
+        {"n": 7, "text": "하만은 당사자가 합리적으로 바랄 것과 어긋나는 결과를 당사자를 위해 선호하게 된다", "label": "지지됨", "evidence": "diverges from what S would (rationally)", "note": ""},
+        {"n": 8, "text": "무자크와 감자 미래를 하만의 전략은 다루지 못한다", "label": "지지됨", "evidence": "하만의 전략은 이 사례를 아예 다루지 못한다", "note": ""},
+        {"n": 9, "text": "월런 댓글: 대안이 출산 안 함뿐이면 부당한 해악이 아닌데 다른 아이라는 사정이 부당하게 바꾸는가", "label": "지지됨", "evidence": "같은 해악을 부당한 해악으로 바꿀 수 있는가", "note": ""}
+      ],
+      "sources_used": ["문헌/@Chappell2024 Harman, Harm, and the Non-Identity Problem.md", "_원자료/로컬/수능_원료/지문/_완료/비동일성_딜레마구도/자료노트_하만_반례_P-Q스트레스_20260819.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "25i1b", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "같은 상태를 어떤 술어로 기술하느냐에 따라 존재 설명의 판정이 뒤집힐 수 있다", "label": "지지됨", "evidence": "어떤 술어로 기술하느냐에 따라 ... 뒤집히는", "note": ""},
+        {"n": 1, "text": "(D)와 (D2)는 같은 사태를 두 술어로 기술한다", "label": "지지됨", "evidence": "같은 사태를 어떤 술어로 기술하느냐", "note": ""},
+        {"n": 2, "text": "'흐린 시야'는 결정적 상태라 부정이 정상 시력과 실명을 모두 열고, '잘 보지 못함'은 결여 형식이라 부정이 곧 '잘 볼 수 있음'", "label": "지지됨", "evidence": "부정은 곧바로 「잘 볼 수 있음」을 함의", "note": ""},
+        {"n": 3, "text": "Claude: 존재 설명이 상태 개별화 부담을 떠안았다", "label": "지지됨", "evidence": "상태 개별화 부담이 생겼습니다", "note": ""},
+        {"n": 4, "text": "전건에 존재만 고정하는 선택도 따로 정당화해야 한다", "label": "지지됨", "evidence": "왜 존재만 고정하는지 답해야 합니다", "note": ""},
+        {"n": 5, "text": "'스미스가 수술했다'를 함께 고정하면 (D)는 참이 된다", "label": "지지됨", "evidence": "함께 고정하면 (D)는 참이 되고", "note": ""},
+        {"n": 6, "text": "Claude는 (D)의 판정을 최근접 세계 선택으로 풀었다", "label": "지지됨", "evidence": "최근접 세계 판단입니다", "note": ""},
+        {"n": 7, "text": "원문 확인 노트: 가드너는 근접성을 기준으로 쓰지 않고 복수 세계의 판별 규칙도 두지 않는다", "label": "지지됨", "evidence": "근접 가능세계 의미론 이식 금지", "note": ""},
+        {"n": 8, "text": "그러므로 이 부담은 판별 규칙의 공백으로 읽는 편이 원문에 맞는다", "label": "연결", "evidence": "", "note": "Claude 분석과 원문 확인 노트를 엮은 카드의 해석"},
+        {"n": 9, "text": "Claude는 후보 상태를 내재적으로 나아질 수 있는 측면으로 제한한 것을 이 부담에 대한 대응으로 읽었다", "label": "지지됨", "evidence": "내재적 측면으로 후보 상태를 제한", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-08-26_Existence account of harming and the non-identity problem.md", "_원자료/로컬/수능_원료/지문/_완료/비동일성_딜레마구도/원료_가드너_존재설명_원문확정_20260824.md", "문헌/@Gardner2015 A Harm-Based Solution to the Non-Identity Problem.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "25i2", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "가드너는 비동일성 사례에서 경로를 밝히는 조건문으로 비교 세계를 정한다", "label": "지지됨", "evidence": "B3 없이 B4만 쓰면 비교 세계가 미결정", "note": ""},
+        {"n": 1, "text": "본문 사례는 배아 선별 사례 빌리, 고갈·14세 소녀는 각주 4에만", "label": "지지됨", "evidence": "각주 4에만 있고 본문 사례가 아니다", "note": ""},
+        {"n": 2, "text": "경로 조건문 B3 \"If I existed but did not have poor health, then I would have received somatic cell gene therapy...\"", "label": "지지됨", "evidence": "received somatic cell gene therapy", "note": ""},
+        {"n": 3, "text": "B4(더 나았을 것)는 B3 때문에 참이고 B3 없이 B4만 쓰면 비교 세계가 정해지지 않는다", "label": "지지됨", "evidence": "B4(더 나았을 것)는 B3 때문에 참이다", "note": ""},
+        {"n": 4, "text": "영진의 재구성: X로 태어난 사람들의 나쁜 상태는 해악이고 X가 초래했으니 X는 나쁘다", "label": "지지됨", "evidence": "X가 그 해악을 초래했으니 나쁘다는거지?", "note": ""},
+        {"n": 5, "text": "Claude: 골격 수용, 해악에 반대하는 이유의 강도와 대안 정책 비교 두 마디를 더 넣어야", "label": "지지됨", "evidence": "잘라 넣어야 할 두 마디", "note": ""}
+      ],
+      "sources_used": ["문헌/@Gardner2015 A Harm-Based Solution to the Non-Identity Problem.md", "_원자료/로컬/수능_원료/지문/_완료/비동일성_딜레마구도/원료_가드너_존재설명_원문확정_20260824.md", "_원자료/claude.ai/chats/2026-08-26_Existence account of harming and the non-identity problem.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "25i3", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "가드너에 따르면 해악이 불가피할수록 그것을 가하지 않을 이유는 약해진다", "label": "지지됨", "evidence": "해악이 더 불가피할수록 ... 이유는 더 약하다", "note": ""},
+        {"n": 1, "text": "존재 설명에 대한 또 하나의 반론에 답하려고 이유의 강도 원리를 내세운다", "label": "지지됨", "evidence": "another objection to the existence account", "note": ""},
+        {"n": 2, "text": "필연성 원리: 해악이 더 불가피할수록 가하지 않을 이유는 더 약하다", "label": "지지됨", "evidence": "Inevitable Harming Principle", "note": ""},
+        {"n": 3, "text": "존재 설명과 결합하면 비동일성 해악은 성립하되 반대할 이유가 더 약하다", "label": "지지됨", "evidence": "해악은 성립하되 강도가 더 약하다", "note": ""},
+        {"n": 4, "text": "가드너는 해악 판정을 유지하고 이유의 강도를 조정하여 반론을 다룬다", "label": "지지됨", "evidence": "가드너의 최종 조정", "note": ""},
+        {"n": 5, "text": "첫 문단은 \"a principle about the strength of the reason against harming\"으로 예고하고 반론 완화에 도움", "label": "지지됨", "evidence": "will help diffuse the objection", "note": ""},
+        {"n": 6, "text": "Claude는 원리 제시 전에 두 층 구조로 갈 것이라 예상했다", "label": "지지됨", "evidence": "이층 구조로 예상되는데", "note": ""}
+      ],
+      "sources_used": ["문헌/@Gardner2015 A Harm-Based Solution to the Non-Identity Problem.md", "_원자료/로컬/수능_원료/지문/_완료/비동일성_딜레마구도/원료_가드너_존재설명_원문확정_20260824.md", "_원자료/claude.ai/chats/2026-08-26_Existence account of harming and the non-identity problem.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "25i4", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "가드너는 총합을 고려하는 이론이 비인격적 가치에 개입한다고 본다", "label": "지지됨", "evidence": "appear to be committed to the claim", "note": "원문은 '~로 보인다'. 제목은 '본다'이나 본문에서 한정을 유지함."},
+        {"n": 1, "text": "각주 17: 다섯 두통 사태가 한 명 두통 사태보다 더 나쁘다는 이론은 비인격적 가치에 개입", "label": "지지됨", "evidence": "committed to the existence of impersonal value", "note": ""},
+        {"n": 2, "text": "어떤 개인에게도 더 나쁘지 않으니 더 나쁘다면 근거는 비인격적 가치일 수밖에", "label": "지지됨", "evidence": "must be grounded in impersonal value", "note": ""},
+        {"n": 3, "text": "공리주의·로스식 다원주의는 복지에 비인격적 가치가 있다는 주장에 개입하는 것으로 보인다", "label": "지지됨", "evidence": "appear to be committed to the claim", "note": ""},
+        {"n": 4, "text": "각주 18: 결과주의자의 비인격적 가치 관심이 해악 인정을 꺼리는 이유를 설명할 수 있다", "label": "지지됨", "evidence": "can explain why many consequentialists", "note": ""},
+        {"n": 5, "text": "브래들리(2012)는 해악 개념 폐기, 노크로스(2005: 171–172) 인용문", "label": "지지됨", "evidence": "metaphysical grounding required to play", "note": ""},
+        {"n": 6, "text": "Claude: 이 배치는 가드너 해법이 특정 개인에 대한 해악에 정박함을 드러낸다", "label": "지지됨", "evidence": "개인에 대한 위해에 정박한다는 점", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-08-26_Existence account of harming and the non-identity problem.md", "문헌/@Gardner2015 A Harm-Based Solution to the Non-Identity Problem.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "25j", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "무한한 인구에서는 사전적 파레토와 상태별 우월성이 충돌한다", "label": "지지됨", "evidence": "이 둘이 동시에 참일 수 없는 상황", "note": ""},
+        {"n": 1, "text": "홍과 러셀(Noûs, 2025): 사람과 상태가 모두 무한한 세계에서 상식적 원리들이 함께 참일 수 없다", "label": "지지됨", "evidence": "동시에 참일 수 없다. 무한히 많은 사람과", "note": "출판 연도는 대화 요약 표기(2025), PDF 파일명은 2024."},
+        {"n": 2, "text": "사전적 파레토: 모든 개인에게 낫다면 전체적으로도 낫다", "label": "지지됨", "evidence": "모든 개인에게 ... 엄격히 좋다면", "note": ""},
+        {"n": 3, "text": "상태별 우월성: 모든 가능한 상태에서 결과가 낫다면 그 전망이 낫다", "label": "지지됨", "evidence": "모든 가능 상태에서 ... 결과보다", "note": ""},
+        {"n": 4, "text": "무한한 표를 가로로 읽으면 한 선택지가, 세로로 읽으면 다른 선택지가 이긴다", "label": "지지됨", "evidence": "가로로 읽으면 A가 이기고, 세로로 읽으면 B", "note": ""},
+        {"n": 5, "text": "Claude의 세 겹 정리: 네 원리 양립 불가(정리 1), 너무 약해 빠져나갈 길 없음, 버려도 대가 급진적", "label": "지지됨", "evidence": "세 겹입니다", "note": ""},
+        {"n": 6, "text": "윌킨슨(2022)의 충돌은 공리주의+기대효용 고유 문제처럼 보였으나 거의 모든 견해가 걸린다고 본다", "label": "지지됨", "evidence": "거의 모든 견해에 걸립니다", "note": ""},
+        {"n": 7, "text": "물리학자들이 무한 공간 가설을 진지하게 다룬다는 점(각주 1)에서 이 역설이 실제 세계의 문제일 수 있다", "label": "지지됨", "evidence": "실제로 그런 세계에 살고 있을 실질적 가능성", "note": ""}
+      ],
+      "sources_used": ["문헌/@HongRussell2025 Paradoxes of Infinite Aggregation.md", "_원자료/claude.ai/chats/2026-08-04_너무 어려워.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "25j1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "사회적 세인트피터즈버그 사례는 같은 표를 읽는 방향에 따라 판정이 갈린다", "label": "지지됨", "evidence": "같은 표, 같은 숫자입니다. 읽는 방향만", "note": ""},
+        {"n": 1, "text": "'평등·위험'은 첫 앞면이 k번째면 모든 손님에게 2^k, '불평등·안전'은 n번 방 손님에게 확실한 2^n", "label": "지지됨", "evidence": "'평등·위험'은 전원에게 2^k", "note": ""},
+        {"n": 2, "text": "행 방향: 각 손님에게 게임이 확실한 2^n보다 낫고 사전적 파레토로 '평등·위험'이 낫다", "label": "지지됨", "evidence": "모두에게 낫다 → 사전적 파레토", "note": ""},
+        {"n": 3, "text": "열 방향: 상태 H_k에서 '불평등·안전'은 k−1명에게만 손해, 무한히 많은 사람에게 이득", "label": "지지됨", "evidence": "딱 k−1명(유한)만 2^k 미만씩 손해", "note": ""},
+        {"n": 4, "text": "가산성에 따라 한쪽 상향분 합은 유한, 반대는 무한이라 상태별 우월성으로 '불평등·안전'이 낫다", "label": "지지됨", "evidence": "한 방향 step up은 유한 ... 반대 방향은 무한", "note": ""},
+        {"n": 5, "text": "수치 척도·기댓값·가산성과 무한히 커질 개인의 좋음을 가정, 하나를 부인하면 빠져나갈 수 있다", "label": "지지됨", "evidence": "셋 중 하나만 부인하고 빠져나갑니다", "note": ""}
+      ],
+      "sources_used": ["문헌/@HongRussell2025 Paradoxes of Infinite Aggregation.md", "_원자료/claude.ai/chats/2026-08-04_너무 어려워.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "25j2", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "Two Teams에서 개인의 전망은 같지만 모든 상태에서 한 선택지가 케이크를 더 많이 준다", "label": "지지됨", "evidence": "모든 상태에서 엄격히 더 많습니다", "note": ""},
+        {"n": 1, "text": "Two Teams는 1절의 강한 가정을 걷어 내려고 설계되었다", "label": "지지됨", "evidence": "이 목적을 위해 설계된 사례", "note": ""},
+        {"n": 2, "text": "두 선택지는 모든 개인에게 같은 확률(1/2^(n+1))로 케이크 하나를 준다", "label": "지지됨", "evidence": "정확히 같은 확률(1/2ⁿ⁺¹)로 같은 재화", "note": ""},
+        {"n": 3, "text": "어떤 위험 이론을 써도 개인에게 두 선택지는 차이가 없다", "label": "지지됨", "evidence": "어떤 위험 이론을 갖다 대도 구별되지 않습니다", "note": ""},
+        {"n": 4, "text": "첫 앞면이 첫 던지기면 One Team Wins는 두 사람에게, Both Teams는 아무에게도 안 줌", "label": "지지됨", "evidence": "Both Teams Can Win은 아무에게도", "note": ""},
+        {"n": 5, "text": "(n+1)번째면 2^((n+1)²) 대 2^(n²+1), 지수 차 2n으로 모든 상태에서 One Team이 엄격히 더 줌", "label": "지지됨", "evidence": "(n+1)² − (n²+1) = 2n > 0", "note": ""},
+        {"n": 6, "text": "팀 정하는 던지기는 받는 사람만 바꾸고 케이크 수는 그대로", "label": "지지됨", "evidence": "수령자가 누구인지만 바꾸기 때문", "note": ""},
+        {"n": 7, "text": "Claude: 사람이 유한하면 평균 당첨자 수가 확률 합이라 일어나지 않고, 무한이면 합이 무한대", "label": "지지됨", "evidence": "그 덧셈이 무한대가 됩니다", "note": ""}
+      ],
+      "sources_used": ["문헌/@HongRussell2025 Paradoxes of Infinite Aggregation.md", "_원자료/claude.ai/chats/2026-08-04_너무 어려워.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "25j3", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "홍과 러셀의 네 원리는 사람 축과 상태 축에서 쌍대를 이룬다", "label": "지지됨", "evidence": "개인 축과 상태 축의 완전한 쌍대", "note": ""},
+        {"n": 1, "text": "정리 1: (약한) 사전적 파레토, (강한) 상태별 우월성, 개인 간 보상, 확률적 보상은 함께 참일 수 없다", "label": "지지됨", "evidence": "동시에 참일 수 없다", "note": ""},
+        {"n": 2, "text": "개인 간 보상: 유한 집단의 손실은 겹치지 않는 유한 집단의 이득으로 보상될 수 있다", "label": "지지됨", "evidence": "겹치지 않는 어떤 유한 집단의 이득으로", "note": ""},
+        {"n": 3, "text": "상태별 우월성은 결과 순서를 전망 순서로 들어 올릴 뿐, 결과 우열은 가산성·개인 간 보상이 공급", "label": "지지됨", "evidence": "결과들 사이의 순서를 전망들 사이의 순서로", "note": ""},
+        {"n": 4, "text": "817쪽: 사람 축에 사전적 파레토·개인 간 보상, 상태 축에 상태별 우월성·확률적 보상", "label": "지지됨", "evidence": "817쪽의 쌍대 구조", "note": ""},
+        {"n": 5, "text": "사전적 파레토와 상태별 우월성은 인덱스 집합만 바꾼 같은 꼴", "label": "지지됨", "evidence": "인덱스 집합만 바꾼 같은 문장", "note": ""},
+        {"n": 6, "text": "Two Teams에서 개인은 무차별뿐이라 약한 파레토, 상태는 엄격이라 강한 우월성(각주 13 거울상)", "label": "지지됨", "evidence": "파레토는 약한 쪽이어야 하고", "note": ""},
+        {"n": 7, "text": "부록 A 증명: 힐베르트 호텔 이동을 상태 축에서 하고 개인 간 보상이 새 사람으로 채우는 계단", "label": "지지됨", "evidence": "상태 축에서 수행한 것이고", "note": ""},
+        {"n": 8, "text": "정리 2는 확률 함수를 비교 확률 관계로 바꾸고 이행성도 가정하지 않는다", "label": "지지됨", "evidence": "⊑의 이행성조차 가정하지 않습니다", "note": ""}
+      ],
+      "sources_used": ["문헌/@HongRussell2025 Paradoxes of Infinite Aggregation.md", "_원자료/claude.ai/chats/2026-08-04_너무 어려워.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "25k", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "슈팅룸에서 개인의 사망 확률은 36분의 1 이하이지만 사망자는 약 90퍼센트", "label": "지지됨", "evidence": "모든 자리에서 1/36 이하다", "note": ""},
+        {"n": 1, "text": "쌍6이면 그 라운드 전원 사망하고 끝, 아니면 참가자 10배, 재참가 불가", "label": "지지됨", "evidence": "\"재참가 불가\" + 10배 확대", "note": "게임 규칙 원문은 영진이 올린 이미지이며 Claude의 설명 기준으로 대조."},
+        {"n": 2, "text": "개인 사망 확률은 1/36(약 2.78%), n번째 자리는 (1/36)(35/36)^(n−1)", "label": "지지됨", "evidence": "P(사망) = (1/36)(35/36)ⁿ⁻¹ ≤ 1/36", "note": ""},
+        {"n": 3, "text": "n라운드 종료 시 사망자 10^(n−1)명은 누적 참가자 (10^n−1)/9의 약 90.9%", "label": "지지됨", "evidence": "9·10ⁿ⁻¹/(10ⁿ−1) ≈ 90.9%", "note": ""},
+        {"n": 4, "text": "하나는 사후 빈도, 하나는 사전 위험이라 양립; 완전 상관, 사망은 가장 큰 코호트에 몰림", "label": "지지됨", "evidence": "사후 빈도, 하나는 개인의 사전 위험", "note": ""},
+        {"n": 5, "text": "빈도→신용도 추론은 집단 소속 방식이 결과와 독립일 때 성립, 슈팅룸은 종료 시점이 참가자를 정함", "label": "지지됨", "evidence": "게임이 언제 끝났느냐가 곧 누가 참가자인지", "note": ""},
+        {"n": 6, "text": "무한 명부에 균등 측도가 없고 어떤 분포를 잡아도 사망 확률은 1/36 이하", "label": "지지됨", "evidence": "어떤 확률분포를 넣어도 1/36을 넘길 수 없다", "note": ""},
+        {"n": 7, "text": "Claude: 레슬리는 90퍼센트 쪽, 종말 논변 옹호용으로 이 사고실험을 만들었다", "label": "지지됨", "evidence": "종말 논변(Doomsday Argument) 방어용", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-07-30_Seeking an answer.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "25k1", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "슈팅룸의 90퍼센트라는 수치는 종료 사건이 무엇인지와 무관하다", "label": "지지됨", "evidence": "종료 사건이 무엇인지에 전혀 의존하지 않는다", "note": ""},
+        {"n": 1, "text": "종료 조건을 뒤집은 게임: 쌍6이면 그 라운드 전원 1,000만 달러, 아니면 빈손 10배 확대", "label": "지지됨", "evidence": "전원에게 1000만 달러를 주고 게임 종료", "note": ""},
+        {"n": 2, "text": "무한 모집에서 확률 1로 끝나고 참가자 90.9%가 상금을 받지만 개인 확률은 1/36", "label": "지지됨", "evidence": "당신 라운드에서 쌍6이 뜰 확률은 1/36", "note": ""},
+        {"n": 3, "text": "90.9%는 10배 수열에서 마지막 항이 부분합의 약 9/10인 산수", "label": "지지됨", "evidence": "마지막 항이 부분합의 9/10이라는 것", "note": ""},
+        {"n": 4, "text": "마지막 코호트에 일어난 일은 무엇이든 사후 90%로 보이고 수치는 주사위 위험에 정보를 주지 않음", "label": "지지됨", "evidence": "정보량이 0이다", "note": ""},
+        {"n": 5, "text": "유한 명부 판본에서 아무도 안 죽는 분기가 약 82%(7라운드 명부)로 올라오고 마지막 코호트와 죽은 코호트가 갈라진다", "label": "지지됨", "evidence": "아무도 죽지 않을 확률 82.1%", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-07-30_Seeking an answer.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "25k2", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "개인의 사전 위험은 주변분포여서 사회적 평가에 필요한 결합분포를 정하지 못한다", "label": "지지됨", "evidence": "주변분포는 결합분포를 결정하지 못한다", "note": ""},
+        {"n": 1, "text": "영진: 사후 통계가 참혹한데 사전 위험이 작을 수 있다면 사전 위험 평가는 쓸모없지 않은가", "label": "지지됨", "evidence": "사전 위험을 평가하는게 아무런 쓸모없는거 아냐?", "note": ""},
+        {"n": 2, "text": "유한한 모든 판본에서 기대 사망자 수는 기대 참가자 수의 정확히 1/36", "label": "지지됨", "evidence": "E[사망자] = (1/36) × E[참가자]가 정확히 성립", "note": ""},
+        {"n": 3, "text": "90퍼센트를 얻으려면 무한을 들여오거나 나쁜 분기로 조건화해야 한다", "label": "지지됨", "evidence": "무한 ... 이거나, 나쁜 분기로의 조건화", "note": ""},
+        {"n": 4, "text": "100명이 각자 2.6퍼센트: 독립이면 2~3명, 완전 상관이면 0 아니면 100명 사망", "label": "지지됨", "evidence": "독립이면 2~3명이 죽고, 완전상관이면 0명 아니면 100명", "note": ""},
+        {"n": 5, "text": "개인 위험 수치가 같아도 결합분포가 다르므로 사전 위험은 평가 정보의 일부만 준다", "label": "지지됨", "evidence": "쓸모없는 게 아니라 불완전하다", "note": ""},
+        {"n": 6, "text": "네덜란드 외부 안전 정책은 개인 위험과 집단 위험을 나누고 집단 위험을 F-N 곡선으로 평가", "label": "지지됨", "evidence": "groepsrisico를 F-N 곡선으로 평가한다", "note": ""},
+        {"n": 7, "text": "Claude: 슈팅룸은 계약주의 사전·사후 관점의 간극을 극단까지 벌리며 프릭이 관련 문헌", "label": "지지됨", "evidence": "두 관점의 간극을 극한까지 벌려 놓은 사례", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-07-30_Seeking an answer.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "25k3", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "에르고딕성 논변은 파산 확률의 합이 발산할 때만 확실한 파산을 낳는다", "label": "지지됨", "evidence": "정리가 요구하는 건 ... Σpₙ = ∞", "note": ""},
+        {"n": 1, "text": "영진이 슈팅룸을 블랙스완에 견주자 Claude는 구조는 맞지만 인식적 성격은 아니라고 답함", "label": "지지됨", "evidence": "반은 정확히 맞다 ... 결정적으로 안 맞는다", "note": ""},
+        {"n": 2, "text": "지수적 노출, 완전한 상관, 흡수 장벽은 탈레브가 가리키는 구조와 같다", "label": "지지됨", "evidence": "탈레브가 계속 가리키는 그 구조", "note": ""},
+        {"n": 3, "text": "확률이 1/36로 공표되어 숨은 매개변수가 없어 구조적 주장과 인식적 주장이 분리된다", "label": "지지됨", "evidence": "두 주장이 여기서 분리된다", "note": ""},
+        {"n": 4, "text": "참가 말리는 최강 논변은 에르고딕성: 작은 파산 확률 반복 노출 시 시간 평균은 확실한 파산", "label": "지지됨", "evidence": "'받지 마라' 쪽의 최강 논변은 에르고딕성", "note": ""},
+        {"n": 5, "text": "p_n 합이 발산해야 확률 1로 파산, p_n=1/n²처럼 수렴하면 영원히 살아남을 확률 1/2", "label": "지지됨", "evidence": "pₙ = 1/n²이면 수렴 → 생존 확률 1/2", "note": ""},
+        {"n": 6, "text": "그러므로 이 논변이 실제로 요구하는 것은 파산 노출이 총합 가능해야 한다는 조건", "label": "부분 지지", "evidence": "파산 노출이 총합가능해야 한다", "note": "Claude는 이것을 논변의 '실제 결론'(노출이 수렴해야 안전하다는 처방)으로 말함. 카드는 '요구하는 조건'으로 바꿔 직전 '발산해야 파산'과 방향이 모호해짐."},
+        {"n": 7, "text": "슈팅룸은 재참가를 금지하므로 반복이 없고 앙상블 평균과 시간 평균이 갈라질 무대도 없다", "label": "지지됨", "evidence": "반복이 없으니 ... 갈라질 무대가 없다", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-07-30_Seeking an answer.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "25l2", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "뢰브에 따르면 불멸은 행위를 정의롭게 하는 바로 그 방식으로 중요하지 않게 만든다", "label": "지지됨", "evidence": "바로 그 정의로움이 선택지를 제거한다", "note": ""},
+        {"n": 1, "text": "§3 제목 「우리의 모든 행위는 정의롭지만, 또한 중요하지 않다」(Claude 번역)는 논증의 경첩", "label": "지지됨", "evidence": "제목의 말장난이 논증의 경첩입니다", "note": ""},
+        {"n": 2, "text": "필멸의 삶은 부정의할 수 있다: 용기가 시험받지 못하거나 확률이 나빠 비겁하게 행동(도덕적 운, Nagel)", "label": "지지됨", "evidence": "필멸의 삶은 역설적으로 '부정의'하다", "note": ""},
+        {"n": 3, "text": "불멸에서는 무한한 시험 사례에서 성향이 실제 빈도로 드러나 이 부정의가 사라진다", "label": "지지됨", "evidence": "불멸은 이 부정의를 없앤다", "note": ""},
+        {"n": 4, "text": "그 정의로움이 전역적 선택을 없앤다", "label": "지지됨", "evidence": "불멸자에게는 전역적 선택이 없다", "note": ""},
+        {"n": 5, "text": "농구 비유: 성공률 0.95여도 10,000번 연속 성공 확률은 극히 작아 할 수 없다", "label": "지지됨", "evidence": "10,000번 연속 성공 확률은 극미", "note": ""},
+        {"n": 6, "text": "'p를 할 수 있고 q를 할 수 있다'에서 'p이면서 q를 할 수 있다'는 안 따른다(Conee & Sider)", "label": "지지됨", "evidence": "따라 나오지 않는다(Conee & Sider)", "note": ""},
+        {"n": 7, "text": "불멸자에게는 행위 순서나 특정 경우의 국소적 선택만 남는다", "label": "지지됨", "evidence": "남는 건 국소적 선택뿐", "note": ""},
+        {"n": 8, "text": "확률이 0이 아닌 선택지는 자유롭게 고를 수 있다고 가정하며, 거부해도 비대칭이 남는다", "label": "지지됨", "evidence": "필멸자가 갖는 방식으로는 ... 배제된다", "note": ""}
+      ],
+      "sources_used": ["문헌/@Loew2026 Precious and Pathetic.md", "_원자료/claude.ai/chats/2026-07-22_논문 내용 설명해주기.md"],
+      "sources_missing": []
+    }
+  ]
+}
