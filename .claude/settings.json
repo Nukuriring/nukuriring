@@ -7,7 +7,11 @@
       "Bash(git diff*)",
       "Bash(git log*)",
       "Bash(git add*)",
-      "Bash(git commit*)"
+      "Bash(git commit*)",
+      "Bash(python3 _작업/스크립트/*)",
+      "Bash(python3 -P _작업/스크립트/*)",
+      "Bash(py -3 -P _작업/스크립트/*)",
+      "Bash(py -3.12 -P _작업/스크립트/*)"
     ],
     "deny": [
       "Edit(_원자료/**)",
@@ -21,8 +25,19 @@
         "hooks": [
           {
             "type": "command",
-            "command": "py -3 \"$CLAUDE_PROJECT_DIR/_작업/스크립트/lint.py\" --hook",
+            "command": "if command -v py >/dev/null 2>&1; then py -3 \"$CLAUDE_PROJECT_DIR/_작업/스크립트/lint.py\" --hook; else python3 \"$CLAUDE_PROJECT_DIR/_작업/스크립트/lint.py\" --hook; fi",
             "timeout": 30
+          }
+        ]
+      }
+    ],
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "$CLAUDE_PROJECT_DIR/.claude/hooks/session-start.sh",
+            "timeout": 300
           }
         ]
       }
