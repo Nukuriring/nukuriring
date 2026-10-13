@@ -24,6 +24,7 @@ verify_by: sonnet
 - [[38i5a R-Bedeutung은 전통적으로 Sinn이 하는 일로 여겨져 온 것을 맡는다]]: R-Bedeutung이 전통적 Sinn의 일과 겹친다는 영진의 지적이다.
 - [[38i6 트래비스에 따르면 진리 보존을 등록하는 V-Bedeutung은 개념일 필요가 없다]]: V-Bedeutung에는 개념임의 요구가 없다는 결론이 이어진다.
 - [[38 트래비스는 프레게가 사고의 공유 가능성을 규정하지 못하고 논증해야 한다고 본다]]: 제안하는 사고와 처분하는 사물로 이루어진 참임의 이자 사업이 두 Bedeutung 구별의 배경이다.
+- [[7d 트래비스에 따르면 문장의 Bedeutung이 진리치라는 정식은 V-Bedeutung 장부에서만 성립한다]] (다음 단계): Bedeutung의 두 기여 구분이 진리치 정식을 V-Bedeutung 장부로 한정하는 근거가 된다. (제안: Claude)
 - 관련 주제(다른 묶음): R과 V 두 장부의 London has bridges 계산(L1a §5.6), 문장의 Bedeutung(L1b)
 
 ## 출처

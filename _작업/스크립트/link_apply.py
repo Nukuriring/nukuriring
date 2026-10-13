@@ -22,7 +22,7 @@ for b, a, bb, verdict, rel, why in rows:
         why = why.rstrip('.') + '.'
         rel = rel or '관련'
         add[a].append((bb, rel, why)); add[bb].append((a, rel, why))
-    elif verdict == '중복 의심':
+    elif verdict in ('중복 의심', '중복'):
         dup.append((b, a, bb, why))
 name = lambda i: os.path.basename(F[i])[:-3]
 changed = skipped = lines = 0; locked = []
