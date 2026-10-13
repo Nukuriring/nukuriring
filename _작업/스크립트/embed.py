@@ -1,4 +1,4 @@
-# 사용법: py -3 -P _작업/스크립트/embed.py . [--model BAAI/bge-m3] [--batch 16] [--max-len 1024] [--force]
+# 사용법: py -3 -P _작업/스크립트/embed.py . [--model BAAI/bge-m3] [--batch 16] [--max-len 1024] [--device auto|cuda|cpu] [--force]
 # (-P: 이 폴더의 struct.py가 표준 모듈 struct를 가리지 않게 한다)
 # 영구 노트를 임베딩해 `_작업/검색/임베딩/<모델 이름>/`에 쓴다. PC의 GPU에서 돌리는 스크립트이다.
 #  - title.npy: 제목(명제 한 문장) 벡터. 중복 탐지(dupes.py)에 쓴다.
@@ -12,6 +12,7 @@
 #   py -3 -m pip install torch --index-url https://download.pytorch.org/whl/cu124
 #   py -3 -m pip install sentence-transformers numpy
 #   py -3 -c "import torch; print(torch.cuda.is_available())"   ← True가 나와야 GPU를 씁니다
+# GPU 메모리가 4GB보다 작으면(BGE-M3는 반정밀도로도 약 1.1GB) --device auto가 CPU를 고른다. CPU는 수십 분 걸린다.
 # 대조 모델: --model nlpai-lab/KURE-v1 (embed_compare.py로 두 모델의 이웃을 비교)
 import argparse, datetime, glob, hashlib, json, os, re, sys
 
@@ -20,6 +21,7 @@ ap.add_argument('vault')
 ap.add_argument('--model', default='BAAI/bge-m3')
 ap.add_argument('--batch', type=int, default=16)
 ap.add_argument('--max-len', type=int, default=1024)
+ap.add_argument('--device', default='auto', choices=['auto', 'cuda', 'cpu'])
 ap.add_argument('--force', action='store_true')
 a = ap.parse_args()
 V = a.vault
@@ -65,9 +67,18 @@ dim = None
 if todo:
     import torch
     from sentence_transformers import SentenceTransformer
-    dev = 'cuda' if torch.cuda.is_available() else 'cpu'
+    dev = a.device
+    if dev == 'auto':
+        dev = 'cpu'
+        if torch.cuda.is_available():
+            mem = torch.cuda.get_device_properties(0).total_memory / 2**30
+            if mem >= 4:
+                dev = 'cuda'
+            else:
+                print(f'알림: GPU 메모리가 {mem:.1f}GB라 모델이 올라가지 않으므로 CPU로 계산합니다.', file=sys.stderr)
     if dev == 'cpu':
-        print('경고: GPU를 찾지 못해 CPU로 계산합니다. 수십 분 걸릴 수 있습니다.', file=sys.stderr)
+        print(f'CPU로 계산합니다(카드 {len(todo)}장, 수십 분 걸릴 수 있음). 중간에 멈춰도 다시 실행하면 처음부터 계산합니다.', file=sys.stderr)
+        torch.set_num_threads(max(1, os.cpu_count() or 1))
     m = SentenceTransformer(a.model, device=dev)
     m.max_seq_length = a.max_len
     kw = dict(batch_size=a.batch, normalize_embeddings=True, show_progress_bar=True, convert_to_numpy=True)
