@@ -1,0 +1,55 @@
+{
+ "id": "56d13",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "태드의 이름 없는 게임은 기계적·무진행 반복이어서 불안, 야구·차 안 시간 대비",
+   "label": "지지됨",
+   "evidence": "mechanical repeation makes diturbing",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "장난감 차를 한 시간 넘게 줄 세우는 게임이 왜 불안한지 묻는다",
+   "label": "지지됨",
+   "evidence": "Hour or more",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "세 이유: 기계적 반복이 필멸성을 떠올림, 진행·역사 감각 없음, 반복에 신비한 의미",
+   "label": "지지됨",
+   "evidence": "(1) mechanical (2) no sense of progress",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "야구는 반복적이나 진행·방향·결과가 있어 정적/진행 시간이 대비",
+   "label": "지지됨",
+   "evidence": "but has some sense of progress",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "차에 갇힌 도나·태드: 시간이 안 흐르면 견딜 만하나 흐르면 굶는 등 두려움",
+   "label": "지지됨",
+   "evidence": "they will strave, something bad would happen",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "머물 것인가 움직일 것인가, 쿠조는 시간을 어떻게 느끼는지 묻는다",
+   "label": "지지됨",
+   "evidence": "how Cujo senses time?",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/현대 영미문학/Cujo/3 20 Mon f73122afcced4c14bfa3f959a2012b04.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

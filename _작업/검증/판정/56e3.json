@@ -1,0 +1,70 @@
+{
+ "id": "56e3",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "기후 위기는 어디에도 천국 없는 행성 문제, 차크라바티 따라 구명보트 없는 행성적 사고 필요",
+   "label": "지지됨",
+   "evidence": "어디에도 천국은 없다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "캐나다·알래스카가 천국일 수 있다는 기대를 먼저 놓는다",
+   "label": "지지됨",
+   "evidence": "Canada, Alsaska — paradise?",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "소설의 모든 문제가 기후 위기와 이어진 전 세계의 문제",
+   "label": "지지됨",
+   "evidence": "all the problem in the novle",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "국소적 문제로 볼 수 없고 여기서 일어난 일은 다른 곳에서도 일어난다",
+   "label": "지지됨",
+   "evidence": "다른 곳에서도 역시 일어날 것",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "차크라바티를 따라 행성적 사고가 필요하고 구명보트가 없다",
+   "label": "지지됨",
+   "evidence": "행성적 사고를 요구한다. 구명보트란 없다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "사고를 시작하는 방법으로 새로운 종교와 우주론",
+   "label": "지지됨",
+   "evidence": "새로운 종교를 개발하기. 새로운 우주론",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "로렌이 별과 우주를 이야기하는 까닭은 문제의 뿌리를 찾으려는 데 있다",
+   "label": "지지됨",
+   "evidence": "이 문제를 바라보는 뿌리를 찾기 위함",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "모든 인물이 이런 사고를 가져야 하나 많은 사람은 못한다",
+   "label": "지지됨",
+   "evidence": "많은 사람들이 그런 것을 할 수 없어하긴함",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/현대 영미문학/Parable of the sower/5 15 4a8470f2edcd4946939eafdeddacd402.md"
+ ],
+ "sources_missing": [],
+ "note": "notion_map.json의 56e3 항목이 참고문헌 라이브러리의 이미지 메타 파일 '15'를 가리켜 내용과 맞지 않았음. 제목 Glob으로 Parable of the sower/5 15 파일을 찾아 대조함. 지도 항목 수정 필요.",
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
