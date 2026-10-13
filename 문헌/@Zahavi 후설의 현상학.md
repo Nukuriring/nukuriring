@@ -4,7 +4,7 @@ citekey: Zahavi후설의현상학
 author: Dan Zahavi
 year: 2003
 title: "후설의 현상학"
-published: "필기 첫 줄이 '후설의 현상학 – 단 자하비'이며 서지 정보는 이것뿐이다. 서지 조사로 Dan Zahavi, Husserl's Phenomenology(Stanford University Press, Cultural Memory in the Present, 2003)로 확인했다. 독역본 후보: Husserls Phänomenologie(Mohr Siebeck, UTB, 2009, 역자 Bernhard Obsieger; 후보, 확인 필요). 국역본, 필기가 읽은 판본, 쪽수는 확인 필요."
+published: "필기 첫 줄이 '후설의 현상학 – 단 자하비'이며 서지 정보는 이것뿐이다. 서지 조사로 Dan Zahavi, Husserl's Phenomenology(Stanford University Press, Cultural Memory in the Present, 2003)로 확인했다. 독역본 후보: Husserls Phänomenologie(Mohr Siebeck, UTB, 2009, 역자 Bernhard Obsieger; 웹 2차 출처로 확인, https://www.mohrsiebeck.com/en/book/husserls-phaenomenologie-9783825232399). 국역본, 필기가 읽은 판본, 쪽수는 확인 필요."
 status: 초안
 read_via:
   - "Notion 페이지 후설의 현상학 (현상학 2022-1, 수정일 2022-02-28)"

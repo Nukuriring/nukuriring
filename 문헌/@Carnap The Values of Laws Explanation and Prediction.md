@@ -4,7 +4,7 @@ citekey: Carnap
 author: Rudolf Carnap
 year: 
 title: "The Values of Laws: Explanation and Prediction"
-published: "서지 확인 필요. 원자료는 제목과 저자 이름만 적고 연도와 수록처를 적지 않았다. 카르납의 『Philosophical Foundations of Physics』에 속한다고 짐작되지만 원자료에서 확인되지 않는다. (후보: Philosophical Foundations of Physics: An Introduction to the Philosophy of Science, Martin Gardner 편, Basic Books, New York, 1966, https://www.nature.com/articles/2111235a0 . 책 자체는 확인되었으나 이 글이 그 책의 한 장이라는 점은 직접 확인하지 못했다.)"
+published: "원자료는 제목과 저자 이름만 적고 연도와 수록처를 적지 않았다. 카르납의 『Philosophical Foundations of Physics』에 속한다고 짐작되지만 원자료에서 확인되지 않는다. 수록 책은 Philosophical Foundations of Physics: An Introduction to the Philosophy of Science, Martin Gardner 편, Basic Books, New York, 1966이다(웹 2차 출처로 확인, https://www.nature.com/articles/2111235a0 ). 책 자체는 확인되었으나 이 글이 그 책의 한 장이라는 점은 직접 확인하지 못했고, 연도(1966은 책 기준)와 제목 표기(리스본대 강의 자료는 단수 "The Value of Laws")는 책 목차 확인 필요이다."
 status: 초안
 read_via:
   - "Notion 「Carnap_The values of Laws: Explanation and Prediction」 (과학철학 논자시, Chapter 6 폴더, 날짜 미상)"

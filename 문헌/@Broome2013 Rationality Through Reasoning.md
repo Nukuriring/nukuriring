@@ -4,7 +4,7 @@ citekey: Broome2013
 author: Broome
 year: 2013
 title: "Rationality Through Reasoning"
-published: "원자료에는 약칭 RTR과 장 번호만 나온다. 연도와 출판 정보는 필기에 없다. 출판 정보 후보(확인 필요): 2013 (2013-08-16 출간으로 표기), Wiley-Blackwell, Blackwell/Brown Lectures in Philosophy, ISBN 9781405117104(양장), 9781118656051(보급판) (https://www.megabooks.cz/en/p/1832517/rationality-through-reasoning , https://philevents.org/event/show/13704)."
+published: "원자료에는 약칭 RTR과 장 번호만 나온다. 연도와 출판 정보는 필기에 없다. 출판 정보(웹 2차 출처로 확인): 2013 (2013-08-16 출간으로 표기), Wiley-Blackwell, Blackwell/Brown Lectures in Philosophy, ISBN 9781405117104(양장), 9781118656051(보급판) (https://www.megabooks.cz/en/p/1832517/rationality-through-reasoning , https://philevents.org/event/show/13704)."
 status: 초안
 read_via:
   - "Notion 「RTR Chapter 7 Requirments」 (Untill 2025/철학/분석철학)"
@@ -18,7 +18,7 @@ created: 2026-10-12
 ---
 # Rationality Through Reasoning
 
-> 서지 확인 메모: 필기 제목은 RTR 약칭과 장 번호(7장, 9장, 10장)만 쓰고 책 제목을 적지 않는다. 책 제목과 연도 2013은 citekey 규약에 따라 적었으며 확인 필요. 「RTR CH 10」과 「RTR chap 10 Conditional requirements」는 같은 10장의 서로 다른 절을 다룬다. 영진의 논평은 9장 필기의 9.6 부분에서만 확인되었다.
+> 서지 확인 메모: 필기 제목은 RTR 약칭과 장 번호(7장, 9장, 10장)만 쓰고 책 제목을 적지 않는다. 책 제목과 연도 2013은 citekey 규약에 따라 적었고 웹 2차 출처로 확인했다(위 URL). 「RTR CH 10」과 「RTR chap 10 Conditional requirements」는 같은 10장의 서로 다른 절을 다룬다. 영진의 논평은 9장 필기의 9.6 부분에서만 확인되었다.
 
 ## 한 줄 요지
 브룸은 합리성의 요구를 마음에 수반하는 정합성 요구로 보고 넓은 범위로 정식화하며, 일관성, 수단적 요구, 에크라시아 요구, 기반 금지와 의도 지속 요구를 이 틀에서 검토한다.

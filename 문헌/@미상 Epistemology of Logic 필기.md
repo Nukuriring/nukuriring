@@ -4,7 +4,7 @@ citekey:
 author: (저자 미상)
 year: 
 title: "5,6 epistemology of logic"
-published: "원자료는 필기의 제목과 회차(5, 6)만 적고 읽은 글의 저자, 제목, 연도를 적지 않는다. 내용으로 보아 보고시안(Boghossian)의 맹목적 자격부여 설명을 카살레뇨(Casalegno)와 윌리엄슨(필기에는 윌리엄스로 표기)이 비판하는 논의를 정리한 분석철학 스터디 필기이다. 서지 확인 필요. (Boghossian 논문 후보: Paul Boghossian, \"Blind Reasoning\", Proceedings of the Aristotelian Society, Supplementary Volume 77 (2003); 쪽수는 출처마다 갈려 미확정; 확인 필요, https://repository.globethics.net/handle/20.500.12424/172204)"
+published: "원자료는 필기의 제목과 회차(5, 6)만 적고 읽은 글의 저자, 제목, 연도를 적지 않는다. 내용으로 보아 보고시안(Boghossian)의 맹목적 자격부여 설명을 카살레뇨(Casalegno)와 윌리엄슨(필기에는 윌리엄스로 표기)이 비판하는 논의를 정리한 분석철학 스터디 필기이다. 서지 확인 필요(카살레뇨와 윌리엄슨 비판 글). (Boghossian 논문: Paul Boghossian, \"Blind Reasoning\", Proceedings of the Aristotelian Society, Supplementary Volume 77 (2003); 쪽수는 출처마다 갈려 미확정; 웹 2차 출처로 확인, https://repository.globethics.net/handle/20.500.12424/172204)"
 status: 초안
 read_via:
   - "Notion 「5,6 epistemology of logic」 (철학 자료 아카이브, 분석철학 스터디, 수정일 2022-04-04)"

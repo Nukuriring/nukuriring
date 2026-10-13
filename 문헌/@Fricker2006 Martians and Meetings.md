@@ -4,7 +4,7 @@ citekey: Fricker2006
 author: Elizabeth Fricker
 year: 2006
 title: "Martians and Meetings"
-published: "원자료에는 쪽 머리 'MARTIANS AND MEETINGS 79'만 있다. 웹으로 확인한 서지는 Martians and Meetings: Against Burge's Neo-Kantian Apriorism about Testimony, Philosophica 78 (2006) 증언 특집호이다. 쪽 범위는 후보 69-84(PhilPapers 기록의 검색 결과 요약 기준, 쪽 79가 범위 안에 듦)이며 확인 필요."
+published: "원자료에는 쪽 머리 'MARTIANS AND MEETINGS 79'만 있다. 웹으로 확인한 서지는 Martians and Meetings: Against Burge's Neo-Kantian Apriorism about Testimony, Philosophica 78 (2006) 증언 특집호이다. 쪽 범위는 69-84이다(웹 2차 출처로 확인, PhilPapers 기록의 검색 결과 요약 기준, 쪽 79가 범위 안에 듦, https://philpapers.org/rec/FRIMAM-3)."
 status: 초안
 read_via:
   - "[[_원자료/claude.ai/chats/2026-05-14_Local reductionism and testimony reliability]]"

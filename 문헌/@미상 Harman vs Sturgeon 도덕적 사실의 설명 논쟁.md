@@ -4,7 +4,7 @@ citekey:
 author: (저자 미상)
 year: 
 title: "Harman v.s Sturgeon"
-published: "원자료는 하먼과 스털전의 글의 서지를 적지 않는다. 토론이나 발제를 준비하며 적은 짧은 필기로 보이며, 문장이 중간에 끊긴 곳이 있다. 서지 확인 필요. (Harman: Gilbert Harman, The Nature of Morality: An Introduction to Ethics, New York: Oxford University Press, 1977, xiii+165쪽으로 확인했으나 \"Ethics and Observation\"이 이 책 1장 제목인지와 필기가 읽은 글이 이것인지는 확인하지 못했다. Sturgeon 후보: Nicholas Sturgeon, \"Moral Explanations\", in D. Copp and D. Zimmerman (eds.), Morality, Reason and Truth, Totowa, NJ: Rowman & Allanheld, 1985 (일부 기록은 1984), pp. 49-78; 확인 필요.)"
+published: "원자료는 하먼과 스털전의 글의 서지를 적지 않는다. 토론이나 발제를 준비하며 적은 짧은 필기로 보이며, 문장이 중간에 끊긴 곳이 있다. 서지 확인 필요(Harman의 \"Ethics and Observation\" 수록처). 필기가 읽은 글이 아래 글들인지는 원문 대조 필요. (Harman: Gilbert Harman, The Nature of Morality: An Introduction to Ethics, New York: Oxford University Press, 1977, xiii+165쪽으로 확인했으나 \"Ethics and Observation\"이 이 책 1장 제목인지와 필기가 읽은 글이 이것인지는 확인하지 못했다. Sturgeon: Nicholas Sturgeon, \"Moral Explanations\", in D. Copp and D. Zimmerman (eds.), Morality, Reason and Truth, Totowa, NJ: Rowman & Allanheld, 1985 (일부 기록은 1984), pp. 49-78; 웹 2차 출처로 확인, https://stafforini.com/works/sturgeon-1985-moral-explanations/ )"
 status: 초안
 read_via:
   - "Notion 「Harman v.s Sturgeon」 (Untill 2025, 필기, 수정일 미상)"

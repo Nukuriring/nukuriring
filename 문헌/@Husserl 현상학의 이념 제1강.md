@@ -2,9 +2,9 @@
 type: 문헌
 citekey: Husserl현상학의이념제1강
 author: Edmund Husserl
-year: 확인 필요
+year: 1907 강의, 전집 간행 1950 (웹 2차 출처로 확인, https://www.commoncrowbooks.com/pages/books/0088448/edmund-husserl-ed-walter-biemel/die-idee-der-phanomenologie-funf-vorlesungen-husserliana-band-ii-edmund-husserl-gesammelte)
 title: "현상학의 이념 제1강 (추정)"
-published: "원자료는 영진의 발제문이며 책 이름과 번역본과 판본이 적혀 있지 않다. 발제문이 '제 1 강의'를 다룬다고 쓰고 p.41~55를 인용하는 점과 내용(자연적 정신 태도, 인식 비판, 철학의 새로운 차원)으로 보아 『현상학의 이념』 제1강으로 추정하나 원자료에서 확인되지 않는다. 쪽수의 판본은 확인 필요. 원전 서지: Die Idee der Phänomenologie. Fünf Vorlesungen, Husserliana II, hrsg. Walter Biemel, Den Haag: Nijhoff, 1950. (후보, 확인 필요: 연도 1907 강의, 전집 간행 1950, 재간 표기는 1958과 1973으로 서로 다름, https://www.commoncrowbooks.com/pages/books/0088448/edmund-husserl-ed-walter-biemel/die-idee-der-phanomenologie-funf-vorlesungen-husserliana-band-ii-edmund-husserl-gesammelte ; Hua II의 제1강은 pp. 15-26이므로 p.41~55는 Hua II 쪽수가 아니라 번역본 쪽수로 보임; 국역본 후보 박지영 옮김, 필로소픽, 2020, 노트가 이 번역을 썼는지는 쪽수 대조 필요, https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000002927346 ; 영역본 Lee Hardy 역, Collected Works 8, Kluwer, 1999, https://link.springer.com/book/9789024720934)"
+published: "원자료는 영진의 발제문이며 책 이름과 번역본과 판본이 적혀 있지 않다. 발제문이 '제 1 강의'를 다룬다고 쓰고 p.41~55를 인용하는 점과 내용(자연적 정신 태도, 인식 비판, 철학의 새로운 차원)으로 보아 『현상학의 이념』 제1강으로 추정하나 원자료에서 확인되지 않는다. 쪽수의 판본은 아래 서지 참조(원문 대조 필요). 원전 서지: Die Idee der Phänomenologie. Fünf Vorlesungen, Husserliana II, hrsg. Walter Biemel, Den Haag: Nijhoff, 1950. (웹 2차 출처로 확인: 연도 1907 강의, 전집 간행 1950, 재간 표기는 1958과 1973으로 서로 다름, https://www.commoncrowbooks.com/pages/books/0088448/edmund-husserl-ed-walter-biemel/die-idee-der-phanomenologie-funf-vorlesungen-husserliana-band-ii-edmund-husserl-gesammelte ; Hua II의 제1강은 pp. 15-26이므로 p.41~55는 Hua II 쪽수가 아니라 번역본 쪽수로 보임; 국역본 후보 박지영 옮김, 필로소픽, 2020, 노트가 이 번역을 썼는지는 쪽수 원문 대조 필요, https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000002927346 ; 영역본 Lee Hardy 역, Collected Works 8, Kluwer, 1999, https://link.springer.com/book/9789024720934)"
 status: 초안
 read_via:
   - "Notion 페이지 현상학 발제_김영진_ (현상학 2022-1, 발제일 2022-05-08)"

@@ -4,7 +4,7 @@ citekey: Buckner
 author: Cameron Buckner
 year: 2019
 title: "Deep learning: A philosophical introduction"
-published: "원자료는 제목과 저자만 적고 연도와 수록처를 적지 않았다. 연도 2019는 웹으로 확인함(PhilSci-Archive 기록). 수록처는 Philosophy Compass로 보이나(후보: Philosophy Compass, 게재본 PDF 파일명 기준) 권호, 쪽, DOI는 못 찾았고 사전 인쇄본과 게재본의 결론 절이 달라 노트가 어느 판을 읽었는지 대조가 필요하다. 확인 필요."
+published: "원자료는 제목과 저자만 적고 연도와 수록처를 적지 않았다. 연도 2019는 웹으로 확인함(PhilSci-Archive 기록). 수록처는 Philosophy Compass이다(웹 2차 출처로 확인, 게재본 PDF 파일명 기준, https://fenix.letras.ulisboa.pt/downloadFile/1970432211157029/Philosophy Compass - 2019 - Buckner - Deep learning A philosophical introduction.pdf). 권호, 쪽, DOI는 못 찾아 확인 필요이다. 사전 인쇄본과 게재본의 결론 절이 달라 노트가 어느 판을 읽었는지는 원문 대조 필요."
 status: 초안
 read_via:
   - "Notion 「김영진_발제」와 「김영진_발제_수정」 (철학 자료 아카이브, 과학철학 과제 연구 2025-1, 인공지능의 철학, 발제일 2025-03-18). 두 파일은 버전 묶음이고 본문이 같아서 수정본을 기준으로 삼았다."
@@ -12,7 +12,7 @@ created: 2026-10-12
 ---
 # Deep learning: A philosophical introduction
 
-> 서지 확인 메모: 이 노트는 영진 님의 발제문을 통해 정리한 것이다. 발제문은 저자 이름을 Buckner와 Buckenr, Beckner로 섞어 적는다. 연도는 웹으로 확인했다(2019). 수록처와 쪽수는 원자료에 없으므로 확인이 필요하다. 발제문의 문장 가운데 Buckner의 주장과 영진 님의 보충을 구별해 두었다.
+> 서지 확인 메모: 이 노트는 영진 님의 발제문을 통해 정리한 것이다. 발제문은 저자 이름을 Buckner와 Buckenr, Beckner로 섞어 적는다. 연도는 웹으로 확인했다(2019). 수록처는 Philosophy Compass로 웹 2차 출처로 확인했고(위 frontmatter 참조), 쪽수는 원자료에 없으므로 확인 필요이다. 발제문의 문장 가운데 Buckner의 주장과 영진 님의 보충을 구별해 두었다.
 
 ## 한 줄 요지
 딥러닝이 이전 세대 신경망과 구조에서 무엇이 다른지 소개하고, 그 성공을 설명하는 세 가지 관점(계층적 특징 구성, 잡음 조정, 선형 영역의 수)을 정리한 뒤, 딥러닝이 경험주의와 본유주의 논쟁, 인간 학습과의 비교, 과학적 설명의 종류에 던지는 철학적 물음을 다룬다.
@@ -34,7 +34,7 @@ created: 2026-10-12
 
 ## 핵심 개념
 - 지도학습(supervised learning), 오차 역전파(backpropagation), 심층 합성곱 신경망(DCNN)
-- 골든 에이지 신경망: 1980년대부터 1990년대 중반까지 유행한 초기 신경망. 발제문의 본문은 은닉층이 3~4개 이하라고 적고 용어 정의 절은 1~2개 수준이라고 적는다. 값이 서로 달라 확인이 필요하다.
+- 골든 에이지 신경망: 1980년대부터 1990년대 중반까지 유행한 초기 신경망. 발제문의 본문은 은닉층이 3~4개 이하라고 적고 용어 정의 절은 1~2개 수준이라고 적는다. 값이 서로 달라 원문 대조 필요.
 - 활성화 함수(activation function), 합성곱(convolution), ReLU, 풀링(pooling), 드롭아웃(dropout), 정규화(regularization), 과적합(overfitting)
 - 계층적 특징 구성(hierarchical feature composition), 잡음 요소(nuisance factors), 결정 경계(decision boundary), 유사성 공간(similarity space), 선형 영역(linear regions)
 - 적대적 예제(adversarial examples), 기계론적 설명(mechanistic explanation), 수학적이고 기능적인 설명

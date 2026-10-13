@@ -4,7 +4,7 @@ citekey: McDowell1978
 author: John McDowell
 year: 1978
 title: Are Moral Requirements Hypothetical Imperatives?
-published: 원자료에 서지 정보가 없다. 파일명이 Macdowell(Are moral imperatives Hypothetical Imperatives이고 연도는 Claude가 보충했으므로 서지 확인 필요 (후보, 확인 필요: Proceedings of the Aristotelian Society, Supplementary Volume 52 (1978), https://api.philpapers.org/rec/BAKCMR)
+published: 원자료에 서지 정보가 없다. 파일명이 Macdowell(Are moral imperatives Hypothetical Imperatives이고 연도는 Claude가 보충했고 웹 2차 출처로 확인했다: Proceedings of the Aristotelian Society, Supplementary Volume 52 (1978), https://api.philpapers.org/rec/BAKCMR . 쪽수는 확인 필요
 status: 초안
 read_via:
   - "Notion 「Macdowell(Are moral imperatives Hypothetical Imperatives」 (철학 자료 아카이브 › 철학 자료 마스터, 문서 수정일 2025-02-27)"
@@ -12,7 +12,7 @@ created: 2026-10-12
 ---
 # Are Moral Requirements Hypothetical Imperatives?
 
-> 서지 확인 메모: 원자료는 영어 인용 한 대목과 영진 님의 짧은 메모로 이루어진 3KB 필기이다. 논문 전체를 읽은 기록은 없고 쪽수도 적혀 있지 않다. 연도 1978은 Claude가 기억으로 붙였으므로 확인이 필요하다. 아래 논증 구조는 인용된 한 대목만 재구성한다.
+> 서지 확인 메모: 원자료는 영어 인용 한 대목과 영진 님의 짧은 메모로 이루어진 3KB 필기이다. 논문 전체를 읽은 기록은 없고 쪽수도 적혀 있지 않다. 연도 1978은 Claude가 기억으로 붙였고 웹 2차 출처로 확인했다(https://api.philpapers.org/rec/BAKCMR). 아래 논증 구조는 인용된 한 대목만 재구성한다.
 
 ## 한 줄 요지
 맥도웰(John McDowell)은 덕의 요구가 정언 명령이라는 주장의 요점 일부가, 덕이 요구하는 상황을 제대로 인식하면 달리 행위할 이유들이 다른 이유와 비교되어 압도되는 것이 아니라 침묵한다는 생각에 있다고 본다.

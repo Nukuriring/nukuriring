@@ -2,9 +2,9 @@
 type: 문헌
 citekey: PlautusNotes
 author: 미상 (수업 필기)
-year: 확인 필요
+year: 원전 특정 불가(수업 필기)
 title: "Plautus 로마 희극 수업 필기: 생애, 신희극, 플라우투스의 특징"
-published: "수업 정보는 필기에 없음 (확인 필요)"
+published: "수업 정보는 필기에 없음 (원전 특정 불가(수업 필기))"
 status: 초안
 read_via:
   - "Notion 페이지 Plautus"
@@ -13,7 +13,7 @@ created: 2026-10-12
 # Plautus 로마 희극 수업 필기: 생애, 신희극, 플라우투스의 특징
 
 ## 서지 확인 메모
-필기는 짧은 항목 목록이다. 연대와 사실은 필기에 적힌 대로 옮겼고 외부 자료로 확인하지 않았다. 215년에 첫 작품을 올렸다는 항목의 주어가 플로티누스로 적혀 있는데 문맥상 Plautus로 읽었다. (웹 확인 값: 검색 결과들은 Plautus의 작품 활동을 대략 기원전 205~184년으로 적고, 확정된 연도는 Stichus 200 BC, Pseudolus 191 BC뿐이어서 필기의 215년과 다르다. 확인 필요. https://en.wikipedia.org/wiki/Plautus) 인용 한 대목(New comedy presented stock characters in stock situations ...)은 출처가 적혀 있지 않아 확인 필요이다.
+필기는 짧은 항목 목록이다. 연대와 사실은 필기에 적힌 대로 옮겼고 외부 자료로 확인하지 않았다. 215년에 첫 작품을 올렸다는 항목의 주어가 플로티누스로 적혀 있는데 문맥상 Plautus로 읽었다. (웹 확인 값: 검색 결과들은 Plautus의 작품 활동을 대략 기원전 205~184년으로 적고, 확정된 연도는 Stichus 200 BC, Pseudolus 191 BC뿐이어서 필기의 215년과 다르다. 원문 대조 필요. https://en.wikipedia.org/wiki/Plautus) 인용 한 대목(New comedy presented stock characters in stock situations ...)은 출처가 적혀 있지 않아 확인 필요이다(웹에서도 정확한 문구를 못 찾음).
 
 ## 한 줄 요지
 플라우투스의 출생과 활동 시기를 로마의 정치적 배경과 함께 적고, 구희극과 신희극을 구분하며 신희극의 정형 인물과 정형 상황을 설명하고, 플라우투스가 그리스 신희극에서 바꾼 점으로 보이는 항목을 열거한 필기이다.

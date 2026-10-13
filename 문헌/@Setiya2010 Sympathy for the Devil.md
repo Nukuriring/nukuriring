@@ -4,7 +4,7 @@ citekey: Setiya2010
 author: Setiya
 year: 2010
 title: "Sympathy for the Devil"
-published: "원자료에는 저자의 성과 제목만 나온다. 연도와 게재지는 필기에 없다. (후보: Kieran Setiya, \"Sympathy for the Devil\", in Sergio Tenenbaum (ed.), Desire, Practical Reason, and the Good, Oxford University Press, 2010, pp. 82-110; 확인 필요, https://dc2.philarchive.org/rec/KAZSFT)"
+published: "원자료에는 저자의 성과 제목만 나온다. 연도와 게재지는 필기에 없다. (Kieran Setiya, \"Sympathy for the Devil\", in Sergio Tenenbaum (ed.), Desire, Practical Reason, and the Good, Oxford University Press, 2010, pp. 82-110; 웹 2차 출처로 확인, https://dc2.philarchive.org/rec/KAZSFT)"
 status: 초안
 read_via:
   - "Notion 「Setiya_Sympathy for the devil」 (Untill 2025/스터디 트래커, 심리철학연습)"
@@ -12,7 +12,7 @@ created: 2026-10-12
 ---
 # Sympathy for the Devil
 
-> 서지 확인 메모: 필기 제목은 「Setiya_Sympathy for the devil」이다. 연도 2010은 citekey 규약에 따라 적었으며 확인 필요. 필기 안의 Comment 이하 대목은 영진의 것으로 보았다.
+> 서지 확인 메모: 필기 제목은 「Setiya_Sympathy for the devil」이다. 연도 2010은 citekey 규약에 따라 적었으며 웹 2차 출처로 확인했다. 필기 안의 Comment 이하 대목은 영진의 것으로 보았다.
 
 ## 한 줄 요지
 세티야는 좋음의 외양 논제를 이유 개념에 관한 설명적 이유 주장으로 읽을 때만 방어할 수 있다고 보고, 약화된 판본은 악의 사례에서 무너지며 일반 진술로 읽을 때에만 인간 종에 대해 참이라고 결론짓는다.

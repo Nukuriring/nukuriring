@@ -4,7 +4,7 @@ citekey: PlautusMiles
 author: Plautus (극 원작), 영진 (인식론적 독해 글)
 year: 확인 필요
 title: "Miles Gloriosus (The Braggart Soldier): 앎과 무지의 드라마"
-published: "극의 번역과 서문은 Erich Segal로 필기에 언급되나 판본과 연도는 필기에 없음 (확인 필요; 판본 후보 1: Plautus, Four Comedies, trans. Erich Segal, Oxford World's Classics, ISBN 9780199540563, 288쪽, 연도는 출처마다 2008 또는 2010, https://erichsegal.com/scholarly-work/plautus-four-comedies/ ; 판본 후보 2: Plautus, Selected Works, trans. Erich Segal, New York: Harper & Row, 1969, https://find.library.upenn.edu/catalog/998201063503681 ; 필기가 인용한 행 번호가 어느 판본인지는 특정하지 못했고 행 번호 대조가 필요함). 줄 번호는 필기가 인용한 영어 번역본의 행 번호이다."
+published: "극의 번역과 서문은 Erich Segal로 필기에 언급되나 판본과 연도는 필기에 없음 (확인 필요; 판본 후보는 웹 2차 출처로 확인했으나 필기의 판본을 특정하지 못함. 판본 후보 1: Plautus, Four Comedies, trans. Erich Segal, Oxford World's Classics, ISBN 9780199540563, 288쪽, 연도는 출처마다 2008 또는 2010, https://erichsegal.com/scholarly-work/plautus-four-comedies/ ; 판본 후보 2: Plautus, Selected Works, trans. Erich Segal, New York: Harper & Row, 1969, https://find.library.upenn.edu/catalog/998201063503681 ; 필기가 인용한 행 번호가 어느 판본인지는 특정하지 못했고 행 번호 원문 대조 필요). 줄 번호는 필기가 인용한 영어 번역본의 행 번호이다."
 status: 초안
 read_via:
   - "Notion 페이지 Plautus/Miles Gloriosus (The Braggart Soldier)"

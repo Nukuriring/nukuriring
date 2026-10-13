@@ -4,7 +4,7 @@ citekey: Lewis1996
 author: David Lewis
 year: 1996
 title: "Elusive Knowledge"
-published: "원자료(영진의 논평문)에는 저자 이름만 있고 제목과 연도가 없다. 인용문과 논증 내용으로 보아 루이스의 「Elusive Knowledge」로 추정했고, 웹 서지로 확인했다: Australasian Journal of Philosophy 74 (4): 549-567, 1996년 12월, DOI 10.1080/00048409612347521. (후보, 확인 필요: 재수록 DeRose and Warfield (eds.), Skepticism: Contemporary Readings, OUP, 1999, https://pgrim.org/philosophersannual/xix/lewis/index.htm)"
+published: "원자료(영진의 논평문)에는 저자 이름만 있고 제목과 연도가 없다. 인용문과 논증 내용으로 보아 루이스의 「Elusive Knowledge」로 추정했고, 웹 서지로 확인했다: Australasian Journal of Philosophy 74 (4): 549-567, 1996년 12월, DOI 10.1080/00048409612347521. (웹 2차 출처로 확인: 재수록 DeRose and Warfield (eds.), Skepticism: Contemporary Readings, OUP, 1999, https://pgrim.org/philosophersannual/xix/lewis/index.htm)"
 status: 초안
 read_via:
   - "논평문_1_김영진 (언어철학연습 2024-1, Notion 내보내기, 수정일 2024-03-13)"
@@ -33,7 +33,7 @@ created: 2026-10-12
 ## 핵심 개념
 - 맥락주의적 오류불가능주의(contextualist infallibilism): 오류불가능성 요구와 도메인 한정을 함께 쓴다.
 - 제대로 무시함(properly ignoring): 지식 귀속의 도메인에서 가능성을 빼는 일이다.
-- 유사성의 원리(Rule of Resemblance라는 이름은 논평문에 없다. 확인 필요).
+- 유사성의 원리(Rule of Resemblance라는 이름은 논평문에 없다. 원문 대조 필요).
 - 논평문에 인용된 원문: "Let your fantasies rip. Find uneliminated possibilities of error everywhere. Now that you are attending to them, just as I told you to, you are no longer ignoring them, properly, or otherwise. So you have landed in a context with an enormously rich domain of potential counter-examples to ascriptions of knowledge."
 
 ## 영진의 독해 메모

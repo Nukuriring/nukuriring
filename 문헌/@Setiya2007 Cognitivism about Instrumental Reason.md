@@ -4,7 +4,7 @@ citekey: Setiya2007
 author: Setiya
 year: 2007
 title: "Cognitivism about Instrumental Reason"
-published: "원자료에는 저자의 성과 주제(instrumental reason)만 나온다. 연도와 게재지는 필기에 없다. (후보: Kieran Setiya, Ethics 117 (2007): 647-673; 이후 Practical Knowledge: Selected Essays, OUP, 2017, 8장에 재수록; 확인 필요, https://ndpr.nd.edu/news/practical-knowledge-selected-essays/)"
+published: "원자료에는 저자의 성과 주제(instrumental reason)만 나온다. 연도와 게재지는 필기에 없다. (Kieran Setiya, Ethics 117 (2007): 647-673; 이후 Practical Knowledge: Selected Essays, OUP, 2017, 8장에 재수록; 웹 2차 출처로 확인, https://ndpr.nd.edu/news/practical-knowledge-selected-essays/)"
 status: 초안
 read_via:
   - "Notion 「Setiya: instrumental reason」 (Untill 2025/철학/분석철학)"
@@ -13,7 +13,7 @@ created: 2026-10-12
 ---
 # Cognitivism about Instrumental Reason
 
-> 서지 확인 메모: 필기 제목은 「Setiya: instrumental reason」이다. 위 정식 제목과 연도 2007은 citekey 규약에 따라 보충했으며 확인 필요.
+> 서지 확인 메모: 필기 제목은 「Setiya: instrumental reason」이다. 위 정식 제목과 연도 2007은 citekey 규약에 따라 보충했으며 웹 2차 출처로 확인했다.
 
 ## 한 줄 요지
 세티야는 수단 원리를 수단 전송 원리와 구별하고, 의도가 믿음을 포함하므로 수단 원리를 이론적 합리성의 인식적 해야 한다로 읽는 인지주의를 옹호한다.

@@ -4,7 +4,7 @@ citekey: Hume1748
 author: David Hume
 year: 1748
 title: Of Miracles
-published: 『인간 지성에 관한 탐구』(An Enquiry concerning Human Understanding) 10절(원자료에 서지가 없어 Claude가 보충함). 후보, 확인 필요: Section X 「Of Miracles」(https://en.wikipedia.org/wiki/Of_Miracles); 초판 London: A. Millar, 1748, 초판 표제는 Philosophical Essays concerning Human Understanding였고 Enquiry 표제는 1758 재간부터라는 서적상 기재가 있음(https://www.abaa.org/book/740186719, 표제는 복제본으로 재확인 필요)
+published: 『인간 지성에 관한 탐구』(An Enquiry concerning Human Understanding) 10절(원자료에 서지가 없어 Claude가 보충함). 웹 2차 출처로 확인: Section X 「Of Miracles」(https://en.wikipedia.org/wiki/Of_Miracles); 초판 London: A. Millar, 1748, 초판 표제는 Philosophical Essays concerning Human Understanding였고 Enquiry 표제는 1758 재간부터라는 서적상 기재가 있음(https://www.abaa.org/book/740186719, 표제는 복제본 대조 필요)
 status: 초안
 read_via:
   - "[[_원자료/claude.ai/chats/2026-05-12_증언의 환원주의 vs 비환원주의]]"
@@ -61,7 +61,7 @@ created: 2026-10-09
 - (T1c, 2026-05-12 01:24) 지문 초안에서 흄의 결합을 개별 보고와 개별 사실의 일대일 결합과 구별해 유형 단위의 결합으로 읽고, 일기 예보 사례를 붙였다.
 - (T1c, 2026-05-12 00:59, 01:05) 정당화의 원천이 근거를 제공하고 근거가 정당화를 수행한다는 위계를 세우고, 그 위계에서 흄의 환원주의를 어떻게 설명할지 물었다. "흄에게 증언은 독립적인 '정당화의 원천'이 아니며"로 시작하는 문장 틀을 직접 제시했다.
 - (T1c, 2026-05-12 02:17, 02:18) 믿음이 정당화된다는 것을 정당한 인식 원천에서 형성되었다는 것으로 정의하면, 증언을 통해 형성된 믿음이 다른 원천의 작용으로 정당화된다는 흄 진술이 정합하지 않는다고 지적했다.
-- (T1c) 확인 필요: Claude 00:33은 흄이 어떤 발언자가 더 믿을 만한지 판별하는 법을 논하지 않았다고 설명했고, Claude 01:01은 흄이 증언을 별도의 원천으로 명시적으로 부정하지 않았다고 설명했다. 두 설명 모두 원문으로 확인해야 한다.
+- (T1c) 원문 대조 필요: Claude 00:33은 흄이 어떤 발언자가 더 믿을 만한지 판별하는 법을 논하지 않았다고 설명했고, Claude 01:01은 흄이 증언을 별도의 원천으로 명시적으로 부정하지 않았다고 설명했다. 두 설명 모두 원문으로 확인해야 한다.
 
 ## 파생 영구 노트
 - (T1c) [[36 흄에 따르면 증언적 믿음의 정당성은 지각과 추론이 주는 정당성으로 환원된다]]

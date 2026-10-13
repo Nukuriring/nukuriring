@@ -2,7 +2,7 @@
 type: 문헌
 citekey: Aristotle 자연학 2권 필기
 author: Aristotle (아리스토텔레스)
-year: (확인 필요)
+year: 원전 특정 불가(수업 필기)
 title: "Physics II (자연학 2권) 강독 필기"
 published: "Notion의 자연학 2권 폴더의 1, 2, 4, 5, 8장 필기이다. 한국어 번역과 영어 인용의 번역본과 주석서는 원자료에 적혀 있지 않고, Commentary로 표시된 부분의 출처도 없다. 2장 필기에는 스테파누스 쪽수(193b22-194a12, 193b34, 194a5, 192b1)가 있다. 수업명과 날짜는 없다. 자연학 8장 파일은 진화론적 냄새라는 한 줄뿐이고 Chance vs Randomness 파일은 한 단락이다."
 status: 초안

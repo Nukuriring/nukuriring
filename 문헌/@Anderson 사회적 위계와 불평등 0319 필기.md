@@ -1,7 +1,7 @@
 ---
 type: 문헌
 citekey: Anderson0319
-author: "Anderson (확인 필요) (후보: Elizabeth Anderson, https://www.emptywheel.net/2019/08/10/freedom-and-equality-relational-equality-against-social-hierarchies/)"
+author: "Elizabeth Anderson (웹 2차 출처로 확인, https://www.emptywheel.net/2019/08/10/freedom-and-equality-relational-equality-against-social-hierarchies/)"
 year: 미상
 title: "사회적 위계와 불평등 0319 필기"
 published: "필기 제목은 0319 Social injustice이며 저자와 글 제목은 필기에 없다. 저자가 앤더슨이라는 판단은 내용에서 추정한 것이며 원자료에 없어 서지 지식으로 보충함."
@@ -12,7 +12,7 @@ created: 2026-10-12
 ---
 # 사회적 위계와 불평등 0319 필기
 
-> 서지 확인 메모: 저자명과 원문 제목을 확인하지 못했다. 내용의 정리는 필기에 적힌 범위에 한정한다.
+> 서지 확인 메모: 저자명은 웹 2차 출처로 확인했으나(위 URL) 원문 제목과 수록처는 확인 필요이다. 내용의 정리는 필기에 적힌 범위에 한정한다.
 
 ## 한 줄 요지
 필기는 평등의 이상이 법과 규범과 관습이 유지하는 지속적 집단 불평등인 사회적 위계에 대한 비판에서 나온다고 정리하고, 위계를 명령과 존중과 지위의 세 형태로 나눈다. 평등주의적 비판은 좋음, 도덕적 옳음, 덕의 세 관점에서 이루어지며 각각 1인칭, 2인칭, 3인칭에 대응한다.

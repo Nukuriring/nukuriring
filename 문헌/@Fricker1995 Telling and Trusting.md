@@ -4,7 +4,7 @@ citekey: Fricker1995
 author: Elizabeth Fricker
 year: 1995
 title: "Telling and Trusting"
-published: "확인 필요. 코디의 『Testimony』(1992)를 다룬 Mind 1995년 비평 논문으로 보이나, 원자료에는 서지가 없고 해당 첨부 글은 'Fricker(1992)'로 표기되어 있다(서지는 위키 밖 지식). 후보(확인 필요): 제목 Telling and Trusting: Reductionism and Anti-Reductionism in the Epistemology of Testimony (critical notice of Coady 1992), Mind 104(414): 393-411, 1995 (https://diversityreadinglist.org/critical-notice-telling-and-trusting-reductionism-and-anti-reductionism-in-the-epistemology-of-testimony/ , 여러 서지 목록이 일치한다고 보고되었으나 학술지 원본 페이지는 열지 못함). 원자료의 'Fricker(1992)'는 Coady 1992와의 혼동으로 보인다."
+published: "코디의 『Testimony』(1992)를 다룬 Mind 1995년 비평 논문으로 보이나, 원자료에는 서지가 없고 해당 첨부 글은 'Fricker(1992)'로 표기되어 있다(서지는 위키 밖 지식). 서지(웹 2차 출처로 확인): 제목 Telling and Trusting: Reductionism and Anti-Reductionism in the Epistemology of Testimony (critical notice of Coady 1992), Mind 104(414): 393-411, 1995 (https://diversityreadinglist.org/critical-notice-telling-and-trusting-reductionism-and-anti-reductionism-in-the-epistemology-of-testimony/ , 여러 서지 목록이 일치한다고 보고되었으나 학술지 원본 페이지는 열지 못함). 원자료의 'Fricker(1992)'는 Coady 1992와의 혼동으로 보인다."
 status: 초안
 read_via:
   - "[[_원자료/claude.ai/chats/2026-05-14_두 가지 옵션 비교 평가]]"
@@ -12,7 +12,7 @@ created: 2026-10-09
 ---
 # Telling and Trusting
 
-> (T2) 2026-05-14 대화에 첨부된 31KB 분량의 프리커 글은 대화에서 "Fricker(1992)"로 표기되었고, 영진은 이를 코디에 대한 프리커의 직접 응답이라고 불렀습니다. 코디의 『Testimony』가 1992년에 나왔고 이 글이 국소 환원과 전역 환원, 발달 단계와 성숙 단계를 다룬다는 점에서 이 노트는 그 글을 「Telling and Trusting」으로 추정해 정리합니다. 첨부 본문은 원자료에 남아 있지 않으므로 아래 인용은 Claude가 첨부를 읽고 옮긴 것이며 원문과 대조하지 않았습니다. 동일성 확인이 필요합니다.
+> (T2) 2026-05-14 대화에 첨부된 31KB 분량의 프리커 글은 대화에서 "Fricker(1992)"로 표기되었고, 영진은 이를 코디에 대한 프리커의 직접 응답이라고 불렀습니다. 코디의 『Testimony』가 1992년에 나왔고 이 글이 국소 환원과 전역 환원, 발달 단계와 성숙 단계를 다룬다는 점에서 이 노트는 그 글을 「Telling and Trusting」으로 추정해 정리합니다. 첨부 본문은 원자료에 남아 있지 않으므로 아래 인용은 Claude가 첨부를 읽고 옮긴 것이며 원문과 대조하지 않았습니다. 동일성은 원문 대조 필요합니다.
 
 ## 한 줄 요지
 (T2) 프리커는 코디에게 직접 응답하여, 전역 환원이 불가능하다는 데는 동의하되 특정 화자의 특정 발화에 대해 그 내용을 가정하지 않고 화자의 진실성과 유능성을 확립하는 국소 환원은 가능하다고 논증한다.

@@ -4,7 +4,7 @@ citekey: Ruben
 author: David-Hillel Ruben
 year: 1990
 title: "Arguments, Laws and Explanation"
-published: "David-Hillel Ruben, Explaining Explanation(Routledge, Problems of Philosophy 총서, 초판 1990)의 6장 \"Arguments, Laws, and Explanation\"이다(2판은 2016년으로 표시됨; 후보, 확인 필요). 쪽수 범위는 찾지 못했다. 원자료는 제목과 저자 이름만 적고 연도와 수록처를 적지 않았다. 커드와 커버의 6장 해설이 이 저자의 논점을 인용한다(@CurdCover2013 Commentary on Chapter 6 Models of Explanation)."
+published: "David-Hillel Ruben, Explaining Explanation(Routledge, Problems of Philosophy 총서, 초판 1990)의 6장 \"Arguments, Laws, and Explanation\"이다(2판은 2016년으로 표시됨; 웹 2차 출처로 확인, https://www.routledge.com/Explaining-Explanation/Ruben/p/book/9780415087650). 쪽수 범위는 찾지 못했다. 원자료는 제목과 저자 이름만 적고 연도와 수록처를 적지 않았다. 커드와 커버의 6장 해설이 이 저자의 논점을 인용한다(@CurdCover2013 Commentary on Chapter 6 Models of Explanation)."
 status: 초안
 read_via:
   - "Notion 「Arguments, Laws and Explanation_Ruben」 (과학철학 논자시, Chapter 6 폴더, 날짜 미상)"

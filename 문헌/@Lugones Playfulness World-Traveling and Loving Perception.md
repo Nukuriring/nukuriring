@@ -4,7 +4,7 @@ citekey: Lugones
 author: María Lugones
 year: 1987
 title: "Playfulness, World-Traveling, and Loving Perception"
-published: "필기 제목만 있고 저자와 출판 정보는 원자료에 없다. 1987년 Hypatia 게재는 원자료에 없어 서지 지식으로 보충했고 웹 서지로 확인했다: Hypatia 2 (2): 3-19, DOI 10.1111/j.1527-2001.1987.tb01062.x. 자료 폴더에는 2003년 책의 한 장으로 실린 판이 별도로 있다(후보, 확인 필요: Pilgrimages/Peregrinajes: Theorizing Coalition Against Multiple Oppressions, 2003 수록, 장 쪽수는 확인하지 못함, https://en.wikipedia.org/wiki/Maria_Lugones)."
+published: "필기 제목만 있고 저자와 출판 정보는 원자료에 없다. 1987년 Hypatia 게재는 원자료에 없어 서지 지식으로 보충했고 웹 서지로 확인했다: Hypatia 2 (2): 3-19, DOI 10.1111/j.1527-2001.1987.tb01062.x. 자료 폴더에는 2003년 책의 한 장으로 실린 판이 별도로 있다(웹 2차 출처로 확인: Pilgrimages/Peregrinajes: Theorizing Coalition Against Multiple Oppressions, 2003 수록, 장 쪽수는 확인 필요, https://en.wikipedia.org/wiki/Maria_Lugones)."
 status: 초안
 read_via:
   - "Playfulness, world traveling and loving perception (읽기 필기, 영진의 논평 포함)"

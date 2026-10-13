@@ -12,7 +12,7 @@ created: 2026-10-12
 ---
 # Desiring the Bad under the Guise of the Good
 
-> 서지 확인 메모: 필기 「Desiring bad under the guise of good」는 저자명과 연도를 적지 않는다. 저자 Hawkins는 참고문헌 라이브러리의 같은 제목 PDF 파일명에서 가져왔고, 저자의 이름(Jennifer S. Hawkins)과 연도(2008)는 웹 서지로 채웠다. 필기가 요약한 글이 이 논문과 같은 글인지는 확인 필요. 필기에서 저자의 주장은 대괄호 문장으로 요약되고, Comment와 Comment 2는 영진의 것으로 보았다.
+> 서지 확인 메모: 필기 「Desiring bad under the guise of good」는 저자명과 연도를 적지 않는다. 저자 Hawkins는 참고문헌 라이브러리의 같은 제목 PDF 파일명에서 가져왔고, 저자의 이름(Jennifer S. Hawkins)과 연도(2008)는 웹 서지로 채웠다. 필기가 요약한 글이 이 논문과 같은 글인지는 원문 대조 필요. 필기에서 저자의 주장은 대괄호 문장으로 요약되고, Comment와 Comment 2는 영진의 것으로 보았다.
 
 ## 한 줄 요지
 이 글은 삶에서 만나는 대부분의 비동기적 욕구가 평가적이라고 보고, 욕구가 개념 없이도 대상을 끌리게 나타내는 비개념적 평가 내용을 가진다고 해석하여 나쁜 것의 욕구를 좋음의 외양 아래 설명한다.

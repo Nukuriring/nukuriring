@@ -4,7 +4,7 @@ citekey: 미상 Frege 의미 이론 필기
 author: 미상
 year: 미상
 title: "Frege 의미 이론 필기"
-published: "원자료는 영진 님의 Notion 필기이며 읽은 글의 저자와 서지가 적혀 있지 않다. 영어 문장이 섞여 있고 에반스와 더밋이 언급된다. 확인 필요."
+published: "원자료는 영진 님의 Notion 필기이며 읽은 글의 저자와 서지가 적혀 있지 않다. 영어 문장이 섞여 있고 에반스와 더밋이 언급된다. 원전 특정 불가(저자 미상 필기)."
 status: 초안
 read_via:
   - "Notion 「Frege」 (Untill 2025/철학/분석철학)"

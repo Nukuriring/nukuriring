@@ -1,10 +1,10 @@
 ---
 type: 문헌
 citekey: Behn Oroonoko
-author: "확인 필요 (필기는 저자 이름을 적지 않는다) (후보: Aphra Behn, https://en.wikipedia.org/wiki/Oroonoko)"
-year: "확인 필요 (후보: 1688, https://en.wikipedia.org/wiki/Oroonoko)"
+author: "Aphra Behn (웹 2차 출처로 확인, https://en.wikipedia.org/wiki/Oroonoko)"
+year: "1688 (웹 2차 출처로 확인, https://en.wikipedia.org/wiki/Oroonoko)"
 title: Oroonoko (필기는 'The history of Royal slave'라는 제목도 언급한다)
-published: "필기는 저자와 판본과 연도를 적지 않는다. 서문의 \"This is a true story\"(p.7) 같은 쪽수는 필기가 적은 대로 옮기며 어느 판본의 쪽수인지 확인이 필요하다. 원제 후보(확인 필요): Oroonoko: or, the Royal Slave. A True History (https://en.wikipedia.org/wiki/Oroonoko). 필기의 'The history of Royal slave'는 이 제목으로 확인되지 않았다."
+published: "필기는 저자와 판본과 연도를 적지 않는다. 서문의 \"This is a true story\"(p.7) 같은 쪽수는 필기가 적은 대로 옮기며 어느 판본의 쪽수인지 확인이 필요하다. 원제는 Oroonoko: or, the Royal Slave. A True History이다(웹 2차 출처로 확인, https://en.wikipedia.org/wiki/Oroonoko). 필기의 'The history of Royal slave'는 이 제목으로 확인되지 않았다."
 status: 초안
 read_via:
   - "Notion 「실화」 후반부 (철학 자료 마스터, 분석철학 스터디, 2024-06-03 수정, 영어 번역 병기)"

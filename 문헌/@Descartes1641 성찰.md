@@ -2,9 +2,9 @@
 type: 문헌
 citekey: Descartes1641
 author: René Descartes (르네 데카르트)
-year: "1641 (확인 필요) (후보: 1641, Meditationes de prima philosophia, Paris, Michel Soly; 1642년 암스테르담 Elzevir 제2판에 일곱째 반론이 추가됨, https://aphelis.net/rene-descartes-emmeditationes-de-prima-philosophiaem-1641/)"
+year: "1641 (웹 2차 출처로 확인: 1641, Meditationes de prima philosophia, Paris, Michel Soly; 1642년 암스테르담 Elzevir 제2판에 일곱째 반론이 추가됨, https://aphelis.net/rene-descartes-emmeditationes-de-prima-philosophiaem-1641/)"
 title: "성찰 (제3·4·6성찰 수업 필기)"
-published: "원자료에 출판 정보가 없다. 연도 1641은 서지 지식으로 보충했으며 확인이 필요하다. 영어 인용 한 줄(I am certain that I am a thinking thing...)은 필기에 옮겨진 것이다. 첫 필기는 1성찰과 2성찰 이후의 과제로 서술되어 3성찰이고, 오류를 다루는 후반부는 4성찰로 보이나 필기에 번호가 적혀 있지 않다. 목차 페이지에는 영진의 짧은 메모가 따로 있다."
+published: "원자료에 출판 정보가 없다. 연도 1641은 서지 지식으로 보충했고 웹 2차 출처로 확인했다(https://aphelis.net/rene-descartes-emmeditationes-de-prima-philosophiaem-1641/). 영어 인용 한 줄(I am certain that I am a thinking thing...)은 필기에 옮겨진 것이다. 첫 필기는 1성찰과 2성찰 이후의 과제로 서술되어 3성찰이고, 오류를 다루는 후반부는 4성찰로 보이나 필기에 번호가 적혀 있지 않다. 목차 페이지에는 영진의 짧은 메모가 따로 있다."
 status: 초안
 read_via:
   - "Descartes - Med (서양 근대 철학 수업, 2023-2학기, 필기) https://app.notion.com/p/a728b81939804685b389018ee2301814"
@@ -14,7 +14,7 @@ created: 2026-10-12
 ---
 # 성찰 (제3·4·6성찰 수업 필기)
 
-> 서지 확인 메모: 원자료에 출판 정보가 없다. 연도 1641은 서지 지식으로 보충했으며 확인이 필요하다. 영어 인용 한 줄(I am certain that I am a thinking thing...)은 필기에 옮겨진 것이다. 첫 필기는 1성찰과 2성찰 이후의 과제로 서술되어 3성찰이고, 오류를 다루는 후반부는 4성찰로 보이나 필기에 번호가 적혀 있지 않다. 목차 페이지에는 영진의 짧은 메모가 따로 있다.
+> 서지 확인 메모: 원자료에 출판 정보가 없다. 연도 1641은 서지 지식으로 보충했고 웹 2차 출처로 확인했다(https://aphelis.net/rene-descartes-emmeditationes-de-prima-philosophiaem-1641/). 영어 인용 한 줄(I am certain that I am a thinking thing...)은 필기에 옮겨진 것이다. 첫 필기는 1성찰과 2성찰 이후의 과제로 서술되어 3성찰이고, 오류를 다루는 후반부는 4성찰로 보이나 필기에 번호가 적혀 있지 않다. 목차 페이지에는 영진의 짧은 메모가 따로 있다.
 
 ## 한 줄 요지
 데카르트는 코기토의 확실성에서 출발해 신의 존재를 증명하고, 신의 비기만으로 오류의 문제와 물체의 현존과 감각의 신뢰 범위를 차례로 처리한다.
@@ -42,7 +42,7 @@ created: 2026-10-12
 - 정신과 신체의 결합
 
 ## 영진의 독해 메모
-목차 페이지의 짧은 메모(코기토에서 의심의 요점이 사라진다는 읽기, 실재성의 척도와 대응에 대한 물음, 무한의 관념에 대한 물음)는 영진의 것이므로 영진 voice 카드로 옮겼다. 악이 결여라는 정리도 같은 메모에 있어 오류 카드에 문헌 voice로 함께 적었다. 6성찰 필기의 여섯째 논증 단계는 부정의 범위가 불분명하여 원문 확인이 필요하다.
+목차 페이지의 짧은 메모(코기토에서 의심의 요점이 사라진다는 읽기, 실재성의 척도와 대응에 대한 물음, 무한의 관념에 대한 물음)는 영진의 것이므로 영진 voice 카드로 옮겼다. 악이 결여라는 정리도 같은 메모에 있어 오류 카드에 문헌 voice로 함께 적었다. 6성찰 필기의 여섯째 논증 단계는 부정의 범위가 불분명하여 원문 대조 필요.
 
 ## 파생 영구 노트
 - [[63b 데카르트는 코기토의 확실성에서 출발해 확실성의 가능 조건을 묻고 명석 판명한 지각을 작업가설로 삼는다]] (문헌)

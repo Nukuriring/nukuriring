@@ -2,9 +2,9 @@
 type: 문헌
 citekey: Heidegger존재와시간제1편3장
 author: Martin Heidegger
-year: 1927 (확인 필요, 후보: 초판 Sein und Zeit, https://www.cambridge.org/core/product/DE0D8C7E6F430EBAB686E254EBFE2CD4)
+year: 1927 (웹 2차 출처로 확인: 초판 Sein und Zeit, https://www.cambridge.org/core/product/DE0D8C7E6F430EBAB686E254EBFE2CD4)
 title: "존재와 시간 제1편 3장 14~16절 (요약 글에 근거)"
-published: "원자료가 적은 출처는 『존재와 시간』 제1편 3장 14~16절이다. 번역본과 판본과 쪽수는 적혀 있지 않아 확인 필요. 원자료는 이 대목을 요약한 글이며 원문 인용이 아니다. (후보, 확인 필요: 원서 초판 Sein und Zeit, 1927, Jahrbuch für Philosophie und phänomenologische Forschung 8권 수록, 동시에 Halle: Niemeyer 별쇄, https://www.minkowska.com/?p=1237 ; 전집판 Gesamtausgabe 1부 2권, Klostermann, https://www.ebay.de/p/59606706 ; 국역본 후보 이기상 옮김, 까치, 2000, 어느 번역을 읽었는지는 알 수 없음, https://librairie.coreenne.fr/en/products/143831 ; 영역본 Macquarrie and Robinson에서 3장 「세계의 세계성」은 pp. 91-148, https://www.minkowska.com/?p=1237)"
+published: "원자료가 적은 출처는 『존재와 시간』 제1편 3장 14~16절이다. 번역본과 판본과 쪽수는 적혀 있지 않다. 원자료는 이 대목을 요약한 글이며 원문 인용이 아니다. (웹 2차 출처로 확인: 원서 초판 Sein und Zeit, 1927, Jahrbuch für Philosophie und phänomenologische Forschung 8권 수록, 동시에 Halle: Niemeyer 별쇄, https://www.minkowska.com/?p=1237 ; 전집판 Gesamtausgabe 1부 2권, Klostermann, https://www.ebay.de/p/59606706 ; 국역본 후보 이기상 옮김, 까치, 2000, 어느 번역을 읽었는지는 알 수 없음, https://librairie.coreenne.fr/en/products/143831 ; 영역본 Macquarrie and Robinson에서 3장 「세계의 세계성」은 pp. 91-148, https://www.minkowska.com/?p=1237 ; 3장 §14-16의 쪽수는 확인 필요)"
 status: 초안
 read_via:
   - "Notion 페이지 하이데거_기출 (수정일 2025-11-30)"

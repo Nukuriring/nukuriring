@@ -4,7 +4,7 @@ citekey: Churchland
 author: Paul M. Churchland, Patricia Smith Churchland
 year: 1990
 title: "Could a Machine Think?"
-published: "원자료는 제목과 저자 성만 적고 이름, 연도, 수록처를 적지 않았다. 웹으로 확인한 서지는 Paul M. Churchland and Patricia Smith Churchland, Scientific American 262(1), 1990년 1월, 32-37이다. 재수록은 후보(확인 필요): Eric Dietrich 편, Thinking Computers and Virtual Persons, Academic Press, 1994, 157-171(철학과 교수진 인용 목록 요약). 필기의 파일명은 Chruchland로 철자가 틀려 있다."
+published: "원자료는 제목과 저자 성만 적고 이름, 연도, 수록처를 적지 않았다. 웹으로 확인한 서지는 Paul M. Churchland and Patricia Smith Churchland, Scientific American 262(1), 1990년 1월, 32-37이다. 재수록: Eric Dietrich 편, Thinking Computers and Virtual Persons, Academic Press, 1994, 157-171(웹 2차 출처로 확인, 철학과 교수진 인용 목록의 검색 결과 요약). 필기의 파일명은 Chruchland로 철자가 틀려 있다."
 status: 초안
 read_via:
   - "Notion 「Chruchland」 (과학철학 과제 연구, 2025-1학기)"

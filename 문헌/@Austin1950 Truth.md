@@ -43,7 +43,7 @@ created: 2026-10-09
 
 ## 영진의 독해 메모
 - 강독 노트는 "The bearer of truth is the statement" 절에서 문장은 상황과 무관한 유형이고 참과 거짓을 따질 수 있는 것은 특정 시점의 진술이라는 정리를 영진이 지적한 점으로 기록한다(날짜 미기재).
-- 확인 필요: 강독 노트의 "Reimer vs Travis" 절과 "Austin contra the Tarskian scheme" 절은 판정과 해설을 담고 있으나 발화자가 표시되어 있지 않다. 이 노트에서는 해설로 다룬다.
+- 원문 대조 필요: 강독 노트의 "Reimer vs Travis" 절과 "Austin contra the Tarskian scheme" 절은 판정과 해설을 담고 있으나 발화자가 표시되어 있지 않다. 이 노트에서는 해설로 다룬다.
 
 ## 파생 영구 노트
 - [[9c3 오스틴에 따르면 참의 담지자는 특정한 상황에서 이루어진 진술이다]]

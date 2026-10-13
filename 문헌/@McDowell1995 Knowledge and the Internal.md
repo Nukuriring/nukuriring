@@ -4,7 +4,7 @@ citekey: McDowell1995
 author: John McDowell
 year: 1995
 title: "Knowledge and the Internal"
-published: "노트 제목은 'Mcdowell, Knowledge and Internal'이다. 정식 제목과 서지(Philosophy and Phenomenological Research 55 (4): 877-893, 1995)는 노트에 없고 Claude가 보충했으며 웹 서지로 확인했다(후보, 확인 필요: 후속 글 「Knowledge and the Internal Revisited」, PPR 64 (1), 2002, https://link.springer.com/article/10.1007/s44204-022-00013-7). 노트에 쪽수는 없고 번호 매긴 소절(1~8)만 있으며 소절 번호가 한 번 건너뛰어 있다. 영어 인용문은 노트에 한 대목만 있다."
+published: "노트 제목은 'Mcdowell, Knowledge and Internal'이다. 정식 제목과 서지(Philosophy and Phenomenological Research 55 (4): 877-893, 1995)는 노트에 없고 Claude가 보충했으며 웹 서지로 확인했다(웹 2차 출처로 확인: 후속 글 「Knowledge and the Internal Revisited」, PPR 64 (1), 2002, https://link.springer.com/article/10.1007/s44204-022-00013-7). 노트에 쪽수는 없고 번호 매긴 소절(1~8)만 있으며 소절 번호가 한 번 건너뛰어 있다. 영어 인용문은 노트에 한 대목만 있다."
 status: 초안
 read_via:
   - "[Mcdowell, Knowledge and Internal](https://app.notion.com/p/5f29e66043ef471184431f8fa09a381b)"
