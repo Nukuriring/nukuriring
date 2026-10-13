@@ -1,6 +1,6 @@
 ---
 type: 작업
-updated: 2026-10-12
+updated: 2026-10-13
 ---
 # lint 요약
 
