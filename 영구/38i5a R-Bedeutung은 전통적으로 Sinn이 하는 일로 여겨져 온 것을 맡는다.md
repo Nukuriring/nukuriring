@@ -8,9 +8,6 @@ sources: ["[[@Travis2021 Frege The Pure Business of Being True]]"]
 cluster: 언어와 의미
 group: L1c
 created: 2026-10-09
-verify: 부분
-verify_date: 2026-10-12
-verify_by: sonnet(근거대조)
 ---
 # 38i5a R-Bedeutung은 전통적으로 Sinn이 하는 일로 여겨져 온 것을 맡는다
 

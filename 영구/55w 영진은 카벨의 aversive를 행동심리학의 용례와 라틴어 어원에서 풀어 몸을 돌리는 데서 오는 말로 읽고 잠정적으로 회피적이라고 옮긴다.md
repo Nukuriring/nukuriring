@@ -8,9 +8,9 @@ sources: ["[[@Cavell1990 Conditions Handsome and Unhandsome]]"]
 cluster: 영문학과 문학비평
 group: NL2
 created: 2026-10-12
-verify: 부분
-verify_date: 2026-10-12
-verify_by: sonnet(근거대조)
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: 영진(판정 페이지)
 ---
 # 55w 영진은 카벨의 aversive를 행동심리학의 용례와 라틴어 어원에서 풀어 몸을 돌리는 데서 오는 말로 읽고 잠정적으로 회피적이라고 옮긴다
 
