@@ -1,0 +1,18 @@
+{
+  "id": "8d3",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "에이어는 대부분의 형이상학을 문법의 표면 형식에 속은 오류로 진단한다", "label": "지지됨", "evidence": "superficial grammatical", "note": "p.25 'misled by a superficial grammatical feature'; 'most metaphysical assertions' p.27"},
+    {"n": 1, "text": "형이상학적 문장은 진정한 명제를 표현한다고 하면서 실제로는 동어반복도 경험 가설도 표현하지 않는 문장이다(p.24)", "label": "지지됨", "evidence": "neither a tautology nor", "note": "p.24"},
+    {"n": 2, "text": "모든 이름에 실재하는 존재자 하나가 대응해야 한다는 'primitive superstition'에 감염된 사람은 사물 자체와 감각적 성질을 논리적으로 구별하고 사물 자체를 '실체'라 부른다(pp.24-25)", "label": "지지됨", "evidence": "primitive superstition", "note": "pp.24-25"},
+    {"n": 3, "text": "논리적 분석은 여러 현상을 같은 사물의 현상으로 만드는 것이 현상들 서로의 관계임을 보여 준다(p.25)", "label": "지지됨", "evidence": "relationship to one another", "note": "p.25"},
+    {"n": 4, "text": "'순교자는 존재한다'와 '순교자는 고통받는다'의 문법적 유사에서 존재를 속성으로 보는 착각이 생기며, 칸트가 지적했듯 존재가 속성이면 긍정 존재 명제는 동어반복, 부정 존재 명제는 자기 모순이 된다(pp.25-26)", "label": "지지됨", "evidence": "existence is not an attribute", "note": "pp.25-26"},
+    {"n": 5, "text": "에이어는 존재 물음을 제기하는 사람들이 'guilty of following grammar beyond the boundaries of sense'라고 쓴다(p.26)", "label": "지지됨", "evidence": "following grammar beyond", "note": "인용문 글자 일치"},
+    {"n": 6, "text": "'유니콘은 허구적이다'를 '개는 충실하다'와 같은 꼴로 보아 허구적 대상에 비경험적 존재 방식을 부여하는 일도 같은 오류이며, 하이데거의 '무'와 명제·보편자의 실재성 문제도 같은 오류의 예이다(pp.26-27)", "label": "지지됨", "evidence": "a fallacy of the same order", "note": "pp.26-27"}
+  ],
+  "sources_used": ["문헌/@Ayer1946 Language, Truth and Logic.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-12_Ayer-LTL-1장-2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

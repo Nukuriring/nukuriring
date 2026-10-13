@@ -1,0 +1,19 @@
+{
+  "id": "8b5",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "러셀에 따르면 우리가 이해하는 명제의 구성 요소는 모두 직접 대면한 것이다", "label": "지지됨", "evidence": "all the constituents are really entities", "note": "p.492: 'with which we have immediate acquaintance'"},
+    {"n": 1, "text": "러셀은 지시 문제가 논리학과 수학에서도 인식론에서도 매우 중요하다고 말한다(p.479)", "label": "지지됨", "evidence": "very great importance", "note": ""},
+    {"n": 2, "text": "우리는 특정 순간 태양계의 질량 중심이 어떤 확정된 점이라는 것을 알고 그 점에 관한 명제를 긍정할 수 있지만 그 점을 직접 대면하지 못하고 기술로만 안다", "label": "지지됨", "evidence": "only known to us by description", "note": ""},
+    {"n": 3, "text": "직접 대면과 그것에 관한 앎의 구분은 우리가 표상을 가진 사물과 지시구로만 도달하는 사물의 구분이다", "label": "지지됨", "evidence": "things we have presentations of", "note": ""},
+    {"n": 4, "text": "지각에서는 지각 대상을, 사고에서는 더 추상적인 논리적 대상을 직접 대면하지만, 다른 사람의 마음은 직접 지각되지 않으므로 지시를 통해서만 알려진다(pp.479-480)", "label": "부분 지지", "evidence": "There seems no reason to believe", "note": "원문은 '다른 사람의 마음과 우리가 직접 대면한다고 믿을 이유가 없어 보인다(There seems no reason to believe that we are ever acquainted…)'로 한정함. 카드는 '지시를 통해서만 알려진다'로 단정"},
+    {"n": 5, "text": "'All thinking has to start from acquaintance; but it succeeds in thinking about many things with which we have no acquaintance.'(p.480)", "label": "지지됨", "evidence": "All thinking has to start from acquaintance", "note": "인용문 일치"},
+    {"n": 6, "text": "기술 이론의 귀결로, 지시구로 도입된 사물에 관한 명제는 그 사물 대신 지시구의 낱말들이 표현하는 구성 요소를 포함하므로 우리가 파악할 수 있는 모든 명제의 구성 요소는 직접 대면한 존재자이다(p.492)", "label": "지지됨", "evidence": "immediate acquaintance", "note": ""},
+    {"n": 7, "text": "물리학이 말하는 물질이나 다른 사람의 마음에 관해 우리는 그 성질을 알 뿐 그것 자체를 구성 요소로 하는 명제는 하나도 알지 못한다(pp.492-493)", "label": "지지됨", "evidence": "without…knowing any single proposition", "note": ""}
+  ],
+  "sources_used": ["문헌/@Russell1905 On Denoting.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-05_Russell-OD-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-07_Russell-OD-3.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

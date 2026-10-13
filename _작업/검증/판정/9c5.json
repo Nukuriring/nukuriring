@@ -1,0 +1,19 @@
+{
+  "id": "9c5",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "오스틴은 참이라는 말이 잉여라는 견해를 반박한다", "label": "지지됨", "evidence": "\"But wrongly.\"", "note": ""},
+    {"n": 1, "text": "램지와 스트로슨은 'p는 참이다'가 p를 단언할 뿐이어서 'is true'가 논리적으로 잉여라고 본다", "label": "지지됨", "evidence": "'is true' is logically superfluous", "note": ""},
+    {"n": 2, "text": "'S라는 진술은 참이다'는 S를 포함한 세계를, S는 자기를 뺀 세계를 가리키므로 두 진술은 다르다", "label": "지지됨", "evidence": "world inclusive of tstS…exclusive", "note": ""},
+    {"n": 3, "text": "명예훼손 재판 사례: 진술이 참이었는가와 W가 강도인가를 다투는 재판은 판결이 같아도 쟁점이 다르다", "label": "지지됨", "evidence": "Because the issue differs", "note": ""},
+    {"n": 4, "text": "잉여론은 거짓과 부정을 혼동한다(아무도 집에 있다고 말하지 않은 경우, 위층에서 죽어 있는 경우)", "label": "지지됨", "evidence": "confuses falsity with negation", "note": ""},
+    {"n": 5, "text": "스트로슨은 참이라 말하는 일을 확인·인정하는 수행적 행위로 보고, 오스틴은 수행적 측면을 인정하되 단언을 배제하지 않는다고 응수한다", "label": "지지됨", "evidence": "doesn't exclude the assertive one", "note": ""},
+    {"n": 6, "text": "오쟁이 진 남편이라 부르는 일은 모욕이면서 동시에 참이거나 거짓인 진술이다", "label": "지지됨", "evidence": "also…a statement which is true or false", "note": ""},
+    {"n": 7, "text": "말없이 직접 보고 확인하는 경우는 '참'이 승인만 표현한다면 불가능하다", "label": "지지됨", "evidence": "silent checking is impossible", "note": ""}
+  ],
+  "sources_used": ["문헌/@Austin1950 Truth.md", "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md", "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

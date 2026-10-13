@@ -1,0 +1,18 @@
+{
+  "id": "54s2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "드 보통에 따르면 능력주의는 낮은 지위를 마땅한 것으로 만들어 가난에 수치를 더한다", "label": "지지됨", "evidence": "Low status came to seem not merely regrettable, but also deserved.", "note": ""},
+    {"n": 1, "text": "능력과 세속적 지위 사이의 믿을 만한 연결에 대한 믿음이 커지면서 돈에 새로운 도덕적 성격이 붙었다", "label": "지지됨", "evidence": "endowed money with a new moral quality", "note": ""},
+    {"n": 2, "text": "부가 혈통으로 대물림될 때는 돈이 좋은 부모에게서 태어났다는 것 이상의 덕을 가리키지 않았지만 능력주의 세계에서는 부가 성격의 징표처럼 보인다", "label": "지지됨", "evidence": "wealth might be a sound sign of character", "note": "원문의 might가 카드의 '처럼 보인다'로 유지됨"},
+    {"n": 3, "text": "성공한 사람이 성공할 만하다면 실패한 사람은 실패할 만하다는 결론이 따르고 낮은 지위는 안타까울 뿐 아니라 마땅한 것으로 여겨진다", "label": "지지됨", "evidence": "the failures had to merit their failure", "note": ""},
+    {"n": 4, "text": "능력주의 체계는 가난이라는 상처에 수치라는 모욕을 더한다", "label": "지지됨", "evidence": "To the injury of poverty, a meritocratic system now added the insult of shame.", "note": ""},
+    {"n": 5, "text": "성공은 세상의 호의를 얻는 거의 유일하게 믿을 만한 유인이어서 실패의 생각이 우리를 괴롭힌다", "label": "지지됨", "evidence": "success offers the only reliable incentive for the world to grant us its goodwill", "note": ""},
+    {"n": 6, "text": "사랑의 필요는 유아기처럼 변함이 없는데 직업은 시장과 운에 좌우된다", "label": "지지됨", "evidence": "our need for love remains unwavering, no less steady", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/Alain de botton - Status Anxiety 1b997cdd867e80baa3a9f30d5dcb1735.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

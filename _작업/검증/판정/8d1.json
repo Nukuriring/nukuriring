@@ -1,0 +1,19 @@
+{
+  "id": "8d1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "에이어는 결정적 검증과 결정적 반증을 모두 유의미성의 기준에서 제외하고 약한 검증을 택한다", "label": "지지됨", "evidence": "we fall back on the weaker", "note": "pp.18-20"},
+    {"n": 1, "text": "경험 안에서 참이 결정적으로 확립될 수 있으면 강한 의미, 경험이 개연적으로 만들 수 있으면 약한 의미에서 검증 가능하다(p.18)", "label": "지지됨", "evidence": "render it probable", "note": "p.18"},
+    {"n": 2, "text": "결정적 검증 가능성을 기준으로 삼으면 일반 법칙 명제는 무한한 경우를 포괄하므로 원리적으로도 결정적으로 검증될 수 없어 형이상학자의 진술과 같은 취급을 받는다", "label": "지지됨", "evidence": "even in principle, be verified", "note": "p.18"},
+    {"n": 3, "text": "일부 실증주의자는 이를 중요한 종류의 무의미라 부르는데 에이어는 '중요한'이라는 말이 얼버무림이라고 보고 먼 과거 명제도 같은 어려움을 겪는다고 지적한다(pp.18-19)", "label": "지지됨", "evidence": "an attempt to hedge", "note": "p.18-19"},
+    {"n": 4, "text": "동어반복이 아닌 어떤 명제도 개연적 가설 이상일 수 없으므로 결정적 검증 기준은 유의미한 사실 진술을 하나도 남기지 않는 자기 파괴적 기준이다(p.19)", "label": "지지됨", "evidence": "self-stultifying", "note": "p.19"},
+    {"n": 5, "text": "결정적 반박을 기준으로 삼자는 제안도 거부되는데, 관찰을 반증으로 받아들일 때 특정 조건의 존재를 전제하며 그 전제가 거짓인 것이 논리적으로 불가능하지 않기 때문이다(pp.19-20)", "label": "지지됨", "evidence": "it is not logically impossible", "note": "pp.19-20"},
+    {"n": 6, "text": "물어야 할 것은 'Would any observations be relevant to the determination of its truth or falsehood?'이다(p.20)", "label": "지지됨", "evidence": "Would any observations be", "note": "인용문 글자 일치"},
+    {"n": 7, "text": "경험 명제로 재정식화: 진정한 사실 명제는 다른 전제와 함께 경험 명제를 함축하되 그것이 다른 전제만으로는 도출되지 않는 명제이다(p.20)", "label": "지지됨", "evidence": "without being deducible", "note": "p.20"}
+  ],
+  "sources_used": ["문헌/@Ayer1946 Language, Truth and Logic.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-11_Ayer-LTL-1장-1.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

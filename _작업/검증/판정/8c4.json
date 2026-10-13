@@ -1,0 +1,19 @@
+{
+  "id": "8c4",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "콰인에 따르면 카르납의 의미론적 규칙은 분석적이라는 말을 해명하지 못한다", "label": "지지됨", "evidence": "of no help in gaining this understanding", "note": "p.261"},
+    {"n": 1, "text": "콰인은 '초록인 것은 모두 연장을 가진다'가 분석적인지 모르겠다고 하고 그 원인을 '분석적'이라는 말에 둔다(p.259)", "label": "지지됨", "evidence": "The trouble is not with ‘green’", "note": "인용문 일치"},
+    {"n": 2, "text": "분석성 문제는 'S는 L에 대해 분석적이다'라는 관계를 변항 S와 L에 대해 일반적으로 이해하는 문제이며, 인공 언어로 범위를 좁혀도 어려움은 줄지 않는다", "label": "지지됨", "evidence": "not perceptibly less for artificial languages", "note": "'perceptibly'가 카드에서 빠졌으나 뜻은 유지됨"},
+    {"n": 3, "text": "의미론적 규칙이 언어 L₀의 분석적 진술을 열거하는 형태라면 규칙은 이해되지 않은 말 '분석적'을 포함하며 기껏해야 새 기호 'K'를 관례적으로 정의할 뿐이다(pp.259-260)", "label": "지지됨", "evidence": "the rules contain the word ‘analytic’", "note": ""},
+    {"n": 4, "text": "규칙이 어떤 진술들이 참에 포함된다고 정하는 진리 규칙의 형태라면 해명되지 않은 '의미론적 규칙'이라는 말에 기대게 되며, 의미론적 규칙은 쪽 위에 'Semantical Rules'라는 제목 아래 나타난다는 점으로만 구별된다(p.260)", "label": "부분 지지", "evidence": "distinguishable, apparently, only by the fact", "note": "원문은 '겉보기에(apparently)'로 한정함. 카드는 '구별된다'로 단정"},
+    {"n": 5, "text": "콰인은 의미론적 규칙을 공준에 견주어, 둘 다 특정 탐구 활동에 상대적일 때에만 뜻을 가진다고 본다: L의 참 가운데 어느 부분집합도 본래부터 의미론적 규칙인 것은 아니다(pp.260-261)", "label": "지지됨", "evidence": "significant only relative to an act of inquiry", "note": ""},
+    {"n": 6, "text": "주 14는 이 공준 문단이 처음 발표된 논문에 없었고 마틴(R. M. Martin)에게 촉발되어 덧붙여졌다고 밝힌다", "label": "지지됨", "evidence": "It was prompted by Martin", "note": "주석 14: 'The foregoing paragraph was not part of the present essay as originally published.'"},
+    {"n": 7, "text": "콰인은 의미론적 규칙을 가진 인공 언어가 분석성 문제에 관해서는 'a feu follet par excellence'라고 결론짓는다(p.261)", "label": "지지됨", "evidence": "a feu follet [will-o’-the-wisp] par excellence", "note": ""}
+  ],
+  "sources_used": ["문헌/@Quine1951 Two Dogmas of Empiricism.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-09_Quine-TwoDogmas-2.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-Quine-TwoDogmas_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

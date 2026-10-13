@@ -1,0 +1,18 @@
+{
+  "id": "54s1",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "드 보통에 따르면 기대가 높아지고 비교 집단이 넓어질수록 박탈감이 커진다", "label": "지지됨", "evidence": "the more people we take to be our equals ..., the more people there will be to envy", "note": "기대 쪽은 'miserable with much when taught to expect everything'가 뒷받침"},
+    {"n": 1, "text": "실제 결핍이 급격히 줄어도 결핍감과 그에 대한 두려움은 계속되거나 커질 수 있다", "label": "지지됨", "evidence": "a continuing and even increased sense of deprivation and a fear of it", "note": "원문의 'may'와 한정이 카드에 유지됨"},
+    {"n": 2, "text": "우리는 모든 사람을 질투하지 않고 자신이 비슷하다고 느끼는 준거 집단의 성공만 견디지 못한다", "label": "지지됨", "evidence": "We envy only members of our reference group.", "note": ""},
+    {"n": 3, "text": "자신과 같다고 여기는 사람이 많을수록 질투할 대상이 늘어난다", "label": "지지됨", "evidence": "the more people we take to be our equals", "note": ""},
+    {"n": 4, "text": "토크빌의 분석에 따르면 불평등이 일반 규칙인 사회에서는 큰 불평등도 눈에 띄지 않고 모든 것이 대체로 평평한 민주 사회에서는 작은 차이가 눈에 띄어 풍요 속의 우울이 생긴다", "label": "부분 지지", "evidence": "the strange melancholy often haunting inhabitants of democracies", "note": "원문은 'often haunting'(흔히 따라다닌다)인데 카드는 '생긴다'로 단정. 인용 필기에 토크빌 이름은 직접 나오지 않고 Democracy in America(1835)만 언급됨"},
+    {"n": 5, "text": "윌리엄 제임스는 자존감이 실제 성취와 가정된 잠재력의 비율이라고 보고 성취를 늘리는 방법과 바라는 것을 줄이는 방법을 든다", "label": "지지됨", "evidence": "ratio of our actualities to our supposed potentialities", "note": "원문 문장에서 '제임스' 귀속은 직전 맥락과 이어지는 James pointed ...로 확인"},
+    {"n": 6, "text": "루소의 말대로 사람을 부유하게 하는 방법은 돈을 더 주는 일과 욕망을 줄이는 일이다", "label": "지지됨", "evidence": "two ways to make people richer, reasoned Rousseau", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/Alain de botton - Status Anxiety 1b997cdd867e80baa3a9f30d5dcb1735.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

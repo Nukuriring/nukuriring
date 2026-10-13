@@ -1,0 +1,19 @@
+{
+  "id": "55c2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "브라운은 가문의 죄와 청교도의 위선을 알아본 뒤 아내까지 의심하는 외롭고 침울한 사람이 되고 강의는 진실 여부가 중요하지 않다고 본다", "label": "지지됨", "evidence": "그의 사랑스러운 아내마저도 의심스러워", "note": ""},
+    {"n": 1, "text": "강의는 역사적 배경으로 세일럼 마녀재판과 필립 왕 전쟁을 든다. 마녀재판에서 약 이백 명이 고발되고 스무 명이 처형되었다", "label": "지지됨", "evidence": "two hundreds people accused. 20 people executed", "note": "필기의 연도 표기(1642)는 카드에 옮기지 않음"},
+    {"n": 2, "text": "필기는 호손의 집안 사람이 이 재판에 연루되었다는 점을 짚는다", "label": "지지됨", "evidence": "Hawthorne's father involved in witchcraft trial", "note": "필기는 'father'로 적음. 카드는 '집안 사람'으로 일반화."},
+    {"n": 3, "text": "작품에서도 브라운의 가문이 저지른 죄가 드러나며 청교도들은 자신들이 기도하고 선을 행하는 사람이라며 이를 부인한다", "label": "지지됨", "evidence": "Family sins. — Denial. We are people of prayer", "note": ""},
+    {"n": 4, "text": "아서 밀러의 『크루서블』(1953)은 반공주의 기제에 대한 알레고리로 소환된다", "label": "지지됨", "evidence": "Arthur Miller - 1953, The Crucible. Allegory", "note": ""},
+    {"n": 5, "text": "브라운은 처음에 선한 목소리와 악한 목소리를 구별할 수 있다고 믿다가 어느 순간 그럴 수 없음을 알게 된다", "label": "지지됨", "evidence": "구별할 수 있다고 생각했지만, 어느 순간 그럴 수 없다", "note": ""},
+    {"n": 6, "text": "결말에서 그는 엄하고 슬프고 사색적이며 불신하는 사람이 되어 우울하게 죽는다", "label": "지지됨", "evidence": "Stern, sad, medatative, distrustful", "note": ""},
+    {"n": 7, "text": "필기는 숲에서 실제로 무슨 일이 있었는지는 중요하지 않다고 보고, 브라운이 청교도의 위선을 꿰뚫어 보았다는 점과 과거의 짐을 지게 되었다는 점이 중요하다고 한다", "label": "지지됨", "evidence": "진실이 무엇인지는 별로 중요하지 않다", "note": "'과거의 짐' 부분은 필기가 물음표를 붙인 서술(takes burden of past?)을 카드가 정리해 옮김(지침 §4 사례). 필기의 '진실'을 카드가 '숲에서 실제로 일어난 일'로 풀이함."}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/미문개/3 16 Thur abeafed833744178904daafb2716bba2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "55b",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "에머슨의 초월주의는 지금 여기의 가능성과 개인의 창조력과 자연의 재생력에 대한 낙관을 자기 해방의 기획으로 묶는다", "label": "지지됨", "evidence": "Optimism about the self. Self liberation.", "note": ""},
+    {"n": 1, "text": "3월 14일 강의는 1820년부터 1865년까지를 미국 르네상스로 부른다", "label": "지지됨", "evidence": "American Renaissance (1820-65)", "note": ""},
+    {"n": 2, "text": "이 시기 작가들은 19세기 동안 미국의 정체성을 세우려 했고 에머슨, 포, 더글러스, 호손, 멜빌, 휘트먼, 디킨슨, 소로, 스토가 거론된다", "label": "지지됨", "evidence": "Tried to estabilsh their own national identity", "note": ""},
+    {"n": 3, "text": "필기는 에머슨 초월주의의 중심을 자아에 대한 낙관, 자기 해방, 자기 신뢰로 요약한다", "label": "지지됨", "evidence": "Core - Optimism about the self.", "note": ""},
+    {"n": 4, "text": "낙관은 지금 여기에 가능성이 있고, 개인에게 창조력이 있고, 자연에 재생하는 가치가 있다는 세 가지 믿음으로 나뉜다", "label": "지지됨", "evidence": "(3) nature's regenerative value", "note": ""},
+    {"n": 5, "text": "강의는 이 믿음을 독립선언문의 Life, Liberty and the pursuit of Happiness와 연결해 개인이 지상에서 행복을 추구할 권리를 말한다고 읽는다", "label": "지지됨", "evidence": "Individual's right to happiness on Earth", "note": "필기는 세 항목 바로 뒤에 선언문 인용을 두었음"},
+    {"n": 6, "text": "에머슨은 삶에서 직접 배우라고 강조했고 실재에 직접 접근할 수 있다는 생각이 이 강조의 바탕에 있다", "label": "지지됨", "evidence": "실재에 대한 직접적 접근에 대한 강조", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/미문개/3 14 Tue 8d38b52b9a254534987f65f7be88e473.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

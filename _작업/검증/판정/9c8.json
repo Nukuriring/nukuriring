@@ -1,0 +1,18 @@
+{
+  "id": "9c8",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "오스틴은 참과 거짓의 평가를 발화수반 행위에 귀속한다", "label": "지지됨", "evidence": "apply most fundamentally to the illocutionary", "note": ""},
+    {"n": 1, "text": "한 발화에서 발화 행위, 발화수반 행위, 발화효과 행위 세 행위가 함께 이루어지며 각각 정의가 주어진다", "label": "지지됨", "evidence": "Three acts performed at once", "note": ""},
+    {"n": 2, "text": "같은 내용 '저녁 먹으러 집에 올게'가 약속으로도 진술로도 쓰일 수 있다", "label": "지지됨", "evidence": "can be promised or stated", "note": ""},
+    {"n": 3, "text": "오스틴의 더 깊은 논제는 참/거짓, 적절/부적절의 평가가 가장 근본적으로 발화수반 행위에 적용된다는 것이고, 발화 행위는 거기서 추상한 것이다", "label": "지지됨", "evidence": "locutionary acts are abstractions", "note": ""},
+    {"n": 4, "text": "'true'와 'false'는 'a general dimension of being a right and proper thing to say'이다(HTDTW 144–145)", "label": "지지됨", "evidence": "a general dimension of being a right", "note": "쪽수는 정독 노트가 SEP를 따라 적은 것."},
+    {"n": 5, "text": "다섯 발화수반 동사 부류로 참/거짓 물신과 가치/사실 물신을 흔들려 한다", "label": "지지됨", "evidence": "play Old Harry with two fetishes", "note": ""},
+    {"n": 6, "text": "힘에서 떼어 낸 내용을 아예 평가할 수 없다는 강한 독해는 프레게-기치 문제에 부딪힌다", "label": "지지됨", "evidence": "stronger reading must face the Frege–Geach", "note": ""}
+  ],
+  "sources_used": ["문헌/@Austin1962b How to Do Things with Words.md", "문헌/@Longworth SEP John Langshaw Austin.md", "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

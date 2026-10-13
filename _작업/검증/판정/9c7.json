@@ -1,0 +1,18 @@
+{
+  "id": "9c7",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "오스틴은 진술문과 수행문의 구별을 세운 뒤 평가의 대칭으로 허문다", "label": "지지됨", "evidence": "Argument = symmetry of assessment", "note": ""},
+    {"n": 1, "text": "HTDTW는 참/거짓으로 평가되는 진술문과 적절/부적절로 평가되는 수행문을 구별하며 시작한다", "label": "지지됨", "evidence": "Opening picture: constatives", "note": "원전을 직접 읽지 않고 SEP 경유 정독 노트에 의존함(문헌 노트에 명시)."},
+    {"n": 2, "text": "수행문의 실패는 불발(misfire)과 남용(abuse)으로 나뉜다", "label": "지지됨", "evidence": "misfires…vs. abuses", "note": ""},
+    {"n": 3, "text": "SEP에 따르면 오스틴은 이 구별을 옹호하지 않는다: 논증 없음('I assert this as obvious and do not argue it'), 'I assert' 형식, 잠정적이라는 각주", "label": "지지됨", "evidence": "But Austin is not defending this", "note": ""},
+    {"n": 4, "text": "'France is hexagonal'도 불발하거나 남용될 수 있고, 황소 경고도 황소가 없으면 틀렸다고 비판받는다", "label": "지지됨", "evidence": "can misfire…and be an abuse", "note": ""},
+    {"n": 5, "text": "'I state that…'은 수행문의 형식적 표지를 모두 갖추면서 참이거나 거짓인 진술을 한다", "label": "지지됨", "evidence": "meets every formal/lexical mark", "note": ""},
+    {"n": 6, "text": "그러므로 문장을 수행문용과 진술문용으로 나눌 수 없고 진술하기는 말로 하는 여러 일 가운데 하나가 된다", "label": "지지됨", "evidence": "Constating is just another thing done", "note": ""}
+  ],
+  "sources_used": ["문헌/@Austin1962b How to Do Things with Words.md", "문헌/@Longworth SEP John Langshaw Austin.md", "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "61t2",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "증거가 앎이라면 모든 앎이 자명하게 자기 정당화한다는 반론에 윌리엄슨은 정당화가 앎이 앎 아닌 믿음에 주는 지위라고 답한다", "label": "부분 지지", "evidence": "justification is primarily a status which knowledge can confer", "note": "원문은 'primarily'(주로)와 'can confer'인데 제목은 '주는 지위'로 단정. 또 반론은 'might be thought'로 제시됨"},
+    {"n": 1, "text": "증거를 앎과 같다고 보면 앎은 자기 자신에 상대적으로 정당화되므로 모든 앎이 터무니없이 사소하게 자기 정당화된다는 반론이 나올 수 있다", "label": "지지됨", "evidence": "self-justifying in an absurdly trivial way", "note": ""},
+    {"n": 2, "text": "정당화의 요점이 앎의 조건으로 기능하는 데 있다면 이 반론이 공정하겠지만, 이 설명에서 정당화는 앎에 못 미치더라도 앎에 비추어 그럴듯한 믿음에 줄 수 있는 지위이다", "label": "부분 지지", "evidence": "justification is primarily a status", "note": "'줄 수 있는'은 유지했으나 'primarily'(주로) 누락. 반론이 공정하다는 조건부 대목은 원문과 일치"},
+    {"n": 3, "text": "앎 자체가 정당화의 지위를 누리는 것은 한계 사례일 뿐이고, 이는 초록의 모든 음영이 어떤 초록의 음영과 닮았다고 말하는 것만큼 사소하다", "label": "지지됨", "evidence": "only as a limiting case", "note": ""},
+    {"n": 4, "text": "이론에 매개된 앎처럼 증거와 정당화에 비사소한 물음이 생기는 경우에는 p를 아는 상태에서도 그 앎을 의문에 부치고 p를 잠정적으로 제외한 뒤 나머지 앎, 곧 독립적 증거에 상대적으로 p를 평가할 수 있다", "label": "지지됨", "evidence": "one can call that knowledge into question", "note": ""},
+    {"n": 5, "text": "이 시험은 이론에 매개된 앎 같은 종류의 검사로 좋지만 보편적이지는 않으며, 너무 많은 앎을 동시에 의문에 부치면 나머지가 정당화하기에 부족해도 앎을 가질 수 있다", "label": "지지됨", "evidence": "the test is not universal", "note": ""},
+    {"n": 6, "text": "윌리엄슨은 일부 회의론자가 이런 경우에 시험을 적용해서 오류에 빠진다고 본다", "label": "지지됨", "evidence": "Some sceptics go wrong by applying the test", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/윈랤슨 지식과 그 한계 서론 35697cdd867e81d7ba30ecfe05c182ca.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

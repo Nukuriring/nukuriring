@@ -1,0 +1,18 @@
+{
+  "id": "55d10",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "3월 23일 강의는 바틀비를 심리와 역사가 없는 형상으로 보고 선과 운동의 형상이자 정치 모델의 형상으로 읽는다", "label": "지지됨", "evidence": "devoid of psychology or history", "note": ""},
+    {"n": 1, "text": "바틀비는 괴팍한 인물이며 불확실하고 심리와 역사가 없는 평면적 유형이다", "label": "지지됨", "evidence": "He is a flat type", "note": ""},
+    {"n": 2, "text": "그는 완전한 수수께끼여서 따라가면 막다른 길에 닿고 텍스트는 그를 형상으로 접근하라고 요구한다", "label": "지지됨", "evidence": "Text requires us to approach Bartelby as a figure", "note": ""},
+    {"n": 3, "text": "첫째 형상은 선과 운동의 형상이며 바틀비는 변호사를 포함한 주변 사람을 움직이게 하고 죽음을 향해 움직이는 듯하며 필기는 동기가 죽음 충동처럼 보인다고 쓴다", "label": "지지됨", "evidence": "Seems to move toward Death", "note": ""},
+    {"n": 4, "text": "둘째 형상은 정치 모델의 형상이며 바틀비는 다른 존재 양식을 제시하고 저항한다", "label": "지지됨", "evidence": "presenting alternate mode of being. - resistence", "note": ""},
+    {"n": 5, "text": "강의는 벽이 소통의 실패를 가리키며 바틀비가 높은 벽을 마주하다가 점점 죽어 가는 자세와 궤적이 죽음을 향한 움직임이라고 설명한다", "label": "지지됨", "evidence": "Signfying the failure of communtication", "note": ""},
+    {"n": 6, "text": "필기에는 강의의 역사화 요구가 적혀 있어 우리의 조건을 계보학적으로 묻고 문학을 저항으로, 저항을 문학으로 읽으라는 것이다", "label": "지지됨", "evidence": "문학으로서의 저항, 저항으로서의 문학", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/미문개/3 23 Bartelby bcedc0d1647541ffa811ec73d6e6e58b.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "54y2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "프랭크퍼트에 따르면 거짓말쟁이는 진실의 게임 안에 있고 헛소리꾼은 진실에 무관심하다", "label": "지지됨", "evidence": "still playing the game of truth", "note": "출처는 프랭크퍼트 원서가 아니라 영진의 연설 개요와 원고(문헌 노트도 같은 자료)"},
+    {"n": 1, "text": "프랭크퍼트는 거짓말과 헛소리를 구분하고 연설은 이를 요약한다", "label": "지지됨", "evidence": "What distinguishes 'lie' and 'bullshit'?", "note": ""},
+    {"n": 2, "text": "거짓말쟁이는 진실을 다른 것으로 바꿔 감추려 하므로 무엇이 진실인지 알아야 하며 진실의 게임 안에서 움직인다", "label": "지지됨", "evidence": "should care about what is truth", "note": ""},
+    {"n": 3, "text": "거짓말의 개념에는 진술이 거짓이라는 요소가 들어 있고 거짓말쟁이는 자기가 진실로 여기는 것이 부과하는 객관적 제약을 따라 솜씨 있게 움직여야 한다", "label": "지지됨", "evidence": "objective constraints imposed by what he regards", "note": ""},
+    {"n": 4, "text": "헛소리꾼은 진실을 감추려 하지 않고 듣는 사람의 지각을 움직이려 하며 진실이 통하면 좋고 통하지 않아도 좋다", "label": "지지됨", "evidence": "not to conceal the truth but to manipulate", "note": "개요의 'is a matter of trying to conceal'은 오타로 보이며 원고에서는 'not to conceal'로 확인됨"},
+    {"n": 5, "text": "헛소리는 진실에 대한 관심 없이 만들어진 속임수(sham)이며 담화의 합리적 규범에 참여하지 않는다", "label": "지지됨", "evidence": "bullshit is bascially a sham", "note": ""},
+    {"n": 6, "text": "거짓말쟁이는 합리적 규범을 알고 따르면서 진실하지 않음이라는 하나만 어기는 반면 헛소리꾼은 규범을 아예 고려하지 않는다", "label": "지지됨", "evidence": "he commits only one violation", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/Advanced English/outline for the speech 81463b28d6ad42e7a4f3acd450bb698a.md", "문헌/@Frankfurt2005 On Bullshit.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

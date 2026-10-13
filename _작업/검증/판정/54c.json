@@ -1,0 +1,16 @@
+{
+  "id": "54c",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "그린블랫에 따르면 즉흥은 뜻밖의 요소를 자기 이야기의 자원으로 바꾸는 능력이다", "label": "지지됨", "evidence": "뜻하지 않은 요소들을 자신의 자원으로 활용", "note": "필기는 'Greenblat, 252' 한 곳 외에는 그린블랫을 밝히지 않아 귀속은 추정(카드 출처 줄에 이미 표시됨)"},
+    {"n": 1, "text": "즉흥은 뜻하지 않은 요소를 자기 자원으로 활용하고 변형하여 자기 이야기에 쓰는 능력이다", "label": "지지됨", "evidence": "그것들 변형시켜서 자신의 이야기에 사용", "note": ""},
+    {"n": 2, "text": "이 능력을 가능하게 하는 것은 자기 만들기의 생각, 곧 내가 누구인지에 관한 역할을 수행한다는 생각이다", "label": "지지됨", "evidence": "이것을 가능케 한 것은 self-fashioning의 아이디어", "note": ""},
+    {"n": 3, "text": "자기를 연기하는 사람은 다른 사람의 현실도 구성된 것으로 볼 수 있다", "label": "지지됨", "evidence": "다른 사람의 현실을 구성된 것으로 볼 수 있는 능력", "note": ""},
+    {"n": 4, "text": "필기는 즉흥하는 자와 즉흥되는 것이 같은 구조를 가진다(동형성)고 덧붙인다", "label": "지지됨", "evidence": "improviser와 improvised의 동형성", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/Shakespear/Othello 388fa25790ee44028b51e4e039f5b30d.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

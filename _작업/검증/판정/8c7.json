@@ -1,0 +1,19 @@
+{
+  "id": "8c7",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "콰인에 따르면 믿음의 그물에서 어떤 진술도 수정에서 면제되지 않는다", "label": "지지됨", "evidence": "no statement is immune to revision", "note": "p.266"},
+    {"n": 1, "text": "콰인은 지리와 역사의 사소한 사실에서 원자 물리학의 법칙, 순수 수학과 논리학까지 지식과 믿음의 총체를 가장자리에서만 경험과 맞닿는 인공의 직물로 그린다(p.265)", "label": "지지됨", "evidence": "a man-made fabric which impinges on experience", "note": ""},
+    {"n": 2, "text": "과학 전체는 경험을 경계 조건으로 가진 힘의 장이며, 가장자리에서 경험과 충돌하면 내부에서 진리치를 재분배해야 하고 논리 법칙도 체계에 속한 또 다른 진술로서 이 재분배에 포함된다", "label": "지지됨", "evidence": "total science is like a field of force", "note": ""},
+    {"n": 3, "text": "전체 장은 경계 조건인 경험에 의해 과소 결정되므로 어떤 진술을 재평가할지에 선택의 폭이 넓다(p.266)", "label": "지지됨", "evidence": "so underdetermined by its boundary conditions", "note": ""},
+    {"n": 4, "text": "체계의 다른 곳을 충분히 과감하게 조정하면 어떤 진술이든 'come what may' 참으로 유지할 수 있고, 같은 이유로 어떤 진술도 수정에서 면제되지 않는다", "label": "지지됨", "evidence": "Any statement can be held true come what may", "note": ""},
+    {"n": 5, "text": "양자역학을 단순하게 하려고 배중률을 수정하자는 제안도 있었으며, 콰인은 이것이 케플러가 프톨레마이오스를, 아인슈타인이 뉴턴을, 다윈이 아리스토텔레스를 대체한 일과 원리상 다르지 않다고 본다(p.266)", "label": "지지됨", "evidence": "what difference is there in principle", "note": "원문은 수사적 물음. 카드가 단정으로 옮겼으나 수사의문의 취지와 같음"},
+    {"n": 6, "text": "주변부라는 비유를 은유 없이 설명하면, 어떤 진술이 특정 경험에 가깝다는 말은 어긋나는 경험이 생겼을 때 실천에서 그 진술을 수정 대상으로 고를 가능성이 상대적으로 높다는 느슨한 연합만을 뜻한다(pp.266-267)", "label": "지지됨", "evidence": "a loose association reflecting the relative likelihood", "note": ""},
+    {"n": 7, "text": "엘름가에 벽돌집이 있다는 진술은 주변부에 놓이고, 물리학, 논리학, 존재론의 고도로 이론적인 진술은 특정 감각 자료와 우선적으로 연결되지 않는다는 의미에서 중심부에 놓인다(p.267)", "label": "지지됨", "evidence": "little preferential connection with any particular sense data", "note": ""}
+  ],
+  "sources_used": ["문헌/@Quine1951 Two Dogmas of Empiricism.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-10_Quine-TwoDogmas-3.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

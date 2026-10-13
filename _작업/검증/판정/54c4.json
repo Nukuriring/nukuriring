@@ -1,0 +1,16 @@
+{
+  "id": "54c4",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "그린블랫에 따르면 오델로는 이아고가 드러난 뒤에도 서사에 더 깊이 복종하여 자기를 텍스트로 마감한다", "label": "지지됨", "evidence": "a still deeper submission to narrative", "note": ""},
+    {"n": 1, "text": "이아고의 배신이 드러난 뒤에도 오델로에게는 탈출이 없고, 자아가 신앙의 수호자와 파괴되어야 할 할례받은 적으로 갈라져 자살로 이어진다", "label": "지지됨", "evidence": "split suicidally between the defender", "note": ""},
+    {"n": 2, "text": "로도비코의 'O bloody period!'는 그것이 연설이었다는 점, 텍스트로 지어진 삶이 텍스트로 끝났다는 점을 강조한다", "label": "지지됨", "evidence": "this life fashioned as a text is ended as a text", "note": ""},
+    {"n": 3, "text": "인용 (Greenblat, 252: 'a reaffirmation of the self as story')", "label": "지지됨", "evidence": "a reaffirmation of the self as story", "note": "글자와 쪽수(252) 일치"},
+    {"n": 4, "text": "필기는 오델로가 데스데모나를 쾌락이 불가능한 존재로 만들려 하면서 정체성을 완전히 고정했고 자신의 서사로서 죽었다고 정리한다", "label": "지지됨", "evidence": "오델로의 아이덴티티는 완전히 고정되어 버렸다", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/Shakespear/Othello 388fa25790ee44028b51e4e039f5b30d.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

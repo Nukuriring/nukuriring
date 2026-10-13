@@ -1,0 +1,16 @@
+{
+  "id": "55a3",
+  "voice": "문헌",
+  "verdict": "원문없음",
+  "claims": [
+    {"n": 0, "text": "강의는 식민주의를 영토와 주민을 착취하는 유형과 원주민을 몰아내고 정착민을 심는 유형으로 구분한다", "label": "지지됨", "evidence": "Settler Colonialism - Exploitation Colonialism", "note": ""},
+    {"n": 1, "text": "착취 식민주의는 식민지 영토를 정복하고 그곳에 사는 주민을 착취하는 데 초점이 있다", "label": "지지됨", "evidence": "영토를 정복하고 ... 인구들을 착취하는 일에", "note": ""},
+    {"n": 2, "text": "정착 식민주의는 원주민을 몰아내고 그 자리에 정착민을 심어 토착 문화를 대체하는 데 초점이 있다", "label": "지지됨", "evidence": "토착 문화를 대체하는 것", "note": ""},
+    {"n": 3, "text": "필기는 정착 식민주의를 인구의 재배치(relocating of population)라는 말로 요약한다", "label": "지지됨", "evidence": "Relocating of pop.", "note": "필기는 pop.로 줄여 적음"},
+    {"n": 4, "text": "이 구분은 뒤에 이어지는 영국령 북미 식민지의 건설을 읽는 틀로 쓰인다", "label": "원문에 없음", "evidence": "", "note": "3월 7일 필기에는 두 유형의 정의만 있고 영국령 북미 식민지를 읽는 틀로 쓴다는 말이 없음. 3월 9일 필기의 영국 식민지 대목에도 정착 식민주의 언급이 없음."}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/미문개/3 7 Tue Literary backgrounds and consequences of 1 1670f7f1d7c84d449c07f206157f3062.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/미문개/3 9 Thr Native Amrican Response and Cultures 298938f43d0143bca251a1605ce2732f.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

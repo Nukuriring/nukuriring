@@ -1,0 +1,18 @@
+{
+  "id": "55e",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "강의는 어조를 문체가 드러내는 저자의 암묵적 태도로 정의하고 서술자의 목소리와 아이러니의 간극에서 어조를 읽는다", "label": "지지됨", "evidence": "Style reveals tone, the author's implicit attitude", "note": "서술자 목소리와 아이러니는 필기에서 나란한 항목이며 카드가 이를 이음"},
+    {"n": 1, "text": "어조는 이야기 속 인물과 장소와 사건에 대한 저자의 암묵적 태도이며 문체가 그것을 드러낸다", "label": "지지됨", "evidence": "toward the people, places, and events in a story", "note": ""},
+    {"n": 2, "text": "말할 때는 억양이나 눈짓이나 몸짓이 어조를 전하고 글에서는 다양한 방식으로 전해진다", "label": "지지됨", "evidence": "can be conveyed in various ways", "note": ""},
+    {"n": 3, "text": "강의는 등장인물이 명시적으로 밝히는 태도보다 이야기에 근본적인 태도가 어조를 이룬다고 본다", "label": "지지됨", "evidence": "Attitude fundamental to the story than whatever", "note": ""},
+    {"n": 4, "text": "서술자의 목소리가 옹호하는지, 조롱하는지, 비판하는지, 거리를 두는지가 어조를 만들며 여기에는 해석이 개입한다", "label": "지지됨", "evidence": "Endorse, Mocking, Criticize, Detached", "note": ""},
+    {"n": 5, "text": "아이러니는 시야와 목소리, 의도와 이해, 기대와 결과 사이에 간극이 있을 때 생긴다", "label": "지지됨", "evidence": "discrepancies or gaps between vision and voice", "note": ""},
+    {"n": 6, "text": "필기에는 저자를 최종 심급으로 상정하는 읽기와 상정하지 않는 탈근대적 읽기의 대비가 덧붙어 있고 후자는 텍스트가 저자의 의도를 넘어서는 열린 연결망이며 주체가 탈중심화되어 있다고 본다", "label": "지지됨", "evidence": "open ended network free from author's intention", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/미문개/3 21 Tue Edgar allan Poe c1a8362698354848b12825ec9b6e61bb.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

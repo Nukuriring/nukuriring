@@ -1,0 +1,17 @@
+{
+  "id": "7i5",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "울프는 데리다를 따라 우리의 개념이 비인간적 언어의 기술성에 예속되어 있다고 본다", "label": "지지됨", "evidence": "비인간적 언어의 기술성에 예속", "note": "PAL_다이아몬드와데리다 §6"},
+    {"n": 1, "text": "울프는 서론 「Exposures」에서 다이아몬드와 데리다가 언뜻 보기에 세 점(공유된 유한성과 동료 피조물에서 윤리적 유대를 찾음, 확정할 길 없는 조건에의 노출을 대면하는 윤리, 언어 오해와 개념적 삶의 맹목)에서 잘 맞는다고 본다(pp.16-20)", "label": "지지됨", "evidence": "At first glance, Derrida’s work seems remarkably consonant", "note": ""},
+    {"n": 2, "text": "균열은 '인간' 개념에서 드러난다: 동물을 죽이는 일을 살인과 비슷하게 생각하는 일의 의미가 사람을 죽인다는 관념에 달려 있다는 다이아몬드의 초기 논점이 자기 필멸성과의 관계를 전제한다고 보고, 데리다라면 코스텔로에게 'No, you don't. Only the other does'라고 답할 것이라고 쓴다(pp.21-23)", "label": "지지됨", "evidence": "No, you don't. Only the other does", "note": "울프의 가정('답할 것')이 카드의 '답할 것이라고 쓴다'에 유지됨"},
+    {"n": 3, "text": "셋째 접점은 차이가 된다: 몸의 유한성을 드러내는 언어가 인간을 넘어서는 기술성에 예속되어 있으므로 우리가 우리의 것이라 여기는 개념들은 온전히 우리의 것이 되지 못한다(pp.25-28)", "label": "지지됨", "evidence": "우리의 개념은 온전히 ‘우리의 것’이 되지 못한다", "note": ""},
+    {"n": 4, "text": "울프는 「The Difficulty of Reality」가 이전 논문들의 정식화 없이 움직인다고 양보하며 'the essay’s strength is precisely its weakness'라고 평가한다(pp.24-25)", "label": "지지됨", "evidence": "the essay’s strength is precisely its weakness", "note": ""},
+    {"n": 5, "text": "정리 문서는 이 대립을 다이아몬드 원문과 대조하여, 코스텔로의 앎은 그 자체로 모순을 내용으로 하며 대립의 핵심은 그 앎이 한순간 일인칭의 몸 안에서 살아진다는 요소에 있다고 판단한다", "label": "지지됨", "evidence": "일인칭의 몸 안에서 살아진다는 요소에 있다", "note": "정리 문서의 판단(PAL_다이아몬드와데리다 §4, §9)"}
+  ],
+  "sources_used": ["문헌/@Cavell2008 Philosophy and Animal Life.md", "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/docs/claude/PAL_다이아몬드와데리다.md", "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/docs/claude/PAL_쟁점정리.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

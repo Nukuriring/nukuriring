@@ -1,0 +1,19 @@
+{
+  "id": "9c1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "오스틴에 따르면 분석과 종합의 이분법은 모든 경우를 포괄하지 못한다", "label": "지지됨", "evidence": "dichotomy is not exhaustive", "note": ""},
+    {"n": 1, "text": "2부에서 'y는 x의 의미의 일부인가'는 의미를 부분을 가진 대상으로 전제하며, 의미는 그런 대상이 아니라 '의미의 일부'는 정의되지 않은 채 남는다", "label": "지지됨", "evidence": "completely undefined…hanging in the air", "note": ""},
+    {"n": 2, "text": "이분법은 'a working-model which fails to fit the facts'에 기댄다", "label": "지지됨", "evidence": "a working-model which fails to fit", "note": ""},
+    {"n": 3, "text": "'This noise exists'에서 'this'를 쓰는 일이 감각의 존재를 이해하게 하며, 분석과 종합 어느 쪽에도 속하지 않는 쓰임의 사실이다", "label": "지지됨", "evidence": "a fact of use", "note": ""},
+    {"n": 4, "text": "4년을 함께 산 고양이가 연설하면 '진짜 고양이다'도 '아니다'도 맞지 않으므로 모든 명제가 모순 명제를 가진다는 원리는 거짓이다", "label": "지지됨", "evidence": "every proposition has a contradictory is false", "note": ""},
+    {"n": 5, "text": "이분법을 강요하면 종합적 선험 지식을 떠안고, 실제 언어에는 명시적 규약이 거의 없고 경계가 날카롭지 않다", "label": "지지됨", "evidence": "few, if any, explicit conventions", "note": ""},
+    {"n": 6, "text": "오스틴은 일상어에 만족해 머무는 태도도 경계하며 새롭고 더 나은 언어가 필요한 특별한 사실이 있을 수 있다고 한다", "label": "지지됨", "evidence": "There may be extraordinary facts", "note": ""},
+    {"n": 7, "text": "강독 노트는 이 1940년 강연이 콰인의 「경험주의의 두 독단」(1951)보다 10년 앞서 다른 경로로 같은 이분법을 겨냥한다고 적는다", "label": "지지됨", "evidence": "a decade before Quine's", "note": "강독 노트는 'parallel insight, not influence'로 덧붙임. 카드의 '다른 경로로'와 합치."}
+  ],
+  "sources_used": ["문헌/@Austin1940 The Meaning of a Word.md", "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

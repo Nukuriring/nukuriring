@@ -1,0 +1,18 @@
+{
+  "id": "6m6",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "트래비스에 따르면 요소를 가지는 일은 분해에 상대적이며 특권적 분석은 없다", "label": "지지됨", "evidence": "Having elements need only be relative to a decomposition", "note": "2026-08-05 세션 09:05 각주 3(p.29)."},
+    {"n": 1, "text": "§1.6에서 트래비스는 다중 분해 가능성을 사소화하려는 견해를 다룬다(pp.26–30)", "label": "지지됨", "evidence": "다중 분해 가능성을 사소화하려는 시도", "note": ""},
+    {"n": 2, "text": "Dummett와 Sullivan 계열에 따르면 사고에는 단순 구성요소들로부터의 진짜 구축(분석)이 하나 있고 여러 분해는 그 구축을 여러 방식으로 파싱한 것이며, Sullivan(2010: 98)은 '이산화탄소는 산소보다 무겁다'가 두 군데서 갈릴 수 있는 것은 세 구성요소를 가지기 때문이라고 논평한다(pp.27–28)", "label": "지지됨", "evidence": "세 구성요소를 가지기 때문이며", "note": "Frege 정리 및 발표 세션 01:37 해설 8절."},
+    {"n": 3, "text": "트래비스는 두 일항 분해를 나란히 놓으면 삼분 구조가 보인다는 주장이 증명할 것을 가정한다고 보고, 전체 사고 우선을 받아들이면 유일한 구조를 배정할 가정들이 강제되지 않는다고 본다", "label": "지지됨", "evidence": "그게 바로 증명해야 할 것을 가정하는 겁니다", "note": ""},
+    {"n": 4, "text": "프레게는 변항과 상항의 구별이 개념적 내용과 상관없고 오직 파악 방식(Auffassung)의 문제라고 썼다(Frege 1879: 15, p.28)", "label": "지지됨", "evidence": "오로지 파악 방식(Auffassung)의 문제", "note": ""},
+    {"n": 5, "text": "프레게는 '4는 제곱근을 갖는다'를 세 방식으로 분해했고(Frege 1892b: 199, p.29), 셋을 나란히 놓아도 그것들이 유도될 근본 분석은 떠오르지 않는다", "label": "지지됨", "evidence": "그것들이 유도될 근본 분석이 떠오르지 않는다", "note": ""},
+    {"n": 6, "text": "문장은 어휘에서 구문으로 생성되어 구조를 배정받고 사례를 가지지만, 사고는 사례를 갖지 않으며 사고이기 위해 그것으로 생성되어야 하는 구문도 그 구문이 작동할 어휘도 있을 수 없다(p.30)", "label": "지지됨", "evidence": "그 구문이 작동할 어휘도 있을 수 없다", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-05_어려운 설명을 쉽게 풀어달라.md", "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-06_Frege의 근본 사상 정리 및 발표.md", "문헌/@Travis2021 Frege The Pure Business of Being True.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

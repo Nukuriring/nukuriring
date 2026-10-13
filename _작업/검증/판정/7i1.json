@@ -1,0 +1,18 @@
+{
+  "id": "7i1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "다이아몬드는 동물의 지위를 표지에서 끌어내려는 because의 욕망에서 회의주의를 듣는다", "label": "지지됨", "evidence": "회의주의의 한 형태를 들을 수 있지 않느냐고", "note": "원문 정리는 물음 형식('들을 수 있지 않느냐고 묻는 것')이나 카드 본문이 '들을 수 있다'로 옮김. 판정 사례(물음→정리된 서술)에 따라 지지됨"},
+    {"n": 1, "text": "쿡은 타인의 마음에 관한 회의주의자가 두 언어 게임을 혼동한다고 진단했고, 카벨은 그 진단을 회의주의자의 상황 안으로 되돌려 무력함이 무지로, 형이상학적 유한성이 지적 결핍으로 나타난다고 썼다", "label": "지지됨", "evidence": "my powerlessness presents itself as ignorance", "note": ""},
+    {"n": 2, "text": "다이아몬드는 카벨의 이 응답이 철학이 어디서 어떻게 출발해야 하는지를 보여 준다고 평가한다(pp.66-68)", "label": "지지됨", "evidence": "어디서 어떻게 출발해야 하는지를 보여 준다고 평가", "note": ""},
+    {"n": 3, "text": "리히를 쿡의 반회의주의적 목소리에 견주고, 싱어 쪽과 리히 쪽이 'a desire for a because'를 공유한다고 지적한다(pp.70-71)", "label": "지지됨", "evidence": "a desire for a 'because'를 공유", "note": ""},
+    {"n": 4, "text": "동물 앞의 노출은 'there being nothing but our own responsibility, our own making the best of it'에 있고, 우리는 함께 살아갈 수 있는 무언가를 찾도록 내던져지며 그것은 기껏해야 'a kind of bitter-tasting compromise'일 수 있다(pp.71-72)", "label": "지지됨", "evidence": "it may at best be a kind of bitter-tasting compromise", "note": "'may at best'의 한정이 카드의 '일 수 있다'에 유지됨"},
+    {"n": 5, "text": "채식이 도덕적 신념에서 나오느냐는 물음에 코스텔로가 영혼을 구하려는 욕망에서 나온다고 답하고 가죽 구두와 가죽 가방을 말하는 장면이 노출의 가장 뚜렷한 자리이다(pp.72-73)", "label": "지지됨", "evidence": "노출의 가장 뚜렷한 자리", "note": ""},
+    {"n": 6, "text": "다이아몬드는 동물 논쟁이 회의주의 논쟁과 부분적으로만 평행하다고 명시하고, 도덕적 사고에서 because와 논증이 맡는 크고 깊은 역할을 부정할 생각이 없다고 주석에서 밝힌다(p.71, p.85 주20, p.86 주21·주22)", "label": "지지됨", "evidence": "부분적으로만 평행하다고 명시", "note": "쪽수 표기는 정리 문서 주18과 일치"}
+  ],
+  "sources_used": ["문헌/@Cavell2008 Philosophy and Animal Life.md", "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/docs/claude/PAL_쟁점정리.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

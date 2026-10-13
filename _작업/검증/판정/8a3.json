@@ -1,0 +1,17 @@
+{
+  "id": "8a3",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "프레게에 따르면 간접 화법에서 낱말은 평소의 뜻을 지시한다", "label": "지지됨", "evidence": "its customary sense", "note": "'The indirect reference of a word is accordingly its customary sense.'"},
+    {"n": 1, "text": "낱말을 평소 방식으로 쓰면 그 지시체에 관해 말하게 되지만 낱말 자체나 그 뜻에 관해 말하려는 경우도 있고, 직접 인용에서 따옴표 안의 낱말은 다른 화자의 낱말을 지시한다(p.24)", "label": "지지됨", "evidence": "designate words of the other speaker", "note": ""},
+    {"n": 2, "text": "'say', 'hear', 'be convinced', 'conclude' 같은 말 뒤의 that절은 사고를 지시체로 가지며, 이때 종속절의 참과 거짓은 전체의 참과 상관이 없다(pp.30-31)", "label": "지지됨", "evidence": "indifferent to the truth of the whole", "note": ""},
+    {"n": 3, "text": "코페르니쿠스 문장의 종속절을 다른 종속절로 바꾸어도 전체의 참은 유지되지만 종속절 안의 표현은 평소의 뜻이 같은 표현으로만 바꿀 수 있다(p.31)", "label": "지지됨", "evidence": "only by one having the same indirect reference", "note": "'진리치가 다른' 절이라는 카드의 서술은 원문에 명시되지 않으나 코페르니쿠스 문장 쌍의 사실상 진리치와 합치(원문: 'without harm to the truth')"},
+    {"n": 4, "text": "이 현상을 들어 문장의 지시체를 진리치로 볼 수 없다고 결론짓는 사람은 'prove too much'하게 되며, 정당한 결론은 문장의 지시체가 언제나 진리치이지는 않다는 것이다", "label": "지지됨", "evidence": "he would prove too much", "note": "'not always its truth value'"},
+    {"n": 5, "text": "웰링턴의 기쁨, 콜럼버스의 추론, 목적절, 명령과 요청, 의존 의문을 담은 종속절에도 같은 분석이 적용된다(pp.31-33)", "label": "지지됨", "evidence": "indirect reference of the words", "note": ""}
+  ],
+  "sources_used": ["문헌/@Frege1892 Über Sinn und Bedeutung.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-01_Frege-SR-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-02_Frege-SR-2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

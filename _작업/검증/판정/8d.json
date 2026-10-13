@@ -1,0 +1,18 @@
+{
+  "id": "8d",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "에이어는 검증 가능성을 문자적 의미의 기준으로 삼아 형이상학을 무의미한 말로 배제한다", "label": "지지됨", "evidence": "criterion of verifiability", "note": "pp.14, 16"},
+    {"n": 1, "text": "1장에서 철학자들의 전통적 논쟁이 대부분 근거도 결실도 없다고 보고, 철학적 탐구의 목적과 방법을 확정하여 그 논쟁을 끝내려 한다(p.13)", "label": "지지됨", "evidence": "as unwarranted as they are", "note": "'for the most part' 유지"},
+    {"n": 2, "text": "과학과 상식의 세계를 넘어서는 실재를 안다는 형이상학을 첫 표적으로 삼고 그런 앎의 경로를 따지기보다 진술의 본성을 비판한다(p.14)", "label": "지지됨", "evidence": "the actual statements", "note": "첫 표적은 p.13 'We may begin by criticizing', 진술 본성 비판은 p.14"},
+    {"n": 3, "text": "검증 가능성 기준: 문장은 그것이 표현하는 명제를 어떻게 검증할지 아는 사람에게 사실적으로 유의미하다(p.16)", "label": "지지됨", "evidence": "factually significant", "note": "'if, and only if, he knows how to verify'"},
+    {"n": 4, "text": "참이나 거짓의 가정이 미래 경험에 관한 어떤 가정과도 양립하면 동어반복이 아닌 한 사이비 명제이고, 정서적으로는 유의미할 수 있어도 문자적으로 유의미하지 않다", "label": "지지됨", "evidence": "a mere pseudo-proposition", "note": "원문 'as far as he is concerned'(그에게는)의 상대화가 이 문장에서는 빠졌으나 앞 문장의 '아는 사람에게'가 이어짐"},
+    {"n": 5, "text": "에이어는 칸트도 초월적 형이상학을 단죄했지만 사실 문제로 했고, 자신은 문자적 의미를 정하는 규칙에서 끌어내므로 비트겐슈타인식 반론을 피한다고 주장한다(pp.14-16)", "label": "지지됨", "evidence": "a matter of fact", "note": "pp.14-15 'not, as we do, a matter of logic, but a matter of fact'"},
+    {"n": 6, "text": "실천적 검증 가능성과 원리적 검증 가능성을 구분하여, 달 뒷면의 산 명제는 원리적으로 검증 가능하므로 유의미하고 '절대자는 진화...' 명제는 원리적으로도 검증할 수 없다고 본다(pp.16-17)", "label": "지지됨", "evidence": "not even in principle", "note": "p.17 'not even in principle verifiable'"}
+  ],
+  "sources_used": ["문헌/@Ayer1946 Language, Truth and Logic.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-11_Ayer-LTL-1장-1.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

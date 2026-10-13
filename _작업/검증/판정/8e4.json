@@ -1,0 +1,19 @@
+{
+  "id": "8e4",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "그라이스는 언어적 의도를 판정하는 기준이 비언어적 의도의 기준과 같다고 본다", "label": "부분 지지", "evidence": "very like the criteria", "note": "원문은 'the criteria for judging linguistic intentions are very like the criteria for judging nonlinguistic intentions'(매우 비슷하다)이고 'very much the same kinds of criteria'(거의 같은 종류의 기준)라고도 하며, 철학자의 해명 사례는 'I cannot find a nonlinguistic parallel here'라고 인정함. 제목은 '같다'로 단정"},
+    {"n": 1, "text": "그라이스는 '의도'와 '인지'라는 말을 자유롭게 쓰는 데 대한 의문에 답하면서, 우리의 말하는 삶 전체를 복잡한 심리적 사건으로 채우려는 뜻은 없다고 밝힌다(p.386)", "label": "지지됨", "evidence": "peopling all our talking life", "note": "p.386"},
+    {"n": 2, "text": "명시적 계획이 발화에 앞서거나 따르면 그것은 화자의 의도가 계획대로였다는 강한 증거가 되지만 결정적이지는 않다", "label": "부분 지지", "evidence": "accompanied or preceded", "note": "원문은 'accompanied or preceded by a conscious plan', 'counts fairly heavily in favor'(상당히 유리하게 작용). 카드는 'accompanied'를 '따르면'으로, 'fairly heavily'를 '강한'으로 옮겨 정도가 다소 높아지고 '동반'이 '뒤따름'으로 읽힐 소지가 있음. 'not conclusive'는 유지"},
+    {"n": 3, "text": "낯익은 표현을 낯선 방식으로 쓰겠다고 선언한 화자도 익숙한 용법으로 돌아갈 수 있고, 편지를 쓰레기통에 버리려던 사람이 우체통에 넣을 수도 있다(pp.386-387)", "label": "지지됨", "evidence": "may slip into the familiar use", "note": "pp.386-387"},
+    {"n": 4, "text": "명시적 의도가 없을 때 우리는 일반적 용법이 있는 비언어적 의도의 경우와 거의 같은 기준에 기댄다: 발화자는 보통 전달되는 것을 전달하려 한다고 간주되고, 일반 용법에서 벗어난다고 받아들이려면 좋은 이유가 필요하며, 비언어적 경우에도 행위의 정상적 결과를 의도한다고 간주된다(p.387)", "label": "지지됨", "evidence": "very much the same kinds of", "note": "p.387"},
+    {"n": 5, "text": "무엇을 전하려 하는지 의심스러울 때는 맥락을 보고 다른 발언과의 관련성이나 분명한 목적에 맞는지를 묻는다: 불이 난 곳에서 'pump'를 찾는 사람은 자전거 펌프를 원하지 않는다", "label": "지지됨", "evidence": "a man who calls for a 'pump'", "note": "p.387"},
+    {"n": 6, "text": "철학자가 자기 글의 불분명한 대목을 해명하는 경우처럼 나중에 의도를 물으면 그 답이 기억보다 결정에 가까운 경우도 있다", "label": "지지됨", "evidence": "more like a decision", "note": "p.387 'in a few of these cases (the very difficult ones)'. '경우도 있다'로 한정 유지"},
+    {"n": 7, "text": "그라이스는 언어적 의도를 판정하는 기준이 비언어적 의도를 판정하는 기준과 매우 비슷하다는 것을 보이면 언어적 의도가 비언어적 의도와 매우 비슷하다는 것을 보인 셈이라고 결론짓는다(pp.387-388)", "label": "지지됨", "evidence": "very like nonlinguistic", "note": "pp.387-388 'surely to show that the criteria... are very like... is to show that linguistic intentions are very like nonlinguistic intentions'"}
+  ],
+  "sources_used": ["문헌/@Grice1957 Meaning.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-21_Grice-Meaning-2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

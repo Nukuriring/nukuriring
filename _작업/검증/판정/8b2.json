@@ -1,0 +1,18 @@
+{
+  "id": "8b2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "러셀은 빈 지시구에 지시 대상을 마련하는 마이농과 프레게의 처리를 모두 거부한다", "label": "지지됨", "evidence": "The latter is the course that I advocate", "note": "p.484"},
+    {"n": 1, "text": "러셀은 지시구를 명제의 진정한 구성 요소를 나타내는 것으로 볼 때 생기는 난점을 자기 이론의 증거로 삼는다(p.482)", "label": "지지됨", "evidence": "The evidence for the above theory", "note": ""},
+    {"n": 2, "text": "마이농의 이론은 문법적으로 올바른 모든 지시구가 대상을 나타낸다고 보아 현재 프랑스 왕과 둥근 사각형도 대상으로 인정하며, 러셀은 이런 대상이 모순율을 어기기 쉽다고 비판한다(pp.482-483)", "label": "지지됨", "evidence": "apt to infringe the law of contradiction", "note": ""},
+    {"n": 3, "text": "프레게의 이론은 의미와 지시를 구분하여 이 모순을 피하지만 지시가 없어 보이는 경우에 난점을 맞는다(pp.483-484)", "label": "지지됨", "evidence": "the cases in which the denotation appears to be absent", "note": ""},
+    {"n": 4, "text": "'프랑스 왕은 대머리이다'는 형식상 지시에 관한 명제여야 하므로 무의미해야 할 것 같지만 분명히 거짓이며, 「템페스트」 왕의 '페르디난드가 익사하지 않았다면…' 문장도 전건이 거짓이라는 이유로 무의미해지지 않는다(p.484)", "label": "지지됨", "evidence": "it is not nonsense, since it is plainly false", "note": ""},
+    {"n": 5, "text": "러셀은 지시가 없어 보이는 곳에 지시를 마련하는 길과 지시구가 든 명제가 지시를 다룬다는 견해를 버리는 길 가운데 뒤의 길을 택한다", "label": "지지됨", "evidence": "The latter is the course that I advocate", "note": ""},
+    {"n": 6, "text": "프레게는 지시가 없을 경우 'the King of France'가 공집합을 지시하도록 약정하는데, 러셀은 이 처리가 'plainly artificial, and does not give an exact analysis of the matter'라고 평가한다(p.484)", "label": "지지됨", "evidence": "plainly artificial", "note": "원문은 '실제 논리적 오류로 이어지지는 않을 수 있으나(may not lead to actual logical error)'라는 양보를 덧붙임. 카드가 생략했으나 비판의 요지는 같음"}
+  ],
+  "sources_used": ["문헌/@Russell1905 On Denoting.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-05_Russell-OD-1.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

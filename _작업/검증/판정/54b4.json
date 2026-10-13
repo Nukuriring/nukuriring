@@ -1,0 +1,17 @@
+{
+  "id": "54b4",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "카벨에 따르면 오델로의 회의는 유한성을 지적 수수께끼로 바꾸려는 시도이다", "label": "지지됨", "evidence": "attempt to convert the human condition", "note": ""},
+    {"n": 1, "text": "카벨은 오델로가 데스데모나가 존재하고 살과 피로 이루어졌으며 자신과 분리된 타자임을 안다고 본다", "label": "지지됨", "evidence": "exists, is flesh and blood; is separate", "note": ""},
+    {"n": 2, "text": "이 앎은 자기 삶이 걸려 있는 존재가 불완전하고 부분적이며 의존적일 수 있음을 알아차리는 일이어서 그를 광기로 몬다", "label": "지지됨", "evidence": "realizes the posbility of imperfect", "note": "'가능성' 한정이 '있음'으로 유지됨"},
+    {"n": 3, "text": "데스데모나의 신실함에 대한 회의적 고백은 말할 수 없는 더 끔찍한 확신을 덮는 위장이다", "label": "지지됨", "evidence": "a cover story for a deeper conviction", "note": ""},
+    {"n": 4, "text": "카벨이 회의주의의 원인으로 계속 찾아낸 것은 인간 조건을 지적 난제와 수수께끼로 바꾸고 형이상학적 유한성을 지적 결핍으로 해석하려는 시도이다", "label": "지지됨", "evidence": "an intellectual difficulty, a riddle", "note": ""},
+    {"n": 5, "text": "카벨은 오델로가 모든 것을 알았으나 아는 바에 굴복해 그 앎의 명령을 따르지 못했다고 덧붙인다", "label": "지지됨", "evidence": "could not yield to what he knew", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/Annotated Bib d226e7d2e87a45cc9a5e0308eb9f6818.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

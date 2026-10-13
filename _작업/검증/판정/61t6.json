@@ -1,0 +1,19 @@
+{
+  "id": "61t6",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "윌리엄슨은 피치의 논증을 완화하려는 시점 구분과 가능세계 구분이 사소한 앎만 약속한다고 답한다", "label": "부분 지지", "evidence": "The trouble with this move is that it promises only trivial knowledge", "note": "'사소한 앎만 약속'은 가능세계 구분(w, w*)에만 붙은 평가이다. 시점 구분에 대한 윌리엄슨의 응수는 둘째 연언지를 'no one ever knows p'로 일반화하는 것이다. 제목이 둘 다 같은 이유로 답한 것처럼 묶음"},
+    {"n": 1, "text": "완화 시도는 오늘 'p이고 나는 오늘 p를 모른다'는 알 수 없어도 'p이고 나는 어제 p를 몰랐다'나 'p이고 당신은 오늘 p를 모른다'는 알 수 있다는 점에서 출발한다", "label": "지지됨", "evidence": "you can know the conjunction that p is true and you did not know p yesterday", "note": ""},
+    {"n": 2, "text": "윌리엄슨은 둘째 연언지를 'p가 참이고 누구도 p를 알지 못한다'로 일반화하라고 응수한다", "label": "지지됨", "evidence": "The immediate response is to generalize the second conjunct", "note": ""},
+    {"n": 3, "text": "피치의 논증은 p이고 아무도 p를 알지 못한다는 연언을 아무도 알 수 없음을 보이고, 사무실의 책이 정확히 일 년 전에 짝수 권이었는지 홀수 권이었는지처럼 아무도 알지 못할 참은 많다", "label": "지지됨", "evidence": "Many truths are never known by anyone", "note": ""},
+    {"n": 4, "text": "가능세계 w에서 그 연언이 참이라는 것을 다른 가능세계 w*에서 안다고 구분하는 시도도 사소한 앎만 약속하는데, 우리는 가능세계를 기술로 지정하고 그렇게 기술한 세계에서 p가 참임을 알 뿐이기 때문이다", "label": "지지됨", "evidence": "it promises only trivial knowledge", "note": ""},
+    {"n": 5, "text": "이런 가능세계에 대한 앎은 피치의 논증이 확인한 알 수 있음의 한계를 의미 있게 풀어 주지 못한다", "label": "지지됨", "evidence": "does not significantly relax the limits on knowability", "note": ""},
+    {"n": 6, "text": "피치의 논증은 연언을 안다면 연언지를 안다는 분배 원리를 쓰는데 이 원리와 어긋나는 앎 이론이 몇 있다", "label": "지지됨", "evidence": "a few accounts of knowledge are inconsistent with it", "note": ""},
+    {"n": 7, "text": "윌리엄슨은 아마 그 이론들에 무언가 잘못이 있을 것이라고 보면서도, 신중을 기해 분배 원리에 기대지 않도록 논증을 고치는 길을 탐색한다", "label": "지지됨", "evidence": "Probably that indicates something wrong with those accounts", "note": "'Probably'가 '아마'로 유지됨"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/윈랤슨 지식과 그 한계 서론 35697cdd867e81d7ba30ecfe05c182ca.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "54f9",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "카벨은 앎으로 삶을 구할 수 있다는 생각이 현재성의 상실과 함께 왔다고 본다", "label": "부분 지지", "evidence": "it may be that the loss of presentness", "note": "원문은 'it may be that'으로 유보했는데 제목은 '함께 왔다고 본다'로 단정했다. 본문 4번 명제에는 '몰아갔을 수 있다'가 남아 있다."},
+    {"n": 1, "text": "니체는 소크라테스가 앎을 인간 활동의 정점에 놓았을 때 비극의 형이상학적 위안이 사라졌다고 보았다", "label": "지지됨", "evidence": "metaphysical consolation of tragedy was lost", "note": ""},
+    {"n": 2, "text": "셰익스피어가 완성한 극 양식도 그와 함께 끝났다는 생각은 놀랍다", "label": "지지됨", "evidence": "it is a little alarming", "note": "원문 'alarming'을 '놀랍다'로 옮김"},
+    {"n": 3, "text": "베이컨과 갈릴레오, 데카르트가 같은 시기 사람이므로 새 과학과 인식론이 비극의 소멸을 낳았다고 말하기는 어렵다", "label": "지지됨", "evidence": "we will hardly say that it was because", "note": ""},
+    {"n": 4, "text": "다만 비극 양식의 소멸이 뜻하는 현재성의 상실이 우리를 앎으로 삶을 구할 수 있다는 생각으로 몰아갔을 수 있다", "label": "지지됨", "evidence": "we could save our lives by knowing them", "note": "'may be'가 '있다'로 유지됨"},
+    {"n": 5, "text": "데카르트와 로크 이래 앎의 개념은 정보와 기술, 학습과의 연결을 잃고 확실성, 특히 감각이 주는 확실성에만 묶인다", "label": "지지됨", "evidence": "becomes fixed to the concept of certainty alone", "note": "원문은 'only in our period'로 단절 시점을 근대로 한정함. 카드는 '이래'로 풀었다."},
+    {"n": 6, "text": "그러면 세계가 감각에 현전하는 것으로 환원되어 사라진다", "label": "지지됨", "evidence": "is brought into question and vanishes", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/Stanley Cavell cf231b9b4b064fd788bc8b05a8751fdd.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

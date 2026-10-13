@@ -1,0 +1,17 @@
+{
+  "id": "9c",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "오스틴은 낱말의 의미라는 구절을 위험한 무의미 구절로 진단한다", "label": "지지됨", "evidence": "in general, if not always, a dangerous", "note": "카드 본문도 '대체로'를 유지함."},
+    {"n": 1, "text": "「The Meaning of a Word」(1940) 1부에서 'the meaning of a word'는 대체로 'a dangerous nonsense-phrase'라고 쓴다", "label": "지지됨", "evidence": "in general, if not always, a dangerous", "note": ""},
+    {"n": 2, "text": "의미를 가지는 것은 문장뿐이며 낱말의 의미는 그 낱말을 포함한 문장들이 의미를 가진다는 데서 파생된다", "label": "지지됨", "evidence": "What alone has meaning is a sentence", "note": ""},
+    {"n": 3, "text": "'racy'의 의미를 설명할 때 들어맞는 문장과 아닌 문장을 보이고 상황을 상상하게 하거나 겪게 하며, 별도의 '의미' 대상은 건네지지 않는다", "label": "지지됨", "evidence": "No third item…is handed over", "note": ""},
+    {"n": 4, "text": "특정 낱말의 의미를 묻다 낱말 일반의 의미를 묻는 데로 건너뛰는 것을 'Nothing-in-particular'를 묻는 오류라고 부른다", "label": "지지됨", "evidence": "asking about 'Nothing-in-particular'", "note": ""},
+    {"n": 5, "text": "가짜 물음에 개념, 관념, 비슷한 감각자료의 집합 같은 답이 몰려드는 까닭은 모든 낱말이 이름이라는 믿음과 분석 뒤에도 x가 무엇이냐고 묻는 습관이다", "label": "지지됨", "evidence": "all words are names", "note": ""}
+  ],
+  "sources_used": ["문헌/@Austin1940 The Meaning of a Word.md", "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

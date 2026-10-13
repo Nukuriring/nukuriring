@@ -1,0 +1,20 @@
+{
+  "id": "55e2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "어셔가에서 합리적인 서술자는 어셔의 광기에 전염되어 구별이 흐려지고 남매와 가문의 경계도 함께 무너진다", "label": "지지됨", "evidence": "Infection of madness / 남매의 경계도 흐려진다", "note": ""},
+    {"n": 1, "text": "서술자가 어셔가를 찾아간 이유는 친구를 치료하는 것이다", "label": "지지됨", "evidence": "어셔가를 방문하는 이유는 치료", "note": "'Old friend of Rodrick Usher'도 있음"},
+    {"n": 2, "text": "서술자는 합리와 이유를 대변하는 인물이다", "label": "지지됨", "evidence": "합리와 이유의 인물", "note": ""},
+    {"n": 3, "text": "시간이 지날수록 서술자도 미쳐 가며 로드릭의 광기가 퍼진다", "label": "지지됨", "evidence": "서술자는 점점 미쳐간다", "note": ""},
+    {"n": 4, "text": "필기는 이를 광기의 전염으로 부르고, 처음에 구분되던 로드릭과 서술자가 점점 구분되지 않는다고 적는다", "label": "지지됨", "evidence": "Infection of madness. …구분이 안되기 시작", "note": ""},
+    {"n": 5, "text": "미치고 신경이 곤두선 서술자는 이야기를 더 믿을 수 없게 만든다", "label": "지지됨", "evidence": "makes the story more unreliable", "note": ""},
+    {"n": 6, "text": "집과 가문의 경계, 남매의 경계도 흐려진다", "label": "지지됨", "evidence": "House - familiy. blurred. 남매의 경계도", "note": ""},
+    {"n": 7, "text": "다공성(porous)은 경계가 침범되는 것을 가리키며 공포를 낳는다", "label": "지지됨", "evidence": "Porous: Violation of boundary. 공포를 유발", "note": ""},
+    {"n": 8, "text": "로드릭과 매들린이 겹쳐져 죽는 마지막 장면에서 근친의 성적 이미지와 폭력적이고 외설적인 얽힘을 읽고, 사랑하던 오빠가 시체가 되는 것으로 정리한다", "label": "지지됨", "evidence": "Incest. Sexual image… Beloved brother —> Corpse", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/미문개/3 21 Tue Edgar allan Poe c1a8362698354848b12825ec9b6e61bb.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

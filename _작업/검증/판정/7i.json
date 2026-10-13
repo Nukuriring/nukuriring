@@ -1,0 +1,18 @@
+{
+  "id": "7i",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "다이아몬드는 현실의 어려움이 인접한 철학적 문제로 옮겨 가는 일을 굴절이라 부른다", "label": "지지됨", "evidence": "옮겨 가는 일을 굴절(deflection)이라 부르고", "note": "PAL_쟁점정리 §2.1"},
+    {"n": 1, "text": "현실의 어려움을 'experiences in which we take something in reality to be resistant to our thinking it, or possibly to be painful in its inexplicability'로 규정하고, 같은 대상이 다른 사람에게는 어려움을 주지 않을 수 있다는 점까지 규정에 넣는다(pp.45-46)", "label": "지지됨", "evidence": "전혀 주지 않을 수 있다는 점까지 규정에 포함", "note": "인용문 글자 일치"},
+    {"n": 2, "text": "휴스 「Six Young Men」의 화자는 사진 속 청년들보다 더 살아 있는 사람도 더 죽어 있는 것도 없다는 모순에 사로잡혀 평범한 언어 게임 안에서 더 말할 수 없는 자리에 서고, 할아버지 사진을 보고 묻는 아이는 설명을 들으며 언어 게임을 배워 문제가 사라진다(pp.44-45)", "label": "지지됨", "evidence": "아이는 언어 게임을 배우고…문제는 사라진다", "note": ""},
+    {"n": 3, "text": "거트먼과 싱어가 쿳시의 강연을 허구에 담긴 논증으로 읽어 상처 입은 동물로서의 코스텔로를 놓친다고 본다(pp.47-51)", "label": "지지됨", "evidence": "허구의 틀에 담긴 논증으로 읽고", "note": ""},
+    {"n": 4, "text": "굴절은 카벨의 「Knowing and Acknowledging」에서 빌린 말이며 'a philosophical or moral problem apparently in the vicinity'로 옮겨 가는 일이다(p.57)", "label": "지지됨", "evidence": "a philosophical or moral problem apparently in the vicinity", "note": ""},
+    {"n": 5, "text": "굴절이 일어나면 우리의 몸은 도덕적으로 유관한지를 따지는 사실이 되고, 한 몸 안에 머물면서 어려움을 감당하는 일은 사라진다(p.59)", "label": "지지됨", "evidence": "한 몸 안에 머물면서(inhabiting a body)", "note": ""},
+    {"n": 6, "text": "글은 사고와 현실의 어긋남이 'how much that coming apart of thought and reality belongs to flesh and blood'인지를 적는 것으로 끝난다(p.78)", "label": "지지됨", "evidence": "belongs to flesh and blood를 적어 두는 것으로 끝난다", "note": ""}
+  ],
+  "sources_used": ["문헌/@Cavell2008 Philosophy and Animal Life.md", "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/docs/claude/PAL_쟁점정리.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

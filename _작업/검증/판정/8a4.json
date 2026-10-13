@@ -1,0 +1,17 @@
+{
+  "id": "8a4",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "프레게에 따르면 평서문의 뜻은 사고이고 지시체는 진리치이다", "label": "지지됨", "evidence": "The thought…must…be the sense", "note": "진리치는 지시체: 'truth value of a sentence as constituting its reference'"},
+    {"n": 1, "text": "문장 속 낱말을 지시체가 같고 뜻이 다른 낱말로 바꾸면 사고가 달라지므로(샛별/개밥바라기 문장) 사고는 문장의 뜻이다", "label": "지지됨", "evidence": "the thought changes", "note": ""},
+    {"n": 2, "text": "'오디세우스는 …' 문장의 사고는 'Odysseus'가 지시체를 가지든 말든 같으며, 우리가 부분의 지시체를 문제 삼는 것은 문장의 진리치를 문제 삼을 때이다(pp.27-28)", "label": "지지됨", "evidence": "The thought remains the same", "note": ""},
+    {"n": 3, "text": "프레게는 'It is the striving for truth that drives us always to advance from the sense to the reference.'라고 쓰고 참과 거짓이라는 두 대상을 문장의 지시체로 받아들인다(p.28)", "label": "지지됨", "evidence": "striving for truth…sense to the reference", "note": "인용문 일치"},
+    {"n": 4, "text": "지시체가 같은 표현으로 부분을 바꾸어도 변하지 않으면서 모든 문장에 속하는 것으로는 진리치를 찾을 수 있을 뿐이라는 점에서 라이프니츠의 salva veritate 정의가 이 결론을 뒷받침한다(p.29)", "label": "지지됨", "evidence": "What else but the truth value", "note": ""},
+    {"n": 5, "text": "그 대가로 참인 문장은 모두 같은 지시체를 가지며 문장의 지시체에서는 'all that is specific is obliterated'(p.29)", "label": "지지됨", "evidence": "all that is specific is obliterated", "note": ""}
+  ],
+  "sources_used": ["문헌/@Frege1892 Über Sinn und Bedeutung.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-02_Frege-SR-2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

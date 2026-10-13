@@ -1,0 +1,18 @@
+{
+  "id": "54e",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "자미르에 따르면 사랑은 어떤 물음이 지각되지 않는 상태이다", "label": "지지됨", "evidence": "some questions are never really perceived", "note": ""},
+    {"n": 1, "text": "자미르는 로미오와 줄리엣에서 사랑에 빠지는 과정을 인식론적 관점으로 읽는다(112)", "label": "지지됨", "evidence": "epistemological basis ... falling in love", "note": "112쪽 원문은 '불만족의 인식론적 기반을 설명하려 하며 사랑에 빠지는 과정에서 시작한다'. 카드의 요약은 다소 넓지만 방향은 맞다."},
+    {"n": 2, "text": "로미오에게서 사랑은 특정한 사고의 가능성을 낮추고 내적, 외적 회의의 목소리를 침묵시키는 모양으로 나타난다", "label": "지지됨", "evidence": "a silencing of both internal and external", "note": ""},
+    {"n": 3, "text": "이 선택적 인식은 사랑에 빠지기 위한 조건일 뿐 아니라 사랑이 작동하는 방식, 곧 사랑이 무엇인가의 일부이다", "label": "지지됨", "evidence": "an aspect of how love operates", "note": ""},
+    {"n": 4, "text": "사랑은 어떤 물음이 정말로 지각되지 않는 상태이다(119)", "label": "지지됨", "evidence": "Love is a state in which some questions", "note": "119쪽 일치"},
+    {"n": 5, "text": "연인이 물음을 거부하는 모습에서 우리는 사랑 자체의 한 면을 보게 된다", "label": "지지됨", "evidence": "note an aspect of love itself", "note": ""},
+    {"n": 6, "text": "어떤 영역에서는 특정한 물음이 제기되게 두는 일이 가진 것을 놓아 버리는 일이기도 하다", "label": "지지됨", "evidence": "is a letting go of something that one has", "note": "'In some domains'가 '어떤 영역에서는'으로 유지됨"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/Shakespear/Quotes b9a5775c26ac4569aeade658be029b89.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "9b4",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "카플란에 따르면 지표사의 성격은 맥락에서 내용으로 가는 함수이다", "label": "지지됨", "evidence": "character = 맥락→내용 함수", "note": ""},
+    {"n": 1, "text": "두 화자가 같은 문장 'I am hungry'를 말하면 서로 다른 내용을 말한다", "label": "지지됨", "evidence": "같은 문장, 다른 진술", "note": ""},
+    {"n": 2, "text": "성격은 고정된 언어적 의미이고 내용은 맥락에 따라 달라지는 진술 내용이다", "label": "지지됨", "evidence": "성격(character), 곧 언어적 의미", "note": ""},
+    {"n": 3, "text": "중의어는 유한한 뜻의 목록, 지표사는 규칙 하나가 맥락마다 내용을 산출한다", "label": "지지됨", "evidence": "규칙 하나만 들고 있다", "note": ""},
+    {"n": 4, "text": "성격은 맥락→내용 함수이고 내용은 평가 상황→외연 함수이다", "label": "지지됨", "evidence": "평가 상황에서 외연으로 가는 함수", "note": ""},
+    {"n": 5, "text": "이중 지표화 덕에 같은 문장이 맥락별로 다른 진술을 내면서도 지표사는 고정 지시어일 수 있다", "label": "지지됨", "evidence": "충돌이 사라져요", "note": ""},
+    {"n": 6, "text": "진성 지시사 that은 dthat[기술](1989a) 또는 demonstratum 좌표(1989b)로 다루고, 지시 고정을 제스처에서 지시 의도로 바꾼다", "label": "지지됨", "evidence": "지시 제스처에서 지시 의도로 바꾼다", "note": ""}
+  ],
+  "sources_used": ["문헌/@Braun SEP Indexicals.md", "_원자료/claude.ai/chats/2026-06-26_Understanding indexicals.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

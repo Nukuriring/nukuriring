@@ -1,0 +1,19 @@
+{
+  "id": "8d2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "에이어는 실재론과 관념론의 형이상학적 논쟁을 관찰로 판정할 수 없는 가짜 논쟁으로 본다", "label": "지지됨", "evidence": "the problem is fictitious", "note": "p.23 'given a metaphysical interpretation'"},
+    {"n": 1, "text": "감각 경험의 세계가 전혀 실재하지 않는다는 주장을 거짓조차 되지 못하는 무의미한 말의 예로 든다(p.21)", "label": "지지됨", "evidence": "not even false but nonsensical", "note": "p.21"},
+    {"n": 2, "text": "감각이 속인다는 것은 기대가 이후 경험과 맞지 않는다는 데서 알려지므로 그 잘못을 알려 주는 것도 더 나아간 감각 경험이다", "label": "지지됨", "evidence": "further sense-experience", "note": "p.21 'it is further sense-experience that informs us of the mistakes'"},
+    {"n": 3, "text": "일원론과 다원론의 논쟁도 양쪽 모두 해결에 관련된 경험적 상황을 상상할 수 없다고 인정하므로 가짜 논쟁이 된다(pp.21-22)", "label": "지지됨", "evidence": "admitted both by monists", "note": "pp.21-22"},
+    {"n": 4, "text": "그림이 고야의 작품인지 감정하는 전문가들은 무엇이 자기 의견을 확증하거나 반박할지 안다", "label": "지지됨", "evidence": "each one knows what empirical", "note": "p.22"},
+    {"n": 5, "text": "그림이 마음속 관념들의 집합인지 객관적으로 실재하는지 다투면 어떤 경험도 그 논쟁에 관련되지 않는다(p.22)", "label": "지지됨", "evidence": "What possible experience", "note": "p.22"},
+    {"n": 6, "text": "'착각'과 대립하는 보통 의미의 '실재'는 시각과 촉각의 상관된 감각 계열로 확인되었고, '관념적'과 대립하는 의미의 '실재'를 확인할 절차는 없다(pp.22-23)", "label": "지지됨", "evidence": "Clearly there is none", "note": "pp.22-23"},
+    {"n": 7, "text": "그는 이 논쟁도 존재 명제의 분석에 관한 논리적 문제로 해석하면 정당한 문제가 된다고 덧붙인다(p.23)", "label": "지지됨", "evidence": "existential propositions", "note": "p.23 'can legitimately be regarded as a dispute concerning the analysis of existential propositions'"}
+  ],
+  "sources_used": ["문헌/@Ayer1946 Language, Truth and Logic.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-12_Ayer-LTL-1장-2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

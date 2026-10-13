@@ -1,0 +1,17 @@
+{
+  "id": "55n9",
+  "voice": "종합",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "필기는 프루프록 결말에서 바다에 가 인어의 노래를 듣는 장면을 종교적이고 초월적인 새 의미를 향한 시도로 읽고 이 시도가 충분하지 않음을 화자가 깨닫는다고 본다", "label": "지지됨", "evidence": "그러나 이것이 충분치 않다는 것을 깨닫는다", "note": ""},
+    {"n": 1, "text": "시의 끝에서 화자는 늙어 감을 말하고 바닷가를 걷는 자신을 그리다가 인어들이 서로에게 노래하는 것을 들었다고 말한다", "label": "지지됨", "evidence": "I have heard the mermaids singing, each to each", "note": "필기에 옮겨 적힌 시 본문과 일치"},
+    {"n": 2, "text": "곧이어 인어들이 자신에게는 노래하지 않을 것이라고 생각한다", "label": "지지됨", "evidence": "I do not think that they will sing to me", "note": ""},
+    {"n": 3, "text": "필기는 바다에 가 인어의 노래를 듣는 일을 화자가 종교적이고 초월적인 새로운 의미를 향해 나아가려는 시도로 읽는다", "label": "지지됨", "evidence": "종교적이고 초월적인 새로운 의미를 향한 시도", "note": ""},
+    {"n": 4, "text": "마지막 행에서 인간의 목소리가 깨우면 우리가 익사한다는 대목은 필기가 따로 풀이하지 않았다", "label": "지지됨", "evidence": "Till human voices wake us, and we drown.", "note": "시 본문만 있고 필기의 풀이는 없음"},
+    {"n": 5, "text": "새로운 의미를 찾는 노력이 방 안의 세계에서 벗어나려는 욕망과 이어지는지는 필기가 밝히지 않는다", "label": "지지됨", "evidence": "(두 대목을 잇는 필기 없음)", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/미문개/번역과 분석 cba3b6924b484209bc31a1bd718dda6a.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

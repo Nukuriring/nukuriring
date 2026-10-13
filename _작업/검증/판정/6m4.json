@@ -1,0 +1,18 @@
+{
+  "id": "6m4",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "트래비스에 따르면 일반성은 사물들이 있는 방식이라는 덩어리를 잘라 낼 때 생긴다", "label": "지지됨", "evidence": "덩어리를 셀 수 있는 것들로 분절하면서 생겨난다", "note": "2026-08-05 세션 Claude 08:03 §1.4 해설(pp.17–19)."},
+    {"n": 1, "text": "프레게는 사고가 언제나 개별 사례를 넘어서는 무언가를 담는다고 말하고, 트래비스는 그 일반성이 덩어리를 셀 수 있는 것들로 분절할 때 생긴다고 답한다", "label": "지지됨", "evidence": "사고는 언제나 개별 사례를 넘어서는 무언가를 담고", "note": ""},
+    {"n": 2, "text": "사물들이 있는 그대로 있음은 아무것도 배제하지 않는다: 지구에 달이 하나라서 그게 사물들이 있는 방식이라고 말했는데 둘째 달이 발견되면 그것이 사물들이 있는 방식이고, 어떤 발견도 사물들이 있는 그대로가 아님을 보일 수 없다(p.18)", "label": "지지됨", "evidence": "덩어리는 아무것도 배제하지 않는다", "note": ""},
+    {"n": 3, "text": "일반성은 ~로 표상하기가 덩어리에서 셀 수 있는 방식 하나를 잘라 낼 때 생기며 잘라 내면 잔여(residue)가 남는다", "label": "지지됨", "evidence": "잘라내면 반드시 잔여(residue)가 남는다", "note": ""},
+    {"n": 4, "text": "표상은 홍합이 밧줄에 자란다는 방식이 그대로인 채로 사물들이 그 밖에 어떠할 수 있는지, 곧 무엇이 잔여인지를 스스로 고정해야 하고, 'It is by such generality that given representing-as is identified as the representing that it is'(p.18)", "label": "지지됨", "evidence": "그 표상이 어떤 표상인지를 정하는 것 자체", "note": "원문 문장은 02-05 세션 각주 3과 08-06 세션에 인용됨."},
+    {"n": 5, "text": "덩어리는 분절에 제약을 걸지만 스스로 분절하지 않는다: 콩 더미는 맷돌과 레이저가 오면 다른 분절이 생기고, 사고 안에서 일어나는 분절에서 자기 분절은 아예 논외이다(p.19)", "label": "지지됨", "evidence": "맷돌과 레이저가 오면 다른 분절 선택지", "note": ""},
+    {"n": 6, "text": "트래비스는 방식들이 먼저이고 사물들이 있는 방식은 그 총체라는 McDowell(2018: 32–3)의 순서를 따르면 분절의 비유일성이 들어설 자리가 없어진다는 점만 기록해 둔다(p.19)", "label": "지지됨", "evidence": "분절의 비유일성이 들어설 자리가 없어진다", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-05_어려운 설명을 쉽게 풀어달라.md", "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-06_Frege의 근본 사상 정리 및 발표.md", "문헌/@Travis2021 Frege The Pure Business of Being True.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

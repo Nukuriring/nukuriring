@@ -1,0 +1,17 @@
+{
+  "id": "54e3",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "자미르에 따르면 사랑과 꿈은 새로운 봄과 새로운 눈멂을 함께 가져오는 차원 이동이다", "label": "지지됨", "evidence": "both a new seeing and a new blindness", "note": ""},
+    {"n": 1, "text": "사랑과 꿈에는 비례감의 상실, 규범적이고 물리적으로 올바른 것의 무시, 흐릿함이 따른다", "label": "지지됨", "evidence": "a sense of disproportion, a dismissal of", "note": ""},
+    {"n": 2, "text": "두 상태에는 새로 봄과 새로 눈멂을 함께 포함하는 변형된 지각이 있다", "label": "지지됨", "evidence": "a modified perception", "note": ""},
+    {"n": 3, "text": "가장 평범한 사건들이 이 차원 이동의 배경을 이룬다", "label": "지지됨", "evidence": "The most ordinary occurrences form the background", "note": ""},
+    {"n": 4, "text": "셰익스피어는 첫눈에 반하는 장면을 하인들이 음식을 챙기는 모습, 두 노인이 빈 회상을 되풀이하는 모습, 기억에도 남지 않는 대화 사이에 끼워 넣는다", "label": "지지됨", "evidence": "servants tucking away some food", "note": ""},
+    {"n": 5, "text": "자미르는 루어만의 연출이 첫눈에 반하는 순간 뒤에서 소변을 보는 남자를 배치해 이 관계를 포착하고, 연인을 물에 넣어 새 차원으로의 이동을 표현했다고 평가한다", "label": "지지됨", "evidence": "plunging his lovers into water", "note": "'beautifully captures'가 평가로 옮겨짐. 쪽수 미표기 인용."}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/Shakespear/Quotes b9a5775c26ac4569aeade658be029b89.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "69h5",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "도메인은 IP 주소를 문자로 나타낸 주소이고 DNS가 문자 도메인을 숫자 IP로 변환한다", "label": "지지됨", "evidence": "DNS - 문자 도메인을 숫자 IP로 변환", "note": ""},
+    {"n": 1, "text": "IP는 인터넷에서 컴퓨터를 구분하는 유일한 주소이다", "label": "지지됨", "evidence": "컴퓨터를 구분하기 위한 유일한 주소", "note": ""},
+    {"n": 2, "text": "주소는 DHCP로 자동 할당하거나 IP, 서브넷 접두사, 게이트웨이, DNS를 수동으로 정한다", "label": "지지됨", "evidence": "자동주소: DHCP", "note": "수동주소 항목 일치"},
+    {"n": 3, "text": "도메인은 IP 주소를 문자로 표현한 인터넷 주소이다", "label": "지지됨", "evidence": "IP 주소를 문자로 표현한 인터넷 주소", "note": ""},
+    {"n": 4, "text": "URL은 자원 위치를 나타내는 표준 주소 체계이며 프로토콜, 호스트 주소(도메인), 포트 번호, 파일 경로의 순서로 적는다", "label": "지지됨", "evidence": "프로토콜:// 호스트주소(도메인) 포트번호", "note": ""},
+    {"n": 5, "text": "도메인은 국제 인터넷 주소 관리 기구나 KISA에서 관리하고 실제 주소는 NSLOOKUP으로 확인한다", "label": "지지됨", "evidence": "도메인의 실제 주소 확인: 시작-cmd-NSLOOKUP", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/컴퓨터 활용 능력/컴퓨터 일반 25a97cdd867e80ada202fde979b9c028.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

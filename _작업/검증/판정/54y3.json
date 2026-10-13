@@ -1,0 +1,19 @@
+{
+  "id": "54y3",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "프랭크퍼트에 따르면 헛소리는 비난할 지점이 흐리고 반박되지 않아 퍼질수록 진실에 대한 존중을 해친다", "label": "지지됨", "evidence": "unrefutable nature of bullshit is the danger", "note": "출처는 영진의 연설이며 연설은 프랭크퍼트 책의 요약이라고 밝힘. 일부는 'I think'로 연설자 자신의 말."},
+    {"n": 1, "text": "광고주는 판매를, 정치인은 표를 얻고 싶어서 할 말이 없을 때에도 청중의 흥미를 끌 말을 만들어 낸다", "label": "지지됨", "evidence": "Advisers want sales, politicians want vote", "note": ""},
+    {"n": 2, "text": "헛소리꾼에게 중요한 것은 자기를 어떻게 내세우고 싶은가이며 현실에 대해 모험적이고 창의적인 태도를 취한다", "label": "지지됨", "evidence": "how he would like to represent himself", "note": ""},
+    {"n": 3, "text": "거짓말은 특정한 행보를 하므로 조사하면 밝혀지고 들키면 곤경에 빠진다", "label": "지지됨", "evidence": "the lie makes a specific move", "note": ""},
+    {"n": 4, "text": "헛소리는 모호하여 무엇이 문제인지 짚기 어렵고 들춰낼 방법이 없으며 추궁당하면 헛소리를 덧붙여 빠져나갈 수 있다", "label": "지지됨", "evidence": "adding out more layers of bullshit", "note": ""},
+    {"n": 5, "text": "반박 불가능성이 헛소리를 은밀하게 해로운 것으로 만든다", "label": "지지됨", "evidence": "insidious because it has no apparent", "note": ""},
+    {"n": 6, "text": "헛소리가 널리 퍼지면 진실에 대한 관심이 사라지며 이는 사회의 근본 원칙 가운데 하나에 대한 은밀한 공격이다", "label": "지지됨", "evidence": "insidious attack on one of the fundamental", "note": ""},
+    {"n": 7, "text": "영진이 쓴 결론부는 진실에 대한 존중, 책임감, 공유된 현실의 감각이 무너지면 소통과 언어와 지성이 불가능해진다고 평가한다", "label": "지지됨", "evidence": "communication, language, intellect all become impossible", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/Advanced English/outline for the speech 81463b28d6ad42e7a4f3acd450bb698a.md", "문헌/@Frankfurt2005 On Bullshit.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

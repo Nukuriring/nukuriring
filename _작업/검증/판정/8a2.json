@@ -1,0 +1,16 @@
+{
+  "id": "8a2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "프레게에 따르면 뜻은 지시체를 보장하지 않으며 말하는 이는 지시체를 전제한다", "label": "지지됨", "evidence": "we presuppose a reference", "note": ""},
+    {"n": 1, "text": "문법적으로 올바르게 만들어진 고유명은 늘 뜻을 가진다고 인정하면서도 그 뜻에 지시체가 대응한다는 보장은 없다고 본다(p.24)", "label": "지지됨", "evidence": "not certainly assured of a reference", "note": "원문은 'It may perhaps be granted'로 양보 형식. 카드의 '인정하면서도'가 양보 구조를 유지"},
+    {"n": 2, "text": "'지구에서 가장 먼 천체'는 뜻을 가지지만 지시체를 가지는지 매우 의심스럽고, '가장 느리게 수렴하는 급수'는 지시체가 없다고 알려져 있다", "label": "지지됨", "evidence": "very doubtful if they also have a reference", "note": ""},
+    {"n": 3, "text": "관념론자나 회의론자는 '달'이라는 이름에 지시체가 있다는 것을 어떻게 아느냐고 물을 수 있으며, 프레게는 '달은 지구보다 작다'라고 말하는 사람이 지시체를 전제한다고 답하고 달의 표상이 문제라고 보는 것은 뜻을 정면으로 오해하는 일이라고 덧붙인다(pp.26-27)", "label": "지지됨", "evidence": "flatly to misunderstand the sense", "note": ""},
+    {"n": 4, "text": "그 전제는 틀릴 수 있고 실제로 틀린 적도 있지만, 지시체를 언급하는 일을 정당화하려면 우선 말하거나 생각할 때의 의도를 지적하는 것으로 충분하며 'provided such reference exists'라는 단서가 붙는다(p.27)", "label": "지지됨", "evidence": "enough, at first, to point out our intention", "note": "'at first'가 카드의 '우선'에 유지됨"}
+  ],
+  "sources_used": ["문헌/@Frege1892 Über Sinn und Bedeutung.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-01_Frege-SR-1.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

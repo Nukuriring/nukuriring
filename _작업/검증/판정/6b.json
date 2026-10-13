@@ -1,0 +1,19 @@
+{
+  "id": "6b",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "트래비스에 따르면 계산가능성은 말해진 것의 정체가 함축에서 독립할 것을 요구한다", "label": "지지됨", "evidence": "cannot be features needed to individuate P", "note": "close reading 세션 Claude 05:05 해설 B항(p.21)."},
+    {"n": 1, "text": "그라이스는 대화적 함축의 현존이 논증으로 도출될 수 있어야 한다고 요구하고, 그 패턴을 '그는 p를 말했다'에서 '따라서 그는 q를 함축했다'로 제시한다", "label": "지지됨", "evidence": "논증으로 도출될 수 있어야", "note": ""},
+    {"n": 2, "text": "P와 P′이 서로 다른 말해질 것이고 Q가 함축될 수 있다면 어느 쪽이 말해졌는지는 Q의 함축 여부에 의존할 수 없고, 그 여부에 따른 특징은 P를 개체화하는 데 필요한 특징일 수 없다(p.21)", "label": "지지됨", "evidence": "cannot be features needed to individuate P", "note": ""},
+    {"n": 3, "text": "근거는 인식적 어휘로 진술된다: 그런 특징을 알아보지 않고는 P가 말해졌음을 알 수 없다면 거기서 Q를 도출할 수 없다", "label": "지지됨", "evidence": "unless it could be known … work out", "note": "05:47 Claude의 세 마디 분해와 일치."},
+    {"n": 4, "text": "대화는 인식적 진술에서 개체화 진술로 넘어가는 이행을 그라이스 요구의 재기술로 읽었다", "label": "지지됨", "evidence": "그래서 답은 (나)입니다", "note": ""},
+    {"n": 5, "text": "계산가능성은 대화적 함축으로 분류될 자격의 요건이므로 도출이 순환하면 그 항목은 자격을 잃는다", "label": "지지됨", "evidence": "자격 판정이지 인식 상태 보고가 아닙니다", "note": ""},
+    {"n": 6, "text": "관행적 함축은 의미에 붙어 변하지 않으므로 변하는 항목을 받지 못하고, 그 항목은 말해진 것으로 돌아오며, 이는 A-테제가 처음부터 주장하던 바이다(대화 속 설명)", "label": "지지됨", "evidence": "말해진 것으로 귀환 → A-테제 승리", "note": "05:55 Claude 경로 재구성."},
+    {"n": 7, "text": "트래비스가 2부에서 결정 기제를 양보하므로 이 요구는 형식상 남지만, 그것이 보장하던 접근 순서는 의미 결박이 무너질 때 함께 사라진다(대화 속 정리)", "label": "지지됨", "evidence": "형식상 생존, 실질 무력화", "note": "06:47 Claude 보장 (가)(나) 설명 및 09:15 V절 표."}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-04_단행본 첫 논문 close reading 세션.md", "문헌/@Travis1985 On What Is Strictly Speaking True.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

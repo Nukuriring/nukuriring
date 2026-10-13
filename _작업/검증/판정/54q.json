@@ -1,0 +1,18 @@
+{
+  "id": "54q",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "월러스에 따르면 반응적 태도는 의지의 질에 대한 반응이며 요구와 손상으로 정의된다", "label": "지지됨", "evidence": "‘의지의 질’에 반응하여 생성되는 태도", "note": ""},
+    {"n": 1, "text": "월러스는 스트로슨의 전통에서 책임을 질 수 있는 행위자를 반응적 태도들의 적합한 대상이 되는 행위자로 본다", "label": "지지됨", "evidence": "책임을 질 수 있는 행위자 = 반응적 태도들의 적합한 대상", "note": ""},
+    {"n": 2, "text": "반응적 태도는 타인이 우리에게 보이는 의지의 질에 대한 반응이다", "label": "지지됨", "evidence": "우리에게 보여지는 ‘의지의 질’에 반응하여 생성되는 태도", "note": ""},
+    {"n": 3, "text": "반응적 태도는 관련된 요구로 정의된다", "label": "지지됨", "evidence": "reactive attitude는 관련된 demand에 의해서 정의된다", "note": ""},
+    {"n": 4, "text": "요구가 충족되지 않을 때 손상이 생기며 요구가 충족되지 않는 일이 곧 도덕적 손상이나 도발을 이룬다", "label": "지지됨", "evidence": "요구가 만족되지 않는 것 자체가 도덕적 손상 혹은 도발을 구성", "note": ""},
+    {"n": 5, "text": "상대가 우리가 기대하거나 요구하는 수준의 고려와 관심을 기울이지 않을 때 손상이 일어난다", "label": "지지됨", "evidence": "기대하거나 요구하는 수준의 고려나 관심을 기울이지 못할 때", "note": ""},
+    {"n": 6, "text": "규범적 기대는 반응적 감정과 독립해 분석될 수 없고 둘이 함께 이해되어야 한다", "label": "지지됨", "evidence": "not avialiable to be analyzed independently ... 동시에 이해되어야", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2025-1/독서 모임/resoinsibility and reactive attitudes 1d497cdd867e8079885dd8efc2bcce7d.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

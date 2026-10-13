@@ -1,0 +1,18 @@
+{
+  "id": "8c3",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "콰인에 따르면 진리 보존 교환 가능성은 분석성을 전제하지 않고는 동의성을 보장하지 못한다", "label": "지지됨", "evidence": "already understood in advance", "note": "p.258: 외연 언어에서는 불충분, 내포 부사가 있는 언어에서는 분석성의 선이해가 필요"},
+    {"n": 1, "text": "콰인은 두 언어 형식의 동의성이 모든 문맥에서 진리치를 바꾸지 않고 교환할 수 있음이라는 라이프니츠식 제안을 검토한다(p.255)", "label": "지지됨", "evidence": "in Leibniz’s phrase, salva veritate", "note": ""},
+    {"n": 2, "text": "'\"Bachelor\" has less than ten letters' 같은 반례는 낱말 안의 부분적 나타남을 제외하면 처리할 수 있으며, 이로써 동의성 문제는 낱말 개념의 문제로 옮겨진다(pp.255-256)", "label": "부분 지지", "evidence": "can, however, perhaps be set aside", "note": "원문은 반례를 '아마(perhaps) 제쳐 둘 수 있다'고 하고, 낱말 문제로의 환원은 '어느 정도 진전을 주장할 수 있을 것이다(some progress might be claimed)'로 한정함. 카드는 '처리할 수 있으며', '옮겨진다'로 단정"},
+    {"n": 3, "text": "남는 물음은 이 교환 가능성이 인지적 동의성의 충분조건인가이며, '필연적으로 모든 총각과 오직 총각만이 총각이다'에 '결혼하지 않은 남자'를 대입한 결과가 참이면 두 말은 인지적으로 동의적이다(pp.256-257)", "label": "지지됨", "evidence": "evidently true, even supposing ‘necessarily’", "note": ""},
+    {"n": 4, "text": "이 논증은 분석적 진술에 붙을 때에만 참이 되는 부사 '필연적으로'를 가진 언어를 가정하고, 그런 부사를 이해한다는 것은 이미 분석성을 이해했다는 뜻이다", "label": "지지됨", "evidence": "we have already made satisfactory sense of ‘analytic’", "note": ""},
+    {"n": 5, "text": "콰인은 이 논증이 곧바로 순환하지는 않지만 비유적으로 말해 'a closed curve in space'의 꼴을 가진다고 말한다(p.257)", "label": "지지됨", "evidence": "not flatly circular, but something like it", "note": ""},
+    {"n": 6, "text": "진리 함수와 양화만 가진 외연 언어에서는 외연이 같은 술어가 모두 교환 가능하므로, 교환 가능성은 '총각'과 '결혼하지 않은 남자'의 일치가 의미에 근거하는지 '심장을 가진 동물'과 '신장을 가진 동물'처럼 우연한 사실에 근거하는지 구별하지 못한다(pp.257-258)", "label": "지지됨", "evidence": "no assurance here that the extensional agreement", "note": ""}
+  ],
+  "sources_used": ["문헌/@Quine1951 Two Dogmas of Empiricism.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-09_Quine-TwoDogmas-2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

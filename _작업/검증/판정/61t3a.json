@@ -1,0 +1,19 @@
+{
+  "id": "61t3a",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "접근 가능한 조건은 평범한 사례와 회의적 짝에서 같아지므로 증거를 늘 알 수 있다는 원칙은 회의주의로 이어진다", "label": "부분 지지", "evidence": "another temptation to scepticism", "note": "원문은 '회의주의의 유혹'인데 제목은 '회의주의로 이어진다'로 강하게 씀. 본문 끝에서는 '유혹이 생긴다'로 정확함"},
+    {"n": 1, "text": "윌리엄슨은 어떤 조건 C를 우리가 늘 알 수 있는 처지에 있다고 가정하고 평범한 사례 a와 그 회의적 짝 a*를 비교한다", "label": "지지됨", "evidence": "Suppose that one is always in a position to know whether a condition C", "note": ""},
+    {"n": 2, "text": "a*에서 우리는 a에 있지 않지만 a에 있는 것처럼 보이고, 자신이 a에 있는지 알 수 없다", "label": "지지됨", "evidence": "for all one knows one is in a", "note": ""},
+    {"n": 3, "text": "C가 a에서 성립하면 a*에서도 우리는 C가 성립하는 상황에 있을지 모른다", "label": "지지됨", "evidence": "for all one knows in a*, one is in a situation in which C obtains", "note": ""},
+    {"n": 4, "text": "a*에서 C가 성립하지 않는다면 a*에서 C가 성립하는지 알 수 있는 처지에 있지 않게 되어 가정에 어긋나므로 C는 a*에서 성립한다", "label": "지지됨", "evidence": "Therefore, C obtains in a*", "note": ""},
+    {"n": 5, "text": "평행한 논증으로 C가 a에서 성립하지 않으면 a*에서도 성립하지 않는다", "label": "지지됨", "evidence": "By a parallel argument", "note": ""},
+    {"n": 6, "text": "그러므로 C는 평범한 사례와 회의적 짝의 차이에 둔감하고, 그런 둔감성을 보이는 분명한 후보는 심적 상태뿐이다", "label": "지지됨", "evidence": "Mental states are the only obvious candidates", "note": ""},
+    {"n": 7, "text": "여기에 우리가 자신의 증거가 무엇인지 늘 알 수 있다는 원칙을 더하면 평범한 사례와 회의적 짝에서 증거가 정확히 같다는 결론이 나오고, 그러면 어느 쪽에 있는지 어떻게 아느냐는 새로운 회의주의의 유혹이 생긴다", "label": "지지됨", "evidence": "exactly the same evidence in an ordinary case", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/윈랤슨 지식과 그 한계 서론 35697cdd867e81d7ba30ecfe05c182ca.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

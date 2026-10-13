@@ -1,0 +1,19 @@
+{
+  "id": "9a1c",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "세인즈버리에 따르면 인물의 창조는 이야기의 창조에서 파생된다", "label": "지지됨", "evidence": "derivative on the creation of the story", "note": "ARG-5 P2 (pp.55-56, 검증 로그 ◎)"},
+    {"n": 1, "text": "추상적 인공물론의 간판 증거는 '홈즈는 코난 도일이 창조했다'라는 작가적 문장이다", "label": "지지됨", "evidence": "창조주의의 간판 증거", "note": "정밀추출 노트 §1(다) 2번. '간판 증거'는 노트의 표현이며 논문은 이 문장을 실재론자가 내미는 5종 문장 가운데 하나로 둠"},
+    {"n": 2, "text": "어떤 홈즈 이야기도 이 내용을 말하지 않으므로 이 문장의 참은 허구 바깥에서 성립하는 실제 참이고, 실재론자는 '홈즈'가 도일이 창조한 무언가를 강한 의미로 가리켜야(refer*) 한다고 추론한다", "label": "지지됨", "evidence": "허구 안에서 참이 아니라 실제로 참", "note": "ARG-5 '실재론자의 추론(표적)'"},
+    {"n": 3, "text": "세인즈버리는 이 문장이 실제로 참임을 인정하고 추론의 다음 단계를 끊는다", "label": "지지됨", "evidence": "(2)는 실제로 참이지만", "note": "ARG-5 C1, V3"},
+    {"n": 4, "text": "도일이 한 일은 종이에 단어를 쓴 것이고, 홈즈의 창조는 'derivative on the creation of the story'이다", "label": "지지됨", "evidence": "종이에 단어를 쓴 것", "note": "ARG-5 P1·P2 (pp.55-56)"},
+    {"n": 5, "text": "도일이 그에 따르면 홈즈가 존재하는 이야기를 창조했다는 진술들은 '홈즈'의 강한 지칭을 함의하지 않으면서도 'exhaust what it takes to have created Holmes'이다", "label": "지지됨", "evidence": "exhaust what it takes to have", "note": "ARG-5 P3, 검증 로그 ◎"},
+    {"n": 6, "text": "강한 지칭을 요구하는 진리조건은 존재 함의 술어에만 적용되어야 하고, 허구적 창조는 소설이 실제로 생겨난다는 존재 함의 측면과 소설이 표상하는 것의 실재를 요구하지 않는 측면을 함께 지닌다", "label": "지지됨", "evidence": "존재 함의 술어에 한정해야 한다", "note": "ARG-5 C2"},
+    {"n": 7, "text": "세인즈버리는 무언가 실재하는 것이 창조되었다는 점을 인정하고 그 대상을 인물에서 작품으로 옮긴다: 소설은 실재하는 것이되 'represent rather than represent*'한다", "label": "지지됨", "evidence": "represent rather than represent*", "note": "ARG-5 '양보'(오귀착 진단), 검증 로그 ◎"}
+  ],
+  "sources_used": ["문헌/@Sainsbury2021 Fictional Names, Reference, Definiteness and Ontology.md", "_원자료/로컬/수능_원료/지문/_완료/허구적이름/자료노트_세인즈버리_창조주의비판_정밀추출_20260617.md", "_원자료/로컬/수능_원료/지문/_완료/허구적이름/자료노트_세인즈버리_수용상대적참_20260616.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

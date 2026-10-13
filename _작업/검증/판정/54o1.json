@@ -1,0 +1,19 @@
+{
+  "id": "54o1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "데카르트적 탐구는 최선의 경우에서 시작해 발견과 실망으로 끝나고 실천에서는 불안정하다", "label": "지지됨", "evidence": "practically unstable", "note": ""},
+    {"n": 1, "text": "탐구는 최선의 경우, 곧 우리 모두가 똑같이 전문가인 종류의 예를 살피는 데서 시작하고 그 예에 의지한다", "label": "지지됨", "evidence": "a best case of knowledge. which we are all equally experts", "note": "원문 영어 대목은 문장이 일부 끊겨 있음"},
+    {"n": 2, "text": "그런 사례가 의심에 취약하다고 밝혀지고 결론은 이 후보에서 같은 종류의 모든 것으로 일반화된다", "label": "지지됨", "evidence": "Such a case is shown to be vulnerable to doubt.", "note": ""},
+    {"n": 3, "text": "이렇게 탐구는 발견에 이르고 실망의 기분으로 끝난다", "label": "지지됨", "evidence": "ends in a mood of disappointment", "note": ""},
+    {"n": 4, "text": "실망은 가능하다고 여겼던 일이 어떻게 현실일 수 있는지 보일 수 없다는 데서 나오며 우리가 할 수 없는 일이 있는 것처럼 보이게 한다", "label": "지지됨", "evidence": "It looks as if there is something we cannot do.", "note": ""},
+    {"n": 5, "text": "그 무능은 건널 수 없어 보이는 데카르트적 간극의 귀결이다", "label": "지지됨", "evidence": "a gap we seem to be unable to bridge", "note": ""},
+    {"n": 6, "text": "회의주의적 발견은 실천으로 옮겨질 수 없고 우리는 그 간극을 건널 수 있는 것처럼 살아야 하므로 실천적으로 불안정하다", "label": "지지됨", "evidence": "we are obliged to live as if we could bridge the gap", "note": ""},
+    {"n": 7, "text": "이 대목은 출처가 표기되어 있지 않다", "label": "지지됨", "evidence": "(출처 표기 없는 영어 인용)", "note": "필기에 출처 표기가 없음을 확인"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/서근철 a8162ab7ad954916b6f0d2d705a405f3.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

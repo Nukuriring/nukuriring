@@ -1,0 +1,19 @@
+{
+  "id": "9a1b",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "세인즈버리는 추상적 인공물론이 내세우는 술어의 중의성이 실재하지 않는다고 논증한다", "label": "지지됨", "evidence": "these readings are not available", "note": "정밀추출 노트 ARG-2 (pp.53-54, 원문 인용 대조 로그 ◎)"},
+    {"n": 1, "text": "2021년 논문에서 허구적 대상 실재론의 세 선택지 가운데 현실적 추상물 선택지를 추상적 인공물 이론이라 부르고, 그 출처로 토마슨 1999만 명시한다", "label": "지지됨", "evidence": "the abstract artifact theory", "note": "정밀추출 노트 §0(1)(2), §1(라), 검증 로그 'Thomasson 1999 = 본문 유일 명시 인용'"},
+    {"n": 2, "text": "추상물은 베이커가에 살 수 없으므로 이 이론은 술어 부착에 두 읽기, 즉 즉자 읽기와 표상 읽기를 도입해야 한다", "label": "지지됨", "evidence": "예화/표상 이중성을 도입할 수밖에", "note": "ARG-1 (p.53)"},
+    {"n": 3, "text": "세인즈버리는 진짜 중의성이라면 부적절한 읽기도 들을 수 있다고 지적한다('always possible to hear the other reading')", "label": "지지됨", "evidence": "always possible to hear the other reading", "note": "ARG-2 P1, 검증 로그 ◎"},
+    {"n": 4, "text": "이 이론이 옳다면 '홈즈는 베이커가에 살았다'를 즉자 읽기로 들어 거짓으로, '홈즈는 코난 도일이 창조했다'를 표상 읽기로 들어 거짓으로 판정할 수 있어야 하는데 'these readings are not available'(pp.53-54)", "label": "지지됨", "evidence": "these readings are not available", "note": "ARG-2 P2·P3"},
+    {"n": 5, "text": "그러므로 그 중의성은 언어에 실재하지 않으며 이론이 필요로 하는 장치에 그친다", "label": "지지됨", "evidence": "이론이 지어낸 가설적 장치", "note": "ARG-2 C"},
+    {"n": 6, "text": "이 이론은 추상물이 존재하고 홈즈를 존재하는 것으로 표상하므로 '홈즈는 존재하지 않는다'의 참도 특히 살리기 어렵다(p.54)", "label": "지지됨", "evidence": "특히 살리기 어렵다", "note": "ARG-3. '특히' 한정 유지"},
+    {"n": 7, "text": "세인즈버리는 이 비판들이 선택지마다 하나씩 제시한 'a sample problem'이며 충분한 논의는 2010년 책에 있다고 밝힌다(p.53, 각주 6)", "label": "지지됨", "evidence": "a sample problem", "note": "§0(3), 검증 로그 ◎"}
+  ],
+  "sources_used": ["문헌/@Sainsbury2021 Fictional Names, Reference, Definiteness and Ontology.md", "_원자료/로컬/수능_원료/지문/_완료/허구적이름/자료노트_세인즈버리_창조주의비판_정밀추출_20260617.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

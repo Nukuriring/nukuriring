@@ -1,0 +1,16 @@
+{
+  "id": "55b3",
+  "voice": "문헌",
+  "verdict": "원문없음",
+  "claims": [
+    {"n": 0, "text": "강의는 에머슨을 희망당으로, 호손과 멜빌을 기억과 회의 쪽에 놓아 미국 르네상스를 두 입장의 긴장으로 읽는다", "label": "부분 지지", "evidence": "Party of Hope, Party of Memory", "note": "희망당과 기억당의 구분은 필기에 있으나, 미국 르네상스를 두 입장의 '긴장'으로 읽는다는 말은 필기에 없음."},
+    {"n": 1, "text": "3월 14일 강의는 Party of Hope, Party of Memory라는 구분을 쓴다. 희망당은 미래의 가능성을, 기억당은 과거의 실패를 바라본다", "label": "지지됨", "evidence": "미래의 가능성과, 과거의 실패", "note": "필기의 3월 14일 페이지에 있음"},
+    {"n": 2, "text": "에머슨은 스스로 희망당에 속한다고 여겼고 호손과 멜빌 같은 작가는 더 회의적이다", "label": "지지됨", "evidence": "호쏜과 멜빌과 같은 인간들은 좀 더 회의적이다", "note": ""},
+    {"n": 3, "text": "3월 16일 강의는 기억당의 시선을 호손에게서 구체화한다. 기억당은 역사와 외상, 뉴잉글랜드가 입은 상처를 죄책감의 의미에서 되돌아본다", "label": "지지됨", "evidence": "Party of memory. looks back to history, trauma", "note": "3월 16일 필기 첫머리에서 Young Goodman Brown과 상속된 죄를 연결"},
+    {"n": 4, "text": "이 구분은 같은 시기 같은 지역에서 자기 해방의 낙관과 상속된 죄의 의식이 함께 나왔다는 점을 보여 준다", "label": "원문에 없음", "evidence": "", "note": "필기에 같은 시기 같은 지역에서 두 입장이 함께 나왔다는 서술이 없음. 카드의 해석."}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/미문개/3 14 Tue 8d38b52b9a254534987f65f7be88e473.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/미문개/3 16 Thur abeafed833744178904daafb2716bba2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "8a1a",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "프레게는 번역과 시의 색조와 although의 조명을 뜻 바깥에 둔다", "label": "지지됨", "evidence": "has no sense…only illuminates it", "note": "although는 p.37, 색조는 p.26(표상 층)"},
+    {"n": 1, "text": "프레게는 낱말과 표현과 문장 사이의 차이를 표상에만 관련된 차이, 뜻에 관련되지만 지시체에는 관련되지 않는 차이, 지시체까지 관련된 차이의 세 층으로 나눈다(p.26)", "label": "지지됨", "evidence": "three levels of difference", "note": ""},
+    {"n": 2, "text": "번역과 원문 사이의 차이는 첫째 층을 넘어서는 안 되며, 시적 웅변이 뜻에 입히는 색조와 음영도 이 층에 넣는다", "label": "지지됨", "evidence": "should properly not overstep the first level", "note": ""},
+    {"n": 3, "text": "이 색조는 객관적이지 않으므로 청자나 독자가 시인이나 화자의 암시에 따라 저마다 불러일으켜야 한다", "label": "지지됨", "evidence": "must be evoked by each hearer or reader", "note": ""},
+    {"n": 4, "text": "'although'는 뜻을 갖지 않고 절의 뜻을 바꾸지도 않으며 절을 독특한 방식으로 조명할 뿐이고(p.37), 각주 17은 'but'과 'yet'도 마찬가지라고 덧붙인다", "label": "지지됨", "evidence": "does not change the sense of the clause", "note": "각주 17: 'Similarly in the case of but, yet.'"},
+    {"n": 5, "text": "'although'절을 진리치가 같은 다른 절로 바꾸어도 전체의 참은 해를 입지 않지만, 'as if a song with a sad subject were to be sung in a lively fashion' 어울리지 않아 보일 수 있다(p.37)", "label": "지지됨", "evidence": "easily appear unsuitable", "note": "'might then easily appear'의 한정이 카드의 '보일 수 있다'에 유지됨"}
+  ],
+  "sources_used": ["문헌/@Frege1892 Über Sinn und Bedeutung.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-01_Frege-SR-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-03_Frege-SR-3.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-Frege-SR_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

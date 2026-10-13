@@ -1,0 +1,17 @@
+{
+  "id": "8e3",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "그라이스에 따르면 화자의 의도를 알아보는 일은 청자에게 원인을 넘어 이유가 되어야 한다", "label": "지지됨", "evidence": "a reason and not merely a cause", "note": "p.385"},
+    {"n": 1, "text": "내가 특정 방식으로 끙 소리를 내면 얼굴을 붉히거나 병이 나도록 되어 있는 사람이 그 소리와 함께 내 의도를 알아볼 때마다 얼굴을 붉혀도, 그라이스는 그 소리가 무언가를 비자연적으로 의미한다고 말하지 않는다(p.385)", "label": "지지됨", "evidence": "he did blush or incur", "note": "p.385 'I do not think so'"},
+    {"n": 2, "text": "이 사례는 의도된 효과가 어떤 의미에서 청자의 통제 안에 있어야 하며, 의도를 알아보는 일이 청자에게 'a reason and not merely a cause'여야 함을 보여 준다(p.385)", "label": "부분 지지", "evidence": "in some sense of 'reason'", "note": "원문은 'must be something which in some sense is within the control of the audience, or that in some sense of reason the recognition... is for the audience a reason and not merely a cause'로 두 조건을 'or'로 잇고 'reason'에도 'in some sense of'를 붙임. 카드는 두 조건을 '그리고'로 잇고 두 번째의 'in some sense of reason' 한정을 뺌"},
+    {"n": 3, "text": "믿을 이유와 행할 이유가 다르다는 반론에 대해, 의도를 알아보아 믿을 이유를 가지는 일이 무언가를 받아들일 동기를 가지는 일과 꽤 비슷하다고 답한다: 'Decisions that seem to involve decisions to'이며 그래서 우리는 믿기를 거부할 수도 있고 믿도록 강요받을 수도 있다(pp.385-386)", "label": "지지됨", "evidence": "Decisions 'that' seem to", "note": "pp.385-386 'is at least quite like having a motive for accepting', 인용문 일치"},
+    {"n": 4, "text": "그는 화자의 일차 의도(primary intention)만 발화의 비자연적 의미에 관련된다고 본다(p.386)", "label": "지지됨", "evidence": "the primary intention", "note": "p.386 '(insofar as I am right) only what I may call the primary intention'. 괄호 한정은 귀속 동사 '본다'로 흡수"},
+    {"n": 5, "text": "내가 정보를 주어 상대가 무언가를 하게 하려 할 때, 상대가 할 일은 정보로 생긴 효과에만 의존하고 내 의도의 인지에 의존하지 않으므로 발화의 의미를 기술하는 데 들어가지 않는다", "label": "부분 지지", "evidence": "insofar as the occurrence of F", "note": "원문은 'insofar as the occurrence of F is thought to be dependent solely on E'라는 조건 아래서 F가 의도의 인지에 의존하지 않는다고 한 것인데, 카드는 이 조건을 빼고 일반 서술로 바꿈"}
+  ],
+  "sources_used": ["문헌/@Grice1957 Meaning.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-21_Grice-Meaning-2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

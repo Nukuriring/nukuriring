@@ -1,0 +1,19 @@
+{
+  "id": "8e2a",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "그라이스는 의도 분석을 명령의 경우로 넓히고 무시간적 의미를 화자 의미로 설명하려 한다", "label": "지지됨", "evidence": "might as a first shot be equated", "note": "pp.384-385"},
+    {"n": 1, "text": "그라이스는 정보를 주는 경우라는 가정을 거두고 명령에 가까운 경우를 검토한다(p.384)", "label": "지지됨", "evidence": "time to drop the pretense", "note": "p.384"},
+    {"n": 2, "text": "탐욕스러운 사람을 방에서 내보내려고 창밖으로 지폐를 던지는 일은 그가 내 목적을 알아보는 것이 그의 퇴장에 효과를 내도록 의도하지 않았으므로 비자연적 의미를 갖지 않는다", "label": "지지됨", "evidence": "did not intend his recognition", "note": "p.384"},
+    {"n": 3, "text": "문을 가리키거나 살짝 미는 일은 내 의도를 알아보는 것이 그의 퇴장을 재촉하도록 의도되었으므로 의미를 가질 수 있으며, 차 앞을 막아 세우는 경찰과 손을 흔들어 세우는 경찰도 같은 대비를 이룬다", "label": "지지됨", "evidence": "might well be held", "note": "p.384. 경찰 두 경우는 원문이 'Another pair of cases'로만 제시하고 어느 쪽이 의미 사례인지 명시하지 않으나 앞 대비의 연장으로 읽는 것이 자연스러움"},
+    {"n": 4, "text": "시험관이 낙제시켜 상대를 괴롭게 하는 일은 그 효과와 의도의 인지까지 의도해도 의미를 갖지 않지만, 길에서 아는 사람을 모른 척하는 일(cut)은 상대가 내 의도를 알아보지 않으면 상처받으리라 기대할 수 없으므로 의미 쪽에 가깝다(p.384)", "label": "지지됨", "evidence": "should not be inclined to say", "note": "p.384 시험관 사례는 'I should not be inclined to say'(그렇게 말하고 싶지 않다)로 서술되는데 카드는 평서로 옮겼으나 cut 사례의 '가깝다' 한정은 유지됨. 판정 영향은 크지 않다고 봄"},
+    {"n": 5, "text": "첫째 일반화: 'A가 x로 무언가를 의미했다'는 A가 x의 발화로 이 의도의 인지를 통해 청자에게 어떤 효과를 낳으려고 의도했다는 것과 대략 같다(p.385)", "label": "지지됨", "evidence": "(roughly) equivalent to", "note": "p.385 (1)"},
+    {"n": 6, "text": "둘째 일반화: 'x가 무언가를 의미했다'는 누군가 x로 무언가를 의미했다는 것과 대략 같지만, 신호등의 빨간불처럼 잘 들어맞지 않는 경우가 있다", "label": "지지됨", "evidence": "will be cases where this", "note": "p.385 (2)"},
+    {"n": 7, "text": "셋째 일반화: 'x가 무시간적으로 무엇을 의미한다'는 첫 시도로서 '사람들'이 x로 무엇을 낳으려 의도하는지에 관한 진술과 같다고 볼 수 있다", "label": "지지됨", "evidence": "as a first shot", "note": "p.385 (3) '한정어 볼 수 있다' 유지"}
+  ],
+  "sources_used": ["문헌/@Grice1957 Meaning.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-21_Grice-Meaning-2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

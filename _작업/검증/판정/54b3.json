@@ -1,0 +1,16 @@
+{
+  "id": "54b3",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "카벨에 따르면 오델로는 데스데모나의 피를 흘렸든 아니든 자신이 오염된다는 논리에 갇힌다", "label": "지지됨", "evidence": "Either way, I am contaminated", "note": ""},
+    {"n": 1, "text": "카벨은 마지막 살인 장면에서 결혼 침대보를 내보이는 일이 흔적으로 순결을 증명하는 관행을 가리킨다고 본다", "label": "부분 지지", "evidence": "Cavell seems to claim that the exhibition", "note": "원문은 영진이 'seems to claim'으로 유보해 적었는데 카드는 '본다'로 단정했다. 원문 인용은 'can only refer to the practice of proving purity by staining'."},
+    {"n": 2, "text": "오델로의 논리: 피를 흘려 상처를 냈거나 내지 않았다. 내지 않았다면 처녀가 아니었고 얼룩이다. 냈다면 더 이상 처녀가 아니고 이것도 얼룩이다", "label": "지지됨", "evidence": "Either I shed her blood and scarred her", "note": ""},
+    {"n": 3, "text": "카벨은 어떤 답이 나와도 괴로우므로 고문의 내용이 물음 자체라고 읽는다", "label": "지지됨", "evidence": "not the answer ... but the question itself", "note": ""},
+    {"n": 4, "text": "데스데모나는 오델로를 위해 순결과 완전함을 기꺼이 포기했고, 오델로는 그 희생을 받아들이지 못한다. 받아들이면 자신이 완전하지 않기 때문이다", "label": "지지됨", "evidence": "It is the sacrifice he could not accept", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/Annotated Bib d226e7d2e87a45cc9a5e0308eb9f6818.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

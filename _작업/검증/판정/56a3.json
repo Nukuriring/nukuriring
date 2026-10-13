@@ -1,0 +1,18 @@
+{
+  "id": "56a3",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "필기는 위대한 집사의 자질로 내세운 긍지의 기준이 논란에 빠지는 것을 가치 자체가 흔들리는 징후로 읽는다", "label": "지지됨", "evidence": "가치 자체가 흔들리는 시점이라는 사실을 반증한다", "note": ""},
+    {"n": 1, "text": "3월 9일 필기는 위대한 집사의 자질로 긍지(dignity)를 내세우는 대목을 읽는다", "label": "지지됨", "evidence": "Dignity - Quality of Great Butler", "note": ""},
+    {"n": 2, "text": "스티븐즈는 긍지가 타고나는지 정진으로 얻는지를 둘러싼 논쟁을 소개하고 세 가지 일화로 전문성을 설명하려 한다", "label": "지지됨", "evidence": "논쟁: 타고난 것 - 정진하기 - Dignity.", "note": "필기는 'Three stories. Professionality.'로 적음."},
+    {"n": 3, "text": "긍지에 대해 분석하고 이론을 세우는 일을 멈추지 못한다", "label": "지지됨", "evidence": "philosphizing on dignity. cannot stop thinking.", "note": ""},
+    {"n": 4, "text": "일화에는 아들을 죽인 사람에게는 분노하지 않으면서 주인을 모욕한 사람은 응징하는 종류의 긍지도 등장한다", "label": "지지됨", "evidence": "주인을 모욕한 자에게 응징을 가하는 종류의 dignity", "note": ""},
+    {"n": 5, "text": "필기는 두드러지고 드러나는 것을 꺼리는 스티븐즈의 태도와 감정이나 매력에 지배당하는 일에 대한 거부에서 절제와 자기통제를 읽고, 이것이 어떤 의미에서 자기가 자기의 주인이 되는 일인지 묻는다", "label": "지지됨", "evidence": "어떤 의미의 자기통제인가?", "note": ""},
+    {"n": 6, "text": "기준을 두고 논란이 이어지고 권위가 그 논란을 매듭짓지 못한다", "label": "지지됨", "evidence": "권위에 의해서 settle되지 않는 논란.", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/영문학 특강/3 9 Thur Salisbury Day one - Evening e368618e24ba4f5fbade546624f374b4.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

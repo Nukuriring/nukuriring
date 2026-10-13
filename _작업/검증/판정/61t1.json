@@ -1,0 +1,19 @@
+{
+  "id": "61t1",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "앎의 귀속은 시간적으로 떨어진 행위의 인과 설명에서 참인 믿음의 귀속보다 행위의 성공을 잘 설명한다", "label": "부분 지지", "evidence": "Attributions of knowledge often explain the success", "note": "원문은 'often'(흔히)인데 제목은 '잘 설명한다'로 단정함"},
+    {"n": 1, "text": "윌리엄슨은 진정한 심적 상태라면 행위의 인과 설명에 의미 있게 등장해야 한다고 본다", "label": "지지됨", "evidence": "We expect genuine mental states to occur significantly", "note": ""},
+    {"n": 2, "text": "많은 철학자는 인과 설명에서 앎의 귀속을 믿음의 귀속으로 손실 없이 대체할 수 있다고 가정하지만 윌리엄슨은 이 가정이 의심스럽다고 쓴다", "label": "지지됨", "evidence": "This assumption is questionable", "note": ""},
+    {"n": 3, "text": "행위는 대체로 환경과 복잡하게 상호작용하고 성공하려면 지속적인 피드백이 필요하며, 책을 쓰는 일이 쓰는 도중에 읽기를 포함하는 것이 한 예이다", "label": "지지됨", "evidence": "writing a book involves reading during the process", "note": ""},
+    {"n": 4, "text": "p를 아는 사람의 믿음은 p를 참으로 믿기만 하는 사람의 믿음보다 증거에 견고해서, 새 증거를 발견해도 믿음을 잃을 가능성이 낮다", "label": "지지됨", "evidence": "less likely to lose belief in p", "note": ""},
+    {"n": 5, "text": "p에 대한 지속적인 믿음에 의존하는 연장된 행위는 처음에 p를 아는 경우에 완수될 가능성이 더 높다", "label": "지지됨", "evidence": "more likely to complete an extended action", "note": ""},
+    {"n": 6, "text": "골드바흐의 추측이 참임을 아는 사람은 그렇게 믿고 우연히 참인 사람보다 수학 논문을 쓰기에 더 좋은 처지에 있다", "label": "지지됨", "evidence": "better placed to write a mathematical paper", "note": ""},
+    {"n": 7, "text": "행위를 기본 행위들의 연쇄로 분석해도 이 점에는 답하지 못한다. 기본 행위의 인과 설명도 시간적으로 떨어진 심적 상태를 인용하고, 숙고와 완수 사이의 간격에서 앎과 참인 믿음의 차이가 행위에 나타나기 때문이다", "label": "부분 지지", "evidence": "even of basic actions often cite mental states at a temporal distance", "note": "원문은 'often cite'(흔히 인용)인데 카드는 '인용하고'로 단정함. 또 원문 'allows ... to manifest'(나타날 수 있게 함)도 '나타나기 때문'으로 단정됨"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/윈랤슨 지식과 그 한계 서론 35697cdd867e81d7ba30ecfe05c182ca.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "54e2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "자미르에 따르면 로미오는 시야를 좁히고 줄리엣은 지각을 선택적으로 조율한다", "label": "지지됨", "evidence": "a selective attunement to what she perceives", "note": ""},
+    {"n": 1, "text": "로미오의 에로틱한 경험은 관점의 좁힘에 기반한다", "label": "지지됨", "evidence": "predicated on a narrowing of perspective", "note": ""},
+    {"n": 2, "text": "줄리엣은 의심의 가능성을 항상 알면서 기꺼이 눈멂을 택한다", "label": "지지됨", "evidence": "always aware of the possibility of doubt", "note": ""},
+    {"n": 3, "text": "줄리엣은 맥락을 자기 욕망 아래 두지 않고 포괄하며, 'Art thou not Romeo, and a Montague?'라고 묻듯 불협화음을 알아차리면서도 그를 사랑스럽게 바라본다(119-120)", "label": "지지됨", "evidence": "look lovingly at him while noting disharmonious", "note": "119-120쪽 일치"},
+    {"n": 4, "text": "성관계 뒤 두 사람의 태도가 뒤바뀌는 장면(3막 5장)을 같은 설명으로 읽는 데 자미르는 망설인다", "label": "지지됨", "evidence": "here I hesitate to read Romeo and Juliet", "note": "III.v.1-55 일치"},
+    {"n": 5, "text": "줄리엣이 위험한 현실을 무시하는 'It was the nightingale and not the lark'는 성교 뒤의 연결을 붙드는 일로만 보기 어렵다", "label": "지지됨", "evidence": "is less of a clinging for postcoital connec-", "note": ""},
+    {"n": 6, "text": "그것은 로미오의 에로틱한 관점이 그녀의 경험을 통해 말하게 허용하는 병합으로 읽힌다", "label": "지지됨", "evidence": "allows his viewpoint to speak through her", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/Shakespear/Quotes b9a5775c26ac4569aeade658be029b89.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "8b",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "러셀은 지시구가 나타나는 명제 전체에만 의미를 배정한다", "label": "지지됨", "evidence": "every proposition…has a meaning", "note": "p.480 원리 진술"},
+    {"n": 1, "text": "러셀은 'a man', 'every man', 'the present King of France' 같은 구를 지시구라 부르고, 구가 지시구인 것은 오로지 그 형식 때문이라고 말한다(p.479)", "label": "지지됨", "evidence": "denoting solely in virtue of its form", "note": ""},
+    {"n": 2, "text": "변항 개념을 기본으로 삼아 'C(x)는 언제나 참이다'를 정의되지 않는 궁극 개념으로 두고, 'everything', 'nothing', 'something'을 이 개념으로 해석한다(p.480)", "label": "지지됨", "evidence": "taken as ultimate and indefinable", "note": ""},
+    {"n": 3, "text": "'I met a man'은 'x를 만났고 x는 인간이다'가 언제나 거짓은 아니라는 것을, 'all men are mortal'은 'x가 인간이면 x는 죽는다'가 언제나 참이라는 것을 주장한다(pp.480-481)", "label": "지지됨", "evidence": "is not always false", "note": ""},
+    {"n": 4, "text": "'a man'은 홀로는 의미를 전혀 갖지 않고, 'a man'이 나타나는 모든 명제가 의미를 얻는다", "label": "지지됨", "evidence": "wholly destitute of meaning", "note": ""},
+    {"n": 5, "text": "원리 인용: 'denoting phrases never have any meaning in themselves, but that every proposition in whose verbal expression they occur has a meaning'(p.480)", "label": "지지됨", "evidence": "denoting phrases never have any meaning in themselves", "note": "인용문 글자 일치"},
+    {"n": 6, "text": "지시에 관한 난점이 모두 지시구를 포함하는 명제를 잘못 분석한 결과라고 보고, 지시구가 나타나는 모든 명제를 지시구가 없는 형식으로 환원한다(p.482)", "label": "지지됨", "evidence": "a reduction of all propositions", "note": "'I believe' 한정이 카드의 '보고'에 유지됨"}
+  ],
+  "sources_used": ["문헌/@Russell1905 On Denoting.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-05_Russell-OD-1.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

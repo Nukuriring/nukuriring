@@ -1,0 +1,18 @@
+{
+  "id": "55e3",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "서술자가 읽어 주는 로맨스의 소리가 현실에서 세 번 울리는 반복은 허구와 현실을 얽힌 하나로 만든다", "label": "지지됨", "evidence": "현실과 로맨스의 연결이 세 번 반복된다", "note": "'entanglement of two entities'를 '얽힌 하나'로 옮김. 뜻은 같은 범위."},
+    {"n": 1, "text": "서술자가 로맨스를 읽어 주는 장면에서 반복의 패턴이 나온다", "label": "지지됨", "evidence": "Pattern. 로맨스를 읽어주는 narrator", "note": "'어셔에게' 읽어 준다는 대상은 필기에 없으나 사소함"},
+    {"n": 2, "text": "현실과 로맨스의 연결이 세 번 반복되고 로맨스 속 소리가 현실에서도 들린다", "label": "지지됨", "evidence": "로맨스에서 일어난 소리가 현실에서도 들리는", "note": ""},
+    {"n": 3, "text": "서술자는 소리를 물리치지만 다시 떠오르고, 소리는 점점 분명해지며 서술자도 확신하게 된다", "label": "지지됨", "evidence": "dismiss하지만 다시금 떠오르고…", "note": ""},
+    {"n": 4, "text": "필기는 이 구조를 이야기의 메아리로 부르고 차이와 반복으로 읽는다", "label": "지지됨", "evidence": "echo of the story. 차이와 반복", "note": ""},
+    {"n": 5, "text": "허구와 현실의 경계가 흐려진 자리에 남는 것은 두 실체의 얽힘이다", "label": "지지됨", "evidence": "What remains is an entanglement", "note": ""},
+    {"n": 6, "text": "이 얽힘은 로드릭과 매들린의 얽힘과 같은 모양이다", "label": "지지됨", "evidence": "Cf) … 로드릭과 매들린은 겹쳐져서 죽는다", "note": "필기가 두 얽힘을 연이어 적은 것을 카드가 같은 모양으로 이음. 명시적 동일시는 아님."}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/미문개/3 21 Tue Edgar allan Poe c1a8362698354848b12825ec9b6e61bb.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

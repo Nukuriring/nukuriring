@@ -1,0 +1,19 @@
+{
+  "id": "7g1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "르카나티는 어휘 의미와 sense로의 변환과 변조를 나누는 세 층 구조를 세운다", "label": "지지됨", "evidence": "이 세 층이 곧 입력과 작용과 출력의 구조입니다", "note": "08-28 06:56 및 문헌 노트 @Recanati2017"},
+    {"n": 1, "text": "TCP는 「Contextualism and Polysemy」 §1에서 두 층 그림으로 출발한다: 어휘 의미에 변조가 작용해 기여된 내용이 나오고, 변조가 없으면 관습적 의미가 곧 기여된 내용이 된다", "label": "지지됨", "evidence": "lexical meaning이 있고, modulation이 거기에 작용해서", "note": ""},
+    {"n": 2, "text": "변조는 언어 재료가 강제하지 않으므로 선택적이며 화자 의미의 문제이다", "label": "지지됨", "evidence": "언어 재료 안에 그것을 강제하는 것이 없기 때문입니다", "note": "06:06, 06:50 §5"},
+    {"n": 3, "text": "Wrong Format 견해를 받아들이면 이 그림이 깨지고 르카나티는 §7에서 §1의 두 문장을 철회한다", "label": "지지됨", "evidence": "Recanati는 §7에서 §1의 자기 문장 두 개를 명시적으로 철회", "note": ""},
+    {"n": 4, "text": "랭개커를 따라 어휘 의미를 관습화된 여러 sense와 그 사이의 변조 관계로 이루어진 그물로 보고(§6), 그물에서 하나의 sense로 가는 변환과 한 sense에서 다른 sense로 가는 변조를 구별한다. 앞의 것은 지표사 해소처럼 필수이고 뒤의 것은 선택적이다", "label": "지지됨", "evidence": "Recanati는 이것이 indexical resolution과 같은 지위", "note": "network 개념 §6은 06:56 끝의 출처 표기"},
+    {"n": 5, "text": "생물이 삼킨다는 원형적 sense에서 현금인출기가 카드를 삼킨다는 sense로의 확장은 처음에는 변조였고 반복되어 관습화되면서 그물의 새 마디가 되었으므로 르카나티는 다의성을 관습화된 변조로 본다", "label": "지지됨", "evidence": "Recanati가 polysemy를 관습화된 modulation이라고 부르는 이유", "note": ""},
+    {"n": 6, "text": "sense는 직관 가능하며 사고의 구성 벽돌 노릇을 한다(§7)", "label": "지지됨", "evidence": "사고의 구성 벽돌(building blocks of thoughts) 노릇을 한다", "note": "08-28 08:11, 원고 p.14"},
+    {"n": 7, "text": "그는 TCP와 급진적 맥락주의의 대립이 대체로 언어상의 문제라고 결론짓는다", "label": "지지됨", "evidence": "대체로 언어상의 문제라고 결론짓습니다", "note": "'대체로' 유지됨"}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-28_트레비스와 르카나티의 관계.md", "문헌/@Recanati2017 Contextualism and Polysemy.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

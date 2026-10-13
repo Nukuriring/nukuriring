@@ -1,0 +1,19 @@
+{
+  "id": "6m",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "트래비스의 프레게는 참임을 참으로 여김에서 떼어 내는 근본 추상에서 출발한다", "label": "지지됨", "evidence": "Wahrsein과 Fürwahrhalten을 날카롭게 가르라", "note": "Frege 정리 및 발표 세션 Claude 01:37 해설 1절."},
+    {"n": 1, "text": "트래비스는 1장에서 프레게 철학 전체의 토대를 근본 추상으로 놓는다", "label": "지지됨", "evidence": "추상을 'Frege의 철학 전체의 토대'로 놓고", "note": "01:26 핸드아웃 소개."},
+    {"n": 2, "text": "프레게는 참임과 참으로 여김을 날카롭게 가르고 심리적인 것을 논리적인 것에서 걸러 낸다(p.9)", "label": "지지됨", "evidence": "심리적인 것은 논리적인 것으로부터", "note": ""},
+    {"n": 3, "text": "트래비스는 이 추상을 역학이 경사면 위 공의 역사적 특수성을 걷어 내고 법칙적으로 행동하는 특징만 남기는 일에 견준다(p.13)", "label": "지지됨", "evidence": "역사적 특수성을 걷어내고, 법칙적으로 행동", "note": "'이건 Travis 자신의 것'으로 표시, 각주 p.13."},
+    {"n": 4, "text": "프레게는 정의로 내세우지 않은 해명에서 사고를 '그것에 의해 참이 비로소 문제가 될 수 있는 그것'이라 부른다(Frege 1918: 60, p.10)", "label": "지지됨", "evidence": "그 스스로 정의가 아니라고 못 박은", "note": ""},
+    {"n": 5, "text": "트래비스는 심리적 사고와 논리적 사고를 thoughtψ와 thoughtλ로 구별하고, 사고는 독립적으로 식별되는 벽돌들로 지어지지 않으며 논리적·존재론적으로 먼저라는 전체 사고 우선(Whole Thoughts First)을 세운다(p.10)", "label": "지지됨", "evidence": "사고가 논리적·존재론적 우선순위에서 먼저다", "note": "2026-08-05 세션 08:55 (§1.1 'Whole Thoughts First', p.10)."},
+    {"n": 6, "text": "추상의 귀결로 언어는 사고 표현의 매체로서 심리적인 쪽에 속하며, 낱말의 과제는 어떤 사고가 표현되었는지 알아볼 수 있게 하는 데 기여하는 것이므로 낱말에 내재적인 것과 사고에 내재적인 것이 겹치리라는 선험적 이유가 없다(pp.12–13)", "label": "지지됨", "evidence": "선험적 보장이 없습니다", "note": ""},
+    {"n": 7, "text": "대화는 이 귀결을 프레게가 언어철학자로 분류되지 않는다는 주장으로 요약했다(대화 속 정리)", "label": "지지됨", "evidence": "Frege는 언어철학자가 아니다", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-06_Frege의 근본 사상 정리 및 발표.md", "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-05_어려운 설명을 쉽게 풀어달라.md", "문헌/@Travis2021 Frege The Pure Business of Being True.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

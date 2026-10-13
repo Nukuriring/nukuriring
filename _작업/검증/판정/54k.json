@@ -1,0 +1,19 @@
+{
+  "id": "54k",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "바우어에 따르면 오스틴은 문자적 의미라는 관념을 치료하려고 발화수반력 개념을 썼다", "label": "지지됨", "evidence": "문자적 의미에 대한 집착을 치료하기 위해서였다", "note": ""},
+    {"n": 1, "text": "오스틴의 핵심 우려는 전문 철학이 언어를 이론화하며 알 수밖에 없는 것을 모르는 것처럼 군다는 점이고 프레게의 의미와 지시체에만 집중하려는 시도가 그 예이다", "label": "지지됨", "evidence": "프레게가 의미와 지시체라고 부른 것에만 집중하려는", "note": ""},
+    {"n": 2, "text": "오스틴의 기획은 흔히 화용론 수립으로 이해되지만 바우어는 화용론이라는 독립된 기획이 말이 되는 언어관을 허무는 데 있었다고 본다", "label": "지지됨", "evidence": "독립적인 기획이 말이 되는 언어에 대한 그림 자체를 파괴", "note": ""},
+    {"n": 3, "text": "발화효과행위는 발화의 부산물이어서 같은 발화가 상황에 따라 전혀 다른 효과를 낸다", "label": "부분 지지", "evidence": "같은 발화가 상황과 맥락에 따라 완전히 다른 종류의 발화효과를 낼 수 있다", "note": "원문은 '낼 수 있다'인데 카드는 '낸다'로 단정"},
+    {"n": 4, "text": "오스틴이 집중한 것은 올바른 상황에서 '나는 너를 용서한다'고 말하는 일이 용서를 수행하는 것 같은 발화수반력이다", "label": "지지됨", "evidence": "올바른 상황에서 정말로 ‘용서’라는 것을 할 수 있는 것처럼", "note": ""},
+    {"n": 5, "text": "발화수반력은 문자적 의미에 대한 철학자의 집착을 치료하려는 장치였다", "label": "지지됨", "evidence": "문자적 의미에 대한 집착을 치료하기 위해서였다", "note": ""},
+    {"n": 6, "text": "바우어는 105쪽에서 실제 사람들의 말과 포르노그래피 같은 현상에 주의하지 않으면 우리의 말은 최악에는 틀리고 기껏해야 공허하다고 쓴다", "label": "지지됨", "evidence": "what we say is, at worst, wrong and, at best, hollow. p.105", "note": ""},
+    {"n": 7, "text": "말이 하는 일을 파악하지 않고 말의 뜻을 이해할 수 있다는 생각이 오스틴이 맞선 생각이라고 쓴다(106)", "label": "지지됨", "evidence": "understand what words mean without grasping what they’re doing. 106", "note": "원문은 'I'm suggesting ... I take Austin to be contesting'으로 바우어의 독해임을 밝힘. 카드 표현도 바우어 귀속이므로 문제 없음"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/How to do things with Pornography 0b6442f9017d406baffa0aea5a221e32.md", "문헌/@Bauer2015 How to Do Things with Pornography.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

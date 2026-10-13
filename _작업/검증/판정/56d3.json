@@ -1,0 +1,17 @@
+{
+  "id": "56d3",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "필기는 일상이 근거 없이 서 있다는 사실을 억눌러야 살 수 있지만 억눌린 것이 돌아오므로 취약성과 필멸성을 인정하고 동료 필멸자에 대한 책임을 물어야 한다고 정리한다", "label": "지지됨", "evidence": "But it will return.", "note": "필기 말미에 '인정(ackowledging)' 항목이 이어짐."},
+    {"n": 1, "text": "우리가 일상의 근거 없음을 억누르기 때문에 살 수 있다", "label": "지지됨", "evidence": "we repressed it, we can live.", "note": ""},
+    {"n": 2, "text": "지식과 과학이 이 억압을 돕고 억누른다는 것은 서로를 믿고 회의주의를 벗어나야 한다는 뜻이다", "label": "지지됨", "evidence": "we need to trust, break out of the skepticism", "note": "필기는 'Knowledge, science.'를 단어로 나열함."},
+    {"n": 3, "text": "그때 우리가 하는 일을 회복하고 인정하는 것으로 적는다", "label": "지지됨", "evidence": "Recover. ackowledging.", "note": ""},
+    {"n": 4, "text": "인정할 대상은 취약성과 필멸성과 동료 피조물이며 필기는 동료 필멸자에게 우리가 지는 책임이 어떤 것인지 묻는다", "label": "지지됨", "evidence": "what kind of responsiblity we have", "note": ""},
+    {"n": 5, "text": "필기는 이 물음에 답을 적지 않고 열어 둔다", "label": "지지됨", "evidence": "", "note": "필기는 물음 뒤 곧바로 뉴잉글랜드 전통 항목으로 넘어감."}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/현대 영미문학/Cujo e044adf150e740818e09747a9bac8ad4.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

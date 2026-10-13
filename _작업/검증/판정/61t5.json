@@ -1,0 +1,20 @@
+{
+  "id": "61t5",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "증거의 접근 가능성을 지나치게 요구하면 회의주의를 부르며 합리성이 요구하는 바도 늘 알 수 있는 것은 아니다", "label": "지지됨", "evidence": "excessive demands on the accessibility of evidence invite scepticism", "note": ""},
+    {"n": 1, "text": "윌리엄슨은 증거의 접근 가능성을 지나치게 요구하면 증거가 상상된 현상적 기층으로 줄어 회의주의를 부른다고 본다", "label": "지지됨", "evidence": "diminishing evidence to an imaginary phenomenal substratum", "note": ""},
+    {"n": 2, "text": "우리가 자신의 증거에 대해 너무 많이 안다고 자처하면 외부 세계에 대해서는 너무 적게 알게 된다", "label": "지지됨", "evidence": "we find ourselves knowing too little about the external world", "note": ""},
+    {"n": 3, "text": "회의론자는 증거와 앎의 등식을 반박하지 못했으므로, 평범한 사례에서 회의적 짝보다 증거가 더 많지 않다고 가정할 자격이 없다", "label": "지지됨", "evidence": "they are not entitled to assume", "note": ""},
+    {"n": 4, "text": "합리성은 믿음을 증거에 맞추라고 요구하고 증거가 무엇인지 늘 알 수 있지 않으므로, 합리성이 요구하는 바도 늘 알 수 있지 않다", "label": "지지됨", "evidence": "we are not always in a position to know what it demands", "note": ""},
+    {"n": 5, "text": "증거가 검토 대상인 가설의 참값보다 더 접근 가능하기만 하면 불완전하게 접근 가능한 기준도 가설에 대한 쓸 만한 안내가 된다", "label": "부분 지지", "evidence": "the former can still serve as a useful guide", "note": "원문은 'can still serve'(될 수 있다)인데 카드는 '안내가 된다'로 단정함. 조건절(Provided that)은 유지됨"},
+    {"n": 6, "text": "같은 이유로 우리는 자신의 의무도 늘 알 수 있는 것은 아니고, 주장이 규칙을 지키는지도 늘 알 수 있는 것은 아니다", "label": "지지됨", "evidence": "We are not always in a position to know our duty", "note": ""},
+    {"n": 7, "text": "이는 지식 규칙에 대한 반론이 되지 못하며, '합리적으로 믿는 것만 주장하라'를 규칙으로 삼아도 같은 결과가 따른다", "label": "지지됨", "evidence": "would have the same consequence", "note": ""},
+    {"n": 8, "text": "주장의 관행은 우리가 자신이 아는지를 대개 충분히 자주 알기 때문에 작동한다", "label": "지지됨", "evidence": "because we often enough know whether we know", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/윈랤슨 지식과 그 한계 서론 35697cdd867e81d7ba30ecfe05c182ca.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

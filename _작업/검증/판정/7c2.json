@@ -1,0 +1,17 @@
+{
+  "id": "7c2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "트래비스는 배중률을 논리의 적용에 걸린 가정으로 두어 오스틴과 프레게를 화해시킨다", "label": "지지됨", "evidence": "장은 오스틴과 프레게의 화해 제안으로 닫힙니다", "note": ""},
+    {"n": 1, "text": "트래비스는 오스틴과 프레게의 차이를 'just a different choice of topic'으로 읽는다", "label": "지지됨", "evidence": "just a different choice of topic", "note": "08-24 각주 19는 p.185로, 카드는 p.186으로 적음(카드 출처 절이 불일치를 밝힘)"},
+    {"n": 2, "text": "오스틴의 일차 진리 담지자는 역사적 사건인 진술이고 그의 주제는 사고 표현 사건과 표현된 사고를 잇는 지점이며, 프레게의 주제는 진리 전달을 지배하는 진리의 법칙이다(p.186)", "label": "지지됨", "evidence": "오스틴의 일차 진리 담지자는 진술(statement)이고", "note": ""},
+    {"n": 3, "text": "오스틴은 개념의 가닥들이 갈라져 참이라고도 거짓이라고도 할 수 없는 경우를 인정하고, 프레게는 『산수의 근본 법칙』 II §56에서 그런 개념 비슷한 구성물을 논리학이 인정할 수 없다고 못 박는다", "label": "지지됨", "evidence": "『산수의 근본법칙』 II §56에서 … 못 박습니다", "note": ""},
+    {"n": 4, "text": "트래비스의 조정: 논리의 적용은 배중률이 성립한다는 가정 아래 작동해야 하고 산출된 증명은 그 가정 위에서만 증명이다(pp.189–190)", "label": "지지됨", "evidence": "산출된 증명은 그 가정 위에서만 증명입니다", "note": "각주 22 pp.189~190"},
+    {"n": 5, "text": "논리가 그런 가정 위에서만 적용된다는 사실에서 그 가정이 옳은 곳에서만 개념이나 사고가 있을 수 있다는 결론은 나오지 않는다. 논리의 법칙은 Wahrsein의 법칙이지 Fürwahrhalten을 직접 지배하는 법칙이 아니기 때문이다", "label": "지지됨", "evidence": "Wahrsein의 법칙이지 Fürwahrhalten의 법칙이 직접 아니기", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-21_논문과 TPBBT의 관계도 분석.md", "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-24_트래비스의 프레게 참 개념 해석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

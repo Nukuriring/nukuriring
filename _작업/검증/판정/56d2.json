@@ -1,0 +1,17 @@
+{
+  "id": "56d2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "필기는 두려움이 한때 익숙했던 것이 돌아오는 데서 생긴다고 보고 동물을 억압된 것의 회귀로 읽는다", "label": "지지됨", "evidence": "Animal as return of the repressed.", "note": ""},
+    {"n": 1, "text": "두려움이 모르는 것에 대한 것인지 묻고 두려워하는 것은 한때 익숙했던 것이라고 답한다", "label": "지지됨", "evidence": "you fear something you were familiar one time", "note": ""},
+    {"n": 2, "text": "섬뜩함(uncanny)과 억압된 것의 회귀가 이 구도의 이름이다", "label": "지지됨", "evidence": "Uncanny. Return of the repressed.", "note": ""},
+    {"n": 3, "text": "인간은 동물이 없이는 인간 정체성을 가질 수 없는데도 우리는 동물이 아니라고 말하기를 멈추지 않으며 억눌린 쪽은 우리가 당신의 일부라고 되받는다", "label": "지지됨", "evidence": "without the animal presence, no human identity", "note": ""},
+    {"n": 4, "text": "소설에서 두려움의 원인은 처음부터 있었다. 개는 늘 곁에 있었고 광견병도 늘 있었다", "label": "지지됨", "evidence": "cause of fear was already there.", "note": ""},
+    {"n": 5, "text": "익숙한 것이 낯선 것으로 바뀌는 구조 속에서 미친 개가 낯설지만 실제로는 어디에나 있다", "label": "지지됨", "evidence": "unfamilar, but actually everywhere.", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/현대 영미문학/Cujo e044adf150e740818e09747a9bac8ad4.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

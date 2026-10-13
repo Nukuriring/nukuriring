@@ -1,0 +1,17 @@
+{
+  "id": "69h10",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "동영상 데이터는 코덱으로 신호를 변환하고 스트리밍으로 재생하며 MPEG 규격이 용도별로 나뉜다", "label": "지지됨", "evidence": "MPEG: 동영상 표준 규격, 숫자로 구분", "note": ""},
+    {"n": 1, "text": "스트리밍은 내려받으면서 재생하는 기술이다", "label": "지지됨", "evidence": "다운로드하면서 재생할 수 있는 기술", "note": ""},
+    {"n": 2, "text": "코덱은 음성과 영상을 디지털 신호로 바꾸는 코더와 그 반대로 바꾸는 디코더를 아울러 이르는 말이다", "label": "지지됨", "evidence": "코더 … 그 반대로 변환시켜주는 디코더를 통칭", "note": ""},
+    {"n": 3, "text": "ASF, WMV, RAM은 스트리밍용 동영상이고 AVI는 마이크로소프트 표준이며 MOV는 애플이 JPEG 방식으로 압축한 형식이다", "label": "지지됨", "evidence": "MOV: 애플, JpEG방식 이용, 압축", "note": ""},
+    {"n": 4, "text": "MPEG-1은 CD 화질, MPEG-2는 HDTV·DVD 화질, MPEG-4는 압축률을 높여 영상 전송에 쓴다", "label": "지지됨", "evidence": "MPEG-4: 압축률을 높여 영상 전송에서 사용", "note": ""},
+    {"n": 5, "text": "MPEG-7은 영상 검색용, MPEG-21은 유통과 관리용 표준이고 H.264는 화질과 압축률이 높은 코덱이다", "label": "지지됨", "evidence": "MPEG-21: 유통, 관리 표준", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/컴퓨터 활용 능력/컴퓨터 일반 25a97cdd867e80ada202fde979b9c028.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

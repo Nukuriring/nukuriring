@@ -1,0 +1,19 @@
+{
+  "id": "8a1",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "프레게에 따르면 뜻은 여럿이 함께 파악하는 객관적인 것으로 주관적 표상과 구별된다", "label": "지지됨", "evidence": "may be the common property of many", "note": ""},
+    {"n": 1, "text": "프레게는 기호의 뜻과 지시체를 그 기호에 결부된 표상과 구별한다(pp.24-25)", "label": "지지됨", "evidence": "are to be distinguished from the associated idea", "note": ""},
+    {"n": 2, "text": "표상은 감각 인상과 행위의 기억에서 생기는 내적 심상이고 감정에 젖어 있으며, 같은 사람에게서도 같은 뜻에 늘 같은 표상이 결부되지는 않는다", "label": "부분 지지", "evidence": "Such an idea is often saturated with feeling", "note": "원문은 '감정에 자주(often) 젖어 있다'. 카드는 '감정에 젖어 있으며'로 단정. 나머지(내적 이미지, 같은 사람도 늘 같지 않음)는 일치"},
+    {"n": 3, "text": "화가와 기수와 동물학자는 'Bucephalus'라는 이름에 저마다 다른 표상을 결부할 것이다", "label": "지지됨", "evidence": "will probably connect different ideas", "note": "'것이다'가 'probably'를 대신함"},
+    {"n": 4, "text": "뜻은 여럿의 공동 소유물일 수 있으며, 프레게는 인류가 세대를 거쳐 전해 온 'a common store of thoughts'를 근거로 든다(p.25)", "label": "지지됨", "evidence": "mankind has a common store of thoughts", "note": "'may be'의 한정이 카드의 '일 수 있으며'에 유지됨"},
+    {"n": 5, "text": "두 사람은 같은 뜻을 파악할 수 있지만 같은 표상을 가질 수는 없다('Si duo idem faciunt, non est idem.')", "label": "지지됨", "evidence": "prevented from grasping the same sense", "note": ""},
+    {"n": 6, "text": "망원경 비유에서 달은 지시체, 대물렌즈가 맺는 실상은 뜻, 관찰자의 망막상은 표상에 해당하며, 실상은 일면적이지만 여러 관찰자가 함께 쓸 수 있으므로 객관적이고 망막상은 관찰자마다 따로 가진다(pp.25-26)", "label": "지지됨", "evidence": "still objective, inasmuch as it can be used by several observers", "note": ""},
+    {"n": 7, "text": "각주 7에서 프레게는 사고를 사유하는 주관적 수행과 구별하여 여러 사유자의 공동 소유물이 될 수 있는 객관적 내용으로 규정한다", "label": "지지됨", "evidence": "its objective content", "note": "각주 7: 'capable of being the common property of several thinkers'"}
+  ],
+  "sources_used": ["문헌/@Frege1892 Über Sinn und Bedeutung.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-01_Frege-SR-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-Frege-SR_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

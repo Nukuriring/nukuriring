@@ -1,0 +1,18 @@
+{
+  "id": "8a4a",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "프레게는 판단을 사고에서 진리치로 나아가는 일로 보고 참을 사고의 술어에서 제외한다", "label": "지지됨", "evidence": "advances from a thought to a truth value", "note": "'참을 술어에서 제외'는 'thought와 True의 관계는 주어-술어 관계에 비길 수 없다'의 요약으로 읽히며 과장은 아님"},
+    {"n": 1, "text": "사고와 참의 관계를 주어와 술어의 관계로 보려는 유혹을 검토하며, '5가 소수라는 사고는 참이다'는 '5는 소수이다'보다 더 말하는 것이 없다(p.29)", "label": "지지됨", "evidence": "nothing more has been said than", "note": ""},
+    {"n": 2, "text": "참이라는 주장은 평서문의 형식에서 나오며, 평서문이 보통의 힘을 잃으면(무대 위 배우) '5가 소수라는 사고는 참이다'도 '5는 소수이다'와 같은 사고 하나를 담을 뿐이다", "label": "지지됨", "evidence": "arises…from the form of the declarative sentence", "note": ""},
+    {"n": 3, "text": "논리적 의미의 주어와 술어는 사고의 요소이므로 결합해도 사고에 이를 뿐 뜻에서 지시체로, 사고에서 진리치로 넘어가지 못한다", "label": "지지됨", "evidence": "never passes from sense to reference", "note": ""},
+    {"n": 4, "text": "진리치는 대상이므로, 태양이 사고의 부분이 될 수 없듯 사고의 부분이 될 수 없다", "label": "지지됨", "evidence": "any more than, say, the Sun can", "note": ""},
+    {"n": 5, "text": "판단은 사고에서 진리치로 나아가는 일로 볼 수 있다고 하면서 이것이 정의일 수는 없으며 판단은 'something quite peculiar and incomparable'이라고 덧붙인다(p.30)", "label": "지지됨", "evidence": "quite peculiar and incomparable", "note": ""},
+    {"n": 6, "text": "각주 10은 판단을 사고의 단순한 파악과 구별하여 사고의 참을 인정하는 일로 규정한다", "label": "지지됨", "evidence": "the admission of its truth", "note": ""}
+  ],
+  "sources_used": ["문헌/@Frege1892 Über Sinn und Bedeutung.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-02_Frege-SR-2.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-Frege-SR_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "56d6",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "필기는 쿠조를 가축에서 야생으로 가는 인물로 벅과 대비하고 도나와 채러티, 에비와 태드, 도드와 괴물을 짝지어 비슷함과 차이의 근원을 묻는다", "label": "지지됨", "evidence": "그렇다면 그 차이는 어디에서 오는가?", "note": ""},
+    {"n": 1, "text": "쿠조를 잭 런던의 야성의 부름에 나오는 세인트버나드 벅과 대비한다. 벅은 야생에서 가축으로, 쿠조는 가축에서 야생으로 가며 의도된 대비로 본다", "label": "지지됨", "evidence": "Cujo: domesticated —> Wild. Intended contrast.", "note": ""},
+    {"n": 2, "text": "도나와 채러티, 에비 이모와 태드, 프랭크 도드와 괴물을 짝지어 어떤 점이 비슷하고 어디서 갈라지며 그 차이가 어디서 오는지 묻는다", "label": "지지됨", "evidence": "charity - Donna, Evvie - Tad, Frank Dodd - Monster.", "note": ""},
+    {"n": 3, "text": "스티브와 쿠조는 둘 다 사냥하는 쪽이고 도나는 사냥당하는 쪽이며, 도나와 스티브는 나이 듦을 두려워한다는 점에서 짝이 된다", "label": "지지됨", "evidence": "Steve - Cujo - They are both hunting.", "note": ""},
+    {"n": 4, "text": "백 살 에비 이모와 네 살 태드는 날씨의 변화나 옷장 속 괴물처럼 다른 사람이 느끼지 못하는 것을 느끼는 초자연적 감수성으로 이어진다", "label": "지지됨", "evidence": "100 years old Aunt Evvie — 4 years old Tad.", "note": ""},
+    {"n": 5, "text": "필기는 종을 넘어서는 짝짓기가 가능한지도 묻는다", "label": "지지됨", "evidence": "paring goes beyond the line of species?", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/현대 영미문학/Cujo/3 13 Mon e21b9149a1c24ee296840fa078ddfe6b.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

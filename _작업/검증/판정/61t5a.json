@@ -1,0 +1,20 @@
+{
+  "id": "61t5a",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "지표사나 빈 이름의 내용이 환경에 따라 정해지면 추론이 타당한지도 알 수 있는 처지에 있지 않을 수 있다", "label": "지지됨", "evidence": "one may not be in a position to know whether the inference is valid", "note": ""},
+    {"n": 1, "text": "윌리엄슨은 합리성이 연역 논리와 어떤 관계를 맺지만 그 관계를 정확히 풀어 쓰기는 쉽지 않다고 인정한다", "label": "지지됨", "evidence": "although the relation is not easy to spell out", "note": ""},
+    {"n": 2, "text": "내용의 외재적 개별화는 추론의 타당성을 불완전하게 접근 가능하게 만든다", "label": "지지됨", "evidence": "makes the deductive validity of inferences imperfectly accessible", "note": ""},
+    {"n": 3, "text": "'여기는 덥다'와 '여기는 습하다'에서 '어딘가는 덥고 습하다'로 가는 추론이 타당한지는 두 번의 'here'가 같은 내용을 갖는지에 달려 있다", "label": "지지됨", "evidence": "depends on whether the two occurrences of 'here' have the same content", "note": ""},
+    {"n": 4, "text": "전제를 받아들이고 결론을 거부하는 사람은 논증이 부당할 때에만 비일관성을 피한다", "label": "지지됨", "evidence": "avoids inconsistency only if the argument is invalid", "note": ""},
+    {"n": 5, "text": "'here'의 내용이 적어도 일부 환경에 의해 정해진다면 우리는 그 추론이 타당한지 알 수 있는 처지에 있지 않을 수 있다", "label": "지지됨", "evidence": "determined at least in part by the environment", "note": ""},
+    {"n": 6, "text": "'모든 것이 변한다'에서 '부르바키가 변한다'로 가는 추론이 타당한지도 '부르바키'가 내용을 갖는지에 달려 있고, 그 내용이 환경에 의해 정해지면 같은 일이 생긴다", "label": "지지됨", "evidence": "depends on whether 'Bourbaki' has a content", "note": ""},
+    {"n": 7, "text": "윌리엄슨은 이 예들이 시사적일 뿐이며 용어의 외재적으로 개별화된 내용을 지시체와 동일시하지 않으면 논증이 훨씬 덜 직선적이라고 단서를 단다", "label": "지지됨", "evidence": "These examples are only indicative", "note": ""},
+    {"n": 8, "text": "합리성이 요구하는 바를 늘 알 수 있지 않다는 점을 독립적 근거에서 받아들인다면, 내용을 외재적으로 개별화하는 설명이 타당성을 불완전하게 접근 가능하게 만든다는 이유만으로 그 설명을 반대할 수는 없다", "label": "지지됨", "evidence": "we should not object to an account that individuates content externally", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/윈랤슨 지식과 그 한계 서론 35697cdd867e81d7ba30ecfe05c182ca.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

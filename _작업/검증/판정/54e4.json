@@ -1,0 +1,16 @@
+{
+  "id": "54e4",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "레만에 따르면 루어만 영화의 물은 셰익스피어의 말의 흐름을 대신하는 영화적 대체물이다", "label": "지지됨", "evidence": "a distinctly cinematic substitute", "note": ""},
+    {"n": 1, "text": "루어만 영화에 두루 나타나는 물 이미지와 십자가 이미지가 세례 의식으로 이어져 있다", "label": "지지됨", "evidence": "inextricably linked through the rite of baptism", "note": ""},
+    {"n": 2, "text": "이 연결은 로미오가 이름의 비극적 지시성에서 벗어나려고 요구하는 새 세례에서 나온다(2.1.93-94)", "label": "지지됨", "evidence": "I'll be new baptised", "note": "대사와 행 번호 일치"},
+    {"n": 3, "text": "루어만은 물을 '탈출'의 모티프로 고르고 연인이 침묵과 평화, '우리를 위한 자리가 있다'는 순간에 물을 쓴다고 설명한다", "label": "지지됨", "evidence": "water serves as his motif of choice for", "note": ""},
+    {"n": 4, "text": "레만은 물이 연인의 관계가 펼쳐지는 언어의 밀물과 썰물을 영화가 대신하는 방식이라고 읽는다(191-2)", "label": "지지됨", "evidence": "the ebb and flow of language", "note": "191-2쪽 일치"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/Shakespear/Quotes b9a5775c26ac4569aeade658be029b89.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

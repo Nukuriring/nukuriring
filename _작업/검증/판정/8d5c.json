@@ -1,0 +1,19 @@
+{
+  "id": "8d5c",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "에이어는 1946년에 선험 명제를 언어에 관한 경험 명제와도 언어 규칙과도 구별한다", "label": "지지됨", "evidence": "a mistake to identify a priori", "note": "pp.185-186"},
+    {"n": 1, "text": "분석 명제를 구성 기호의 의미만으로 참이어서 경험의 어떤 사실로도 확증되거나 반박될 수 없는 명제로 규정한다(p.185)", "label": "지지됨", "evidence": "true solely in virtue of the", "note": "p.185"},
+    {"n": 2, "text": "선험 명제를 기호 사용에 관한 경험 명제로 만든다는 비판에, 선험 명제의 타당성이 언어 사용에 관한 사실에 의존한다고 말했을 뿐 그 사실을 기술한다고 말하지 않았다고 답한다(pp.185-186)", "label": "지지됨", "evidence": "do not think that this is", "note": "p.186 'I do not think that this is equivalent to saying that they describe these facts'"},
+    {"n": 3, "text": "선험 명제의 유용성은 기호가 그렇게 쓰인다는 경험적 사실과 그 기호가 경험에 성공적으로 적용된다는 경험적 사실에 기초한다", "label": "지지됨", "evidence": "usefulness of a priori", "note": "p.186"},
+    {"n": 4, "text": "선험 명제를 언어 규칙 자체로 보는 것도 잘못이라고 본다: 선험 명제는 참이라고 말할 수 있고 필연적이지만 언어 규칙은 참일 수 없고 자의적이다(p.186)", "label": "지지됨", "evidence": "linguistic rules are arbitrary", "note": "p.186"},
+    {"n": 5, "text": "'earlier'가 영어에서 '더 이른'을 뜻한다는 것은 우연한 경험적 사실이고 시간 관계어를 이행적으로 쓰라는 것은 자의적 규칙이지만, 그 규칙이 주어지면 이행성 명제는 필연적 참이 된다(pp.186-187)", "label": "지지됨", "evidence": "becomes a necessary truth", "note": "pp.186-187"},
+    {"n": 6, "text": "선험 명제는 경험 명제가 주는 의미의 정보를 주지 않고 논리 상항의 사용을 규정하지도 않으며, 그 상항의 올바른 사용을 해명(elucidate)한다는 점에서 정보를 준다(p.187)", "label": "지지됨", "evidence": "elucidate the proper use", "note": "p.187"},
+    {"n": 7, "text": "함축이 의미의 포함이라는 주장은 함축하는 것으로 명제의 의미를 정하는 기준을 채택하면 분석적이 된다고 답하면서도, 이 답이 함축의 본성에 관해 많은 정보를 주지 않는다고 인정한다(p.188)", "label": "지지됨", "evidence": "not give us much information", "note": "p.188"}
+  ],
+  "sources_used": ["문헌/@Ayer1946 Language, Truth and Logic.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-18_Ayer-LTL-서론(1946)-3.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "8b4",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "러셀은 세 퍼즐로 지시 이론을 시험하고 조지 4세 퍼즐을 나타남의 구분으로 푼다", "label": "지지됨", "evidence": "may be tested by its capacity for dealing with puzzles", "note": "pp.484-485, 488-489"},
+    {"n": 1, "text": "러셀은 퍼즐이 물리 과학에서 실험이 하는 구실과 거의 같은 구실을 한다고 말한다(pp.484-485)", "label": "지지됨", "evidence": "much the same purpose", "note": ""},
+    {"n": 2, "text": "첫째 퍼즐: a와 b가 같으면 어느 명제에서든 서로 바꾸어도 참과 거짓이 변하지 않아야 하므로 조지 4세는 스콧이 스콧인지 알고 싶어 한 셈이 된다(p.485)", "label": "지지됨", "evidence": "George IV. wished to know whether Scott was Scott", "note": ""},
+    {"n": 3, "text": "둘째 퍼즐은 배중률과 현재 프랑스 왕의 대머리 문제이고, 셋째는 'A와 B의 차이'처럼 비존재자를 명제의 주어로 삼는 문제이다", "label": "지지됨", "evidence": "how can a non-entity be the subject of a proposition", "note": ""},
+    {"n": 4, "text": "러셀의 분석에서 'Scott was the author of Waverley'를 풀어 쓴 명제에는 'the author of Waverley'라는 구성 요소가 없으므로 그 자리에 'Scott'을 대입할 수 없다(pp.488-489)", "label": "지지됨", "evidence": "does not contain any constituent", "note": ""},
+    {"n": 5, "text": "지시구를 부분 명제에서 제거하면 이차적 나타남, 전체 명제에서 제거하면 일차적 나타남이다(p.489)", "label": "지지됨", "evidence": "from the whole proposition", "note": ""},
+    {"n": 6, "text": "보통의 뜻은 이차적 읽기이고, 조지 4세가 멀리서 스콧을 보고 '저 사람이 스콧인가?'라고 물은 경우라면 일차적 읽기가 참일 수 있다", "label": "지지됨", "evidence": "we normally mean…secondary", "note": "원문: 'This would be true, for example, if George IV. had seen Scott at a distance'"},
+    {"n": 7, "text": "요트 주인 일화: 손님이 생각한 요트의 크기가 실제 크기보다 컸다는 말이 요트가 자기 자신보다 크다는 말로 오해된다", "label": "지지됨", "evidence": "No, my yacht is not larger than it is", "note": ""}
+  ],
+  "sources_used": ["문헌/@Russell1905 On Denoting.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-06_Russell-OD-2.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-07_Russell-OD-3.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

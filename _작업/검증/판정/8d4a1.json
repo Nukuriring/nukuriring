@@ -1,0 +1,20 @@
+{
+  "id": "8d4a1",
+  "voice": "종합",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "에이어가 분석성의 근거로 삼은 정의와 동의성은 콰인에게 해명이 필요한 개념이다", "label": "연결", "evidence": "", "note": "두 출처를 맞댄 연결"},
+    {"n": 1, "text": "에이어와 콰인은 칸트의 분석성 정의를 비판하는 데서 출발이 같다", "label": "연결", "evidence": "", "note": "Claude가 세운 연결(각 비판은 아래 명제로 판정)"},
+    {"n": 2, "text": "에이어는 칸트가 심리적 기준과 논리적 기준을 섞었다고 본다(Ayer p.72)", "label": "지지됨", "evidence": "a psychological criterion", "note": "p.72 'he employs a psychological criterion... and a logical criterion... takes their equivalence for granted'"},
+    {"n": 3, "text": "콰인은 칸트의 정의가 주어-술어 형식에 묶이고 포함이라는 은유에 머문다고 본다(Quine pp.250-251)", "label": "지지됨", "evidence": "left at a metaphorical level", "note": "B1-08 멈춤 1, 'limits itself to statements of subject-predicate form'"},
+    {"n": 4, "text": "두 사람 모두 칸트의 의도를 의미나 정의에 의해 참이라는 정식으로 다시 쓴다", "label": "지지됨", "evidence": "true by virtue of meanings", "note": "콰인 p.251 'a statement is analytic when it is true by virtue of meanings'; 에이어 p.73 'validity depends solely on the definitions'"},
+    {"n": 5, "text": "에이어는 분석성을 기호의 정의(p.73)와 동의성(p.81)으로 설명하고, 1946년 서론에서도 분석 명제를 구성 기호의 의미만으로 참인 명제로 규정한다(p.185)", "label": "지지됨", "evidence": "true solely in virtue of the", "note": "B1-18 p.185 'true solely in virtue of the meaning of its constituent symbols'"},
+    {"n": 6, "text": "콰인은 사전적 정의는 앞서 있는 동의성을 보고할 뿐이고(p.253), 인지적 동의성은 분석성을 미리 이해해야 해명되며(p.258), 의미론적 규칙도 '분석적'이라는 말을 설명하지 못한다(p.261)고 본다", "label": "지지됨", "evidence": "already understood in advance", "note": "p.253 'report of an observed synonymy', p.258 'intelligible only in so far as the notion of analyticity is already understood', p.261 'of no help in gaining this understanding'"},
+    {"n": 7, "text": "그래서 에이어의 분석 명제 이론은 콰인이 서로를 전제한다고 본 개념들, 곧 의미, 정의, 동의성, 분석성 가운데 하나로 다른 하나를 설명하는 구조를 가진다", "label": "연결", "evidence": "", "note": "에이어 이론에 콰인의 순환 진단을 적용한 Claude의 연결"},
+    {"n": 8, "text": "이 대조는 Claude가 두 텍스트를 맞대어 세운 것이며, 콰인은 이 논문에서 에이어를 거명하지 않는다", "label": "지지됨", "evidence": "본문에 Ayer 없음", "note": "B1-08~10 본문 검색 결과 기출 문항 외에 Ayer 언급 없음"}
+  ],
+  "sources_used": ["문헌/@Ayer1946 Language, Truth and Logic.md", "문헌/@Quine1951 Two Dogmas of Empiricism.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-14_Ayer-LTL-4장-2.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-15_Ayer-LTL-4장-3.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-18_Ayer-LTL-서론(1946)-3.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-08_Quine-TwoDogmas-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-09_Quine-TwoDogmas-2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

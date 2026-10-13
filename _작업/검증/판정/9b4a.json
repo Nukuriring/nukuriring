@@ -1,0 +1,19 @@
+{
+  "id": "9b4a",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "카플란 체계에서 I am here now는 타당하면서 우연적이다", "label": "지지됨", "evidence": "타당하지만 우연적으로 참", "note": ""},
+    {"n": 1, "text": "카플란은 맥락의 정의에 화자가 맥락의 시간과 세계에서 그 장소에 있다는 조건을 넣는다", "label": "지지됨", "evidence": "맥락의 정의 자체에 …박아 넣었기", "note": ""},
+    {"n": 2, "text": "그래서 어느 맥락에서 평가해도 참이고 모든 맥락에 대한 전칭 양화가 타당성이다", "label": "지지됨", "evidence": "타당성 = 1단(맥락)에 대한 전칭", "note": ""},
+    {"n": 3, "text": "한 맥락을 고정하면 내용은 하나의 단칭 명제이며 다른 세계에서 거짓일 수 있다", "label": "지지됨", "evidence": "하나의 단칭 명제…깨질 수 있다", "note": ""},
+    {"n": 4, "text": "타당성은 성격 단계, 우연성은 내용 단계의 양화에 걸려 충돌하지 않는다", "label": "지지됨", "evidence": "서로 다른 종류의 양화에 걸려", "note": ""},
+    {"n": 5, "text": "문장을 이해만 해도 자기 맥락에서 참임을 알 수 있어 우연적 선험의 사례가 된다(§3.8)", "label": "지지됨", "evidence": "이해하기만 해도…참임을 알 수 있다", "note": ""},
+    {"n": 6, "text": "크립키는 지시 고정으로, 카플란은 성격 함수의 구조로 우연적 선험을 얻는다", "label": "지지됨", "evidence": "성격이라는 함수의 구조로 만듭니다", "note": "대화 속 설명(표시됨)."},
+    {"n": 7, "text": "'I exist'도 타당하지만 'Necessarily I exist'는 거짓이다", "label": "지지됨", "evidence": "'Necessarily I exist'는 거짓", "note": ""}
+  ],
+  "sources_used": ["문헌/@Braun SEP Indexicals.md", "_원자료/claude.ai/chats/2026-06-26_Understanding indexicals.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

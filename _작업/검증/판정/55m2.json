@@ -1,0 +1,21 @@
+{
+  "id": "55m2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "더글러스는 읽는 능력이 해방과 소외를 함께 가져왔다고 보여 주고 제이콥스는 백인 여성 독자에게 성욕을 줄이고 모성을 강조하는 협상을 한다", "label": "지지됨", "evidence": "appeal to readership of white woman", "note": ""},
+    {"n": 1, "text": "3월 30일 강의는 미국이 평등 위에 세워졌는데 노예제가 지속되는 모순을 짚고 소로와 멜빌이 노예제에 반대했다고 정리한다", "label": "지지됨", "evidence": "founded in equality. Slavery persists", "note": ""},
+    {"n": 2, "text": "더글러스의 노예 서사에서 읽고 쓰는 능력은 자유와 힘을 주어 인간 공동체에 통합된 느낌을 준다", "label": "지지됨", "evidence": "자유와 힘을 주었다. feel integrated", "note": ""},
+    {"n": 3, "text": "읽는 능력은 노예됨에 대한 자각도 불러와 그는 백인 사회와 동료 흑인 모두에게서 고립된다", "label": "지지됨", "evidence": "isolated from white people, and isolated from fellow", "note": ""},
+    {"n": 4, "text": "필기는 해방과 소외, 지적 각성과 사회적 분리가 함께 온다고 정리한다", "label": "지지됨", "evidence": "intellectual awakening. sociological disintegration", "note": ""},
+    {"n": 5, "text": "더글러스는 감상주의의 함정을 알았고 비판하면서도 잘 활용했다", "label": "지지됨", "evidence": "비판도 했지만, 잘 사용하기도 했음", "note": "필기 주어는 'they'(노예 서사 작가들)로 더글러스만을 가리키지는 않으나 소제목이 더글러스"},
+    {"n": 6, "text": "해리엇 제이콥스의 『Incidents in the Life of a Slave Girl』(1853)은 1980년대에 다시 주목받았고 노예제와 인종주의의 축에 젠더를 더했다", "label": "지지됨", "evidence": "1980s에 다시 주목받음", "note": ""},
+    {"n": 7, "text": "서술 전략은 백인 여성 독자에게 호소하는 협상이다", "label": "지지됨", "evidence": "서술 전략은 독자에게 호소하는 방식. 특히 백인 여성들", "note": ""},
+    {"n": 8, "text": "제이콥스는 성욕을 낮추어 서술하여 노예 여성의 인간성과 존엄을 강조한다", "label": "지지됨", "evidence": "Undermining her sexuality", "note": ""},
+    {"n": 9, "text": "할머니를 모성의 화신으로 그려 강한 어머니의 이미지로 노예 여성의 인간성을 보여 준다", "label": "지지됨", "evidence": "할머니는 일종의 모성의 화신처럼 모사된다", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/미문개/3 30 노예제 7fe24234f67848f1b3cd3ac5144d3e21.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

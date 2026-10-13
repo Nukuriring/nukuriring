@@ -1,0 +1,17 @@
+{
+  "id": "69h16",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "FTP, SMTP, POP3, IMAP, MIME, HTTP, TELNET은 파일 전송, 전자우편, 웹, 원격 접속을 맡는다", "label": "지지됨", "evidence": "TELNET: 다른컴퓨터에 접속하여 원격제어", "note": ""},
+    {"n": 1, "text": "FTP는 파일을 송수신하는 프로토콜이며 바이너리와 ASCII를 제공하고 처리 능력이 없어 파일을 실행할 수 없으며 계정이 없어도 쓸 수 있다", "label": "지지됨", "evidence": "계정이 없어도 사용할 수 있음", "note": ""},
+    {"n": 2, "text": "전자우편은 ASCII 코드로 전송한다", "label": "지지됨", "evidence": "전자우편: ASCII 코드로 전송.", "note": ""},
+    {"n": 3, "text": "POP3는 메일 서버에서 사용자 컴퓨터로 받을 때 쓰고 SMTP는 컴퓨터에서 다른 사람 계정으로 보낼 때 쓴다", "label": "지지됨", "evidence": "메일 서버에서 사용자 컴퓨터로 수신하기 위해", "note": ""},
+    {"n": 4, "text": "IMAP은 프로그램으로 메일 서버에 접근하게 하고 MIME는 멀티미디어 내용을 확인하고 실행시켜 준다", "label": "지지됨", "evidence": "멀티미디어 내용을 확인하고 실행시켜 줌", "note": ""},
+    {"n": 5, "text": "HTTP는 하이퍼텍스트 문서를 전송하는 프로토콜이고 TELNET은 다른 컴퓨터에 접속해 원격 제어하는 프로토콜이다", "label": "지지됨", "evidence": "하이퍼텍스트 문서를 전송하기 위한 프로토콜", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/컴퓨터 활용 능력/컴퓨터 일반 25a97cdd867e80ada202fde979b9c028.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "54f8",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "카벨은 내가 알았다고 말하는 일을 추측을 확실성으로 바꾸려는 미래 엿보기로 읽는다", "label": "지지됨", "evidence": "alchemize a guess or a hope ... A pry into the future", "note": "필기는 출처를 표기하지 않은 영어 대목을 붙여 두었다"},
+    {"n": 1, "text": "인식론이 미래를 확실히 알 수 없음을 보이는데도 우리가 그것을 믿지 않고 앞질러 기대하므로 늘 틀린다", "label": "부분 지지", "evidence": "If epistemology will demonstrate that we cannot", "note": "원문은 'If epistemology will demonstrate ... we anticipate and so we're always wrong'로 조건문인데 카드는 조건을 빼고 사실로 서술했다."},
+    {"n": 2, "text": "기대한 일이 실제로 일어나도 우리는 자기 능력과 안전이 무엇에 달려 있는지를 잘못 이해한다", "label": "지지됨", "evidence": "get the wrong idea of our powers", "note": ""},
+    {"n": 3, "text": "일어날 줄 알았다고 여겨 자신이나 남을 축하하거나 벌하고, 결과에 맞서 할 수 있는 일을 하며 버티는 일은 소홀해진다", "label": "지지됨", "evidence": "instead of acting as we can and remaining equal", "note": ""},
+    {"n": 4, "text": "안도나 고통 속에서 '그럴 줄 알았다'고 말하는 것은 결과를 온전히 알았다는 뜻보다 '무언가가 알려 주었다'는 뜻에 가깝다", "label": "지지됨", "evidence": "It means roughly that 'Something Told You'", "note": "'roughly'가 '가깝다'로 유지됨"},
+    {"n": 5, "text": "이렇게 '알았다'고 말하는 마음가짐은 추측이나 희망, 의심을 확실성으로 바꾸려고 해 왔고 지금도 하고 있음을 드러낸다", "label": "지지됨", "evidence": "have tried and are going on trying now", "note": ""},
+    {"n": 6, "text": "이는 양심의 암시와 다르게 미래를 엿보는 일이다", "label": "지지됨", "evidence": "A pry into the future. Rather than an intimation", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/Stanley Cavell cf231b9b4b064fd788bc8b05a8751fdd.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

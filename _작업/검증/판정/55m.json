@@ -1,0 +1,20 @@
+{
+  "id": "55m",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "감상주의는 공감을 인간의 근본 감정으로 삼아 독자의 공감을 끌어내려 하며 공감의 보편화가 경험의 차이를 가리는 위험을 가진다", "label": "지지됨", "evidence": "공감능력을 인간의 근본적 감정으로 삼았다", "note": ""},
+    {"n": 1, "text": "강의는 감상주의를 인간이 서로의 감정을 이해함으로써 관계를 맺을 수 있다는 생각에 바탕을 둔 흐름으로 정의한다", "label": "지지됨", "evidence": "form relationship by understanding another's feeling", "note": ""},
+    {"n": 2, "text": "이 흐름은 감수성을 도덕의 기반으로 삼는 상식 도덕에서 이어지며 남의 감정에 공감하는 일이 핵심이다", "label": "지지됨", "evidence": "common sense as 도덕 기반. Sentimentalism - persists", "note": "'persists'를 '이어진다'로 옮김. 필기가 간략해 해석 폭이 있으나 허용 범위"},
+    {"n": 3, "text": "특징은 독자를 초대하고 직접 보여주어 공감을 이끌어내려는 노력이다", "label": "지지됨", "evidence": "독자를 초대하려는, 독자에게 직접적으로 보여주려는", "note": ""},
+    {"n": 4, "text": "『톰 아저씨의 오두막』은 반노예제 잡지에 실려 노예제의 악을 보여주며 폐지론을 북돋았고 불티나게 팔렸다", "label": "지지됨", "evidence": "inspire abolitionism, by demonstrating the evil", "note": ""},
+    {"n": 5, "text": "이 소설은 중간계급 여성의 사회 개혁과 여성의 지위, 교육, 독자층, 경제적 지위의 향상에도 영향을 주었다", "label": "지지됨", "evidence": "여성 지위, 교육, 독자층형성, 경제적 지위 향상에 영향", "note": "필기는 '(2) Impact on social reform: Feminism'으로 적어 소설 자체의 영향인지 감상주의 전반의 영향인지 모호하나 같은 소제목 아래에 있음"},
+    {"n": 6, "text": "강의는 감상성이 소외된 사람들에게 공감하려 할 때 위험해질 수 있다고 본다", "label": "지지됨", "evidence": "Marginalized people… 공감하려드는 작업.. 위험할 수 있다", "note": ""},
+    {"n": 7, "text": "필기에 인용된 문장에 따르면 인간 감정의 보편화가 특권을 가진 관찰자와 응시되는 대상 사이의 경험의 실제 차이를 존중하며 인정하는 일을 막을 수 있다", "label": "지지됨", "evidence": "universalization of human feelings blocked respectful", "note": "원문 'could also go bad when…'의 가능 한정이 '막을 수 있다'로 유지됨"},
+    {"n": 8, "text": "흑인을 수동적이거나 이상화된 존재로 그려 복잡한 삶을 단순화하는 일이 그 예이다", "label": "지지됨", "evidence": "흑인을 이상화하고, 아름답게 미화한다", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/미문개/Sentimentalism 1c92ede614d14c9f9ab159e9298ea17b.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

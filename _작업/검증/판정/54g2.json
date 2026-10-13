@@ -1,0 +1,19 @@
+{
+  "id": "54g2",
+  "voice": "종합",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "머큐쇼의 퀴어함과 흑인성은 consort와 minstrel이라는 낱말에 극에 없던 뜻을 더한다", "label": "부분 지지", "evidence": "can also mean spouse in the film's context", "note": "원문은 'can also mean', 'can be considered', 'can be symptomatic'으로 발표자들의 읽기를 가능성으로 서술했는데 제목은 '뜻을 더한다'고 단정했다. consort의 배우자 뜻이 극 텍스트에 없었다는 확인도 원문에 없다(본문 문장들은 '발표의 읽기'로 귀속해 한정을 지킴)."},
+    {"n": 1, "text": "발표는 이미지 4번(사이키델릭한 색의 여장 인물)과 7번(고대의 동성애 조각)이 머큐쇼의 퀴어한 면과 성 규범과의 불화를 나타낸다고 본다", "label": "지지됨", "evidence": "discordance with sexuality norms", "note": ""},
+    {"n": 2, "text": "이 이미지 때문에 영화의 머큐쇼는 극의 인물보다 더 퀴어하다고 읽힐 여지가 생긴다", "label": "지지됨", "evidence": "leaves open the possibility that he may be", "note": "'여지' 한정 유지"},
+    {"n": 3, "text": "3막 1장 44행에서 티볼트가 'Mercutio, thou consortest with Romeo'라고 한다", "label": "지지됨", "evidence": "thou consortest with Romeo (3.1.44)", "note": "대사와 행 번호 일치"},
+    {"n": 4, "text": "consort는 영화의 맥락에서 배우자라는 뜻으로도 들려 머큐쇼를 더 크게 모욕할 수 있다는 것이 발표의 읽기이다", "label": "지지됨", "evidence": "can be considered more offensive", "note": ""},
+    {"n": 5, "text": "머큐쇼는 음악가 무리를 뜻하는 consort에 맞서 minstrel이라는 말로 응수한다", "label": "지지됨", "evidence": "a counterpart against the word 'consort'", "note": ""},
+    {"n": 6, "text": "흑인으로 설정된 머큐쇼의 입에서 나온 이 낱말은 아프리카계 미국인을 학대한 minstrel show를 떠올리게 한다고 발표는 짚는다", "label": "지지됨", "evidence": "reminds the audience of the 'minstrel show'", "note": ""},
+    {"n": 7, "text": "이 해석은 영화가 극보다 풍부한 말놀이를 갖게 되었다는 주장으로 이어진다", "label": "지지됨", "evidence": "The film shows richer puns than the original", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/Shakespear 61fcef2af76041d68e742e5f580bb3d0.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

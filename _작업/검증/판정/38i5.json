@@ -1,0 +1,19 @@
+{
+  "id": "38i5",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "트래비스는 Bedeutung을 사고의 요구에 대한 기여와 그 요구의 처분에 대한 기여로 가른다", "label": "지지됨", "evidence": "R-Bedeutung…V-Bedeutung", "note": "채팅 06:09 §5.5."},
+    {"n": 1, "text": "§5.5의 둘째 시도는 고유 술어적 부분사고에서 출발하며, 그 기여는 그것이 표상하는 방식으로 구별되므로 그 방식, 곧 축약을 Bedeutung으로 삼는다(p.116)", "label": "지지됨", "evidence": "고유 술어적 부분사고의 Bedeutung은 그것의 축약(redaction)", "note": ""},
+    {"n": 2, "text": "Bedeutung은 자기가 부분인 전체 사고가 진리를 사물이 어떠한지에 걸리게 하는 데 대한 기여이고, 전체 사고의 Bedeutung은 그것이 사물을 어떠하다고 표상하는 방식이다(p.116)", "label": "지지됨", "evidence": "전체 사고의 Bedeutung은 …표상하는 그 방식", "note": ""},
+    {"n": 3, "text": "이 견해에서도 London은 'London'의 Bedeutung일 수 있지만, 전체 사고의 Bedeutung이 진리치라면 그것은 bedeuten을 대상 역할에 배역함과 다르게 이해할 때에만 그렇다(p.117)", "label": "지지됨", "evidence": "지시함이 아닌…Bedeutung 이해에서만", "note": ""},
+    {"n": 4, "text": "R-Bedeutung은 진리를 위해 사고가 사물에 요구하는 바를 구성하는 데 대한 기여이고, V-Bedeutung은 사물이 있는 그대로임이 그 제안을 어떻게 처분하는지에 대한 기여이다(p.118)", "label": "지지됨", "evidence": "사물이 있는 그대로임이 …제안을 어떻게 처분하는지", "note": ""},
+    {"n": 5, "text": "지시적 부분사고의 두 Bedeutung은 모두 지시체이고, 고유 술어적 부분사고의 R-Bedeutung은 그러할 방식이며 V-Bedeutung은 외연이나 그 기능적 등가물이다(p.118)", "label": "지지됨", "evidence": "외연 또는 그 기능적 등가물", "note": ""},
+    {"n": 6, "text": "Claude는 R을 4장의 제안자 쪽, V를 처분자 쪽에 대응시켜 두 Bedeutung이 참임의 이자 사업을 반영한다고 정리한다(대화 속 설명)", "label": "지지됨", "evidence": "R은 제안자 쪽이고, V는 처분자 쪽이다", "note": ""},
+    {"n": 7, "text": "트래비스는 지시적 부분사고만 다른 두 사고가 R-Bedeutung에서 다른지에 관한 잔여 미결정성을 지적만 하고 논의하지 않는다(p.117)", "label": "지지됨", "evidence": "지적만 하고 논의하지 않은 채 둔다", "note": ""}
+  ],
+  "sources_used": ["문헌/@Travis2021 Frege The Pure Business of Being True.md", "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-10_TPBBT 4 함께 이해하기.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

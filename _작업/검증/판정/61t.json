@@ -1,0 +1,20 @@
+{
+  "id": "61t",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "윌리엄슨은 행위와 앎이 다르게 개념화되는 까닭을 결과가 원인에 의존하는 방식에 따른 기원 개별화에서 찾는다", "label": "부분 지지", "evidence": "The answer may lie in our tendency to individuate by origins", "note": "원문은 'may lie'(그럴 수 있다)인데 제목과 본문은 '찾는다/있다고 보며'로 단정함"},
+    {"n": 1, "text": "윌리엄슨은 앎과 행위의 유비가 완전하지 않다고 인정한다", "label": "지지됨", "evidence": "the analogy ... is not perfect", "note": ""},
+    {"n": 2, "text": "행위함은 정의상 어떤 종류의 상태도 아니고 동적이며, 문이 닫혀 있음을 아는 것은 심적 상태일 수 있어도 문을 닫는 행위는 심적 행위가 아니다", "label": "지지됨", "evidence": "Acting is by definition no state of any kind", "note": ""},
+    {"n": 3, "text": "창문이 깨졌음을 보기 시작하는 때는 빛이 망막에 닿은 뒤이지만, 돌이 손을 떠나기 전에 창문을 깨는 일을 끝냈다고는 말하지 않는다", "label": "지지됨", "evidence": "One starts seeing that the window is broken after the light rays", "note": ""},
+    {"n": 4, "text": "윌리엄슨은 그 답이 우리가 기원에 따라 개별화하는 경향에 있다고 보며", "label": "부분 지지", "evidence": "The answer may lie in our tendency", "note": "한정어 'may' 누락 (n=0과 같은 문제)"},
+    {"n": 5, "text": "결과는 원인에 의존하지만 원인은 결과에 의존하지 않는다는 점이 그 근거이다", "label": "지지됨", "evidence": "Effects depend on their causes", "note": ""},
+    {"n": 6, "text": "환경의 원인에서 지각 경험에 이르는 과정의 초기 단계는 대개 지각자의 개입에 의존하지 않고, 의도에서 환경에 대한 결과에 이르는 과정은 후기 단계라도 행위자의 개입에 의존한다", "label": "지지됨", "evidence": "typically do not depend on the perceiver's involvement", "note": ""},
+    {"n": 7, "text": "출력 과정은 초기와 후기를 모두 행위자에게 귀속되는 것으로 묶고, 입력 과정은 후기 단계만 지각자에게 귀속되는 것으로 묶으며 초기 단계는 전제 조건으로만 다룬다", "label": "지지됨", "evidence": "merely as preconditions for what we attribute", "note": ""},
+    {"n": 8, "text": "지속적인 심적 개입 없이 일어나는 출력의 후기 단계도 행위에 묶이므로 행위를 심적인 것으로 보기 꺼려지고, 입력의 초기 단계는 지각이나 앎에 묶이지 않으므로 앎을 심적인 것으로 보는 데는 대응하는 걸림이 없다", "label": "지지됨", "evidence": "we are reluctant to conceive it as mental", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/윈랤슨 지식과 그 한계 서론 35697cdd867e81d7ba30ecfe05c182ca.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "8a5",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "프레게는 종속절의 대체 실패를 두 원인으로 설명하여 진리치 지시 논제를 지킨다", "label": "지지됨", "evidence": "cannot be brought in disproof of our view", "note": ""},
+    {"n": 1, "text": "문장의 지시체가 진리치라면 다른 문장을 부분으로 가진 문장에서 그 부분을 진리치가 같은 문장으로 바꾸어도 전체의 진리치는 변하지 않아야 한다(p.30)", "label": "지지됨", "evidence": "must remain unchanged when the part is replaced", "note": ""},
+    {"n": 2, "text": "대체 실패의 첫째 원인은 종속절이 사고의 일부만 표현하여 진리치를 지시하지 않는 경우이며, 낱말이 간접 지시체를 갖거나 고유명 자리에 부정 지시어만 있을 때 생긴다(p.41)", "label": "지지됨", "evidence": "expresses only a part of a thought", "note": ""},
+    {"n": 3, "text": "'어떤 수가 1보다 작고 0보다 크면 그 제곱도…'에서 'a number'와 'its'가 서로를 가리키며, 이 부정성 덕분에 뜻은 법칙의 일반성을 얻고 조건절 혼자서는 완결된 사고를 갖지 못한다(p.36)", "label": "지지됨", "evidence": "the sense acquires the generality expected of a law", "note": ""},
+    {"n": 4, "text": "둘째 원인은 종속절이 진리치를 지시하되 거기에 그치지 않는 경우로, 베벨 문장에서는 한 번은 사고를 한 번은 진리치를 지시하고 '얼음은 …뜨므로'에서는 한 사고와 다른 사고의 일부를 함께 표현한다(pp.39-40)", "label": "지지됨", "evidence": "once for a thought, once for a truth value", "note": ""},
+    {"n": 5, "text": "프레게는 대체가 불가능한 사례들이 문장의 지시체가 진리치라는 견해의 반증이 되지 못한다는 것이 'with sufficient probability' 따라 나온다고 결론짓는다(p.41)", "label": "지지됨", "evidence": "It follows with sufficient probability", "note": "한정어가 카드에 인용으로 유지됨"}
+  ],
+  "sources_used": ["문헌/@Frege1892 Über Sinn und Bedeutung.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-02_Frege-SR-2.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-03_Frege-SR-3.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-04_Frege-SR-4.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "8a",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "프레게는 a=a와 a=b의 인식적 가치 차이를 뜻으로 설명한다", "label": "지지됨", "evidence": "differ in mode of presentation", "note": "p.23: 기호 차이가 제시 방식 차이에 대응할 때에만 차이가 생김"},
+    {"n": 1, "text": "a=a는 선험적으로 성립하고 칸트를 따르면 분석적이지만, a=b 꼴의 진술은 해가 늘 같은 해라는 천문학적 발견처럼 앎을 크게 넓히므로 둘은 인식적 가치가 다르다", "label": "부분 지지", "evidence": "often contain very valuable extensions", "note": "원문은 'a=b 꼴의 진술은 종종(often) 앎을 크게 넓히고 항상 선험적으로 확립될 수는 없다(cannot always)'. 카드는 '종종/항상은 아님'을 빼고 일반 단정"},
+    {"n": 2, "text": "동일성을 기호가 가리키는 대상 사이의 관계로 보면 a=b가 참일 때 a=a와 다를 수 없다", "label": "지지됨", "evidence": "a = b could not differ from a = a", "note": "'provided a = b is true' 조건이 카드에 있음"},
+    {"n": 3, "text": "『개념 표기법』에서 택했던 대로 이름 사이의 관계로 보면 a=b는 표시 방식에 관한 진술이 되어 대상에 관한 고유한 앎을 표현하지 못한다", "label": "지지됨", "evidence": "we would express no proper knowledge", "note": ""},
+    {"n": 4, "text": "기호의 차이가 지시된 것의 제시 방식의 차이에 대응할 때에만 인식적 가치의 차이가 생기며, 제시 방식을 담은 것이 기호의 뜻이다(pp.23-24)", "label": "지지됨", "evidence": "A difference can arise only if", "note": ""},
+    {"n": 5, "text": "삼각형 중선들의 교점 예와 샛별/개밥바라기 예에서 두 표현의 지시체는 같고 뜻은 다르다", "label": "지지됨", "evidence": "the same, but not their senses", "note": ""},
+    {"n": 6, "text": "논문 끝에서 a=b가 참이면 두 문장의 진리치는 같지만 'b'의 뜻이 'a'의 뜻과 다르면 두 문장이 표현하는 사고가 달라 인식적 가치도 다르다(pp.41-42)", "label": "지지됨", "evidence": "do not have the same cognitive value", "note": ""}
+  ],
+  "sources_used": ["문헌/@Frege1892 Über Sinn und Bedeutung.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-01_Frege-SR-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-04_Frege-SR-4.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "7i2",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "카벨은 코스텔로의 씁쓸함을 타협할 수 있는 몸의 발견으로 읽는다", "label": "지지됨", "evidence": "the discovery that…her body is, capable of compromise", "note": "원문은 'Is it then…?'라는 물음 형식. 판정 사례(물음→정리된 서술)에 따라 지지됨"},
+    {"n": 1, "text": "카벨은 다이아몬드 글의 주된 사안을 비인간 동물의 세계와의 얽힘, 그중 동물을 인간의 음식으로 대량 준비하는 일과의 관계로 요약하고 자신이 이 문제를 회피해 왔다고 느낀다고 고백한다(pp.92-93)", "label": "지지됨", "evidence": "자신이 이 문제를 회피해 왔다고 느낀다고 고백", "note": ""},
+    {"n": 2, "text": "그는 다이아몬드가 과도한 앎(inordinate knowledge), 곧 그 절박함이 표현에서 지나치게 보일 수 있는 앎의 문제를 제기한다고 규정한다(p.95)", "label": "부분 지지", "evidence": "문제를 제기한다고 규정할 수 있겠다고 말한다", "note": "원문은 '규정할 수 있겠다(may be able to characterize)'로 한정함. 카드는 '규정한다'로 단정"},
+    {"n": 3, "text": "옷 아래 상처를 감추며 드러낸다는 코스텔로의 말에서, 옷 아래 있는 것이 늙었을 뿐 다친 곳 없는 여성의 몸이라는 점에 주목해 그녀가 표현하는 고통을 인간의 몸을 가졌다는 사실과 동일시하고 이 발화를 예언이라 부른다(pp.110-111)", "label": "지지됨", "evidence": "인간의 몸을 가졌다는 사실, 곧 인간이라는 사실과 동일시", "note": ""},
+    {"n": 4, "text": "다이아몬드의 씁쓸한 타협을 받아 'Is it then in her case not the necessity of compromise that causes bitterness, but rather the discovery that she is, that her body is, capable of compromise?'라고 묻는다(pp.118-120)", "label": "지지됨", "evidence": "the discovery that she is, that her body is, capable of compromise", "note": "인용문 일치"},
+    {"n": 5, "text": "이 물음은 사회의 불의와 무관심에 가담하고 있다는 사실과 광기의 위협으로 넓어지고, 카벨은 프로이트를 따라 어떤 인간의 삶도 'without residue into the clear'에 이를 수 없다고 말한다(pp.120-121)", "label": "지지됨", "evidence": "어떤 인간의 삶도 “without residue into the clear”", "note": ""},
+    {"n": 6, "text": "끝에서 카벨은 'I am above reproach'도 'I am not above reproach'도 말할 수 없으며 하고 싶은 말은 'I am human'이지만 그 호소를 누구에게 향할 수 있느냐는 물음이 남는다고 쓴다(pp.122-123)", "label": "지지됨", "evidence": "그 호소를 누구에게 향할 수 있느냐는 물음이 남는다", "note": ""}
+  ],
+  "sources_used": ["문헌/@Cavell2008 Philosophy and Animal Life.md", "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/docs/claude/PAL_쟁점정리.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

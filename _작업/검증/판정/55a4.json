@@ -1,0 +1,17 @@
+{
+  "id": "55a4",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "강의는 원주민이 소멸할 운명이라는 통념이 명백한 운명 이념에서 나왔다고 보고 원주민을 응답하는 행위자로 읽게 한다", "label": "지지됨", "evidence": "Misconception: Native Americans are doomed", "note": ""},
+    {"n": 1, "text": "3월 9일 강의는 만남의 결과로 경이와 문화 교류가 있었지만 폭력과 추방, 질병과 대량 사망, 전쟁과 노예제도 있었다고 정리한다", "label": "지지됨", "evidence": "Disease + War + Slavery", "note": ""},
+    {"n": 2, "text": "노예제는 한 사람이 다른 사람을 재산으로 소유하는 제도이며 유럽인이 아프리카인을 신대륙으로 옮겨 온 일은 미국의 국가적 외상으로 이야기된다", "label": "지지됨", "evidence": "one person owning the other as property", "note": ""},
+    {"n": 3, "text": "강의는 원주민이 소멸할 운명이라는 통념을 오해로 보며 이 통념은 식민 팽창이 불가피하고 신이 계획했다는 명백한 운명 이념에서 나왔다", "label": "지지됨", "evidence": "due to Manifest Destiny", "note": ""},
+    {"n": 4, "text": "필기에 옮긴 문장에 따르면 인구가 줄어드는 가운데에도 원주민은 유럽인과 아프리카인이 가져온 관행에 저항하고 변형하고 활용했다", "label": "지지됨", "evidence": "indenous Americans resisted, transformed and exploited", "note": ""},
+    {"n": 5, "text": "이 독해는 원주민을 응답하는 행위자로 놓고 구술 문화와 구술 장르의 기록을 문학사에 들이는 방향으로 이어진다", "label": "부분 지지", "evidence": "Thinking indigenous Americans as an agent", "note": "행위자로 본다는 부분은 근거 있음. 구술 문화와 구술 장르 기록은 필기에 제목 두 줄뿐이며 이를 문학사에 들이는 방향이라는 설명은 필기에 없음."}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/미문개/3 9 Thr Native Amrican Response and Cultures 298938f43d0143bca251a1605ce2732f.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

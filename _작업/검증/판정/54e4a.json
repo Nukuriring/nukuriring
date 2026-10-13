@@ -1,0 +1,18 @@
+{
+  "id": "54e4a",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "레만에 따르면 물의 양이 늘수록 물 이미지는 탈출 대신 가둠을 떠올리게 한다", "label": "지지됨", "evidence": "not escape but enclosure", "note": ""},
+    {"n": 1, "text": "줄리엣은 욕조에서 물속에서 올라오는 모습으로 처음 나오고, 로미오는 캐풀렛가 무도회에서 대야에 머리를 담가 황홀감을 씻으려 한다", "label": "지지됨", "evidence": "first introduced to us under water", "note": ""},
+    {"n": 2, "text": "두 사람은 수족관의 열대 물을 사이에 두고 첫눈에 반하며 발코니 장면은 수영장에서 연출된다(192)", "label": "지지됨", "evidence": "through the tropical waters of an aquarium", "note": "192쪽 일치"},
+    {"n": 3, "text": "물의 양이 욕조와 싱크대에서 수족관, 수영장으로 늘수록 이 이미지가 탈출 대신 가둠을 불러낸다", "label": "지지됨", "evidence": "as the volume of water steadily increases", "note": ""},
+    {"n": 4, "text": "연인은 캐풀렛가의 감시 카메라를 피해 자주 물속으로 잠긴다", "label": "지지됨", "evidence": "frequent lunges under water to avoid", "note": ""},
+    {"n": 5, "text": "수영장 장면에서 개가 짖고 카메라가 수면을 훑을 때 루어만의 연출대로 아름다운 두 마리 물고기처럼 서로를 바라본다", "label": "지지됨", "evidence": "like two beautiful fish", "note": ""},
+    {"n": 6, "text": "숨을 쉬러 올라오지 못하면 익사한다는 불안이 이 장면에서 시작되며 영화는 쾌락에서 독으로 흐르는 비극적 전환을 연다(196)", "label": "지지됨", "evidence": "from pleasure to 'poyson'", "note": "196쪽 일치"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/Shakespear/Quotes b9a5775c26ac4569aeade658be029b89.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "9d2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "Kang은 프로토트락타투스의 집필 시기를 1917년 말에서 1918년 초로 본다", "label": "지지됨", "evidence": "Sept 1917–Feb 1918", "note": "Claude 요약은 이를 'admittedly speculative' 추정이라 함. 카드 본문은 '추정'으로 적어 합치."},
+    {"n": 1, "text": "PT는 1965년 폰 브릭트가 빈에서 찾은 논고의 초기 판본으로 날짜가 없고 대부분 다른 원고에서 옮겨 적은 것이다", "label": "지지됨", "evidence": "found in Vienna in 1965", "note": ""},
+    {"n": 2, "text": "28, 52, 60, 64, 70, 71, 78쪽의 일곱 가로줄이 절의 경계를 표시한다고 보고 구성과 원천 원고를 재구성한다", "label": "지지됨", "evidence": "mark section boundaries", "note": ""},
+    {"n": 3, "text": "PT가 이미 수정을 거친 중간 원고들에서 옮겨졌다고 논증한다", "label": "지지됨", "evidence": "intermediate, already-revised", "note": ""},
+    {"n": 4, "text": "폰 브릭트의 1918년 여름설과 처음 71쪽을 1915~16년에 둔 맥기니스의 3단계 가설을 모두 거부한다", "label": "지지됨", "evidence": "Kang rejects both standard proposals", "note": ""},
+    {"n": 5, "text": "결정적 근거는 3–28쪽 핵심부가 이미 명제의 일반 형식과 형식적 계열(연산 N) 개념을 담는데 비트겐슈타인이 1917년 초 노트북 3 끝까지도 그 개념에 이르지 못했다는 점이다", "label": "지지됨", "evidence": "had not yet reached even at the end of NB 3", "note": ""},
+    {"n": 6, "text": "PT가 체르노비츠 주둔기인 1917년 9월~1918년 2월에 쓰였다고 추정하고 두 선행 연구가 각각 반쯤 옳다고 결론짓는다", "label": "지지됨", "evidence": "both predecessors were half-right", "note": ""},
+    {"n": 7, "text": "대화 속 평가: 재연대는 크레머식 발전론적 독해의 근거를 약화하고 명제의 일반 형식이 1917년에 생겨났다는 연대 판정을 겸한다", "label": "지지됨", "evidence": "placing the breakthrough in 1917", "note": "Claude 05:21의 평가(출처 절에 표시됨)."}
+  ],
+  "sources_used": ["문헌/@Kang2005 Composition of the Prototractatus.md", "_원자료/claude.ai/chats/2026-06-11_Article summary request.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

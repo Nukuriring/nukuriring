@@ -1,0 +1,16 @@
+{
+  "id": "54b2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "카벨에 따르면 오델로는 이아고를 믿고 싶어 하며 독을 필요로 한다", "label": "지지됨", "evidence": "his devouring need of it", "note": ""},
+    {"n": 1, "text": "우리가 데스데모나를 오델로보다 더 잘 안다고 가정하여 오델로를 이국적이고 미신적이며 어리석은 인물로 만들어서는 안 된다", "label": "지지됨", "evidence": "not assume that we know this woman better", "note": ""},
+    {"n": 2, "text": "오델로는 이아고의 말이 거짓임을 어느 정도 알면서 앎에 맞서 그를 믿으려 애쓴다", "label": "지지됨", "evidence": "against his knowledge, to believe him", "note": "'어느 정도' 유지됨"},
+    {"n": 3, "text": "이아고의 정직함을 간절히 고집하고 앎의 갈증을 독으로 달래는 태도는 어리석음이 아니라 독에 대한 집요한 필요의 표시이다", "label": "지지됨", "evidence": "not a sign of his stupidity", "note": ""},
+    {"n": 4, "text": "데스데모나가 간통했다는 생각이 정숙하다는 생각보다 오델로에게 더 편리하다", "label": "지지됨", "evidence": "adulterous whore is more convenient", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/Annotated Bib d226e7d2e87a45cc9a5e0308eb9f6818.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

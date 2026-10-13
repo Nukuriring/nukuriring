@@ -1,0 +1,19 @@
+{
+  "id": "8d5",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "에이어는 1946년에 검증 원리를 진술에 적용하고 기본 명제의 결정적 검증을 인정한다", "label": "지지됨", "evidence": "apply it directly to", "note": "p.176 'we may... apply it directly to statements'; 기본 명제 p.177"},
+    {"n": 1, "text": "2판 서론에서 책의 관점이 실질적으로 옳다고 믿으면서도 'in every sense a young man's book'이었고 문제를 실제보다 단순하게 보이게 했다고 인정한다(p.171)", "label": "지지됨", "evidence": "a young man's book", "note": "p.171. 원문 'not in all respects so simple as it makes them appear'의 'in all respects'는 카드에서 빠졌으나 뜻은 보존"},
+    {"n": 2, "text": "문장이 표현하는 명제가 분석적이거나 검증 가능할 때 유의미하다는 정식은, 유의미하지 않은 문장은 명제를 표현하지 않는다는 점과 부딪힌다(pp.171-172)", "label": "지지됨", "evidence": "would not express a", "note": "pp.171-172 'unless a sentence was literally meaningful it would not express a proposition'"},
+    {"n": 3, "text": "문법적으로 유의미한 낱말 형식을 문장, 모든 평서문이 표현하는 것을 진술, 문자적으로 유의미한 문장이 표현하는 것을 명제라 부르고, 검증 원리를 진술은 분석적이거나 경험적으로 검증 가능할 때 그리고 그때에만 문자적으로 유의미하다는 원리로 다시 쓴다(pp.174-176)", "label": "지지됨", "evidence": "either analytic or empirically", "note": "p.174-176"},
+    {"n": 4, "text": "초판의 강한 검증과 약한 검증이 진정한 양자택일이 아니었고, 모든 경험 명제가 가설이라면 강한 의미는 적용될 데가 없다(pp.176-177)", "label": "지지됨", "evidence": "no possible application", "note": "pp.176-177"},
+    {"n": 5, "text": "단 하나의 경험 내용만 가리키는 기본 명제를 인정하고, 언어적 의미에서 잘못 기술할 수는 있어도 사실적으로 틀릴 수는 없다는 의미에서 교정 불가능하다고 본다(p.177)", "label": "지지됨", "evidence": "except in a verbal sense", "note": "p.177"},
+    {"n": 6, "text": "기본 명제는 'nothing venture, nothing lose'인 동시에 'nothing venture, nothing win'이며, 현재 경험을 기록하기만 하는 일은 남에게도 자기에게도 아무 정보를 전하지 않는다(p.178)", "label": "지지됨", "evidence": "nothing venture, nothing win", "note": "p.178"},
+    {"n": 7, "text": "사람들이 실제로 표현하는 명제 대부분은 기본 진술도 아니고 유한한 기본 진술에서 도출되지도 않으므로, 검증 원리는 더 약하게 검증되는 진술을 허용하도록 해석되어야 한다(pp.178-179)", "label": "지지됨", "evidence": "vast majority of the", "note": "pp.178-179"}
+  ],
+  "sources_used": ["문헌/@Ayer1946 Language, Truth and Logic.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-16_Ayer-LTL-서론(1946)-1.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

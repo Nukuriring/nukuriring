@@ -1,0 +1,19 @@
+{
+  "id": "8b3",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "러셀은 그레이의 비가 논증으로 의미와 지시의 구분이 풀 수 없는 혼란을 낳는다고 논증한다", "label": "부분 지지", "evidence": "This is an inextricable tangle", "note": "원문은 '그 구분이 잘못 구상되었음을 증명하는 것으로 보인다(seems to prove)', '충분히 증명하기에 족해 보인다(seem…sufficient to prove)'로 한정함. 카드는 '증명한다고 주장', '논증한다'로 단정. 다만 조지 4세 퍼즐 대목은 'formally proved'라 씀"},
+    {"n": 1, "text": "러셀은 의미와 지시의 관계 자체가 그 구분이 잘못 구상되었음을 증명한다고 주장한다(pp.485-488)", "label": "부분 지지", "evidence": "seems to prove…wrongly conceived", "note": "n=0과 같은 한정어 문제('seems to prove')"},
+    {"n": 2, "text": "지시구 C의 의미를 말하려면 보통 따옴표를 써 \"C\"라 하며, 'The first line of Gray's Elegy states a proposition'과 '\"The first line of Gray's Elegy\" does not state a proposition'이 그 예이다(p.486)", "label": "지지됨", "evidence": "The first line of Gray's Elegy states a proposition.", "note": ""},
+    {"n": 3, "text": "'C의 의미'라고 하면 지시 대상의 의미가 주어진다: 'The meaning of the first line of Gray's Elegy'는 'The meaning of \"The curfew tolls the knell of parting day\"'와 같고 'The meaning of \"the first line of Gray's Elegy\"'와 다르다", "label": "지지됨", "evidence": "that gives us the meaning (if any) of the denotation", "note": ""},
+    {"n": 4, "text": "C가 명제 안에 나타나면 명제는 지시에 관한 것이 되므로, 의미에 관해 말하려면 C를 구성 요소로 포함하지 않으면서 C를 지시하는 무언가가 필요하다(pp.486-487)", "label": "지지됨", "evidence": "the proposition is about the denotation", "note": ""},
+    {"n": 5, "text": "'there is no backward road from denotations to meanings, because every object can be denoted by an infinite number of different denoting phrases'(p.487)", "label": "지지됨", "evidence": "there is no backward road", "note": "인용문 일치"},
+    {"n": 6, "text": "러셀은 이 상황을 'an inextricable tangle'이라 부르고, 조지 4세 퍼즐은 의미도 관련된다는 것을 보이는데 이 관점은 지시만 관련될 수 있다고 강요하므로 관점 자체를 버려야 한다고 결론짓는다(pp.487-488)", "label": "지지됨", "evidence": "the point of view…must be abandoned", "note": ""},
+    {"n": 7, "text": "러셀은 이 논증의 표적을 지시구가 의미를 표현하고 지시를 지시한다고 보는 이론으로 설정하며, 각주에서 프레게가 이 두 요소를 복합 지시구뿐 아니라 모든 곳에서 구별한다고 밝힌다(p.483 각주)", "label": "지지됨", "evidence": "distinguishes the two elements…everywhere", "note": ""}
+  ],
+  "sources_used": ["문헌/@Russell1905 On Denoting.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-06_Russell-OD-2.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-Russell-OD_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

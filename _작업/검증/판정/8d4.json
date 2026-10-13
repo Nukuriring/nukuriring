@@ -1,0 +1,19 @@
+{
+  "id": "8d4",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "에이어는 논리와 수학의 진리가 경험으로 반박되지 않는 까닭을 그것이 동어반복이라는 데서 찾는다", "label": "지지됨", "evidence": "propositions or tautologies", "note": "p.71 'the truths of logic and mathematics are analytic propositions or tautologies'"},
+    {"n": 1, "text": "4장에서 경험론에 늘 제기되는 반론, 곧 경험론의 원리로는 필연적 진리에 대한 앎을 설명할 수 없다는 반론을 다룬다(p.64)", "label": "지지됨", "evidence": "commonly brought against all", "note": "p.64"},
+    {"n": 2, "text": "흄이 보였듯 실제 경험의 시험을 받는 일반 명제는 논리적으로 확실해질 수 없고, 사실 내용을 가진 모든 명제는 기껏해야 개연적 가설이다(pp.64-65)", "label": "지지됨", "evidence": "at best a probable hypothesis", "note": "pp.64-65"},
+    {"n": 3, "text": "경험론자는 논리와 수학의 진리가 필연적이지 않다고 하고 그 보편적 확신을 설명하든지, 사실 내용이 없다고 하고 그런 명제가 어떻게 참이고 유용하고 놀라울 수 있는지 설명해야 한다(p.65)", "label": "지지됨", "evidence": "true and useful and surprising", "note": "p.65"},
+    {"n": 4, "text": "앞의 길을 택한 밀은 이 진리들을 귀납적 일반화로 보았고, 에이어는 이 진리들이 경험적 검증에 타당성을 빚지지 않는다는 인식론적 의미에서 경험과 독립적이라고 반박한다(pp.67-68)", "label": "지지됨", "evidence": "do not owe their validity", "note": "p.68 'to empirical verification'"},
+    {"n": 5, "text": "다섯 쌍을 세었더니 아홉이면 처음 다섯 쌍이었다는 가정이나 셈이 틀렸다고 설명하고, 삼각형 내각 합이 180도와 다르면 측정이 틀렸거나 유클리드 삼각형이 아니었다고 설명한다(p.69)", "label": "지지됨", "evidence": "I had counted wrongly", "note": "p.69. 삼각형 대목의 'or, more probably'(더 그럴듯하게는)는 카드에서 생략됐으나 두 설명을 병렬로 든 것은 원문과 부합"},
+    {"n": 6, "text": "에이어는 'The principles of logic and mathematics are true universally simply because we never allow them to be anything else.'라고 결론짓고, 그 이유를 이 원리들을 버리면 언어 사용 규칙을 어겨 자기 모순에 빠진다는 데서 찾는다(p.71)", "label": "지지됨", "evidence": "simply because we never allow", "note": "인용문 글자 일치"},
+    {"n": 7, "text": "그러므로 논리와 수학의 진리는 분석 명제, 곧 동어반복이다", "label": "지지됨", "evidence": "analytic propositions or", "note": "p.71"}
+  ],
+  "sources_used": ["문헌/@Ayer1946 Language, Truth and Logic.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-13_Ayer-LTL-4장-1.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

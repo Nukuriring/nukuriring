@@ -1,0 +1,19 @@
+{
+  "id": "6d",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "트래비스는 의미가 셈법을 고른다고 가정하면 낱말이 그 뜻을 잃는다는 귀류를 편다", "label": "지지됨", "evidence": "뜻이 셈법을 골라낸다는 가정 자체가 그 낱말의 뜻을 파괴", "note": "Travis 원문 확보 세션 09:15 III절 단계 4."},
+    {"n": 1, "text": "가정은 의미가 n개의 셈법 가운데 m개를 채택하고 n−m개를 배제한다는 것이다(p.30)", "label": "지지됨", "evidence": "selects some of these, and not others", "note": ""},
+    {"n": 2, "text": "n개의 셈법은 각각 무언가가 옳게 검은 것으로 쳐지는 방식이고, 그것들이 모두 셈하는 하나의 것이 있으니 그것은 '(what else?)' 검음이다", "label": "지지됨", "evidence": "그것들 각각이 셈하는 그 하나의 것 — (what else?)", "note": ""},
+    {"n": 3, "text": "검음은 옳은 셈법을 적어도 n개 가진 것인데 가정에 따라 「is black」이 의미하는 바는 n−m개의 셈법을 갖지 않으므로 둘은 같을 수 없고, 「is black」은 검음을 뜻하지 않게 된다", "label": "지지됨", "evidence": "올바른 셈법이 적어도 n가지 있는 것", "note": ""},
+    {"n": 4, "text": "「is black」은 검음을 뜻하므로 가정이 거짓이다", "label": "지지됨", "evidence": "그런데 뜻한다. ∴ 가정은 거짓", "note": ""},
+    {"n": 5, "text": "대화는 이 논증이 경험적 관찰을 넘어, 그런 선택이 있으면 낱말이 그것에 대한 낱말이기를 그친다는 원리적 주장을 세운다고 정리했다(대화 속 정리)", "label": "지지됨", "evidence": "이건 경험적 논증이 아닙니다", "note": ""},
+    {"n": 6, "text": "원문 대조 뒤 대화는 '(what else?)' 괄호가 논증 없이 자명하게 넘기는 자리이며 반론이 들어올 틈이라고 판정했다(대화 속 판정)", "label": "지지됨", "evidence": "논증적 부담을 지지 않고 넘어갑니다", "note": "09:15 VIII절 정정 2 V1."},
+    {"n": 7, "text": "2006년의 트래비스는 `is blue`가 특정 이해들에만 예약되어 있다면 파랗다는 것을 말하지 않게 된다고 같은 논증을 되풀이한다(p.154)", "label": "지지됨", "evidence": "파랗다는 것을 말하지 않게 될 것이다", "note": "2026-08-05 02:09 인용. '같은 논증' 부분은 Claude의 '귀류 21년 뒤 재진술' 판단."}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-04_Travis 원문 확보 및 §5 귀류 재구성.md", "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-04_단행본 첫 논문 close reading 세션.md", "문헌/@Travis1985 On What Is Strictly Speaking True.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

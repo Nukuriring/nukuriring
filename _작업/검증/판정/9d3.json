@@ -1,0 +1,19 @@
+{
+  "id": "9d3",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "새먼은 거짓 개념을 넷으로 나누어 러셀과 프레게의 불일치가 실질적임을 보인다", "label": "지지됨", "evidence": "이건 말장난이 아니라 실질적 불일치", "note": ""},
+    {"n": 1, "text": "러셀은 기술을 양화사로 보아 부정이 작용역에 따라 둘로 갈리고, 프레게와 스트로슨은 지시 실패로 진리치가 없다고 본다", "label": "지지됨", "evidence": "작용역에 따라 두 문장이다", "note": ""},
+    {"n": 2, "text": "러셀은 이 차이를 말뿐인 차이로 처리하려 했다", "label": "지지됨", "evidence": "Russell's 'merely verbal' dismissal", "note": ""},
+    {"n": 3, "text": "「Nonexistence」(1998) §I에서 R-false₁(바깥 부정 참), R-false₂(안쪽 부정 참), F-false₁(선택 부정 참), F-false₂(배제 부정 참)로 나눈다", "label": "지지됨", "evidence": "R-false₁…R-false₂…F-false₁…F-false₂", "note": ""},
+    {"n": 4, "text": "R-false₁과 F-false₂는 '참이 아님'에 가까워 두 진영 모두 그 의미에서 거짓임을 인정한다", "label": "지지됨", "evidence": "대체로 '참이 아님'에 해당", "note": ""},
+    {"n": 5, "text": "새먼은 F-false₁을 진정한 모순 문장이 참이라는 뜻으로 읽어야 한다고 보고(p.282, 각주 10), 러셀 이론에서는 바깥 부정이 진정한 모순이고 참이므로 F-false₁이다", "label": "지지됨", "evidence": "(2″)가 참이므로 F-false₁이다", "note": ""},
+    {"n": 6, "text": "프레게 이론에서는 진리치 틈이 선택 부정을 타고 전파되므로 F-false₁에 해당하지 않는다", "label": "지지됨", "evidence": "gap→gap", "note": ""},
+    {"n": 7, "text": "프레게-스트로슨 진영은 'R-false₂가 아니다'에서 'F-false₁이 아니다'로 미끄러지고 두 개념은 안쪽 부정과 바깥 부정에 걸려 있다", "label": "지지됨", "evidence": "슬쩍 바꿔치기해", "note": ""}
+  ],
+  "sources_used": ["문헌/@Salmon1998 Nonexistence.md", "_원자료/claude.ai/chats/2026-06-15_Semantic ascent explained.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

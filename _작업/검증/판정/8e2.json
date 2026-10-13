@@ -1,0 +1,19 @@
+{
+  "id": "8e2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "그라이스는 비자연적 의미를 의도의 인지를 통해 효과를 낳으려는 의도로 분석한다", "label": "지지됨", "evidence": "recognition of this intention", "note": "p.384 'roughly equivalent'"},
+    {"n": 1, "text": "그라이스는 먼저 정보를 주는 발화만 다룬다고 가정한다(p.381)", "label": "지지됨", "evidence": "informative or descriptive", "note": "B1-21 도입부 'Let us for the moment pretend'"},
+    {"n": 2, "text": "x가 청자에게 어떤 믿음을 낳으려는 의도로 발화되었다는 조건만으로는 부족하다: B의 손수건을 살인 현장에 두어 형사가 B를 범인으로 믿게 하려 해도 그 손수건이나 그것을 둔 일이 무언가를 비자연적으로 의미하지는 않는다(pp.381-382)", "label": "지지됨", "evidence": "meantNN anything", "note": "pp.381-382 'This will not do'"},
+    {"n": 3, "text": "청자가 그 의도를 알아보도록 의도한다는 조건을 더해도, 헤롯이 요한의 머리를 쟁반에 담아 살로메에게 내놓는 경우나 딸이 깬 그릇을 아내가 보도록 두는 경우는 조건을 충족하면서도 비자연적 의미의 사례가 되지 않는다(p.382)", "label": "지지됨", "evidence": "satisfy the conditions so far", "note": "p.382 'Here we seem to have cases which satisfy...'"},
+    {"n": 4, "text": "찾아야 할 것을 'deliberately and openly letting someone know'와 'telling'의 차이로 규정한다", "label": "지지됨", "evidence": "deliberately and openly", "note": "p.382 'What we want to find is the difference between...'"},
+    {"n": 5, "text": "X 씨에게 Y 씨가 X 부인에게 지나치게 친밀하게 구는 사진을 보여 주는 경우 사진의 효과는 내 의도를 알아보는지와 거의 무관하지만, 같은 장면을 그린 그림의 효과는 X 씨가 내가 무언가를 알리려 한다고 받아들이는지에 달려 있다(pp.382-383)", "label": "지지됨", "evidence": "(more or less) irrelevant", "note": "pp.382-383"},
+    {"n": 6, "text": "의도적으로 찌푸린 얼굴도 청자가 불쾌감을 전하려는 의도로 받아들일 때에만 같은 효과를 기대할 수 있으며, 의도의 인지를 빼면 믿음을 낳는 경향이 약해지거나 사라진다(p.383)", "label": "지지됨", "evidence": "impaired or destroyed", "note": "p.383"},
+    {"n": 7, "text": "'A meantNN something by x'가 대략 'A uttered x with the intention of inducing a belief by means of the recognition of this intention'와 같다고 보고, 이 정식에 반사적 역설이 있는 듯 보여도 실제로는 없다고 말한다(pp.383-384)", "label": "지지됨", "evidence": "does not really do so", "note": "p.384, 인용문 글자 일치. '대략'과 'seems' 한정어 유지"}
+  ],
+  "sources_used": ["문헌/@Grice1957 Meaning.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-21_Grice-Meaning-2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

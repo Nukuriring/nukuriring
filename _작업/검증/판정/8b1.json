@@ -1,0 +1,18 @@
+{
+  "id": "8b1",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "러셀은 the를 유일성을 함축하는 말로 분석하여 지시 대상이 없으면 그 명제가 거짓이 된다고 본다", "label": "지지됨", "evidence": "every proposition…is false", "note": "p.482: 'if this condition fails, every proposition of the form C(the father of Charles II) is false'"},
+    {"n": 1, "text": "러셀은 the가 들어간 지시구를 지시구 가운데 가장 흥미롭고 어려운 경우로 꼽고, 엄밀하게 쓰인 the가 유일성을 함축한다고 본다(p.481)", "label": "지지됨", "evidence": "by far the most interesting and difficult", "note": ""},
+    {"n": 2, "text": "'x는 찰스 2세의 아버지였다'는 x가 찰스 2세를 낳았다는 것과 함께 찰스 2세를 낳은 y는 모두 x와 같다는 것을 주장하며, '찰스 2세의 아버지는 처형되었다'는 그런 x에 대해 처형되었다는 것이 언제나 거짓은 아니라는 명제가 된다(pp.481-482)", "label": "지지됨", "evidence": "It is not always false of x", "note": ""},
+    {"n": 3, "text": "러셀은 이 해석이 'a somewhat incredible interpretation'으로 보일 수 있다고 인정하면서 아직 근거를 대지 않고 이론만 진술한다고 말한다", "label": "지지됨", "evidence": "This may seem a somewhat incredible interpretation", "note": ""},
+    {"n": 4, "text": "C가 어떤 진술이든 'C(찰스 2세의 아버지)'는 아버지가 하나뿐이라는 것을 함축하므로 그 조건이 성립하지 않으면 그 꼴의 명제는 모두 거짓이고, 'C(the present King of France)' 꼴의 명제는 모두 거짓이 된다(p.482)", "label": "지지됨", "evidence": "every proposition of the form", "note": ""},
+    {"n": 5, "text": "러셀은 이것을 이론의 큰 이점으로 꼽고 모순율에 어긋나지 않음을 뒤에서 보이겠다고 약속한다(p.482)", "label": "지지됨", "evidence": "This is a great advantage", "note": ""},
+    {"n": 6, "text": "이 약속은 일차적 나타남과 이차적 나타남의 구분으로 이행된다", "label": "부분 지지", "evidence": "Thus we escape the conclusion", "note": "pp.489-490은 나타남 구분으로 배중률/가발 퍼즐을 푼다고 하지만, 원문은 이것을 '모순율에 어긋나지 않음을 보이겠다'는 p.482의 약속의 이행이라고 명시하지 않음. 해석적 연결"}
+  ],
+  "sources_used": ["문헌/@Russell1905 On Denoting.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-05_Russell-OD-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-07_Russell-OD-3.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

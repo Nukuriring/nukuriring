@@ -1,0 +1,17 @@
+{
+  "id": "54f10",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "카벨은 회의주의자가 세계가 중요하기 때문에 세계를 포기한다고 본다", "label": "지지됨", "evidence": "foregoes the world for just the reason", "note": ""},
+    {"n": 1, "text": "회의주의자는 우리가 공유하는 세계를 즐겁게 또는 생각 없이 버리지 않는다", "label": "지지됨", "evidence": "does not gleefully and mindlessly forego", "note": ""},
+    {"n": 2, "text": "오스틴은 그를 순진한 사람으로, 실용주의자는 바보로, 교양인과 세상 사람은 어수룩한 사람으로 보았다", "label": "지지됨", "evidence": "neither the Naive, Austin took him to be", "note": ""},
+    {"n": 3, "text": "회의주의자는 세계를 현전시키려는 노력과 함께 세계가 사라진다는 것을 발견하기 때문에 세계를 포기한다", "label": "지지됨", "evidence": "it vanishes exactly with the effort", "note": ""},
+    {"n": 4, "text": "감각의 확실성으로 얻는 현전은 세계에 대한 오랜 몰입이 마련한 현전을 보상하지 못해서 그의 시도는 실패한다", "label": "부분 지지", "evidence": "If this makes him unsuccessful that is because", "note": "원문은 'If this makes him unsuccessful ...'로 조건절이다. 카드는 '실패한다'로 단정했다."},
+    {"n": 5, "text": "진정한 연결에 대한 바람은 그 안에 있고, 이 노력은 리어 왕이 기록한 비극을 서술하는 한 방식이다", "label": "지지됨", "evidence": "one way to describe the tragedy King Lear", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/Stanley Cavell cf231b9b4b064fd788bc8b05a8751fdd.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

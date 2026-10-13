@@ -1,0 +1,19 @@
+{
+  "id": "7i3",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "맥다월은 코스텔로를 회의주의의 요점을 비추는 유비로 읽어 카벨을 교정한다", "label": "지지됨", "evidence": "카벨을 교정한다", "note": "정리 문서 §0"},
+    {"n": 1, "text": "맥다월은 다이아몬드의 글이 카벨 사유의 중심 가닥에 다가가는 글인데 카벨의 응답이 그 방식을 제대로 대접하지 않는다고 비판한다(pp.128-129)", "label": "지지됨", "evidence": "does not do justice to the wonderful way", "note": ""},
+    {"n": 2, "text": "코스텔로는 다이아몬드의 여러 사례 가운데 하나이고 휴스의 시에 싹으로 들어 있는 구조를 풍부하게 예시할 뿐이므로 'the specifics of what obsesses Costello are in a way irrelevant'이다(pp.132-133)", "label": "지지됨", "evidence": "the specifics of what obsesses Costello are in a way irrelevant", "note": "인용문 일치"},
+    {"n": 3, "text": "그 구조는 마주친 무언가가 언어로 현실을 포착하는 평범한 능력을 꺾을 때 말하는 동물이라는 본성 안에 편안히 머물지 못하게 되는 사태이다(p.134)", "label": "지지됨", "evidence": "말하는 동물이라는 본성 안에 편안하게 머물지 못하게", "note": ""},
+    {"n": 4, "text": "이 설명은 코스텔로가 반응하는 대상이 그녀가 여기는 대로의 현실인지와 상관없이 성립하도록 짜여 있어, 맥다월은 그 대상을 추정적 현실로 다루고 반응을 'not quite sane but is, in its way, appropriate'라고 평가한다(pp.134-135)", "label": "지지됨", "evidence": "not quite sane but is, in its way, appropriate", "note": ""},
+    {"n": 5, "text": "자신이 근본적으로 혼자라는 지각을 판단 증거의 충분성 문제로 바꾸는 학계 철학의 방식도 굴절이므로, 코스텔로는 카벨이 말하는 분리와 유한성의 지각, 곧 회의주의의 진짜 요점에 대한 유비가 된다(pp.136-138)", "label": "지지됨", "evidence": "real point of philosophical skepticism", "note": ""},
+    {"n": 6, "text": "맥다월은 카벨의 응답에서 제대로 대접받지 못하는 것이 카벨 자신의 사유라고 결론짓는다", "label": "지지됨", "evidence": "제대로 대접받지 못하는 것은 카벨 자신의 사유", "note": ""},
+    {"n": 7, "text": "정리 문서의 확인에 따르면 맥다월의 논평에는 리히, 싱어, 노출을 책임으로 규정한 대목, 씁쓸한 타협이 등장하지 않는다", "label": "지지됨", "evidence": "리히나 싱어, 노출을 책임으로 규정한 대목, 씁쓸한 타협이 등장하지 않는다", "note": "정리 문서 §3.1 주83"}
+  ],
+  "sources_used": ["문헌/@Cavell2008 Philosophy and Animal Life.md", "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/docs/claude/PAL_쟁점정리.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

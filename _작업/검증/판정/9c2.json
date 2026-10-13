@@ -1,0 +1,19 @@
+{
+  "id": "9c2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "오스틴은 같은 이름으로 여러 사물을 부르는 근거를 하나로 환원하지 않는다", "label": "지지됨", "evidence": "none reducible to plain similarity", "note": ""},
+    {"n": 1, "text": "3부는 왜 서로 다른 것들을 같은 이름으로 부르는가를 묻는다", "label": "지지됨", "evidence": "why do we call different things", "note": ""},
+    {"n": 2, "text": "공통 보편자 답과 유명론자의 '비슷하기 때문' 답을 모두 거부한다", "label": "지지됨", "evidence": "rejects both the metaphysician's universals", "note": ""},
+    {"n": 3, "text": "'어떤 측면에서 비슷하다'는 보편자를 다시 불러들이고, 같은 이름으로 불리는 것들이 일상적 의미에서 비슷하지 않은 경우도 많다", "label": "지지됨", "evidence": "reopens the door to universals", "note": "원문은 'not in the least true that all…similar'(모두 비슷한 것은 아니다). 카드의 '많다'는 약간 강하나 사례들이 뒷받침함."},
+    {"n": 4, "text": "근거의 유형: 파생 관계, 유비, 닮음의 사슬(A와 D는 닮지 않음), 불완전한 의미, 결정 가능자와 결정자, 활동 속 역할", "label": "지지됨", "evidence": "Typology of good reasons", "note": ""},
+    {"n": 5, "text": "활동어에서는 '낱말의 의미는 무엇인가'와 '어떤 개별자가 x인가'를 구별할 수 없다", "label": "지지됨", "evidence": "The questions cannot be distinguished", "note": ""},
+    {"n": 6, "text": "강독 노트는 영진이 구분한 두 물음을 오스틴이 다루고 활동어에서 구분이 무너짐을 보인다고 기록한다", "label": "지지됨", "evidence": "Austin raises exactly this", "note": ""},
+    {"n": 7, "text": "강독 노트는 닮음의 사슬이 비트겐슈타인의 가족 유사성을 13년 앞서 보여 준다고 덧붙인다", "label": "지지됨", "evidence": "13 years before PI", "note": ""}
+  ],
+  "sources_used": ["문헌/@Austin1940 The Meaning of a Word.md", "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

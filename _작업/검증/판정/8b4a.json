@@ -1,0 +1,18 @@
+{
+  "id": "8b4a",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "러셀은 나타남의 구분으로 현재 프랑스 왕의 대머리 문제와 비존재자 문제를 푼다", "label": "지지됨", "evidence": "Thus we escape the conclusion", "note": "pp.490-491"},
+    {"n": 1, "text": "'C가 속성 φ를 가진다'는 오직 하나의 항이 F를 가지고 그 항이 φ를 가진다는 뜻이므로 F를 가진 항이 없거나 여럿이면 이 꼴의 명제는 모두 거짓이다(p.490)", "label": "지지됨", "evidence": "false for all values of φ", "note": ""},
+    {"n": 2, "text": "'the present King of France is bald'는 확실히 거짓이고, 'the present King of France is not bald'는 대머리가 아닌 프랑스 왕이 있다는 뜻이면 거짓, 대머리인 프랑스 왕이 있다는 것이 거짓이라는 뜻이면 참이며, 앞의 읽기에서 지시구는 일차적으로 뒤의 읽기에서는 이차적으로 나타나 가발 결론을 피한다", "label": "지지됨", "evidence": "false if primary, true if secondary", "note": "원문: 'the King of France is not bald is false if the occurrence…is primary, and true if it is secondary'"},
+    {"n": 3, "text": "'A와 B의 차이'는 A와 B가 다를 때에만 지시 대상을 가지며, 일반적으로 참인 명제에서는 존재자를 지시하는 지시구를 만들 수 있고 거짓인 명제에서는 그럴 수 없다(pp.490-491)", "label": "지지됨", "evidence": "denotes an entity if the proposition is true", "note": ""},
+    {"n": 4, "text": "'둥근 사각형', '2 이외의 짝수 소수', '아폴론', '햄릿'도 아무것도 지시하지 않는 지시구로 처리되며, 마이농이 참으로 보는 'the round square is round'는 러셀의 분석에서 거짓 명제가 된다(p.491)", "label": "지지됨", "evidence": "which is a false proposition", "note": ""},
+    {"n": 5, "text": "존재론적 논증을 이 규칙으로 풀어 쓰면 가장 완전한 존재가 오직 하나 있다는 전제가 증명되지 않았으므로 증명으로서 실패한다", "label": "지지됨", "evidence": "this fails for want of a proof of the premiss", "note": ""},
+    {"n": 6, "text": "러셀은 이 이론 덕분에 비실재적 개체를 인정하지 않을 수 있고, 공집합을 비실재적 개체 전부의 집합으로 보는 매콜의 정의도 필요 없다고 본다", "label": "지지됨", "evidence": "there are no unreal individuals", "note": ""}
+  ],
+  "sources_used": ["문헌/@Russell1905 On Denoting.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-07_Russell-OD-3.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

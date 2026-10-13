@@ -1,0 +1,16 @@
+{
+  "id": "56d1",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "필기는 고딕을 18세기 영국에서 시작해 19세기에 대중화된 형식으로 놓고 뉴잉글랜드 고딕이 숲과 청교도와 마녀재판의 역사에서 나왔다고 설명한다", "label": "부분 지지", "evidence": "all those things are New Englands horror story.", "note": "고딕의 시작·대중화는 지지. '뉴잉글랜드 고딕이 숲·청교도·마녀재판의 역사에서 나왔다'는 기원 서술은 필기에 없고, 필기는 이 소재들을 뉴잉글랜드 공포 이야기(의 소재)로 나열함."},
+    {"n": 1, "text": "고딕이 18세기 영국에서 시작해 19세기에 대중화된 문학 형식이고 킹을 공포의 왕으로 소개한다", "label": "지지됨", "evidence": "Gothic. literary form. 18th Britain. Popular in 19th cen.", "note": ""},
+    {"n": 2, "text": "미국의 고딕 전통은 미국사의 특정한 자리에 놓인다고 필기는 본다", "label": "지지됨", "evidence": "very particular place for the American history.", "note": ""},
+    {"n": 3, "text": "뉴잉글랜드 전통은 숲과 산, 17세기 미국의 마녀재판, 청교도, 청소년 같은 소재로 정리된다", "label": "지지됨", "evidence": "Puritan, youth, witch trial.", "note": ""},
+    {"n": 4, "text": "필기는 쿠조를 이 전통에 놓되 소설과의 구체적 연결을 따로 적지 않는다", "label": "부분 지지", "evidence": "", "note": "소설과의 구체적 연결을 적지 않았다는 점은 맞음. 그러나 필기가 쿠조를 뉴잉글랜드 전통에 놓는다는 직접 서술도 없음. 같은 페이지 흐름과 3/13 필기(메인 = 뉴잉글랜드 고딕)로 미루어 짐작한 것."}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/현대 영미문학/Cujo e044adf150e740818e09747a9bac8ad4.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "8d4a",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "에이어는 분석 명제를 타당성이 기호의 정의에만 의존하는 명제로 정의한다", "label": "지지됨", "evidence": "depends solely on the", "note": "p.73 'its validity depends solely on the definitions of the symbols it contains'"},
+    {"n": 1, "text": "칸트가 분석 판단과 종합 판단을 가르는 기준을 두 가지 제시하고 그 둘이 같다고 가정했다고 비판한다(p.72)", "label": "지지됨", "evidence": "takes their equivalence", "note": "p.72 'he gives two distinct criteria'"},
+    {"n": 2, "text": "'7+5=12'를 종합적이라 할 때는 주관적 내포가 포함되지 않는다는 심리적 기준을, '모든 물체는 연장을 가진다'를 분석적이라 할 때는 모순율에만 의존한다는 논리적 기준을 쓴다", "label": "지지됨", "evidence": "a psychological criterion", "note": "p.72"},
+    {"n": 3, "text": "기호는 누구에게도 같은 내포적 의미를 갖지 않으면서 동의적일 수 있으므로, 7과 5의 합을 생각하면서 12를 생각하지 않을 수 있다는 사실에서 '7+5=12'를 모순 없이 부정할 수 있다는 결론은 나오지 않는다(pp.72-73)", "label": "지지됨", "evidence": "by no means follows", "note": "pp.72-73"},
+    {"n": 4, "text": "칸트 구분의 논리적 취지를 살려, 타당성이 포함된 기호의 정의에만 의존하는 명제를 분석적이라 하고 타당성이 경험의 사실로 정해지는 명제를 종합적이라 한다(p.73)", "label": "지지됨", "evidence": "determined by the facts", "note": "p.73 'synthetic when its validity is determined by the facts of experience'"},
+    {"n": 5, "text": "'어떤 개미는 기생하거나 어떤 개미도 기생하지 않는다'는 개미의 행동에 관해 아무 정보도 주지 않으며, 모든 분석 명제는 사실 내용이 없으므로 어떤 경험도 반박할 수 없다(p.73)", "label": "지지됨", "evidence": "no experience can confute", "note": "p.73"},
+    {"n": 6, "text": "분석 명제가 낱말을 특정 방식으로 쓰겠다는 우리의 결정을 기록한다고 본다(p.80)", "label": "지지됨", "evidence": "record our determination", "note": "p.80 'They simply record our determination to use words in a certain fashion'"},
+    {"n": 7, "text": "'7+5=12'를 반박할 관찰이 없다는 앎은 '안과 의사'(oculist)와 '눈 의사'(eye-doctor)의 경우처럼 '7+5'와 '12'의 동의성에 의존한다(p.81)", "label": "지지됨", "evidence": "synonymous with '12'", "note": "p.81"}
+  ],
+  "sources_used": ["문헌/@Ayer1946 Language, Truth and Logic.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-14_Ayer-LTL-4장-2.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-15_Ayer-LTL-4장-3.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

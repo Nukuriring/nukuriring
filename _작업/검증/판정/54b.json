@@ -1,0 +1,17 @@
+{
+  "id": "54b",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "카벨은 오셀로를 회의주의의 논리와 감정과 장면이 압축된 비극으로 읽는다", "label": "지지됨", "evidence": "the logic, the emotion and the scene of skepticism", "note": ""},
+    {"n": 1, "text": "카벨은 비극을 앎의 문제로, 또는 근대 철학이 앎의 문제에 지배된 결과로 이해한다(126)", "label": "지지됨", "evidence": "the outcome of the problem of knowledge(126)", "note": "쪽수 126 일치"},
+    {"n": 2, "text": "오델로는 유한한 내 존재의 온전함이 다른 존재의 존재와 그 증명 가능성에 달려 있을지 모른다는 불안을 구현한다", "label": "지지됨", "evidence": "may depend on the fact and the idea", "note": "'may'가 '달려 있을지 모른다'로 유지됨"},
+    {"n": 3, "text": "논리는 '내가 무언가를 안다면 이것을 안다'는 꼴의 최선의 경우 논증이다", "label": "지지됨", "evidence": "If I know anything, I know this", "note": ""},
+    {"n": 4, "text": "감정은 발견 또는 놀라움이다", "label": "지지됨", "evidence": "'Discovery, or astonishment'", "note": ""},
+    {"n": 5, "text": "장면은 이성이 혼자서는 배제하지 못하는 가능성을 상상으로 그려 현실을 앞지르는 오델로의 언어와 행동이다", "label": "지지됨", "evidence": "continuosly outstrips reality", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/Annotated Bib d226e7d2e87a45cc9a5e0308eb9f6818.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

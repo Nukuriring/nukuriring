@@ -1,0 +1,17 @@
+{
+  "id": "55a7",
+  "voice": "문헌",
+  "verdict": "원문없음",
+  "claims": [
+    {"n": 0, "text": "강의는 민권운동과 탈식민주의가 역사를 보는 시선을 바꾸어 존 스미스 같은 글을 비판적으로 읽을 수 있게 했다고 설명한다", "label": "지지됨", "evidence": "Reading John smith now - critical reading is possible", "note": ""},
+    {"n": 1, "text": "강의는 독립선언문의 핵심 사상을 묻는 데서 시작해 역사를 보는 시선이 바뀐 이유를 설명한다", "label": "지지됨", "evidence": "What is the key idead of Declaration", "note": ""},
+    {"n": 2, "text": "첫째 요인은 민권운동이며 역사를 쓰는 일은 끝나지 않는 진행형의 기획이다", "label": "지지됨", "evidence": "Writing History is on-going project", "note": ""},
+    {"n": 3, "text": "둘째 요인은 20세기 초의 독립운동과 탈식민주의이다", "label": "지지됨", "evidence": "Another factor in shifting - Independence Movement", "note": ""},
+    {"n": 4, "text": "탈식민주의는 서구의 자유와 평등 이념이 식민지 사회에서 불평등하게 분배되었고 일부 사람을 인간으로 여기지 못해 배제했다는 점을 드러낸다", "label": "지지됨", "evidence": "unequally distributed in the colonized society", "note": ""},
+    {"n": 5, "text": "같은 텍스트라도 읽는 시선이 달라지면 텍스트가 무엇을 정당화하고 무엇을 배제했는지가 다르게 드러난다", "label": "원문에 없음", "evidence": "", "note": "필기는 존 스미스를 비판적으로 읽을 수 있다고만 적음. 텍스트가 정당화하고 배제한 것이 드러난다는 일반화는 카드가 덧붙인 문장."}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/미문개/3 9 Thr Native Amrican Response and Cultures 298938f43d0143bca251a1605ce2732f.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

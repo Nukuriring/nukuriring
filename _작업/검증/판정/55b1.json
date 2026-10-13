@@ -1,0 +1,19 @@
+{
+  "id": "55b1",
+  "voice": "문헌",
+  "verdict": "원문없음",
+  "claims": [
+    {"n": 0, "text": "투명한 눈동자의 장면에서 에머슨은 자아중심성이 사라진 자리에서 전체를 보고 신의 일부가 되는 경험을 말한다", "label": "지지됨", "evidence": "all mean egotism vanishes ... I am part of parcel of God", "note": ""},
+    {"n": 1, "text": "강의는 에머슨의 『자연(Nature)』에서 투명한 눈동자 대목을 인용한다", "label": "원문에 없음", "evidence": "", "note": "필기에는 Transparent eyeball 제목과 인용문만 있고 저작명 『자연(Nature)』은 적혀 있지 않음. 서지로는 맞는 정보이나 출처에 없음."},
+    {"n": 2, "text": "헐벗은 땅에 서서 머리가 맑은 공기에 씻기고 무한한 공간으로 올려지면 비천한 자기중심주의가 사라진다는 장면이다", "label": "지지됨", "evidence": "my head bathed by the blithe air", "note": ""},
+    {"n": 3, "text": "에머슨은 I am nothing; I see all이라고 쓰고 보편적 존재의 흐름이 자신을 통과하며 자신이 신의 일부라고 말한다", "label": "지지됨", "evidence": "I am nothing; I see all", "note": ""},
+    {"n": 4, "text": "필기는 이 대목을 신과 우주의 의미를 지금 여기에서 직접 이해하는 경험으로 읽는다", "label": "지지됨", "evidence": "Direct Understanding of God. Meaning of Universe.", "note": ""},
+    {"n": 5, "text": "아무것도 아닌 것과 모든 것이 함께 있고 한계 없는 가능성이 그 안에 들어 있다", "label": "지지됨", "evidence": "아무것도 아닌 것과 모든 것이 공존하고", "note": ""},
+    {"n": 6, "text": "자기를 해방한다는 말은 전통과 권위에서 벗어나 스스로가 자기의 목적이자 수단이자 동기가 되어 자율성을 얻는다는 뜻으로 풀이된다", "label": "지지됨", "evidence": "전통과 권위에서 해방되어 스스로가 스스로의 목적", "note": ""},
+    {"n": 7, "text": "필기는 이 경험을 깨달음의 순간(epiphany)이라는 말로 묶는다", "label": "부분 지지", "evidence": "epiphany - 깨달음의 순간", "note": "epiphany는 '삶에서 직접 배우도록 강조했다' 문단에 나오며 투명한 눈동자 대목에 직접 붙어 있지 않음. 같은 필기 안의 인접 개념을 카드가 이 장면에 연결."}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/미문개/3 14 Tue 8d38b52b9a254534987f65f7be88e473.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

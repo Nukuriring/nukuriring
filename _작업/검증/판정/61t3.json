@@ -1,0 +1,18 @@
+{
+  "id": "61t3",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "앎을 심적 상태이자 증거이자 주장의 규칙으로 보는 설명에 대한 세 반론은 접근 가능성 요구를 공유한다", "label": "지지됨", "evidence": "assume that some non-trivial states meet the accessibility", "note": ""},
+    {"n": 1, "text": "윌리엄슨은 이 설명이 공통의 반론을 받는다고 정리한다", "label": "지지됨", "evidence": "face a common epistemological objection", "note": ""},
+    {"n": 2, "text": "반론은 우리가 자신이 아는지를 늘 알 수 있는 처지에 있지 않다는 관찰에서 출발한다", "label": "지지됨", "evidence": "one is not always in a position to know whether one knows", "note": ""},
+    {"n": 3, "text": "첫째 반론은 어떤 상태가 심적 상태라면 그 상태에 있는지 늘 알 수 있어야 하므로 앎은 심적 상태가 아니라고 한다", "label": "지지됨", "evidence": "then knowing is not a mental state", "note": ""},
+    {"n": 4, "text": "둘째 반론은 합리성이 믿음을 증거에 맞추라고 요구하는데 증거가 무엇인지 알 수 있는 처지에 있지 않으면 그럴 수 없으므로 증거는 앎일 수 없다고 한다", "label": "지지됨", "evidence": "then one's evidence is not one's knowledge", "note": ""},
+    {"n": 5, "text": "셋째 반론은 지식 규칙을 어겨도 안에서는 지켰을 때와 똑같이 느껴져 위반이 비난받지 않을 수 있는데, 비난 없이 어길 수 있는 규칙이 화행을 지배할 수 있느냐고 묻는다", "label": "지지됨", "evidence": "How can a speech act be governed by a rule that one can blamelessly violate?", "note": ""},
+    {"n": 6, "text": "윌리엄슨은 이 가정이 의심스럽다고 보고 4장의 논증으로 답한다", "label": "지지됨", "evidence": "That assumption is questionable", "note": "4장 논증은 'The argument in Chapter 4'로 확인"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/윈랤슨 지식과 그 한계 서론 35697cdd867e81d7ba30ecfe05c182ca.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

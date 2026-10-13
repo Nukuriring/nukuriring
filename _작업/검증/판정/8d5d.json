@@ -1,0 +1,18 @@
+{
+  "id": "8d5d",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "에이어는 가치 판단에 대한 의견 불일치를 형식적 모순 없는 태도의 불일치로 설명한다", "label": "지지됨", "evidence": "disagreement without formal", "note": "p.192"},
+    {"n": 1, "text": "6장의 정서 이론이 실증주의 원리에 의존한다는 비판에, 그 이론이 책의 나머지 비윤리적 진술을 함축하지 않으며 그 자체로 타당하다고 답한다(pp.190-191)", "label": "지지됨", "evidence": "valid on its own account", "note": "pp.190-191 'I believe this analysis to be valid'"},
+    {"n": 2, "text": "도덕적 시인과 부인의 흔한 대상이 개별 행위보다 행위의 부류이며, 윤리적 판단처럼 보이는 것이 흔히 화자에게 특정 도덕적 태도를 습관적으로 일으키는 부류에 행위를 넣는 사실적 분류라고 덧붙인다(p.191)", "label": "지지됨", "evidence": "very often a factual", "note": "p.191 'very often a factual classification', '흔히' 유지"},
+    {"n": 3, "text": "확신에 찬 공리주의자가 어떤 행위를 옳다고 할 때 일반 행복을 증진하는 종류의 행위라는 뜻이라면 그 진술은 경험적으로 검증될 수 있고, 교회 권위가 명하거나 금하는 종류의 행위라는 뜻일 때도 마찬가지이다(pp.191-192)", "label": "지지됨", "evidence": "may simply mean by calling", "note": "pp.191-192, 조건('뜻이라면') 유지"},
+    {"n": 4, "text": "정서 이론은 윤리적 용어가 순전히 규범적으로 쓰이는 진술에 적용된다(p.192)", "label": "지지됨", "evidence": "purely normative way", "note": "p.192"},
+    {"n": 5, "text": "정서 이론이 옳다면 가치 문제에서 서로 모순될 수 없다는 반론에, 책에서는 가치 논쟁처럼 보이는 것이 실제로 사실 논쟁이라고 답했는데 이제 형식적 모순 없이도 의견 불일치가 가능하다는 점을 분명히 한다(p.192)", "label": "지지됨", "evidence": "without formal contradiction", "note": "p.192"},
+    {"n": 6, "text": "상대가 간과한 사실에 주의를 돌리게 하거나 정서적 언어로 태도를 바꿀 수 있지만, 상대가 관련 사실을 다투지 않으면서 반대 태도를 유지하면 논의는 더 나아갈 수 없고 가치 판단의 표현은 명제가 아니므로 어느 쪽이 참인지 묻는 일은 뜻이 없다(pp.192-193)", "label": "지지됨", "evidence": "of truth or falsehood does not", "note": "p.193 'the question of truth or falsehood does not here arise'"}
+  ],
+  "sources_used": ["문헌/@Ayer1946 Language, Truth and Logic.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-19_Ayer-LTL-서론(1946)-4.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

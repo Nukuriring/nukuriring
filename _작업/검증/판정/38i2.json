@@ -1,0 +1,17 @@
+{
+  "id": "38i2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "트래비스는 선술집 좌표 함수 사례로 함수에 개념의 초연함이 있는지 묻는다", "label": "지지됨", "evidence": "함수는, 적어도 관련된 함수들은, 요구되는 aloofness를 갖는가?", "note": "채팅 05:32, 05:57."},
+    {"n": 1, "text": "§5.1에서 트래비스는 개념의 존재 이유 전체가 초연함이라고 보고 함수가 그런 초연함을 갖는지 묻는다(p.105)", "label": "지지됨", "evidence": "그 존재 이유 전체는 그것의 aloofness(초연함)다", "note": ""},
+    {"n": 2, "text": "독일 선술집들을 GPS 좌표로 사상하는 함수가 있고 Der alte Schnorrer가 문을 닫는다(p.108)", "label": "지지됨", "evidence": "Der alte Schnorrer가 문을 닫는다", "note": ""},
+    {"n": 3, "text": "방금처럼 사상하는 함수는 여전히 있지만 그것이 그 함수인지는 함수에게 무엇이 내재적이라고 보느냐에 따라 갈린다. 사상하는 대로 사상함이 내재적이라면 '아니오'이고, 적용의 법칙이 내재적이라면 '예'이며 이때 바뀌는 것은 그 사상이다", "label": "지지됨", "evidence": "바뀌는 것은 그 사상이지", "note": ""},
+    {"n": 4, "text": "Claude의 정리에 따르면 앞의 답을 택하면 함수는 초연함을 잃고, 뒤의 답을 택하면 초연함은 남지만 함수가 자기 사상에 의해 식별되지 못한다(대화 속 설명)", "label": "지지됨", "evidence": "앞쪽을 택하면 함수에는 aloofness가 없다", "note": "카드가 '(대화 속 설명)'으로 표시함."},
+    {"n": 5, "text": "트래비스는 개념마다 무료 규정은 한 번뿐이고 그 뒤의 규정들은 서로 정합해야 한다는 제약을 붙인다(p.108)", "label": "지지됨", "evidence": "개념당 무료 규정은 한 번뿐이고", "note": ""}
+  ],
+  "sources_used": ["문헌/@Travis2021 Frege The Pure Business of Being True.md", "_원자료/claude.ai/projects/I WANT YOU TO BRING ME A SLAB/chats/2026-08-10_TPBBT 4 함께 이해하기.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

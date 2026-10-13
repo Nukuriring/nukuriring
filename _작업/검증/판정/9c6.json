@@ -1,0 +1,20 @@
+{
+  "id": "9c6",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "오스틴은 모든 명제가 참이거나 거짓이라는 원리를 기술주의적 오류로 본다", "label": "지지됨", "evidence": "most pervasive form of the descriptive fallacy", "note": ""},
+    {"n": 1, "text": "'true'는 과장되었다, 모호하다, 거칠다, 오해를 부른다, 지나치게 간결하다 같은 평가 형용사 가족의 하나이다", "label": "지지됨", "evidence": "exaggerated, vague, bald, rough, misleading", "note": ""},
+    {"n": 2, "text": "그래서 참인지 거짓인지를 단순하게 판정하라고 고집하는 일은 요점이 없다", "label": "지지됨", "evidence": "pointless to insist on deciding in simple", "note": ""},
+    {"n": 3, "text": "벨파스트, 은하, 웰링턴 사례에 대해 'various degrees and dimensions of success in making statements'라고 쓴다", "label": "지지됨", "evidence": "various degrees and dimensions of success", "note": ""},
+    {"n": 4, "text": "상식 시험에서 만점인 답이 다른 곳에서는 낮은 점수를 받을 수 있다", "label": "지지됨", "evidence": "may elsewhere get a gamma", "note": ""},
+    {"n": 5, "text": "모든 진술이 참을 목표로 하지 않는다: 계산 공식, 수행적 발화, 가치 판단, 정의, 허구 작품의 일부", "label": "지지됨", "evidence": "a formula in a calculus…a performatory", "note": ""},
+    {"n": 6, "text": "'Every proposition must be true or false'는 기술주의적 오류의 가장 널리 퍼진 형태로 너무 오래 작동해 왔다", "label": "지지됨", "evidence": "has too long operated as the", "note": ""},
+    {"n": 7, "text": "자유처럼 진리도 'a bare minimum or an illusory ideal'이다", "label": "지지됨", "evidence": "a bare minimum or an illusory ideal", "note": ""},
+    {"n": 8, "text": "정독 노트는 이 대목을 HTDTW 화행론으로 넘어가는 통로로 읽는다", "label": "지지됨", "evidence": "the hinge to speech acts", "note": "'trapdoor…into speech-act theory'는 강독 노트의 표현, 정독 노트는 'hinge to speech acts'. 표기 출처는 정독 노트와 강독 노트가 함께 뒷받침."}
+  ],
+  "sources_used": ["문헌/@Austin1950 Truth.md", "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md", "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

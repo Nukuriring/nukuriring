@@ -1,0 +1,19 @@
+{
+  "id": "8d5a",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "에이어는 검증 기준이 모든 진술을 허용한다는 반론에 직접 검증과 간접 검증의 구분으로 답한다", "label": "지지됨", "evidence": "directly verifiable", "note": "pp.181-182"},
+    {"n": 1, "text": "초판의 둘째 정식에 따르면 어떤 진술은 다른 전제와 함께 관찰 진술을 함축하되 그 관찰 진술이 다른 전제만으로는 도출되지 않을 때 검증 가능하다(p.179)", "label": "지지됨", "evidence": "without being deducible from", "note": "p.179"},
+    {"n": 2, "text": "에이어는 이 기준이 'far too liberal'하다고 인정한다: '절대자는 게으르다'와 '절대자가 게으르면 이것은 희다'는 함께 '이것은 희다'를 함축한다(p.179)", "label": "지지됨", "evidence": "far too liberal", "note": "인용문 글자 일치"},
+    {"n": 3, "text": "반증 가능성 기준에도 같은 반론이 적용되며, 다른 전제에 관한 단서를 빼면 모든 가언 명제가 경험 명제에서 배제되어 기준이 너무 엄격해진다(p.180)", "label": "지지됨", "evidence": "too stringent", "note": "p.180"},
+    {"n": 4, "text": "기준을 고쳐, 관찰 진술이거나 하나 이상의 관찰 진술과 함께 그것들만으로는 도출되지 않는 관찰 진술을 함축하는 진술을 직접 검증 가능하다고 한다(p.181)", "label": "지지됨", "evidence": "directly verifiable if it is", "note": "p.181"},
+    {"n": 5, "text": "다른 전제와 함께 직접 검증 가능한 진술을 함축하되, 그 다른 전제가 분석적이거나 직접 검증 가능하거나 독립적으로 간접 검증 가능하다고 확립될 수 있는 진술은 간접 검증 가능하다", "label": "지지됨", "evidence": "indirectly verifiable if it", "note": "p.181"},
+    {"n": 6, "text": "다른 전제에 분석적 진술을 허용한 까닭은 관찰 불가능한 항을 쓰는 과학 이론에 '사전'을 제공하게 하려는 데 있으며, 형이상학자는 그런 사전을 제공하지 않는다(pp.181-182)", "label": "지지됨", "evidence": "no dictionary is provided", "note": "pp.181-182"},
+    {"n": 7, "text": "대부분의 경험 명제가 모호하다는 난점에 대해, 물질적 사물에 관한 유의미한 진술이 열거할 수 없는 관찰 진술들의 선언을 함축하며 그 선언지들이 특정할 수 있는 범위 안의 감각 내용을 가리킨다고 답한다(pp.180-181)", "label": "지지됨", "evidence": "a disjunction of observation", "note": "pp.180-181. 원문은 'can be represented as entailing'(그렇게 표현될 수 있다)"}
+  ],
+  "sources_used": ["문헌/@Ayer1946 Language, Truth and Logic.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-17_Ayer-LTL-서론(1946)-2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

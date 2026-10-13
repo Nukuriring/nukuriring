@@ -1,0 +1,18 @@
+{
+  "id": "55c",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "호손의 「젊은 굿맨 브라운」은 알레고리와 숲이라는 배경으로 믿음의 상실과 청교도의 위선을 인물의 마음 안에서 일어나는 일로 보여 준다", "label": "지지됨", "evidence": "The forest (Setting) —> Spatialization of brown's mind", "note": ""},
+    {"n": 1, "text": "3월 16일 강의는 이 작품을 청교도주의의 어두운 면과 종교적 편집증을 다룬 작품으로 읽는다", "label": "지지됨", "evidence": "Dark side of puritanism, religious paranoia", "note": ""},
+    {"n": 2, "text": "배경은 세일럼 마을이며 문자적 층위와 상징적 층위를 가진 이중의 알레고리로 설명한다", "label": "지지됨", "evidence": "Two layers of meaning. (1) Literal (2) Symbolic", "note": ""},
+    {"n": 3, "text": "아내 이름 페이스는 종교적 믿음을 상징하며 Faith kept me back awhile에서 의미가 아내의 만류와 자신의 신앙의 망설임으로 겹친다", "label": "지지됨", "evidence": "double meaning: (1) Brown's wife이 여행을 만류", "note": ""},
+    {"n": 4, "text": "숲은 브라운의 마음이 공간으로 옮겨진 것(spatialization)으로 읽힌다", "label": "지지됨", "evidence": "Spatialization of brown's mind", "note": ""},
+    {"n": 5, "text": "숲이 두려운 소리로 가득 차는 만큼 그의 마음이 소리로 가득 차고 브라운 스스로가 가장 무서운 형상이 된다", "label": "지지됨", "evidence": "Brown becomes the most frightful figure", "note": ""},
+    {"n": 6, "text": "브라운이 호기심으로 숲에 간다는 점에서 그는 악의 일부이기도 하다", "label": "지지됨", "evidence": "그는 호기심으로 자발적으로 숲으로 간다. 그는 악의 일부다", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/미문개/3 16 Thur abeafed833744178904daafb2716bba2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "61t4",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "윌리엄슨은 사랑과 원함 같은 심적 상태도 투명하지 않다고 보고 판단과 참 사이의 간극을 반투명성 논증의 근거로 쓴다", "label": "지지됨", "evidence": "thin end of a wedge against luminosity", "note": ""},
+    {"n": 1, "text": "거의 모든 심적 상태 S에 대해 S에 있다는 조건도 S에 있지 않다는 조건도 투명하지 않다", "label": "지지됨", "evidence": "For virtually no mental state S", "note": ""},
+    {"n": 2, "text": "누군가를 사랑하면서도 사랑함을 알 수 있는 처지에 있지 않을 수 있고, 사랑하지 않으면서도 알 수 있는 처지에 있지 않을 수 있으며, 원함에 대해서도 마찬가지이다", "label": "지지됨", "evidence": "one can want something without being in a position", "note": ""},
+    {"n": 3, "text": "앎이 심적 상태라면 어떤 것을 알지 못하면서 알지 못함을 알 수 있는 처지에 있지 않다는 점이 놀랍지 않다", "label": "지지됨", "evidence": "one should therefore not be surprised", "note": ""},
+    {"n": 4, "text": "구루가 자정에 고통을 느끼리라고 말하고 아주 잘 믿는 사람이 고통을 느낀다고 판단하는 사례는 판단과 참 사이에 간극이 있음을 보인다", "label": "지지됨", "evidence": "the example still shows a gap between judgement and truth", "note": ""},
+    {"n": 5, "text": "이 간극은 다른 영역보다 작을 수 있지만 반투명성 논증이 출발할 수 있는 최소한의 근거가 된다", "label": "지지됨", "evidence": "even if smaller than elsewhere", "note": ""},
+    {"n": 6, "text": "심적 상태가 인과적 연결의 패턴을 포함하므로 현재 상태에 대한 판단이 이후의 행동과 어긋나 철회될 수 있다", "label": "지지됨", "evidence": "subsequently forced to retract", "note": ""},
+    {"n": 7, "text": "판단이 체계적으로 왜곡되거나 자기 귀속이 지식이 되기에는 너무 신빙성이 낮을 수 있고, 자기상과 양립하지 않는 심적 상태는 자신에게 감추어질 수 있다", "label": "지지됨", "evidence": "may be concealed from one", "note": ""},
+    {"n": 8, "text": "유년의 사건을 기억하는 것과 상상하는 것의 차이는 심적 상태의 차이인데도 틀리기 쉽다", "label": "지지됨", "evidence": "it is easy to be wrong", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/윈랤슨 지식과 그 한계 서론 35697cdd867e81d7ba30ecfe05c182ca.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

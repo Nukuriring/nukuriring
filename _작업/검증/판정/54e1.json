@@ -1,0 +1,17 @@
+{
+  "id": "54e1",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "자미르에 따르면 로미오에게 로절린이 있었다는 사실이 사랑의 진지함과 비극의 효과를 위협한다", "label": "지지됨", "evidence": "Does not the whole tragic effect ... suffer", "note": "원문은 수사적 물음 형태"},
+    {"n": 1, "text": "자미르는 로미오가 처음부터 다른 여인을 깊이 사랑하는 인물로 소개된다는 점을 독해의 가장 큰 장애물로 짚는다(113)", "label": "지지됨", "evidence": "introduced already deeply in love with another", "note": "113쪽 일치"},
+    {"n": 2, "text": "로절린을 대신할 것이 없다고 하던 사람이 줄리엣을 우연히 본 순간 그 모든 것을 잊는다는 사실을 우리는 그대로 받아들이도록 요구받는다", "label": "지지됨", "evidence": "gone as soon as he accidentally sees Juliet", "note": ""},
+    {"n": 3, "text": "오후에 로절린을 위해 죽을 수도 있던 로미오가 저녁에 사랑받는다는 느낌이 들어 다른 사랑에 빠졌다는 설명은 설득력 있는 정당화가 되지 못한다(114)", "label": "부분 지지", "evidence": "If Romeo was indeed willing to die", "note": "원문은 'If Romeo was indeed willing to die for Rosaline ... it is hardly a persuasive justification'로 조건문이다. 카드는 조건을 빼고 '죽을 수도 있던'을 사실로 적었다."},
+    {"n": 4, "text": "이 성격화는 줄리엣에게 하는 로미오의 말에 공감하기 어렵게 만들고 비극 전체의 효과를 약하게 한다(114)", "label": "지지됨", "evidence": "block the attempt to sympathize", "note": "원문은 수사적 물음이며 카드가 서술로 옮김"},
+    {"n": 5, "text": "사랑에 사랑하는 몽상가를 내세운 이유는 비극적 효과를 의도했다면 설명되기 어렵다(115)", "label": "지지됨", "evidence": "seems inexplicable if we assume", "note": "115쪽 일치"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/Shakespear/Quotes b9a5775c26ac4569aeade658be029b89.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

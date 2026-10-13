@@ -1,0 +1,18 @@
+{
+  "id": "56d",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "필기는 인간과 비인간의 구분이 인간 정체성을 지키려는 일에서 나오며 이 구분 때문에 동물이 두려움의 대상이 된다고 정리한다", "label": "지지됨", "evidence": "animals become something that you fear.", "note": ""},
+    {"n": 1, "text": "인간과 동물을 가르는 구분이 인간 정체성의 일관성을 세우려는 데서 시작한다", "label": "지지됨", "evidence": "Identity - coherent. It first started from making distinction.", "note": ""},
+    {"n": 2, "text": "나와 타자를 가르는 구분이 먼저 생기고 동물은 아니라는 말로 인간이 무엇인지에 대한 개념이 만들어진다", "label": "지지됨", "evidence": "“animals are not ——-”", "note": ""},
+    {"n": 3, "text": "이 정체성을 지키고 고치는 일은 나 아닌 것으로부터 무언가를 보호하는 일이어서 그 무언가가 적대자이자 두려워할 대상이 된다", "label": "지지됨", "evidence": "becomes the enemy, opposition. something you fear.", "note": ""},
+    {"n": 4, "text": "사회는 동물을 재산, 음식, 오락, 경이, 종교적이고 상징적인 대상으로 사회 안에 들이며 의인화 같은 받아들일 만한 방식으로 인간의 삶에 머물게 한다", "label": "지지됨", "evidence": "property, food. entertainment. wonder.", "note": ""},
+    {"n": 5, "text": "그러나 이렇게 포함되어도 두려움은 사라지지 않고 필기는 킹이 두려움은 사라지지 않고 괴물은 죽지 않는다고 일깨운다고 적는다", "label": "지지됨", "evidence": "fear never goes away. Monster never dies.", "note": ""},
+    {"n": 6, "text": "필기에는 구분이 분명하지 않다는 메모도 함께 있다", "label": "지지됨", "evidence": "Not clear cut.", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/현대 영미문학/Cujo e044adf150e740818e09747a9bac8ad4.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

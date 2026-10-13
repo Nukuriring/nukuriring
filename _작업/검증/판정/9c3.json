@@ -1,0 +1,19 @@
+{
+  "id": "9c3",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "오스틴에 따르면 참의 담지자는 특정한 상황에서 이루어진 진술이다", "label": "지지됨", "evidence": "as used by a certain person on a certain occasion", "note": ""},
+    {"n": 1, "text": "「Truth」(1950)에서 진리가 실체·성질·관계인지 묻는 대신 'true'라는 낱말의 쓰임을 살핀다", "label": "지지됨", "evidence": "ask after the use of the word true", "note": ""},
+    {"n": 2, "text": "'his closing words were very true'의 지시어는 어떤 사람이 어떤 상황에서 쓴 낱말, 곧 진술을 말하고 있음을 드러낸다", "label": "지지됨", "evidence": "the demonstratives show we mean", "note": ""},
+    {"n": 3, "text": "믿음, 명제, 문장은 일차적 담지자가 못 된다(그림은 삶에 충실할 뿐, '문장의 의미가 참이다'라 하지 않음, 문장은 비문법적·중의적일 수 있을 뿐)", "label": "지지됨", "evidence": "true to life, not true of it", "note": ""},
+    {"n": 4, "text": "'A sentence is made up of words, a statement is made in words.'", "label": "지지됨", "evidence": "a statement is made in words", "note": ""},
+    {"n": 5, "text": "두 사람이 같은 문장 'It is mine'으로 서로 다른 진술을 하며 \"'S' is true in the English language\"를 일차적으로 보는 것은 'a fashionable mistake'이다", "label": "지지됨", "evidence": "it is a fashionable mistake", "note": ""},
+    {"n": 6, "text": "진술은 날짜를 가진 역사적 사건이다", "label": "지지됨", "evidence": "A statement is a historic event", "note": "정독 노트: 'dated, historic act of stating'."},
+    {"n": 7, "text": "강독 노트는 문장은 상황과 무관한 유형이고 참거짓을 따지는 것은 특정 시점의 진술이라는 정리를 영진이 지적한 점으로 기록한다", "label": "지지됨", "evidence": "= the user's point: the sentence is", "note": ""}
+  ],
+  "sources_used": ["문헌/@Austin1950 Truth.md", "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md", "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "8c1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "콰인은 의미를 지칭과 떼어 낸 뒤 의미 이론의 일을 동의성과 분석성으로 좁힌다", "label": "지지됨", "evidence": "simply the synonymy of linguistic forms", "note": "p.251-252"},
+    {"n": 1, "text": "콰인은 칸트의 분석성 정의가 주어-술어 형식에 한정되고 포함이라는 은유에 머문다고 지적하고, 칸트의 의도를 사실과 무관하게 의미에 의해 참인 진술로 다시 정식화한다(pp.250-251)", "label": "지지됨", "evidence": "true by virtue of meanings", "note": ""},
+    {"n": 2, "text": "프레게의 '샛별'과 '개밥바라기', 러셀의 '스콧'과 '『웨이벌리』의 저자'를 들어 의미가 명명과 다르다고 보고, 일반 명사에서도 의미와 외연을 구별한다: '심장을 가진 동물'과 '신장을 가진 동물'은 외연이 같을 수 있지만 의미는 다르다(p.251)", "label": "지지됨", "evidence": "perhaps alike in extension but unlike in meaning", "note": "'perhaps'가 카드의 '같을 수 있지만'에 유지됨"},
+    {"n": 3, "text": "\"Meaning is what essence becomes when it is divorced from the object of reference and wedded to the word.\"", "label": "지지됨", "evidence": "Meaning is what essence becomes", "note": "인용문 일치"},
+    {"n": 4, "text": "의미 이론을 지칭 이론과 분리하면 의미 이론의 일차적 과제는 동의성과 분석성이 되며, 불분명한 매개 존재자로서의 의미는 버려도 된다(pp.251-252)", "label": "지지됨", "evidence": "may well be abandoned", "note": ""},
+    {"n": 5, "text": "'결혼하지 않은 남자 가운데 결혼한 사람은 없다' 같은 논리적 참은 논리 불변사 이외의 성분을 어떻게 재해석해도 참으로 남는다(p.252)", "label": "지지됨", "evidence": "remains true under any and all reinterpretations", "note": ""},
+    {"n": 6, "text": "'총각 가운데 결혼한 사람은 없다' 같은 둘째 부류는 동의어를 동의어로 바꾸어 논리적 참으로 만들 수 있는 진술이며, 이 설명은 분석성만큼 해명이 필요한 동의성에 기댄다", "label": "지지됨", "evidence": "putting synonyms for synonyms", "note": ""},
+    {"n": 7, "text": "카르납의 상태 기술 기준도 원자 진술들이 서로 독립인 언어에서만 작동하므로 'a reconstruction at best of logical truth, not of analyticity'에 그친다(pp.252-253)", "label": "지지됨", "evidence": "a reconstruction at best of logical truth", "note": "인용문 일치"}
+  ],
+  "sources_used": ["문헌/@Quine1951 Two Dogmas of Empiricism.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/B-1_논리및언어철학1/B1-08_Quine-TwoDogmas-1.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}

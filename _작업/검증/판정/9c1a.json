@@ -1,0 +1,17 @@
+{
+  "id": "9c1a",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "오스틴은 단언이 믿음을 특별한 의미로 함축한다고 분석한다", "label": "지지됨", "evidence": "in a special sense of 'imply'", "note": ""},
+    {"n": 1, "text": "'The cat is on the mat, and I do not believe it'은 부조리하지만 앞 절이 '나는 믿는다'를 함축하지는 않는다. 화자가 거짓말을 할 수 있기 때문이다", "label": "지지됨", "evidence": "the speaker may be lying", "note": ""},
+    {"n": 2, "text": "질문하는 일이 답을 모른다는 것을 함축하듯 p를 단언하는 일은 특별한 의미에서 p를 믿는다는 것을 함축한다", "label": "지지됨", "evidence": "By asserting p I give it to be understood", "note": ""},
+    {"n": 3, "text": "진짜 함축이면 not-Q와 might-not-Q를 덧붙인 결과가 모두 부조리해야 하는데 이 경우 might-not-Q는 괜찮아 둘이 갈린다", "label": "지지됨", "evidence": "\"might-not-Q\" fine", "note": ""},
+    {"n": 4, "text": "부조리를 막는 것은 상황에서 낱말을 쓰는 방식에 관한 암묵적 의미 규약이다", "label": "지지됨", "evidence": "some semantic convention (implicit)", "note": ""},
+    {"n": 5, "text": "강독 노트는 이 분석을 진실성 조건과 그라이스식 함축을 앞서 보여 주는 화행론의 씨앗으로 읽는다", "label": "지지됨", "evidence": "the speech-act seed (1940)", "note": ""}
+  ],
+  "sources_used": ["문헌/@Austin1940 The Meaning of a Word.md", "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-13"
+}
