@@ -1,0 +1,55 @@
+{
+ "id": "52b1b",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "지배로서의 권력을 현상학적으로 보면 억압은 초월성과 내재성 사이에 끼어 자아가 되지 못하게 하는 일이다",
+   "label": "지지됨",
+   "evidence": "Self가 되지 못하게 만드는 것이 바로 억압",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "주체와 타자의 구분은 남성과 여성의 구분과 일치한다",
+   "label": "지지됨",
+   "evidence": "남성 – 여성 구분의 일치",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "여성은 초월할 수 있으나 조건에 의해 내재성에 갇힌다",
+   "label": "지지됨",
+   "evidence": "compelled into immanence",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "주체와 객체 사이에 끼어 통합성을 얻기 어렵다",
+   "label": "지지됨",
+   "evidence": "Integrity, 혹은 unity를 획득하기 어렵다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "여성 경험의 조직 방식은 권력 관계와 억압적 담론을 반영한다",
+   "label": "지지됨",
+   "evidence": "경험은 언제나 권력 관계와 억압적 담론을 반영",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "소외된 경험과 경계에 끼인 억압된 자아에 집중해 권력의 작동을 밝히려 한다",
+   "label": "지지됨",
+   "evidence": "경계에서 혹은 사이에 끼인채로",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/SEP_On power in fem"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

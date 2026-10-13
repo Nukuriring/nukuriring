@@ -1,0 +1,55 @@
+{
+ "id": "52b4b",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "정의 연대는 연대를 사회 변화의 도구로 보는 숄츠, 콜러스, 페더스톤의 도구적 노선에 속한다",
+   "label": "부분 지지",
+   "evidence": "falls in line with these instrumental",
+   "note": "정이 이 노선에 속한다고 말한 것은 맞음. 그러나 같은 대목이 콜러스를 '(non-instrumental)'로 적는데 제목은 세 사람을 모두 도구로 봄. 카드 본문과도 어긋남"
+  },
+  {
+   "n": 1,
+   "text": "넷째 물음 아래 연대는 프랑스 혁명에서 이어지는 혁명 요소이고 마르크스주의 노동 운동으로 이어진다",
+   "label": "지지됨",
+   "evidence": "프랑스 혁명에서부터 이어지는 혁명의 요소",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "숄츠: 운동 참여자 사이 정치적 연대, 동료·목표·운동 밖 사람에 대한 도덕적 의무",
+   "label": "지지됨",
+   "evidence": "specific sets of moral obligations",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "콜러스: 특권 집단이 억압받는 집단의 이익과 판단에 따르는 도덕적 의무로서 연대를 비도구적으로 설명",
+   "label": "지지됨",
+   "evidence": "(non-instrumental) account",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "페더스톤: 연대는 정치적 투쟁으로 벼려진 관계이며 바깥과 밑의 압력으로 생길 수 있는 실천",
+   "label": "지지됨",
+   "evidence": "can emerge through 'pressure from without'",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "정은 자신의 밑으로부터의 연대가 이 노선에 속한다고 말한다",
+   "label": "지지됨",
+   "evidence": "falls in line with these instrumental",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/SEP_On power in fem"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

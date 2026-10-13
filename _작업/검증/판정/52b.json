@@ -1,0 +1,56 @@
+{
+ "id": "52b",
+ "voice": "종합",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "권력을 지배와 역량의 양면으로 보는 여성주의 권력론과 하우가드와 정의 연대론은 서로 이어진다",
+   "label": "연결",
+   "evidence": "",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "SEP 필기는 자원, 지배, 역량 접근을 훑고 power-over/power-to 구별을 축으로 삼는다",
+   "label": "지지됨",
+   "evidence": "Two ways (1) Exercising of power-over",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "하우가드는 네 차원에서 같은 기제가 지배로도 역량 부여로도 귀결될 수 있다고 보며 한 이론에 모은다",
+   "label": "지지됨",
+   "evidence": "지배로도 역량 제공으로 귀결되는 경우도 있음",
+   "note": "Response_0311 요약 기준"
+  },
+  {
+   "n": 3,
+   "text": "정은 연대를 집단적 능력으로서 권력의 한 형태로 이해하고 power-with를 강조한다",
+   "label": "부분 지지",
+   "evidence": "사회 변혁을 위해 스스로를 조직할 수 있는 집단적 능력",
+   "note": "집단적 능력은 직접 근거. 'power-with를 강조한다'는 직접 문장 없음. 필기는 power over/to/with 목록과 아렌트 power with를 따로 적고 연대와 power-with를 명시로 잇지 않음"
+  },
+  {
+   "n": 4,
+   "text": "세 필기를 하나의 문제로 묶은 것은 작성자의 해석이며 서로 인용하지 않는다",
+   "label": "연결",
+   "evidence": "",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "영진은 응답 글에서 통합의 규범적 기준이 충분한지 묻는다",
+   "label": "지지됨",
+   "evidence": "형식적 기준으로 충분한가",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/SEP_On power in fem",
+  "_원자료/notion/…/Response_0311"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
