@@ -19,6 +19,7 @@ created: 2026-10-09
 - [[2c1 트래비스에 따르면 demonstrable look은 어느 한 방향도 가리키지 않는다]]: 지각자의 기대나 습관이 후보를 고르면 그 선택은 autorepresentation에 속하므로, 이 구분이 표상받는 일에서 그 선택을 배제하는 근거가 된다.
 - [[1a2 오스틴에 따르면 안다고 말하는 일은 약속처럼 자기 말과 권위를 내주는 일이다]]: 안다고 말하는 사람이 듣는 사람에게 자기 말과 권위를 내준다는 오스틴의 분석은 받아들이거나 거부할 수 있는 committed allorepresentation의 한 사례로 읽을 수 있다.
 - [[5a Stampe의 욕구-지각론은 face value 조건과 가용성 조건을 충족하지 못한다]]: Claude는 autorepresentation과 allorepresentation의 구분을 영진의 Stampe 비판에 적용했다(대화 속 설명).
+- [[65c3 후설은 표상 이론이 무한 소급에 빠지고 유사성으로 표상 관계를 세울 수 없다고 반박한다]] (대조): 지각에서 표상받는 일이 allorepresentation이어야 한다는 요구와 후설의 유사성 비판은 표상 관계의 근거를 함께 문제 삼는다. (제안: Claude)
 
 ## 출처
 - [[@Travis2004 The Silence of the Senses]] §1 요소 (3)

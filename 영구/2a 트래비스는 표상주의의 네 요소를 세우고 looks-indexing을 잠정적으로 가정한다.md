@@ -22,6 +22,7 @@ created: 2026-10-09
 - [[5a Stampe의 욕구-지각론은 face value 조건과 가용성 조건을 충족하지 못한다]]: Claude의 평가에 따르면 영진이 Stampe 비판에 쓴 face value 조건과 가용성 조건은 이 네 요소 가운데 둘째와 넷째 요소에 대응한다.
 - [[2c 트래비스는 looks에서 looking like와 looking as if를 구별한다]]: 넷째 요소를 구체화한 looks-indexing의 검증은 looks에 섞인 두 개념을 구별하는 데서 시작한다.
 - [[4i Gauker는 보인다 화법이 지각의 정당화 역할을 보여 주지 못한다고 논증한다]]: Gauker도 '보인다' 진술이 지각 내용을 보고한다는 가정을 문제 삼으므로 looks-indexing 가정과 견주어 읽을 수 있다.
+- [[63c2 로크의 관념은 마음과 외부 대상을 매개하는 기본 인식 단위여서 그의 인식론은 표상적 실재론으로 분류된다]] (사례): 로크의 관념 이론은 트래비스가 비판하는 표상주의의 한 판본으로 읽힌다. (제안: Claude)
 
 ## 출처
 - [[@Travis2004 The Silence of the Senses]] §1
