@@ -1,0 +1,72 @@
+{
+ "id": "1a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "오스틴은 앎을 알맞은 기회에서 판단 능력이 성공한 결과로 본다",
+   "label": "지지됨",
+   "evidence": "successful exercise of judgmental capacities",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "Other Minds에서 bittern 물음의 답을 두 갈래로 나눈다",
+   "label": "지지됨",
+   "evidence": "(a)-(c) position to know; (d-f) how you can tell",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "앞의 답은 알 수 있는 위치에 이른 경위, 뒤의 답은 알아보는 방식",
+   "label": "지지됨",
+   "evidence": "how you come to be in a position to know",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "SEP와 강독 노트는 앞을 opportunity, 뒤를 acumen이라 부른다",
+   "label": "지지됨",
+   "evidence": "opportunity ... + acumen",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "SEP는 이 구분으로 앎을 판단 능력의 성공적 발휘의 결과로 재구성",
+   "label": "지지됨",
+   "evidence": "propitious circumstances (acumen + opportunity)",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "앎은 세계 파악의 기본 형태, 믿음에 조건을 덧붙인 상태와 구별",
+   "label": "지지됨",
+   "evidence": "basic form of apprehension",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "판단 능력은 한계가 있고 오류 가능하지만 많은 상황에서 성공해 앎을 낳는다",
+   "label": "지지됨",
+   "evidence": "inherently limited and fallible",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "SEP는 오스틴을 쿡 윌슨, 프리처드에서 윌리엄슨으로 이어지는 옥스퍼드 실재론 계보에 놓는다",
+   "label": "지지됨",
+   "evidence": "옥스퍼드 실재론(Oxford Realism)의 계보에 놓는다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Austin1946 Other Minds.md",
+  "문헌/@Longworth SEP John Langshaw Austin.md",
+  "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md",
+  "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

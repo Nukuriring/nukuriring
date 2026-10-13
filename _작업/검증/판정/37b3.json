@@ -1,0 +1,55 @@
+{
+ "id": "37b3",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "후퇴 비판은 부류 호소를, 선결문제 요구 비판은 누적 경험 호소 전체를 겨눈다",
+   "label": "지지됨",
+   "evidence": "모든 누적 경험 호소에 일괄 적용",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "흄 측 응수와 코디 비판이 두 추상 수준에서 맞물린다",
+   "label": "지지됨",
+   "evidence": "같은 층위에서 맞물립니다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "낮은 수준: 부류 호소에 부류 귀속 판단이 다른 증언으로 미루어지는 후퇴로 답함",
+   "label": "지지됨",
+   "evidence": "끝없이 다른 화자의 신빙성 판단으로 미루어진다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "높은 수준: 누적 경험 호소에 접근 통로가 증언이므로 선결문제 요구",
+   "label": "지지됨",
+   "evidence": "정당화하려는 바를 이미 전제하고 있다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "둘째 비판은 모든 누적 경험 호소에 적용, 코디 원문 'common experience of mankind', 'uniform experience'와 호응(대화 속 설명)",
+   "label": "지지됨",
+   "evidence": "'common experience of mankind' / 'uniform experience' 노선과도 직접 호응",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "후퇴 판본은 구조가 눈에 보이고 선결문제 요구 판본은 적용 범위가 넓다",
+   "label": "지지됨",
+   "evidence": "작동 구조가 손에 잡히는",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/claude.ai/chats/2026-05-20_Hume's circular reasoning on testimony and experience.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

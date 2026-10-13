@@ -1,0 +1,71 @@
+{
+ "id": "1c1",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "SEP는 오스틴이 식별 불가능성 원리를 거부한 데서 선언주의의 단초를 읽는다",
+   "label": "부분 지지",
+   "evidence": "Close to endorsing a form of disjunctivism",
+   "note": "SEP가 선언주의 단초를 읽는 근거는 지각 보고를 대상 유무에 확정하지 않는 보고로 다룬 점(정독 노트 Disjunctivism seed, SEP 노트 논증 구조 10). 비누 반례(원리 거부)는 선언주의자들이 겨냥하는 전제라고 정독 노트가 덧붙일 뿐, SEP가 거기서 단초를 읽는다고는 적지 않음."
+  },
+  {
+   "n": 1,
+   "text": "착각 논증 넷째 단계: 내성으로 구별 불가능한 경험은 같은 종류의 대상",
+   "label": "지지됨",
+   "evidence": "experiences introspectively indistinguishable",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "레몬처럼 보이게 만든 비누 사례: 구별되지 않아도 대상은 다른 사물",
+   "label": "지지됨",
+   "evidence": "indiscriminable ≠ same kind of object",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "'종이 두 장'·'분홍 쥐' 보고를 대상 유무에 확정하지 않는 보고로 다룬다",
+   "label": "지지됨",
+   "evidence": "non-committal about whether...object",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "참된 경험과 환각 경험은 공통 감각자료가 필요 없고 종류부터 다를 수 있다",
+   "label": "지지됨",
+   "evidence": "differ in kind rather than share a common datum",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "정독 노트: SEP는 소테리우(2009)를 인용해 선언주의에 가까이 갔다고 평가",
+   "label": "지지됨",
+   "evidence": "(Soteriou 2009)",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "선언주의자는 공통 요소를 부정해 나쁜 경우의 결론이 좋은 경우로 일반화되지 못하게 함",
+   "label": "지지됨",
+   "evidence": "deny the common factor",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "S&S는 부정적 작업이므로 정독 노트가 이 대목을 선언주의의 단초로 분류",
+   "label": "지지됨",
+   "evidence": "Negative, not doctrinal / Disjunctivism seed",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Longworth SEP John Langshaw Austin.md",
+  "문헌/@Austin1962 Sense and Sensibilia.md",
+  "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

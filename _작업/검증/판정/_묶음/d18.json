@@ -1,0 +1,273 @@
+{
+  "model": "sonnet",
+  "date": "2026-10-13",
+  "cards": [
+    {
+      "id": "53n3", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "목적 지향적 자기 운동의 판단은 형상을 전제하며 식물·동물·이성적 존재자는 좋음에 관계하는 방식이 다르다", "label": "지지됨", "evidence": "판단은 언제나 일정한 형상 또는 종을 전제한다", "note": ""},
+        {"n": 1, "text": "특정한 종류의 존재자에게만 귀속, 그런 종류에게 좋은 것 개념", "label": "지지됨", "evidence": "그런 종류의 것에게 좋은 것이 무엇인지", "note": ""},
+        {"n": 2, "text": "식물 움틈은 생애 주기 개념, 고양이 웅크림은 행동 패턴 전제", "label": "지지됨", "evidence": "그 식물 종의 생애 주기에 대한 개념이 전제", "note": ""},
+        {"n": 3, "text": "형상, 목적성, 좋음의 삼항 구조", "label": "지지됨", "evidence": "형상 -> 목적성 -> 좋음의 삼항 구조", "note": ""},
+        {"n": 4, "text": "S의 형식, 형상이 규정하는 경향성, A-ing은 그 실현", "label": "지지됨", "evidence": "그 경향성의 특수한 실현이라는 구조", "note": ""},
+        {"n": 5, "text": "성향은 방해가 없다면 발생할 것의 설명, 방해/비방해 구분은 본성 판단 필요", "label": "지지됨", "evidence": "방해가 없다면 발생할 것에 대한 설명", "note": ""},
+        {"n": 6, "text": "식물은 고정된 목적 구조, 비이성적 동물은 지각된 대상이 현재 주어진 좋음, 이성적 존재자는 일반 개념 포섭", "label": "지지됨", "evidence": "현재 주어진 좋음으로 작용", "note": ""},
+        {"n": 7, "text": "이성적 존재자는 좋은 것 그 자체와 삶 전체의 좋음을 반성한다", "label": "부분 지지", "evidence": "삶 전체로서의 좋음...반성할 수 있다", "note": "원문은 반성할 수 있다(능력)인데 카드는 반성한다로 단정함. 한정어 '~할 수 있다' 빠짐."},
+        {"n": 8, "text": "아리스토텔레스는 운동의 주제를 개체의 자연이라는 배경에서 이해, 영혼은 형상의 사례", "label": "지지됨", "evidence": "영혼은 자기-운동...형상의 특수한 사례", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/철학 자료 마스터/벨만 35697cdd….md"], "sources_missing": []
+    },
+    {
+      "id": "53n5", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "과도한 이상화·낙관 반론에 진리의 외양 하의 믿음과 같은 구조로 답하며 GG는 규범적 구조를 말한다", "label": "지지됨", "evidence": "규범적 성격에 대한 진술로 이해해야", "note": ""},
+        {"n": 1, "text": "반론은 두 가지: 지나친 고차원 사유 전제, 낙관(자기기만 등)", "label": "지지됨", "evidence": "너무 낙관적으로 본다", "note": ""},
+        {"n": 2, "text": "저자들은 두 반론이 GG 논제의 의미를 잘못 이해했다고 답한다", "label": "지지됨", "evidence": "GG 논제의 의미를 잘못 이해했다", "note": ""},
+        {"n": 3, "text": "합리적 행위자는 왜 p인가를 묻고, 참 술어를 몰라도 기준을 암묵 적용", "label": "지지됨", "evidence": "기준을 암묵적으로 적용하고 있는 자", "note": ""},
+        {"n": 4, "text": "GG가 말하는 것은 이성적 행위자가 언제나 A는 좋을 것이라고 A를 할 이유가 무엇인지 스스로 물을 수 있어야 한다는 것", "label": "부분 지지", "evidence": "'A를 할 이유는 무엇인가?'...던질 수 있어야", "note": "원문은 '언제나 A는 좋을 것이라고 명시적으로 생각하는 것이 아니다'라고 부정하고 이유를 물을 수 있어야 한다고 함. 카드 문장은 두 요소를 한 문장에 섞어 원문이 부정한 내용을 주장처럼 읽히게 함."},
+        {"n": 5, "text": "대답은 어떤 사실이 이유가 될 수 있는지 판단을 포함하고 기준을 제공", "label": "지지됨", "evidence": "이 때 요구되는 기준을 제공한다", "note": ""},
+        {"n": 6, "text": "참이 인식적 질문의 기준이라면 좋음은 실천적 질문의 기준", "label": "지지됨", "evidence": "'좋음'은 실천적 질문...의 기준이다", "note": ""},
+        {"n": 7, "text": "저자들은 GG를 이성적 행위의 설명 가능성 구조의 규범적 성격에 대한 진술로 이해해야 한다", "label": "지지됨", "evidence": "설명 가능성 구조의 규범적 성격", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/철학 자료 마스터/벨만 35697cdd….md"], "sources_missing": []
+    },
+    {
+      "id": "53h2a", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "교통법은 부분적 성공이 희망을 키웠기에, 맞춤법은 습관과 의무교육 권력이 뒷받침했기에 규범이 되었다", "label": "지지됨", "evidence": "부분적인 성공이 계속해서...희망을 키워", "note": ""},
+        {"n": 1, "text": "부분적 성공이 완벽한 성공에 대한 희망을 계속 키웠다", "label": "지지됨", "evidence": "완벽한 성공에 대한 희망을 키워 나갔다", "note": ""},
+        {"n": 2, "text": "18세기 초 파리, 기요트와 동료들이 규정을 강화하고 저항을 견딤, 곧고 넓은 대로 덕", "label": "지지됨", "evidence": "곧고 넓은 대로를 최초로 갖추게 된", "note": ""},
+        {"n": 3, "text": "가장 효과적인 규정은 규범과 습관에 기반, 어릴수록 강하다", "label": "지지됨", "evidence": "어린 나이에 습득될수록 강력하며", "note": ""},
+        {"n": 4, "text": "의무교육 법제화할 국가 권력이 철자법을 국가적 통일성과 애국심의 문제로 만든다", "label": "지지됨", "evidence": "국가적 통일성과 애국적 자부심의 문제", "note": ""},
+        {"n": 5, "text": "발달심리학자들: 어린아이는 명백히 관습적인 규칙조차 신성한 경전처럼 여긴다", "label": "지지됨", "evidence": "신성한 경전처럼 여기는지를 밝혀냈다", "note": ""},
+        {"n": 6, "text": "규정은 인간 완벽성에 대한 내기, 이기려면 규범으로 굳어져야", "label": "지지됨", "evidence": "규정이 규범으로 굳어져야 했다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/철학 자료 마스터/알고리즘,패러다임,법_발제 김영진 35697cdd….md"], "sources_missing": []
+    },
+    {
+      "id": "53h5", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "객관적 불확실성이 대권을 정당화, 슈미트는 불확실성에 호소하지 않았고, 합리적 관료제가 예외의 힘을 줄였다", "label": "지지됨", "evidence": "불확실성에 더는 호소하지 않아도 되었다", "note": ""},
+        {"n": 1, "text": "객관적 불확실성이 왕의 특권을 합리화", "label": "지지됨", "evidence": "객관적 불확실성은 특권의 행사를 합리화", "note": ""},
+        {"n": 2, "text": "왕실 특권은 불확실한 사회에서 공공선을 보장하려고 왕에게 쥐여진 권력", "label": "지지됨", "evidence": "공공선을 보장하기 위해 왕의 손에", "note": ""},
+        {"n": 3, "text": "주권은 법보다 공익을 앞세울 권한을 적법하게 가졌다", "label": "지지됨", "evidence": "법보다 공익을 우선시할 권한을 적법하게", "note": ""},
+        {"n": 4, "text": "슈미트는 예외 상태 기반에 불확실성 호소가 필요 없었다", "label": "지지됨", "evidence": "불확실성에 더는 호소하지 않아도 되었다", "note": ""},
+        {"n": 5, "text": "합리적 관료주의가 예외의 힘을 점차 줄였다", "label": "지지됨", "evidence": "예외가 지닌 힘을 점차 축소시킨 것", "note": ""},
+        {"n": 6, "text": "일부 정치체에서도 불확실성은 때때로 규칙을 압도, 어떤 규칙 체계도 예외 없이 작동 못함", "label": "지지됨", "evidence": "때때로 규칙을 압도하며", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/철학 자료 마스터/알고리즘,패러다임,법_발제 김영진 35697cdd….md"], "sources_missing": []
+    },
+    {
+      "id": "53e2", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "여섯 예비 조항은 전쟁 소재 유보 조약, 국가 취득, 상비군, 전쟁 부채, 내정 간섭, 신뢰 깨는 적대 행위를 금지", "label": "지지됨", "evidence": "(1)...(6) 열거 일치", "note": ""},
+        {"n": 1, "text": "조항 1~6의 내용(조약, 국가 취득, 상비군 폐지, 부채, 폭력 간섭, 암살·독살 등)", "label": "지지됨", "evidence": "상비군은 점차 완전히 폐지되어야 한다", "note": ""},
+        {"n": 2, "text": "1번은 영원하다는 수식어, 2번은 취득 대상 사고의 분쟁, 3번은 상비군이 전쟁 위협이라는 논거", "label": "지지됨", "evidence": "상비군의 존재가 그 자체로 전쟁의 위협", "note": ""},
+        {"n": 3, "text": "6번은 전쟁이 서로의 절멸로 치닫지 않게 하려는 조항", "label": "지지됨", "evidence": "상호 간의 절멸로 치닫지 않게 하기 위한", "note": ""},
+        {"n": 4, "text": "1, 5, 6번은 엄격한 금지, 나머지는 유연한 허용적 조항", "label": "지지됨", "evidence": "1,5,6번 조항은 엄격한 금지 조항", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/철학 자료 마스터/영원한 평화를 위하여_22 35697cdd….md"], "sources_missing": []
+    },
+    {
+      "id": "53e6", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "자연이 전쟁을 거쳐 공화정, 다수 국가, 상업 정신을 만들어 평화를 보증한다고 논증", "label": "지지됨", "evidence": "가능성을 보증해주는 것이...자연", "note": ""},
+        {"n": 1, "text": "부록은 영구 평화가 어떻게 가능한지에 대한 대답, 보증은 자연", "label": "지지됨", "evidence": "어째서 영구 평화가 가능한지에 대한", "note": ""},
+        {"n": 2, "text": "자연은 인간을 지구 곳곳에 살게 하려고 전쟁을 수단으로, 전쟁은 자연의 의욕에 포함", "label": "지지됨", "evidence": "전쟁 자체는 자연의 의욕에 포함", "note": ""},
+        {"n": 3, "text": "전쟁이나 위협이 공법의 강제에 뭉치게 하고 공화적 체제를 형성하도록 강제", "label": "지지됨", "evidence": "공화적 체제를 형성하도록 강제한다", "note": ""},
+        {"n": 4, "text": "적절한 크기의 공화정 국가 여럿, 보편 제국은 타락, 몰락이 자연이 타락을 의욕하지 않음을 보임", "label": "지지됨", "evidence": "제국의 몰락에 의해서 증명될 수 있다", "note": ""},
+        {"n": 5, "text": "언어, 민족, 인종 다양성으로 민족이 섞이지 않고 나뉜 단위를 이룸", "label": "지지됨", "evidence": "다양한 언어, 민족, 인종을 통해", "note": ""},
+        {"n": 6, "text": "사익 추구 상업 정신으로 민족을 결합, 금력에 이끌려 평화 촉진", "label": "지지됨", "evidence": "금력에 따라 고귀한 평화를 촉진", "note": ""},
+        {"n": 7, "text": "이 논증은 평화가 자연의 움직임 끝에 놓여 있다는 확신을 준다", "label": "지지됨", "evidence": "자연의 움직임 끝에 놓여 있음을 확신", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/철학 자료 마스터/영원한 평화를 위하여_22 35697cdd….md"], "sources_missing": []
+    },
+    {
+      "id": "53k1", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "상관주의는 의식과 언어를 열린 동시에 투명한 감옥으로 서술하며 이는 독단주의 포기의 상실을 부인하는 것이라고 진단", "label": "부분 지지", "evidence": "상실에 대한 부인 때문일 것이다", "note": "원문은 '때문일 것이다'로 추측형인데 제목은 '부인하는 것이라고 진단한다'로 단정함. 본문은 '때문일 것'을 유지함."},
+        {"n": 1, "text": "의식과 언어는 무언가에 대한 의식·말이라는 점에서 세계의 창문", "label": "지지됨", "evidence": "그것들은 세계의 창문, 바로 그것이다", "note": ""},
+        {"n": 2, "text": "빠져나올 수 없으므로 모든 것이 외부이지만 빠져나갈 수 없는 투명한 감옥", "label": "지지됨", "evidence": "투명한 감옥 속에 있는 것처럼", "note": ""},
+        {"n": 3, "text": "상관관계적 외부성의 역설적 특징에 주목", "label": "지지됨", "evidence": "상관관계적 외부성이라는 역설적 특징", "note": ""},
+        {"n": 4, "text": "외부가 유폐적으로 느껴지는 까닭은 전적으로 우리 자신에 대해 상대적이기 때문", "label": "지지됨", "evidence": "전적으로 상대적이기 때문이다", "note": ""},
+        {"n": 5, "text": "사유가 외부로 향한다는 주장을 애쓰는 것은 상실을 잘 겪어 내지 못해 부인하기 때문일 것", "label": "지지됨", "evidence": "상실에 대한 부인 때문일 것이다", "note": ""},
+        {"n": 6, "text": "후비판적 철학의 공준 목록, 제1성질 지지 입장은 공준 전체를 위반", "label": "지지됨", "evidence": "이 공준들은 모든 후비판적 철학을 특징", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/철학 자료 마스터/유한성 이후 - 상관주의 35697cdd….md"], "sources_missing": []
+    },
+    {
+      "id": "53k2", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "선조적 진술을 인간 이전 사건을 말하는 진술로 규정, 데카르트적 해석에서는 지시물이 실제로 일어났다고 말할 수 있다", "label": "지지됨", "evidence": "지시물들이 실제로서 제시될 수 있는 진술", "note": ""},
+        {"n": 1, "text": "과학은 수정 가능한 가설로나마 화석, 지구, 천체, 우주의 나이를 규정", "label": "지지됨", "evidence": "수정 가능한 가설의 자격일지라도", "note": ""},
+        {"n": 2, "text": "인간 종 출현에 선행하는 실재 전부가 선조적, 원화석은 선조적 사건의 존재를 가리키는 물질(동위원소, 행성 광선)", "label": "지지됨", "evidence": "선조적 사건의 존재를 가리키는 물질들을", "note": ""},
+        {"n": 3, "text": "데카르트적 해석에서는 선조적 진술의 의미가 문제를 일으키지 않는다", "label": "지지됨", "evidence": "데카르트주의와 같은 독단주의 철학에 문제를 일으키지 않는다", "note": ""},
+        {"n": 4, "text": "제2성질은 무의미, 수학화되는 속성은 관찰자 없이도 실제 속성을 지시", "label": "지지됨", "evidence": "관찰자가 없을지라도...실제적 속성들", "note": ""},
+        {"n": 5, "text": "진술은 관념적이어도 지시물은 실제", "label": "지지됨", "evidence": "지시물들이 필연적으로 관념적이지는 않다", "note": ""},
+        {"n": 6, "text": "과학자는 이론 수정 가능을 인정하면서도 그 시점 이론대로 일어났다고 볼 합법적 근거", "label": "지지됨", "evidence": "사건의 실존을 인정한다는 것은 합법적", "note": ""},
+        {"n": 7, "text": "데카르트적 해석의 여섯 명제(비공외연, 시간상 선행, 세계 내적 사건, 연대 추적, 사유 가능, 원화석)", "label": "지지됨", "evidence": "원화석은 소여됨에 선행하는 어떤 존재의", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/철학 자료 마스터/유한성 이후 - 상관주의 35697cdd….md"], "sources_missing": []
+    },
+    {
+      "id": "53a", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "홉스는 경쟁, 자기 확신의 결여, 공명심을 갈등의 원인으로 들고 공통 권력이 없으면 전쟁 상태", "label": "지지됨", "evidence": "경쟁, 자기 확신의 결여, 공명심이라고", "note": ""},
+        {"n": 1, "text": "능력의 평등에서 희망의 평등이 생긴다는 데서 시작", "label": "지지됨", "evidence": "능력의 평등에서 희망의 평등이 생긴다", "note": ""},
+        {"n": 2, "text": "상호 불신 속에서 자기 보존을 꾀하다 지배, 계략, 폭력으로 파괴", "label": "지지됨", "evidence": "상호 불신 속에서 자기 보존을 획책", "note": ""},
+        {"n": 3, "text": "권력 행사 자체에서 쾌감 느끼는 부류 때문에 평범한 사람도 안전에 머물 수 없다", "label": "지지됨", "evidence": "정상적인 사람들로 하여금...머물지 못하게", "note": ""},
+        {"n": 4, "text": "세 원인(이익, 자기 보호, 평가와 인정)", "label": "지지됨", "evidence": "이익, 자기 보호, 공명심", "note": ""},
+        {"n": 5, "text": "막을 수 있는 것이 없으므로 공통 권력이 없는 곳에서는 전쟁 상태", "label": "지지됨", "evidence": "공통의 권력이 존재하지 않는 곳에서는 전쟁 상태", "note": ""},
+        {"n": 6, "text": "자기 안전을 챙기고 금고를 두는 일을 인간 본성의 경험적 증거로 든다", "label": "지지됨", "evidence": "금고를 가지고 있는 것이 바로 인간 본성의 증거", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/철학 자료 마스터/홉스 리바이어던 35697cdd….md", "문헌/@Hobbes1651 Leviathan.md"], "sources_missing": []
+    },
+    {
+      "id": "53a9", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "자연법이 내면의 법정에서 구속하고 외적 구속력은 안전이 확실할 때만 가진다", "label": "부분 지지", "evidence": "안전 보장이 확실할 때만 자연법은 구속력", "note": "필기는 '내면의 법정에서 구속'과 '안전이 확실할 때만 구속력'을 말할 뿐 '외적 구속력'이라는 구분은 적지 않음. 외적/내적 구분은 카드(와 문헌 노트)가 보탠 해석."},
+        {"n": 1, "text": "제4부터 제19 자연법까지 차례로 든다(제8은 적혀 있지 않다)", "label": "지지됨", "evidence": "제 7의 자연법...제 9의 자연법", "note": ""},
+        {"n": 2, "text": "제4 보은과 선행, 제5 공손, 제6 용서, 제7 복수", "label": "지지됨", "evidence": "제 4의 자연법은 보은과 선행", "note": ""},
+        {"n": 3, "text": "제9 자만, 제10 오만(휘브리스) 금지", "label": "지지됨", "evidence": "휘브리스 금지이다", "note": ""},
+        {"n": 4, "text": "제11 공평, 제12 공유물 평등 사용, 제13 추첨 분배", "label": "지지됨", "evidence": "추첨을 통해 분배할 것의 요구", "note": ""},
+        {"n": 5, "text": "제14 상속, 15 중재, 16 복종, 17 제3자 재판관, 18 불공평 재판관 배제, 19 증거", "label": "지지됨", "evidence": "제 19 자연법은 증거에 관련", "note": ""},
+        {"n": 6, "text": "목록이 복잡해도 스스로를 돌아봄으로써 알 수 있는 당연한 것들", "label": "지지됨", "evidence": "스스로를 돌아봄으로써 알 수 있다", "note": ""},
+        {"n": 7, "text": "내면의 법정에서 구속하는 자연법은 욕구 관련, 실제 행위는 상황이 결정, 도덕철학은 이 자연법에 관한 것", "label": "지지됨", "evidence": "도덕 철학이란 바로 이 자연법과 관련", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/철학 자료 마스터/홉스 리바이어던 35697cdd….md", "문헌/@Hobbes1651 Leviathan.md"], "sources_missing": []
+    },
+    {
+      "id": "37b3", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "후퇴 비판은 부류 호소를, 선결문제 요구 비판은 누적 경험 호소 전체를 겨눈다", "label": "지지됨", "evidence": "모든 누적 경험 호소에 일괄 적용", "note": ""},
+        {"n": 1, "text": "흄 측 응수와 코디 비판이 두 추상 수준에서 맞물린다", "label": "지지됨", "evidence": "같은 층위에서 맞물립니다", "note": ""},
+        {"n": 2, "text": "낮은 수준: 부류 호소에 부류 귀속 판단이 다른 증언으로 미루어지는 후퇴로 답함", "label": "지지됨", "evidence": "끝없이 다른 화자의 신빙성 판단으로 미루어진다", "note": ""},
+        {"n": 3, "text": "높은 수준: 누적 경험 호소에 접근 통로가 증언이므로 선결문제 요구", "label": "지지됨", "evidence": "정당화하려는 바를 이미 전제하고 있다", "note": ""},
+        {"n": 4, "text": "둘째 비판은 모든 누적 경험 호소에 적용, 코디 원문 'common experience of mankind', 'uniform experience'와 호응(대화 속 설명)", "label": "지지됨", "evidence": "'common experience of mankind' / 'uniform experience' 노선과도 직접 호응", "note": ""},
+        {"n": 5, "text": "후퇴 판본은 구조가 눈에 보이고 선결문제 요구 판본은 적용 범위가 넓다", "label": "지지됨", "evidence": "작동 구조가 손에 잡히는", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-20_Hume's circular reasoning on testimony and experience.md"], "sources_missing": []
+    },
+    {
+      "id": "37d2", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "국소 환원주의에서 한 화자의 신빙성은 상황과 주제 같은 개별 요소에서 확보된다", "label": "부분 지지", "evidence": "typically the grounds...relate to", "note": "프리커 원문은 'typically'(전형적으로), 대화 설명은 '확보될 수 있다'로 한정함. 제목은 '확보된다'로 단정(본문은 한정어 유지)."},
+        {"n": 1, "text": "프리커는 국소 환원주의를 자기 입장으로 내세운다", "label": "지지됨", "evidence": "the local reductionist position I argue for", "note": ""},
+        {"n": 2, "text": "기대 근거는 전형적으로 화자의 상황·성격과 주제에 관련된다", "label": "지지됨", "evidence": "circumstances and character of the speaker", "note": ""},
+        {"n": 3, "text": "청자는 그 화자와 발언에 한정된 개별 근거로 신빙성을 확보", "label": "지지됨", "evidence": "they do not concern the generality", "note": ""},
+        {"n": 4, "text": "대화 설명이 필요조건 부정을 비대칭적으로 다시 쓴다", "label": "지지됨", "evidence": "필요조건 부정의 정확한 표현으로 옮겼습니다", "note": ""},
+        {"n": 5, "text": "충분조건 부정: 임의 화자가 대체로 믿을 만해도 이 화자는 아닐 수 있다", "label": "지지됨", "evidence": "믿을 만하지 않을 수 있고", "note": ""},
+        {"n": 6, "text": "흄은 직접 경험 누적, 코디는 추정적 권리, 국소 환원주의는 개별 발화 근거의 제3의 길", "label": "지지됨", "evidence": "지역 환원이라는 제3의 길", "note": ""},
+        {"n": 7, "text": "관련 NC를 식별하면 비순환적 확인 가능성의 소박함이 드러나 초월적 논증의 그럴듯함이 사라진다", "label": "지지됨", "evidence": "plausibility...evaporates", "note": ""},
+        {"n": 8, "text": "국소적 확인의 가능성이 NC를 거짓으로 만드는 근거", "label": "지지됨", "evidence": "showing...the Negative Claim, to be false", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-20_Hume's circular reasoning on testimony and experience.md", "문헌/@Fricker1994 Against Gullibility.md", "_원자료/claude.ai/chats/2026-05-13_프리커의 논증 체계적 분석.md"], "sources_missing": []
+    },
+    {
+      "id": "37b1d", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "사회적 부류는 관행이 정의하므로 지각 단서로 식별해도 단서와 부류를 잇는 지식은 증언을 거친다", "label": "지지됨", "evidence": "그 단서를 부류와 연결시키는 지식이 이미 증언을", "note": ""},
+        {"n": 1, "text": "증언 의존성의 자리를 식별 행위에서 배경 지식으로 옮겨야 한다(대화 속 설명)", "label": "지지됨", "evidence": "식별을 가능케 하는 배경 지식으로 한 단계", "note": ""},
+        {"n": 2, "text": "직업군 같은 부류는 자연종과 달리 사회적 관행이 정의, 정의는 타인의 진술로 안다", "label": "지지됨", "evidence": "사회적 관행에 의해 정의되는 범주", "note": ""},
+        {"n": 3, "text": "가운·청진기·진료로 의사를 식별해도 단서-부류 연결 지식은 증언을 거침", "label": "지지됨", "evidence": "이미 증언을 거쳐 청자에게 주어진 것", "note": ""},
+        {"n": 4, "text": "식별 내용은 비증언적이어도 범주 체계는 증언에 매개", "label": "지지됨", "evidence": "범주 체계는 증언적으로 매개되어 있다", "note": ""},
+        {"n": 5, "text": "결정적 논점은 부류 개념의 사회적 구성, 지각 단서는 보조 논점", "label": "지지됨", "evidence": "부수 논점으로 자연스럽게 자리", "note": ""},
+        {"n": 6, "text": "제도적 지위로 좁히면 친구·동향·선배를 못 담고 면허증은 볼 수 있어 근거 약해진다", "label": "지지됨", "evidence": "면허증을 보면 관찰되니까", "note": ""},
+        {"n": 7, "text": "대화 설명은 코디 원문 논점이 이 재구성만큼 깊다고 하나 원문 확인은 못함", "label": "지지됨", "evidence": "코디의 논점은 이보다 깊다", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-20_증언적 믿음의 정당화와 화자 식별.md"], "sources_missing": []
+    },
+    {
+      "id": "37b1e", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "사회적 범주의 증언 의존성 논변은 국소적 재반박을 넘어 반환원주의 일반 논변으로 커진다", "label": "지지됨", "evidence": "코디의 더 근본적인 반-환원주의 논변과 합쳐지는", "note": ""},
+        {"n": 1, "text": "코디의 재반박을 강화하면 증명하려는 것보다 많은 것을 증명한다(대화 속 설명)", "label": "지지됨", "evidence": "증명하고 싶은 것보다 많은 것을 증명한다", "note": ""},
+        {"n": 2, "text": "사회적 범주 일반이 증언으로 학습되면 흄의 부류 호소는 거의 모든 일상 범주 운용에서 무너진다", "label": "지지됨", "evidence": "거의 모든 일상적 범주 운용에서 무너진다", "note": ""},
+        {"n": 3, "text": "결론이 코디의 더 근본적인 반환원주의 논변과 합쳐진다", "label": "지지됨", "evidence": "더 근본적인 반-환원주의 논변과 합쳐지는", "note": ""},
+        {"n": 4, "text": "딜레마: 국소적으로 유지하면 지각적 식별 반례가 남고, 강화하면 별도의 큰 논변으로 커진다", "label": "지지됨", "evidence": "약점이 그대로 남고...메가-논변으로 확장", "note": ""},
+        {"n": 5, "text": "강화한 논변도 외양·행위의 의미를 직접 관찰로 배울 수 있다는 반론에 다시 노출된다", "label": "부분 지지", "evidence": "또 약점이 노출될 여지가 있다", "note": "원문은 '노출될 여지가 있다'로 한정, 카드는 '노출된다'로 단정."}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-20_증언적 믿음의 정당화와 화자 식별.md"], "sources_missing": []
+    },
+    {
+      "id": "37a3", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "흄 측의 공동체 경험 호소는 신뢰의 근거를 경험적 일반화에 두어 경험주의를 지킨다", "label": "지지됨", "evidence": "신뢰의 근거가 경험적 일반화라는 점은 동일", "note": ""},
+        {"n": 1, "text": "개인 경험이 좁다는 반론에 흄 측은 경험 범위를 넓혀 응수할 수 있다", "label": "지지됨", "evidence": "경험이 청자 개인의 1인칭 직접 경험에만 국한되지 않는다", "note": ""},
+        {"n": 2, "text": "타인 보고가 누적되면 빈도·양상 일반화가 청자의 경험적 토대에 들어온다", "label": "지지됨", "evidence": "청자의 경험적 토대에 편입되어 있습니다", "note": ""},
+        {"n": 3, "text": "부류별 신뢰도, 일치 시 신뢰, 동기 의심 일반화는 평생 경험으론 형성되기 어렵고 공동체 경험으로 주어짐", "label": "지지됨", "evidence": "평생 경험으로 형성되기 어렵습니다", "note": ""},
+        {"n": 4, "text": "정당성은 이런 증언이 자주 참으로 판명되어 왔다는 경험적 사실에 기댄다", "label": "지지됨", "evidence": "실제로 자주 진실로 판명되어 왔다", "note": ""},
+        {"n": 5, "text": "검증 주체만 다르고 근거는 같으므로 경험주의 원칙을 어기지 않는다(대화 속 설명)", "label": "지지됨", "evidence": "경험주의 원칙을 위배하지 않는 이유", "note": ""},
+        {"n": 6, "text": "공동체 경험이 증언 연쇄로 매개되면 순환의 부담이 생긴다", "label": "지지됨", "evidence": "일정한 순환의 부담이 발생합니다", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-21_흄의 신빙성 판단 기준.md"], "sources_missing": []
+    },
+    {
+      "id": "37a4", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "공동체 경험 호소에는 순환, 언어 습득기 유아, 기록의 공백이라는 세 반례가 가능하다", "label": "지지됨", "evidence": "결이 다른 세 갈래의 반례가 가능합니다", "note": ""},
+        {"n": 1, "text": "첫째 순환: 누적 관찰 정보 자체가 증언으로 전달되어 경로에서 이미 증언 신뢰를 전제", "label": "지지됨", "evidence": "이미 증언적 신뢰를 전제하고 있습니다", "note": ""},
+        {"n": 2, "text": "둘째 유아: 부류 관찰도 공동체 자산 접근도 갖추지 못한 채 보호자 증언으로 기본 믿음 형성", "label": "지지됨", "evidence": "기본 믿음을 형성하는데", "note": ""},
+        {"n": 3, "text": "프리커도 simply-trusted testimony의 본질적 역할 때문에 전역 환원은 가망 없다는 데 동의", "label": "부분 지지", "evidence": "prospects for a global reduction seem hopeless", "note": "프리커 원문은 'seem hopeless'(가망 없어 보인다). 카드는 '가망 없다'로 단정."},
+        {"n": 4, "text": "셋째 기록 공백: 미접촉 부족 인류학자, 새 분야 전문가의 증언도 정황에 따라 정당하게 신뢰", "label": "지지됨", "evidence": "그들의 증언에 부여되는 신뢰는 정당화됩니다", "note": ""},
+        {"n": 5, "text": "셋째 반례는 흄 측이 비슷한 부류로 외삽해 비교적 쉽게 방어할 수 있다고 평가", "label": "지지됨", "evidence": "'유사 부류로 외삽한다'는 식으로 비교적 쉽게", "note": ""},
+        {"n": 6, "text": "순환 반례를 흄 측 응수가 기댄 자리를 정확히 겨누는 반례로 꼽는다", "label": "지지됨", "evidence": "흄의 대응이 '공동체 누적'으로 도피한 바로 그 지점", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-21_흄의 신빙성 판단 기준.md", "문헌/@Fricker1994 Against Gullibility.md", "_원자료/claude.ai/chats/2026-05-13_프리커의 논증 체계적 분석.md"], "sources_missing": []
+    },
+    {
+      "id": "1a", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "오스틴은 앎을 알맞은 기회에서 판단 능력이 성공한 결과로 본다", "label": "지지됨", "evidence": "successful exercise of judgmental capacities", "note": ""},
+        {"n": 1, "text": "Other Minds에서 bittern 물음의 답을 두 갈래로 나눈다", "label": "지지됨", "evidence": "(a)-(c) position to know; (d-f) how you can tell", "note": ""},
+        {"n": 2, "text": "앞의 답은 알 수 있는 위치에 이른 경위, 뒤의 답은 알아보는 방식", "label": "지지됨", "evidence": "how you come to be in a position to know", "note": ""},
+        {"n": 3, "text": "SEP와 강독 노트는 앞을 opportunity, 뒤를 acumen이라 부른다", "label": "지지됨", "evidence": "opportunity ... + acumen", "note": ""},
+        {"n": 4, "text": "SEP는 이 구분으로 앎을 판단 능력의 성공적 발휘의 결과로 재구성", "label": "지지됨", "evidence": "propitious circumstances (acumen + opportunity)", "note": ""},
+        {"n": 5, "text": "앎은 세계 파악의 기본 형태, 믿음에 조건을 덧붙인 상태와 구별", "label": "지지됨", "evidence": "basic form of apprehension", "note": ""},
+        {"n": 6, "text": "판단 능력은 한계가 있고 오류 가능하지만 많은 상황에서 성공해 앎을 낳는다", "label": "지지됨", "evidence": "inherently limited and fallible", "note": ""},
+        {"n": 7, "text": "SEP는 오스틴을 쿡 윌슨, 프리처드에서 윌리엄슨으로 이어지는 옥스퍼드 실재론 계보에 놓는다", "label": "지지됨", "evidence": "옥스퍼드 실재론(Oxford Realism)의 계보에 놓는다", "note": ""}
+      ],
+      "sources_used": ["문헌/@Austin1946 Other Minds.md", "문헌/@Longworth SEP John Langshaw Austin.md", "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md", "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md"], "sources_missing": []
+    },
+    {
+      "id": "1a1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "오스틴은 앎과 믿음의 차이를 도전 물음의 문법에서 읽어 낸다", "label": "지지됨", "evidence": "by the challenges, not the inner state", "note": ""},
+        {"n": 1, "text": "단언은 앎을, 엄밀하게는 믿음을 함축, 단언자는 '어떻게 아는가' 물음에 노출", "label": "지지됨", "evidence": "Assertion implies knowledge — strictly, belief", "note": ""},
+        {"n": 2, "text": "'어떻게 아는가'와 '왜 믿는가'라 묻고 '왜 아는가' '어떻게 믿는가'는 묻지 않는다", "label": "지지됨", "evidence": "we never say 'Why do you know?'", "note": ""},
+        {"n": 3, "text": "앞 물음에 답 못 하면 알지 못한 것, 뒤 물음에 답 못 하면 믿지 말았어야", "label": "지지됨", "evidence": "you don't know; ... you oughtn't", "note": ""},
+        {"n": 4, "text": "강독 노트: 앎은 존재가 도전받을 수 있고 믿음은 그렇지 않다", "label": "지지됨", "evidence": "existence of your knowledge is challengeable", "note": ""},
+        {"n": 5, "text": "'나는 믿는다/확실하다'는 주관적 상태를 기술할 수 있으나 '나는 안다'는 다르게 기능", "label": "지지됨", "evidence": "it functions differently in talking", "note": ""},
+        {"n": 6, "text": "SEP는 앎을 확신의 한 등급과 다른 종류로 읽는다", "label": "지지됨", "evidence": "Knowing is not a super-grade of confidence", "note": ""}
+      ],
+      "sources_used": ["문헌/@Austin1946 Other Minds.md", "문헌/@Longworth SEP John Langshaw Austin.md", "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md", "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md"], "sources_missing": []
+    },
+    {
+      "id": "1c1", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "SEP는 오스틴이 식별 불가능성 원리를 거부한 데서 선언주의의 단초를 읽는다", "label": "부분 지지", "evidence": "Close to endorsing a form of disjunctivism", "note": "SEP가 선언주의 단초를 읽는 근거는 지각 보고를 대상 유무에 확정하지 않는 보고로 다룬 점(정독 노트 Disjunctivism seed, SEP 노트 논증 구조 10). 비누 반례(원리 거부)는 선언주의자들이 겨냥하는 전제라고 정독 노트가 덧붙일 뿐, SEP가 거기서 단초를 읽는다고는 적지 않음."},
+        {"n": 1, "text": "착각 논증 넷째 단계: 내성으로 구별 불가능한 경험은 같은 종류의 대상", "label": "지지됨", "evidence": "experiences introspectively indistinguishable", "note": ""},
+        {"n": 2, "text": "레몬처럼 보이게 만든 비누 사례: 구별되지 않아도 대상은 다른 사물", "label": "지지됨", "evidence": "indiscriminable ≠ same kind of object", "note": ""},
+        {"n": 3, "text": "'종이 두 장'·'분홍 쥐' 보고를 대상 유무에 확정하지 않는 보고로 다룬다", "label": "지지됨", "evidence": "non-committal about whether...object", "note": ""},
+        {"n": 4, "text": "참된 경험과 환각 경험은 공통 감각자료가 필요 없고 종류부터 다를 수 있다", "label": "지지됨", "evidence": "differ in kind rather than share a common datum", "note": ""},
+        {"n": 5, "text": "정독 노트: SEP는 소테리우(2009)를 인용해 선언주의에 가까이 갔다고 평가", "label": "지지됨", "evidence": "(Soteriou 2009)", "note": ""},
+        {"n": 6, "text": "선언주의자는 공통 요소를 부정해 나쁜 경우의 결론이 좋은 경우로 일반화되지 못하게 함", "label": "지지됨", "evidence": "deny the common factor", "note": ""},
+        {"n": 7, "text": "S&S는 부정적 작업이므로 정독 노트가 이 대목을 선언주의의 단초로 분류", "label": "지지됨", "evidence": "Negative, not doctrinal / Disjunctivism seed", "note": ""}
+      ],
+      "sources_used": ["문헌/@Longworth SEP John Langshaw Austin.md", "문헌/@Austin1962 Sense and Sensibilia.md", "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md"], "sources_missing": []
+    },
+    {
+      "id": "1c3", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "오스틴은 착각과 망상을 구별하고 망상 사례에도 별도의 입증을 요구한다", "label": "지지됨", "evidence": "Austin separates them", "note": ""},
+        {"n": 1, "text": "착각 논증은 굽은 막대(착각)와 분홍 쥐(망상)를 한데 묶는다", "label": "지지됨", "evidence": "assimilates the bent stick...pink rats", "note": ""},
+        {"n": 2, "text": "착각은 일상적 사물과 보임새 경험을 포함하나 표준적 망상은 그렇지 않다", "label": "지지됨", "evidence": "illusions involve experience of ordinary things", "note": ""},
+        {"n": 3, "text": "망상에서 감각자료를 끌어내려면 두 가지를 입증해야 한다", "label": "지지됨", "evidence": "you'd have to show both", "note": ""},
+        {"n": 4, "text": "첫째: 판단이 경험에 기대고 있음(기능 장애 가능성 배제)", "label": "지지됨", "evidence": "judgment rests on experience (not dysfunction)", "note": ""},
+        {"n": 5, "text": "둘째: 환경 너머의 경험임(그림자 같은 사물을 잘못 받아들인 가능성 배제)", "label": "지지됨", "evidence": "not a disordered take on a shadow", "note": ""},
+        {"n": 6, "text": "두 조건이 입증되지 않는 한 망상도 일상적이지 않은 대상의 존재를 증명 못 함", "label": "지지됨", "evidence": "nothing non-ordinary is proven", "note": ""}
+      ],
+      "sources_used": ["문헌/@Austin1962 Sense and Sensibilia.md", "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md"], "sources_missing": []
+    }
+  ]
+}

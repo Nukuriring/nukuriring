@@ -1,0 +1,63 @@
+{
+ "id": "1c3",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "오스틴은 착각과 망상을 구별하고 망상 사례에도 별도의 입증을 요구한다",
+   "label": "지지됨",
+   "evidence": "Austin separates them",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "착각 논증은 굽은 막대(착각)와 분홍 쥐(망상)를 한데 묶는다",
+   "label": "지지됨",
+   "evidence": "assimilates the bent stick...pink rats",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "착각은 일상적 사물과 보임새 경험을 포함하나 표준적 망상은 그렇지 않다",
+   "label": "지지됨",
+   "evidence": "illusions involve experience of ordinary things",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "망상에서 감각자료를 끌어내려면 두 가지를 입증해야 한다",
+   "label": "지지됨",
+   "evidence": "you'd have to show both",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "첫째: 판단이 경험에 기대고 있음(기능 장애 가능성 배제)",
+   "label": "지지됨",
+   "evidence": "judgment rests on experience (not dysfunction)",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "둘째: 환경 너머의 경험임(그림자 같은 사물을 잘못 받아들인 가능성 배제)",
+   "label": "지지됨",
+   "evidence": "not a disordered take on a shadow",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "두 조건이 입증되지 않는 한 망상도 일상적이지 않은 대상의 존재를 증명 못 함",
+   "label": "지지됨",
+   "evidence": "nothing non-ordinary is proven",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Austin1962 Sense and Sensibilia.md",
+  "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,65 @@
+{
+ "id": "1a1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "오스틴은 앎과 믿음의 차이를 도전 물음의 문법에서 읽어 낸다",
+   "label": "지지됨",
+   "evidence": "by the challenges, not the inner state",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "단언은 앎을, 엄밀하게는 믿음을 함축, 단언자는 '어떻게 아는가' 물음에 노출",
+   "label": "지지됨",
+   "evidence": "Assertion implies knowledge — strictly, belief",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "'어떻게 아는가'와 '왜 믿는가'라 묻고 '왜 아는가' '어떻게 믿는가'는 묻지 않는다",
+   "label": "지지됨",
+   "evidence": "we never say 'Why do you know?'",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "앞 물음에 답 못 하면 알지 못한 것, 뒤 물음에 답 못 하면 믿지 말았어야",
+   "label": "지지됨",
+   "evidence": "you don't know; ... you oughtn't",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "강독 노트: 앎은 존재가 도전받을 수 있고 믿음은 그렇지 않다",
+   "label": "지지됨",
+   "evidence": "existence of your knowledge is challengeable",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "'나는 믿는다/확실하다'는 주관적 상태를 기술할 수 있으나 '나는 안다'는 다르게 기능",
+   "label": "지지됨",
+   "evidence": "it functions differently in talking",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "SEP는 앎을 확신의 한 등급과 다른 종류로 읽는다",
+   "label": "지지됨",
+   "evidence": "Knowing is not a super-grade of confidence",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Austin1946 Other Minds.md",
+  "문헌/@Longworth SEP John Langshaw Austin.md",
+  "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md",
+  "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
