@@ -1,7 +1,7 @@
 ---
 type: 문헌
 citekey: Fogal2020
-author: Fogal
+author: Daniel Fogal
 year: 2020
 title: "Rational Requirements and the Primacy of Pressure"
 published: "원자료에는 저자의 성과 짧은 제목(Primacy)만 나온다. 연도와 게재지는 필기에 없다."
@@ -13,7 +13,7 @@ created: 2026-10-12
 ---
 # Rational Requirements and the Primacy of Pressure
 
-> 서지 확인 메모: 필기 제목은 「Fogal Primacy」이다. 위 정식 제목과 연도 2020은 citekey 규약에 따라 보충한 것으로 확인 필요.
+> 서지 확인 메모: 필기 제목은 「Fogal Primacy」이다. 위 정식 제목과 연도 2020은 citekey 규약에 따라 보충한 것이며 웹으로 확인했다. 게재지는 Mind 129(516): 1033-1070.
 
 ## 한 줄 요지
 포갈은 구조적 합리성을 요구 대신 합리적 압력으로 이해하고, 어떤 구조적 요구에도 반례가 있다는 점에서 압력 기반 설명이 요구 기반 설명보다 낫다고 논한다.
@@ -52,3 +52,4 @@ created: 2026-10-12
 ## 원자료
 - Notion 「Fogal Primacy」 (Untill 2025/철학/분석철학)
 - Notion 「Response_10_김영진」 (철학 자료 마스터, 인식론 연습 2023-1, 응답문, 12KB)
+- 서지 확인(2026-10-13, 웹): https://philarchive.org/rec/FOGRRA-2

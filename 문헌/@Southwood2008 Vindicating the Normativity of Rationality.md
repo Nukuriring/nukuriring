@@ -1,10 +1,10 @@
 ---
 type: 문헌
 citekey: Southwood2008
-author: Southwood
+author: Nicholas Southwood
 year: 2008
 title: "Vindicating the Normativity of Rationality"
-published: "원자료에는 저자의 성과 필기 제목만 나온다. 연도와 게재지는 필기에 없다."
+published: "원자료에는 저자의 성과 필기 제목만 나온다. 연도와 게재지는 필기에 없다. 서지 조사로 Nicholas Southwood, Ethics 119, no. 1 (2008): 9-30으로 확인했다."
 status: 초안
 read_via:
   - "Notion 「Southwood, Vindicating」 (Untill 2025/철학/분석철학)"
@@ -12,7 +12,7 @@ created: 2026-10-12
 ---
 # Vindicating the Normativity of Rationality
 
-> 서지 확인 메모: 필기 제목은 「Southwood, Vindicating」이며 저자의 성과 제목 앞부분만 밝힌다. 위 정식 제목과 연도 2008은 citekey 규약에 따라 보충했으며 확인 필요. 저자 이름과 게재지는 필기에 없다.
+> 서지 확인 메모: 필기 제목은 「Southwood, Vindicating」이며 저자의 성과 제목 앞부분만 밝힌다. 위 정식 제목과 연도 2008은 citekey 규약에 따라 보충했고 서지 조사로 확인했다. 저자 이름과 게재지는 필기에 없고 서지 조사로 채웠다.
 
 ## 한 줄 요지
 사우스우드는 합리성 바깥에서 순응할 이유를 찾는 요구가 잘못된 요구라고 진단하고, 합리성의 규범성을 자신의 일인칭 권위를 존중하는 일로 설명한다.
@@ -46,3 +46,5 @@ created: 2026-10-12
 ## 원자료
 - Notion 「Southwood, Vindicating」 (Untill 2025/철학/분석철학)
 - Notion 「Response 4」 (2023 봄 인식론 연습, 응답문, 2023-04-13)
+
+- 서지 확인(2026-10-13, 웹): https://openresearch-repository.anu.edu.au/items/c3244b2d-e7c7-4471-89ab-6ac58831d6f4 , https://stafforini.com/works/southwood-2008-vindicating-normativity-rationality/

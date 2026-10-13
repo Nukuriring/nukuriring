@@ -22,6 +22,9 @@ a = ap.parse_args()
 V = a.vault
 D = os.path.join(V, '_작업', '검색', '임베딩', a.model.replace('/', '__'))
 rows = json.load(open(os.path.join(D, 'ids.json'), encoding='utf-8'))
+meta = json.load(open(os.path.join(D, 'meta.json'), encoding='utf-8'))
+if not meta.get('complete', True):
+    print(f"경고: 임베딩이 미완성입니다({meta.get('cards')}/{meta.get('total')}장). PC에서 embed.py를 다시 돌려 마저 계산하세요.")
 T = np.load(os.path.join(D, 'title.npy')).astype(np.float32)
 B = np.load(os.path.join(D, 'body.npy')).astype(np.float32)
 ids = [r['id'] for r in rows]

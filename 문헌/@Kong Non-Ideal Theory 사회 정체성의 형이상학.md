@@ -1,10 +1,10 @@
 ---
 type: 문헌
 citekey: Kong비이상이론사회정체성
-author: Kong (확인 필요)
+author: Kong (확인 필요, 후보: Youjin Kong, https://philarchive.org/rec/KONSIA-3)
 year: 미상
 title: "Non-Ideal Theory와 사회 정체성의 형이상학"
-published: "필기 제목은 Non-ideal theory뿐이며 저자와 출판 정보는 원자료에 없다. 앞의 Kong 노트와 같은 글의 다른 부분인지 확인되지 않았다."
+published: "필기 제목은 Non-ideal theory뿐이며 저자와 출판 정보는 원자료에 없다. 앞의 Kong 노트와 같은 글의 다른 부분인지 확인되지 않았다. (후보, 확인 필요: Youjin Kong, 「Social Identity at the Margins: A Decolonial Approach」, 요지는 겹치나 같은 글이라는 근거는 내용 유사성뿐임; 수록 Hilkje Charlotte Hänel and Johanna M. Müller (eds.), The Routledge Handbook of Non-Ideal Theory, pp. 305-314; 연도 2025가 다수이나 SNU 교수 페이지는 2024, 전자책 목록은 2024년 10월; https://philarchive.org/rec/KONSIA-3 , https://buecher.de/artikel/ebook/the-routledge-handbook-of-non-ideal-theory-ebook-epub/72270649)"
 status: 초안
 read_via:
   - "Non-ideal theory (읽기 필기)"

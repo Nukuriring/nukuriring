@@ -1,0 +1,27 @@
+---
+id: 58h2
+type: 영구
+voice: 영진
+status: 초안
+tags: [카벨노트, 맥도웰]
+sources: ["[[@McDowell1978 Are Moral Requirements Hypothetical Imperatives]]"]
+cluster: 카벨과 일상언어철학
+group: NC2
+created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: 영진(판정 페이지)
+---
+# 58h2 영진은 필기 끝에 세계를 얻는 이익이 영혼을 잃는 손해에 압도된다는 말을 Non-sense라고 적고 침묵시킴과 압도함을 구분하기를 과제로 적는다
+
+영진 님은 필기 끝에 What shall it profit a man, if he shall gain the whole world, and lose his soul? 라는 구절을 옮겨 적는다. 그 아래에 세계를 얻는 이익이 영혼을 잃은 손해에 의해서 압도당한다는 말을 Non-sense라고 적는다. 이어서 어떤 것이 전혀 이유로 고려되지 않는 상황을 상상하기와 Silencing과 Over-riding을 구분하기를 한 줄씩 적는다. 필기는 이 세 줄의 연결을 명시하지 않지만 나란히 적혀 있다.
+## 연결
+- 상위: [[58h 맥도웰에 따르면 덕의 요구를 정언 명령이라 주장하는 요점은 요구를 제대로 인식하면 반대 이유가 침묵한다는 데 있다]]
+- 다음: [[58h3 카벨의 must와 맥도웰의 침묵시킴은 대안을 비교 대상으로 올리지 않는 요구를 말한다는 점에서 이어 읽을 수 있다]]
+- [[58h 맥도웰에 따르면 덕의 요구를 정언 명령이라 주장하는 요점은 요구를 제대로 인식하면 반대 이유가 침묵한다는 데 있다]]: 침묵시킴과 압도함의 구분이 나온 맥도웰의 대목이다
+- [[58h1 덕의 요구가 다른 이유에 압도되지 않는다는 맥도웰의 생각은 소크라테스와 플라톤이 덕의 단일성을 강조하는 이유를 이해하게 한다]]: 같은 구분을 덕의 단일성과 연결한 영진 님의 필기이다
+- [[48a 소크라테스는 불의를 저지르는 일이 당하는 일보다 더 부끄럽고 더 나쁘다고 논증한다]] (다음 단계): 영혼을 잃는 손해가 세계를 얻는 이익에 압도되지 않는다는 말은 소크라테스의 불의 논증을 다시 묻는다. (제안: Claude)
+
+## 출처
+- [[@McDowell1978 Are Moral Requirements Hypothetical Imperatives]] 영진의 독해 메모
+- Notion 「Macdowell(Are moral imperatives Hypothetical Imperatives」 (철학 자료 아카이브 › 철학 자료 마스터, 문서 수정일 2025-02-27)

@@ -4,7 +4,7 @@ citekey: Setiya2007
 author: Setiya
 year: 2007
 title: "Cognitivism about Instrumental Reason"
-published: "원자료에는 저자의 성과 주제(instrumental reason)만 나온다. 연도와 게재지는 필기에 없다."
+published: "원자료에는 저자의 성과 주제(instrumental reason)만 나온다. 연도와 게재지는 필기에 없다. (후보: Kieran Setiya, Ethics 117 (2007): 647-673; 이후 Practical Knowledge: Selected Essays, OUP, 2017, 8장에 재수록; 확인 필요, https://ndpr.nd.edu/news/practical-knowledge-selected-essays/)"
 status: 초안
 read_via:
   - "Notion 「Setiya: instrumental reason」 (Untill 2025/철학/분석철학)"

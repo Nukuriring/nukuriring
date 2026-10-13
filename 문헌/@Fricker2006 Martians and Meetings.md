@@ -4,7 +4,7 @@ citekey: Fricker2006
 author: Elizabeth Fricker
 year: 2006
 title: "Martians and Meetings"
-published: "확인 필요. 원자료에는 쪽 머리 'MARTIANS AND MEETINGS 79'만 있다. 버지의 증언 선험주의를 다룬 Philosophica 78(2006) 수록 논문으로 보이나 이 서지는 위키 밖 지식이다."
+published: "원자료에는 쪽 머리 'MARTIANS AND MEETINGS 79'만 있다. 웹으로 확인한 서지는 Martians and Meetings: Against Burge's Neo-Kantian Apriorism about Testimony, Philosophica 78 (2006) 증언 특집호이다. 쪽 범위는 후보 69-84(PhilPapers 기록의 검색 결과 요약 기준, 쪽 79가 범위 안에 듦)이며 확인 필요."
 status: 초안
 read_via:
   - "[[_원자료/claude.ai/chats/2026-05-14_Local reductionism and testimony reliability]]"
@@ -44,3 +44,4 @@ created: 2026-10-09
 
 ## 원자료
 - (T2) [[_원자료/claude.ai/chats/2026-05-14_Local reductionism and testimony reliability]] (2026-05-14): 영진 02:44에 붙여 넣은 원문 단락, Claude 02:46~03:00의 흄 논쟁 적용과 형식화
+- 서지 확인(2026-10-13, 웹): https://philpapers.org/rec/FRIMAM-3 (쪽 범위 69-84는 중간 확신도로 후보)

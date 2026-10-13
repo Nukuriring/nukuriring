@@ -1,10 +1,10 @@
 ---
 type: 문헌
 citekey: Bratman Time, Rationality, Self-Governance
-author: Michael Bratman으로 보임 (원자료에 저자 표기가 없고 확인 필요)
-year: (확인 필요)
+author: "Michael Bratman으로 보임 (원자료에 저자 표기가 없고 확인 필요) (후보: Michael E. Bratman, 검색 결과 요약 기준)"
+year: "(확인 필요) (후보: 2012, 검색 결과 요약의 Philosophical Issues 22 인용, 원문 페이지는 열지 못함)"
 title: "Time, Rationality, and Self-Governance"
-published: "필기 제목은 Time, rationality, self-governance이다. 저자와 연도와 수록지는 원자료에 적혀 있지 않다. 계획하는 행위자와 의도의 안정성이라는 어휘가 브래트먼의 이론과 맞아 그의 글로 보았으나 확인이 필요하다."
+published: "필기 제목은 Time, rationality, self-governance이다. 저자와 연도와 수록지는 원자료에 적혀 있지 않다. 계획하는 행위자와 의도의 안정성이라는 어휘가 브래트먼의 이론과 맞아 그의 글로 보았으나 확인이 필요하다. 수록처 후보(확인 필요): Philosophical Issues 22 (Action Theory), 73-88, 편자 Sosa, Villanueva, Brogaard(검색 결과 요약). 같은 주제의 책 Planning, Time, and Self-Governance (OUP, 2018, https://academic.oup.com/book/5548 )와 같은 글인지는 확인하지 못했다."
 status: 초안
 read_via:
   - "[Time, rationality, self-governance](https://app.notion.com/p/e4d35a60e35f4c78abe53e7aa6955284) (분석철학 폴더 필기)"

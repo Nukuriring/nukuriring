@@ -1,10 +1,10 @@
 ---
 type: 문헌
 citekey: SEP여성주의권력
-author: SEP 항목 (저자 미상, 확인 필요)
-year: 미상
+author: Amy Allen (SEP 항목 "Feminist Perspectives on Power")
+year: 2005 (최초 게재 2005-10-19, 실질 개정 2021-10-28)
 title: "On Power in Feminism (SEP 여성주의 권력 항목과 Zheng 논문 필기)"
-published: "필기 파일명은 SEP_On power in fem이며 저자와 판본은 원자료에 없다. 내용상 Stanford Encyclopedia of Philosophy의 여성주의 권력 항목 요약으로 보이나 확인하지 못했다."
+published: "필기 파일명은 SEP_On power in fem이며 저자와 판본은 원자료에 없다. 서지 조사로 Amy Allen, \"Feminist Perspectives on Power\", Stanford Encyclopedia of Philosophy(최초 게재 2005-10-19, 실질 개정 2021-10-28)로 확인했다. 필기가 읽은 판본과, 후반부 Zheng 논문이 이 항목에 실린 것인지는 확인하지 못했다."
 status: 초안
 read_via:
   - "SEP_On power in fem (한국어 읽기 필기, 사회철학연습 2025-1)"
@@ -52,3 +52,5 @@ created: 2026-10-12
 
 ## 원자료
 - SEP_On power in fem: 사회철학연습 2025-1의 한국어 읽기 필기이며 수정일은 2025-03-12이다. 후반부에 정(Zheng)의 논문 필기와 하우가드 논문의 도입부 한 줄이 이어진다.
+
+- 서지 확인(2026-10-13, 웹): https://plato.stanford.edu/entries/feminist-power/ , https://philpapers.org/sep/feminist-power/

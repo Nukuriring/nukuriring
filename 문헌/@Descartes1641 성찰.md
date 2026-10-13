@@ -2,7 +2,7 @@
 type: 문헌
 citekey: Descartes1641
 author: René Descartes (르네 데카르트)
-year: 1641 (확인 필요)
+year: "1641 (확인 필요) (후보: 1641, Meditationes de prima philosophia, Paris, Michel Soly; 1642년 암스테르담 Elzevir 제2판에 일곱째 반론이 추가됨, https://aphelis.net/rene-descartes-emmeditationes-de-prima-philosophiaem-1641/)"
 title: "성찰 (제3·4·6성찰 수업 필기)"
 published: "원자료에 출판 정보가 없다. 연도 1641은 서지 지식으로 보충했으며 확인이 필요하다. 영어 인용 한 줄(I am certain that I am a thinking thing...)은 필기에 옮겨진 것이다. 첫 필기는 1성찰과 2성찰 이후의 과제로 서술되어 3성찰이고, 오류를 다루는 후반부는 4성찰로 보이나 필기에 번호가 적혀 있지 않다. 목차 페이지에는 영진의 짧은 메모가 따로 있다."
 status: 초안

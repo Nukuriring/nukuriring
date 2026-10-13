@@ -1,10 +1,10 @@
 ---
 type: 문헌
 citekey: 
-author: (저자 미상)
-year: 
+author: Carolina Flores, Elise Woodard (후보, 확인 필요)
+year: 2023 (후보, 확인 필요)
 title: "Epistemic norms on evidence gathering"
-published: "원자료는 논문의 저자, 연도, 게재지를 적지 않는다. 필기 속에서 슈리니바산(Srinivasan), 응우옌(Nguyen), 윌리엄슨의 반 발광성 논증이 언급될 뿐이다. 서지 확인 필요."
+published: "원자료는 논문의 저자, 연도, 게재지를 적지 않는다. 필기 속에서 슈리니바산(Srinivasan), 응우옌(Nguyen), 윌리엄슨의 반 발광성 논증이 언급될 뿐이다. 서지 확인 필요. (후보: Carolina Flores and Elise Woodard, \"Epistemic norms on evidence-gathering\", Philosophical Studies, 2023; 제목은 일치하나 필기의 Srinivasan, Nguyen, 반 발광성 논증이 이 논문에 나오는지는 확인하지 못했다; https://philarchive.org/rec/WOOENO)"
 status: 초안
 read_via:
   - "Notion 「Epistemic norms on evidence gathering」 (Untill 2025, 필기, 수정일 미상)"
@@ -50,7 +50,7 @@ created: 2026-10-12
 - [[62a7a 증거주의자의 대안 설명 가운데 가진 증거가 나쁘다는 설명은 증거 수집 규범에 호소하지 않고는 비판을 설명하지 못한다]]
 - [[62a8 배고픈 행크 사례의 과잉 생성 반론에 논문은 비난이 아침 식사에는 미치지 않고 신뢰도 저하에 한정된다고 답한다]]
 - [[62a8a 전달 원리를 받아들이면 아침 식사도 인식적으로 요구되는 듯하지만 배고픔으로 수집에 실패한 일은 변명이어서 그런 규범은 없다]]
-- [[62a8b 영진은 비난의 범위를 신뢰도 저하로 좁히는 응수가 과잉 생성을 피하는지 의심하고 전달 원리 아래의 불편함을 짚는다]]
+- [[62a8b 영진은 비난의 범위를 신뢰도 저하로 좁히는 응수가 과잉 생성을 피하는지 의심하고 필기는 전달 원리 아래의 불편함을 반론으로 적는다]]
 
 ## 원자료
 - Notion 「Epistemic norms on evidence gathering」 (Untill 2025, 9KB)

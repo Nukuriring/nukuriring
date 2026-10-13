@@ -4,7 +4,7 @@ citekey: Hume1748
 author: David Hume
 year: 1748
 title: Of Miracles
-published: 『인간 지성에 관한 탐구』(An Enquiry concerning Human Understanding) 10절(원자료에 서지가 없어 Claude가 보충함)
+published: 『인간 지성에 관한 탐구』(An Enquiry concerning Human Understanding) 10절(원자료에 서지가 없어 Claude가 보충함). 후보, 확인 필요: Section X 「Of Miracles」(https://en.wikipedia.org/wiki/Of_Miracles); 초판 London: A. Millar, 1748, 초판 표제는 Philosophical Essays concerning Human Understanding였고 Enquiry 표제는 1758 재간부터라는 서적상 기재가 있음(https://www.abaa.org/book/740186719, 표제는 복제본으로 재확인 필요)
 status: 초안
 read_via:
   - "[[_원자료/claude.ai/chats/2026-05-12_증언의 환원주의 vs 비환원주의]]"
@@ -66,7 +66,7 @@ created: 2026-10-09
 ## 파생 영구 노트
 - (T1c) [[36 흄에 따르면 증언적 믿음의 정당성은 지각과 추론이 주는 정당성으로 환원된다]]
 - (T1c) [[14b 흄은 증언 신뢰를 보고와 사실의 경험된 결합에 기댄 인과 추론으로 본다]]
-- (T1c) [[36a1 흄의 항상적 결합은 보고 유형과 사실 유형 사이의 결합이다]]
+- (T1c) [[36a1 흄의 항상적 결합은 보고 유형과 상황 유형 사이의 결합이다]]
 - (T1c) [[36b 증언의 정당성은 정당화의 원천이 제공한 근거를 거쳐 얻어진다]]
 - (T1c) [[36b1 환원이라는 말의 무게는 증언적 정당성이 다른 원천의 정당성으로 분해된다는 주장에 실린다]]
 - (T1c) [[36b2 환원주의는 환원의 강도와 층위에 따라 여러 형태로 갈린다]]

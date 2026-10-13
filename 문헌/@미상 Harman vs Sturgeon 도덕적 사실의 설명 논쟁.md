@@ -4,7 +4,7 @@ citekey:
 author: (저자 미상)
 year: 
 title: "Harman v.s Sturgeon"
-published: "원자료는 하먼과 스털전의 글의 서지를 적지 않는다. 토론이나 발제를 준비하며 적은 짧은 필기로 보이며, 문장이 중간에 끊긴 곳이 있다. 서지 확인 필요."
+published: "원자료는 하먼과 스털전의 글의 서지를 적지 않는다. 토론이나 발제를 준비하며 적은 짧은 필기로 보이며, 문장이 중간에 끊긴 곳이 있다. 서지 확인 필요. (Harman: Gilbert Harman, The Nature of Morality: An Introduction to Ethics, New York: Oxford University Press, 1977, xiii+165쪽으로 확인했으나 \"Ethics and Observation\"이 이 책 1장 제목인지와 필기가 읽은 글이 이것인지는 확인하지 못했다. Sturgeon 후보: Nicholas Sturgeon, \"Moral Explanations\", in D. Copp and D. Zimmerman (eds.), Morality, Reason and Truth, Totowa, NJ: Rowman & Allanheld, 1985 (일부 기록은 1984), pp. 49-78; 확인 필요.)"
 status: 초안
 read_via:
   - "Notion 「Harman v.s Sturgeon」 (Untill 2025, 필기, 수정일 미상)"
@@ -43,9 +43,11 @@ created: 2026-10-12
 - [[62b1 영진은 하먼과 스털전의 쟁점을 도덕적 사실이 인과적 힘을 가지는지로 읽고 있다는 말을 인과적 영향력이 있다는 말로 푼다]]
 - [[62b2 스털전은 도덕적 사실이 인과적 힘을 가진다는 점에서 하먼과 전제를 공유하고 반사실적 조건문의 성립이 그 힘을 보인다고 본다]]
 - [[62b3 영진은 도덕적 사실이 행위의 원인으로 언급되지는 않는 듯하고 믿음 쪽에서는 인과 관계인지 애매하다고 본다]]
-- [[62b4 영진은 반사실적 조건문의 해석이 무엇을 고정하느냐에 달려 있다고 보고 히틀러 사례와 고양이 사례를 비교한다]]
+- [[62b4 영진은 반사실적 조건문이 해석되는 두 방식과 두 사례를 적고 히틀러 사례와 고양이 사례가 해석을 어떻게 다르게 만드는지 묻는다]]
 - [[62b5 영진은 반사실적 조건문의 성립이 인과의 증명이 될 수 없다는 점에서 스털전의 응답이 실패한다고 본다]]
 - [[62b6 영진은 도덕적 사실이 인과적 힘을 가져야 한다는 요구와 도덕적 부수현상론을 받아들일 독립적 근거를 묻는다]]
 
 ## 원자료
 - Notion 「Harman v.s Sturgeon」 (Untill 2025, 3KB)
+
+- 서지 확인(2026-10-13, 웹): https://search.worldcat.org/oclc/2725781 (Harman 책), 후보 https://stafforini.com/works/sturgeon-1985-moral-explanations/ , https://ci.nii.ac.jp/ncid/BA00261267?l=en

@@ -4,7 +4,7 @@ citekey: Fricker1995
 author: Elizabeth Fricker
 year: 1995
 title: "Telling and Trusting"
-published: "확인 필요. 코디의 『Testimony』(1992)를 다룬 Mind 1995년 비평 논문으로 보이나, 원자료에는 서지가 없고 해당 첨부 글은 'Fricker(1992)'로 표기되어 있다(서지는 위키 밖 지식)."
+published: "확인 필요. 코디의 『Testimony』(1992)를 다룬 Mind 1995년 비평 논문으로 보이나, 원자료에는 서지가 없고 해당 첨부 글은 'Fricker(1992)'로 표기되어 있다(서지는 위키 밖 지식). 후보(확인 필요): 제목 Telling and Trusting: Reductionism and Anti-Reductionism in the Epistemology of Testimony (critical notice of Coady 1992), Mind 104(414): 393-411, 1995 (https://diversityreadinglist.org/critical-notice-telling-and-trusting-reductionism-and-anti-reductionism-in-the-epistemology-of-testimony/ , 여러 서지 목록이 일치한다고 보고되었으나 학술지 원본 페이지는 열지 못함). 원자료의 'Fricker(1992)'는 Coady 1992와의 혼동으로 보인다."
 status: 초안
 read_via:
   - "[[_원자료/claude.ai/chats/2026-05-14_두 가지 옵션 비교 평가]]"

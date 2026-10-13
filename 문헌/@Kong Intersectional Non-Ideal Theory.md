@@ -1,10 +1,10 @@
 ---
 type: 문헌
 citekey: KongIntersectionalNonIdeal
-author: Kong (필기의 파일명 표기, 이름은 확인 필요)
+author: Youjin Kong
 year: 2023 (확인 필요)
 title: "Intersectional Non-Ideal Theory"
-published: "필기는 Kong_Non ideal theory라는 제목뿐이다. 저자가 Kong이라는 점과 Ergo 2023이라는 출판은 자료 폴더의 라이브러리 파일명으로만 추정한 것이며 원자료에 없어 서지 지식으로 보충함."
+published: "필기는 Kong_Non ideal theory라는 제목뿐이다. 저자가 Kong이라는 점과 Ergo 2023이라는 출판은 자료 폴더의 라이브러리 파일명으로만 추정한 것이며 원자료에 없어 서지 지식으로 보충함. 웹 서지로 채움: Youjin Kong, 「Intersectional Feminist Theory as a Non-Ideal Theory: Asian American Women Navigating Identity and Power」(노트 제목은 줄임형), Ergo: An Open Access Journal of Philosophy 9 (33): 848-877. (연도 후보, 확인 필요: 저널 페이지의 게재일 2023-03-31, 일부 메타데이터는 2022)"
 status: 초안
 read_via:
   - "Kong_Non ideal theory (읽기 필기, LLM 요약으로 보이는 부분 포함)"
@@ -12,7 +12,7 @@ created: 2026-10-12
 ---
 # Intersectional Non-Ideal Theory
 
-> 서지 확인 메모: 필기가 요약한 논문이 라이브러리 파일의 논문과 같은지는 원문과 대조하지 않았다.
+> 서지 확인 메모: 필기가 요약한 논문이 라이브러리 파일의 논문과 같은지는 원문과 대조하지 않았다. (후보, 확인 필요: 초록의 논지가 필기 요지와 일치한다, https://journals.publishing.umich.edu/ergo/article/id/2622)
 
 ## 한 줄 요지
 필기에 따르면 콩은 교차성이 여성을 쪼갠다는 비판이 정체성을 고정된 구슬로 보는 형이상학에 기대고 있다고 논증한다. 정체성과 권력의 관계를 현현, 재생산, 변형적 저항의 세 유형으로 나누고, 교차성 페미니즘을 억압받는 이의 삶을 이론의 중심에 두는 강한 비이상 이론으로 규정한다.
@@ -47,3 +47,5 @@ created: 2026-10-12
 
 ## 원자료
 - Kong_Non ideal theory: 한국어 읽기 필기이며 아시아계 여성의 사례와 팬데믹기 반아시아 인종주의 사례를 포함한다.
+
+- 서지 확인(2026-10-13, 웹): https://journals.publishing.umich.edu/ergo/article/id/2622 , https://dc2.philarchive.org/rec/YOUIFT

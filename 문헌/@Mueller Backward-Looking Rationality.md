@@ -1,10 +1,10 @@
 ---
 type: 문헌
 citekey: Mueller
-author: Anselm W. Müller (추정)
-year: 
-title: Backward-Looking Rationality (가제)
-published: 원자료에 서지가 없다. 발췌 속 자기 인용("my 'Mental Teleology', Proceedings of the Aristotelian Society 92 (1992): 161–183")과 쪽 머리말("backward-looking rationality")을 근거로 Claude가 저자를 Anselm W. Müller로 추정했다. Essays on Anscombe's Intention(Harvard University Press, 2011)에 실린 「Backward-Looking Rationality and the Unity of Practical Reason」일 가능성이 있다(확인 필요).
+author: Anselm Müller
+year: 2011
+title: Backward-looking rationality and the unity of practical reason
+published: 원자료에 서지가 없다. 발췌 속 자기 인용("my 'Mental Teleology', Proceedings of the Aristotelian Society 92 (1992): 161–183")과 쪽 머리말("backward-looking rationality")을 근거로 Claude가 저자를 Anselm W. Müller로 추정했고, 서지 조사로 Anselm Müller의 「Backward-looking rationality and the unity of practical reason」(Anton Ford, Jennifer Hornsby, Frederick Stoutland 편, Essays on Anscombe's Intention, Harvard University Press, 2011, 수록 10편 중 9번째)로 확인했다. 쪽수 범위는 찾지 못했다.
 status: 초안
 read_via:
   - "[[_원자료/claude.ai/chats/2026-07-03_Backward-looking reasons and teleological action]] (영진 09:06이 붙여 넣은 (c)절 발췌)"
@@ -51,3 +51,5 @@ created: 2026-10-09
 
 ## 원자료
 - [[_원자료/claude.ai/chats/2026-07-03_Backward-looking reasons and teleological action]] 영진 09:06(발췌와 반론), 09:17, 09:20(두 발화); Claude 09:11, 09:16, 09:18, 09:21 (2026-07-03). 대화 안에서 Claude는 필자의 이름을 밝히지 않았다.
+
+- 서지 확인(2026-10-13, 웹): https://oeaw.ac.at/resources/Record/5003300955/TOC , https://oeaw.ac.at/resources/Record/9780674060913

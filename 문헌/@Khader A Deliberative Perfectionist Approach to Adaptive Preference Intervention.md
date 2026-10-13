@@ -1,10 +1,10 @@
 ---
 type: 문헌
 citekey: KhaderDeliberativePerfectionism
-author: Serene J. Khader (확인 필요)
-year: 미상
+author: Serene J. Khader
+year: 2011
 title: "A Deliberative Perfectionist Approach to Adaptive Preference Intervention"
-published: "필기 제목은 A Deliberative Perfectionism Apporach to apdative로 잘려 있고 철자 오류가 있다. 저자는 필기 이름 Khader에서 확인하고, 책의 장인지 논문인지는 원자료에 없다."
+published: "필기 제목은 A Deliberative Perfectionism Apporach to apdative로 잘려 있고 철자 오류가 있다. 저자는 필기 이름 Khader에서 확인하고, 책의 장인지 논문인지는 원자료에 없었으나 웹 서지로 채웠다: Adaptive Preferences and Women's Empowerment(Oxford University Press, 2011)의 제1장."
 status: 초안
 read_via:
   - "A Deliberative Perfectionism Apporach to apdative (읽기 필기, LLM 요약으로 보이는 부분과 영진의 질문 포함)"
@@ -59,3 +59,5 @@ created: 2026-10-12
 
 ## 원자료
 - A Deliberative Perfectionism Apporach to apdative: 한국어 읽기 필기이며 같은 제목의 여러 버전 파일이 있다. 케냐 여성 할례 대안 의례 사례는 필기에 적힌 대로 옮겼다.
+
+- 서지 확인(2026-10-13, 웹): https://academic.oup.com/book/34587 , https://ndpr.nd.edu/news/adaptive-preferences-and-women-s-empowerment/

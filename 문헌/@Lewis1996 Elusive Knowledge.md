@@ -4,7 +4,7 @@ citekey: Lewis1996
 author: David Lewis
 year: 1996
 title: "Elusive Knowledge"
-published: "서지 확인 필요. 원자료(영진의 논평문)에는 저자 이름만 있고 제목과 연도가 없다. 인용문과 논증 내용으로 보아 루이스의 「Elusive Knowledge」(Australasian Journal of Philosophy, 1996)로 추정한다."
+published: "원자료(영진의 논평문)에는 저자 이름만 있고 제목과 연도가 없다. 인용문과 논증 내용으로 보아 루이스의 「Elusive Knowledge」로 추정했고, 웹 서지로 확인했다: Australasian Journal of Philosophy 74 (4): 549-567, 1996년 12월, DOI 10.1080/00048409612347521. (후보, 확인 필요: 재수록 DeRose and Warfield (eds.), Skepticism: Contemporary Readings, OUP, 1999, https://pgrim.org/philosophersannual/xix/lewis/index.htm)"
 status: 초안
 read_via:
   - "논평문_1_김영진 (언어철학연습 2024-1, Notion 내보내기, 수정일 2024-03-13)"
@@ -53,3 +53,5 @@ created: 2026-10-12
 
 ## 원자료
 - 논평문_1_김영진 (언어철학연습 2024-1, 수정일 2024-03-13): 루이스 맥락주의 오류불가능주의 논평문. 1~4절 전체.
+
+- 서지 확인(2026-10-13, 웹): https://philpapers.org/rec/LEWEK , https://dc2.philarchive.org/rec/LEWEK , https://philosophersannual.org/xix/lewis/index.htm

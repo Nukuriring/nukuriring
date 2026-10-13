@@ -1,10 +1,10 @@
 ---
 type: 문헌
 citekey: Stocker1979
-author: Stocker
+author: Michael Stocker
 year: 1979
-title: "Desiring the Bad"
-published: "필기에는 저자명, 연도, 게재지가 없다. 참고문헌 라이브러리에 같은 제목의 PDF(Stocker - Desiring the Bad)가 있다."
+title: "Desiring the Bad: An Essay in Moral Psychology"
+published: "필기에는 저자명, 연도, 게재지가 없다. 참고문헌 라이브러리에 같은 제목의 PDF(Stocker - Desiring the Bad)가 있다. 서지 조사로 Michael Stocker, The Journal of Philosophy 76, no. 12 (December 1979): 738-753으로 확인했다."
 status: 초안
 read_via:
   - "Notion 「Desiring the bad」 (Untill 2025/스터디 트래커, 심리철학연습)"
@@ -12,7 +12,7 @@ created: 2026-10-12
 ---
 # Desiring the Bad
 
-> 서지 확인 메모: 필기 「Desiring the bad」는 저자명을 적지 않는다. 저자 Stocker는 참고문헌 라이브러리의 같은 제목 PDF 파일명(Stocker - Desiring the Bad)에서 가져왔고 노트와 같은 글인지는 확인 필요. 연도 1979는 citekey 규약에 따라 보충했으며 확인 필요. 카드에는 저자명 대신 이 제목으로 지시했다.
+> 서지 확인 메모: 필기 「Desiring the bad」는 저자명을 적지 않는다. 저자 Stocker는 참고문헌 라이브러리의 같은 제목 PDF 파일명(Stocker - Desiring the Bad)에서 가져왔고 노트와 같은 글인지는 확인 필요. 연도 1979는 citekey 규약에 따라 보충했고 서지 조사로 확인했다. 카드에는 저자명 대신 이 제목으로 지시했다.
 
 ## 한 줄 요지
 이 글은 모든 욕구가 좋음의 관점에서 일어난다는 GG 명제에 반대하며, 나쁘다고 믿는 것에 이끌려도 의지의 약함이 설명되므로 동기를 유발하는 요소가 꼭 좋음에 대한 판단일 필요는 없다고 논한다.
@@ -39,3 +39,5 @@ created: 2026-10-12
 
 ## 원자료
 - Notion 「Desiring the bad」 (Untill 2025/스터디 트래커, 심리철학연습)
+
+- 서지 확인(2026-10-13, 웹): https://philpapers.org/s/Michael%20Stocker , https://philosophie.ch/profil/stocker-m?locale=fr (제목이 같은 글은 이 논문뿐이며, 필기와 내용이 같은 글인지는 검증하지 못했다)

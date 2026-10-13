@@ -4,7 +4,7 @@ citekey: McDowell1976
 author: John McDowell
 year: 1976
 title: "Truth-Conditions, Bivalence and Verificationism"
-published: "노트 제목은 'Macdowell_ Truth Conditions, Bivalence, and Verificationism'이다. 서지(Gareth Evans·John McDowell 편, Truth and Meaning: Essays in Semantics, Oxford: Clarendon Press, 1976 수록)는 노트에 없고 Claude가 보충했다(서지 확인 필요). 노트에 쪽수는 없다."
+published: "노트 제목은 'Macdowell_ Truth Conditions, Bivalence, and Verificationism'이다. 서지(Gareth Evans·John McDowell 편, Truth and Meaning: Essays in Semantics, Oxford: Clarendon Press, 1976 수록)는 노트에 없고 Claude가 보충했으며 웹 서지로 확인했다. 쪽수는 노트에 없으나 도서관 목록으로 pp. 42-66을 확인했다. (후보, 확인 필요: 재수록 Meaning, Knowledge and Reality, Harvard UP, 1998, pp. 3-28, https://www.schweitzer-online.de/buch/McDowell/Meaning-Knowledge-Reality/9780674557772/A28388652/)"
 status: 초안
 read_via:
   - "[Macdowell_ Truth Conditions, Bivalence, and Verificationism](https://app.notion.com/p/1ab858f4dbb947f7a07b66ecdde5cf15)"
@@ -55,3 +55,5 @@ created: 2026-10-12
 
 ## 원자료
 - [Macdowell_ Truth Conditions, Bivalence, and Verificationism](https://app.notion.com/p/1ab858f4dbb947f7a07b66ecdde5cf15) (Notion, Untill 2025 › 철학, 날짜 미상). 하위 페이지 두 개(Untitled)는 비어 있다.
+
+- 서지 확인(2026-10-13, 웹): https://academic.oup.com/book/54613 , https://lib.ecu.edu/catalog-preview/catalog/755306

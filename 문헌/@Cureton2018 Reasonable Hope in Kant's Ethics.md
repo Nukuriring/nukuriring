@@ -1,7 +1,7 @@
 ---
 type: 문헌
 citekey: Cureton2018
-author: A. Cureton (이름 전체는 확인 필요)
+author: Adam Cureton
 year: 2018
 title: "Reasonable Hope in Kant's Ethics"
 published: "Kantian Review 23(2), 181-203. doi:10.1017/S136941541800002X. 서지는 영진의 기말 논문 참고문헌에서 옮겼다."
@@ -42,3 +42,4 @@ created: 2026-10-12
 
 ## 원자료
 - 기말 논문 (Kant and Hegel on War 수업, 2024-2학기)
+- 서지 확인(2026-10-13, 웹): https://resolve.cambridge.org/core/journals/kantian-review/article/reasonable-hope-in-kants-ethics/9F062A6C70C3ED148697AA51BCCB0E62 , https://philosophy.utk.edu/faculty/adam-cureton

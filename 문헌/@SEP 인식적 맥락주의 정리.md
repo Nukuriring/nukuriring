@@ -1,10 +1,10 @@
 ---
 type: 문헌
 citekey: SEP 인식적 맥락주의 정리
-author: 
-year: 미상
+author: Patrick Rysiew (후보, 확인 필요)
+year: "미상 (후보: 최초 게재 2009, 확인 필요)"
 title: "SEP 인식적 맥락주의 정리"
-published: "원자료에는 SEP 정리라는 제목의 필기만 있고 항목명, 저자, 연도가 없다. 확인 필요."
+published: "원자료에는 SEP 정리라는 제목의 필기만 있고 항목명, 저자, 연도가 없다. 확인 필요. (후보: Patrick Rysiew, \"Epistemic Contextualism\", Stanford Encyclopedia of Philosophy, 최초 게재 2009; 현재 판의 저자 표기와 필기가 읽은 판은 확인하지 못했다. https://plato.stanford.edu/entries/contextualism-epistemology/ , https://api.philpapers.org/rec/RYSEC)"
 status: 초안
 read_via:
   - "Notion 「SEP 정리」 (Untill 2025/철학/2024 - 지식귀속문장과 인식적 맥락주의)"
