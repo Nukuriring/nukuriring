@@ -1,0 +1,55 @@
+{
+ "id": "51j1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "적응적 선호 사례는 두 직관을 일으키며 완전주의적 전제를 요구한다",
+   "label": "지지됨",
+   "evidence": "도덕적 직관들은 완전주의적인 전제들을 요구",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "번영을 방해하는 선호는 나쁘다는 직관",
+   "label": "지지됨",
+   "evidence": "번영을 방해하는 선호는 도덕적으로 나쁘다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "자신의 가치를 스스로 창조할 수 없음이 나쁘다는 직관",
+   "label": "지지됨",
+   "evidence": "스스로 창조할 수 없음은 도덕적으로 나쁘다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "두 직관이 서로를 유발, 진정한 선택인지 의심",
+   "label": "지지됨",
+   "evidence": "하나의 직관이 다른 직관을 유발하기도 한다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "Nussbaum과 Friedman의 반사실적 추론, 자율적 선택으로 보기 어려움",
+   "label": "지지됨",
+   "evidence": "일종의 반사실적 추론을 진행",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "Khader의 단서: 정치 이론 전체 확장이나 본성 목록 제시 의도 없음",
+   "label": "지지됨",
+   "evidence": "Disclaimer: 저자는 완전주의를 정치 이론 자체로",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/사회철학연습/A Deliberative Perfectionism Apporach ….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
