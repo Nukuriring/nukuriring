@@ -1,0 +1,51 @@
+{
+ "id": "23i3",
+ "voice": "종합",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "소유 논제는 일인칭 접근을 떠맡고 답하는 입장으로 규정",
+   "label": "지지됨",
+   "evidence": "hers to defend, revise, and act on",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "표지 셋: 자기기만 등 실패의 모양, 근거 없음, 저자됨의 비대칭",
+   "label": "지지됨",
+   "evidence": "asymmetry is one of authorship",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "레드팀 이후 네 해명 대상을 도출한다는 주장을 거두고 보존만",
+   "label": "지지됨",
+   "evidence": "preserved (not derived)",
+   "note": "BRIDGE 5'.D"
+  },
+  {
+   "n": 3,
+   "text": "가장 가까운 친족은 콜리바 구성주의, 수행성은 받아들임",
+   "label": "지지됨",
+   "evidence": "closest analytic kin",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "콜리바의 수행으로 참인 자기귀속 확보 목표는 버린다고 차별화",
+   "label": "부분 지지",
+   "evidence": "v1~v3: dropping the truth-telos",
+   "note": "v4는 소유가 자기귀속을 참으로 만든다고 하고 '독립된 태도에 대한' 참 확보라는 목표만 버린다. 카드는 v1~v4를 한데 묶어 조건을 뺐다."
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v1.md",
+  "_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v3.md",
+  "_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v4.md",
+  "_원자료/로컬/Integrating Transparency/BRIDGE_workings.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

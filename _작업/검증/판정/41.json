@@ -1,0 +1,51 @@
+{
+ "id": "41",
+ "voice": "종합",
+ "verdict": "판단불가",
+ "claims": [
+  {
+   "n": 0,
+   "text": "투명성은 자기 태도 물음에 세계에 관한 물음으로 답하는 방식",
+   "label": "지지됨",
+   "evidence": "태도의 내용과 관련된 대상들…참조함으로써",
+   "note": "Moran(2012) 필기 '투명성에 호소하기'"
+  },
+  {
+   "n": 1,
+   "text": "이 줄기는 수업 필기·논평문·읽기 노트를 바탕으로 한다",
+   "label": "판단 불가",
+   "evidence": "",
+   "note": "Notion 「transparency」 등 대부분 열지 못함. Moran 필기만 확인."
+  },
+  {
+   "n": 2,
+   "text": "줄기 구성: 41a~41r의 역할 배치와 서로의 관계",
+   "label": "연결",
+   "evidence": "",
+   "note": "하위 카드 색인"
+  },
+  {
+   "n": 3,
+   "text": "워스닙·아르니오가 비정합성을 자기 상태 앎과 연결해 설명",
+   "label": "판단 불가",
+   "evidence": "",
+   "note": "Worsnip/Arpaly 관련 출처는 열지 않음."
+  },
+  {
+   "n": 4,
+   "text": "41o·41p·41q는 같은 필기 묶음의 별도 주제",
+   "label": "연결",
+   "evidence": "",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/Richard Moran/Self-knowledge, “Transparency” and the forms of Ac d0c68d510ff84470a16eb2e35580e43e.md"
+ ],
+ "sources_missing": [
+  "Notion 「transparency」 및 하위 필기",
+  "문헌/@Park2022, @Worsnip2021, @Boghossian, @Boyle (열지 않음)"
+ ],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

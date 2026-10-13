@@ -1,0 +1,48 @@
+{
+ "id": "23h1",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "소유 논제는 태도 구성주의를 짊어지고 흄적 성향주의와 맞선다",
+   "label": "지지됨",
+   "evidence": "constitutivism…against Humean dispositionalism",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "흄주의자: 믿음은 성향 묶음, 소유와 무관, 자기지식은 수용적",
+   "label": "지지됨",
+   "evidence": "obtains whether or not one owns it",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "응답1: 약한 구성주의만 필요, 아크라시아 사례는 소유할 수 있는 것으로 결정",
+   "label": "지지됨",
+   "evidence": "what the subject can and will own",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "응답2: '아니, 너는 그렇지 않아'가 이해 가능한 교정이 아님",
+   "label": "지지됨",
+   "evidence": "\"no, you don't\" intelligible correction",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "응답3: 논쟁이 접근의 인식론에서 태도의 형이상학으로, 이동 자체가 성과",
+   "label": "지지됨",
+   "evidence": "relocated…is itself a result",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v4.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

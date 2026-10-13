@@ -1,0 +1,63 @@
+{
+ "id": "41a",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "모런은 비관찰적 성격이 태도가 합리적 행위자성의 표현이라는 사실에 묶여 있다고 본다",
+   "label": "지지됨",
+   "evidence": "tied to their being expressions",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "2012년 글에서 자기지식과 합리적 행위자성을 함께 이해하는 길을 제안",
+   "label": "지지됨",
+   "evidence": "link self-knowledge to a certain form of agency",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "자기지식을 지금 무엇을 하고 왜 하는지 말하는 일상적 능력으로 본다",
+   "label": "지지됨",
+   "evidence": "ordinary ability to say what I am doing",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "행위자성은 이유에 반응하는 능력",
+   "label": "지지됨",
+   "evidence": "agency as responsiveness to reason",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "믿음·의도·희망은 선택되지도 통제되지도 않지만 행위의 형식",
+   "label": "부분 지지",
+   "evidence": "일반적으로 '통제'되지 조차 않는다",
+   "note": "필기는 '일반적으로' 통제되지 않는다고 한정. 카드는 단정."
+  },
+  {
+   "n": 5,
+   "text": "태도가 능동적 본성을 표현하므로 자기지식에 관찰이 필요 없다",
+   "label": "지지됨",
+   "evidence": "non-observational character",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "샤·벨러먼과 바이른의 믿음 규칙 설명을 반박",
+   "label": "지지됨",
+   "evidence": "BEL의 요구는 다시 합리적 행위자성",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Moran(2012) 정리 35697cdd867e812f860eeb5bcfa9290f.md",
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/Richard Moran/Self-knowledge, “Transparency” and the forms of Ac d0c68d510ff84470a16eb2e35580e43e.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,80 @@
+{
+ "id": "23i2a",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "탐지기 모델은 소유된 입장을 자연화하므로 카벨적 신화",
+   "label": "지지됨",
+   "evidence": "naturalized agency, myth",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "색채가 구성 조건이 되면 관습으로 안 지각되고 일종의 자연으로 작동",
+   "label": "지지됨",
+   "evidence": "as a kind of nature",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "유형 인용 'not the kind…an author creates'",
+   "label": "지지됨",
+   "evidence": "kind that certain real people are",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "신화를 회의주의와 잇는다: 'exactly the price of skepticism'",
+   "label": "지지됨",
+   "evidence": "exactly the price of skepticism",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "바이른 모델은 헌신의 소유를 메커니즘으로 제시, 신화로 판정",
+   "label": "지지됨",
+   "evidence": "skeptical disowning of first-person agency",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "자기 인정은 탈자연화 작업을 마음의 차원에서 하는 일",
+   "label": "지지됨",
+   "evidence": "un-naturalizing of a convention",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "BRIDGE: 영진 님 문제 제기에서 출발, 두 차원 대응은 재구성",
+   "label": "지지됨",
+   "evidence": "from a user prompt…flagged as reconstruction",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "v2는 쪽수를 1979b: 40, KB는 p.195, 확인 필요",
+   "label": "지지됨",
+   "evidence": "enough: 'exactly the price' [p.195]",
+   "note": "v2 본문 p.40, KB p.195 확인."
+  },
+  {
+   "n": 8,
+   "text": "v3 이후 판본은 이 논증을 쓰지 않는다",
+   "label": "지지됨",
+   "evidence": "v3·v4 본문에 myth 논증 없음",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v2.md",
+  "_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v3.md",
+  "_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v4.md",
+  "_원자료/로컬/Integrating Transparency/BRIDGE_workings.md",
+  "_원자료/로컬/Integrating Transparency/KB_Cavell_The-World-Viewed.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

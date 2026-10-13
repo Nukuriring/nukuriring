@@ -1,0 +1,64 @@
+{
+ "id": "23i1",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "월튼의 사진 투명성은 앎과 분리된 접촉 관계의 존재 증명",
+   "label": "지지됨",
+   "evidence": "contact and not knowledge",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "사진을 통해 대상을 문자 그대로 봄, 믿음과 독립적 기계적 인과",
+   "label": "지지됨",
+   "evidence": "purely mechanical…belief-independent",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "정확성·세부·정보·신빙성과도 독립",
+   "label": "지지됨",
+   "evidence": "independent of accuracy, of detail",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "유연한 거울 인용(p.259)",
+   "label": "지지됨",
+   "evidence": "not a knowledge-producing mechanism",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "'Perceptual contact…supposed' 8절, 에세이는 p.269",
+   "label": "지지됨",
+   "evidence": "rather less to do with acquiring",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "존재 증명: 앎이 아니면서 가치 있는 관계가 있다",
+   "label": "지지됨",
+   "evidence": "we cherish the photographs of our dead",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "대조: 자기 믿음은 지각하지 않으므로 월튼식 접촉도 앎-접근도 아닌 셋째 것",
+   "label": "지지됨",
+   "evidence": "it is a third thing",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v1.md",
+  "_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v2.md",
+  "_원자료/로컬/Integrating Transparency/KB_Walton_Transparent-Pictures.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

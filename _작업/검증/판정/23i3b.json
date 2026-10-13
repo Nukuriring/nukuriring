@@ -1,0 +1,57 @@
+{
+ "id": "23i3b",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "분리된 자기 관찰은 소유가 무너진 경우의 보완책",
+   "label": "지지됨",
+   "evidence": "remedial supplement…owning fails",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "리드·보르고니·도일: 분리된 관찰도 소유와 양립하고 밝혀 준다",
+   "label": "지지됨",
+   "evidence": "can be enlightening",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "사례는 자기 것으로 삼을 수 없는 태도, 첫째 표지의 붕괴 양상",
+   "label": "지지됨",
+   "evidence": "cannot presently own",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "쓸모가 있어도 정상 상태의 소유가 기본·구성적이라는 점을 반박 못함",
+   "label": "지지됨",
+   "evidence": "constitutive mode…in good order",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "v1의 두 문장 요약",
+   "label": "지지됨",
+   "evidence": "convalescence, not the health",
+   "note": "spectacles 문장도 일치"
+  },
+  {
+   "n": 5,
+   "text": "v5는 레비 반론에 반관찰 논제를 내주고 약속적 행위자 이론으로",
+   "label": "지지됨",
+   "evidence": "We concede Moran's anti-observation",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v1.md",
+  "_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v3.md",
+  "_원자료/로컬/Integrating Transparency/ESSAY_v5_What-the-Objections-Assume.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

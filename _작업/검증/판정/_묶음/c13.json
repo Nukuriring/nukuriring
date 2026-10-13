@@ -1,0 +1,282 @@
+{
+  "model": "sonnet",
+  "date": "2026-10-13",
+  "cards": [
+    {
+      "id": "23g1", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "캠벨의 병렬주의 딜레마는 헛바퀴 검사의 국소적 원형", "label": "지지됨", "evidence": "local original of the idle-wheel test", "note": ""},
+        {"n": 1, "text": "v5는 캠벨을 가장 중요한 가까운 동료로 놓는다", "label": "지지됨", "evidence": "Campbell (2022) is the most important", "note": ""},
+        {"n": 2, "text": "딜레마: 증거 없는 자기지식이 비인식적 설명을 군더더기로", "label": "지지됨", "evidence": "makes the non-epistemic account…redundant", "note": ""},
+        {"n": 3, "text": "바온-캠벨 논쟁은 상당 부분 용어 문제", "label": "지지됨", "evidence": "largely terminological", "note": ""},
+        {"n": 4, "text": "반론 목록: 둘째 뿔이 적극적 견해와 같고 이름표뿐, 위장한 동맹", "label": "지지됨", "evidence": "Horn B is our positive view", "note": "OBJECTIONS Group 3 Allies in disguise"},
+        {"n": 5, "text": "새로움 세 가지(교차 통합, 검사, 한정된 결론)", "label": "지지됨", "evidence": "It is three things: cross-view…", "note": ""},
+        {"n": 6, "text": "뢰들은 맨 논제의 가장 가까운 선례, 칸트적 경로", "label": "지지됨", "evidence": "nearest precedent…Kantian", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/Integrating Transparency/ESSAY_v5_What-the-Objections-Assume.md", "_원자료/로컬/Integrating Transparency/OBJECTIONS_catalogue.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "23g2", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "캠벨의 미해결 문제는 응답 가능성이 들어갈 자리", "label": "지지됨", "evidence": "answerability could be put to work", "note": ""},
+        {"n": 1, "text": "합리적 응답을 비인식적으로 분석해야 하나 분석을 내놓지 않는다", "label": "지지됨", "evidence": "must be analyzed non-epistemically", "note": ""},
+        {"n": 2, "text": "인용 'the most serious… threatens to undermine my entire approach'", "label": "지지됨", "evidence": "the most serious… entire approach", "note": "OBJECTIONS E8"},
+        {"n": 3, "text": "분석이 인식적이면 순환, 아니면 핵심 용어가 원초적", "label": "지지됨", "evidence": "circular…or leaves key term primitive", "note": ""},
+        {"n": 4, "text": "이전 판본: 캠벨은 텔로스를 지키려 통합, 소유 논제가 빈자리를 채움", "label": "지지됨", "evidence": "Where Campbell unifies to save", "note": "v1/v2 §6"},
+        {"n": 5, "text": "레드팀 캠벨 역할: 근거 없음→비인식성 추론은 오류", "label": "지지됨", "evidence": "groundless does not entail non-epistemic", "note": ""},
+        {"n": 6, "text": "이 반박은 Claude가 구성한 가상 반론", "label": "지지됨", "evidence": "Two adversarial roles trained on", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/Integrating Transparency/OBJECTIONS_catalogue.md", "_원자료/로컬/Integrating Transparency/ESSAY_v5_What-the-Objections-Assume.md", "_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v1.md", "_원자료/로컬/Integrating Transparency/REVIEW_v3_redteam-and-referee.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "23h", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "자기지식의 수용성은 태도가 발견되는 사실인지 유지되는 헌신인지에 달려 있다", "label": "지지됨", "evidence": "facts we find or commitments we sustain", "note": ""},
+        {"n": 1, "text": "v5는 결론에서 이 물음을 열어 둔다", "label": "지지됨", "evidence": "is left…open", "note": ""},
+        {"n": 2, "text": "v4: 공언 가능한 태도는 주체가 떠받치는 헌신", "label": "지지됨", "evidence": "commitments a subject sustains", "note": ""},
+        {"n": 3, "text": "소유와 무관한 태도 사실이 없으므로 수용적 보증 요구는 부적절", "label": "지지됨", "evidence": "there is nothing there to receive", "note": ""},
+        {"n": 4, "text": "존재론적 차이로 감각(대면)과 태도(소유)의 범위 경계 도출", "label": "지지됨", "evidence": "The scope line, derived", "note": ""},
+        {"n": 5, "text": "v5는 구성주의를 안 짊어지는 중간 야심으로 물러서고 게티어 면역은 다음 논문으로", "label": "지지됨", "evidence": "declines to lean on it", "note": ""},
+        {"n": 6, "text": "에세이는 좁아진 결론이 더 안전하다고 판단한다", "label": "부분 지지", "evidence": "narrower and, I hope, more secure", "note": "원문은 'I hope'로 한정함. 카드는 단정."}
+      ],
+      "sources_used": ["_원자료/로컬/Integrating Transparency/ESSAY_v5_What-the-Objections-Assume.md", "_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v4.md", "_원자료/로컬/Integrating Transparency/DEFENSE_new-moves.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "23h1", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "소유 논제는 태도 구성주의를 짊어지고 흄적 성향주의와 맞선다", "label": "지지됨", "evidence": "constitutivism…against Humean dispositionalism", "note": ""},
+        {"n": 1, "text": "흄주의자: 믿음은 성향 묶음, 소유와 무관, 자기지식은 수용적", "label": "지지됨", "evidence": "obtains whether or not one owns it", "note": ""},
+        {"n": 2, "text": "응답1: 약한 구성주의만 필요, 아크라시아 사례는 소유할 수 있는 것으로 결정", "label": "지지됨", "evidence": "what the subject can and will own", "note": ""},
+        {"n": 3, "text": "응답2: '아니, 너는 그렇지 않아'가 이해 가능한 교정이 아님", "label": "지지됨", "evidence": "\"no, you don't\" intelligible correction", "note": ""},
+        {"n": 4, "text": "응답3: 논쟁이 접근의 인식론에서 태도의 형이상학으로, 이동 자체가 성과", "label": "지지됨", "evidence": "relocated…is itself a result", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v4.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "23i", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "초기 판본은 knowledge-telos를 연구 전체가 공유하는 전제로 진단", "label": "지지됨", "evidence": "The telos is shared, in three ways", "note": ""},
+        {"n": 1, "text": "v1~v4는 v5보다 큰 논제를 세웠다", "label": "지지됨", "evidence": "middle-ambition defense (v5)", "note": ""},
+        {"n": 2, "text": "v2·v3는 텔로스를 두 주장의 연언으로 정의", "label": "지지됨", "evidence": "the conjunction: (a)…(b)", "note": ""},
+        {"n": 3, "text": "공유 방식 셋: 모든 이론의 변호, 단순 표현주의는 귀류, 게르틀러 기술", "label": "지지됨", "evidence": "epistemic basis…not about the method", "note": ""},
+        {"n": 4, "text": "게르틀러 기술을 텔로스를 안에서 진술한 것으로 읽는다", "label": "지지됨", "evidence": "the telos stated from within", "note": ""},
+        {"n": 5, "text": "v4는 소유와 무관한 선행 사실이라는 존재론적 가정을 밝힌다", "label": "지지됨", "evidence": "antecedent, owning-independent fact", "note": ""},
+        {"n": 6, "text": "v5의 수용적 앎 개념은 v4의 다듬은 정의에서 나온다", "label": "지지됨", "evidence": "receptive conception…owning-independent", "note": "v5 §3의 정의가 v4 정의와 같은 문구. 계보를 명시한 문장은 없음."}
+      ],
+      "sources_used": ["_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v1.md", "_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v2.md", "_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v3.md", "_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v4.md", "_원자료/로컬/Integrating Transparency/ESSAY_v5_What-the-Objections-Assume.md", "문헌/@Gertler2018 Self-Knowledge and Rational Agency.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "23i1", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "월튼의 사진 투명성은 앎과 분리된 접촉 관계의 존재 증명", "label": "지지됨", "evidence": "contact and not knowledge", "note": ""},
+        {"n": 1, "text": "사진을 통해 대상을 문자 그대로 봄, 믿음과 독립적 기계적 인과", "label": "지지됨", "evidence": "purely mechanical…belief-independent", "note": ""},
+        {"n": 2, "text": "정확성·세부·정보·신빙성과도 독립", "label": "지지됨", "evidence": "independent of accuracy, of detail", "note": ""},
+        {"n": 3, "text": "유연한 거울 인용(p.259)", "label": "지지됨", "evidence": "not a knowledge-producing mechanism", "note": ""},
+        {"n": 4, "text": "'Perceptual contact…supposed' 8절, 에세이는 p.269", "label": "지지됨", "evidence": "rather less to do with acquiring", "note": ""},
+        {"n": 5, "text": "존재 증명: 앎이 아니면서 가치 있는 관계가 있다", "label": "지지됨", "evidence": "we cherish the photographs of our dead", "note": ""},
+        {"n": 6, "text": "대조: 자기 믿음은 지각하지 않으므로 월튼식 접촉도 앎-접근도 아닌 셋째 것", "label": "지지됨", "evidence": "it is a third thing", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v1.md", "_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v2.md", "_원자료/로컬/Integrating Transparency/KB_Walton_Transparent-Pictures.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "23i1a", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "두 투명성 개념을 같은 잣대로 재면 허수아비를 공격", "label": "지지됨", "evidence": "attacks…reading that no one holds", "note": ""},
+        {"n": 1, "text": "에반스 방법은 p 여부를 살펴 답하는 절차, 월튼은 지각적 접촉", "label": "지지됨", "evidence": "an attentional procedure", "note": ""},
+        {"n": 2, "text": "초기 논증은 방법이 표지를 못 채워 은유가 근거 없다고 결론", "label": "지지됨", "evidence": "borrowed prestige, not earned contact", "note": "BRIDGE 3.D"},
+        {"n": 3, "text": "핵심 표지는 방향성의 뒤틀림(주의는 세계, 앎은 믿음 상태)", "label": "지지됨", "evidence": "directionality torsion", "note": ""},
+        {"n": 4, "text": "레드팀은 어느 당사자도 지각적 투명성을 주장하지 않는다고 판정", "label": "지지됨", "evidence": "reading that no one holds", "note": "BRIDGE 6.A T1"},
+        {"n": 5, "text": "바이른 추론적·모런 규범적 독해도 지각적 접촉에 안 기댄다", "label": "지지됨", "evidence": "never rode on perceptual contact", "note": ""},
+        {"n": 6, "text": "v1은 월튼 역할을 줄이고 이전 논증을 각주에서 비논증으로 기록", "label": "지지됨", "evidence": "That argument is a non sequitur", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v1.md", "_원자료/로컬/Integrating Transparency/BRIDGE_workings.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "23i2", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "카벨의 진단을 자기에게 돌리면 요구는 회의적 충동", "label": "지지됨", "evidence": "same reflex turned inward", "note": ""},
+        {"n": 1, "text": "카벨은 회의론자의 물음에 답을 거부하고 인정으로 본다", "label": "지지됨", "evidence": "refuse the skeptic's question", "note": ""},
+        {"n": 2, "text": "p.157 인용 true/truthful statement", "label": "지지됨", "evidence": "a truthful statement is one we must", "note": "글자 일치"},
+        {"n": 3, "text": "v1은 이 진단을 자기 마음과의 관계로 옮기고 대안은 자기 인정", "label": "지지됨", "evidence": "self-acknowledgment", "note": ""},
+        {"n": 4, "text": "인정은 주로 타인·외부 세계 회의론에 쓰여 전환은 자기 걸음", "label": "지지됨", "evidence": "the extension…is my step, not his", "note": ""},
+        {"n": 5, "text": "p.160 대목은 공명으로만, 사랑의 고백 맥락 인정", "label": "지지됨", "evidence": "resonance…it concerns a confession", "note": ""},
+        {"n": 6, "text": "레드팀 지적 p.110/home of knowledge는 회화 맥락, 공명으로 낮춤", "label": "지지됨", "evidence": "keep p.110 as resonance, not proof", "note": "BRIDGE 6.A T3. v1 각주는 '넓은 의미의 전용'이라고만 표시."}
+      ],
+      "sources_used": ["_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v1.md", "_원자료/로컬/Integrating Transparency/BRIDGE_workings.md", "_원자료/로컬/Integrating Transparency/KB_Cavell_The-World-Viewed.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "23i2a", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "탐지기 모델은 소유된 입장을 자연화하므로 카벨적 신화", "label": "지지됨", "evidence": "naturalized agency, myth", "note": ""},
+        {"n": 1, "text": "색채가 구성 조건이 되면 관습으로 안 지각되고 일종의 자연으로 작동", "label": "지지됨", "evidence": "as a kind of nature", "note": ""},
+        {"n": 2, "text": "유형 인용 'not the kind…an author creates'", "label": "지지됨", "evidence": "kind that certain real people are", "note": ""},
+        {"n": 3, "text": "신화를 회의주의와 잇는다: 'exactly the price of skepticism'", "label": "지지됨", "evidence": "exactly the price of skepticism", "note": ""},
+        {"n": 4, "text": "바이른 모델은 헌신의 소유를 메커니즘으로 제시, 신화로 판정", "label": "지지됨", "evidence": "skeptical disowning of first-person agency", "note": ""},
+        {"n": 5, "text": "자기 인정은 탈자연화 작업을 마음의 차원에서 하는 일", "label": "지지됨", "evidence": "un-naturalizing of a convention", "note": ""},
+        {"n": 6, "text": "BRIDGE: 영진 님 문제 제기에서 출발, 두 차원 대응은 재구성", "label": "지지됨", "evidence": "from a user prompt…flagged as reconstruction", "note": ""},
+        {"n": 7, "text": "v2는 쪽수를 1979b: 40, KB는 p.195, 확인 필요", "label": "지지됨", "evidence": "enough: 'exactly the price' [p.195]", "note": "v2 본문 p.40, KB p.195 확인."},
+        {"n": 8, "text": "v3 이후 판본은 이 논증을 쓰지 않는다", "label": "지지됨", "evidence": "v3·v4 본문에 myth 논증 없음", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v2.md", "_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v3.md", "_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v4.md", "_원자료/로컬/Integrating Transparency/BRIDGE_workings.md", "_원자료/로컬/Integrating Transparency/KB_Cavell_The-World-Viewed.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "23i3", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "소유 논제는 일인칭 접근을 떠맡고 답하는 입장으로 규정", "label": "지지됨", "evidence": "hers to defend, revise, and act on", "note": ""},
+        {"n": 1, "text": "표지 셋: 자기기만 등 실패의 모양, 근거 없음, 저자됨의 비대칭", "label": "지지됨", "evidence": "asymmetry is one of authorship", "note": ""},
+        {"n": 2, "text": "레드팀 이후 네 해명 대상을 도출한다는 주장을 거두고 보존만", "label": "지지됨", "evidence": "preserved (not derived)", "note": "BRIDGE 5'.D"},
+        {"n": 3, "text": "가장 가까운 친족은 콜리바 구성주의, 수행성은 받아들임", "label": "지지됨", "evidence": "closest analytic kin", "note": ""},
+        {"n": 4, "text": "콜리바의 수행으로 참인 자기귀속 확보 목표는 버린다고 차별화", "label": "부분 지지", "evidence": "v1~v3: dropping the truth-telos", "note": "v4는 소유가 자기귀속을 참으로 만든다고 하고 '독립된 태도에 대한' 참 확보라는 목표만 버린다. 카드는 v1~v4를 한데 묶어 조건을 뺐다."}
+      ],
+      "sources_used": ["_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v1.md", "_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v3.md", "_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v4.md", "_원자료/로컬/Integrating Transparency/BRIDGE_workings.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "23i3a", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "자기기만 실패 양상 논증은 내성 오류 기록 앞에서 약해진다", "label": "지지됨", "evidence": "error-profile is mixed", "note": ""},
+        {"n": 1, "text": "v1~v4는 첫째 표지로 일인칭 실패의 모양을 든다", "label": "지지됨", "evidence": "The failure-signature is self-deception", "note": ""},
+        {"n": 2, "text": "월튼은 혼동 양상이 실제 유사성을 따름을 기준으로, 85피트 나무 예", "label": "지지됨", "evidence": "eighty-five-foot tree…(1984: 270–271)", "note": ""},
+        {"n": 3, "text": "정직의 실패인 관계는 탐지 관계가 될 수 없다", "label": "지지됨", "evidence": "failures of honesty is not…detection", "note": ""},
+        {"n": 4, "text": "레드팀: 니스벳·윌슨, 슈비츠게벨, 평범한 인지적 오류로 섞여 있음", "label": "지지됨", "evidence": "ordinary cognitive error…mixed", "note": ""},
+        {"n": 5, "text": "심사 보고서: 반대 자료 없이 내세운 누락", "label": "지지됨", "evidence": "read as advocacy rather than inquiry", "note": ""},
+        {"n": 6, "text": "v5는 이 표지를 B류에서 빼고 내성 불신빙성을 A류로", "label": "지지됨", "evidence": "target…Class-A matters", "note": "v5 B항목은 권위·무어뿐. 오류 양상 제외는 암묵적."}
+      ],
+      "sources_used": ["_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v1.md", "_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v2.md", "_원자료/로컬/Integrating Transparency/REVIEW_v3_redteam-and-referee.md", "_원자료/로컬/Integrating Transparency/ESSAY_v5_What-the-Objections-Assume.md", "_원자료/로컬/Integrating Transparency/KB_Walton_Transparent-Pictures.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "23i3b", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "분리된 자기 관찰은 소유가 무너진 경우의 보완책", "label": "지지됨", "evidence": "remedial supplement…owning fails", "note": ""},
+        {"n": 1, "text": "리드·보르고니·도일: 분리된 관찰도 소유와 양립하고 밝혀 준다", "label": "지지됨", "evidence": "can be enlightening", "note": ""},
+        {"n": 2, "text": "사례는 자기 것으로 삼을 수 없는 태도, 첫째 표지의 붕괴 양상", "label": "지지됨", "evidence": "cannot presently own", "note": ""},
+        {"n": 3, "text": "쓸모가 있어도 정상 상태의 소유가 기본·구성적이라는 점을 반박 못함", "label": "지지됨", "evidence": "constitutive mode…in good order", "note": ""},
+        {"n": 4, "text": "v1의 두 문장 요약", "label": "지지됨", "evidence": "convalescence, not the health", "note": "spectacles 문장도 일치"},
+        {"n": 5, "text": "v5는 레비 반론에 반관찰 논제를 내주고 약속적 행위자 이론으로", "label": "지지됨", "evidence": "We concede Moran's anti-observation", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v1.md", "_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v3.md", "_원자료/로컬/Integrating Transparency/ESSAY_v5_What-the-Objections-Assume.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "23i4", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "텔로스를 버리면 보증 논쟁은 두 현상의 기술로 풀린다", "label": "지지됨", "evidence": "two accurate descriptions", "note": ""},
+        {"n": 1, "text": "바이른·모런은 방법이 자기지식을 준다는 데 동의, 보증을 두고 다툼", "label": "지지됨", "evidence": "epistemic basis…not about…method", "note": ""},
+        {"n": 2, "text": "논쟁은 텔로스를 전제하고 그와 함께 효력을 잃는다", "label": "지지됨", "evidence": "lapses with it", "note": ""},
+        {"n": 3, "text": "바이른: 안전한 상관·자기 추적, 행위자는 괄호, 보일의 반론", "label": "지지됨", "evidence": "won't seem reasonable to the thinker", "note": ""},
+        {"n": 4, "text": "모런: 소유하는 주체를 기술하나 앎 인증을 남겨 둠", "label": "지지됨", "evidence": "error…is in the certification", "note": ""},
+        {"n": 5, "text": "말뿐인 부분과 실질적 부분, 실질 부분은 판정 없이 해소", "label": "지지됨", "evidence": "partly verbal and partly substantive", "note": ""},
+        {"n": 6, "text": "레드팀 이후 바이른 표현 누그러뜨림, 모런 비판은 잔여 인증으로 좁힘", "label": "지지됨", "evidence": "soften subject-absence → agent-bracketed", "note": "BRIDGE 5'.E, T2"}
+      ],
+      "sources_used": ["_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v1.md", "_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v2.md", "_원자료/로컬/Integrating Transparency/BRIDGE_workings.md", "문헌/@Gertler2018 Self-Knowledge and Rational Agency.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "23i5", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "텔로스는 한 관계가 보증과 일인칭 특별함을 맡으라고 요구", "label": "지지됨", "evidence": "one relation be both", "note": ""},
+        {"n": 1, "text": "v3는 월튼·카벨 우회 없이 문헌 안에서 진단", "label": "지지됨", "evidence": "from inside the self-knowledge literature", "note": ""},
+        {"n": 2, "text": "수용적·비수용적 정의, 뢰들의 구별을 자기귀속에 적용", "label": "지지됨", "evidence": "receptivity and spontaneity (Rödl 2007)", "note": ""},
+        {"n": 3, "text": "보증은 수용적, 비대칭·직접성·권위는 비수용적 표지", "label": "지지됨", "evidence": "Warrant is a receptive notion", "note": ""},
+        {"n": 4, "text": "수용적 이론은 자기를 잃고, 비수용적은 보증을 잃고, 중간은 짓눌린다", "label": "지지됨", "evidence": "crushed from both sides", "note": ""},
+        {"n": 5, "text": "실패 양상을 텔로스의 서명으로 읽는다", "label": "지지됨", "evidence": "the signature of the telos", "note": ""},
+        {"n": 6, "text": "버려야 할 이유 셋", "label": "지지됨", "evidence": "Three considerations", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v3.md", "_원자료/로컬/Integrating Transparency/REVIEW_v3_redteam-and-referee.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "23i5a", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "비수용적 보증이 있으면 v3 진단 무너지고 없으면 소유 논제 비정합", "label": "지지됨", "evidence": "either…§4 fails…or incoherent", "note": ""},
+        {"n": 1, "text": "레드팀 패널은 보증이 수용적이라는 전제에 공격을 모은다", "label": "지지됨", "evidence": "converges on a single kill-shot", "note": ""},
+        {"n": 2, "text": "구성·기초적 비증거적 앎·숙고적 자격은 비수용적 보증", "label": "지지됨", "evidence": "non-receptive warrants", "note": ""},
+        {"n": 3, "text": "하나라도 성립하면 §4와 진단이 무너진다", "label": "지지됨", "evidence": "If even one of these stands", "note": ""},
+        {"n": 4, "text": "소유가 자기귀속을 참으로 만든다는 말이 §4가 배제한 관계", "label": "지지됨", "evidence": "impales itself on its own §7", "note": ""},
+        {"n": 5, "text": "패널은 생사 전선으로 평가, 심사는 첫째 수정 요구로", "label": "지지됨", "evidence": "life-or-death front", "note": ""},
+        {"n": 6, "text": "패널 반론은 Claude가 구성한 것", "label": "지지됨", "evidence": "Two adversarial roles trained on", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/Integrating Transparency/REVIEW_v3_redteam-and-referee.md", "_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v4.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "23i5b", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "텔로스가 요구하는 상만 수용적이므로 소유는 비수용적으로 진리를 부여", "label": "지지됨", "evidence": "It institutes the truth rather", "note": ""},
+        {"n": 1, "text": "v4는 모든 보증이 수용적이라는 주장을 거두고 세 보증을 인정", "label": "지지됨", "evidence": "not that all warrant is receptive", "note": ""},
+        {"n": 2, "text": "텔로스의 상(소유 무관 사실 접근 확보)만 정의상 수용적", "label": "지지됨", "evidence": "receptive by its own definition", "note": ""},
+        {"n": 3, "text": "비수용적 보증은 독립성 포기, 사실에 답하지 않아 반례 못 됨", "label": "지지됨", "evidence": "gives up the independence of the fact", "note": ""},
+        {"n": 4, "text": "소유는 선행 사실에 답하지 않음으로써 진리를 세운다", "label": "지지됨", "evidence": "by not being answerable to a prior", "note": ""},
+        {"n": 5, "text": "이음매는 §5의 존재론적 주장", "label": "지지됨", "evidence": "the seam…is the ontological claim", "note": ""},
+        {"n": 6, "text": "수리는 심사 보고서 둘째 수정 요구의 노선", "label": "지지됨", "evidence": "truth-conferring but not warrant-conf", "note": "Required revisions 2"}
+      ],
+      "sources_used": ["_원자료/로컬/Integrating Transparency/ESSAY_Owning-Up_v4.md", "_원자료/로컬/Integrating Transparency/REVIEW_v3_redteam-and-referee.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "41", "voice": "종합", "verdict": "판단불가",
+      "claims": [
+        {"n": 0, "text": "투명성은 자기 태도 물음에 세계에 관한 물음으로 답하는 방식", "label": "지지됨", "evidence": "태도의 내용과 관련된 대상들…참조함으로써", "note": "Moran(2012) 필기 '투명성에 호소하기'"},
+        {"n": 1, "text": "이 줄기는 수업 필기·논평문·읽기 노트를 바탕으로 한다", "label": "판단 불가", "evidence": "", "note": "Notion 「transparency」 등 대부분 열지 못함. Moran 필기만 확인."},
+        {"n": 2, "text": "줄기 구성: 41a~41r의 역할 배치와 서로의 관계", "label": "연결", "evidence": "", "note": "하위 카드 색인"},
+        {"n": 3, "text": "워스닙·아르니오가 비정합성을 자기 상태 앎과 연결해 설명", "label": "판단 불가", "evidence": "", "note": "Worsnip/Arpaly 관련 출처는 열지 않음."},
+        {"n": 4, "text": "41o·41p·41q는 같은 필기 묶음의 별도 주제", "label": "연결", "evidence": "", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/Richard Moran/Self-knowledge, “Transparency” and the forms of Ac d0c68d510ff84470a16eb2e35580e43e.md"],
+      "sources_missing": ["Notion 「transparency」 및 하위 필기", "문헌/@Park2022, @Worsnip2021, @Boghossian, @Boyle (열지 않음)"]
+    },
+    {
+      "id": "41a", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "모런은 비관찰적 성격이 태도가 합리적 행위자성의 표현이라는 사실에 묶여 있다고 본다", "label": "지지됨", "evidence": "tied to their being expressions", "note": ""},
+        {"n": 1, "text": "2012년 글에서 자기지식과 합리적 행위자성을 함께 이해하는 길을 제안", "label": "지지됨", "evidence": "link self-knowledge to a certain form of agency", "note": ""},
+        {"n": 2, "text": "자기지식을 지금 무엇을 하고 왜 하는지 말하는 일상적 능력으로 본다", "label": "지지됨", "evidence": "ordinary ability to say what I am doing", "note": ""},
+        {"n": 3, "text": "행위자성은 이유에 반응하는 능력", "label": "지지됨", "evidence": "agency as responsiveness to reason", "note": ""},
+        {"n": 4, "text": "믿음·의도·희망은 선택되지도 통제되지도 않지만 행위의 형식", "label": "부분 지지", "evidence": "일반적으로 '통제'되지 조차 않는다", "note": "필기는 '일반적으로' 통제되지 않는다고 한정. 카드는 단정."},
+        {"n": 5, "text": "태도가 능동적 본성을 표현하므로 자기지식에 관찰이 필요 없다", "label": "지지됨", "evidence": "non-observational character", "note": ""},
+        {"n": 6, "text": "샤·벨러먼과 바이른의 믿음 규칙 설명을 반박", "label": "지지됨", "evidence": "BEL의 요구는 다시 합리적 행위자성", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Moran(2012) 정리 35697cdd867e812f860eeb5bcfa9290f.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/Richard Moran/Self-knowledge, “Transparency” and the forms of Ac d0c68d510ff84470a16eb2e35580e43e.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "41a3a", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "믿음의 불수의성은 이유에 반응한다는 사실의 이면", "label": "지지됨", "evidence": "행위성의 이면일 뿐이다", "note": ""},
+        {"n": 1, "text": "토마토를 보면 그것이 있다고 믿지 않을 수 없다", "label": "지지됨", "evidence": "눈 앞에 토마토가 있다는 것을 믿지 않을 수 없다", "note": ""},
+        {"n": 2, "text": "모런은 불수의성을 수동성으로 읽지 않는다", "label": "지지됨", "evidence": "rational agency…unlike my passivity", "note": ""},
+        {"n": 3, "text": "믿음 변화엔 진리 관련 이유, 변호할 준비, 이유가 압도적", "label": "지지됨", "evidence": "reasons are overwhelming in a particular", "note": ""},
+        {"n": 4, "text": "선택지 부재는 이유 무게에 압도된 결과, 머리카락과 종류가 다르다", "label": "지지됨", "evidence": "how fast my hair grow", "note": ""},
+        {"n": 5, "text": "제약은 인식적 이유에 반응하고 단언 근거로 삼는 행위자성의 반영", "label": "지지됨", "evidence": "dominance of another kind of agency", "note": ""},
+        {"n": 6, "text": "믿음은 세계와 맺는 합리적 관계의 표현이라 선택될 수 없다", "label": "지지됨", "evidence": "그 관계는 단순히 '선택' 될 수 없기 때문", "note": ""},
+        {"n": 7, "text": "믿음을 사물처럼 조작할 수 없어도 수동적이라는 결론은 아니다", "label": "지지됨", "evidence": "수동적이라는 것을 의미하지 않는다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Moran(2012) 정리 35697cdd867e812f860eeb5bcfa9290f.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/Richard Moran/Self-knowledge, “Transparency” and the forms of Ac d0c68d510ff84470a16eb2e35580e43e.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "41a4b", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "타인의 믿음은 p 물음과 떼어 물을 수 있지만 자기 믿음은 못 한다", "label": "지지됨", "evidence": "P에 대한 질문 없이 떠올릴 수 없다", "note": ""},
+        {"n": 1, "text": "샤·벨러먼 사례가 잘 맞는 상황은 타인의 믿음을 알아내려는 경우, 포커 블러핑", "label": "부분 지지", "evidence": "타인의 믿음에 대해 알려고 할 때…절차 같다", "note": "필기는 '같다'로 한정함. 카드는 단정."},
+        {"n": 2, "text": "상대가 p를 믿는지 묻되 상대는 p 물음을 숙고하지 않게 할 수 있다", "label": "지지됨", "evidence": "그 사람이 P 자체…고려하지 않게 하면서", "note": ""},
+        {"n": 3, "text": "내 성찰은 내 것이라 추측하는 상대의 믿음 상태를 이루지 않는다", "label": "지지됨", "evidence": "구성하고 있지 않기 때문이다", "note": ""},
+        {"n": 4, "text": "자신에 대해서는 이 분리가 되지 않는다", "label": "지지됨", "evidence": "나에 대해서는 이 것이 가능하지 않다", "note": ""},
+        {"n": 5, "text": "자신에게 제삼자 관점 가능, 비행기 안전·공포 예", "label": "지지됨", "evidence": "자기 자신에 대해 제 삼자적 관점을 취할 수 있다", "note": ""},
+        {"n": 6, "text": "모런은 이 가능성이 p를 고려 않고 믿는지만 묻는 것과 종류가 다르다고 본다", "label": "지지됨", "evidence": "그러나 이런 가능성 역시…다르다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/Moran(2012) 정리 35697cdd867e812f860eeb5bcfa9290f.md"],
+      "sources_missing": []
+    }
+  ]
+}
