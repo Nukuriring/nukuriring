@@ -1,0 +1,55 @@
+{
+ "id": "52f2d",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "빗장 건 방은 분리와 고립의 환상, 집을 청소하려는 순간 동질성이 차이로 만들어졌음이 드러남",
+   "label": "지지됨",
+   "evidence": "분리와 고립에 의한 공동체의 환상",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "리건 인용: 연합은 좋아서가 아니라 살아남는 길이라서",
+   "label": "지지됨",
+   "evidence": "that’s the only way you can figure you can stay alive",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "빗장 건 방은 환상을 줄 뿐이고 차이를 고정한다",
+   "label": "지지됨",
+   "evidence": "차이를 고정화하고",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "경험·억압·문화적 동일성이 방에 적합해 보여도 청소하면 차이가 드러남",
+   "label": "지지됨",
+   "evidence": "어떤 차이에 의해 만들어 졌음이",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "주류 재진입의 입장의 전쟁(war of position) 메모",
+   "label": "지지됨",
+   "evidence": "Wars of position?",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "리건 인용에서 잊힌 뒤에 살 사람들을 위한 장기 투쟁 시각",
+   "label": "지지됨",
+   "evidence": "people who live long after you are forgotten",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/사회철학연습_0423/SIsterhood, Coalition, and the politics of Experie 1dd97cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

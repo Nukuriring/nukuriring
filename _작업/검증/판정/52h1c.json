@@ -1,0 +1,49 @@
+{
+ "id": "52h1c",
+ "voice": "문헌",
+ "verdict": "원문없음",
+ "claims": [
+  {
+   "n": 0,
+   "text": "자연이 가능성의 충만이라면 페미니즘이 융합을 거부해야 하는지 묻고 유동적 정체성 연결 제안",
+   "label": "지지됨",
+   "evidence": "Should feminism reject the conflation of “woman”",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "토론 질문은 커비의 글 끝부분에서 가져온 물음",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "원문은 '(p.234)'만 적고 글의 끝부분이라는 말이 없음. Grep: 끝, 마지막, 결론, conclu, p.234(발표 원자료), 끝부분, 맺음(문헌 노트)."
+  },
+  {
+   "n": 2,
+   "text": "이 힘의 장이 분절과 재발명의 장 곧 문화와 같다면 문제는 거부냐 더 엄밀한 사유 기회냐",
+   "label": "지지됨",
+   "evidence": "that same force field of articulation",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "임소연 책에서 같은 취지 대목: 자연이 쓰고 읽을 수 없다고 믿으면 아무 일도 일어나지 않는다",
+   "label": "지지됨",
+   "evidence": "아무 일도 일어나지 않는다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "발표자는 유동적 성 정체성 조명 변화를 커비 이론과 연결할 수 있는지 묻는다",
+   "label": "지지됨",
+   "evidence": "커비의 이론과 연결 지을 수 있을까?",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Kirby 발표 35697cdd….md",
+  "문헌/@Kirby Natural Conversations 발표문.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

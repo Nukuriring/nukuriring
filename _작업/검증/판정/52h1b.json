@@ -1,0 +1,62 @@
+{
+ "id": "52h1b",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "커비는 라투르가 비인간을 들이면서 세계의 독자를 인간으로 묶었다고 보고 능력 일반화 제안",
+   "label": "지지됨",
+   "evidence": "generalize the assumed capacities of humanness",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "문화주의가 언어로 제시되는 자료의 예측적 지시를 설명하지 못한다고 묻는다",
+   "label": "지지됨",
+   "evidence": "possess any possibility of predictive reference?",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "포스트모던 비평이 과학 모델 작동을 살피기 꺼린다는 대비 속 라투르 소개",
+   "label": "지지됨",
+   "evidence": "reluctant to consider how scientific models",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "라투르는 사회를 인간·비인간 상호작용 집합으로 재정의, 비인간 수용",
+   "label": "지지됨",
+   "evidence": "nonhumans must be accommodated within the fabric",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "지시가 양쪽에서 생산된다는 생각이 자연이 분절적·소통적·의도적이라는 생각을 불러옴",
+   "label": "지지됨",
+   "evidence": "nature is articulate, communicative",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "독자가 인간이어야 한다는 고집이 분산과 행위성 뜻을 한정",
+   "label": "지지됨",
+   "evidence": "the reader of the world must remain human",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "윌슨 사례: 의인화 단정은 인간의 차이를 확보하려는 시도",
+   "label": "지지됨",
+   "evidence": "we automatically secure the difference",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Kirby 발표 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

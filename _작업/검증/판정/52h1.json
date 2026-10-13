@@ -1,0 +1,55 @@
+{
+ "id": "52h1",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "이분법이 되돌아오며 언어학적 전회가 직접 접근을 막은 것이 한 이유",
+   "label": "부분 지지",
+   "evidence": "이분법이 되돌아와 있음을 지적",
+   "note": "이분법 회귀는 발표문이 지적함. 그러나 언어학적 전회는 자연화 논변 기피를 정당화한 이론적 근거로 제시될 뿐, 이분법 회귀의 이유라고 직접 말하지 않음."
+  },
+  {
+   "n": 1,
+   "text": "글을 읽고 문화와 생물학 소통에서 자연의 언어가 전통 언어와 어떻게 다른지 묻는다",
+   "label": "지지됨",
+   "evidence": "전통적인 의미의 언어와 어떻게 다른지를 탐구",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "이론가들이 자연·몸이 여성·원초적·열정과 연결되어 열등 취급됨을 보였다",
+   "label": "지지됨",
+   "evidence": "Nature/the body is routinely conflated with woman",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "폄하를 뒤집으려는 전략이 폄하의 반복에 묶여 있음을 이해하는 것이 과제",
+   "label": "지지됨",
+   "evidence": "remained wedded to its repetition",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "자연화 논변은 보수적이라 기피, 회귀처럼 보이고 진화 우연 환원 위험",
+   "label": "지지됨",
+   "evidence": "regarded as inherently conservative",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "언어학적 전회는 문화를 닫힌 체계로 보아 직접 접근 없다고 믿게 함",
+   "label": "지지됨",
+   "evidence": "no immediate access to nature at all",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Kirby 발표 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

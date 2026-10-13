@@ -1,0 +1,62 @@
+{
+ "id": "52h1a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "커비는 버틀러가 자연을 문화적 귀속으로 풀면서 처방적으로 여겨 가소성을 생각 못한다고 읽음",
+   "label": "지지됨",
+   "evidence": "nature is pre-scriptive",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "폄하는 본질적 진리 없는 문화적 귀속이라 논함",
+   "label": "지지됨",
+   "evidence": "cultural ascriptions with no essential truth",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "가치의 경제 재분배되면 자연의 문제는 문화로 옮겨지고 '자연'도 역사적 개념",
+   "label": "지지됨",
+   "evidence": "the question of nature is entirely displaced",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "버틀러가 처방성을 보수주의자만큼 확신해 자연화 논변 경계",
+   "label": "지지됨",
+   "evidence": "as thoroughly as any conservative",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "확신 때문에 자연의 복합적 가소성 생각이 떠오르지 않는다",
+   "label": "지지됨",
+   "evidence": "quite unthinkable to even suggest",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "버틀러는 인간이 문화에서 벗어날 수 없고 인간 됨은 자연적인 것과 구별",
+   "label": "지지됨",
+   "evidence": "인간이 된다는 것을 자연적인 것이 아닌 것과 동일시",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "언어 중재를 실체 없는 문화적 기술로만 이해하는 입장을 문화주의라 부름",
+   "label": "지지됨",
+   "evidence": "어떠한 실체도 없는 기술로 이해하는 것은 ‘문화주의’",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Kirby 발표 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

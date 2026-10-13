@@ -1,0 +1,63 @@
+{
+ "id": "52f3e",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "루고네스의 세계 여행을 인식과 사랑을 겸하는 변형적 동일시로 읽는다",
+   "label": "지지됨",
+   "evidence": "관계 변형(transformative identification)",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "동질성 전제의 동일시를 대체할 새 동일시를 요구",
+   "label": "지지됨",
+   "evidence": "동질성 전제‑동일시 대신",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "인지적 요소와 사랑·가치화하는 정동적 요소를 함께 지님",
+   "label": "지지됨",
+   "evidence": "타인을 사랑하며 가치화",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "피억압자로만 보면 동일시가 막히고 저항적 주체성을 알아봐야 깊은 연대",
+   "label": "지지됨",
+   "evidence": "깊은 연대가 가능하다고 주장",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "상상력·공감으로 배우며 자기도 변하고 새 우리를 만든다",
+   "label": "지지됨",
+   "evidence": "새로운 ‘우리’를 창출한다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "상호연결된 자아를 전제하고 권력 인식과 자기 비판을 요구",
+   "label": "지지됨",
+   "evidence": "권력 관계 인식을 필수로 포함해",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "크리스테바: 낯섦을 인정하고 사랑할 때 특권·억압·상처를 직시하고 책임질 수 있다",
+   "label": "지지됨",
+   "evidence": "직시하고 책임질 수 있다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/사회철학연습_0423/Global Feminism and Transformative Identity politi 1dd97cdd….md"
+ ],
+ "sources_missing": [],
+ "note": "출처 줄이 가리키는 문헌 노트 @Lugones는 읽지 않음. 모든 명제가 Weir 필기에서 근거를 찾음.",
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

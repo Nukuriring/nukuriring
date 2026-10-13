@@ -1,0 +1,62 @@
+{
+ "id": "52f3d",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "모한티·리건 비판을 받아들이며 세 이분법을 넘어서야 한다고 응답",
+   "label": "지지됨",
+   "evidence": "이분법을 넘어설 필요가 있다고",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "모한티 1987 논문: 서로를 즉각 알아본다는 주장이 차이를 지우고 자기화",
+   "label": "지지됨",
+   "evidence": "차이·권력관계를 지우고",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "여성의 단결은 역사적 투쟁으로 성취할 정치적 단결",
+   "label": "지지됨",
+   "evidence": "역사적 투쟁을 통해 성취되어야 할",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "거부한 것은 feminist osmosis 모델이며 와이어가 받아들임",
+   "label": "지지됨",
+   "evidence": "저자는 이를 인정하지만",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "리건과 모건 대비 도식에서 세 이분법을 찾는다",
+   "label": "지지됨",
+   "evidence": "세 가지 문제적 이분법이 있다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "동일시는 정동·인지와 행동 결합, 세계 여행처럼 이해 가능, 돌봄과 집이 동기",
+   "label": "지지됨",
+   "evidence": "돌봄·이상·감정은 정치적 동기를 제공",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "빗장 건 방이 아닌 포용적 공간으로 재정의",
+   "label": "지지됨",
+   "evidence": "포용적 공간 창출로 재정의",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/사회철학연습_0423/Global Feminism and Transformative Identity politi 1dd97cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

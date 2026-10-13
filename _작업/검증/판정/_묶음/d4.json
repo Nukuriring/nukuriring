@@ -1,0 +1,201 @@
+{
+  "model": "sonnet",
+  "date": "2026-10-13",
+  "cards": [
+    {"id": "59q", "voice": "종합", "verdict": "부분", "claims": [
+      {"n": 0, "text": "칸트의 추측적 역사를 개념으로 짜는 철학적 역사 서술, 이성 네 단계", "label": "지지됨", "evidence": "개념으로 쌓아올려진 철학가의 길로 역사를 설명", "note": ""},
+      {"n": 1, "text": "잠정적 추측을 통한 역사 서술을 내세워 구상을 세운다", "label": "지지됨", "evidence": "잠정적 추측을 통한 역사 서술conjectural history", "note": ""},
+      {"n": 2, "text": "추측으로 공백을 채우되 순전한 추측은 조작된 역사", "label": "지지됨", "evidence": "조작된 역사에 불과하다고도 말한다", "note": ""},
+      {"n": 3, "text": "공백은 처음과 끝이 있어야 하므로 자연이라는 안전한 가정에서 출발", "label": "지지됨", "evidence": "첫 시작을 만든 자연이라는 안전한 가정", "note": ""},
+      {"n": 4, "text": "개념으로 쌓은 철학자의 길이며 자유로 가는 실마리를 찾는 과정이다", "label": "부분 지지", "evidence": "실마리를 찾는 과정으로도 볼 수 있겠다", "note": "원문은 '과정으로도 볼 수 있겠다'로 한정함. 카드는 '과정이다'로 단정."},
+      {"n": 5, "text": "성서를 지도로 두고 상상력을 동반한 연습임을 밝힌다", "label": "지지됨", "evidence": "성경을 하나의 지도로 둔 채", "note": ""},
+      {"n": 6, "text": "이성의 네 단계(지식 확장, 상상력과 관념, 미래 기대, 자연의 목적)", "label": "지지됨", "evidence": "자신이 자연의 목적임을 이해할 수 있게", "note": ""}
+    ], "sources_used": ["문헌/@영진2024 Conjectural Beginning 공저 기말논문.md", "_원자료/notion/…/[서근철연] 최종 35697cdd….md"], "sources_missing": []},
+
+    {"id": "59q1", "voice": "종합", "verdict": "부분", "claims": [
+      {"n": 0, "text": "두 소질의 필연적 충돌로 이성의 출현이 개인에게 손실, 종에게 이익", "label": "지지됨", "evidence": "개인에게 변화는 손실이겠지만", "note": ""},
+      {"n": 1, "text": "낙원 이탈은 야만성에서 인간성으로, 본능에서 이성으로의 이행", "label": "지지됨", "evidence": "야만성에서 인간성으로, 본능에서 이성으로", "note": ""},
+      {"n": 2, "text": "종의 소명인 진보이지만 개인에게는 마냥 좋은 일이 아닐 수 있다", "label": "지지됨", "evidence": "마냥 좋은 일은 아닐 수도 있다", "note": ""},
+      {"n": 3, "text": "자유 위에 악덕, 명령·금지·형벌이 생겨 도덕적으로 타락", "label": "지지됨", "evidence": "도덕적 측면에서는 타락이었고", "note": ""},
+      {"n": 4, "text": "자연의 역사는 선에서, 자유의 역사는 악에서 시작한다는 테제", "label": "지지됨", "evidence": "자유의 역사는 인간의 작품이기에 악에서 시작", "note": ""},
+      {"n": 5, "text": "타락의 서사를 루소에게서 가져와 두 종의 충돌의 고통과 악덕을 설명한다", "label": "부분 지지", "evidence": "설명하려고 하는 듯하다", "note": "원문은 '설명하려고 하는 듯하다'로 한정함. 카드는 단정."},
+      {"n": 6, "text": "두 소질을 심었으므로 충돌은 무모순 상태까지 필연", "label": "지지됨", "evidence": "그 손상이나 충돌은 필연적이고", "note": ""}
+    ], "sources_used": ["문헌/@영진2024 Conjectural Beginning 공저 기말논문.md", "_원자료/notion/…/[서근철연] 최종 35697cdd….md"], "sources_missing": []},
+
+    {"id": "59q2", "voice": "종합", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "전쟁 위협 아래 가난한 자들이 공동의 부를 돌볼 수밖에 없다는 읽기", "label": "지지됨", "evidence": "그렇게 되지 않을 수 없다", "note": ""},
+      {"n": 1, "text": "목가적 삶과 농경의 삶은 자연스럽게 불화에 이른다", "label": "지지됨", "evidence": "자연스럽게 불화에 이른다", "note": ""},
+      {"n": 2, "text": "가축이 경작물을 뜯어 농경민은 무력 사용 후 분리", "label": "지지됨", "evidence": "무력을 사용했고 추후에는", "note": ""},
+      {"n": 3, "text": "마을과 공동 수호, 교환, 문화·예술·정의의 싹, 불평등", "label": "지지됨", "evidence": "불평등은 그 어느 시기보다 더 커지게", "note": ""},
+      {"n": 4, "text": "전쟁 가능성은 사라지지 않으나 자유를 가능케 하는 계기로 기능", "label": "지지됨", "evidence": "자유를 가능케하는 계기로도 기능한다", "note": ""},
+      {"n": 5, "text": "인용한 칸트 문장의 취지(전제주의 완화, 부·근면·자유)", "label": "지지됨", "evidence": "the only thing that moderates despotism", "note": ""},
+      {"n": 6, "text": "must를 당위가 아니라 그렇게 되지 않을 수 없다로 읽는 것이 옳다(필자 사견)", "label": "지지됨", "evidence": "필자의 사견으로는 여기서 must의 표현을", "note": ""},
+      {"n": 7, "text": "공동의 부 보존에 관심 가지며 자유를 보존하게 된다", "label": "지지됨", "evidence": "스스로의 자유를 보존하게 되는 것", "note": ""},
+      {"n": 8, "text": "전쟁 위협이 끝나면 자유가 쇠퇴하고 문화는 노예 상태로", "label": "지지됨", "evidence": "문화는 생동성을 잃고 노예의 상태로", "note": ""}
+    ], "sources_used": ["문헌/@영진2024 Conjectural Beginning 공저 기말논문.md", "_원자료/notion/…/[서근철연] 최종 35697cdd….md"], "sources_missing": []},
+
+    {"id": "59q3", "voice": "종합", "verdict": "부분", "claims": [
+      {"n": 0, "text": "섭리에 대한 만족을 책임의 인수로 읽고 고귀한 야만인 소망이 공허", "label": "지지됨", "evidence": "이 소망의 공허함은", "note": ""},
+      {"n": 1, "text": "이성은 섭리에 불만족할 길을 열어 놓는다", "label": "지지됨", "evidence": "불만족 할 수 있는 길을 열어놓는다", "note": ""},
+      {"n": 2, "text": "칸트가 강조하는 것은 스스로를 책임의 원천으로 간주하는 일", "label": "지지됨", "evidence": "스스로를 책임의 원천으로 간주", "note": ""},
+      {"n": 3, "text": "전쟁은 만족을 사유하는 데 가장 효과적인 수단", "label": "지지됨", "evidence": "가장 효과적인 수단이다", "note": ""},
+      {"n": 4, "text": "전쟁은 해악이고 위협만으로 군비 경쟁, 내적 자유 말살도", "label": "지지됨", "evidence": "내적 자유의 말살로 이어지는 현상", "note": ""},
+      {"n": 5, "text": "전쟁이 인간성 존중을 요구하지 않았다면 문화와 남은 자유가 있었겠느냐는 물음", "label": "지지됨", "evidence": "존재할 수 있었을까?", "note": ""},
+      {"n": 6, "text": "문화가 완벽해진 뒤에야 항구적 평화가 반길 만하다", "label": "지지됨", "evidence": "항구적인 평화가 우리에게 반길만한", "note": ""},
+      {"n": 7, "text": "고귀한 야만인 소망은 반박되고 불만족으로 종결됐다는 사실이 공허함을 보증", "label": "지지됨", "evidence": "공허함은 …불만족에 의해 발생", "note": ""},
+      {"n": 8, "text": "추측의 가치를 실낙원 행위 반복과 이성 오용의 깨달음에서 찾는다", "label": "부분 지지", "evidence": "깨닫는 방식으로 이루어질 수 있다", "note": "원문은 가치를 섭리 만족과 책임 인수의 교훈에서 찾고, 깨달음은 인정이 이루어질 '수 있는' 방식으로 한정함. 카드는 가치 자체를 깨달음에 두고 단정."}
+    ], "sources_used": ["문헌/@영진2024 Conjectural Beginning 공저 기말논문.md", "_원자료/notion/…/[서근철연] 최종 35697cdd….md"], "sources_missing": []},
+
+    {"id": "59q4", "voice": "종합", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "칸트가 인간의 이중성을 도덕 신학적 해법으로만 해소하는 것은 아닌지 묻는다", "label": "지지됨", "evidence": "도덕 신학적 해법에만 의존하고 있는 것 같다", "note": ""},
+      {"n": 1, "text": "현상계·예지계와 이중적 인간은 순수이성비판 이래 업적이자 과제", "label": "지지됨", "evidence": "업적인 동시에 해소해야만 하는 과제", "note": ""},
+      {"n": 2, "text": "자연에서 자유로의 이행 테제로 해소한 듯하나 해명됐는지 묻는다", "label": "지지됨", "evidence": "나름대로 해소하고 있는 듯하다", "note": ""},
+      {"n": 3, "text": "가설이어도 배후에 자연의 계획과 목적이 있다는 필연성은 안 보인다", "label": "지지됨", "evidence": "도달할 필연성은 있어 보이지 않는다", "note": ""},
+      {"n": 4, "text": "문제점 하나: 필연성이 창세기에만 의존", "label": "지지됨", "evidence": "'창세기'에만 의존하는 방식", "note": ""},
+      {"n": 5, "text": "문제점 둘: 신의 섭리로는 인간의 자리를 내주지 못하는 듯, 자연 바깥으로 나갔는지 묻는다", "label": "지지됨", "evidence": "정말 인간은 자연 세계 바깥으로 나간 것인가", "note": ""}
+    ], "sources_used": ["문헌/@영진2024 Conjectural Beginning 공저 기말논문.md", "_원자료/notion/…/[서근철연] 최종 35697cdd….md"], "sources_missing": []},
+
+    {"id": "59q5", "voice": "종합", "verdict": "부분", "claims": [
+      {"n": 0, "text": "잠정적 추측을 불만족을 자유의 조건으로 풀어 만족에 이르게 하는 치료적 기획으로 읽는다", "label": "지지됨", "evidence": "치료적 기획을 가지고 있는 것처럼", "note": ""},
+      {"n": 1, "text": "불만족이 추측을 수행함으로써 만족에 이를 수 있다", "label": "지지됨", "evidence": "만족에 이를 수 있다는 것이다", "note": ""},
+      {"n": 2, "text": "만족은 정태적이지 않고 책임으로 돌려 극복하는 발전적 만족", "label": "지지됨", "evidence": "발전적인 형태의 만족이다", "note": ""},
+      {"n": 3, "text": "전략: 악·불행·필연성이 선·자유의 조건이었음을 드러내는 것으로 보인다", "label": "지지됨", "evidence": "조건이었다는 사실을 드러내는 것", "note": ""},
+      {"n": 4, "text": "그래서 불만족이 공허한 소망임을 지적한다", "label": "지지됨", "evidence": "공허한 소망에 불과함을 지적하는 것", "note": ""},
+      {"n": 5, "text": "전쟁에 대해서도 같은 사유가 진행되어 현 단계에서 필수 불가결", "label": "부분 지지", "evidence": "유사한 사유를 진행하는 것처럼 보인다", "note": "원문은 '유사한 사유…처럼 보인다'로 한정함. 카드는 '같은 사유가 진행되어'로 단정."}
+    ], "sources_used": ["문헌/@영진2024 Conjectural Beginning 공저 기말논문.md", "_원자료/notion/…/[서근철연] 최종 35697cdd….md"], "sources_missing": []},
+
+    {"id": "59q6", "voice": "종합", "verdict": "부분", "claims": [
+      {"n": 0, "text": "전쟁이 문화 발전에 기여한다는 점과 필연적 예비가 같은 설득력을 갖는지 묻는다", "label": "지지됨", "evidence": "동일한 설득력을 가지고 제시되고 있는가?", "note": ""},
+      {"n": 1, "text": "섭리 만족의 교훈을 위해 두 사실을 깨닫게 해야 한다", "label": "지지됨", "evidence": "두 가지 사실에 대한 깨달음을", "note": ""},
+      {"n": 2, "text": "첫째를 선험적·개념적 참으로 간주하는 듯, 위협이 자유 보존을 전제하므로", "label": "지지됨", "evidence": "선험적이고 개념적인 참으로 간주하는 것 같다", "note": ""},
+      {"n": 3, "text": "둘째는 성경에 기댄 답, 농경민이 유목민으로부터 지켜야 할 필요", "label": "지지됨", "evidence": "성경을 바탕으로 그 답변을 제공", "note": ""},
+      {"n": 4, "text": "추측이 임의적이지 않으려면 인간 본성에 호소해야 한다", "label": "부분 지지", "evidence": "인간 본성에 호소하여 임의적이지 않은 방식으로 전개될 수 있기", "note": "원문은 본성에 호소하면 임의적이지 않게 전개'될 수 있다'(충분조건·가능). 카드는 '호소해야 한다'(필요조건)로 바꿈."},
+      {"n": 5, "text": "이성에서 욕망의 필연성은 보일 수 있으나 삶의 방식 차이의 필연성은 불분명", "label": "지지됨", "evidence": "동일한 설득력을 가지고 제시되고 있는가", "note": ""},
+      {"n": 6, "text": "소질 안에 집단 가능성이 포함됨을 설득력 있게 제시해야 한다", "label": "지지됨", "evidence": "설득력 있게 제시되어야 함은 분명해 보인다", "note": ""}
+    ], "sources_used": ["문헌/@영진2024 Conjectural Beginning 공저 기말논문.md", "_원자료/notion/…/[서근철연] 최종 35697cdd….md"], "sources_missing": []},
+
+    {"id": "59q7", "voice": "종합", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "종과 개인을 구분하는 역사철학이 전쟁의 참혹함을 줄이는 것은 아닌지 묻는다", "label": "지지됨", "evidence": "비약적인 축소를 이행하는 것처럼", "note": ""},
+      {"n": 1, "text": "신학적 우화로 남는 듯한 역사철학의 실천적 성찰이 무엇인지 묻는다", "label": "지지됨", "evidence": "실천적 성찰은 도대체 무엇인가?", "note": ""},
+      {"n": 2, "text": "도덕적 진보라면 고통과 참혹함도 고려 대상이어야 할 것 같다", "label": "지지됨", "evidence": "고려의 대상이어야 할 것 같다", "note": ""},
+      {"n": 3, "text": "이를 적극 거부하며 종과 개별자를 구분하는 해답을 택한다", "label": "지지됨", "evidence": "적극적으로 거부하면서", "note": ""},
+      {"n": 4, "text": "전쟁의 참혹함을 사소한 현상으로 비약적으로 줄이는 듯하다", "label": "지지됨", "evidence": "한갓 사소한 현상으로 비약적인 축소", "note": ""},
+      {"n": 5, "text": "비참함의 감각을 개별자의 몫으로 넘기는 애석한 길에서 멈추는 것 아닌가", "label": "지지됨", "evidence": "개별자의 몫으로 인수하는", "note": ""}
+    ], "sources_used": ["문헌/@영진2024 Conjectural Beginning 공저 기말논문.md", "_원자료/notion/…/[서근철연] 최종 35697cdd….md"], "sources_missing": []},
+
+    {"id": "52f3", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "정체성의 해방적 차원은 범주가 아닌 동일시, 범주 논쟁이 바탕 이론을 비움", "label": "지지됨", "evidence": "without a theory of an affective, ethical", "note": ""},
+      {"n": 1, "text": "해방적 차원이 동일시였고 범주 관심이 가려 왔다", "label": "지지됨", "evidence": "overshadowed and displaced by a focus on", "note": ""},
+      {"n": 2, "text": "집단 정체성 물음을 범주의 물음으로 줄여 왔다", "label": "지지됨", "evidence": "tended to reduce the complexity", "note": ""},
+      {"n": 3, "text": "여성 범주 본질/구성 논쟁에 몰두, 세 동일시는 소홀", "label": "지지됨", "evidence": "too little on the subjectivity", "note": ""},
+      {"n": 4, "text": "제안: 정적에서 관계적으로, 의미 있는 것에 주목, 변형적 정체성 정치", "label": "지지됨", "evidence": "Static to relational model", "note": ""},
+      {"n": 5, "text": "동일시가 정체성 지정을 만든다는 관점", "label": "지지됨", "evidence": "shape our designations of identity", "note": ""}
+    ], "sources_used": ["_원자료/notion/…/사회철학연습_0423/Global Feminism and Transformative Identity politi 1dd97cdd….md"], "sources_missing": []},
+
+    {"id": "52f3a", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "연대 지향은 세 동일시의 결합, 범주 소속만으로 연대감이 안 생긴다", "label": "지지됨", "evidence": "연대감을 느끼지 않는다", "note": ""},
+      {"n": 1, "text": "오킨이 공통 의제를 경험적 보편성으로 근거 짓는다고 정리", "label": "지지됨", "evidence": "경험적 공통성이 보편적 페미니즘 목표의 근거", "note": ""},
+      {"n": 2, "text": "범주로서의 위치만으로 글로벌 연대를 설명할 수 없다", "label": "지지됨", "evidence": "글로벌 연대를 설명할 수 없다", "note": ""},
+      {"n": 3, "text": "공통 쟁점은 주어진 것이 아니라 의미 부여와 연대 지향으로 구성", "label": "지지됨", "evidence": "주어진 것이 아니라", "note": ""},
+      {"n": 4, "text": "알코프의 위치성: 객관적 위치와 주관적 관점", "label": "지지됨", "evidence": "객관적 위치 … 주관적 관점", "note": ""},
+      {"n": 5, "text": "돌봄 사슬 사례, 서로의 삶을 지속적으로 학습해야 함", "label": "지지됨", "evidence": "지속적으로 서로의 삶을 학습해야", "note": ""},
+      {"n": 6, "text": "세 동일시(가치, 저항하는 우리, 구체적 타자, 갈등과 공존)", "label": "지지됨", "evidence": "갈등과 적대와도 공존한다", "note": ""}
+    ], "sources_used": ["_원자료/notion/…/사회철학연습_0423/Global Feminism and Transformative Identity politi 1dd97cdd….md"], "sources_missing": []},
+
+    {"id": "52f3c", "voice": "문헌", "verdict": "부분", "claims": [
+      {"n": 0, "text": "정체성은 중요한 것에 대한 헌신의 지평, 서로를 붙들어 두는 날마다의 재창조", "label": "지지됨", "evidence": "매일의 재창조", "note": ""},
+      {"n": 1, "text": "헤겔·실존주의 전통에서 의미와 귀속의 문제로 재정의", "label": "지지됨", "evidence": "의미와 귀속의 문제로 재정의", "note": ""},
+      {"n": 2, "text": "테일러: 이름·계보가 아니라 결정적으로 중요한 것의 지평", "label": "지지됨", "evidence": "이름‧계보가 아니라", "note": ""},
+      {"n": 3, "text": "무의미는 사실 상실이기 전에 붙들어 줌의 상실", "label": "지지됨", "evidence": "사실·정보의 상실이 아니라", "note": ""},
+      {"n": 4, "text": "붙들어 두기는 고정 유지가 아니라 날마다의 재창조", "label": "지지됨", "evidence": "고정·동일성의 유지가 아니다", "note": ""},
+      {"n": 5, "text": "벤하비브 서사 모델을 와이어가 개인과 집단에 모두 적용", "label": "부분 지지", "evidence": "의미로 엮어내는 능력", "note": "서사 모델의 정의는 있으나 와이어가 이를 개인과 집단 모두에 적용한다는 직접 문장은 없음. 집단 정체성 논의는 별도 문단."},
+      {"n": 6, "text": "집단 정체성은 같은 의미 공유가 아니라 연대에 가치를 두고 투자, 갈등적 투쟁 수반", "label": "지지됨", "evidence": "연대에 대한 가치 부여와 투자", "note": ""}
+    ], "sources_used": ["_원자료/notion/…/사회철학연습_0423/Global Feminism and Transformative Identity politi 1dd97cdd….md"], "sources_missing": []},
+
+    {"id": "52f3d", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "모한티·리건 비판을 받아들이며 세 이분법을 넘어서야 한다고 응답", "label": "지지됨", "evidence": "이분법을 넘어설 필요가 있다고", "note": ""},
+      {"n": 1, "text": "모한티 1987 논문: 서로를 즉각 알아본다는 주장이 차이를 지우고 자기화", "label": "지지됨", "evidence": "차이·권력관계를 지우고", "note": ""},
+      {"n": 2, "text": "여성의 단결은 역사적 투쟁으로 성취할 정치적 단결", "label": "지지됨", "evidence": "역사적 투쟁을 통해 성취되어야 할", "note": ""},
+      {"n": 3, "text": "거부한 것은 feminist osmosis 모델이며 와이어가 받아들임", "label": "지지됨", "evidence": "저자는 이를 인정하지만", "note": ""},
+      {"n": 4, "text": "리건과 모건 대비 도식에서 세 이분법을 찾는다", "label": "지지됨", "evidence": "세 가지 문제적 이분법이 있다", "note": ""},
+      {"n": 5, "text": "동일시는 정동·인지와 행동 결합, 세계 여행처럼 이해 가능, 돌봄과 집이 동기", "label": "지지됨", "evidence": "돌봄·이상·감정은 정치적 동기를 제공", "note": ""},
+      {"n": 6, "text": "빗장 건 방이 아닌 포용적 공간으로 재정의", "label": "지지됨", "evidence": "포용적 공간 창출로 재정의", "note": ""}
+    ], "sources_used": ["_원자료/notion/…/사회철학연습_0423/Global Feminism and Transformative Identity politi 1dd97cdd….md"], "sources_missing": []},
+
+    {"id": "52f3e", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "루고네스의 세계 여행을 인식과 사랑을 겸하는 변형적 동일시로 읽는다", "label": "지지됨", "evidence": "관계 변형(transformative identification)", "note": ""},
+      {"n": 1, "text": "동질성 전제의 동일시를 대체할 새 동일시를 요구", "label": "지지됨", "evidence": "동질성 전제‑동일시 대신", "note": ""},
+      {"n": 2, "text": "인지적 요소와 사랑·가치화하는 정동적 요소를 함께 지님", "label": "지지됨", "evidence": "타인을 사랑하며 가치화", "note": ""},
+      {"n": 3, "text": "피억압자로만 보면 동일시가 막히고 저항적 주체성을 알아봐야 깊은 연대", "label": "지지됨", "evidence": "깊은 연대가 가능하다고 주장", "note": ""},
+      {"n": 4, "text": "상상력·공감으로 배우며 자기도 변하고 새 우리를 만든다", "label": "지지됨", "evidence": "새로운 ‘우리’를 창출한다", "note": ""},
+      {"n": 5, "text": "상호연결된 자아를 전제하고 권력 인식과 자기 비판을 요구", "label": "지지됨", "evidence": "권력 관계 인식을 필수로 포함해", "note": ""},
+      {"n": 6, "text": "크리스테바: 낯섦을 인정하고 사랑할 때 특권·억압·상처를 직시하고 책임질 수 있다", "label": "지지됨", "evidence": "직시하고 책임질 수 있다", "note": ""}
+    ], "sources_used": ["_원자료/notion/…/사회철학연습_0423/Global Feminism and Transformative Identity politi 1dd97cdd….md"], "sources_missing": [], "note": "출처 줄이 가리키는 문헌 노트 @Lugones는 읽지 않음. 모든 명제가 Weir 필기에서 근거를 찾음."},
+
+    {"id": "52f3f", "voice": "문헌", "verdict": "부분", "claims": [
+      {"n": 0, "text": "딘의 반성적 연대를 소통하는 우리로 받아들이고 연대 지향과 변형적 정체성 정치를 본다", "label": "지지됨", "evidence": "‘소통적 we’를 대화 과정으로 규정", "note": ""},
+      {"n": 1, "text": "유색인 여성 이론가들: 연대는 다원성·권력관계 인식·불일치 전제", "label": "지지됨", "evidence": "다원성·권력관계 인식·불일치를 전제", "note": ""},
+      {"n": 2, "text": "딘의 반성적 연대는 이견과 비판을 매개로 한 소통적 우리", "label": "지지됨", "evidence": "이견과 비판을 매개로 형성", "note": ""},
+      {"n": 3, "text": "백인 그룹은 합의=연대가 이견을 침묵시키고 유색인 그룹은 논쟁으로 참여", "label": "지지됨", "evidence": "이견을 침묵시켰지만", "note": ""},
+      {"n": 4, "text": "소통적 우리를 가능하게 하는 것이 책임적 태도인 연대 지향", "label": "지지됨", "evidence": "함께 버티려는 책임적 태도", "note": ""},
+      {"n": 5, "text": "고정 범주 동일성은 가짜 우리, 변형적 정체성 정치는 비판·재해석·재확인 반복", "label": "지지됨", "evidence": "비판·재해석·재확인을 반복함으로써", "note": ""},
+      {"n": 6, "text": "정체성 정치를 두려워하는 이유는 범주 경직성에 더해 열림의 부담", "label": "부분 지지", "evidence": "‘열림’의 부담 때문일 수 있다", "note": "원문은 '때문일 수 있다'로 한정함. 카드는 이유를 단정하는 '짚는다'."}
+    ], "sources_used": ["_원자료/notion/…/사회철학연습_0423/Global Feminism and Transformative Identity politi 1dd97cdd….md"], "sources_missing": []},
+
+    {"id": "52f3g", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "공유할 이상으로 존슨오딤 최소 조건과 모한티의 탈식민·반자본주의·연대, 합의는 변형의 산물", "label": "지지됨", "evidence": "끊임없는 자기 재구성", "note": ""},
+      {"n": 1, "text": "글로벌 페미니즘은 공통 가치·이상에 대한 동일시를 지향", "label": "지지됨", "evidence": "공통의 가치·이상’에 대한 동일시", "note": ""},
+      {"n": 2, "text": "존슨오딤: 쟁점은 필요 여부가 아니라 어떤 정의와 의제의 페미니즘인가", "label": "지지됨", "evidence": "어떤 정의와 의제를 갖는 페미니즘", "note": ""},
+      {"n": 3, "text": "최소 조건 셋(인종차별·경제 착취, 여성의 억압 가능성, 문화 차이 존중과 자기 목소리)", "label": "지지됨", "evidence": "‘자기 목소리’를 보장해야 한다", "note": ""},
+      {"n": 4, "text": "모한티는 트랜스내셔널 정치의 초점을 탈식민화·반자본주의 비판·연대로 규정", "label": "지지됨", "evidence": "탈식민화, 반자본주의 비판, 연대", "note": ""},
+      {"n": 5, "text": "오킨의 인권 의제와 호응하나 통합에도 이견·충돌·변형 필요", "label": "지지됨", "evidence": "이견과 충돌·변형 과정이 필요", "note": ""},
+      {"n": 6, "text": "페미니즘 역사는 이미 변형적 정체성 정치의 사례", "label": "지지됨", "evidence": "변형적 정체성 정치—의 사례", "note": ""}
+    ], "sources_used": ["_원자료/notion/…/사회철학연습_0423/Global Feminism and Transformative Identity politi 1dd97cdd….md"], "sources_missing": []},
+
+    {"id": "52f2", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "보편적 자매애가 제국주의 역사를 지우고 중산층의 심리화된 개념이 되어 힘의 차이를 가림", "label": "지지됨", "evidence": "a middle-class, psychologized notion", "note": ""},
+      {"n": 1, "text": "물음: 위치의 정치가 분석 범주를 어떻게 만들어 왔는가", "label": "지지됨", "evidence": "politics of location", "note": ""},
+      {"n": 2, "text": "정치적 행위성의 역사화·위치 짓기가 젠더 억압 보편성 주장을 대체해야", "label": "지지됨", "evidence": "a necessary alternative to formulations", "note": ""},
+      {"n": 3, "text": "젠더 범주가 보이려면 인종·계급 범주가 보이지 않아야 한다", "label": "지지됨", "evidence": "인종과 계급의 범주가 비가시적이 되어야만", "note": ""},
+      {"n": 4, "text": "모건은 여성을 같은 이해·관점·목표의 집단으로 놓고 보편적 자매애에 기댐", "label": "지지됨", "evidence": "같은 interest, 관점, 목표와 경험", "note": ""},
+      {"n": 5, "text": "자매애는 제국주의의 결과와 역사를 지워야만 성립", "label": "지지됨", "evidence": "지우고 나서야만 성립하는 것", "note": ""},
+      {"n": 6, "text": "제1세계와 제3세계 여성 사이 물질적·이념적 힘의 차이를 가림", "label": "지지됨", "evidence": "between first and Thrid Wolrd women", "note": ""},
+      {"n": 7, "text": "모건이 모든 여성을 현재 세계사 밖에 놓으려는 듯하다", "label": "지지됨", "evidence": "세계 역사 바깥에 위치시키고 싶어하는", "note": ""}
+    ], "sources_used": ["_원자료/notion/…/사회철학연습_0423/SIsterhood, Coalition, and the politics of Experie 1dd97cdd….md"], "sources_missing": []},
+
+    {"id": "52f2a", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "모건이 억압의 경험과 대항을 혼동, 여성을 진리 발화자로, 가부장제를 불변의 남성 지배로", "label": "지지됨", "evidence": "‘억압의 경험’과 ‘억압에 대한 대항’을 혼동", "note": ""},
+      {"n": 1, "text": "모건은 여성을 피해자이자 진리를 말하는 자로 놓는다", "label": "지지됨", "evidence": "여성은 ‘진리-발화자’이다", "note": ""},
+      {"n": 2, "text": "가부장적 심성의 고통이 보편 경험이 되어 정치 움직임의 가능성을 만든다", "label": "지지됨", "evidence": "조직할 수 있는 정치적 움직임의 가능성", "note": ""},
+      {"n": 3, "text": "두 혼동이 여성이 되는 일과 여성주의자가 되는 일을 잇는다", "label": "지지됨", "evidence": "여성주의자가 되는 것이 ‘’자연스레’ 연결", "note": ""},
+      {"n": 4, "text": "남성중심 편향에서 자유로워 진리와 친함, 생물학·심리와 담론·이념의 혼동", "label": "지지됨", "evidence": "conflation here of the bilogocial", "note": ""},
+      {"n": 5, "text": "가부장제는 불변의 남성 지배, 체계는 남성이 만든 것, 경험과 담론 구별 안 됨", "label": "지지됨", "evidence": "경험과 담론이 구분될 수 없다", "note": ""}
+    ], "sources_used": ["_원자료/notion/…/사회철학연습_0423/SIsterhood, Coalition, and the politics of Experie 1dd97cdd….md"], "sources_missing": []},
+
+    {"id": "52f2b", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "억압의 역사적 형태와 여성 범주의 관계를 말하는 방식에서 연대 성립, 개인주의적 경험 역사화", "label": "지지됨", "evidence": "feminist solidarity or coalition makes sense", "note": ""},
+      {"n": 1, "text": "경험이 정신적 상태이면 역사와 집단성 물음이 태도와 의도로만 정식화", "label": "지지됨", "evidence": "태도와 의도의 측면에서 정식화", "note": ""},
+      {"n": 2, "text": "집단 투쟁의 사회성이 개인-집단 관계로 이해되어 역사와 분리", "label": "지지됨", "evidence": "역사와 분리되게 된다", "note": ""},
+      {"n": 3, "text": "경험 동질성 관념은 개인적 자아 개념에 기대며 의식적으로 역사화해야", "label": "지지됨", "evidence": "의식적으로 역사화 되어야한다", "note": ""},
+      {"n": 4, "text": "과제는 한쪽에서 다른 쪽을 연역하지 않고 관계를 말하는 방식, 연대가 의미를 얻는 지점", "label": "지지됨", "evidence": "not to try deduce one from the other", "note": ""}
+    ], "sources_used": ["_원자료/notion/…/사회철학연습_0423/SIsterhood, Coalition, and the politics of Experie 1dd97cdd….md"], "sources_missing": []},
+
+    {"id": "52f2c", "voice": "문헌", "verdict": "부분", "claims": [
+      {"n": 0, "text": "정치적 레즈비어니즘이 특권화된 기표가 되어 경험의 권위를 앞세우고 이념 비판 필요를 흐림(킹)", "label": "부분 지지", "evidence": "공통된 경험의 권위와 존재를 질문에 붙인다", "note": "'경험의 권위를 앞세운다'는 카드의 풀이. 원문은 킹이 경험의 권위를 질문에 붙인다고 적음."},
+      {"n": 1, "text": "모한티는 정치적 레즈비어니즘 논의에서 킹의 분석을 인용", "label": "지지됨", "evidence": "King의 분석", "note": ""},
+      {"n": 2, "text": "레즈비어니즘으로 정치적 정체성을 세우려는 시도는 동일성 분류학으로 집단을 동화", "label": "지지됨", "evidence": "여성주의적 동일성 분류학으로", "note": ""},
+      {"n": 3, "text": "동일시하면 이미 안다는 인상이 마법처럼 생기고 구원처럼 제시", "label": "지지됨", "evidence": "마법적인 방식으로 이미 알고 있다는 인상", "note": ""},
+      {"n": 4, "text": "특권화된 기표는 분석을 어렵게 하며 반직관적 도전의 필요를 흐린다", "label": "지지됨", "evidence": "반-직관적인 도전의 필요를 흐리기", "note": ""},
+      {"n": 5, "text": "여성인 것과 여성주의자 되는 것이 이어진다는 생각의 사례", "label": "지지됨", "evidence": "자연스럽게 연결되며", "note": ""}
+    ], "sources_used": ["_원자료/notion/…/사회철학연습_0423/SIsterhood, Coalition, and the politics of Experie 1dd97cdd….md"], "sources_missing": []},
+
+    {"id": "52f2d", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "빗장 건 방은 분리와 고립의 환상, 집을 청소하려는 순간 동질성이 차이로 만들어졌음이 드러남", "label": "지지됨", "evidence": "분리와 고립에 의한 공동체의 환상", "note": ""},
+      {"n": 1, "text": "리건 인용: 연합은 좋아서가 아니라 살아남는 길이라서", "label": "지지됨", "evidence": "that’s the only way you can figure you can stay alive", "note": ""},
+      {"n": 2, "text": "빗장 건 방은 환상을 줄 뿐이고 차이를 고정한다", "label": "지지됨", "evidence": "차이를 고정화하고", "note": ""},
+      {"n": 3, "text": "경험·억압·문화적 동일성이 방에 적합해 보여도 청소하면 차이가 드러남", "label": "지지됨", "evidence": "어떤 차이에 의해 만들어 졌음이", "note": ""},
+      {"n": 4, "text": "주류 재진입의 입장의 전쟁(war of position) 메모", "label": "지지됨", "evidence": "Wars of position?", "note": ""},
+      {"n": 5, "text": "리건 인용에서 잊힌 뒤에 살 사람들을 위한 장기 투쟁 시각", "label": "지지됨", "evidence": "people who live long after you are forgotten", "note": ""}
+    ], "sources_used": ["_원자료/notion/…/사회철학연습_0423/SIsterhood, Coalition, and the politics of Experie 1dd97cdd….md"], "sources_missing": []}
+  ]
+}

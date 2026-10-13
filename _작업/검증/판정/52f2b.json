@@ -1,0 +1,48 @@
+{
+ "id": "52f2b",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "억압의 역사적 형태와 여성 범주의 관계를 말하는 방식에서 연대 성립, 개인주의적 경험 역사화",
+   "label": "지지됨",
+   "evidence": "feminist solidarity or coalition makes sense",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "경험이 정신적 상태이면 역사와 집단성 물음이 태도와 의도로만 정식화",
+   "label": "지지됨",
+   "evidence": "태도와 의도의 측면에서 정식화",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "집단 투쟁의 사회성이 개인-집단 관계로 이해되어 역사와 분리",
+   "label": "지지됨",
+   "evidence": "역사와 분리되게 된다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "경험 동질성 관념은 개인적 자아 개념에 기대며 의식적으로 역사화해야",
+   "label": "지지됨",
+   "evidence": "의식적으로 역사화 되어야한다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "과제는 한쪽에서 다른 쪽을 연역하지 않고 관계를 말하는 방식, 연대가 의미를 얻는 지점",
+   "label": "지지됨",
+   "evidence": "not to try deduce one from the other",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/사회철학연습_0423/SIsterhood, Coalition, and the politics of Experie 1dd97cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,55 @@
+{
+ "id": "52f2a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "모건이 억압의 경험과 대항을 혼동, 여성을 진리 발화자로, 가부장제를 불변의 남성 지배로",
+   "label": "지지됨",
+   "evidence": "‘억압의 경험’과 ‘억압에 대한 대항’을 혼동",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "모건은 여성을 피해자이자 진리를 말하는 자로 놓는다",
+   "label": "지지됨",
+   "evidence": "여성은 ‘진리-발화자’이다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "가부장적 심성의 고통이 보편 경험이 되어 정치 움직임의 가능성을 만든다",
+   "label": "지지됨",
+   "evidence": "조직할 수 있는 정치적 움직임의 가능성",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "두 혼동이 여성이 되는 일과 여성주의자가 되는 일을 잇는다",
+   "label": "지지됨",
+   "evidence": "여성주의자가 되는 것이 ‘’자연스레’ 연결",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "남성중심 편향에서 자유로워 진리와 친함, 생물학·심리와 담론·이념의 혼동",
+   "label": "지지됨",
+   "evidence": "conflation here of the bilogocial",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "가부장제는 불변의 남성 지배, 체계는 남성이 만든 것, 경험과 담론 구별 안 됨",
+   "label": "지지됨",
+   "evidence": "경험과 담론이 구분될 수 없다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/사회철학연습_0423/SIsterhood, Coalition, and the politics of Experie 1dd97cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

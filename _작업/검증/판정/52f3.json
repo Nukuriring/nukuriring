@@ -1,0 +1,55 @@
+{
+ "id": "52f3",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "정체성의 해방적 차원은 범주가 아닌 동일시, 범주 논쟁이 바탕 이론을 비움",
+   "label": "지지됨",
+   "evidence": "without a theory of an affective, ethical",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "해방적 차원이 동일시였고 범주 관심이 가려 왔다",
+   "label": "지지됨",
+   "evidence": "overshadowed and displaced by a focus on",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "집단 정체성 물음을 범주의 물음으로 줄여 왔다",
+   "label": "지지됨",
+   "evidence": "tended to reduce the complexity",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "여성 범주 본질/구성 논쟁에 몰두, 세 동일시는 소홀",
+   "label": "지지됨",
+   "evidence": "too little on the subjectivity",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "제안: 정적에서 관계적으로, 의미 있는 것에 주목, 변형적 정체성 정치",
+   "label": "지지됨",
+   "evidence": "Static to relational model",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "동일시가 정체성 지정을 만든다는 관점",
+   "label": "지지됨",
+   "evidence": "shape our designations of identity",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/사회철학연습_0423/Global Feminism and Transformative Identity politi 1dd97cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
