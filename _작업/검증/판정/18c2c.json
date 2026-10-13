@@ -1,0 +1,64 @@
+{
+ "id": "18c2c",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "각주 9와 직관 호소는 봉쇄와 회복이라는 카벨식 도식에 압력을 가한다",
+   "label": "지지됨",
+   "evidence": "수정 압력을 받고 있어",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "인계 노트는 봉쇄·회복·박제의 세 단계 도식으로 읽었다",
+   "label": "지지됨",
+   "evidence": "Tarski 봉쇄 → 일상 회복 → ghost로 박제",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "첫째 압력: 각주 9가 봉쇄 서사를 명시적으로 거부",
+   "label": "지지됨",
+   "evidence": "봉쇄 서사 자체를 거부하고 있어",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "무력화 자료일 수도, 카벨이 진단한 자세의 극단적 형태일 수도 있다",
+   "label": "지지됨",
+   "evidence": "카벨이 진단한 자세의 극단적 형태",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "둘째: §II의 동력은 직관, pp.79-80에서 다섯 번가량",
+   "label": "지지됨",
+   "evidence": "p. 79-80에서 적어도 다섯 번 등장",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "카벨은 CoR에서 기준 호소와 직관 호소를 구별하고 후자를 의심",
+   "label": "지지됨",
+   "evidence": "카벨이 기준(criteria)에 대한 호소와",
+   "note": "카드가 밝히듯 대화 속 설명, 원문 위치 미확인."
+  },
+  {
+   "n": 6,
+   "text": "직관 호소는 지렛대로 읽히고 의식 표지가 없으면 가설의 진짜 약점",
+   "label": "지지됨",
+   "evidence": "지렛대로 사용되는 것처럼 읽혀",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/claude.ai/projects/크립키의 위악성/chats/2026-05-10_Tarski hierarchy 인용의 위치 결정 방식.md",
+  "문헌/@Kripke2011 Philosophical Troubles.md",
+  "문헌/@Cavell1979 The Claim of Reason.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

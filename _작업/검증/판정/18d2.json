@@ -1,0 +1,56 @@
+{
+ "id": "18d2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "크립키는 회의적 해법에서 주저 없이 그러나 맹목적으로 행동한다고 쓴다",
+   "label": "지지됨",
+   "evidence": "We act unhesitatingly but *blindly*.",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "먼저 한 사람을 고립시켜 볼 때 참인 것을 고찰한다",
+   "label": "지지됨",
+   "evidence": "one person considered in isolation",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "no terrors, 68+57=125를 주저 없이 답하며 정당화 없음",
+   "label": "지지됨",
+   "evidence": "It holds no terrors in our daily lives",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "'The entire point of the sceptical argument...' 인용",
+   "label": "지지됨",
+   "evidence": "we act without any reason in terms of",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "각주 75는 RFM과 PI §289에 연결, 수학과 감각 논의의 연결이 이 책의 주제",
+   "label": "지지됨",
+   "evidence": "another theme of the present essay",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "산문 표면에 자기 표시가 p.17보다 훨씬 많이 나온다는 대화의 관찰",
+   "label": "지지됨",
+   "evidence": "본문 1번 마디 자리보다 훨씬 더 많이",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Kripke1982 Wittgenstein on Rules and Private Language.md",
+  "_원자료/claude.ai/projects/크립키의 위악성/chats/2026-05-10_인계 노트의 어조 변환 도식 검토.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

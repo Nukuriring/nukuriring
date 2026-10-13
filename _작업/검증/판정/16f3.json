@@ -1,0 +1,56 @@
+{
+ "id": "16f3",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "모런은 마음을 이해의 조건에 대해 주체가 발언권을 주장하는 국면으로 본다",
+   "label": "부분 지지",
+   "evidence": "Perhaps we should say that",
+   "note": "원문은 'Perhaps we should say ... or where the phenomenon...'로 시험적 제안이고 대안이 병기됨. 제목은 단정."
+  },
+  {
+   "n": 1,
+   "text": "누구도 자기 살과 피와 뼈가 어떻게 알려지길 요구하는지 관점을 주장하지 않는다(p.253)",
+   "label": "지지됨",
+   "evidence": "maintains a perspective on how his",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "혈액 연구자는 최선의 설명 체계를 쓰고 아무도 발언권을 주장하지 않는다",
+   "label": "지지됨",
+   "evidence": "no one will claim any particular say",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "마음이 발언권을 주장하는 국면이거나 자기 이해를 포함하는 경우일 수 있다(p.254)",
+   "label": "지지됨",
+   "evidence": "includes an understanding of itself",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "실재적 구별이 구성적 역할 물음으로 귀착할지 모르며 'any place in the world...'",
+   "label": "지지됨",
+   "evidence": "It may be that the Real Distinction",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "Claude 보고: 모런이 자기 반론을 세웠다 닫고 recalcitrance라 부른다(p.253)",
+   "label": "지지됨",
+   "evidence": "some physical objects do have a say",
+   "note": "카드가 대화 속 설명으로 표시."
+  }
+ ],
+ "sources_used": [
+  "문헌/@Moran2011 Cavell on Outsiders and Others.md",
+  "_원자료/claude.ai/chats/2026-07-07_Epistemological limits and the outsider perspective.md (393행, 603행)"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

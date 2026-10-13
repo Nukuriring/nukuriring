@@ -1,0 +1,77 @@
+{
+ "id": "17j4",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "오류의 여지가 만드는 보호대에는 알 수 없는 참이 있다",
+   "label": "지지됨",
+   "evidence": "that is an unknowable truth",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "변별 능력이 제한되면 앎은 오류의 여지를 요구한다",
+   "label": "지지됨",
+   "evidence": "knowledge requires a margin for error",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "알 수 있는 영역과 거짓 영역 사이에 참이나 알 수 없는 경계 지대",
+   "label": "지지됨",
+   "evidence": "a border zone in which p is true",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "앎의 반복과 공통 지식이 어렵고 예기치 못한 시험의 역설을 설명",
+   "label": "지지됨",
+   "evidence": "Paradox of the Unexpected Examination",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "참이 정당한 주장 가능성을 넘어서 반실재론과 맞서며 'Our ignorance...'",
+   "label": "지지됨",
+   "evidence": "Our ignorance is a precondition",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "보호대의 'p이고 알려지지 않았다'는 알 수 없는 참",
+   "label": "지지됨",
+   "evidence": "it is impossible to know that p is true",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "피치가 1963년 처음 발표, 모든 참이 알 수 있으면 모두 알려져 있다",
+   "label": "지지됨",
+   "evidence": "first published by Fitch in 1963",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "같은 형식이 참으로 만드는 행위에도 적용된다고 보고",
+   "label": "부분 지지",
+   "evidence": "On at least one interpretation",
+   "note": "원문은 'On at least one interpretation'으로 한정했는데 카드는 단정."
+  },
+  {
+   "n": 8,
+   "text": "세계 대부분이 통제와 앎 밖에 있고 마음은 세계의 중심에 있지 않다",
+   "label": "지지됨",
+   "evidence": "mind is not central to world",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Williamson2000 Knowledge and Its Limits.md",
+  "_원자료/claude.ai/projects/크립키의 위악성/docs/Everyone by nature desires to know..txt.md (63-77행)"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

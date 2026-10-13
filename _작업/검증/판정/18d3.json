@@ -1,0 +1,64 @@
+{
+ "id": "18d3",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "WoR에서 blindly는 역설의 어둠에서 일상의 자신감으로 가치가 뒤집힌다",
+   "label": "지지됨",
+   "evidence": "한 단어의 가치 부호가 뒤집힌다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "회의론자 도입 대목에는 이 낱말이 아직 없다",
+   "label": "지지됨",
+   "evidence": "blindly는 아직 등장 안 함",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "p.17에서 stab in the dark에 이은 회의적 결론의 마지막 낱말로 처음 나온다",
+   "label": "지지됨",
+   "evidence": "회의적 결론의 마지막 단어",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "pp.86-87에서 unhesitatingly, but과 묶여 정상적 자세를 묘사",
+   "label": "지지됨",
+   "evidence": "unhesitatingly와 but로 묶인 채",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "§219의 symbolically나 mythological 같은 자기 표시는 두 자리에 없다",
+   "label": "지지됨",
+   "evidence": "두 자리 어디에도 없어",
+   "note": "mythological은 PI §221의 표현(§220-221)이므로 '§219에서'는 느슨한 표현."
+  },
+  {
+   "n": 5,
+   "text": "PI 안에서도 blindly가 §289 등에서 자연스러운 자세로 돌아오는 운동이 있어 충실히 따랐을 수 있다",
+   "label": "지지됨",
+   "evidence": "PI의 그 운동을 따른 것일 수도",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "각주 75의 자기 의식 표시는 시연을 시연으로 표시하지 않는다는 가설과 어긋난다",
+   "label": "지지됨",
+   "evidence": "(β′)에 대한 내적 긴장",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Kripke1982 Wittgenstein on Rules and Private Language.md",
+  "문헌/@Wittgenstein1953 Philosophical Investigations.md",
+  "_원자료/claude.ai/projects/크립키의 위악성/chats/2026-05-10_인계 노트의 어조 변환 도식 검토.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

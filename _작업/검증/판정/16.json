@@ -1,0 +1,65 @@
+{
+ "id": "16",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "카벨은 완전주의를 모든 도덕적 사유에 들어 있는 한 차원으로 본다",
+   "label": "지지됨",
+   "evidence": "a dimension of any moral thinking",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "『CHU』를 'Is Moral Perfectionism inherently elitist?'로 시작(p.1)",
+   "label": "지지됨",
+   "evidence": "Is Moral Perfectionism inherently elitist?",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "롤스의 에머슨식 완전주의 기각, 에머슨의 안에서의 민주주의 비판(p.3)",
+   "label": "지지됨",
+   "evidence": "민주주의를 안에서 비판하는 데 본질적",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "도달한 자아의 불만과 도달 가능한 자아로 돌아섬(p.8, p.57)",
+   "label": "지지됨",
+   "evidence": "unattained but attainable self",
+   "note": "내용은 독해 지도·문헌 노트가 지지하나 p.8이라는 쪽수는 보관함 자료로 대조하지 못함."
+  },
+  {
+   "n": 4,
+   "text": "닫힌 특징 목록이 없고 'outlook or dimension of thought'(p.4)",
+   "label": "지지됨",
+   "evidence": "outlook or dimension of thought",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "p.62: 'not a competing moral theory but a dimension of any moral thinking'",
+   "label": "부분 지지",
+   "evidence": "a dimension of any moral thinking",
+   "note": "p.62의 'a dimension of any moral thinking'만 문헌 노트에서 확인. 인용 앞부분 'not a competing moral theory but'은 보관함 전체 grep 0건이라 글자 일치를 대조하지 못함(OCR 원문은 보관함 밖)."
+  },
+  {
+   "n": 6,
+   "text": "세 강연이 사유의 방식, 회의주의와 일상, 민주적 동의를 차례로 다룬다",
+   "label": "지지됨",
+   "evidence": "consent from above",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Cavell1990 Conditions Handsome and Unhandsome.md",
+  "_원자료/로컬/Reading COH/notes/lecture-1_aversive-thinking_map.md",
+  "_원자료/로컬/Reading COH/reading-log.md"
+ ],
+ "sources_missing": [],
+ "note": "연결 절의 '강연 3이 서론의 물음에 대한 마지막 답'은 Claude의 해석이며 출처에 직접 서술 없음(판정 대상 아님).",
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

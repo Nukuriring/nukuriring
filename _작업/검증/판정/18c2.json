@@ -1,0 +1,56 @@
+{
+ "id": "18c2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "크립키는 타르스키의 결과를 고전 논리 안에서 성립하는 정리로 해석한다",
+   "label": "지지됨",
+   "evidence": "there are only theorems",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "각주 9: 정통적 접근 = 고전 양화 이론, 모든 술어 전체 정의",
+   "label": "지지됨",
+   "evidence": "totally defined on the range",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "'On my interpretation, there are no prohibitions; there are only theorems'",
+   "label": "지지됨",
+   "evidence": "there are no prohibitions; there are",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "괴델과 타르스키 결과는 전부 정의된 고전 언어 제약에서 나온다",
+   "label": "지지됨",
+   "evidence": "None of this came from any a priori",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "각주 13: 마틴이 공격하는 것은 'strawmannish version'",
+   "label": "지지됨",
+   "evidence": "strawmannish version of the orthodox",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "(4)(5)에 대해 'difficult to accommodate these intuitions'(§II)",
+   "label": "지지됨",
+   "evidence": "difficult to accommodate these intuitions",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Kripke2011 Philosophical Troubles.md",
+  "_원자료/claude.ai/projects/크립키의 위악성/chats/2026-05-10_Tarski hierarchy 인용의 위치 결정 방식.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
