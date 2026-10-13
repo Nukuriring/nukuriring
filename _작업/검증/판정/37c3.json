@@ -1,0 +1,63 @@
+{
+ "id": "37c3",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "프리커는 PR 논제의 초월적 논증을 재구성하고 둘째 전제를 거짓으로 보이려 한다",
+   "label": "지지됨",
+   "evidence": "showing its second premise",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "PR 논제 논증은 언어의 본성에서 나오는 긍정적 논증과 부정적 논증으로 나뉜다",
+   "label": "지지됨",
+   "evidence": "the positive arguments from the essential",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "부정적 논증은 초월적 논증이며 (1)~(4)로 진행된다",
+   "label": "지지됨",
+   "evidence": "a transcendental argument which runs",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "(2) 일반적으로 청자가 화자 신뢰성의 독립적 확인을 얻는 것은 가능하지 않다",
+   "label": "지지됨",
+   "evidence": "It is not, generally speaking, possible",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "상식을 보존하는 일이 모든 증언 인식론의 제약이라는 데 동의하므로 첫 전제를 거부하지 않는다",
+   "label": "지지됨",
+   "evidence": "This is not my strategy",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "논문은 둘째 전제 NC가 거짓임을 보여 초월적 논증을 멈추는 데 바쳐진다(pp.127–128)",
+   "label": "지지됨",
+   "evidence": "devoted to stopping the transcendental",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "프리커는 이 논증에 각주 4를 다는데 발췌에는 각주 내용이 없다",
+   "label": "지지됨",
+   "evidence": "right to trust.4",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/claude.ai/chats/2026-05-20_Hume's circular reasoning on testimony and experience.md",
+  "문헌/@Fricker1994 Against Gullibility.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

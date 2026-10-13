@@ -1,0 +1,56 @@
+{
+ "id": "37c4",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "프리커는 정당화주의 지식관 아래에서 증언의 특수성을 요구되는 정당화의 종류로 읽는다",
+   "label": "지지됨",
+   "evidence": "what kind of justification is required",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "특수한 원천이라는 말이 여러 뜻을 가질 수 있고, 일반 지식관의 예외라는 뜻으로 받아들이지 않는다",
+   "label": "지지됨",
+   "evidence": "could mean many things",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "지식이 다른 방식으로 얻어져도 한 종류임을 보이는 일이 개념 설명의 적합성 조건",
+   "label": "지지됨",
+   "evidence": "is an adequacy condition on an account",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "포괄적 지식관은 인과론이나 신빙론일 수도 있으나 프리커는 정당화주의를 택한다",
+   "label": "지지됨",
+   "evidence": "But I favour a justificationist",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "정당화주의: 주체가 자기 믿음을 적절히 옹호할 수 있음이 지식의 필요조건",
+   "label": "지지됨",
+   "evidence": "able to defend her belief appropriately",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "환원 불가능한 원천이라는 주장은 요구되는 정당화 종류에 관한 주장이며 반례가 아니다. PR 논제가 그런 주장(pp.126–127)",
+   "label": "지지됨",
+   "evidence": "The PR thesis is such a claim",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/claude.ai/chats/2026-05-20_Hume's circular reasoning on testimony and experience.md",
+  "문헌/@Fricker1994 Against Gullibility.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

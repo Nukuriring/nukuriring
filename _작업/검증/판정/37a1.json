@@ -1,0 +1,64 @@
+{
+ "id": "37a1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "코디에 따르면 흄의 기적 논증은 경험을 인류의 공동 경험으로 읽어야 성립한다",
+   "label": "지지됨",
+   "evidence": "the common experience of mankind",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "흄은 constant and regular conjunction 같은 구절로 흔히 인류의 공동 경험을 가리킨다",
+   "label": "지지됨",
+   "evidence": "Hume often means by such phrases",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "증언 제도에 대한 신뢰는 자연법칙 신뢰와 같은 기반이며 기적 비판의 중요한 전제",
+   "label": "지지됨",
+   "evidence": "an important premiss in his critique",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "건강해 보이던 사람의 급사는 기적이 아니고 죽은 이의 소생은 never been observed라 기적(p.115)",
+   "label": "지지됨",
+   "evidence": "never been observed in any age",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "흄이 그런 급사를 직접 관찰했을 가능성은 낮다",
+   "label": "지지됨",
+   "evidence": "it is quite likely that Hume",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "uniform experience와 observed in any age or country가 공동 경험 독해를 확정",
+   "label": "지지됨",
+   "evidence": "the point is surely clinched",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "자연법칙 설명의 타당성과 선결문제 요구는 코디가 여기서 문제 삼지 않고 넘어간다",
+   "label": "지지됨",
+   "evidence": "We may ignore, for our purposes",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/claude.ai/chats/2026-05-20_Hume's circular reasoning on testimony and experience.md",
+  "문헌/@Coady1992 Testimony.md",
+  "문헌/@Hume1748 Of Miracles.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

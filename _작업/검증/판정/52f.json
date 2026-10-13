@@ -1,0 +1,57 @@
+{
+ "id": "52f",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "정체성이 연대의 전제인지를 두고 세 글은 하나의 흐름을 이룬다",
+   "label": "연결",
+   "evidence": "",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "세 필기는 여성주의 연대가 공통의 정체성을 필요로 하는가를 함께 다룬다",
+   "label": "연결",
+   "evidence": "",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "리건은 동질적 방과 연합을 구별하고 연합이 불편하고 위험하다고 말한다",
+   "label": "지지됨",
+   "evidence": "not to confuse them—home and coalition",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "모한티는 보편적 자매애가 제국주의·계급 차이를 지운다 비판, 연대는 역사 속에서 쟁취",
+   "label": "지지됨",
+   "evidence": "제국주의의 결과와 역사를 지우고",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "와이어: 범주에서 동일시로 옮기면 모한티·리건의 통찰을 지키며 정동적·윤리적 바탕 설명",
+   "label": "지지됨",
+   "evidence": "affective, ethical, existential ground",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "연대의 바탕이 범주 소속에서 함께하려는 지향과 서로를 배우는 동일시로 이동",
+   "label": "연결",
+   "evidence": "",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "…/사회철학연습_0423/Coalition Politics Turning the Century 1dd97cdd867e80bf8433f7df4dd66cd5.md",
+  "…/사회철학연습_0423/SIsterhood, Coalition, and the politics of Experie 1dd97cdd867e801f80a1fea19625bfe0.md",
+  "…/사회철학연습_0423/Global Feminism and Transformative Identity politi 1dd97cdd867e80f699e2c571cbed219f.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

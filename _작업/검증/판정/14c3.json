@@ -1,0 +1,62 @@
+{
+ "id": "14c3",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "코디에 따르면 보고의 종류는 화자 종류로도 상황 종류로도 비자의적으로 정해지지 않는다",
+   "label": "지지됨",
+   "evidence": "purely a matter of whim",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "개인 관찰 해석 옹호자는 종류 단위로 잡으면 개인이 감당할 검증량이 된다고 응수할 수 있다",
+   "label": "지지됨",
+   "evidence": "This cuts down the amount of observing",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "인과 법칙의 두 항은 대상의 종류인데 보고의 종류가 무엇인지 흄은 설명하지 않았다",
+   "label": "지지됨",
+   "evidence": "Hume does nothing to provide",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "화자 종류로 읽으면 전문가 여부는 살펴보기로 알 수 없고, 증언이면 퇴행, 상관 관찰이면 이미 알아야 함",
+   "label": "지지됨",
+   "evidence": "mere inspection",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "상황 종류로 읽으면 분류의 일반성 정도가 문제가 된다",
+   "label": "지지됨",
+   "evidence": "degree of generality",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "사자 보고를 존재 보고로 분류하면 많은 결합이 있어도 이유가 못 되고 의료 보고로 분류하면 거부 이유가 못 된다",
+   "label": "지지됨",
+   "evidence": "There is a Martian in my study",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "두 분류가 모두 허용되므로 수용할 이유가 있는지는 변덕의 문제",
+   "label": "지지됨",
+   "evidence": "Since either classification is logically",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/claude.ai/chats/2026-05-11_Reductionist thesis and the circularity of testimony.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

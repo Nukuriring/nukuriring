@@ -1,0 +1,49 @@
+{
+ "id": "37c2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "프리커는 PR 논제를 화자들이 대개 참을 말한다는 기술적 전제와 구별한다",
+   "label": "지지됨",
+   "evidence": "not to be confused with a descriptive",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "기술적 전제를 일차 정당화에 인용하는 견해는 PR 논제와 전혀 다른 견해",
+   "label": "지지됨",
+   "evidence": "a quite different view",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "그 견해는 증언 지식을 귀납 기반 추론 지식의 평범한 사례로 환원하는 견해",
+   "label": "지지됨",
+   "evidence": "ordinary case of inductively based",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "기술적 전제는 경험적 사실이든 선험적 개념적 진리든 PR 논제의 철학적 논증에 쓰일 수 있다",
+   "label": "지지됨",
+   "evidence": "might be invoked in an attempted",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "철학적 논증에 쓰이는 일과 청자가 알고 인용해야 할 전제에 드는 일은 전혀 다른 일(p.127)",
+   "label": "지지됨",
+   "evidence": "This is entirely different",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/claude.ai/chats/2026-05-20_Hume's circular reasoning on testimony and experience.md",
+  "문헌/@Fricker1994 Against Gullibility.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

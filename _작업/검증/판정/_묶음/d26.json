@@ -1,0 +1,285 @@
+{
+  "model": "sonnet",
+  "date": "2026-10-13",
+  "cards": [
+    {
+      "id": "52e13b", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "해석적 인격론은 귀속 오류와 행위 주체성과 가치의 긴장으로 갈등 악화…", "label": "지지됨", "evidence": "갈등의 가속 및 갑작스러운 눈뜸 현상은", "note": ""},
+        {"n": 1, "text": "책의 문제 제기는 대인 갈등이 왜 점점 더 개인적으로 악화되는가", "label": "지지됨", "evidence": "점점 더 퍼스널하게 악화되는가", "note": ""},
+        {"n": 2, "text": "인격 판단은 신호와 잡음 구분에 의존하고 해석이라 오류 불가피", "label": "지지됨", "evidence": "귀속 판단은 해석적이어서 오류가 필연적", "note": ""},
+        {"n": 3, "text": "신호 과잉 투사와 잡음 과잉 투사가 오독을 낳아 갈등 증폭", "label": "지지됨", "evidence": "갈등은 잘못된 귀속 판단에 의해 증폭", "note": ""},
+        {"n": 4, "text": "행위 주체성과 도덕적 가치 두 축은 긴장 관계에 있다", "label": "부분 지지", "evidence": "둘은 종종 긴장관계", "note": "원문은 '종종'이라고 한정함. 카드는 '긴장 관계에 있으며'로 단정."},
+        {"n": 5, "text": "비슷한 증거에서 좋은 사람+큰 제약 / 나쁜 사람+높은 행위력 두 해석이 정합적", "label": "지지됨", "evidence": "비슷한 증거에서도 정합적으로 도출", "note": ""},
+        {"n": 6, "text": "관계 초기에는 자선 규범이 작동해 작은 부정 신호를 잡음으로 판정", "label": "부분 지지", "evidence": "관계 초기엔 통상 자선-규범이 작동", "note": "원문은 '통상'이라고 한정함. 카드는 '작동해'로 단정."},
+        {"n": 7, "text": "부정 신호 누적 시 해석 유지 비용 급증, 임계점에서 전환적 발견", "label": "지지됨", "evidence": "해석 전환 임계점 발생", "note": ""},
+        {"n": 8, "text": "악의적 행위자가 행위 제약 서사로 자선 규범을 악용해 잡음 과잉 투사 유도", "label": "지지됨", "evidence": "자선-규범을 남용 → noise 과잉 투사를 유도", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/사회철학연습/interpretive account of person 1e597cdd867e808daf25e0cb5627f129.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "52e11", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "노트는 정체성을 유지 보수 가능한 유동적 객체로 보는 통합 테제를 내고…", "label": "지지됨", "evidence": "사회 정체성은 유지보수 가능한 객체이다", "note": ""},
+        {"n": 1, "text": "콩의 권력 항해 모델과 유동적 객체는 둘 다 실천 기반 존재론", "label": "지지됨", "evidence": "존재는 수행(practice)에 의해 드러남", "note": ""},
+        {"n": 2, "text": "합친 테제: 권력 조건 속에서 유동적으로 구성되고 수리·관리되어야 하는 객체", "label": "지지됨", "evidence": "지속적으로 수리되고 관리되어야 하는 유동적 객체", "note": ""},
+        {"n": 3, "text": "주체는 정체성을 살아간다기보다 지속 가능하게 만들고 유지 보수한다", "label": "지지됨", "evidence": "지속 가능하게 만들고 유지보수한다", "note": ""},
+        {"n": 4, "text": "콩의 사례(나라얀, 오르테가의 파올라, 지영, 야프)를 유지 보수 관점에서 다시 읽는다", "label": "지지됨", "evidence": "reinterpreted under the fluid object model", "note": ""},
+        {"n": 5, "text": "네 가지 반론: 범주 오류, 탈정치화, 실존적 불안의 기능 장애 환원, 경계 불확정", "label": "지지됨", "evidence": "정체성의 정치적 실천 가능성을 말살", "note": ""},
+        {"n": 6, "text": "마무리: 소유하는 본질이 아닌 지속 불가능한 것을 지속 가능하게 하는 실천적 구조", "label": "지지됨", "evidence": "지속 가능한 것으로 만드는 실천적 구조", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/사회철학연습/유지 보수 가능한 유동적 객체로서의 사회 정체성 1e697cdd867e805db4a5c0bfbc9c90e1.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "52f", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "정체성이 연대의 전제인지를 두고 세 글은 하나의 흐름을 이룬다", "label": "연결", "evidence": "", "note": ""},
+        {"n": 1, "text": "세 필기는 여성주의 연대가 공통의 정체성을 필요로 하는가를 함께 다룬다", "label": "연결", "evidence": "", "note": ""},
+        {"n": 2, "text": "리건은 동질적 방과 연합을 구별하고 연합이 불편하고 위험하다고 말한다", "label": "지지됨", "evidence": "not to confuse them—home and coalition", "note": ""},
+        {"n": 3, "text": "모한티는 보편적 자매애가 제국주의·계급 차이를 지운다 비판, 연대는 역사 속에서 쟁취", "label": "지지됨", "evidence": "제국주의의 결과와 역사를 지우고", "note": ""},
+        {"n": 4, "text": "와이어: 범주에서 동일시로 옮기면 모한티·리건의 통찰을 지키며 정동적·윤리적 바탕 설명", "label": "지지됨", "evidence": "affective, ethical, existential ground", "note": ""},
+        {"n": 5, "text": "연대의 바탕이 범주 소속에서 함께하려는 지향과 서로를 배우는 동일시로 이동", "label": "연결", "evidence": "", "note": ""}
+      ],
+      "sources_used": ["…/사회철학연습_0423/Coalition Politics Turning the Century 1dd97cdd867e80bf8433f7df4dd66cd5.md", "…/사회철학연습_0423/SIsterhood, Coalition, and the politics of Experie 1dd97cdd867e801f80a1fea19625bfe0.md", "…/사회철학연습_0423/Global Feminism and Transformative Identity politi 1dd97cdd867e80f699e2c571cbed219f.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "52d", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "알고리즘 공정성 지표는 분배 정의에 묶여 구조적 억압·비분배적 정의를 놓친다는 비판이 영의 논의에서 나온다", "label": "부분 지지", "evidence": "most mathematical metrics", "note": "영(Young)은 카시르자데 파일에만 명시됨. kong_ai fairness에는 Young 언급이 없음(Grep 0건). 지표 전반이 아니라 대부분(most)이라는 한정도 빠짐."},
+        {"n": 1, "text": "두 논문은 수학적 지표가 재화를 집단에 나누는 분배 정의 관념에 기댄다고 본다", "label": "부분 지지", "evidence": "most mathematical metrics … rooted", "note": "카시르자데 원문은 most이며 예외(some exceptions)를 둠. 콩이 비판하는 것은 지표 일반이 아니라 PA 접근."},
+        {"n": 2, "text": "두 논문이 이에 맞서 끌어오는 자원은 영의 구조적 부정의 논의이다", "label": "부분 지지", "evidence": "pioneered … by Iris Marion Young", "note": "카시르자데는 Young을 명시. 콩은 Young을 이름으로 들지 않고 [58, pp.24-30] 인용과 structural oppression만 씀. 'Young', 'Rawls' Grep 0건."},
+        {"n": 3, "text": "카시르자데는 구조적 부정의를 알고리즘 공정성의 범위에 넣어야 하는 이유를 논한다", "label": "지지됨", "evidence": "should be included in research", "note": ""},
+        {"n": 4, "text": "콩은 속성의 교차 해석을 억압의 교차에 주목하는 해석으로 바꾸자고 제안한다", "label": "지지됨", "evidence": "intersection of oppression", "note": ""},
+        {"n": 5, "text": "두 논문이 같은 영의 틀을 쓴다는 연결은 카드 작성자가 짚은 것", "label": "연결", "evidence": "", "note": ""},
+        {"n": 6, "text": "영진은 응답 글에서 하위집단 균등 접근의 장점과 한계를 평가했다", "label": "지지됨", "evidence": "PA 접근이 가지는 장점이 분명히 있다", "note": ""}
+      ],
+      "sources_used": ["…/철학 자료 마스터/Algorithmic Fairness and Structural Injustice 35697cdd867e810daa74c5b5155cca76.md", "…/철학 자료 마스터/kong_ai fairness 35697cdd867e815b9e90e5d9bb5f5523.md", "…/철학 자료 마스터/Response_0408 35697cdd867e81f2943ce3404448ef3e.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "52e", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "영진은 정체성을 통치·생존·저항이 교차하는 장치로 읽고 고장·수리·유지 보수 어휘로 옮겨 유동적 객체 이론을 세운다", "label": "지지됨", "evidence": "통치·생존·저항이 교차하는 매개", "note": ""},
+        {"n": 1, "text": "영진의 정체성 이론은 수업 글 몇 편을 거치며 만들어진다", "label": "연결", "evidence": "", "note": ""},
+        {"n": 2, "text": "4월 29일 응답 글은 콩의 삼중 구조를 읽고 고장-수리 모델로 옮긴다", "label": "지지됨", "evidence": "고장-수리 모델’로 옮겨 보면", "note": ""},
+        {"n": 3, "text": "5월 제안서는 몰과 드 라에트의 유동적 객체로 유지 보수해야 하는 객체로 이론화", "label": "지지됨", "evidence": "identity as something one maintains", "note": ""},
+        {"n": 4, "text": "제안서가 고장-수리 모델을 유동적 객체와 연결한다는 계통", "label": "연결", "evidence": "", "note": ""},
+        {"n": 5, "text": "6월 한국어 발표문은 같은 이론으로 단편화 비판에 응답한다", "label": "지지됨", "evidence": "단편화’ 비판을 효과적으로 반박합니다", "note": ""},
+        {"n": 6, "text": "형성 과정의 대화 노트(기능·인프라·해석 LLM 정리)가 함께 쌓여 있다", "label": "연결", "evidence": "", "note": ""}
+      ],
+      "sources_used": ["…/철학 자료 마스터/Response_0429 35697cdd867e81bc8b5df53651c9adee.md", "…/철학 자료 마스터/Proposal 35697cdd867e8196ab21e6caea721044.md (수정일 2025-05-05)", "…/철학 자료 마스터/발표문 35697cdd867e81c08346da033b4d4203.md (수정일 2025-06-11)"],
+      "sources_missing": []
+    },
+    {
+      "id": "53d1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "루소는 유럽 공법이 합의 없이 가장 강한 자의 법으로만 조정된다고 진단하고 연합에 강제력과 탈퇴 불가를 요구", "label": "지지됨", "evidence": "가장 강한 자의 법으로써만 조정", "note": ""},
+        {"n": 1, "text": "공법은 합의로 제정·승인된 적 없고 일반 원칙 없고 모순된 규칙투성이", "label": "지지됨", "evidence": "합의에 의해 제정되거나 승인된 것이 절대 아니며", "note": ""},
+        {"n": 2, "text": "확실한 지침 없는 이성은 개인 이익을 추구하므로 전쟁이 불가피", "label": "지지됨", "evidence": "전쟁은 불가피하다", "note": ""},
+        {"n": 3, "text": "강제력으로 유럽을 통합하는 일은 가능하지 않다", "label": "지지됨", "evidence": "강제력에 의한 유럽 통합은 실현될 수 없다", "note": ""},
+        {"n": 4, "text": "유럽은 닫힌 계라 세력 균형이 유지, 평화는 아니나 연합의 기반", "label": "지지됨", "evidence": "일반 연합 수립의 중요한 기반", "note": ""},
+        {"n": 5, "text": "국가들이 상호 의존하므로 침략국을 집단 무력으로 처벌할 수 있다", "label": "지지됨", "evidence": "집단 안보가 가능한 상황", "note": ""},
+        {"n": 6, "text": "연합 성공 조건 두 가지: 법을 제정·강제하는 사법 기관, 탈퇴 못 할 확고한 구조", "label": "지지됨", "evidence": "마음대로 탈퇴할 수 없을 정도로", "note": ""}
+      ],
+      "sources_used": ["…/철학 자료 마스터/루소_생 피에르 35697cdd867e819288bddc78fc6a7a12.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "53k6", "voice": "종합", "verdict": "원문없음",
+      "claims": [
+        {"n": 0, "text": "SF·XSF 논의가 사회과학·인문학으로 확장될 수 있는지는 발제문이 열어 둔 물음", "label": "지지됨", "evidence": "확장될 수 있을까?", "note": ""},
+        {"n": 1, "text": "발제문은 두 가지 토의 질문으로 끝난다", "label": "지지됨", "evidence": "Discussion Questions", "note": ""},
+        {"n": 2, "text": "메이야수가 자연과학에 치중해 논의하는데 사회과학·인문학으로 확장될 수 있는가", "label": "지지됨", "evidence": "자연과학에 절대적으로 치중하여", "note": ""},
+        {"n": 3, "text": "XSF는 자연과학이 중심에 드러나되 과학적 사유의 실효성이 무너지는 과정을 보여 주어야 한다", "label": "지지됨", "evidence": "실효성이 무너지는 과정을 보여주어야", "note": ""},
+        {"n": 4, "text": "그러므로 사회과학·인문학에 옮기려면 무너지는 규칙성이 무엇인지 정해야 한다", "label": "원문에 없음", "evidence": "", "note": "발제문에 이 요구나 추론이 없음. '규칙', '법칙성', '정해' Grep 0건. 카드 작성자의 추론으로 보이며 발제문의 물음으로 귀속됨."},
+        {"n": 5, "text": "XSF 소설이 이데올로기적 의제나 바르자벨 『황폐』식 실험에 그친다는 점에서 장르 범위가 넓어질 수 있는지", "label": "지지됨", "evidence": "Ravage처럼 XSF의 개념 자체의 파격성", "note": ""},
+        {"n": 6, "text": "넓어진다면 인문학적으로 어떤 의미를 가지는지를 묻는다", "label": "지지됨", "evidence": "(인)문학적으로 어떠한 의미를 지닐까?", "note": ""},
+        {"n": 7, "text": "이 물음을 규칙과 예외를 다루는 53h의 논의와 나란히 읽을 수 있다는 제안", "label": "연결", "evidence": "", "note": ""}
+      ],
+      "sources_used": ["…/철학 자료 마스터/메이야수 발제 35697cdd867e81dabaafd27ced66dc6a.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "53l7", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "강에게 법적 인격을 주는 일은 보의 논의에 비추어 이해할 수 있고 후견인 문제는 인간의 대변 문제로 이어진다", "label": "연결", "evidence": "", "note": ""},
+        {"n": 1, "text": "53i의 보: 인격은 몸에서 분리된 추상, 법률가가 출현·종료 시점을 이익에 따라 정하고 법인에 인격성을 준 발명품", "label": "지지됨", "evidence": "법의 필요와 이익에 따라 임의로 조작", "note": ""},
+        {"n": 2, "text": "와후누이 강이 법적 인물의 권리와 의무를 갖게 되었다", "label": "지지됨", "evidence": "all the rights, powers, duties", "note": ""},
+        {"n": 3, "text": "그 인격 부여를 법인에서 이미 쓰인 법적 기술의 연장으로 읽을 수 있다", "label": "연결", "evidence": "", "note": ""},
+        {"n": 4, "text": "베넷의 물질 행위성은 인격 부여의 정당성을 따지는 존재론적 근거를 제공하려는 시도로 읽힌다", "label": "연결", "evidence": "", "note": ""},
+        {"n": 5, "text": "강에게 후견인이 배정되어 강을 대변한다", "label": "지지됨", "evidence": "강에게는 후견인이 배정", "note": ""},
+        {"n": 6, "text": "후견인 구조는 인판스 콘셉투스·실종자에게 대리인을 두는 구조와 같다", "label": "연결", "evidence": "", "note": ""},
+        {"n": 7, "text": "인격의 후견인 문제는 인간의 대변 문제로 이어진다", "label": "지지됨", "evidence": "누가 이 비인간을 인간적 법리로 대변", "note": ""}
+      ],
+      "sources_used": ["…/철학 자료 마스터/신도현_제인 베넷_생동하는 물질 발제 35697cdd867e81a98c80d775de60fa0b.md", "…/철학 자료 마스터/도둑맞은 손 발제 35697cdd867e81b5bbddc35808e34b1f.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "53j", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "필기는 편지 공화국을 국경과 정부가 없고 지식의 질로 평가되는 학자들의 자발적 공동체로 서술하며 평등 이상과 경쟁 현실이 함께 있었다고 본다", "label": "지지됨", "evidence": "학자들의 자발적 공동체", "note": ""},
+        {"n": 1, "text": "편지 공화국은 국경·정부·수도가 없는 독특한 땅이고 거의 모두가 라틴어와 프랑스어를 썼다", "label": "지지됨", "evidence": "국경이 없었고, 정부도 없었으며, 수도도 없었다", "note": ""},
+        {"n": 2, "text": "유럽 최초의 평등사회를 자처했지만 경쟁하는 추잡한 현실 때문에 이상이 늘 실현되지는 않았다", "label": "지지됨", "evidence": "항상 실현된 것은 아니었다", "note": ""},
+        {"n": 3, "text": "시민들은 편지 쓰고 보내는 일을 도덕적 의무로 보았고 편지는 경계로 나뉜 사람들에게 연민과 사랑을 전하는 수단", "label": "부분 지지", "evidence": "많은 시민이 … 도덕적 의무로 보았다", "note": "원문은 '많은 시민'. 카드는 '시민들은'으로 범위 한정이 빠짐."},
+        {"n": 4, "text": "처음의 편지 공화국은 계급과 무관하게 작품의 질로 가치가 정해지는 지식 시장을 뜻했다", "label": "부분 지지", "evidence": "적어도 이론적으로는", "note": "원문은 '적어도 이론적으로는'이라고 한정함. 카드는 이 한정 없이 단정."},
+        {"n": 5, "text": "생각이 다른 사람들의 가상 공동체를 이루고 자유시장에서 행실을 판단할 예법을 세웠다", "label": "지지됨", "evidence": "행실을 판단하는 데 사용할 수 있는 예법", "note": ""}
+      ],
+      "sources_used": ["…/철학 자료 마스터/저자는 유럽 근대 초 지식 사회의 변화와 특징의 어떤 측면에 주목했는가 35697cdd867e81ef839df1e0b3eb63cd.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "53b4", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "티베는 홉스가 국가 사이 주권 없어 평화 원칙 적용이 어려워도 자연법과 관습을 행동의 안내로 인정했다고 읽는다", "label": "지지됨", "evidence": "자연법과 관습이 국가 간의 행동을 안내할 수 있는", "note": ""},
+        {"n": 1, "text": "티베는 홉스가 평화 원칙을 국가 간 관계에 적용하는 데 어려움을 겪는다고 본다", "label": "지지됨", "evidence": "적용하는 데 어려움을 겪는다", "note": ""},
+        {"n": 2, "text": "국제적 주권이 없어 국가는 힘과 속임수가 전쟁의 두 기본 덕목인 상태", "label": "지지됨", "evidence": "힘과 속임수는 전쟁의 두 가지 기본 덕목", "note": ""},
+        {"n": 3, "text": "홉스는 자연법과 관습이 국가 사이 행동을 안내하는 원칙으로 작용할 수 있다고 인정", "label": "지지됨", "evidence": "원칙으로 작용할 수 있음을 인정", "note": ""},
+        {"n": 4, "text": "묵시적 규범과 국가 간 합의 인정은 무정부 체제에서도 협력 가능성을 열어 둔 것으로 해석", "label": "지지됨", "evidence": "협력의 가능성을 열어두었음을 시사", "note": ""},
+        {"n": 5, "text": "이 대목은 개인 사이 자연 상태 논의를 국가 사이로 옮길 때 생기는 문제를 보여 준다", "label": "부분 지지", "evidence": "개인 간 관계와 국가 간 관계 간의 불연속성", "note": "이 취지는 티베 부분이 아니라 아비자데 절의 서술임. 티베 부분은 평화 원칙의 국가 간 적용의 어려움만 말함. 다른 저자의 논지가 섞임."}
+      ],
+      "sources_used": ["…/철학 자료 마스터/홉스 논문 정리 35697cdd867e81ce9ec5e5440010e797.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "53", "voice": "종합", "verdict": "판단불가",
+      "claims": [
+        {"n": 0, "text": "필기는 질서가 무엇에 기대어 서는지를 묻고 인간이 기준이라는 전제를 되짚는다", "label": "연결", "evidence": "", "note": ""},
+        {"n": 1, "text": "이 묶음은 정치·법·지식·사물을 다룬 영진의 수업 필기와 발제를 모았다(필기 22편)", "label": "판단 불가", "evidence": "", "note": "개관 카드로 sources가 비어 있고 출처 절이 가지 카드에 위임됨. 지정된 출처가 없어 판정 불가."},
+        {"n": 2, "text": "홉스·루소·칸트의 글은 국가들이 전쟁 상태일 때 평화가 무엇에 기대어 설 수 있는지를 묻는다", "label": "판단 불가", "evidence": "", "note": "루소(국가 간 전쟁 상태의 모순과 연방)와 홉스 정리는 방향이 맞으나 칸트 출처는 지정되지 않음. 가지 카드 대조 필요."},
+        {"n": 3, "text": "다스턴 규칙사와 『도둑맞은 손』 법제사는 명시적 규칙·법적 분류가 암묵적 규범과 오랜 구분에 의존하는 과정을 보여 준다", "label": "판단 불가", "evidence": "", "note": "다스턴 출처 없음. 도둑맞은 손 발제는 인격-몸 구분의 로마법 역사를 다루나 '암묵적 규범' 표현은 확인 못 함."},
+        {"n": 4, "text": "베넷·메이야수·환경위기 답안은 인간을 모든 의미의 기준으로 놓는 전제를 문제 삼는다", "label": "판단 불가", "evidence": "", "note": "베넷 발제의 인간중심 이분법 비판은 확인. 메이야수·환경위기 답안은 이 틀로 귀속되는지, 환경위기 답안은 출처 미지정."},
+        {"n": 5, "text": "영진의 유동적 객체 발표문, 로크 본유 원리 비판, 보일·래빈의 좋음 논제는 앎과 행위의 구조를 따로 다룬다", "label": "판단 불가", "evidence": "", "note": "지정 출처 없음(로크, 보일·래빈 미지정)."},
+        {"n": 6, "text": "이 연결은 카드 작성자의 해석이며 필기들이 서로를 직접 인용하지는 않는다", "label": "연결", "evidence": "", "note": ""}
+      ],
+      "sources_used": [],
+      "sources_missing": ["53: 개관 카드, 출처 절이 가지 카드로 위임되어 지정 출처 없음"]
+    },
+    {
+      "id": "14h1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "버지에 따르면 자격을 무효화하는 조건과 자격의 정당화 힘은 본성이 다르다", "label": "지지됨", "evidence": "무효화 조건의 본성과 초기 정당화 힘의 본성", "note": ""},
+        {"n": 1, "text": "환각을 밝혀도 수학 정당화는 남지만 대화 상대의 말을 환각했다 믿으면 자격이 무너진다", "label": "지지됨", "evidence": "자격은 무너진다", "note": ""},
+        {"n": 2, "text": "그래서 수학에서 지각은 촉발자, 대화에서 지각은 정당화자라고 결론짓는다", "label": "지지됨", "evidence": "지각은 촉발자(trigger)이지만", "note": ""},
+        {"n": 3, "text": "버지는 전제는 인정하되 결론은 부정한다고 응수한다", "label": "지지됨", "evidence": "I grant the premises, but deny", "note": ""},
+        {"n": 4, "text": "환각의 발견은 이해가 일어나지 않았음을 보일 뿐이고, 이해의 지각 의존과 정당화 힘의 지각 기여는 다른 문제", "label": "지지됨", "evidence": "이해가 일어나지 않았음을 보여줄 뿐", "note": ""},
+        {"n": 5, "text": "무효화 가능하면 자격도 경험적이라는 가정은 무효화 조건과 초기 정당화 힘의 본성을 혼동", "label": "지지됨", "evidence": "그 자격 자체가 경험적이다", "note": ""},
+        {"n": 6, "text": "수학적 직관도 뇌와 보존 기억에 의존하지만 정당화 힘을 뇌 상태에서 얻지는 않는다", "label": "지지됨", "evidence": "뇌의 상태로부터 정당화 힘을 얻는다", "note": ""},
+        {"n": 7, "text": "정상적 대화의 이해는 인식적으로 즉각적이며 무의식적 추론 상정은 심리학과 인식론을 혼동", "label": "지지됨", "evidence": "이해는 인식적으로 즉각적", "note": ""}
+      ],
+      "sources_used": ["문헌/@Burge1997 Interlocution, Perception, and Memory.md", "_원자료/claude.ai/chats/2026-05-07_논문의 장별 구체 논증 요약.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "14c2", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "코디에 따르면 개인 관찰로 읽은 환원주의는 누구도 하지 않은 현장 검증을 요구한다", "label": "부분 지지", "evidence": "made them for us", "note": "원문은 many/most of us가 하지 않았다고 하며 'Some people have of course made them for us'라 함. 제목의 '누구도'는 과장."},
+        {"n": 1, "text": "매키는 공동 경험 해석이 통하지 않음을 알고 신빙성 확인이 결국 아는 이 자신의 관찰로 돌아와야 한다고 본다", "label": "지지됨", "evidence": "we must come back at some stage", "note": ""},
+        {"n": 2, "text": "코디는 흄을 대신해 공동 경험 의존을 거두고 개인 관찰 해석(RT′)으로 정식화", "label": "지지됨", "evidence": "retract his incautious commitment", "note": ""},
+        {"n": 3, "text": "코디는 이 테제가 plainly false라고 본다", "label": "지지됨", "evidence": "RT′ is plainly false", "note": ""},
+        {"n": 4, "text": "우리 대부분은 출산을 본 적이 없고, 혈액 순환·지리·법률 표본·천체 관찰도 하지 않았다", "label": "부분 지지", "evidence": "many of us have never seen", "note": "원문은 출산은 'many of us', 나머지는 'most of us'. 카드는 출산까지 '대부분'으로 통일함."},
+        {"n": 5, "text": "다른 사람이 대신 관찰했다는 사실은 위안이 못 되고 끌어들이면 공동 경험 해석으로 돌아간다", "label": "지지됨", "evidence": "precluded from taking any solace", "note": ""},
+        {"n": 6, "text": "코디는 이 목록을 개인적 대조 없이 정당하게 증언을 받아들이는 영역들의 전형으로 의도", "label": "지지됨", "evidence": "The list was supposed to be typical", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-11_Reductionist thesis and the circularity of testimony.md", "문헌/@Coady1992 Testimony.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "14c3", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "코디에 따르면 보고의 종류는 화자 종류로도 상황 종류로도 비자의적으로 정해지지 않는다", "label": "지지됨", "evidence": "purely a matter of whim", "note": ""},
+        {"n": 1, "text": "개인 관찰 해석 옹호자는 종류 단위로 잡으면 개인이 감당할 검증량이 된다고 응수할 수 있다", "label": "지지됨", "evidence": "This cuts down the amount of observing", "note": ""},
+        {"n": 2, "text": "인과 법칙의 두 항은 대상의 종류인데 보고의 종류가 무엇인지 흄은 설명하지 않았다", "label": "지지됨", "evidence": "Hume does nothing to provide", "note": ""},
+        {"n": 3, "text": "화자 종류로 읽으면 전문가 여부는 살펴보기로 알 수 없고, 증언이면 퇴행, 상관 관찰이면 이미 알아야 함", "label": "지지됨", "evidence": "mere inspection", "note": ""},
+        {"n": 4, "text": "상황 종류로 읽으면 분류의 일반성 정도가 문제가 된다", "label": "지지됨", "evidence": "degree of generality", "note": ""},
+        {"n": 5, "text": "사자 보고를 존재 보고로 분류하면 많은 결합이 있어도 이유가 못 되고 의료 보고로 분류하면 거부 이유가 못 된다", "label": "지지됨", "evidence": "There is a Martian in my study", "note": ""},
+        {"n": 6, "text": "두 분류가 모두 허용되므로 수용할 이유가 있는지는 변덕의 문제", "label": "지지됨", "evidence": "Since either classification is logically", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-11_Reductionist thesis and the circularity of testimony.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "37a1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "코디에 따르면 흄의 기적 논증은 경험을 인류의 공동 경험으로 읽어야 성립한다", "label": "지지됨", "evidence": "the common experience of mankind", "note": ""},
+        {"n": 1, "text": "흄은 constant and regular conjunction 같은 구절로 흔히 인류의 공동 경험을 가리킨다", "label": "지지됨", "evidence": "Hume often means by such phrases", "note": ""},
+        {"n": 2, "text": "증언 제도에 대한 신뢰는 자연법칙 신뢰와 같은 기반이며 기적 비판의 중요한 전제", "label": "지지됨", "evidence": "an important premiss in his critique", "note": ""},
+        {"n": 3, "text": "건강해 보이던 사람의 급사는 기적이 아니고 죽은 이의 소생은 never been observed라 기적(p.115)", "label": "지지됨", "evidence": "never been observed in any age", "note": ""},
+        {"n": 4, "text": "흄이 그런 급사를 직접 관찰했을 가능성은 낮다", "label": "지지됨", "evidence": "it is quite likely that Hume", "note": ""},
+        {"n": 5, "text": "uniform experience와 observed in any age or country가 공동 경험 독해를 확정", "label": "지지됨", "evidence": "the point is surely clinched", "note": ""},
+        {"n": 6, "text": "자연법칙 설명의 타당성과 선결문제 요구는 코디가 여기서 문제 삼지 않고 넘어간다", "label": "지지됨", "evidence": "We may ignore, for our purposes", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-20_Hume's circular reasoning on testimony and experience.md", "문헌/@Coady1992 Testimony.md", "문헌/@Hume1748 Of Miracles.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "15f", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "프리커가 옹호하는 국소 환원주의는 흄 해석과 별개인 그녀 자신의 입장이다", "label": "지지됨", "evidence": "자신의 입장으로 옹호할 뿐", "note": ""},
+        {"n": 1, "text": "프리커는 국소 환원주의를 이 논문에서 논증하는 자신의 입장이라 부르고 흄 해석으로 제시하지 않는다", "label": "지지됨", "evidence": "I argue for in this paper", "note": ""},
+        {"n": 2, "text": "그녀의 작업은 흄을 구하기보다 환원주의적 전략을 코디의 비판에서 구하는 일로 읽힌다(대화 속 설명)", "label": "지지됨", "evidence": "구제하는 것은 환원주의적 전략", "note": ""},
+        {"n": 3, "text": "구별로 흄을 옹호하는 두 갈래: 흄의 요구를 국소로 읽는 길 / 전역적 흄은 무너지나 국소 환원은 살아남는 길", "label": "지지됨", "evidence": "갈래 1 (관대한 해석)", "note": ""},
+        {"n": 4, "text": "앞의 길에서도 프리커가 흄을 국소 환원주의자로 해석한다고 단정하지 않고 구별을 흄에게 적용한다고 써야 정확", "label": "지지됨", "evidence": "구별을 흄에게 적용하면", "note": ""},
+        {"n": 5, "text": "흄을 국소 환원주의자로 읽는 해석은 소수지만 실재하며 겔퍼트(2010)와 오브라이언(2020)이 대표", "label": "지지됨", "evidence": "주류가 아니며", "note": ""},
+        {"n": 6, "text": "오브라이언은 이 해석이 불안정하다고 보고 역사 증언 논의로 흄을 반환원주의자로 읽는다", "label": "지지됨", "evidence": "반환원주의자로 읽는 길로 간다", "note": ""},
+        {"n": 7, "text": "개별 사례 관찰을 요구한 흄의 방법론과 어긋난다는 자비의 논거도 제시되었다(대화 속 설명)", "label": "지지됨", "evidence": "흄 자신의 방법론적 일관성", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-13_프리커의 논증 체계적 분석.md", "_원자료/claude.ai/chats/2026-05-14_Local reductionism and testimony reliability.md", "문헌/@Fricker1994 Against Gullibility.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "37c2", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "프리커는 PR 논제를 화자들이 대개 참을 말한다는 기술적 전제와 구별한다", "label": "지지됨", "evidence": "not to be confused with a descriptive", "note": ""},
+        {"n": 1, "text": "기술적 전제를 일차 정당화에 인용하는 견해는 PR 논제와 전혀 다른 견해", "label": "지지됨", "evidence": "a quite different view", "note": ""},
+        {"n": 2, "text": "그 견해는 증언 지식을 귀납 기반 추론 지식의 평범한 사례로 환원하는 견해", "label": "지지됨", "evidence": "ordinary case of inductively based", "note": ""},
+        {"n": 3, "text": "기술적 전제는 경험적 사실이든 선험적 개념적 진리든 PR 논제의 철학적 논증에 쓰일 수 있다", "label": "지지됨", "evidence": "might be invoked in an attempted", "note": ""},
+        {"n": 4, "text": "철학적 논증에 쓰이는 일과 청자가 알고 인용해야 할 전제에 드는 일은 전혀 다른 일(p.127)", "label": "지지됨", "evidence": "This is entirely different", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-20_Hume's circular reasoning on testimony and experience.md", "문헌/@Fricker1994 Against Gullibility.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "15c", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "프리커는 코디의 초월론적 논증을 부정 주장에서 추정적 권리로 나아가는 네 단계로 재구성한다", "label": "지지됨", "evidence": "다음 네 단계로 정식화된다", "note": ""},
+        {"n": 1, "text": "네 단계(p.127): 증언 지식 존재, NC, 추정적 권리 조건, 그 권리의 존재", "label": "지지됨", "evidence": "그러한 추정적 신뢰의 권리가 실제로 존재", "note": ""},
+        {"n": 2, "text": "이 논증은 X가 사실이고 X가 가능하려면 Y여야 하므로 Y라는 가능성 조건의 형식", "label": "지지됨", "evidence": "X가 가능하기 위해서는 Y가 성립해야", "note": ""},
+        {"n": 3, "text": "NC는 확증을 포괄적 일반화의 비순환적 확립과 동일시하고 유아기 단순 신뢰 때문에 불가능하다고 뒷받침(대화 속 정리)", "label": "지지됨", "evidence": "단순히 신뢰된 증언이 본질적 역할", "note": ""},
+        {"n": 4, "text": "프리커는 (1)을 받아들이고 (2)를 공격하며 국소 확증이 가능하면 (3)으로의 이행이 막힌다고 본다", "label": "지지됨", "evidence": "(3)으로의 이행이 차단되고", "note": ""},
+        {"n": 5, "text": "프리커는 이 논증 구조가 코디의 Testimony and Observation(1973)에 함축되어 있다고 지목(각주 보고)", "label": "지지됨", "evidence": "implicit in Coady op. cit.", "note": ""}
+      ],
+      "sources_used": ["문헌/@Fricker1994 Against Gullibility.md", "_원자료/claude.ai/chats/2026-05-15_Coady의 초월론적 논증.md", "_원자료/claude.ai/chats/2026-05-13_Local reductionism and testimonial justification.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "37c4", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "프리커는 정당화주의 지식관 아래에서 증언의 특수성을 요구되는 정당화의 종류로 읽는다", "label": "지지됨", "evidence": "what kind of justification is required", "note": ""},
+        {"n": 1, "text": "특수한 원천이라는 말이 여러 뜻을 가질 수 있고, 일반 지식관의 예외라는 뜻으로 받아들이지 않는다", "label": "지지됨", "evidence": "could mean many things", "note": ""},
+        {"n": 2, "text": "지식이 다른 방식으로 얻어져도 한 종류임을 보이는 일이 개념 설명의 적합성 조건", "label": "지지됨", "evidence": "is an adequacy condition on an account", "note": ""},
+        {"n": 3, "text": "포괄적 지식관은 인과론이나 신빙론일 수도 있으나 프리커는 정당화주의를 택한다", "label": "지지됨", "evidence": "But I favour a justificationist", "note": ""},
+        {"n": 4, "text": "정당화주의: 주체가 자기 믿음을 적절히 옹호할 수 있음이 지식의 필요조건", "label": "지지됨", "evidence": "able to defend her belief appropriately", "note": ""},
+        {"n": 5, "text": "환원 불가능한 원천이라는 주장은 요구되는 정당화 종류에 관한 주장이며 반례가 아니다. PR 논제가 그런 주장(pp.126–127)", "label": "지지됨", "evidence": "The PR thesis is such a claim", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-20_Hume's circular reasoning on testimony and experience.md", "문헌/@Fricker1994 Against Gullibility.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "37c3", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "프리커는 PR 논제의 초월적 논증을 재구성하고 둘째 전제를 거짓으로 보이려 한다", "label": "지지됨", "evidence": "showing its second premise", "note": ""},
+        {"n": 1, "text": "PR 논제 논증은 언어의 본성에서 나오는 긍정적 논증과 부정적 논증으로 나뉜다", "label": "지지됨", "evidence": "the positive arguments from the essential", "note": ""},
+        {"n": 2, "text": "부정적 논증은 초월적 논증이며 (1)~(4)로 진행된다", "label": "지지됨", "evidence": "a transcendental argument which runs", "note": ""},
+        {"n": 3, "text": "(2) 일반적으로 청자가 화자 신뢰성의 독립적 확인을 얻는 것은 가능하지 않다", "label": "지지됨", "evidence": "It is not, generally speaking, possible", "note": ""},
+        {"n": 4, "text": "상식을 보존하는 일이 모든 증언 인식론의 제약이라는 데 동의하므로 첫 전제를 거부하지 않는다", "label": "지지됨", "evidence": "This is not my strategy", "note": ""},
+        {"n": 5, "text": "논문은 둘째 전제 NC가 거짓임을 보여 초월적 논증을 멈추는 데 바쳐진다(pp.127–128)", "label": "지지됨", "evidence": "devoted to stopping the transcendental", "note": ""},
+        {"n": 6, "text": "프리커는 이 논증에 각주 4를 다는데 발췌에는 각주 내용이 없다", "label": "지지됨", "evidence": "right to trust.4", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-20_Hume's circular reasoning on testimony and experience.md", "문헌/@Fricker1994 Against Gullibility.md"],
+      "sources_missing": []
+    }
+  ]
+}
