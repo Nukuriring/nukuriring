@@ -1,0 +1,55 @@
+{
+ "id": "41l6a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "해석에 필요한 합리성은 구조적 합리성을 만족할 성향",
+   "label": "지지됨",
+   "evidence": "구조적 합리성을 만족시킬 성향만을 요구한다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "합리성은 해석의 선행조건, IT를 받아들이면 참",
+   "label": "지지됨",
+   "evidence": "IT가 전제될 때: …성향을 지녀야만 하며",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "성향은 정합성 용어 없이 서술 가능",
+   "label": "지지됨",
+   "evidence": "정합성이나 합리성과 같은 용어 없이 서술할 수 있다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "원초적 사실이나 초월적 가정 아니며 성향으로 직접 설명",
+   "label": "지지됨",
+   "evidence": "brute한 fact는 아니다…직접적으로 설명",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "성향은 패배될 수 있어 약한 요구",
+   "label": "지지됨",
+   "evidence": "그런 성향들이 패배될 수 있다는 사실과 양립",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "실질적 합리성 불필요, 지구 평평 예",
+   "label": "지지됨",
+   "evidence": "지구 평평하다는 믿음…말이 되게 만들 수 있다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Unifying the Instances of Incoherence - FTT ch 5 eebdd670….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

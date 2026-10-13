@@ -1,0 +1,56 @@
+{
+ "id": "42a",
+ "voice": "문헌",
+ "verdict": "원문없음",
+ "claims": [
+  {
+   "n": 0,
+   "text": "외재주의는 내부만으로 안 정해지므로 특권적 접근 가능성이 첫 문제",
+   "label": "부분 지지",
+   "evidence": "one way to reconcile self-knowledge…blocked",
+   "note": "'첫 문제'로 세우는 추론은 3/16 필기에 직접 없음. 명제 3 참조."
+  },
+  {
+   "n": 1,
+   "text": "퍼트남 쌍둥이 지구와 버지 관절염은 내재적으로 같은 두 사람이 다른 내용을 생각함을 보인다고 읽힘",
+   "label": "지지됨",
+   "evidence": "must be internally exactly the same",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "외재주의는 내용이 내재적 속성에 수반하지 않는다는 주장",
+   "label": "지지됨",
+   "evidence": "does not supervene on the intrinsic properties",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "외재주의가 옳다면 생각을 알려면 환경 사실을 알아야 하고 이는 경험적 관찰을 요구, 내성만으로 안다는 관념이 흔들림",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "필기에 이 추론이 없음. 3/23의 귀류 논증은 E를 경험적으로만 안다고 하나 내성 관념의 동요를 말하지 않음. 버지 절은 오히려 환경 식별 없이 안다고 봄."
+  },
+  {
+   "n": 4,
+   "text": "좁은 내용으로 비켜 가려는 시도는 버지식 논증과 직접지시 이론 앞에서 막힌다",
+   "label": "부분 지지",
+   "evidence": "even phenomenal contents are wide",
+   "note": "원문에서 이 두 논점은 현상적 내용 제안에만 해당. 포더 제안은 진릿값 문제로, 2차원 의미론 등은 '?'로 열려 있음."
+  },
+  {
+   "n": 5,
+   "text": "넓은 내용에 대한 특권적 접근이 어떻게 가능한지 직접 설명해야 한다",
+   "label": "지지됨",
+   "evidence": "one way…is blocked, namely the proposal",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/심리철학연습_강의록_20210316 35697cdd….md",
+  "_원자료/notion/…/심리철학연습_강의록_20210323 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,62 @@
+{
+ "id": "41p1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "인용 이론은 다섯 갈래, 고유명 이론은 세 반론",
+   "label": "지지됨",
+   "evidence": "5가지 이론 / 반론: (1)(2)(3)",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "핵심 물음 셋: 무엇이/어떻게/무엇을 지시",
+   "label": "지지됨",
+   "evidence": "인용은 무엇을 지시하는가?",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "다섯 이론 목록",
+   "label": "지지됨",
+   "evidence": "Disquotational Theory / Use/Identity theory",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "지시적(병렬적) 이론은 데이비슨과 관련",
+   "label": "지지됨",
+   "evidence": "Demonstrative/paratactic…Davidson의 작업",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "고유명 이론: 인용 표현은 이름, 단순한 통사 구조",
+   "label": "지지됨",
+   "evidence": "이름처럼 취급되어야 한다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "세 반론(무한한 인용, 관계, 사용과 언급 동시)",
+   "label": "지지됨",
+   "evidence": "사용과 언급을 동시에 하는 문장을 해명하지 못한다",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "필기는 다른 이론을 자세히 적지 않고 끊긴다",
+   "label": "지지됨",
+   "evidence": "Disquotational Theory / Use/Identity theory",
+   "note": "나머지 이론은 제목만 있음"
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Quotation 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

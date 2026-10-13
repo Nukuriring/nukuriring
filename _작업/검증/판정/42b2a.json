@@ -1,0 +1,55 @@
+{
+ "id": "42b2a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "반성적 생각은 자기지칭적이고 자기검증적이어서 틈이 없다",
+   "label": "지지됨",
+   "evidence": "self-referential and self-verifying",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "데카르트가 물이 축축하다고 생각한다고 생각하는 경우",
+   "label": "지지됨",
+   "evidence": "Descartes comes to think that he thinks",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "반성적 생각의 대상은 지각과 달리 생각의 일부",
+   "label": "지지됨",
+   "evidence": "반성적 생각의 부분을 이루고 있다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "그 생각의 부분을 반드시 지칭하므로 자기지칭적",
+   "label": "지지됨",
+   "evidence": "동시에 반드시 그 생각의 부분을 지칭",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "대상이 존재하지 않을 수 없어 참일 수밖에 없다",
+   "label": "지지됨",
+   "evidence": "그 반성적 생각은 참이 될 수밖에 없다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "버지: 틈에서 나오는 오류는 이런 경우 불가능",
+   "label": "지지됨",
+   "evidence": "An error based on a gap…not possible",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/심리철학연습_강의록_20210316 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

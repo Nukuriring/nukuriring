@@ -1,0 +1,48 @@
+{
+ "id": "41n1",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "자기지식이 특별하다는 말의 세 의미",
+   "label": "지지됨",
+   "evidence": "자기 지식이 특별할 수 있는 세 가지 의미",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "첫째 인식적 안전, 둘째 특별한 인식적 방법",
+   "label": "지지됨",
+   "evidence": "인식적으로 안전(secure)하다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "셋째 근본적 특별함은 인식적이지 않다는 사실",
+   "label": "지지됨",
+   "evidence": "근본적으로…그것이 인식적이지 않다는 사실",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "셋째 지지자들은 인식적 특성을 비인식적 측면에서 파생된다고 이해",
+   "label": "지지됨",
+   "evidence": "비-인식적 측면에서 파생하는 것으로 이해",
+   "note": "원문은 '대부분'이라 하며 카드도 '대부분' 유지"
+  },
+  {
+   "n": 4,
+   "text": "필기 제목과 저자 미확인",
+   "label": "지지됨",
+   "evidence": "The nature and scope of special self-knowledge",
+   "note": "저자 표기가 원자료에 없음을 확인"
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/The nature and scope of special self-knowledge 450d9ac9….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

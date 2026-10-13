@@ -1,0 +1,48 @@
+{
+ "id": "42a5",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "버지식 논증이 성립하면 거의 모든 내용이 넓은 내용",
+   "label": "지지됨",
+   "evidence": "virtually all contents of our mental states are wide",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "소파, 탄절염, 풀이 파랗다에도 세울 수 있다",
+   "label": "지지됨",
+   "evidence": "can be set up for whatever expressions",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "blue를 파랑 또는 초록으로 쓰는 공동체면 참인 내용",
+   "label": "지지됨",
+   "evidence": "tblue = blue or green",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "이 개념은 한국어 푸르다에 해당",
+   "label": "지지됨",
+   "evidence": "the concept <푸르다> in the Korean",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "불완전하게 이해되는 표현이면 공동체 쓰임으로 부분 개별화",
+   "label": "지지됨",
+   "evidence": "individuated partly by how the speech community",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/심리철학연습_강의록_20210316 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

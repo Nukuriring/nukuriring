@@ -1,0 +1,62 @@
+{
+ "id": "41m",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "구조적 요구 이론은 직관을 잘 설명 못해 요구 도입 동기가 없다",
+   "label": "지지됨",
+   "evidence": "Requirement account를 도입 할 동기가 없다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "인식적/실천적 아크라시아는 전형, 논리적 오류 없음",
+   "label": "지지됨",
+   "evidence": "does not include any logical fallacy",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "기존 연구는 요구를 하나씩 규명하는 외연적 작업",
+   "label": "지지됨",
+   "evidence": "Requirement들을 규명하는 작업…외연적 규명",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "요구 이론은 비합리성 혐의를 잘 설명한다는 이유로 도입",
+   "label": "지지됨",
+   "evidence": "잘 설명한다는 경로를 통해 도입된다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "대안: 비구조적 규범에 순응하는 실현 가능한 성향",
+   "label": "지지됨",
+   "evidence": "feasible disposition to conform to substantive",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "레이/레이* 사례와 추가 잘못 직관, 외관상 규범성",
+   "label": "지지됨",
+   "evidence": "추가적 잘못의 직관…Apparent Normativity",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "엄격 책임을 요구하나 그런 요구 집합은 있을 수 없다",
+   "label": "지지됨",
+   "evidence": "Structural requirements require…strict liability",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Aarnio, self knowledge 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

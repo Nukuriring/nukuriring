@@ -1,0 +1,55 @@
+{
+ "id": "41m2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "비정합성 문제는 규범적 능력과 상충하는 성향의 발현",
+   "label": "지지됨",
+   "evidence": "나쁜(규범적 능력과 상충하는) 성향을 manifest",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "시뮬은 시뮬레이션에서 움직이지 않았다",
+   "label": "지지됨",
+   "evidence": "라이프 가드가 움직일 생각을 안함",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "익사 반응 인식 성향은 라이프가드 능력의 기본",
+   "label": "지지됨",
+   "evidence": "a very basic part of such competence",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "가상에서만 반응 않는 성향은 실현 가능하지 않아 실제서도 같은 실패",
+   "label": "지지됨",
+   "evidence": "not humanly feasible to only be disposed",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "행동할 이유가 없었더라도 나쁜 성향 발현",
+   "label": "지지됨",
+   "evidence": "Even if he lacked any real reason to act",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "관련 능력은 실질적 비구조적 요구에 순응하는 능력",
+   "label": "지지됨",
+   "evidence": "Substantive, non-strucural normative requirements",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Aarnio, self knowledge 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

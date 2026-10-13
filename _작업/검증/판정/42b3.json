@@ -1,0 +1,62 @@
+{
+ "id": "42b3",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "양립 여부는 환원 논증과 느린 전환 논증 두 유형으로 시험",
+   "label": "지지됨",
+   "evidence": "Two Types of Arguments for Incompatibilism",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "EXT: 내용이 외부 조건에 의해 부분적으로 개별화",
+   "label": "지지됨",
+   "evidence": "individuated partly by some external condition",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "SK: 경험적 탐구 없이 선험적으로 자기 생각의 내용을 안다",
+   "label": "지지됨",
+   "evidence": "without empirical investigation (or 'a priori')",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "양립론과 비양립론의 정의",
+   "label": "지지됨",
+   "evidence": "are incompatible with each other",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "첫째 유형 귀류법: 맥킨지 1991, 보고시안 1997",
+   "label": "지지됨",
+   "evidence": "(McKinsey 1991; Boghossian 1997)",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "둘째 유형 느린 전환: 보고시안 1989",
+   "label": "지지됨",
+   "evidence": "Slow Switching (Boghossian 1989)",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "이어지는 카드들이 버지와 브루크너의 응답을 차례로 본다",
+   "label": "연결",
+   "evidence": "",
+   "note": "카드 구성에 대한 서술이라 출처 대조 대상이 아님"
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/심리철학연습_강의록_20210323 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

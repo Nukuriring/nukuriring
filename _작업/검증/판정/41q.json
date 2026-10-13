@@ -1,0 +1,62 @@
+{
+ "id": "41q",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "투명성 논의는 세 지형으로 나뉜다",
+   "label": "지지됨",
+   "evidence": "크게 세 가지 주요 지형으로 구분",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "법적-윤리적 차원은 책임, 공정성, 신뢰",
+   "label": "지지됨",
+   "evidence": "책임(accountability), 공정성(fairness)",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "Grant 등 의무, Vredenburgh 설명권, Binns 공적 이성",
+   "label": "지지됨",
+   "evidence": "'설명에 대한 권리(right to explanation)'",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "Baron: 정신적 속성 없어 설명 가능성이 필수적이지 않다",
+   "label": "지지됨",
+   "evidence": "설명 가능성이 반드시 필요한 것은 아니다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "Burrell의 세 유형, Fleisher의 복잡성/훈련/규모",
+   "label": "지지됨",
+   "evidence": "기술적 문맹…수학적 최적화…불일치",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "개념적 논의는 어떤 앎을 얻고 결여하는지 묻는다",
+   "label": "지지됨",
+   "evidence": "어떤 지식을 결여하는지에 대한 인식론적 탐구",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "크릴의 세 종류 분류, 이 글은 마지막 범주를 다룬다",
+   "label": "지지됨",
+   "evidence": "특히 마지막 범주…집중하고자 한다",
+   "note": "'대표적'은 평가어로 앞 명제에 붙임"
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/계산 시스템 투명성 논의 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

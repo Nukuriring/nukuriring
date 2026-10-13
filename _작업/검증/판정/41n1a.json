@@ -1,0 +1,41 @@
+{
+ "id": "41n1a",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "합리주의자들은 태도를 통제할 수 있다는 사실에서 특별함이 비롯된다고 봄",
+   "label": "지지됨",
+   "evidence": "명제 태도를 통제할 수 있다는 사실로부터",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "다른 방식: 타인이 자기 수여를 특별히 취급하는 사회적 행태",
+   "label": "지지됨",
+   "evidence": "자기-수여를 특별하게 취급해준다는 사회적 행태",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "두 방식 모두 인식적 특성을 비인식적 사실로 설명",
+   "label": "지지됨",
+   "evidence": "3번을 받아들이는 방식은",
+   "note": "둘 다 셋째 입장의 방식으로 제시됨"
+  },
+  {
+   "n": 3,
+   "text": "필기는 이 뒤에서 끊겨 있다",
+   "label": "지지됨",
+   "evidence": "인식적으로 (끝)",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/The nature and scope of special self-knowledge 450d9ac9….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
