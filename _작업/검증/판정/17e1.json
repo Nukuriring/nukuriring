@@ -1,0 +1,63 @@
+{
+ "id": "17e1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "모더니즘에서 가치의 물음은 분류의 물음과 떨어지지 않는다",
+   "label": "지지됨",
+   "evidence": "평가의 질문을 분류의 질문과…분리",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "비어즐리·마골리스는 평가와 분류를 분리하려 한다",
+   "label": "지지됨",
+   "evidence": "명시적으로 분리하기를 원한다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "가치의 물음은 처음에도 마지막에도; 분류는 이미 가치 부여",
+   "label": "지지됨",
+   "evidence": "이미 그 작품에 대해 극명하게 가치를 부여",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "가치 있다는 것은 분석적으로 참",
+   "label": "지지됨",
+   "evidence": "그 자체에 대해 분석적으로 참이다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "판정은 무엇을 증거로 칠지 결정; 증거=예술",
+   "label": "지지됨",
+   "evidence": "'증거로 간주된다'는…'예술로 간주된다'",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "순환 위험 인정; 전통의 분석적 정의일 것",
+   "label": "지지됨",
+   "evidence": "아마 전통이라는 개념의 분석적인 정의일 것",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "크레네크 실패, 카로 성공",
+   "label": "지지됨",
+   "evidence": "'조각이 무엇인가'…성공했다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Cavell1969c A Matter of Meaning It.md",
+  "_원자료/claude.ai/projects/크립키의 위악성/docs/Cavell_A matter of Meaning it.docx.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

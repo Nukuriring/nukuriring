@@ -1,0 +1,57 @@
+{
+ "id": "14h4",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "리드와 버지는 비환원주의 결론을 공유하지만 정당화 원천을 본성과 합리성으로 달리 잡는다",
+   "label": "지지됨",
+   "evidence": "결론을 공유하지만 정당화 원천이 ... 갈린다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "비환원주의를 리드 계열로만 묶으면 진영 안의 차이를 놓친다",
+   "label": "지지됨",
+   "evidence": "진영 내부의 결을 놓친다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "리드는 상식의 제일원리와 본성적 성향, 버지는 선험적 자격에서 정당화를 찾는다",
+   "label": "지지됨",
+   "evidence": "Reid 노선: 상식의 제1원리 / Burge: 선험적 자격",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "두 노선은 환원 없는 정당화라는 결론을 공유하고 반 클리브 비판은 주로 리드 쪽을 겨눈다",
+   "label": "지지됨",
+   "evidence": "결론(환원 없이 정당화된다)을 공유",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "심리적 사실은 규범을 낳지 못한다는 비판은 버지의 자격에 같은 방식으로 적용되지 않는다",
+   "label": "연결",
+   "evidence": "",
+   "note": "반 클리브 비판(한상기)과 버지 자격(Burge1997, 대화)을 엮는 연결."
+  },
+  {
+   "n": 5,
+   "text": "버지는 형식상 칸트적 친연성이 있으나 계보로는 프레게 합리주의 연장에 가깝다",
+   "label": "지지됨",
+   "evidence": "Frege 합리주의의 분석철학적 연장이 더 정확",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/claude.ai/chats/2026-05-11_Reductionist thesis and the circularity of testimony.md",
+  "문헌/@Burge1997 Interlocution, Perception, and Memory.md",
+  "문헌/@한상기2012a 증언에 관한 리드의 비환원주의.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,63 @@
+{
+ "id": "16e6",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "위로부터의 동의를 민주주의 도덕의 조건으로 본다",
+   "label": "지지됨",
+   "evidence": "the condition of democratic morality",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "완전주의는 정당화가 바닥나 무언가를 보여야 할 때 작동",
+   "label": "지지됨",
+   "evidence": "lives at exactly this point",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "혜택받은 이들은 아래로부터의 동의를 논증하기 부끄러워 삶이 정당화되지 않는다고 느낌",
+   "label": "지지됨",
+   "evidence": "ashamed to tell the less advantaged",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "그들이 보이는 것은 위로부터의 동의",
+   "label": "지지됨",
+   "evidence": "what they show is consent from above",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "위로부터의 동의=타협되어 있음을 인정, 편파성의 본보기로 살며 변화의 필요를 앎",
+   "label": "지지됨",
+   "evidence": "an example of human partiality",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "not a particular moral demand, but the condition…(p.125)",
+   "label": "지지됨",
+   "evidence": "not a particular moral demand",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "순응은 not a mere lack of community, but its parody",
+   "label": "지지됨",
+   "evidence": "its parody",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Cavell1990 Conditions Handsome and Unhandsome.md",
+  "_원자료/로컬/Reading COH/notes/lecture-3_conversation-of-justice_map.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

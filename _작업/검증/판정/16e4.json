@@ -1,0 +1,70 @@
+{
+ "id": "16e4",
+ "voice": "문헌",
+ "verdict": "원문없음",
+ "claims": [
+  {
+   "n": 0,
+   "text": "오 후작 부인의 용서에서 거짓 완전주의로부터의 구출을 읽는다",
+   "label": "지지됨",
+   "evidence": "rescue from a *false* perfectionism",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "병사들에게서 구해 준 백작에게 겁탈당하고 임신(p.101,p.116)",
+   "label": "부분 지지",
+   "evidence": "raped in her sleep by the Count who 'rescued'",
+   "note": "'병사들'은 지도에 없음(soldier, 병사 Grep 무결과)."
+  },
+  {
+   "n": 2,
+   "text": "의무론·공리주의 근거로는 병사들과 같은 벌, 그러나 용서",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "공리, utilit, deontolog 무결과. 지도는 'a real, vile wrong — yet she forgives'만."
+  },
+  {
+   "n": 3,
+   "text": "용서는 공통 인간성에 기댐: forgiveness for being human(p.120)",
+   "label": "지지됨",
+   "evidence": "a forgiveness for being human",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "백작이 완전함 욕구에서 구출 청함; 서로의 버려진 자아; false autonomy(p.121)",
+   "label": "부분 지지",
+   "evidence": "Each is the other's rejected self",
+   "note": "백작이 구출을 청한다는 대목은 지도에 없음. 나머지는 지지."
+  },
+  {
+   "n": 5,
+   "text": "천사→악마로 본 일을 파스칼 문장과 잇는다(p.118)",
+   "label": "부분 지지",
+   "evidence": "he who would play the angel plays the beast",
+   "note": "파스칼 인용은 있으나 백작을 천사에서 악마로 본 일과의 연결은 지도에 없음."
+  },
+  {
+   "n": 6,
+   "text": "회복에서 세계의 귀환은 두렵게 낯설고 실망스럽게 시작될 수 있다",
+   "label": "지지됨",
+   "evidence": "the return is uncanny, disappointing",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "세계의 귀환은 부인과 폭력적 망각의 구조를 띤다(pp.123–124)",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "부인, forgetting, denial Grep 무결과."
+  }
+ ],
+ "sources_used": [
+  "문헌/@Cavell1990 Conditions Handsome and Unhandsome.md",
+  "_원자료/로컬/Reading COH/notes/lecture-3_conversation-of-justice_map.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

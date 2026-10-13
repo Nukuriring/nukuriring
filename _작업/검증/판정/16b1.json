@@ -1,0 +1,63 @@
+{
+ "id": "16b1",
+ "voice": "문헌",
+ "verdict": "원문없음",
+ "claims": [
+  {
+   "n": 0,
+   "text": "에머슨의 완전주의는 민주주의의 실패를 견디는 훈련",
+   "label": "지지됨",
+   "evidence": "Training to withstand democracy's failures",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "경멸하는 태도 자체가 민주주의 헌신의 표현",
+   "label": "지지됨",
+   "evidence": "itself an expression of commitment to democracy",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "명예정의·과두·독재자는 만들지/주문/강제하지 않는다",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "timocra, oligarch, tyrant Grep 무결과."
+  },
+  {
+   "n": 3,
+   "text": "Only within the possibility of democracy… (p.50)",
+   "label": "지지됨",
+   "evidence": "Only within the possibility of democracy",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "배타적 취향을 용인에서 더 나아가 소중히 여길 수도 있는지 묻는다",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "taste, 취향 Grep 무결과."
+  },
+  {
+   "n": 5,
+   "text": "훈련·성격·우정을 'preparation to withstand…'로 이해(p.56)",
+   "label": "부분 지지",
+   "evidence": "Training to withstand democracy's failures, not its rigors",
+   "note": "성격·우정과 인용문 글자는 대조 불가. 요지만 지지."
+  },
+  {
+   "n": 6,
+   "text": "지도: 완전주의가 민주주의의 내적 척도를 공급",
+   "label": "지지됨",
+   "evidence": "supplies democracy's internal measure",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Cavell1990 Conditions Handsome and Unhandsome.md",
+  "_원자료/로컬/Reading COH/notes/lecture-1_aversive-thinking_map.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

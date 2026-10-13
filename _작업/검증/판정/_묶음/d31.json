@@ -1,0 +1,218 @@
+{
+"model": "sonnet",
+"date": "2026-10-13",
+"cards": [
+{"id":"17d3","voice":"문헌","verdict":"지지됨","claims":[
+{"n":0,"text":"즉흥과 우연의 포착을 작곡이 요구하는 덕목","label":"지지됨","evidence":"필수적인 덕목임을 제시한다","note":""},
+{"n":1,"text":"덕목을 플라톤·아리스토텔레스의 의미로","label":"지지됨","evidence":"플라톤과 아리스토텔레스의 의미로 쓰고 있다","note":""},
+{"n":2,"text":"준비 부족 시 명민함·다재다능함=즉흥","label":"지지됨","evidence":"명민함과 다재다능함이 요구된다","note":""},
+{"n":3,"text":"최선을 모를 때 기회를 포착하는 강한 의지","label":"지지됨","evidence":"강렬한 의지와 우연을 포착","note":""},
+{"n":4,"text":"예술 세계에서 위험을 제시하고 수단을 만든다","label":"지지됨","evidence":"그 특정한 위험…만들어져야만","note":""},
+{"n":5,"text":"즉흥은 공유된 공식 맥락에서만 완전; 베토벤 후기 이후","label":"지지됨","evidence":"공유된 공식에 의해 완전히 정의되는 맥락","note":""},
+{"n":6,"text":"우연 호소의 요점은 작곡 행위 부정","label":"지지됨","evidence":"그 행위를 부정하는 것","note":""},
+{"n":7,"text":"뮤즈 대변은 공유, 우연은 목소리 포기","label":"지지됨","evidence":"아예 목소리를 포기하는 것이다","note":""}],
+"sources_used":["문헌/@Cavell1969b Music Discomposed.md","_원자료/claude.ai/projects/크립키의 위악성/docs/Cavell.docx.md"],"sources_missing":[]},
+
+{"id":"17e1","voice":"문헌","verdict":"지지됨","claims":[
+{"n":0,"text":"모더니즘에서 가치의 물음은 분류의 물음과 떨어지지 않는다","label":"지지됨","evidence":"평가의 질문을 분류의 질문과…분리","note":""},
+{"n":1,"text":"비어즐리·마골리스는 평가와 분류를 분리하려 한다","label":"지지됨","evidence":"명시적으로 분리하기를 원한다","note":""},
+{"n":2,"text":"가치의 물음은 처음에도 마지막에도; 분류는 이미 가치 부여","label":"지지됨","evidence":"이미 그 작품에 대해 극명하게 가치를 부여","note":""},
+{"n":3,"text":"가치 있다는 것은 분석적으로 참","label":"지지됨","evidence":"그 자체에 대해 분석적으로 참이다","note":""},
+{"n":4,"text":"판정은 무엇을 증거로 칠지 결정; 증거=예술","label":"지지됨","evidence":"'증거로 간주된다'는…'예술로 간주된다'","note":""},
+{"n":5,"text":"순환 위험 인정; 전통의 분석적 정의일 것","label":"지지됨","evidence":"아마 전통이라는 개념의 분석적인 정의일 것","note":""},
+{"n":6,"text":"크레네크 실패, 카로 성공","label":"지지됨","evidence":"'조각이 무엇인가'…성공했다","note":""}],
+"sources_used":["문헌/@Cavell1969c A Matter of Meaning It.md","_원자료/claude.ai/projects/크립키의 위악성/docs/Cavell_A matter of Meaning it.docx.md"],"sources_missing":[]},
+
+{"id":"17f1","voice":"문헌","verdict":"부분","claims":[
+{"n":0,"text":"숨겨진 문자성은 저주와 클리셰를 문자 그대로 들리게 해 제거한다","label":"부분 지지","evidence":"저주를 문자적으로 들리게 함으로써 제거","note":"저주는 제거라 하나 클리셰는 '고정된 의미에서 풀려나게' 한다고만 함. 제목이 클리셰까지 제거로 단정."},
+{"n":1,"text":"둘째 확신은 숨겨진 문자성에 관한 것","label":"지지됨","evidence":"내가 숨겨진 문자성이라고 부를 특성","note":""},
+{"n":2,"text":"이해 좌절처럼 보이다 의미가 적나라해 놓쳤다는 발견","label":"지지됨","evidence":"너무나 완전히 적나라 했기 때문에","note":""},
+{"n":3,"text":"신의 이름이 문자 그대로 쓰인다(지평선, 벼룩)","label":"지지됨","evidence":"완벽한 '문자적임'으로서 사용","note":""},
+{"n":4,"text":"신의 이름을 저주에만, 헛되이만 쓰는 저주","label":"지지됨","evidence":"그렇기에 헛되이만 사용할 수 있다","note":""},
+{"n":5,"text":"실증주의 소망 공유, 탈출의 어려움은 베케트만 봄","label":"지지됨","evidence":"오직 베케트만이…얼마나 무한히 어려울","note":""},
+{"n":6,"text":"실증주의는 무의미, 베케트는 너무 많은 의미","label":"지지됨","evidence":"너무나도 빌어먹게 많은 의미를 담고","note":""},
+{"n":7,"text":"클리셰 풀어줌; 클로브 '전혀'","label":"지지됨","evidence":"문자 그대로 받아들여 그 질문에 생명","note":""}],
+"sources_used":["문헌/@Cavell1969d Ending the Waiting Game.md","_원자료/claude.ai/projects/크립키의 위악성/docs/Ending the Waiting game.docx.md"],"sources_missing":[]},
+
+{"id":"18e1a","voice":"종합","verdict":"지지됨","claims":[
+{"n":0,"text":"크립키 비판과 흄 비판은 물음의 형식이 답을 정한다는 같은 진단","label":"지지됨","evidence":"질문을 받아들이는 형식 자체가 답의 가능성을 미리 결정","note":""},
+{"n":1,"text":"흄의 해체는 물음을 회피; 물음을 '이 정부를 나의 것으로 인정했는가'로","label":"지지됨","evidence":"나는 이 정부를 나의 것으로 인정했는가","note":""},
+{"n":2,"text":"모국어와 대변: 대안은 목소리를 잃는 일, 벙어리조차 못 되는 일","label":"지지됨","evidence":"목소리를 잃는 것 — 벙어리조차 되지 못하는 것","note":""},
+{"n":3,"text":"대화는 비판 형식이 같다고 보았다","label":"지지됨","evidence":"흄을 비판하는 형식과 정확히 같다","note":""},
+{"n":4,"text":"발견으로 보면 근거를 묻고 답 없으면 합의로 채운다","label":"지지됨","evidence":"답이 없으면 공동체적 합의로 대체","note":""},
+{"n":5,"text":"유혹으로 보면 자세를 진단, 동의를 인정의 자리에","label":"지지됨","evidence":"내가 이것을 나의 것으로 인정하는가","note":""},
+{"n":6,"text":"형식이 답을 미리 정하고 응답은 형식의 출처를 보임","label":"지지됨","evidence":"질문의 형식이 어디서 솟아나는지를 보이는 것","note":""},
+{"n":7,"text":"평행이 CHU가 사적 언어 논의를 정치철학으로 끄는 이유","label":"지지됨","evidence":"사적 언어 논쟁을 정치철학으로 끌고 들어가는 이유","note":""}],
+"sources_used":["문헌/@Cavell1979 The Claim of Reason.md","_원자료/claude.ai/chats/2026-05-10_카벨의 핵심 요지 정리.md"],"sources_missing":[]},
+
+{"id":"40j","voice":"종합","verdict":"부분","claims":[
+{"n":0,"text":"크립키가 진지함을 시연했다는 의심은 카벨의 진단을 뒤집는다","label":"지지됨","evidence":"카벨의 진단을 뒤집는 가설","note":""},
+{"n":1,"text":"의심은 카벨의 회의주의관 위에서만 정식화된다","label":"지지됨","evidence":"카벨의 회의주의관 위에서만 작동하는 가설","note":""},
+{"n":2,"text":"카벨에게 회의주의는 인간 조건의 표현, 회의주의자는 진지함을 산다","label":"지지됨","evidence":"인간 조건의 표현이다, 회의주의자는 그 진지함을 산다","note":""},
+{"n":3,"text":"카벨은 크립키가 회의주의를 해결될 것으로 보아 진지함을 못 봤다고 진단","label":"지지됨","evidence":"크립키가…진지함을 보지 못했다고 진단","note":""},
+{"n":4,"text":"네 위험: 의도 주장","label":"지지됨","evidence":"정확히 크립키의 의도에 대한 주장","note":""},
+{"n":5,"text":"자기 진술에 믿지 않음의 증거 없어 입증 안 됨","label":"지지됨","evidence":"'믿지 않음'의 증거를 찾는다 — 그런 증거는 없다","note":""},
+{"n":6,"text":"비판이 옹호로 바뀌어 카벨적 회의주의자로 다시 그림","label":"지지됨","evidence":"크립키는 카벨적 회의주의자가 된다","note":""},
+{"n":7,"text":"알고 한 시연이면 위악의 요건(표시 안 됨)을 잃음","label":"지지됨","evidence":"위악으로 표시되지 않은 채 작동","note":""},
+{"n":8,"text":"마지막 위험은 시험 중인 가설로 다루면 줄어든다","label":"부분 지지","evidence":"(β′)를 시험 중인 가설로 두는 자세","note":"시험 가설로 두자는 제안은 있으나 넷째 위험이 그래서 줄어든다는 연결은 대화에 명시되지 않음."},
+{"n":9,"text":"다른 글(Outline, Puzzle)과 비교하는 길은 보조 자료 동원 필요","label":"지지됨","evidence":"보조 자료의 본격적 동원을 요구","note":""}],
+"sources_used":["문헌/@Cavell1990 Conditions Handsome and Unhandsome.md","문헌/@Kripke1982 Wittgenstein on Rules and Private Language.md","_원자료/claude.ai/projects/크립키의 위악성/chats/2026-05-10_프로젝트 본문 주장과 근거 확보.md","_원자료/claude.ai/projects/크립키의 위악성/chats/2026-05-10_크립키의 회의주의 진정한 신념인가 시연인가.md"],"sources_missing":[]},
+
+{"id":"18e3","voice":"종합","verdict":"부분","claims":[
+{"n":0,"text":"크립키 현상은 대표성의 역설로 진단될 수 있다","label":"지지됨","evidence":"대표성의 역설로서의 크립키 현상","note":""},
+{"n":1,"text":"대화가 영진의 직관을 카벨 어휘로 진단","label":"지지됨","evidence":"카벨적 진단: 대표성의 역설","note":""},
+{"n":2,"text":"대표성은 자신을 내놓는 사건의 형식; 오독·도구화 가능성 위","label":"지지됨","evidence":"오독될 가능성, 도구화될 가능성","note":""},
+{"n":3,"text":"영예로움 변형 시도가 성공할수록 예시성 환원 위험","label":"지지됨","evidence":"성공할수록…예시성으로 환원될 위험","note":""},
+{"n":4,"text":"분석적 정식화가 표준이 된 일은 환원 사례; 완성도가 소실을 앞당김","label":"부분 지지","evidence":"표준으로 삼을 가능성이 커집니다","note":"원문은 '가능성이 커진다'이고 크립키가 메타-시연을 의도했다는 가정 아래의 논의. 카드는 단정으로 적고 가정을 뺌."},
+{"n":5,"text":"폴로니어스·거짓 완벽주의 광고를 같은 형식으로 진단","label":"지지됨","evidence":"여러 곳에서 같은 형식의 진단을 반복","note":""},
+{"n":6,"text":"카벨은 크립키 의도·진정성을 겨누지 않음; 어조는 정황 후보","label":"지지됨","evidence":"의도나 진정성을 향해 가지는 않습니다","note":""}],
+"sources_used":["문헌/@Cavell1990 Conditions Handsome and Unhandsome.md","_원자료/claude.ai/chats/2026-05-10_카벨의 핵심 요지 정리.md"],"sources_missing":[]},
+
+{"id":"16c","voice":"문헌","verdict":"원문없음","claims":[
+{"n":0,"text":"천재의 작품은 버린 생각을 소외된 위엄으로 되돌려 준다","label":"지지됨","evidence":"come back to us with a certain alienated majesty","note":""},
+{"n":1,"text":"첫 문단 인용을 독자 변형 기제로 읽는다(p.44, p.57)","label":"지지됨","evidence":"The mechanism — how a text transforms you","note":"p.44는 출처에서 확인 못함."},
+{"n":2,"text":"소외된 위엄=칸트의 숭고, 프로이트 전이 구조(p.57)","label":"원문에 없음","evidence":"","note":"지도는 두려운 낯섦(uncanny)만 말함. 숭고·전이 어휘 Grep(sublim, 숭고, transfer, 전이) 무결과. 카드 출처 줄도 원서 대조임을 인정."},
+{"n":3,"text":"억압된 생각으로서 더 먼 도달 가능한 자아를 대리","label":"지지됨","evidence":"your rejected / further self","note":""},
+{"n":4,"text":"생각은 정확히 나의 것도 아니고 아닌 것도 아니다","label":"원문에 없음","evidence":"","note":"neither, 정확히 어구 Grep 무결과."},
+{"n":5,"text":"기원을 타자에게 돌려 내 안에 심겼다고 여기면 우상숭배","label":"부분 지지","evidence":"기원을 타자에게만 돌리는 일은 우상숭배","note":"'내 안에 심겼다고 여긴다'는 부연은 출처에 없음."},
+{"n":6,"text":"인정과 부정의 관계로 완전주의는 우정에 높은 역할","label":"지지됨","evidence":"완전주의는 우정에 높은 역할을 주고","note":""},
+{"n":7,"text":"아리스토텔레스 another myself, 니체 쪽 굴절(p.59)","label":"부분 지지","evidence":"friend ('another myself')","note":"another myself와 범례가 적이라는 말은 있으나 아리스토텔레스·니체 귀속은 출처에 없음."}],
+"sources_used":["문헌/@Cavell1990 Conditions Handsome and Unhandsome.md","_원자료/로컬/Reading COH/notes/lecture-1_aversive-thinking_map.md"],"sources_missing":[]},
+
+{"id":"16a1","voice":"문헌","verdict":"원문없음","claims":[
+{"n":0,"text":"낱말과의 관계는 사유와의 도덕적 관계와 떼어 놓지 않는다","label":"지지됨","evidence":"inseparable from a certain moral-like relation","note":""},
+{"n":1,"text":"인용문(p.46)","label":"지지됨","evidence":"A certain relation to words","note":"괄호 '(as an allegory…)'는 지도가 말줄임이라 글자 대조 불가."},
+{"n":2,"text":"에머슨의 사유 묘사에 풍기는 도덕적 긴박감을 설명하는 맥락","label":"원문에 없음","evidence":"","note":"urgency, 긴박 Grep 무결과."},
+{"n":3,"text":"특정한 계열; 목적론·의무론 어느 쪽에도 속하지 않음(p.46)","label":"부분 지지","evidence":"목적론과 의무론 어느 쪽에도 속하지 않으며","note":"'특정한 계열'과 극대화 좋음·독립된 옳음 풀이는 출처에 없음."},
+{"n":4,"text":"지도: 강연 1의 경첩; 낱말 무게=삶을 떠맡는 알레고리","label":"지지됨","evidence":"allegory of caring about your life","note":""},
+{"n":5,"text":"사유의 물음과 도덕의 물음이 같은 물음","label":"지지됨","evidence":"the same question","note":""}],
+"sources_used":["문헌/@Cavell1990 Conditions Handsome and Unhandsome.md","_원자료/로컬/Reading COH/notes/lecture-1_aversive-thinking_map.md"],"sources_missing":[]},
+
+{"id":"16b1","voice":"문헌","verdict":"원문없음","claims":[
+{"n":0,"text":"에머슨의 완전주의는 민주주의의 실패를 견디는 훈련","label":"지지됨","evidence":"Training to withstand democracy's failures","note":""},
+{"n":1,"text":"경멸하는 태도 자체가 민주주의 헌신의 표현","label":"지지됨","evidence":"itself an expression of commitment to democracy","note":""},
+{"n":2,"text":"명예정의·과두·독재자는 만들지/주문/강제하지 않는다","label":"원문에 없음","evidence":"","note":"timocra, oligarch, tyrant Grep 무결과."},
+{"n":3,"text":"Only within the possibility of democracy… (p.50)","label":"지지됨","evidence":"Only within the possibility of democracy","note":""},
+{"n":4,"text":"배타적 취향을 용인에서 더 나아가 소중히 여길 수도 있는지 묻는다","label":"원문에 없음","evidence":"","note":"taste, 취향 Grep 무결과."},
+{"n":5,"text":"훈련·성격·우정을 'preparation to withstand…'로 이해(p.56)","label":"부분 지지","evidence":"Training to withstand democracy's failures, not its rigors","note":"성격·우정과 인용문 글자는 대조 불가. 요지만 지지."},
+{"n":6,"text":"지도: 완전주의가 민주주의의 내적 척도를 공급","label":"지지됨","evidence":"supplies democracy's internal measure","note":""}],
+"sources_used":["문헌/@Cavell1990 Conditions Handsome and Unhandsome.md","_원자료/로컬/Reading COH/notes/lecture-1_aversive-thinking_map.md"],"sources_missing":[]},
+
+{"id":"16a","voice":"문헌","verdict":"부분","claims":[
+{"n":0,"text":"사유는 순응을 등지는 혐오이자 받아들이는 일","label":"지지됨","evidence":"turning-away-from…conformity; reception","note":""},
+{"n":1,"text":"사유=변용과 회심, 한 과정의 두 이름(p.36)","label":"지지됨","evidence":"변용과 회심이라는 두 이름을 가진 한 과정","note":""},
+{"n":2,"text":"대립·비판으로 향할 때 혐오라 부른다","label":"지지됨","evidence":"순응에 대립할 때 혐오(aversion)라 불린다","note":""},
+{"n":3,"text":"'The virtue in most request is conformity…' 인용(p.37)","label":"부분 지지","evidence":"Self-reliance is [conformity's] aversion","note":"뒷문장만 확인. 앞문장 'The virtue in most request…'는 출처에 없음."},
+{"n":4,"text":"「경험」: 빠져나가는 성질을 unhandsome이라 부른다(p.38)","label":"부분 지지","evidence":"움켜쥠은 우리 조건의 가장 볼품없는 부분","note":"출처는 움켜쥠이 볼품없는 부분이라 하고, 카드는 빠져나가는 성질이라 함. 「경험」 출처 표기도 없음."},
+{"n":5,"text":"움켜쥠·greifen은 서양 개념화=승화된 폭력, 극복의 앎은 수용","label":"지지됨","evidence":"Western thought as sublimated violence","note":""},
+{"n":6,"text":"condition을 함께 말함으로 변용(p.39)","label":"지지됨","evidence":"the terms on which we speak together","note":""},
+{"n":7,"text":"하이데거 thanking이 수용과 짝","label":"지지됨","evidence":"thinking as thanking","note":""}],
+"sources_used":["문헌/@Cavell1990 Conditions Handsome and Unhandsome.md","_원자료/로컬/Reading COH/notes/lecture-1_aversive-thinking_map.md","_원자료/로컬/Reading COH/notes/lecture-1_aversive-thinking_map_KR.md"],"sources_missing":[]},
+
+{"id":"16d3","voice":"문헌","verdict":"지지됨","claims":[
+{"n":0,"text":"의미를 이루는 사실의 부재를 말하는 피조물의 유한성으로 읽는다","label":"지지됨","evidence":"finite condition of a creature that talks","note":""},
+{"n":1,"text":"「Availability」 대목을 다시 인용(p.81)","label":"지지됨","evidence":"from 'The Availability of Wittgenstein's","note":""},
+{"n":2,"text":"투사가 일어나도록 보장하는 것은 없다","label":"지지됨","evidence":"nothing insures","note":""},
+{"n":3,"text":"whirl of organism / nothing more, but nothing less","label":"지지됨","evidence":"all the whirl of organism Wittgenstein calls","note":""},
+{"n":4,"text":"'사실이 없다'는 진화상의 간과처럼 그림; 유한한 피조물로","label":"지지됨","evidence":"an oversight in our evolution; a finite creature","note":""},
+{"n":5,"text":"걷기 우화: grounded only on the human and the ground","label":"지지됨","evidence":"grounded only 'on the human and the ground'","note":""}],
+"sources_used":["문헌/@Cavell1990 Conditions Handsome and Unhandsome.md","_원자료/로컬/Reading COH/notes/lecture-2_argument-of-the-ordinary_map.md"],"sources_missing":[]},
+
+{"id":"16d","voice":"문헌","verdict":"원문없음","claims":[
+{"n":0,"text":"기준과 회의주의는 서로의 가능성이다","label":"지지됨","evidence":"기준과 회의주의는 서로의 가능성이다(p.64)","note":"영어 인용문 글자는 출처에 없어 대조 불가."},
+{"n":1,"text":"일치는 계약일 수 없고 떨어져 나가길 바라기도 한다(p.64)","label":"지지됨","evidence":"disappointment with / repudiation of criteria","note":""},
+{"n":2,"text":"기준은 논박 장치가 아니라 회의주의의 힘과 진리를 보여 준다","label":"원문에 없음","evidence":"","note":"진리, truth, 힘 Grep 무결과. 출처는 기준을 답변으로 여긴 철학자 비판만 있음."},
+{"n":3,"text":"이 주제를 기준에 대한 실망이라고도 부른다","label":"지지됨","evidence":"disappointment with criteria","note":""},
+{"n":4,"text":"크립키는 규칙을 근본에 두어 기준을 종속, 일상을 과소평가하거나 선결문제로 삼음","label":"부분 지지","evidence":"subordinates criteria — evades 'the ordinary'","note":"출처는 일상을 '회피'한다고만 함. '과소평가·선결문제'는 없음."},
+{"n":5,"text":"크립키가 옳으면 내가 틀림; 일상의 논증은 어느 쪽도 이겨선 안 됨","label":"지지됨","evidence":"an argument neither side should win","note":""}],
+"sources_used":["문헌/@Cavell1990 Conditions Handsome and Unhandsome.md","_원자료/로컬/Reading COH/notes/lecture-2_argument-of-the-ordinary_map.md"],"sources_missing":[]},
+
+{"id":"16d1","voice":"문헌","verdict":"원문없음","claims":[
+{"n":0,"text":"크립키는 §217의 말하고 싶어짐을 허가로 바꾸어 읽는다","label":"지지됨","evidence":"'inclined to say' ≠ 'licensed'","note":""},
+{"n":1,"text":"§217: 삽이 휘면 'This is simply what I do'라 말하고 싶어짐","label":"지지됨","evidence":"my spade is turned. Then I am inclined to say","note":""},
+{"n":2,"text":"크립키 독해를 licensed to say…로 다시 씀(p.70)","label":"지지됨","evidence":"licensed to say…inclined to do","note":"지도 표기와 카드 인용문 글자가 다름(Then, simply). 원서 대조 필요."},
+{"n":3,"text":"말하고 싶어지는 것은 반드시 이어 말하는 것이 아니다","label":"지지됨","evidence":"precisely not what I necessarily go on to say","note":""},
+{"n":4,"text":"초대에 응하고 싶어도 반대 고려가 있으면 망설인다(p.71)","label":"원문에 없음","evidence":"","note":"초대 사례 Grep(invit) 시 교사가 아이를 초대한다는 말만 있음."},
+{"n":5,"text":"교사도 망설임을 표현하고 있을 수 있다(p.71)","label":"지지됨","evidence":"there's hesitation, consideration, patience","note":""},
+{"n":6,"text":"'unhesitatingly but blindly'를 아픔과 함께 듣는다(p.71)","label":"원문에 없음","evidence":"","note":"pain, 아픔 Grep 무결과. 크립키의 문구는 Kripke 노트에서 확인."},
+{"n":7,"text":"좋은 교사는 언제 가만히 있어야 하는지, 기다리는지 안다(p.97)","label":"원문에 없음","evidence":"","note":"silent, 가만히 Grep 무결과. 교사가 기다린다는 말만 있음."},
+{"n":8,"text":"'This is simply what I do'는 'Follow me, I am the way'에 가까울 수 있다(p.77)","label":"지지됨","evidence":"something like 'Follow me, I am the way'","note":""}],
+"sources_used":["문헌/@Cavell1990 Conditions Handsome and Unhandsome.md","_원자료/로컬/Reading COH/notes/lecture-2_argument-of-the-ordinary_map.md","문헌/@Kripke1982 Wittgenstein on Rules and Private Language.md"],"sources_missing":[]},
+
+{"id":"16d4","voice":"문헌","verdict":"원문없음","claims":[
+{"n":0,"text":"회의주의는 기준을 벗겨 내고 tabair는 덧쌓는다","label":"지지됨","evidence":"builds criteria up at will","note":""},
+{"n":1,"text":"tabair=에펠탑 밑 아닌 탁자이거나 거기 있는 의자(p.87)","label":"지지됨","evidence":"a table not at the Eiffel Tower base","note":""},
+{"n":2,"text":"개념 적용엔 탑 안팎의 기준을 이미 갖춰야 한다고 지적(p.88)","label":"원문에 없음","evidence":"","note":"already, 이미 Grep 무결과."},
+{"n":3,"text":"회의주의=기준을 벗겨 냄, tabair=기준을 덧쌓음(p.88)","label":"지지됨","evidence":"strips criteria from us","note":""},
+{"n":4,"text":"회의주의자는 기준을 자연스러운 반응 영역에서 떼어 낸다","label":"부분 지지","evidence":"rooted in shared natural reactions","note":"기준이 자연스러운 반응에 뿌리내린다는 용어 풀이만 있고 떼어 낸다는 서술은 없음."},
+{"n":5,"text":"일상 개념도 셈하기에 기대되 what counts for us의 함수","label":"지지됨","evidence":"ordinary counting = what counts for us","note":""},
+{"n":6,"text":"일상 개념은 역사, 수학 개념은 앞뒤를 가지며 영원","label":"지지됨","evidence":"ordinary concepts have histories","note":""},
+{"n":7,"text":"tabair는 일상 개념을 수학화·정의에 종속시킬 가능성의 예시","label":"부분 지지","evidence":"builds criteria up at will","note":"tabair와 수학화 종속의 연결은 지도에 명시되지 않음."}],
+"sources_used":["문헌/@Cavell1990 Conditions Handsome and Unhandsome.md","_원자료/로컬/Reading COH/notes/lecture-2_argument-of-the-ordinary_map.md"],"sources_missing":[]},
+
+{"id":"16e4","voice":"문헌","verdict":"원문없음","claims":[
+{"n":0,"text":"오 후작 부인의 용서에서 거짓 완전주의로부터의 구출을 읽는다","label":"지지됨","evidence":"rescue from a *false* perfectionism","note":""},
+{"n":1,"text":"병사들에게서 구해 준 백작에게 겁탈당하고 임신(p.101,p.116)","label":"부분 지지","evidence":"raped in her sleep by the Count who 'rescued'","note":"'병사들'은 지도에 없음(soldier, 병사 Grep 무결과)."},
+{"n":2,"text":"의무론·공리주의 근거로는 병사들과 같은 벌, 그러나 용서","label":"원문에 없음","evidence":"","note":"공리, utilit, deontolog 무결과. 지도는 'a real, vile wrong — yet she forgives'만."},
+{"n":3,"text":"용서는 공통 인간성에 기댐: forgiveness for being human(p.120)","label":"지지됨","evidence":"a forgiveness for being human","note":""},
+{"n":4,"text":"백작이 완전함 욕구에서 구출 청함; 서로의 버려진 자아; false autonomy(p.121)","label":"부분 지지","evidence":"Each is the other's rejected self","note":"백작이 구출을 청한다는 대목은 지도에 없음. 나머지는 지지."},
+{"n":5,"text":"천사→악마로 본 일을 파스칼 문장과 잇는다(p.118)","label":"부분 지지","evidence":"he who would play the angel plays the beast","note":"파스칼 인용은 있으나 백작을 천사에서 악마로 본 일과의 연결은 지도에 없음."},
+{"n":6,"text":"회복에서 세계의 귀환은 두렵게 낯설고 실망스럽게 시작될 수 있다","label":"지지됨","evidence":"the return is uncanny, disappointing","note":""},
+{"n":7,"text":"세계의 귀환은 부인과 폭력적 망각의 구조를 띤다(pp.123–124)","label":"원문에 없음","evidence":"","note":"부인, forgetting, denial Grep 무결과."}],
+"sources_used":["문헌/@Cavell1990 Conditions Handsome and Unhandsome.md","_원자료/로컬/Reading COH/notes/lecture-3_conversation-of-justice_map.md"],"sources_missing":[]},
+
+{"id":"16e","voice":"문헌","verdict":"모순","claims":[
+{"n":0,"text":"사회에 대한 동의는 비례에 따라 나누어 줄 수 없다","label":"지지됨","evidence":"consent is not modifiable or proportionable","note":""},
+{"n":1,"text":"정의론에 원초적 입장 토론이 준비한 무언가가 흐른다 =정의의 대화(p.102)","label":"부분 지지","evidence":"threaded through A Theory of Justice","note":"'원초적 입장에서 원칙을 세우는 토론이 준비한'은 지도에 없음."},
+{"n":2,"text":"롤스: 현존 헌정은 정의에 미치지 못하고 벗어난 정도는 직관에 맡겨짐(p.107)","label":"부분 지지","evidence":"any real society falls short of ideal justice","note":"'직관에 맡겨진다'는 지도에 없음."},
+{"n":3,"text":"원칙에 동의한다는 생각이 동의를 한정·비례 배분하려는 시도로 이어짐","label":"지지됨","evidence":"we consent to the principles, not society","note":""},
+{"n":4,"text":"I cannot keep consent focused on the successes…","label":"지지됨","evidence":"I cannot keep consent focused on the successes","note":""},
+{"n":5,"text":"psychological exile is not exile","label":"지지됨","evidence":"Psychological exile is not exile.","note":""},
+{"n":6,"text":"최소 수혜자는 대개 침묵한다","label":"부분 지지","evidence":"the least advantaged may be silent","note":"원문은 '침묵할 수 있다(may)'. 카드는 '대개'로 강화."},
+{"n":7,"text":"인용: no satisfactory hearing for the resentment (p.108)","label":"모순","evidence":"no satisfactory hearing for it.","note":"지도의 인용은 '…for it.'이고 카드는 '…for the resentment.'. 인용문 글자 불일치. 원서 대조 필요."}],
+"sources_used":["문헌/@Cavell1990 Conditions Handsome and Unhandsome.md","_원자료/로컬/Reading COH/notes/lecture-3_conversation-of-justice_map.md"],"sources_missing":[]},
+
+{"id":"16e2","voice":"문헌","verdict":"원문없음","claims":[
+{"n":0,"text":"정당화가 바닥나면 옳음은 주장될 수 없고 무언가가 보여져야 한다","label":"지지됨","evidence":"right can't be asserted; something must be shown","note":""},
+{"n":1,"text":"노라가 보이려 하자 토르발이 아이처럼 말하고 세계를 이해 못 한다고 답함(p.109)","label":"부분 지지","evidence":"Torvald says she's 'talking like a child'","note":"'세계를 이해하지 못한다'는 지도에 없음(지도는 'out of her senses')."},
+{"n":2,"text":"노라의 떠남은 정당화가 끝나는 영역을 예시","label":"지지됨","evidence":"here justification runs out","note":""},
+{"n":3,"text":"특정한 잘못을 주장 못 하지만 고통이 너무 큰 상황","label":"원문에 없음","evidence":"","note":"고통, suffering, pain Grep 무결과."},
+{"n":4,"text":"이 영역을 도덕적 완전주의의 영역이라 부른다(p.112)","label":"지지됨","evidence":"Moral Perfectionism is the dimension of moral life","note":""},
+{"n":5,"text":"교육의 장면과 달리 피해자 쪽이 먼저 정당화의 끝에 닿는다","label":"지지됨","evidence":"reached first by the victim","note":""},
+{"n":6,"text":"'this is what I do, wait'는 옳음을 되풀이; 대안은 스스로 불만","label":"지지됨","evidence":"dissatisfied with what I do","note":""},
+{"n":7,"text":"대표로서 비인격적 수치; 동의가 나를 타협시킴을 보여야 함","label":"지지됨","evidence":"my consent compromises me","note":""}],
+"sources_used":["문헌/@Cavell1990 Conditions Handsome and Unhandsome.md","_원자료/로컬/Reading COH/notes/lecture-3_conversation-of-justice_map.md"],"sources_missing":[]},
+
+{"id":"16e3","voice":"문헌","verdict":"원문없음","claims":[
+{"n":0,"text":"도덕적 최종성은 유능하게 반대될 수 있는 판단에 실린다","label":"지지됨","evidence":"one that may be competently opposed","note":""},
+{"n":1,"text":"롤스 원리 인용 '…no matter how things finally transpire'(p.422)","label":"부분 지지","evidence":"act so that he need never blame himself","note":"지도 인용은 'himself'에서 끝남. 뒤 어구와 '인생 계획 채택 원리'는 출처에 없음."},
+{"n":2,"text":"이 조언을 도덕적 완전주의의 거부와 연결(p.113)","label":"지지됨","evidence":"reads this as the rejection of perfectionism","note":""},
+{"n":3,"text":"CoR에서 「규칙의 두 개념」 비판을 다시 끌어온다","label":"지지됨","evidence":"Reprising his old critique of Rawls's","note":""},
+{"n":4,"text":"야구에서 스트라이크 넷을 요구하는 사람은 무능, 규칙을 배우면 됨","label":"원문에 없음","evidence":"","note":"four strikes, 넷, 무능 Grep 무결과. 지도는 three strikes 규칙이 결판낸다고만."},
+{"n":5,"text":"판단 내용이 도덕적 논증에 들어가고 규칙 호소로 결판나지 않음","label":"부분 지지","evidence":"carried not by a rule but by a judgment","note":"규칙이 아닌 판단이 최종성을 싣는다는 점만 지지. 판단 내용이 논증에 들어간다는 말은 없음."},
+{"n":6,"text":"약속하기는 경고·저주·간청·용서 이상의 제도가 아님(p.115)","label":"지지됨","evidence":"no more an institution than warning or cursing","note":""},
+{"n":7,"text":"토르발의 사회 전체는 doll house, marionette theater","label":"지지됨","evidence":"a doll house, or marionette theater","note":""}],
+"sources_used":["문헌/@Cavell1990 Conditions Handsome and Unhandsome.md","_원자료/로컬/Reading COH/notes/lecture-3_conversation-of-justice_map.md"],"sources_missing":[]},
+
+{"id":"16e1","voice":"문헌","verdict":"원문없음","claims":[
+{"n":0,"text":"밀턴을 따라 결혼을 대화로 보고 사회의 표상으로 읽는다","label":"지지됨","evidence":"marriage becomes an emblem of society","note":""},
+{"n":1,"text":"재혼 희극·미지의 여인 멜로드라마를 완전주의 텍스트로 다룬다(pp.101–102)","label":"지지됨","evidence":"comedies of remarriage…melodramas of the unknown woman","note":""},
+{"n":2,"text":"재혼 희극은 이미 결혼한 부부가 다시 결혼에 이르는 과정을 그린다","label":"원문에 없음","evidence":"","note":"already married, 이미 결혼 Grep 무결과. 지도는 장르 주장(갱신된 의지)만 말함."},
+{"n":3,"text":"결혼을 이루는 것은 거듭 인정하려는 의지: all genuine marriage is remarriage","label":"지지됨","evidence":"all genuine marriage is remarriage","note":""},
+{"n":4,"text":"밀턴: 결혼은 a meet and happy conversation","label":"지지됨","evidence":"a meet and happy conversation","note":""},
+{"n":5,"text":"밀턴의 대화는 말을 빼놓을 수 없지만 말에 국한되지 않는다(p.104)","label":"원문에 없음","evidence":"","note":"국한, 말에 Grep 무결과."},
+{"n":6,"text":"재혼 희극이 결혼을 사회의 표상으로 제시(p.117)","label":"지지됨","evidence":"결혼을 사회의 표상으로 제시한다(p.104, p.117)","note":""},
+{"n":7,"text":"지도: 대화하려는 의지가 민주 사회 동의의 모형","label":"지지됨","evidence":"model of consent to democracy","note":""}],
+"sources_used":["문헌/@Cavell1990 Conditions Handsome and Unhandsome.md","_원자료/로컬/Reading COH/notes/lecture-3_conversation-of-justice_map.md"],"sources_missing":[]},
+
+{"id":"16e6","voice":"문헌","verdict":"지지됨","claims":[
+{"n":0,"text":"위로부터의 동의를 민주주의 도덕의 조건으로 본다","label":"지지됨","evidence":"the condition of democratic morality","note":""},
+{"n":1,"text":"완전주의는 정당화가 바닥나 무언가를 보여야 할 때 작동","label":"지지됨","evidence":"lives at exactly this point","note":""},
+{"n":2,"text":"혜택받은 이들은 아래로부터의 동의를 논증하기 부끄러워 삶이 정당화되지 않는다고 느낌","label":"지지됨","evidence":"ashamed to tell the less advantaged","note":""},
+{"n":3,"text":"그들이 보이는 것은 위로부터의 동의","label":"지지됨","evidence":"what they show is consent from above","note":""},
+{"n":4,"text":"위로부터의 동의=타협되어 있음을 인정, 편파성의 본보기로 살며 변화의 필요를 앎","label":"지지됨","evidence":"an example of human partiality","note":""},
+{"n":5,"text":"not a particular moral demand, but the condition…(p.125)","label":"지지됨","evidence":"not a particular moral demand","note":""},
+{"n":6,"text":"순응은 not a mere lack of community, but its parody","label":"지지됨","evidence":"its parody","note":""}],
+"sources_used":["문헌/@Cavell1990 Conditions Handsome and Unhandsome.md","_원자료/로컬/Reading COH/notes/lecture-3_conversation-of-justice_map.md"],"sources_missing":[]}
+]
+}

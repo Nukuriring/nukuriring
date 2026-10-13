@@ -1,0 +1,70 @@
+{
+ "id": "16e3",
+ "voice": "문헌",
+ "verdict": "원문없음",
+ "claims": [
+  {
+   "n": 0,
+   "text": "도덕적 최종성은 유능하게 반대될 수 있는 판단에 실린다",
+   "label": "지지됨",
+   "evidence": "one that may be competently opposed",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "롤스 원리 인용 '…no matter how things finally transpire'(p.422)",
+   "label": "부분 지지",
+   "evidence": "act so that he need never blame himself",
+   "note": "지도 인용은 'himself'에서 끝남. 뒤 어구와 '인생 계획 채택 원리'는 출처에 없음."
+  },
+  {
+   "n": 2,
+   "text": "이 조언을 도덕적 완전주의의 거부와 연결(p.113)",
+   "label": "지지됨",
+   "evidence": "reads this as the rejection of perfectionism",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "CoR에서 「규칙의 두 개념」 비판을 다시 끌어온다",
+   "label": "지지됨",
+   "evidence": "Reprising his old critique of Rawls's",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "야구에서 스트라이크 넷을 요구하는 사람은 무능, 규칙을 배우면 됨",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "four strikes, 넷, 무능 Grep 무결과. 지도는 three strikes 규칙이 결판낸다고만."
+  },
+  {
+   "n": 5,
+   "text": "판단 내용이 도덕적 논증에 들어가고 규칙 호소로 결판나지 않음",
+   "label": "부분 지지",
+   "evidence": "carried not by a rule but by a judgment",
+   "note": "규칙이 아닌 판단이 최종성을 싣는다는 점만 지지. 판단 내용이 논증에 들어간다는 말은 없음."
+  },
+  {
+   "n": 6,
+   "text": "약속하기는 경고·저주·간청·용서 이상의 제도가 아님(p.115)",
+   "label": "지지됨",
+   "evidence": "no more an institution than warning or cursing",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "토르발의 사회 전체는 doll house, marionette theater",
+   "label": "지지됨",
+   "evidence": "a doll house, or marionette theater",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Cavell1990 Conditions Handsome and Unhandsome.md",
+  "_원자료/로컬/Reading COH/notes/lecture-3_conversation-of-justice_map.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

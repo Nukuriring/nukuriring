@@ -1,0 +1,71 @@
+{
+ "id": "15a3",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "프리커는 반환원주의의 오류를 증언과 귀납을 같은 꼴로 본 데서 찾는다",
+   "label": "지지됨",
+   "evidence": "mistaken assimilation of the form of the problem",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "반환원주의자는 임의의 증언 믿음을 정당화할 일반 원리를 찾는 일로 잘못 상정한다",
+   "label": "부분 지지",
+   "evidence": "The anti-reductionist may mistakenly suppose",
+   "note": "원문은 'may mistakenly suppose'로 한정함. 카드는 '잘못 상정한다'로 단정."
+  },
+  {
+   "n": 2,
+   "text": "이 오류는 증언 정당화를 귀납 정당화의 형식에 동화한 데서 나온다(인용)",
+   "label": "지지됨",
+   "evidence": "Her error stems from a mistaken assimilation",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "귀납은 일반 추론 원리이므로 그 정당화도 완전히 일반적인 수준에서 이루어진다",
+   "label": "지지됨",
+   "evidence": "완전히 일반적인 수준에서 수행되어야 한다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "증언은 인식적 연결로는 통일되나 신빙성으로는 통일되지 않는다",
+   "label": "지지됨",
+   "evidence": "인식적 연결로서는 통일적이지만 신빙성에는 아님",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "쓸모 있는 일반화는 주제와 화자 유형별로 분화된 것뿐이고 정당화는 사례마다 다르다",
+   "label": "지지됨",
+   "evidence": "주제별·화자 유형별로 분화된 일반화뿐이다",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "반환원주의자는 '대체로 믿을 만하다'의 비순환 확립을 묻다가 비경험적 규범 원리로 건너뛴다",
+   "label": "지지됨",
+   "evidence": "비경험적 규범 원리(PR)로 도약한다",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "프리커는 코디를 본문에서 호명하지 않고 각주에서 지목한다(Claude 보고)",
+   "label": "지지됨",
+   "evidence": "Fricker는 코디를 본문에서 호명하지 않는다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Fricker1994 Against Gullibility.md",
+  "_원자료/claude.ai/chats/2026-05-13_Local reductionism and testimonial justification.md",
+  "_원자료/claude.ai/chats/2026-05-15_Coady의 초월론적 논증.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

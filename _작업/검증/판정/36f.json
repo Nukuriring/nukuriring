@@ -1,0 +1,57 @@
+{
+ "id": "36f",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "리드의 비환원주의에 따르면 증언은 반박 근거 없는 한 일견 정당성을 주는 기본 원천이다",
+   "label": "지지됨",
+   "evidence": "기본적인 인식 원천 ... 일견(prima facie) 정당성",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "리드에서 시작해 코디, 버지가 현대화한 비환원주의는 증언을 기본 원천으로 본다",
+   "label": "지지됨",
+   "evidence": "리드에서 발원하여 코디, 버지 등이 현대화",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "부정적 근거가 없는 한 긍정적 근거 없이도 일견 정당성을 가진다",
+   "label": "지지됨",
+   "evidence": "별도의 긍정적 근거 없이 일견 정당성",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "수용은 기본 권리이고 정당화 부담은 의심하는 쪽이 진다",
+   "label": "지지됨",
+   "evidence": "부담은 의심하는 쪽에 있다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "증언이 산출한 정당성은 다른 원천의 정당성으로 분해되지 않는다",
+   "label": "지지됨",
+   "evidence": "다른 원천의 정당성으로 분해되지 않는다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "경신성 비판과 설명이 약하다는 비판을 받는다",
+   "label": "지지됨",
+   "evidence": "epistemic gullibility ... 설명이 약하다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Reid1764 Inquiry into the Human Mind.md",
+  "문헌/@Coady1992 Testimony.md",
+  "_원자료/claude.ai/chats/2026-05-12_증언의 환원주의 vs 비환원주의.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

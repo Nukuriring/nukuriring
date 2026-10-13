@@ -1,0 +1,56 @@
+{
+ "id": "16d",
+ "voice": "문헌",
+ "verdict": "원문없음",
+ "claims": [
+  {
+   "n": 0,
+   "text": "기준과 회의주의는 서로의 가능성이다",
+   "label": "지지됨",
+   "evidence": "기준과 회의주의는 서로의 가능성이다(p.64)",
+   "note": "영어 인용문 글자는 출처에 없어 대조 불가."
+  },
+  {
+   "n": 1,
+   "text": "일치는 계약일 수 없고 떨어져 나가길 바라기도 한다(p.64)",
+   "label": "지지됨",
+   "evidence": "disappointment with / repudiation of criteria",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "기준은 논박 장치가 아니라 회의주의의 힘과 진리를 보여 준다",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "진리, truth, 힘 Grep 무결과. 출처는 기준을 답변으로 여긴 철학자 비판만 있음."
+  },
+  {
+   "n": 3,
+   "text": "이 주제를 기준에 대한 실망이라고도 부른다",
+   "label": "지지됨",
+   "evidence": "disappointment with criteria",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "크립키는 규칙을 근본에 두어 기준을 종속, 일상을 과소평가하거나 선결문제로 삼음",
+   "label": "부분 지지",
+   "evidence": "subordinates criteria — evades 'the ordinary'",
+   "note": "출처는 일상을 '회피'한다고만 함. '과소평가·선결문제'는 없음."
+  },
+  {
+   "n": 5,
+   "text": "크립키가 옳으면 내가 틀림; 일상의 논증은 어느 쪽도 이겨선 안 됨",
+   "label": "지지됨",
+   "evidence": "an argument neither side should win",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Cavell1990 Conditions Handsome and Unhandsome.md",
+  "_원자료/로컬/Reading COH/notes/lecture-2_argument-of-the-ordinary_map.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

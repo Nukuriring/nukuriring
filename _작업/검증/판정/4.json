@@ -1,0 +1,58 @@
+{
+ "id": "4",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "맥도웰과 트래비스는 일반성을 경험에 두는지 판단 능력에 두는지에서 갈린다",
+   "label": "지지됨",
+   "evidence": "The single fault line",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "일반성은 경험에 수동적으로 주어지는가, 판단자의 능동적 능력인가",
+   "label": "지지됨",
+   "evidence": "given in experience (the passive side)",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "맥도웰과 Gersel: 일반성이 경험에 주어지고 간극은 경험 안에서 닫힘",
+   "label": "지지됨",
+   "evidence": "already closed in experience",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "트래비스는 가환적 능력에, Ginsborg는 원초적 규범성에 둠",
+   "label": "지지됨",
+   "evidence": "sub-rational normativity",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "대립은 암반의 내용 차이: 맥도웰은 일반성, 트래비스는 예화",
+   "label": "지지됨",
+   "evidence": "they disagree about what is in it",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "맥도웰은 물음을 묻지 않는다고, 트래비스는 잘못 세운 물음이 신화를 만든다고 비판",
+   "label": "지지됨",
+   "evidence": "Travis is oblivious to it",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Walkthrough/Walkthrough_Notes/04_PartI_Debate-Map.md",
+  "_원자료/로컬/Walkthrough/Walkthrough_Notes/03_Discussion_Travis-McDowell-Cavell.md",
+  "문헌/@Gersel2018 What is the Myth of the Given.md",
+  "문헌/@Ginsborg2018 Empiricism and Normative Constraint.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

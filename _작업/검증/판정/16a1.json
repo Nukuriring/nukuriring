@@ -1,0 +1,56 @@
+{
+ "id": "16a1",
+ "voice": "문헌",
+ "verdict": "원문없음",
+ "claims": [
+  {
+   "n": 0,
+   "text": "낱말과의 관계는 사유와의 도덕적 관계와 떼어 놓지 않는다",
+   "label": "지지됨",
+   "evidence": "inseparable from a certain moral-like relation",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "인용문(p.46)",
+   "label": "지지됨",
+   "evidence": "A certain relation to words",
+   "note": "괄호 '(as an allegory…)'는 지도가 말줄임이라 글자 대조 불가."
+  },
+  {
+   "n": 2,
+   "text": "에머슨의 사유 묘사에 풍기는 도덕적 긴박감을 설명하는 맥락",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "urgency, 긴박 Grep 무결과."
+  },
+  {
+   "n": 3,
+   "text": "특정한 계열; 목적론·의무론 어느 쪽에도 속하지 않음(p.46)",
+   "label": "부분 지지",
+   "evidence": "목적론과 의무론 어느 쪽에도 속하지 않으며",
+   "note": "'특정한 계열'과 극대화 좋음·독립된 옳음 풀이는 출처에 없음."
+  },
+  {
+   "n": 4,
+   "text": "지도: 강연 1의 경첩; 낱말 무게=삶을 떠맡는 알레고리",
+   "label": "지지됨",
+   "evidence": "allegory of caring about your life",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "사유의 물음과 도덕의 물음이 같은 물음",
+   "label": "지지됨",
+   "evidence": "the same question",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Cavell1990 Conditions Handsome and Unhandsome.md",
+  "_원자료/로컬/Reading COH/notes/lecture-1_aversive-thinking_map.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

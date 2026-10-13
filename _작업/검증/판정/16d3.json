@@ -1,0 +1,56 @@
+{
+ "id": "16d3",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "의미를 이루는 사실의 부재를 말하는 피조물의 유한성으로 읽는다",
+   "label": "지지됨",
+   "evidence": "finite condition of a creature that talks",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "「Availability」 대목을 다시 인용(p.81)",
+   "label": "지지됨",
+   "evidence": "from 'The Availability of Wittgenstein's",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "투사가 일어나도록 보장하는 것은 없다",
+   "label": "지지됨",
+   "evidence": "nothing insures",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "whirl of organism / nothing more, but nothing less",
+   "label": "지지됨",
+   "evidence": "all the whirl of organism Wittgenstein calls",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "'사실이 없다'는 진화상의 간과처럼 그림; 유한한 피조물로",
+   "label": "지지됨",
+   "evidence": "an oversight in our evolution; a finite creature",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "걷기 우화: grounded only on the human and the ground",
+   "label": "지지됨",
+   "evidence": "grounded only 'on the human and the ground'",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Cavell1990 Conditions Handsome and Unhandsome.md",
+  "_원자료/로컬/Reading COH/notes/lecture-2_argument-of-the-ordinary_map.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

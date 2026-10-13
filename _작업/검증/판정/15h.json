@@ -1,0 +1,63 @@
+{
+ "id": "15h",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "청자는 들은 내용을 가정하지 않고 이번 화자의 진실성과 유능성만 확립하면 된다",
+   "label": "지지됨",
+   "evidence": "I need only to establish, without assuming that",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "첨부된 글은 코디에 대한 직접 응답으로 환원을 두 종류로 나눈다",
+   "label": "지지됨",
+   "evidence": "코디에 대한 프리커의 direct response",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "전역 환원은 증언 일반의 신빙성을 비증언적 기반에서 입증하는 작업이며 불가능하다",
+   "label": "지지됨",
+   "evidence": "불가능. Fricker가 코디에 동의하는 부분",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "국소 환원의 정식 인용문",
+   "label": "지지됨",
+   "evidence": "she is on this occasion sincere, and is competent",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "단순히 신뢰된 증언이 배경 지식에 있음을 인정하고 요인을 갈라낸다(인용)",
+   "label": "지지됨",
+   "evidence": "separate out these factors in my epistemic situation",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "발달 단계는 PR 테제를 인정하고 성숙 단계는 거부한다",
+   "label": "지지됨",
+   "evidence": "Developmental ... PR thesis 인정 / Mature 거부",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "증언을 단일 범주로 다루지 말라는 분해가 보조 논점이다",
+   "label": "지지됨",
+   "evidence": "Disaggregation 보조 논점",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Fricker1995 Telling and Trusting.md",
+  "_원자료/claude.ai/chats/2026-05-14_두 가지 옵션 비교 평가.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

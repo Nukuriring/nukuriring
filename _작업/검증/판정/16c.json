@@ -1,0 +1,70 @@
+{
+ "id": "16c",
+ "voice": "문헌",
+ "verdict": "원문없음",
+ "claims": [
+  {
+   "n": 0,
+   "text": "천재의 작품은 버린 생각을 소외된 위엄으로 되돌려 준다",
+   "label": "지지됨",
+   "evidence": "come back to us with a certain alienated majesty",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "첫 문단 인용을 독자 변형 기제로 읽는다(p.44, p.57)",
+   "label": "지지됨",
+   "evidence": "The mechanism — how a text transforms you",
+   "note": "p.44는 출처에서 확인 못함."
+  },
+  {
+   "n": 2,
+   "text": "소외된 위엄=칸트의 숭고, 프로이트 전이 구조(p.57)",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "지도는 두려운 낯섦(uncanny)만 말함. 숭고·전이 어휘 Grep(sublim, 숭고, transfer, 전이) 무결과. 카드 출처 줄도 원서 대조임을 인정."
+  },
+  {
+   "n": 3,
+   "text": "억압된 생각으로서 더 먼 도달 가능한 자아를 대리",
+   "label": "지지됨",
+   "evidence": "your rejected / further self",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "생각은 정확히 나의 것도 아니고 아닌 것도 아니다",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "neither, 정확히 어구 Grep 무결과."
+  },
+  {
+   "n": 5,
+   "text": "기원을 타자에게 돌려 내 안에 심겼다고 여기면 우상숭배",
+   "label": "부분 지지",
+   "evidence": "기원을 타자에게만 돌리는 일은 우상숭배",
+   "note": "'내 안에 심겼다고 여긴다'는 부연은 출처에 없음."
+  },
+  {
+   "n": 6,
+   "text": "인정과 부정의 관계로 완전주의는 우정에 높은 역할",
+   "label": "지지됨",
+   "evidence": "완전주의는 우정에 높은 역할을 주고",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "아리스토텔레스 another myself, 니체 쪽 굴절(p.59)",
+   "label": "부분 지지",
+   "evidence": "friend ('another myself')",
+   "note": "another myself와 범례가 적이라는 말은 있으나 아리스토텔레스·니체 귀속은 출처에 없음."
+  }
+ ],
+ "sources_used": [
+  "문헌/@Cavell1990 Conditions Handsome and Unhandsome.md",
+  "_원자료/로컬/Reading COH/notes/lecture-1_aversive-thinking_map.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

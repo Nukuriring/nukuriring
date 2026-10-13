@@ -1,0 +1,63 @@
+{
+ "id": "15g",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "더밋에 따르면 설명적 정당화는 정당화 대상 원리를 써도 실패하지 않는다",
+   "label": "지지됨",
+   "evidence": "not an objection if its role is merely explanatory",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "프리커는 버지를 다루는 글에서 더밋의 설득적/설명적 구분을 소개한다",
+   "label": "지지됨",
+   "evidence": "Dummett draws a useful distinction",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "설득적 정당화는 아직 확신하지 못한 사람을 설득하려는 것이다",
+   "label": "지지됨",
+   "evidence": "persuade someone hitherto unconvinced",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "설명적 정당화는 덜 부담스럽지만 중요하며 이미 확신한 상태에서 이유를 설명한다",
+   "label": "지지됨",
+   "evidence": "important, but less demanding role",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "설득적이어야 하면 R을 쓸 때 실패하나 설명에 그치면 반론이 안 된다",
+   "label": "지지됨",
+   "evidence": "it will fail if the justificatory material itself",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "연역을 쓰는 연역의 정당화도 정당한 설명적 정당화가 될 수 있다",
+   "label": "지지됨",
+   "evidence": "may yet serve as legitimate explanatory",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "이 구분은 다른 인식 원리의 순환 비판을 가르는 일반 도구로 쓰일 수 있다",
+   "label": "지지됨",
+   "evidence": "다른 인식론 영역에도 적용 가능한 일반 도구",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Fricker2006 Martians and Meetings.md",
+  "_원자료/claude.ai/chats/2026-05-14_Local reductionism and testimony reliability.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

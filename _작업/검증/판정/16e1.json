@@ -1,0 +1,70 @@
+{
+ "id": "16e1",
+ "voice": "문헌",
+ "verdict": "원문없음",
+ "claims": [
+  {
+   "n": 0,
+   "text": "밀턴을 따라 결혼을 대화로 보고 사회의 표상으로 읽는다",
+   "label": "지지됨",
+   "evidence": "marriage becomes an emblem of society",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "재혼 희극·미지의 여인 멜로드라마를 완전주의 텍스트로 다룬다(pp.101–102)",
+   "label": "지지됨",
+   "evidence": "comedies of remarriage…melodramas of the unknown woman",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "재혼 희극은 이미 결혼한 부부가 다시 결혼에 이르는 과정을 그린다",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "already married, 이미 결혼 Grep 무결과. 지도는 장르 주장(갱신된 의지)만 말함."
+  },
+  {
+   "n": 3,
+   "text": "결혼을 이루는 것은 거듭 인정하려는 의지: all genuine marriage is remarriage",
+   "label": "지지됨",
+   "evidence": "all genuine marriage is remarriage",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "밀턴: 결혼은 a meet and happy conversation",
+   "label": "지지됨",
+   "evidence": "a meet and happy conversation",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "밀턴의 대화는 말을 빼놓을 수 없지만 말에 국한되지 않는다(p.104)",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "국한, 말에 Grep 무결과."
+  },
+  {
+   "n": 6,
+   "text": "재혼 희극이 결혼을 사회의 표상으로 제시(p.117)",
+   "label": "지지됨",
+   "evidence": "결혼을 사회의 표상으로 제시한다(p.104, p.117)",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "지도: 대화하려는 의지가 민주 사회 동의의 모형",
+   "label": "지지됨",
+   "evidence": "model of consent to democracy",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Cavell1990 Conditions Handsome and Unhandsome.md",
+  "_원자료/로컬/Reading COH/notes/lecture-3_conversation-of-justice_map.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
