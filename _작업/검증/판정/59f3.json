@@ -1,0 +1,70 @@
+{
+ "id": "59f3",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "버드는 가능한 비존재, 비결정성, 인과 방향 차이로 물리적 지향성을 지향성으로 인정하지 않는다",
+   "label": "지지됨",
+   "evidence": "So, intentionality* isn’t intentionality.",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "비존재가 유사하다면 내포성을 보여야 하는데 물리적 지향성은 내포성을 함축하지 않는다",
+   "label": "지지됨",
+   "evidence": "intentionality* does not imply intensionality",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "'페가수스는 존재하지 않는다'는 사소하지 않게 참이나 내포 맥락이 아니다",
+   "label": "지지됨",
+   "evidence": "neither intentional nor intensional",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "결정론 아래 꽃병이 깨지는 완전히 결정적인 방식은 하나뿐",
+   "label": "지지됨",
+   "evidence": "only one fully determinate way it will…break",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "무한한 결정적 대상은 단일한 비결정적 대상과 같지 않다",
+   "label": "지지됨",
+   "evidence": "not the same as a single indeterminate one",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "지향은 대상에서 상태로, 물리적 지향성은 힘에서 발현으로 인과가 향한다",
+   "label": "지지됨",
+   "evidence": "from a potency to its manifestation",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "양자 얽힘에서는 인과 방향이 따로 없을 수 있다",
+   "label": "지지됨",
+   "evidence": "인과의 방향이 따로 없는거 아니냐?",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "심적 지향도 유니콘처럼 인과적 상관이 없는 경우가 있다",
+   "label": "지지됨",
+   "evidence": "인과적 상관이 없을 수 있다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/2024 9 19 방향성과 물리적 지향성",
+  "문헌/@형이상학연습 0919 물리적 지향성 강의 필기.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

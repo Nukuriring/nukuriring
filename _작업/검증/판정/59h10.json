@@ -1,0 +1,70 @@
+{
+ "id": "59h10",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "플로지스톤 반론은 존재하지 않는 속성의 법칙이 현실에 적용되는지 묻고 일반적/단칭적 가능성 구분으로 답한다",
+   "label": "지지됨",
+   "evidence": "general possibility와 singular possibility를 구분",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "이질적 속성이 어떤 가능 세계에 있다면 이질적 법칙도 현실에 대해 참이어야 하지 않느냐",
+   "label": "지지됨",
+   "evidence": "플로지스톤 법칙 역시 현실 세계에서 참이다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "법칙이면 모든 세계 안에서(in) 참이라는 강한 필연성과 (at) 약한 필연성",
+   "label": "지지됨",
+   "evidence": "STrong Nec…in / WEak Nec…at",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "크립키라면 플로지스톤이 가능한 자연종이라는 데 반대할 것",
+   "label": "지지됨",
+   "evidence": "Kripke would say no",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "일반적 가능성은 딸을 가질 수 있었다, 단칭적 가능성은 앤스컴이 딸일 수 있었다에 해당",
+   "label": "지지됨",
+   "evidence": "엘리자베스 엔스콤이 비트겐슈타인의 딸",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "후자는 전자에서 함축되지 않는다",
+   "label": "지지됨",
+   "evidence": "첫 번째 가능성에 의해 함축되지 않는다",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "존재하지 않는 속성이 있을 수 있었다는 말은 일반적 가능성이라 이질적 법칙이 현실에서 참이라는 근거가 안 된다",
+   "label": "지지됨",
+   "evidence": "이건 general possibility다",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "필기는 버드가 바칸 공식을 받아들이므로 이렇게 답하기 어렵다고 본다",
+   "label": "지지됨",
+   "evidence": "Balcan formula를 받아들이는 Bird는 하기 어렵다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Metaphysics Seminar/11 14",
+  "문헌/@형이상학세미나 1114 맥트릭의 전략과 로우의 존재론 필기.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

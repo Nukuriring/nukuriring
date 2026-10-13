@@ -1,0 +1,77 @@
+{
+ "id": "59b2",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "질량과 전하의 역할을 맞바꾼 세계는 정언주의가 구별해야 하는 구별 없는 차이를 낳는다",
+   "label": "지지됨",
+   "evidence": "a distinction without difference",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "정언주의는 퀴디티주의와 결합해 근본 속성에 원초적 이것임을 준다",
+   "label": "지지됨",
+   "evidence": "근본적 속성들은 원초적인 Quiddity를 가진다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "역할을 바꾼 세계를 정언주의자는 현실과 구별해야 할 압력을 받는다",
+   "label": "지지됨",
+   "evidence": "구분될 수 있어야만 한다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "그 세계의 물리 이론은 같아서 블랙은 차이 없는 구별, 버드는 이름 맞바꾸기 결정일 뿐",
+   "label": "지지됨",
+   "evidence": "plus a decision to swap the names",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "본질이 이론적 역할로 구성된다고 보면 이 직관을 지킬 수 있다",
+   "label": "지지됨",
+   "evidence": "essence of a property is constituted by its theoretical roles",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "질량의 이론적 역할을 정확히 하는 속성은 사실 질량이다",
+   "label": "지지됨",
+   "evidence": "it is as a matter of fact mass",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "이 논증은 정언 일원론과 혼합 견해를 겨냥",
+   "label": "지지됨",
+   "evidence": "target – 정언주의자(CM) + 혼합 관점(MV)",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "정언주의자는 원초적 정체성 때문에 두 세계가 다르다고 답할 것",
+   "label": "지지됨",
+   "evidence": "근본속성이 원초적 정체성을 가지니까",
+   "note": ""
+  },
+  {
+   "n": 8,
+   "text": "질량이 질량의 역할을 하지 않아도 질량인가 하는 물음은 직관의 충돌이다",
+   "label": "부분 지지",
+   "evidence": "직관 충돌이긴 한 것 같긴하다",
+   "note": "원문은 '~인 것 같다'로 한정. 카드는 단정."
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/0912 형이상학 연습",
+  "문헌/@형이상학연습 0912 정언주의와 성향 본질주의 강의 필기.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

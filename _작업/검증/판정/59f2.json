@@ -1,0 +1,70 @@
+{
+ "id": "59f2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "버드는 향함이 바위에도 쓰이고 힘 문장은 내포 맥락을 만들지 않는다고 물리적 지향성을 비판한다",
+   "label": "지지됨",
+   "evidence": "a falling rock can be directed towards the road",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "버드는 몰나르의 평행에 여러 반론을 낸다",
+   "label": "지지됨",
+   "evidence": "Bird's objection to physical intentionality",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "바위도 도로를 향하지만 지향성이 있다 여기지 않으므로 '향한다'에 더 많은 뜻이 필요",
+   "label": "지지됨",
+   "evidence": "something more must be meant by ‘directed’",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "지향 상태 명제는 내포 맥락을 만들지만 물리적 힘 문장은 만들지 않는다",
+   "label": "지지됨",
+   "evidence": "Intentional context를 만들어 내지 않는다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "A1이 B1을 함축하지 않는다는 몰나르 논증을 버드는 성공적이지 않다고 본다",
+   "label": "지지됨",
+   "evidence": "Bird가 보기에는 이 논증이 성공적이지 않다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "우체통 색을 고정지시어로 쓰면 A1이 B1을 함축",
+   "label": "지지됨",
+   "evidence": "A1은 B1을 함축한다라고 볼 수 있을 것",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "자연 속성 의미로 쓰면 지시에 실패해 공지시가 성립하지 않는다",
+   "label": "지지됨",
+   "evidence": "지시에 성공할 수 없다…Co-referential하지 않다",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "필기는 공지시 대체에서 진리값이 달라지는 경우가 하나라도 있으면 내포적이라며 버드 논증의 충분성을 의문시",
+   "label": "지지됨",
+   "evidence": "진리 값이 달라지는 경우가 있으면 Intensional",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/2024 9 19 방향성과 물리적 지향성",
+  "문헌/@형이상학연습 0919 물리적 지향성 강의 필기.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
