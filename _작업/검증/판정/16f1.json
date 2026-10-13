@@ -1,0 +1,57 @@
+{
+ "id": "16f1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "다른 마음의 외부인은 너무 바깥에 서다가 내 안으로 무너진다",
+   "label": "지지됨",
+   "evidence": "if he exists, he is in me",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "외부 세계 외부인에게는 잠과 깸의 차이 등에 관해 모르는 것을 알기를 기대하지 않음(p.417)",
+   "label": "지지됨",
+   "evidence": "잠과 깸의 차이에 관하여",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "다른 마음 외부인은 인간과 비인간의 차이에 관해 내가 모르는 것을 알아야 함",
+   "label": "지지됨",
+   "evidence": "인간과 비인간 사이의 … 차이가 무엇인지",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "모런: 추가 요소 때문에 회의 이전 위치에서 너무 멀리 바깥, 어떤 물음에 답하도록 불렸는지 놓침",
+   "label": "지지됨",
+   "evidence": "he's now too far outside",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "반대 방향 불안정: 판정을 믿을 수 없고 결국 나를 어느 쪽에 두는지로 돌아옴",
+   "label": "지지됨",
+   "evidence": "not far enough outside",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "내 고통에 관한 외부인의 앎에 제한을 걸고 카벨은 if he exists, he is in me라 씀(p.418)",
+   "label": "지지됨",
+   "evidence": "not really an Outsider to me",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Moran2011 Cavell on Outsiders and Others.md",
+  "문헌/@Cavell1979 The Claim of Reason.md",
+  "_원자료/claude.ai/chats/2026-07-07_Epistemological limits and the outsider perspective.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,57 @@
+{
+ "id": "2a1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "face value를 주는 것은 P가 성립하지 않아도 거기 있어야 한다",
+   "label": "지지됨",
+   "evidence": "P이지 않아도 이미 거기에 있는 무언가여야만 한다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "face value에는 두 가지 특징이 따른다",
+   "label": "지지됨",
+   "evidence": "2-2, 2-3 항목",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "돼지의 현존이 face value를 만들 수 없는 이유(틀릴 가능성 소실)",
+   "label": "지지됨",
+   "evidence": "틀릴 수 있음이 소실된다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "맥도웰: face value는 받아들이거나 거부할 수 있는 것",
+   "label": "지지됨",
+   "evidence": "수용하거나 거절할 수 있는 것이다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "영진이 두 특징을 노트에 이렇게 정리",
+   "label": "지지됨",
+   "evidence": "face-value를 주는 것은 어떤 것의 presence일 수 없다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "보이는 일과 표상되는 일은 다른 현상이라는 예비적 지적",
+   "label": "지지됨",
+   "evidence": "분명히 다른 현상이다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Travis2004 The Silence of the Senses.md",
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/The silence of the senses 1097344d008a4a9396759ade5bb2a2ba.md",
+  "_원자료/claude.ai/chats/2026-05-25_첫 챕터부터 차근차근 공부하기.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

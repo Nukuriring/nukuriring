@@ -1,0 +1,293 @@
+{
+  "model": "sonnet",
+  "date": "2026-10-13",
+  "cards": [
+    {
+      "id": "2", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "트래비스는 감각이 침묵하며 지각 경험에 표상 내용이 없다고 주장", "label": "지지됨", "evidence": "the senses are silent", "note": ""},
+        {"n": 1, "text": "표상주의(지각 경험이 표상적 내용을 가진다는 견해)를 부정", "label": "지지됨", "evidence": "지각 경험은 재현적 내용을 가진다", "note": ""},
+        {"n": 2, "text": "이 견해가 논증된 적 없이 처음부터 가정되어 왔다고 진단", "label": "지지됨", "evidence": "assumed from the outset", "note": ""},
+        {"n": 3, "text": "입장이 the senses are silent, or, in Austin's term, dumb 구절에 담김", "label": "지지됨", "evidence": "in Austin's term, dumb", "note": ""},
+        {"n": 4, "text": "경험은 그 자체로 참도 기만도 아니고 오도에 표상이 필요 없음", "label": "지지됨", "evidence": "not as such either veridical", "note": ""},
+        {"n": 5, "text": "§2에서 오스틴과 데카르트가 같은 편, 알아보는 일은 우리 몫", "label": "지지됨", "evidence": "둘이 같은 편이야", "note": ""},
+        {"n": 6, "text": "이 그림이 such is a view, and, so far, only that라고 인정", "label": "지지됨", "evidence": "such is a view, and, so far", "note": ""},
+        {"n": 7, "text": "영진 Notion 노트: 표적과 지향적 활동이 아님", "label": "지지됨", "evidence": "지각은 재현된 세계를 aim하는 것이 아니라는 점에서", "note": ""}
+      ],
+      "sources_used": ["문헌/@Travis2004 The Silence of the Senses.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/The silence of the senses 1097344d008a4a9396759ade5bb2a2ba.md", "_원자료/claude.ai/chats/2026-05-25_첫 챕터부터 차근차근 공부하기.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "2a1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "face value를 주는 것은 P가 성립하지 않아도 거기 있어야 한다", "label": "지지됨", "evidence": "P이지 않아도 이미 거기에 있는 무언가여야만 한다", "note": ""},
+        {"n": 1, "text": "face value에는 두 가지 특징이 따른다", "label": "지지됨", "evidence": "2-2, 2-3 항목", "note": ""},
+        {"n": 2, "text": "돼지의 현존이 face value를 만들 수 없는 이유(틀릴 가능성 소실)", "label": "지지됨", "evidence": "틀릴 수 있음이 소실된다", "note": ""},
+        {"n": 3, "text": "맥도웰: face value는 받아들이거나 거부할 수 있는 것", "label": "지지됨", "evidence": "수용하거나 거절할 수 있는 것이다", "note": ""},
+        {"n": 4, "text": "영진이 두 특징을 노트에 이렇게 정리", "label": "지지됨", "evidence": "face-value를 주는 것은 어떤 것의 presence일 수 없다", "note": ""},
+        {"n": 5, "text": "보이는 일과 표상되는 일은 다른 현상이라는 예비적 지적", "label": "지지됨", "evidence": "분명히 다른 현상이다", "note": ""}
+      ],
+      "sources_used": ["문헌/@Travis2004 The Silence of the Senses.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/The silence of the senses 1097344d008a4a9396759ade5bb2a2ba.md", "_원자료/claude.ai/chats/2026-05-25_첫 챕터부터 차근차근 공부하기.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "35l", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "레비에 따르면 문장 처리의 부담은 확률적 기대로 정해진다", "label": "지지됨", "evidence": "처리 부담을 결정한다", "note": ""},
+        {"n": 1, "text": "다음 낱말이나 구조에 대한 확률적 기대가 처리 부담을 정함", "label": "지지됨", "evidence": "다음 단어/구조에 대한 확률적 기대", "note": ""},
+        {"n": 2, "text": "헤일과 레비의 놀람도 이론은 난이도=놀람도라는 서술적 주장", "label": "지지됨", "evidence": "난이도 = 놀람도라는 서술적 주장", "note": ""},
+        {"n": 3, "text": "그 자체로는 훈련 처방을 내놓지 않는다", "label": "지지됨", "evidence": "처방을 달고 나오지 않아", "note": ""},
+        {"n": 4, "text": "인과적 병목 논변(조건부 확률 경로 하나뿐이면...)", "label": "지지됨", "evidence": "causal bottleneck 논변", "note": ""},
+        {"n": 5, "text": "그 확률은 영역 지식과 장르 구조 지식에서 나온다", "label": "지지됨", "evidence": "도메인 지식과 장르 구조 지식에 뿌리를 둬", "note": ""}
+      ],
+      "sources_used": ["문헌/@Levy2008 Expectation-based Syntactic Comprehension.md", "_원자료/claude.ai/chats/2026-07-06_독서 이론을 실제 학습에 적용하기.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "35l1", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "놀람도 이론은 무엇을 바꿔야 하는지 말하고 방법은 학습과학에 맡긴다", "label": "지지됨", "evidence": "무엇을 바꿔야 하는지", "note": ""},
+        {"n": 1, "text": "검증된 독해 교육 프로그램은 사실상 없고 예측 훈련 근거도 약함", "label": "지지됨", "evidence": "사실상 존재하지 않고", "note": ""},
+        {"n": 2, "text": "영역·장르의 잘 보정된 내적 확률 모델을 쌓아야 한다", "label": "지지됨", "evidence": "더 풍부하고 잘 보정된 내적 확률 모델", "note": ""},
+        {"n": 3, "text": "일반 독해 기술보다 지식·장르 특정 훈련을 요구", "label": "지지됨", "evidence": "지식·장르 특이적 훈련을 하라는 처방", "note": ""},
+        {"n": 4, "text": "지식을 쌓는 방법은 인출 연습 등 학습과학이 제공", "label": "지지됨", "evidence": "그 지식을 쌓는 방법을 제공해", "note": ""},
+        {"n": 5, "text": "훈련 두 갈래: 놀람도 낮추기와 재분석·추론 연습", "label": "지지됨", "evidence": "평소 surprisal 낮추기", "note": ""},
+        {"n": 6, "text": "숙련 독자에게 일반 전략 지도의 한계효용은 작다", "label": "지지됨", "evidence": "한계효용이 작아", "note": ""}
+      ],
+      "sources_used": ["문헌/@Levy2008 Expectation-based Syntactic Comprehension.md", "_원자료/claude.ai/chats/2026-07-06_독서 이론을 실제 학습에 적용하기.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "35b", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "양효실은 버틀러를 따라 코스텔로의 설명 불능과 광기를 실패의 윤리로 읽는다", "label": "지지됨", "evidence": "이 궤적을 실패의 윤리라 부르고", "note": ""},
+        {"n": 1, "text": "논문은 버틀러의 최근 저작과 코스텔로의 강연을 나란히 놓는다", "label": "지지됨", "evidence": "버틀러의 최근 저작과 코스텔로의 강연을 나란히 놓는다", "note": ""},
+        {"n": 2, "text": "버틀러: 설명 가능한 주체의 유능이 타자를 삭제", "label": "지지됨", "evidence": "유능이 타자를 삭제한다", "note": ""},
+        {"n": 3, "text": "코스텔로가 침묵 편에 서고 자기 옳음마저 의심, 미친 상태에 이름", "label": "지지됨", "evidence": "그 끝에서 미친 상태에 이른다", "note": ""},
+        {"n": 4, "text": "감수성을 과잉, 선각자에서 무지로, 가죽 구두 장면을 자기혐오로 요약", "label": "지지됨", "evidence": "자신을 혐오하고 있는 자의 대화", "note": ""},
+        {"n": 5, "text": "아들의 마지막 말이 휴식인지 몰락인지 모호하다고 적음", "label": "지지됨", "evidence": "휴식의 예고인지 세계의 몰락에 대한 암시인지", "note": ""},
+        {"n": 6, "text": "책임의 자리를 바로 여기 너와 나 사이로 지목하며 끝남", "label": "지지됨", "evidence": "너무 가까워서 이성적 판단이 거의 불가능한 자리", "note": ""}
+      ],
+      "sources_used": ["문헌/@양효실 타자와 실패의 윤리.md", "_원자료/claude.ai/chats/2026-09-14_코스텔로는 미쳤는가.md", "_원자료/claude.ai/chats/2026-09-14_양효실 논문 비판 에세이.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "35h1", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "가죽 구두 장면: 자기혐오로 읽으면 할 일이 끝나고 회계로 읽으면 적을 일이 남는다", "label": "연결", "evidence": "", "note": "양효실 독법과 카벨 독법을 엮는 연결"},
+        {"n": 1, "text": "만찬에서 가죽 구두 고백, 고기와 가죽은 음란함의 정도 차이", "label": "지지됨", "evidence": "음란함의 정도 차이에 지나지 않는다", "note": ""},
+        {"n": 2, "text": "양효실은 이 장면을 호의의 거부이자 자기혐오의 대화로 요약", "label": "지지됨", "evidence": "자신을 혐오하고 있는 자의 대화", "note": ""},
+        {"n": 3, "text": "카벨은 같은 장면에서 종 안으로 가라앉아 살기로 한 결정의 표지를 읽는다", "label": "지지됨", "evidence": "가죽 구두를 벗지 않는다는 사실을 그 결정의 표지로", "note": "출처 절의 카벨 pp.105–106은 PAL 문헌 노트에서 확인되지 않음(pp.118–121만 있음)."},
+        {"n": 4, "text": "카벨은 이 고백을 정직한 타협의 한 줄로 지지한다", "label": "부분 지지", "evidence": "그 줄을 지지한다", "note": "원문은 그녀의 허영이 섞여 있을 가능성을 열어 두면서도 지지한다고 함. 카드는 이 한정을 뺌."},
+        {"n": 5, "text": "자기혐오로 읽으면 고발이 끝나고 회계로 읽으면 장부가 다음 줄을 기다린다", "label": "지지됨", "evidence": "장부가 다음 줄을 기다립니다", "note": ""},
+        {"n": 6, "text": "면제와 과제의 차이가 이 한 장면에 보인다", "label": "지지됨", "evidence": "남은 지점은 면제 대 과제", "note": ""}
+      ],
+      "sources_used": ["문헌/@양효실 타자와 실패의 윤리.md", "문헌/@Cavell2008 Philosophy and Animal Life.md", "_원자료/claude.ai/chats/2026-09-14_코스텔로는 미쳤는가.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "39k1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "철학의 청중을 묻는 물음은 철학의 가르침을 묻는 물음과 교차한다", "label": "지지됨", "evidence": "철학의 가르침이란 무엇인가?", "note": ""},
+        {"n": 1, "text": "소크라테스의 형상이 현 시대 철학에 통렬하게 출몰한다", "label": "지지됨", "evidence": "통렬하게 haunting하고 있다", "note": ""},
+        {"n": 2, "text": "핵심 주제는 철학의 청중은 무엇인가이고 철학이란 무엇인가에 도움", "label": "지지됨", "evidence": "철학의 청중은 무엇인가?", "note": ""},
+        {"n": 3, "text": "철학자가 무관심한 듯하거나 이미 답을 내놓고 있음을 모를 때 교차", "label": "지지됨", "evidence": "스스로가 이미 이 질문에 어떤 대답을 내놓고", "note": ""},
+        {"n": 4, "text": "철학 교수는 가르침을 짐으로 여기고, 영문학·인류학과 달리 물음이 남는다", "label": "지지됨", "evidence": "철학 교수들은 가르치는 일을 짐으로 여긴다", "note": ""},
+        {"n": 5, "text": "이 물음들은 기획에 대한 믿음 유지의 어려움을 표현", "label": "지지됨", "evidence": "믿음을 유지하는 어려움을 표현한다", "note": ""},
+        {"n": 6, "text": "떠나고 싶게 하는 주요 동기는 주기적인 역겨움", "label": "지지됨", "evidence": "주기적으로 철학에 역겨움을 느끼고", "note": ""},
+        {"n": 7, "text": "위대한 교사들은 추종자를 원하지 않는다지만 거절의 순간 가장 매력적", "label": "지지됨", "evidence": "그가 그런 거절을 하는 순간에 가장 매력적", "note": ""},
+        {"n": 8, "text": "탐구를 에밀, 철학적 단편과 같은 가르침의 위대한 작품으로 봄", "label": "지지됨", "evidence": "instruction의 위대한 작품이다", "note": ""}
+      ],
+      "sources_used": ["문헌/@Cavell1969 Must We Mean What We Say.md", "_원자료/claude.ai/projects/Cavell/docs/Must we.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "39k2", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "카벨과 바우어는 과학을 닮아 가는 분석철학을 소크라테스의 형상에 비추어 진단", "label": "연결", "evidence": "", "note": "두 출처를 엮는 연결"},
+        {"n": 1, "text": "카벨: 분석철학은 철학이 과학적 결과 발표 형식에 동화되는 증상", "label": "지지됨", "evidence": "분석철학은 철학의 과학화로 보아야 한다", "note": ""},
+        {"n": 2, "text": "카벨: 소크라테스의 형상이 어느 때보다 통렬하게 출몰", "label": "지지됨", "evidence": "통렬하게 haunting하고 있다", "note": ""},
+        {"n": 3, "text": "바우어: 윌리엄슨식 철학은 과학적 작업에 가깝고 이론 구축으로 성공 증명", "label": "지지됨", "evidence": "일종의 과학적 작업에 가깝다", "note": ""},
+        {"n": 4, "text": "바우어: 이 지점에서 철학이 소크라테스의 형상과 가장 멀어졌다", "label": "지지됨", "evidence": "소크라테스의 형상과 가장 극단적으로 멀어졌다", "note": ""},
+        {"n": 5, "text": "카벨: 분석철학 논문이 과학 논문처럼 공유된 기반을 주지 못함", "label": "지지됨", "evidence": "공유할 수 있는 어떤 기반을 제공하는 것처럼", "note": ""},
+        {"n": 6, "text": "바우어: 그 방식이 유일한 철학함이 될 때 잃는 것을 상기시킴", "label": "지지됨", "evidence": "유일한 것으로 만들면서 우리가 무엇을 잃게", "note": ""},
+        {"n": 7, "text": "두 진단은 과학을 닮은 철학이 유일한 기준이 될 때의 손실을 겨냥, 둘 다 청중과의 관계에서 묻는다", "label": "연결", "evidence": "", "note": "연결"},
+        {"n": 8, "text": "카벨은 청중이 누구인가를 철학의 가르침과 묶는다", "label": "지지됨", "evidence": "철학의 가르침이란 무엇인가?", "note": ""},
+        {"n": 9, "text": "바우어는 삶을 가지고 무엇을 하는지 다시 묻게 하는 일을 철학의 목표로 되살리려 함", "label": "지지됨", "evidence": "자신의 삶을 가지고 무엇을 하고 있는지", "note": ""}
+      ],
+      "sources_used": ["문헌/@Cavell1969 Must We Mean What We Say.md", "_원자료/claude.ai/projects/Cavell/docs/Must we.md", "문헌/@Bauer2015 How to Do Things with Pornography.md", "_원자료/claude.ai/projects/Cavell/docs/낸시 바우어.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "17a1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "카벨은 믿음이 무엇을 뜻하고 어떤 근거를 차지하는지 아는 일을 철학적 관심으로 삼는다", "label": "지지됨", "evidence": "믿음들이 무엇을 의미하고 있는 지 발견하는 데", "note": ""},
+        {"n": 1, "text": "첫 사실: 무엇을 말해야 하는지의 호소는 모두를 대신한 증언과 같지 않다", "label": "지지됨", "evidence": "증언]과 동일하지 않다", "note": ""},
+        {"n": 2, "text": "그 호소가 증언 형태로 나타나 사람들이 반회의적이라고 쉽게 가정", "label": "지지됨", "evidence": "자연스럽게 가정하게 만드는 점", "note": ""},
+        {"n": 3, "text": "내가 무엇을 말할지에 대한 관심은 믿음 보존에 있지 않다", "label": "지지됨", "evidence": "나의 믿음을 보존하는 것에 있지 않다", "note": ""},
+        {"n": 4, "text": "관련 방식이 무엇인지는 탐구를 요하는 사안", "label": "지지됨", "evidence": "바로 이 사안이 탐구를 요한다", "note": ""},
+        {"n": 5, "text": "증거를 대는 일과 구별되는 믿음을 자명하게 만드는 일", "label": "지지됨", "evidence": "It is a matter of making them evident", "note": ""},
+        {"n": 6, "text": "이 관심은 다른 철학과 다른 사람의 믿음을 자명하게 만드는 관심과 정확히 같다", "label": "지지됨", "evidence": "정확히 동일한 관심이다", "note": ""},
+        {"n": 7, "text": "믿음을 공유하지 못하면 자신의 관심이 무엇일지 모를 것", "label": "지지됨", "evidence": "내 관심이 무엇이 될지 모를 것", "note": ""}
+      ],
+      "sources_used": ["문헌/@Cavell1969a Knowing and Acknowledging.md", "_원자료/claude.ai/projects/크립키의 위악성/docs/Cavell KAK 2.docx.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "17b", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "일상 언어 철학자는 너무 명백해서 다툴 수 없는 자료와 기술과 진단을 원한다", "label": "지지됨", "evidence": "너무 명백하고 공통적이어서", "note": ""},
+        {"n": 1, "text": "셋째 교훈은 상대의 자비에 기대는 것처럼 보인다는 데서 시작", "label": "지지됨", "evidence": "상대방의 자비에 의존하게 만드는 것처럼", "note": ""},
+        {"n": 2, "text": "비판의 성공은 비판받는 쪽이 참으로 받아들이는지에 달림", "label": "지지됨", "evidence": "비판을 참으로 받아들일 것이냐에", "note": ""},
+        {"n": 3, "text": "카벨은 이 점이 그대로 참이라고 인정", "label": "지지됨", "evidence": "이러한 만큼은 그저 참이다", "note": ""},
+        {"n": 4, "text": "자료, 기술, 진단은 일치도 불일치도 가능해 보이지 않는 것", "label": "지지됨", "evidence": "데이터, 기술들, 그리고 진단들", "note": ""},
+        {"n": 5, "text": "의존은 이전에 일치 못한 특정 명제에 일치해야 한다는 뜻이 아님", "label": "지지됨", "evidence": "[그 전까지는 일치하지 못했던] 특정한 명제", "note": ""},
+        {"n": 6, "text": "세계가 존재한다는 명제에 일치하는 일은 공허하다는 것이 그의 예", "label": "부분 지지", "evidence": "세계가 존재함에 있어서 일치하는 것은 공허할 것이다", "note": "원문은 세계가 존재한다는 것을 우리가 믿지 않는다면 공허할 것이라는 조건 아래의 예. 카드는 조건을 뺌."},
+        {"n": 7, "text": "문제는 분열된 마음이 하나가 되어 집으로 돌아가는 일", "label": "지지됨", "evidence": "분열된 마음이 하나되어 집으로 돌아가는 것", "note": ""},
+        {"n": 8, "text": "이 야망은 자주 슬픔으로 끝나지만 만족과 불안을 준다", "label": "지지됨", "evidence": "특징적인 만족과 불안을 여전히 제공", "note": ""}
+      ],
+      "sources_used": ["문헌/@Cavell1969a Knowing and Acknowledging.md", "_원자료/claude.ai/projects/크립키의 위악성/docs/Cavell KAK 2.docx.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "40g2", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "회의주의의 이론적 확신은 세계와의 일상적 거래 아래서 사라진다", "label": "지지됨", "evidence": "commerce with the world", "note": ""},
+        {"n": 1, "text": "p.129 정식: 결론의 셋째 특징은 불안정성", "label": "지지됨", "evidence": "the instability of the discovery", "note": ""},
+        {"n": 2, "text": "책상 앞 발견이 거리에서 반박 없이 사라지고 다시 돌아오는 운동(대화 속 설명)", "label": "지지됨", "evidence": "시장에서 사과를 사고, 친구를 만나 인사하고", "note": ""},
+        {"n": 3, "text": "사라짐에서 결론의 오류도 가볍게 여겨도 된다는 허가도 끌어내지 않음", "label": "지지됨", "evidence": "틀렸다는 증거가 아니다", "note": ""},
+        {"n": 4, "text": "어디서 힘을 갖고 사라지는지를 결론의 정체에 속하는 사실로 봄", "label": "지지됨", "evidence": "현상학적 정체의 일부이다", "note": ""},
+        {"n": 5, "text": "갈등도 발견의 양상에 이미 들어 있다", "label": "지지됨", "evidence": "제시 양상에 내재하는 무엇이다", "note": ""},
+        {"n": 6, "text": "일상적 믿음은 믿었을 뿐 알지는 못했던 것이 되어 모순 지적이 닿지 않는다", "label": "지지됨", "evidence": "진짜로 알았던 것은 아니었음이 드러난 것", "note": ""}
+      ],
+      "sources_used": ["문헌/@Cavell1979 The Claim of Reason.md", "_원자료/claude.ai/projects/크립키의 위악성/chats/2026-05-10_카벨의 회의주의자 궤적 학습 순서 결정.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "40h1", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "WoR은 카벨이 매번 표시하는 마치 발견된 듯함을 표시 없이 통과한다", "label": "지지됨", "evidence": "텍스트가 통과한다", "note": ""},
+        {"n": 1, "text": "카벨과 WoR 모두 회의주의자의 진지함을 살려 둔다(데카르트적/비트겐슈타인적)", "label": "지지됨", "evidence": "둘 다 회의주의자의 자세를 살려둔다", "note": ""},
+        {"n": 2, "text": "살려 두는 형식이 다르다는 가설(대화 속 설명)", "label": "지지됨", "evidence": "그 살려둠의 형식이 같은가", "note": ""},
+        {"n": 3, "text": "카벨은 마치 발견된 듯함을 걸음마다 표시하고 주제로 삼는다", "label": "지지됨", "evidence": "멈춤의 표시를 매 걸음마다", "note": ""},
+        {"n": 4, "text": "WoR에서 역설과 해결이 마치 발견된 것처럼 오고 그 마치를 표시하지 않음", "label": "지지됨", "evidence": "회의적 해결이 마치 발견된 것처럼 도래한다", "note": ""},
+        {"n": 5, "text": "시험 물음 셋: 발견처럼 나타나는가, 갈등 양상, 불안정성의 유무", "label": "지지됨", "evidence": "instability는 그 책에 있는가, 없는가", "note": ""},
+        {"n": 6, "text": "40d의 인용 방식이 이 통과의 한 장소로 읽힐 수 있다", "label": "연결", "evidence": "", "note": "카드 작성 단계에서 덧붙였다고 카드가 밝힘"}
+      ],
+      "sources_used": ["문헌/@Cavell1979 The Claim of Reason.md", "문헌/@Kripke1982 Wittgenstein on Rules and Private Language.md", "_원자료/claude.ai/projects/크립키의 위악성/chats/2026-05-10_카벨의 회의주의자 궤적 학습 순서 결정.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "16g", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "카벨은 비트겐슈타인이 슈펭글러의 쇠락을 일상으로 되돌린다고 본다", "label": "지지됨", "evidence": "슈펭글러의 비전 … diurnalize한다", "note": ""},
+        {"n": 1, "text": "「Declining Decline」은 『탐구』를 문화 철학으로 읽는다", "label": "지지됨", "evidence": "Wittgenstein as a Philosopher of Culture", "note": ""},
+        {"n": 2, "text": "슈펭글러의 비전을 diurnalize: 스침으로 그리고 매일 일상으로 되돌리는 형태", "label": "지지됨", "evidence": "brushes with skepticism으로 그리고", "note": ""},
+        {"n": 3, "text": "decline은 쇠락과 사양을 함께 뜻함(Claude 독해)", "label": "지지됨", "evidence": "decline the decline", "note": ""},
+        {"n": 4, "text": "카벨은 §116과 §107을 슈펭글러의 쇠락(외재화, 무기물)과 나란히 놓는다", "label": "부분 지지", "evidence": "Spengler = 외재화", "note": "01:03 보고에서 §107 마찰 없는 얼음은 Outsider와 짝지어졌고, 슈펭글러와의 상동은 Claude가 언어놀이 바깥-말하기와 잇는 대목. 카벨이 §107을 슈펭글러와 나란히 놓았다는 서술은 없음."}
+      ],
+      "sources_used": ["문헌/@Cavell1988 Declining Decline.md", "_원자료/claude.ai/chats/2026-07-07_Epistemological limits and the outsider perspective.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "16g1", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "카벨은 탐구의 첫 장면을 아이가 언어를 상속받는 장면으로 읽는다", "label": "지지됨", "evidence": "begins with a scene of inheritance", "note": ""},
+        {"n": 1, "text": "프로이트에게 근본적인 세대 갈등 속 문화의 상속", "label": "지지됨", "evidence": "in the conflict of generations", "note": ""},
+        {"n": 2, "text": "아우구스티누스 화제 나열, 마지막 화제만 따로 의문에 부쳐지지 않음", "label": "지지됨", "evidence": "seems to stand out oddly", "note": ""},
+        {"n": 3, "text": "§289에도 전제되고 desiring to make my desire inconsequential로 묘사 가능", "label": "지지됨", "evidence": "make my desire inconsequential", "note": ""},
+        {"n": 4, "text": "프로이트가 죽음 충동에서 욕망 전체의 목표로 본 것과 이어짐", "label": "지지됨", "evidence": "the goal of desire altogether", "note": ""},
+        {"n": 5, "text": "탐구는 대략 seeing as의 탐구로 끝나며 말에 대한 애착 상실 가능성이 그려짐", "label": "지지됨", "evidence": "Investigations ends, roughly", "note": ""},
+        {"n": 6, "text": "COH 강연 2 p.98이 같은 화제 목록을 외우며 DD pp.60–64를 참조해 추정과 맞음", "label": "부분 지지", "evidence": "같은 아우구스티누스 화제 목록을 외우며", "note": "이 서술은 DD 문헌 노트에만 있음. CHU 문헌 노트는 p.98 아우구스티누스 장면 독해만 적고 화제 목록 재송과 DD pp.60–64 참조는 없음(Grep: pp.60, 화제, Declining 없음). COH 원문 확인 불가."}
+      ],
+      "sources_used": ["문헌/@Cavell1988 Declining Decline.md", "_원자료/claude.ai/chats/2026-07-10_Wittgenstein's child and the inheritance of language.md", "문헌/@Cavell1990 Conditions Handsome and Unhandsome.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "18a3a", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "WoR과 NaN은 공유된 전제를 받아들이는 형식 아래 다른 게임을 짠다", "label": "연결", "evidence": "", "note": "두 책을 엮는 연결"},
+        {"n": 1, "text": "대화는 영진의 전제 논점을 위악성 가설의 가장 깊은 형태로 보고 두 책에 적용", "label": "지지됨", "evidence": "이게 위악성 가설의 가장 깊은 형태다", "note": ""},
+        {"n": 2, "text": "WoR은 해석한다는 전제를 받아들이는 형식이나 실제로는 Kripkenstein 구축에 가깝다", "label": "지지됨", "evidence": "Kripkenstein이라는 새 인물의 구축", "note": ""},
+        {"n": 3, "text": "서문의 유보가 이 형식의 가장 노골적인 표현으로 읽힘", "label": "지지됨", "evidence": "위악의 가장 노골적 표현이 된다", "note": ""},
+        {"n": 4, "text": "NaN은 기술주의를 반박한다는 공유된 전제를 받아들인다", "label": "지지됨", "evidence": "기술주의를 반박한다는 공유된 전제", "note": ""},
+        {"n": 5, "text": "고정 지시어와 양상 직관은 기술주의가 답하려던 것과 다른 물음을 다루는 새 게임", "label": "지지됨", "evidence": "기술주의가 답하려고 했던 질문에 답하지 않는다", "note": ""},
+        {"n": 6, "text": "부정직했다는 주장으로 미끄러질 위험을 함께 적음", "label": "지지됨", "evidence": "위악과 부정직은 다르다", "note": ""},
+        {"n": 7, "text": "위악성은 의식적 거리이므로 텍스트에 그 흔적이 있어야 한다", "label": "지지됨", "evidence": "그 흔적은 어디 있는가", "note": ""}
+      ],
+      "sources_used": ["문헌/@Kripke1982 Wittgenstein on Rules and Private Language.md", "문헌/@Kripke1980 Naming and Necessity.md", "_원자료/claude.ai/projects/크립키의 위악성/chats/2026-05-10_카벨과 크립키의 철학적 관계 탐구.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "18b", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "위악성 가설은 비트겐슈타인 텍스트가 가리키는 자리를 기준으로 삼는다", "label": "지지됨", "evidence": "비트겐슈타인 자신의 텍스트가 가리키는 자리", "note": ""},
+        {"n": 1, "text": "크립키가 카벨을 읽고 의식하며 썼다는 가정은 시간 순서와 맞지 않는다", "label": "지지됨", "evidence": "알고 의식하며 행한 위악이라고 말할 수 없다", "note": ""},
+        {"n": 2, "text": "NaN은 1970년 강의, WoR의 비트겐슈타인 작업은 1962-63년 세미나에서 출발(서문 근거, 대화 속 설명)", "label": "지지됨", "evidence": "WoR 강의의 출발: 1962-63", "note": ""},
+        {"n": 3, "text": "CoR은 1979년, CHU는 1990년", "label": "지지됨", "evidence": "카벨 Claude of Reason: 1979", "note": ""},
+        {"n": 4, "text": "정식 (α): 독립적으로 같은 진단에 도달하고 의식하며 분석철학 형식 안에서 작업", "label": "지지됨", "evidence": "크립키는 카벨적 진단에 독립적으로 도달했고", "note": ""},
+        {"n": 5, "text": "정식 (β): 비트겐슈타인을 정밀히 읽는 독자가 도달하는 자리에 도달하고 분석철학 안에서 처리", "label": "지지됨", "evidence": "비트겐슈타인을 정밀히 읽는 모든 독자가 도달하는", "note": ""},
+        {"n": 6, "text": "(β)는 전기적 가정 불필요하고 NaN에도 적용, 최초 명명 자리가 이미 있음", "label": "지지됨", "evidence": "initial baptism에 이미 있다", "note": ""},
+        {"n": 7, "text": "같은 대화는 (β)를 텍스트 형식이 내용에 대해 취하는 거리에 관한 주장으로 정식화", "label": "부분 지지", "evidence": "텍스트의 형식이 그 자신의 내용에 대해 취하는 거리", "note": "형식의 거리 정식화는 (α)(β) 분기 이전(02:22)에 나왔고 인계 노트 대화는 이를 (β′)로 부르며 (β)와 구별함. 카드는 (β)로 합쳐 표기."},
+        {"n": 8, "text": "영진은 의도 귀속 회피를 결벽증의 흔적으로 보고 형식 분석과 의도 분석을 같은 말로 다룸", "label": "지지됨", "evidence": "둘은 나에게 같은 말이야", "note": ""}
+      ],
+      "sources_used": ["문헌/@Kripke1982 Wittgenstein on Rules and Private Language.md", "문헌/@Kripke1980 Naming and Necessity.md", "문헌/@Cavell1979 The Claim of Reason.md", "문헌/@Cavell1990 Conditions Handsome and Unhandsome.md", "_원자료/claude.ai/projects/크립키의 위악성/chats/2026-05-10_카벨과 크립키의 철학적 관계 탐구.md", "_원자료/claude.ai/projects/크립키의 위악성/chats/2026-05-10_인계 노트의 어조 변환 도식 검토.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "16f1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "다른 마음의 외부인은 너무 바깥에 서다가 내 안으로 무너진다", "label": "지지됨", "evidence": "if he exists, he is in me", "note": ""},
+        {"n": 1, "text": "외부 세계 외부인에게는 잠과 깸의 차이 등에 관해 모르는 것을 알기를 기대하지 않음(p.417)", "label": "지지됨", "evidence": "잠과 깸의 차이에 관하여", "note": ""},
+        {"n": 2, "text": "다른 마음 외부인은 인간과 비인간의 차이에 관해 내가 모르는 것을 알아야 함", "label": "지지됨", "evidence": "인간과 비인간 사이의 … 차이가 무엇인지", "note": ""},
+        {"n": 3, "text": "모런: 추가 요소 때문에 회의 이전 위치에서 너무 멀리 바깥, 어떤 물음에 답하도록 불렸는지 놓침", "label": "지지됨", "evidence": "he's now too far outside", "note": ""},
+        {"n": 4, "text": "반대 방향 불안정: 판정을 믿을 수 없고 결국 나를 어느 쪽에 두는지로 돌아옴", "label": "지지됨", "evidence": "not far enough outside", "note": ""},
+        {"n": 5, "text": "내 고통에 관한 외부인의 앎에 제한을 걸고 카벨은 if he exists, he is in me라 씀(p.418)", "label": "지지됨", "evidence": "not really an Outsider to me", "note": ""}
+      ],
+      "sources_used": ["문헌/@Moran2011 Cavell on Outsiders and Others.md", "문헌/@Cavell1979 The Claim of Reason.md", "_원자료/claude.ai/chats/2026-07-07_Epistemological limits and the outsider perspective.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "16f2", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "모런에 따르면 타자성은 서로가 서로에게 지는 관계의 이름이다", "label": "지지됨", "evidence": "the name of a relation", "note": ""},
+        {"n": 1, "text": "다른 마음은 나 자신을 사례로 알아보므로 앎의 대상을 상상할 수 있다", "label": "지지됨", "evidence": "I can imagine the object", "note": ""},
+        {"n": 2, "text": "§246을 다루는 카벨 대목: 회의주의자가 충분히 회의적이지 않다", "label": "지지됨", "evidence": "not skeptical enough", "note": ""},
+        {"n": 3, "text": "더 나은 위치는 그 다른 사람 자신, 평범한 피조물", "label": "지지됨", "evidence": "an ordinary creature", "note": ""},
+        {"n": 4, "text": "누구나 외부인이자 내부인", "label": "지지됨", "evidence": "both Outsider and Insider", "note": ""},
+        {"n": 5, "text": "특권은 정확히 한 마음에만 미치고 이는 분리성의 표현", "label": "지지됨", "evidence": "exactly one mind", "note": ""},
+        {"n": 6, "text": "타자성은 마음 종류의 특징이 아니고 분리성은 자아가 여럿이라는 사실만 가리킴", "label": "지지됨", "evidence": "plurality of selves", "note": ""},
+        {"n": 7, "text": "Claude: 깎인 분리성은 카벨보다 모런 쪽, 카벨의 분리성은 인정과 회피 전체를 짊어짐", "label": "지지됨", "evidence": "사실 Cavell보다 Moran이다", "note": ""}
+      ],
+      "sources_used": ["문헌/@Moran2011 Cavell on Outsiders and Others.md", "_원자료/claude.ai/chats/2026-07-07_Epistemological limits and the outsider perspective.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "57r1", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "길들이기는 위로를 뜻하지 않고 파국이 공회전하는 일상 언어에서 응답을 요구", "label": "지지됨", "evidence": "길들이기는 위로를 뜻해서는 안 된다", "note": ""},
+        {"n": 1, "text": "파국을 일상으로 이주시키는 일은 구경거리의 안전거리를 없앰", "label": "지지됨", "evidence": "구경거리의 안전거리를 제거하는 것", "note": ""},
+        {"n": 2, "text": "세계사적 몰락은 관람할 수 있고 일상적 몰락은 입을 열 때마다 응답해야 함", "label": "지지됨", "evidence": "세계사적 몰락은 의자에 앉아 관람할 수 있다", "note": ""},
+        {"n": 3, "text": "파국은 임박한 것이 아니라 공회전하며 이미 일어났고 다시 일어남", "label": "지지됨", "evidence": "파국은 임박해 있지 않다. 공회전한다", "note": ""},
+        {"n": 4, "text": "치유는 종말론도 마지막 장도 없이 §133의 진정한 발견으로 삽화적", "label": "지지됨", "evidence": "종말론 없음, 마지막 장 없음", "note": ""},
+        {"n": 5, "text": "이를 관해로, 세계의 끝을 소매로 만나는 일로 부름", "label": "지지됨", "evidence": "끝을 도매가 아니라 소매로 만날 뿐", "note": ""}
+      ],
+      "sources_used": ["문헌/@영진2026 비트겐슈타인의 유산 대화.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/길들여진 묵시록 — 카벨, 비트겐슈타인의 유산, 그리고 시간 (Claude와의 대화) 37b97cdd867e8104aa08c3bb49d7634f.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "57r2", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "병이 시대의 병이므로 철학자는 의사가 될 수 없고 진단자가 될 수 있다", "label": "지지됨", "evidence": "그 의사가 될 수 없고 진단자가 될 수 있을 뿐", "note": ""},
+        {"n": 1, "text": "『수학의 기초에 관한 고찰』 문장: 시대의 병은 삶의 방식의 변경으로 치유", "label": "지지됨", "evidence": "한 시대의 병은 인간들의 삶의 방식의 변경으로 치유되며", "note": ""},
+        {"n": 2, "text": "대화는 이 문장이 카벨이 DD의 중심에 놓은 구절이라고 본다", "label": "지지됨", "evidence": "카벨이 「Declining Decline」의 중심에 놓은", "note": ""},
+        {"n": 3, "text": "이것이 『탐구』의 무테제성을 설명", "label": "지지됨", "evidence": "당혹스러운 무(無)테제성을 설명한다", "note": ""},
+        {"n": 4, "text": "이론을 짓는 철학은 문제인 공장의 제품이 되므로 건설의 거부는 격리", "label": "지지됨", "evidence": "건설의 거부는 겸손이 아니다. 격리다.", "note": ""},
+        {"n": 5, "text": "크라우스가 묵시록을 언어 안에 두었고 비트겐슈타인이 확신을 상속하되 음역을 바꿈", "label": "지지됨", "evidence": "크라우스의 확신을 통째로 상속하고", "note": ""},
+        {"n": 6, "text": "진단이 디아스포라를 처방하므로 드루어리에게 의학을 권한 것은 따름정리", "label": "지지됨", "evidence": "드루어리에게 의학을 권한 것은 RFM의 따름정리다", "note": ""}
+      ],
+      "sources_used": ["문헌/@영진2026 비트겐슈타인의 유산 대화.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/길들여진 묵시록 — 카벨, 비트겐슈타인의 유산, 그리고 시간 (Claude와의 대화) 37b97cdd867e8104aa08c3bb49d7634f.md"],
+      "sources_missing": []
+    }
+  ]
+}

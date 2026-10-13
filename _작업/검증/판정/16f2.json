@@ -1,0 +1,70 @@
+{
+ "id": "16f2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "모런에 따르면 타자성은 서로가 서로에게 지는 관계의 이름이다",
+   "label": "지지됨",
+   "evidence": "the name of a relation",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "다른 마음은 나 자신을 사례로 알아보므로 앎의 대상을 상상할 수 있다",
+   "label": "지지됨",
+   "evidence": "I can imagine the object",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "§246을 다루는 카벨 대목: 회의주의자가 충분히 회의적이지 않다",
+   "label": "지지됨",
+   "evidence": "not skeptical enough",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "더 나은 위치는 그 다른 사람 자신, 평범한 피조물",
+   "label": "지지됨",
+   "evidence": "an ordinary creature",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "누구나 외부인이자 내부인",
+   "label": "지지됨",
+   "evidence": "both Outsider and Insider",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "특권은 정확히 한 마음에만 미치고 이는 분리성의 표현",
+   "label": "지지됨",
+   "evidence": "exactly one mind",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "타자성은 마음 종류의 특징이 아니고 분리성은 자아가 여럿이라는 사실만 가리킴",
+   "label": "지지됨",
+   "evidence": "plurality of selves",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "Claude: 깎인 분리성은 카벨보다 모런 쪽, 카벨의 분리성은 인정과 회피 전체를 짊어짐",
+   "label": "지지됨",
+   "evidence": "사실 Cavell보다 Moran이다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Moran2011 Cavell on Outsiders and Others.md",
+  "_원자료/claude.ai/chats/2026-07-07_Epistemological limits and the outsider perspective.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

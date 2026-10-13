@@ -1,0 +1,70 @@
+{
+ "id": "17a1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "카벨은 믿음이 무엇을 뜻하고 어떤 근거를 차지하는지 아는 일을 철학적 관심으로 삼는다",
+   "label": "지지됨",
+   "evidence": "믿음들이 무엇을 의미하고 있는 지 발견하는 데",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "첫 사실: 무엇을 말해야 하는지의 호소는 모두를 대신한 증언과 같지 않다",
+   "label": "지지됨",
+   "evidence": "증언]과 동일하지 않다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "그 호소가 증언 형태로 나타나 사람들이 반회의적이라고 쉽게 가정",
+   "label": "지지됨",
+   "evidence": "자연스럽게 가정하게 만드는 점",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "내가 무엇을 말할지에 대한 관심은 믿음 보존에 있지 않다",
+   "label": "지지됨",
+   "evidence": "나의 믿음을 보존하는 것에 있지 않다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "관련 방식이 무엇인지는 탐구를 요하는 사안",
+   "label": "지지됨",
+   "evidence": "바로 이 사안이 탐구를 요한다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "증거를 대는 일과 구별되는 믿음을 자명하게 만드는 일",
+   "label": "지지됨",
+   "evidence": "It is a matter of making them evident",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "이 관심은 다른 철학과 다른 사람의 믿음을 자명하게 만드는 관심과 정확히 같다",
+   "label": "지지됨",
+   "evidence": "정확히 동일한 관심이다",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "믿음을 공유하지 못하면 자신의 관심이 무엇일지 모를 것",
+   "label": "지지됨",
+   "evidence": "내 관심이 무엇이 될지 모를 것",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Cavell1969a Knowing and Acknowledging.md",
+  "_원자료/claude.ai/projects/크립키의 위악성/docs/Cavell KAK 2.docx.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

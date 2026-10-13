@@ -1,0 +1,63 @@
+{
+ "id": "40g2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "회의주의의 이론적 확신은 세계와의 일상적 거래 아래서 사라진다",
+   "label": "지지됨",
+   "evidence": "commerce with the world",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "p.129 정식: 결론의 셋째 특징은 불안정성",
+   "label": "지지됨",
+   "evidence": "the instability of the discovery",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "책상 앞 발견이 거리에서 반박 없이 사라지고 다시 돌아오는 운동(대화 속 설명)",
+   "label": "지지됨",
+   "evidence": "시장에서 사과를 사고, 친구를 만나 인사하고",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "사라짐에서 결론의 오류도 가볍게 여겨도 된다는 허가도 끌어내지 않음",
+   "label": "지지됨",
+   "evidence": "틀렸다는 증거가 아니다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "어디서 힘을 갖고 사라지는지를 결론의 정체에 속하는 사실로 봄",
+   "label": "지지됨",
+   "evidence": "현상학적 정체의 일부이다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "갈등도 발견의 양상에 이미 들어 있다",
+   "label": "지지됨",
+   "evidence": "제시 양상에 내재하는 무엇이다",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "일상적 믿음은 믿었을 뿐 알지는 못했던 것이 되어 모순 지적이 닿지 않는다",
+   "label": "지지됨",
+   "evidence": "진짜로 알았던 것은 아니었음이 드러난 것",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Cavell1979 The Claim of Reason.md",
+  "_원자료/claude.ai/projects/크립키의 위악성/chats/2026-05-10_카벨의 회의주의자 궤적 학습 순서 결정.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

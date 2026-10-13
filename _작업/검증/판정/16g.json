@@ -1,0 +1,49 @@
+{
+ "id": "16g",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "카벨은 비트겐슈타인이 슈펭글러의 쇠락을 일상으로 되돌린다고 본다",
+   "label": "지지됨",
+   "evidence": "슈펭글러의 비전 … diurnalize한다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "「Declining Decline」은 『탐구』를 문화 철학으로 읽는다",
+   "label": "지지됨",
+   "evidence": "Wittgenstein as a Philosopher of Culture",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "슈펭글러의 비전을 diurnalize: 스침으로 그리고 매일 일상으로 되돌리는 형태",
+   "label": "지지됨",
+   "evidence": "brushes with skepticism으로 그리고",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "decline은 쇠락과 사양을 함께 뜻함(Claude 독해)",
+   "label": "지지됨",
+   "evidence": "decline the decline",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "카벨은 §116과 §107을 슈펭글러의 쇠락(외재화, 무기물)과 나란히 놓는다",
+   "label": "부분 지지",
+   "evidence": "Spengler = 외재화",
+   "note": "01:03 보고에서 §107 마찰 없는 얼음은 Outsider와 짝지어졌고, 슈펭글러와의 상동은 Claude가 언어놀이 바깥-말하기와 잇는 대목. 카벨이 §107을 슈펭글러와 나란히 놓았다는 서술은 없음."
+  }
+ ],
+ "sources_used": [
+  "문헌/@Cavell1988 Declining Decline.md",
+  "_원자료/claude.ai/chats/2026-07-07_Epistemological limits and the outsider perspective.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

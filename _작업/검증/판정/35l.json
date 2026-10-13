@@ -1,0 +1,56 @@
+{
+ "id": "35l",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "레비에 따르면 문장 처리의 부담은 확률적 기대로 정해진다",
+   "label": "지지됨",
+   "evidence": "처리 부담을 결정한다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "다음 낱말이나 구조에 대한 확률적 기대가 처리 부담을 정함",
+   "label": "지지됨",
+   "evidence": "다음 단어/구조에 대한 확률적 기대",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "헤일과 레비의 놀람도 이론은 난이도=놀람도라는 서술적 주장",
+   "label": "지지됨",
+   "evidence": "난이도 = 놀람도라는 서술적 주장",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "그 자체로는 훈련 처방을 내놓지 않는다",
+   "label": "지지됨",
+   "evidence": "처방을 달고 나오지 않아",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "인과적 병목 논변(조건부 확률 경로 하나뿐이면...)",
+   "label": "지지됨",
+   "evidence": "causal bottleneck 논변",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "그 확률은 영역 지식과 장르 구조 지식에서 나온다",
+   "label": "지지됨",
+   "evidence": "도메인 지식과 장르 구조 지식에 뿌리를 둬",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Levy2008 Expectation-based Syntactic Comprehension.md",
+  "_원자료/claude.ai/chats/2026-07-06_독서 이론을 실제 학습에 적용하기.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

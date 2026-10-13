@@ -1,0 +1,64 @@
+{
+ "id": "16g1",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "카벨은 탐구의 첫 장면을 아이가 언어를 상속받는 장면으로 읽는다",
+   "label": "지지됨",
+   "evidence": "begins with a scene of inheritance",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "프로이트에게 근본적인 세대 갈등 속 문화의 상속",
+   "label": "지지됨",
+   "evidence": "in the conflict of generations",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "아우구스티누스 화제 나열, 마지막 화제만 따로 의문에 부쳐지지 않음",
+   "label": "지지됨",
+   "evidence": "seems to stand out oddly",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "§289에도 전제되고 desiring to make my desire inconsequential로 묘사 가능",
+   "label": "지지됨",
+   "evidence": "make my desire inconsequential",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "프로이트가 죽음 충동에서 욕망 전체의 목표로 본 것과 이어짐",
+   "label": "지지됨",
+   "evidence": "the goal of desire altogether",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "탐구는 대략 seeing as의 탐구로 끝나며 말에 대한 애착 상실 가능성이 그려짐",
+   "label": "지지됨",
+   "evidence": "Investigations ends, roughly",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "COH 강연 2 p.98이 같은 화제 목록을 외우며 DD pp.60–64를 참조해 추정과 맞음",
+   "label": "부분 지지",
+   "evidence": "같은 아우구스티누스 화제 목록을 외우며",
+   "note": "이 서술은 DD 문헌 노트에만 있음. CHU 문헌 노트는 p.98 아우구스티누스 장면 독해만 적고 화제 목록 재송과 DD pp.60–64 참조는 없음(Grep: pp.60, 화제, Declining 없음). COH 원문 확인 불가."
+  }
+ ],
+ "sources_used": [
+  "문헌/@Cavell1988 Declining Decline.md",
+  "_원자료/claude.ai/chats/2026-07-10_Wittgenstein's child and the inheritance of language.md",
+  "문헌/@Cavell1990 Conditions Handsome and Unhandsome.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
