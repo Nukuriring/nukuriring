@@ -8,6 +8,9 @@ sources: []
 cluster: 경제학과 경제사
 group: M7
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 # 34 커버드콜 ETF의 성과와 손절선은 기준가와 분배금을 합친 총수익으로 판정한다
 

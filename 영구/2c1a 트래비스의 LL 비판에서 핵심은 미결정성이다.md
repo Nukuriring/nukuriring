@@ -8,6 +8,9 @@ sources: ["[[@Travis2004 The Silence of the Senses]]"]
 cluster: 지각의 철학
 candidate: A-C08
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 
 # 2c1a 트래비스의 LL 비판에서 핵심은 미결정성이다

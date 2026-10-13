@@ -8,6 +8,9 @@ sources: ["[[@영진2024 Kant and Hegel on War 메모]]"]
 cluster: 고대철학
 group: NA2
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 # 49o2 국가도 개인처럼 사법과 도덕과 인륜의 과정을 거친다면 UN과 EU는 민족국가의 지양일 수 있다
 

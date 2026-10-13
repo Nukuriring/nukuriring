@@ -8,6 +8,9 @@ sources: ["[[@이풍실2019 단칭 사고에 대한 이론 없는 표준적 고�
 cluster: 언어와 의미
 group: L1b
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 # 7f3 단칭 사고 논의는 대상을 먼저 세우므로 whole thoughts first 원칙과 긴장한다
 

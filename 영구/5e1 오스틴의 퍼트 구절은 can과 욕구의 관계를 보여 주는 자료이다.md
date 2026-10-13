@@ -8,6 +8,9 @@ sources: []
 cluster: 지각의 철학
 candidate: B-C21
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 
 # 5e1 오스틴의 퍼트 구절은 can과 욕구의 관계를 보여 주는 자료이다

@@ -8,6 +8,9 @@ sources: ["[[@Gardner2015 A Harm-Based Solution to the Non-Identity Problem]]"]
 cluster: 윤리와 가치
 group: H1
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 # 25i1a Dim Vision은 존재 설명이 비교적 설명보다 나아진 점을 보여 주지 못한다
 

@@ -8,6 +8,9 @@ sources: ["[[@Heathwood2007 The Reduction of Sensory Pleasure to Desire]]"]
 cluster: 행위와 실천이성
 group: NR2
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 # 44c9 영진은 수박 맛을 원하고 맛보지만 아무것도 느끼지 못하는 우울증 사례를 RSPD3의 반례로 제시한다
 

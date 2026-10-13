@@ -8,6 +8,9 @@ sources: []
 cluster: 지각의 철학
 candidate: A-C12
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 
 # 5b 실천에서 동기와 옳고 그름이 놓이는 자리는 행위자의 uptake이다

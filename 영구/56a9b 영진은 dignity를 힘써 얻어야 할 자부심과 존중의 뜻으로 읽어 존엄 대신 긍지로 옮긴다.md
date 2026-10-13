@@ -8,6 +8,9 @@ sources: ["[[@Ishiguro1989 The Remains of the Day]]"]
 cluster: 영문학과 문학비평
 group: NL3
 created: 2026-10-12
+verify: 부분
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 # 56a9b 영진은 dignity를 힘써 얻어야 할 자부심과 존중의 뜻으로 읽어 존엄 대신 긍지로 옮긴다
 

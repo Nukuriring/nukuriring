@@ -8,6 +8,9 @@ sources: ["[[@Kripke1982 Wittgenstein on Rules and Private Language]]", "[[@Cave
 cluster: 카벨과 일상언어철학
 group: K2d
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 # 40h WoR이라는 텍스트는 형식 차원에서 카벨이 묘사한 회의주의자이다
 

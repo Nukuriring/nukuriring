@@ -8,6 +8,9 @@ sources: ["[[@문규민2023 라투르와 일반화된 행위성]]"]
 cluster: 카벨과 일상언어철학
 group: K1
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 # 16f3a2 ANT를 재기술의 문법으로 표현하면 물활론과 사물 권리라는 오해가 풀린다
 

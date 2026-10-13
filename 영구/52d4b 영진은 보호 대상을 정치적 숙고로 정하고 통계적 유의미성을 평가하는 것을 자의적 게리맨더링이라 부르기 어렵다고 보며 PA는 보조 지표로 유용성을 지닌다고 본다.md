@@ -8,6 +8,9 @@ sources: ["[[@Kong Are Intersectionally Fair AI Algorithms Really Fair]]"]
 cluster: 정치·사회·역사·법
 group: NP2
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 # 52d4b 영진은 보호 대상을 정치적 숙고로 정하고 통계적 유의미성을 평가하는 것을 자의적 게리맨더링이라 부르기 어렵다고 보며 PA는 보조 지표로 유용성을 지닌다고 본다
 

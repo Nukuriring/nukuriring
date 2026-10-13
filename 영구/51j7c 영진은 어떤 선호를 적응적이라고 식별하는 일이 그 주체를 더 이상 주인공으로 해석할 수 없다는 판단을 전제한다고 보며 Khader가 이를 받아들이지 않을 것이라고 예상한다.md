@@ -8,6 +8,9 @@ sources: ["[[@Khader Self-Respect under Oppression]]"]
 cluster: 정치·사회·역사·법
 group: NP1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 # 51j7c 영진은 어떤 선호를 적응적이라고 식별하는 일이 그 주체를 더 이상 주인공으로 해석할 수 없다는 판단을 전제한다고 보며 Khader가 이를 받아들이지 않을 것이라고 예상한다
 

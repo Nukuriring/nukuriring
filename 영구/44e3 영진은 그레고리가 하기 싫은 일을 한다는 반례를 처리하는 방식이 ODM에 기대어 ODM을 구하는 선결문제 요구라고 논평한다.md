@@ -8,6 +8,9 @@ sources: ["[[@Gregory2021 Desire as Belief]]"]
 cluster: 행위와 실천이성
 group: NR2
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 # 44e3 영진은 그레고리가 하기 싫은 일을 한다는 반례를 처리하는 방식이 ODM에 기대어 ODM을 구하는 선결문제 요구라고 논평한다
 

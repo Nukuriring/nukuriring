@@ -8,6 +8,9 @@ sources: ["[[@Thompson2008 Life and Action]]"]
 cluster: 행위와 실천이성
 group: P1c
 created: 2026-10-12
+verify: 부분
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 # 20f7b 트래비스의 indication은 표상 없이 환상을 설명하는 수이므로 행위의 환상 논변에도 쓸 수 있다
 

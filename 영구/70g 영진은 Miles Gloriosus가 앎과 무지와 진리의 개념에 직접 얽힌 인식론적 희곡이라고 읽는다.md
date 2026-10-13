@@ -8,6 +8,9 @@ sources: ["[[@Plautus Miles Gloriosus]]"]
 cluster: 고전어
 group: NZ1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 # 70g 영진은 Miles Gloriosus가 앎과 무지와 진리의 개념에 직접 얽힌 인식론적 희곡이라고 읽는다
 

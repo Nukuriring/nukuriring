@@ -8,6 +8,9 @@ sources: ["[[@Kong Are Intersectionally Fair AI Algorithms Really Fair]]"]
 cluster: 정치·사회·역사·법
 group: NP2
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 # 52d4a 영진은 PA를 정량적 척도의 하나로 보면 첫째와 셋째 한계는 PA가 독점적 프레임일 때만 작동하는 비판이 된다고 본다
 

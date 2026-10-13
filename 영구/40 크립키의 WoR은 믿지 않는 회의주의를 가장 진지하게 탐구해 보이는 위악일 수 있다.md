@@ -8,6 +8,9 @@ sources: ["[[@Kripke1982 Wittgenstein on Rules and Private Language]]", "[[@Cave
 cluster: 카벨과 일상언어철학
 group: K2d
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 # 40 크립키의 WoR은 믿지 않는 회의주의를 가장 진지하게 탐구해 보이는 위악일 수 있다
 

@@ -8,6 +8,9 @@ sources: ["[[@Khader A Deliberative Perfectionist Approach to Adaptive Preferenc
 cluster: 정치·사회·역사·법
 group: NP1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 # 51j5 영진은 Khader가 말한 세 가지 오류 분류가 식별자의 혼란을 묘사하기에는 거칠고 왜 그런 오류에 빠지는지 설명하지 못한다고 묻는다
 

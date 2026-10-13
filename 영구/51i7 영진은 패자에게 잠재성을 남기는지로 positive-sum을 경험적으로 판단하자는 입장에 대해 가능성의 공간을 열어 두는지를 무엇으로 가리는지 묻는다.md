@@ -8,6 +8,9 @@ sources: []
 cluster: 정치·사회·역사·법
 group: NP1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 # 51i7 영진은 패자에게 잠재성을 남기는지로 positive-sum을 경험적으로 판단하자는 입장에 대해 가능성의 공간을 열어 두는지를 무엇으로 가리는지 묻는다
 

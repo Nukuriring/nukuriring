@@ -17,7 +17,6 @@ py -3 _작업/스크립트/render_hub.py . _작업/구조작성/*.md
 py -3 _작업/스크립트/merge_index.py .
 ```
 - `struct.py`의 `DUPLICATE ID`, `ORPHAN` 보고와 `render_hub.py`의 `UNKNOWN ID`, `MISSING LINK` 보고를 읽고, 이번 작업이 만든 것이면 고친 뒤 다시 돌립니다.
-- 원본이 없는 개요 다섯 개는 렌더링되지 않습니다(`구조작성` 스킬 참조). 카드 이름이 바뀌었으면 그 다섯 파일의 링크를 따로 확인합니다.
 
 ## 2. 전체 점검
 ```

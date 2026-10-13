@@ -8,6 +8,9 @@ sources: []
 cluster: 지각의 철학
 candidate: A-C14
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 
 # 2d appearance는 실재의 일부이면서 판단과 언제나 구분된다

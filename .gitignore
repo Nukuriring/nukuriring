@@ -7,3 +7,4 @@ __pycache__/
 .claude/settings.local.json
 _작업/검증/lint.json
 _작업/검증/꾸러미/
+_작업/검색/bm25_cache.json

@@ -8,6 +8,9 @@ sources: ["[[@Behn Oroonoko]]"]
 cluster: 언어와 의미
 group: NK1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 # 61r4 Oroonoko 저자의 강한 역사 증언 주장은 이야기가 허황되게 읽힌다는 인식에서 나온 불안의 표시로 읽을 수 있다
 

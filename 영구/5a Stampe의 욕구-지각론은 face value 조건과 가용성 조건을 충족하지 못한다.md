@@ -8,6 +8,9 @@ sources: []
 cluster: 지각의 철학
 candidate: A-C10
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 
 # 5a Stampe의 욕구-지각론은 face value 조건과 가용성 조건을 충족하지 못한다

@@ -8,6 +8,9 @@ sources: ["[[@Behn Oroonoko]]"]
 cluster: 언어와 의미
 group: NK1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 # 61r4a Oroonoko의 진실성 주장은 시험을 위한 『유토피아』의 장치와 달리 여행기의 환상 충족과 이어진 것으로 읽을 수 있다
 

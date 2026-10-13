@@ -8,6 +8,9 @@ sources: ["[[@Buckner Deep Learning A Philosophical Introduction]]"]
 cluster: AI와 윤리
 group: NH1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 # 67u 영진은 체스와 바둑에서 AI가 인간을 압도한 뒤 인간의 학습 방식이 AI의 방식을 따라 바뀌고 있다고 본다
 

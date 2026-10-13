@@ -8,6 +8,9 @@ sources: ["[[@Khader Self-Respect under Oppression]]"]
 cluster: 정치·사회·역사·법
 group: NP1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 # 51j7b 영진은 Khader가 말한 대항헤게모니적 규범 관점을 억압 속에서도 자신을 주인공으로 해석할 관점을 유지할 의무로 읽는다
 

@@ -8,6 +8,9 @@ sources: ["[[@Khader A Deliberative Perfectionist Approach to Adaptive Preferenc
 cluster: 정치·사회·역사·법
 group: NP1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 # 51j5a 영진은 숙고적 접근이 인식론적 어려움을 줄인다는 Khader의 근거가 충분히 설명되지 않았다고 묻는다
 

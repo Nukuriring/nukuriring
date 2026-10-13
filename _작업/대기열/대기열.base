@@ -1,0 +1,78 @@
+filters:
+  and:
+    - file.inFolder("영구")
+    - 'status != "검토됨"'
+    - 'status != "다시씀"'
+
+properties:
+  verify:
+    displayName: 판정
+  verify_by:
+    displayName: 판정자
+  verify_date:
+    displayName: 판정일
+  cluster:
+    displayName: 클러스터
+
+views:
+  - type: table
+    name: "내용 오류(모순·원문없음)"
+    filters:
+      or:
+        - 'verify == "모순"'
+        - 'verify == "원문없음"'
+    order:
+      - file.name
+      - verify
+      - voice
+      - cluster
+      - verify_by
+    groupBy:
+      property: verify
+      direction: ASC
+
+  - type: table
+    name: "영진 카드 부분 판정"
+    filters:
+      and:
+        - 'voice == "영진"'
+        - 'verify == "부분"'
+    order:
+      - file.name
+      - cluster
+      - verify_date
+    groupBy:
+      property: cluster
+      direction: ASC
+
+  - type: table
+    name: "부분 판정(문헌·종합)"
+    filters:
+      and:
+        - 'voice != "영진"'
+        - 'verify == "부분"'
+    order:
+      - file.name
+      - voice
+      - verify_by
+    groupBy:
+      property: cluster
+      direction: ASC
+
+  - type: table
+    name: "판단불가"
+    filters: 'verify == "판단불가"'
+    order:
+      - file.name
+      - voice
+      - cluster
+
+  - type: table
+    name: "미검증(클러스터별)"
+    filters: '!verify'
+    order:
+      - file.name
+      - voice
+    groupBy:
+      property: cluster
+      direction: ASC

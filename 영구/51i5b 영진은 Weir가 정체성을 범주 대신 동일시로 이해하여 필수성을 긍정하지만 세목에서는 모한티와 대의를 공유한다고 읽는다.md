@@ -8,6 +8,9 @@ sources: ["[[@영진 사철연 Response 0423 정체성과 연대]]"]
 cluster: 정치·사회·역사·법
 group: NP1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet(근거대조)
 ---
 # 51i5b 영진은 Weir가 정체성을 범주 대신 동일시로 이해하여 필수성을 긍정하지만 세목에서는 모한티와 대의를 공유한다고 읽는다
 
