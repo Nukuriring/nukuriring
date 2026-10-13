@@ -1,0 +1,312 @@
+{
+  "model": "sonnet",
+  "date": "2026-10-13",
+  "cards": [
+    {
+      "id": "10", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "노직과 드로즈는 회의적 가설 논증의 폐쇄성 전제를 두고 갈린다", "label": "연결", "evidence": "", "note": ""},
+        {"n": 1, "text": "노직은 탱크에 있지 않음을 모른다는 데서 거의 아무것도 모른다는 짧은 걸음", "label": "지지됨", "evidence": "it appears but a short step", "note": ""},
+        {"n": 2, "text": "이 걸음이 폐쇄성 원리를 가정한다(pp. 265–266)", "label": "지지됨", "evidence": "knowledge is closed under known logical implication", "note": ""},
+        {"n": 3, "text": "드로즈의 AI 정식화 1, 2, C(§1, p. 669)", "label": "지지됨", "evidence": "I don't know that not-H.", "note": ""},
+        {"n": 4, "text": "H는 BIV 같은 회의적 가설, O는 손이 있다", "label": "지지됨", "evidence": "O ... I have hands", "note": ""},
+        {"n": 5, "text": "둘째 전제의 사례가 흔히 폐쇄성 원리의 사례(주 18)", "label": "지지됨", "evidence": "often instances of the principle", "note": ""},
+        {"n": 6, "text": "노직은 첫 전제를 받아들이고 폐쇄성을 거부하여 둘째 전제를 버린다", "label": "지지됨", "evidence": "accepting the skeptic's first premise ... denying the second", "note": ""},
+        {"n": 7, "text": "드로즈는 둘째 전제를 어떤 기준에서든 참으로 지지", "label": "지지됨", "evidence": "true regardless of how high or low", "note": ""},
+        {"n": 8, "text": "첫 전제와 결론의 진리값이 귀속 맥락에 따라 달라진다", "label": "지지됨", "evidence": "truth values of (1) and (not-C) vary with context", "note": ""},
+        {"n": 9, "text": "두 사람 모두 회의론자가 옳게 짚은 부분이 있다고 인정", "label": "지지됨", "evidence": "and he is right / truthfully asserts", "note": ""},
+        {"n": 10, "text": "그 부분을 어디에 두는지에서 갈린다", "label": "연결", "evidence": "", "note": ""}
+      ],
+      "sources_used": ["문헌/@Nozick1981 Knowledge and Skepticism.md", "문헌/@DeRose1995 Solving the Skeptical Problem.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-08_Nozick-4.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-01_DeRose-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-DeRose_주석.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "10a", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "노직은 지식을 진리를 추적하는 믿음으로 분석한다", "label": "지지됨", "evidence": "To know is to have a belief that tracks the truth", "note": ""},
+        {"n": 1, "text": "조건 3: p가 거짓이라면 S는 p를 믿지 않을 것이다", "label": "지지됨", "evidence": "If P weren't true, S wouldn't believe that p", "note": ""},
+        {"n": 2, "text": "조건 4: p가 참이라면 S는 p를 믿을 것이다", "label": "지지됨", "evidence": "if it were true he would believe it", "note": ""},
+        {"n": 3, "text": "조건 3은 거짓일 때, 조건 4는 참일 때 믿음이 어떠할지", "label": "지지됨", "evidence": "sensitive to p's falsity, but not ... truth", "note": ""},
+        {"n": 4, "text": "두 조건이 성립할 때 추적한다고 부르고 'To know is...'(p. 258)", "label": "지지됨", "evidence": "when 3 and 4 hold, his belief tracks", "note": ""},
+        {"n": 5, "text": "인과 조건의 난점과 탱크 속 사람 사례에서 출발(p. 255)", "label": "지지됨", "evidence": "inhospitable environment for mathematical", "note": ""},
+        {"n": 6, "text": "조건 3은 not-p 근방의 첫 부분, 조건 4는 p 근방의 어느 거리까지", "label": "지지됨", "evidence": "only of the first portion of it", "note": ""},
+        {"n": 7, "text": "앎은 세계를 추적하는 실재적 사실 연결(p. 258)", "label": "지지됨", "evidence": "a specific real factual connection", "note": ""}
+      ],
+      "sources_used": ["문헌/@Nozick1981 Knowledge and Skepticism.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-05_Nozick-1.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "10a1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "노직의 조건 3은 게티어 사례와 관련 대안 문제를 처리한다", "label": "지지됨", "evidence": "handles nicely cases ... relevant alternatives", "note": ""},
+        {"n": 1, "text": "조건 3이 게티어 사례를 배제한다", "label": "지지됨", "evidence": "excludes this Gettier case", "note": ""},
+        {"n": 2, "text": "포드 사례: 아무도 갖지 않았어도 첫째 사람 때문에 믿을 것이라 조건 3 실패(p. 256)", "label": "지지됨", "evidence": "I still would believe ... the first person", "note": ""},
+        {"n": 3, "text": "가정법은 함축과 달라 조건 3은 쉽지 않으나 모든 것을 배제할 만큼 강하지는 않다", "label": "지지됨", "evidence": "not so easy to satisfy, yet not so powerful", "note": "원문은 가능세계 해석에 '(roughly)'를 붙이고 특정 이론에 묶이지 않는다고 하나, 카드의 문장은 가정법 일반 서술이라 지지로 판정."},
+        {"n": 4, "text": "스타인이 지넷에게서 가져온 헨리와 종이 헛간 사례도 처리", "label": "지지됨", "evidence": "who attributes the example to Carl Ginet", "note": ""},
+        {"n": 5, "text": "q가 참이거나 참일 수 있을 때 관련, p 거짓이어도 q 거짓이면 비관련", "label": "지지됨", "evidence": "q would be true or might be", "note": ""},
+        {"n": 6, "text": "관련 대안 이론이 이 기준을 채택하면 조건 3을 더 길게 진술하는 것", "label": "지지됨", "evidence": "alternate and longer way of stating condition 3", "note": ""},
+        {"n": 7, "text": "주 6: 별도 개념으로 채우면 동치가 되지 않을 수 있다", "label": "지지됨", "evidence": "did not turn out to be equivalent", "note": ""}
+      ],
+      "sources_used": ["문헌/@Nozick1981 Knowledge and Skepticism.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-05_Nozick-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-Nozick_주석.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "10a3", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "노직은 믿음 형성 방법을 고정하여 할머니 사례를 처리한다", "label": "지지됨", "evidence": "the method must be held fixed", "note": ""},
+        {"n": 1, "text": "조건 3과 4를 믿음에 이른 방법에 상대화", "label": "지지됨", "evidence": "restate our conditions ... methods", "note": ""},
+        {"n": 2, "text": "할머니 사례: 아프거나 죽었다면 가족이 건강하다고 말해 줄 것(pp. 258–259)", "label": "지지됨", "evidence": "others would tell her he was well", "note": ""},
+        {"n": 3, "text": "방법 없는 조건 3으로는 모른다고 나오나 안다는 판단은 흔들리지 않음", "label": "지지됨", "evidence": "this does not mean she doesn't know", "note": ""},
+        {"n": 4, "text": "마갈릿 극장 사례도 같은 구조(p. 259)", "label": "지지됨", "evidence": "Our earlier example ... is of this sort", "note": ""},
+        {"n": 5, "text": "'S knows, via method M, that p' 정의와 단서 삽입", "label": "지지됨", "evidence": "S were to use M to arrive at a belief", "note": ""},
+        {"n": 6, "text": "한 방법만 관련되면 S가 p를 앎 = M을 통해 p를 앎", "label": "지지됨", "evidence": "if and only if ... S knows that p via M", "note": ""}
+      ],
+      "sources_used": ["문헌/@Nozick1981 Knowledge and Skepticism.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-06_Nozick-2.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "10a3a", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "추적하지 않는 방법이 추적하는 방법을 압도하면 앎이 없다", "label": "지지됨", "evidence": "this defective route ... outweighs", "note": ""},
+        {"n": 1, "text": "암스트롱의 아버지 사례: 믿음 경로는 조건 3을 어긴다(p. 259)", "label": "지지됨", "evidence": "violates condition 3", "note": ""},
+        {"n": 2, "text": "한 방법만 충족하면 관대, 모두 충족해야 하면 엄격(p. 260)", "label": "지지됨", "evidence": "too charitable to the father", "note": ""},
+        {"n": 3, "text": "아버지에게서 믿음이 법정 입증을 압도", "label": "지지됨", "evidence": "outweighed by faith", "note": ""},
+        {"n": 4, "text": "알려면 조건 충족 방법 M이 있고 다른 방법은 M에 압도되어야", "label": "지지됨", "evidence": "all other methods ... are outweighed by M", "note": ""},
+        {"n": 5, "text": "압도는 다른 방법의 권고를 고정하고 M의 권고만 바꿔 시험(Case III)", "label": "지지됨", "evidence": "hold constant what the other method recommends", "note": ""},
+        {"n": 6, "text": "Case II를 보지 않는 약화가 조건 3에 더 비중을 준다는 우려(주 15)", "label": "지지됨", "evidence": "more weight to condition 3", "note": ""}
+      ],
+      "sources_used": ["문헌/@Nozick1981 Knowledge and Skepticism.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-06_Nozick-2.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-Nozick_주석.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "10a3b", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "방법을 안에서 겪는 경험으로 개별화하고 중심 명제에서는 방법을 뺀다", "label": "지지됨", "evidence": "from the inside ... same method", "note": ""},
+        {"n": 1, "text": "체계적이지 않고 의식하지 못해도 방법을 쓸 수 있다(p. 261)", "label": "지지됨", "evidence": "without proceeding methodically", "note": ""},
+        {"n": 2, "text": "보통 경험상 최종 산물이 있고 안에서 같으면 같은 방법", "label": "지지됨", "evidence": "Usually, a method will have a final upshot", "note": ""},
+        {"n": 3, "text": "경험에 믿음을 두는 우리와 탱크 속 사람은 같은 방법", "label": "지지됨", "evidence": "the person floating in the tank are using ... same method", "note": ""},
+        {"n": 4, "text": "수반 방법은 압도 판정에서 제외", "label": "지지됨", "evidence": "not to apply to such supervenient methods", "note": ""},
+        {"n": 5, "text": "실제 방법은 실제로 행사하는 일반적 믿음 획득 성향으로 정해진다", "label": "지지됨", "evidence": "depend on which general disposition", "note": ""},
+        {"n": 6, "text": "중심 명제는 특정 방법으로 믿게 되었다고 보면 오해를 낳는다", "label": "지지됨", "evidence": "misleading to think of our coming to believe", "note": ""},
+        {"n": 7, "text": "중심 명제에서는 방법을 뺀 단순한 조건 3, 4로 돌아간다", "label": "부분 지지", "evidence": "we may revert to the earlier simpler subjunctives", "note": "원문은 'may revert'이고 'for almost all purposes'로 한정함. 카드는 '돌아가며'로 단정."},
+        {"n": 8, "text": "비트겐슈타인 『확실성에 관하여』 참조(p. 262, 주 18)", "label": "지지됨", "evidence": "See Ludwig Wittgenstein, On Certainty", "note": ""},
+        {"n": 9, "text": "개별화·셈의 문제를 과소평가하지 않되 여기서 추구하지 않는다", "label": "지지됨", "evidence": "neither do I want to pursue them here", "note": ""}
+      ],
+      "sources_used": ["문헌/@Nozick1981 Knowledge and Skepticism.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-06_Nozick-2.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-Nozick_주석.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "10b1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "회의적 가능성은 not-p 근방에 있을 때만 조건 3을 무너뜨린다", "label": "지지됨", "evidence": "only if ... in the not-p neighborhood", "note": ""},
+        {"n": 1, "text": "회의론자는 악마·꿈·탱크 상황으로 조건 3 실패를 보이려 한다(pp. 262–263)", "label": "지지됨", "evidence": "it aims to show that condition 3 is not satisfied", "note": ""},
+        {"n": 2, "text": "필요한 것은 R보다 약한 조건 3의 부정 T", "label": "지지됨", "evidence": "R is stronger than the skeptic needs", "note": ""},
+        {"n": 3, "text": "가정법은 함축과 달라 가능 상황만으로 조건 3이 거짓이 되지 않음(p. 263)", "label": "지지됨", "evidence": "does not show that 3 is false", "note": ""},
+        {"n": 4, "text": "조건 3은 not-p 근방만 말하고 먼 세계는 관여하지 않는다", "label": "지지됨", "evidence": "more distant not-p worlds is no concern", "note": ""},
+        {"n": 5, "text": "SK가 반박하려면 p가 거짓일 때 성립하거나 성립할 수 있어야", "label": "지지됨", "evidence": "would or might obtain if p were false", "note": ""},
+        {"n": 6, "text": "not-p → SK does not obtain을 조건 C라 부르고 충족하면 배제(p. 264)", "label": "지지됨", "evidence": "Any skeptical situation SK which satisfies C is ruled out", "note": ""}
+      ],
+      "sources_used": ["문헌/@Nozick1981 Knowledge and Skepticism.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-07_Nozick-3.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "10b2", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "노직은 회의적 가능성의 부재를 모른다는 점에서 회의론자에 동의한다", "label": "지지됨", "evidence": "we do not know ... and he is right", "note": ""},
+        {"n": 1, "text": "not-SK에 적용하면 조건 3 실패(p. 264)", "label": "지지됨", "evidence": "condition 3 is not satisfied by the person's belief", "note": ""},
+        {"n": 2, "text": "악마·꿈·탱크가 아님을 모른다", "label": "지지됨", "evidence": "we do not know we're not in that tank", "note": ""},
+        {"n": 3, "text": "인용문 및 이 결과를 낳고 설명하는 것이 장점", "label": "지지됨", "evidence": "It is a virtue of our account", "note": ""},
+        {"n": 4, "text": "이 결과는 하찮지 않다: 주의를 돌리기 전엔 안다고 생각", "label": "지지됨", "evidence": "It is startling, shocking", "note": ""},
+        {"n": 5, "text": "doxically identical 정의와 믿음 대부분이 거짓인 세계(pp. 264–265)", "label": "지지됨", "evidence": "almost everything believed is false", "note": ""},
+        {"n": 6, "text": "매개를 거쳐 알기에 가능하며 2차원 투영에 견줌(p. 265)", "label": "지지됨", "evidence": "we know mediately, not directly", "note": ""}
+      ],
+      "sources_used": ["문헌/@Nozick1981 Knowledge and Skepticism.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-07_Nozick-3.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-Nozick_주석.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "10c", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "노직에 따르면 앎은 알려진 논리적 함축 아래 닫혀 있지 않다", "label": "지지됨", "evidence": "Knowledge is not closed under known logical implication", "note": ""},
+        {"n": 1, "text": "회의론자는 원리 P에 기대어 탱크 부재를 모르므로 있는 곳도 모른다고 추론", "label": "지지됨", "evidence": "I don't know that I am in Jerusalem", "note": ""},
+        {"n": 2, "text": "P의 세부 문제가 직관적 호소력을 약화하지 못한다고 인정", "label": "지지됨", "evidence": "will not weaken the principle's intuitive appeal", "note": ""},
+        {"n": 3, "text": "'Knowledge is not closed...' 주장(p. 266)", "label": "지지됨", "evidence": "Principle P is wrong, however", "note": ""},
+        {"n": 4, "text": "p가 q를 함축하면 not-q가 더 강한 진술, 가장 가까운 세계가 doxically identical할 이유 없음", "label": "지지됨", "evidence": "no reason to assume ... doxically identical", "note": ""},
+        {"n": 5, "text": "예루살렘 의자 p와 탱크 q 예시(p. 267)", "label": "지지됨", "evidence": "The first one entails the second", "note": ""},
+        {"n": 6, "text": "p가 거짓이면 p를 믿지 않겠지만 q가 거짓이면 q도 p도 믿을 것", "label": "지지됨", "evidence": "I would believe that q ... still believe that p", "note": ""},
+        {"n": 7, "text": "조건 3을 필요조건으로 포함하는 이론은 모두 비폐쇄성을 귀결로 가짐", "label": "지지됨", "evidence": "any account that includes ... condition 3", "note": ""},
+        {"n": 8, "text": "조건 4의 비폐쇄 사례는 p가 실제로 거짓인 경우에서만(주 32)", "label": "지지됨", "evidence": "depends on the (actual) falsity of p", "note": ""}
+      ],
+      "sources_used": ["문헌/@Nozick1981 Knowledge and Skepticism.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-08_Nozick-4.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-Nozick_주석.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "10c3", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "조건 4와 방법 자체를 겨냥하는 회의 논증도 추적 이론으로 다룬다", "label": "지지됨", "evidence": "some skeptical arguments play off condition 4", "note": ""},
+        {"n": 1, "text": "조건 3은 변이, 조건 4는 고수 조건; 변하지 않아야 할 때 변한다고도 논증(p. 269)", "label": "지지됨", "evidence": "it would vary when it shouldn't", "note": ""},
+        {"n": 2, "text": "조건 4 반박은 p가 참일 때 일어날 수 있는 상황일 때만", "label": "지지됨", "evidence": "something that might occur if p were true", "note": ""},
+        {"n": 3, "text": "논증에 믿음을 버리는 사람은 그 전에도 안다는 것을 몰랐다", "label": "지지됨", "evidence": "did not know that they knew that p", "note": ""},
+        {"n": 4, "text": "부분적 승리: 'gained by the plausibility...'(p. 270)", "label": "지지됨", "evidence": "gained by the plausibility of his arguments", "note": ""},
+        {"n": 5, "text": "메논의 예와 'Knowledge should be made of sterner stuff'", "label": "지지됨", "evidence": "Knowledge should be made of sterner stuff", "note": ""},
+        {"n": 6, "text": "가장 깊은 방법을 M으로 알 때 조건 3 전건이 정합적이지 않음(pp. 270–271)", "label": "지지됨", "evidence": "We have no coherent way to understand this", "note": ""},
+        {"n": 7, "text": "방법은 고정해야 하므로 방법을 바꾸어 평가할 수도 없다", "label": "지지됨", "evidence": "the method must be held fixed", "note": ""},
+        {"n": 8, "text": "이 문제는 가장 깊은 방법에만 생긴다", "label": "지지됨", "evidence": "arises only for our knowledge of ... deepest methods", "note": ""},
+        {"n": 9, "text": "특정 SK는 몰라도 특정 방식으로 이성적·온전함을 아는 데 지장 없음(pp. 271–272)", "label": "지지됨", "evidence": "Perhaps not, but ... other things", "note": ""}
+      ],
+      "sources_used": ["문헌/@Nozick1981 Knowledge and Skepticism.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-09_Nozick-5.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-Nozick_주석.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "10f", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "드로즈는 노직에게서 SCA를 추상해 낸다", "label": "지지됨", "evidence": "which I've abstracted from Nozick's account", "note": ""},
+        {"n": 1, "text": "다른 맥락주의 해법은 가설이 왜 그럴듯한지 설명 못 했고 이것이 노직의 강점(§3, p. 672)", "label": "지지됨", "evidence": "particular point of strength of Nozick's treatment", "note": ""},
+        {"n": 2, "text": "S의 믿음 P는 P가 거짓이라면 S가 P를 믿을 때 둔감", "label": "지지됨", "evidence": "S's belief that P is insensitive if", "note": ""},
+        {"n": 3, "text": "SCA 일반화 인용문", "label": "지지됨", "evidence": "We tend to judge that S doesn't know that P", "note": ""},
+        {"n": 4, "text": "판단 성향을 서술하며 매우 강하고 일반적이나 예외가 있다는 단서", "label": "지지됨", "evidence": "very strong general, though not exceptionless", "note": ""},
+        {"n": 5, "text": "BIV가 아니라는 믿음은 BIV여도 가질 믿음이므로 첫 전제를 설명", "label": "지지됨", "evidence": "I would have this belief ... even if it were false", "note": ""},
+        {"n": 6, "text": "예외가 있어도 설명 역할 가능, 예외는 개선 방향의 자료(p. 673)", "label": "지지됨", "evidence": "needn't be exceptionless to perform the explanatory role", "note": ""}
+      ],
+      "sources_used": ["문헌/@DeRose1995 Solving the Skeptical Problem.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-01_DeRose-1.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "10f4", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "거짓 믿음의 경위를 설명하지 않는 회의적 가설은 작동하지 않는다", "label": "부분 지지", "evidence": "Part of the problem with these 'hypotheses'", "note": "원문은 'Part of the problem', 'preliminary observation', 'might be going wrong'로 한정. 제목은 일반 규칙으로 단정함."},
+        {"n": 1, "text": "단순 거짓 믿음·지적인 개 가설을 쓰는 AI는 첫 전제에서 힘을 잃는다(§5, p. 674)", "label": "지지됨", "evidence": "It's at the first premise that this ... fizzles", "note": ""},
+        {"n": 2, "text": "믿음은 둔감해 SCA가 그럴듯하리라 예측하나 실제로는 거짓임을 안다고 여김", "label": "지지됨", "evidence": "one does know that the deluded dog hypothesis", "note": ""},
+        {"n": 3, "text": "'Hypotheses are supposed to explain': 경위를 알려 주지 않는다", "label": "지지됨", "evidence": "Hypotheses are supposed to explain", "note": ""},
+        {"n": 4, "text": "효과적 가설은 경위를 어느 정도 이해하게 하고 비효과적 가설도 채우면 효과적", "label": "지지됨", "evidence": "it becomes effective", "note": ""},
+        {"n": 5, "text": "SCA의 한계: 경위를 설명하지 않으면 P를 모른다고 판단하지 않음(pp. 674–675)", "label": "지지됨", "evidence": "We don't so judge ourselves ignorant of P", "note": ""},
+        {"n": 6, "text": "예비적 진술이며 다듬을 여지가 많다", "label": "지지됨", "evidence": "just a preliminary statement", "note": ""}
+      ],
+      "sources_used": ["문헌/@DeRose1995 Solving the Skeptical Problem.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-02_DeRose-2.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "10f4a", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "오스틴과 드로즈는 의심에 오류의 경위를 요구하되 전면적 가설에서 갈린다", "label": "연결", "evidence": "", "note": ""},
+        {"n": 1, "text": "오스틴: 충분하지 않다는 도전은 특정된 결함을 대야 하고 충분함은 목적에 비추어 판정(1946: 84)", "label": "지지됨", "evidence": "Enough is enough: it doesn't mean everything", "note": "Austin 문헌 노트와 강독노트(02_강독노트) 확인."},
+        {"n": 2, "text": "드로즈도 경위를 설명하지 않는 가설은 첫 전제를 설득력 있게 만들지 못한다(§5)", "label": "부분 지지", "evidence": "Part of the problem with these 'hypotheses'", "note": "원문은 'Part of the problem', 'preliminary observation'으로 한정. 카드는 단정."},
+        {"n": 3, "text": "두 사람은 충분함이 맥락에 따라 판정된다는 데서도 가깝다", "label": "연결", "evidence": "", "note": ""},
+        {"n": 4, "text": "갈리는 지점은 오류 경위를 빠짐없이 설명하는 전면적 가설(BIV)", "label": "연결", "evidence": "", "note": ""},
+        {"n": 5, "text": "회의론자 친화적 판본에서 그런 가설로 앎을 부정하는 주장이 기준을 올리고 참이 된다(§10)", "label": "지지됨", "evidence": "the skeptic truthfully asserts her second premise", "note": ""},
+        {"n": 6, "text": "오스틴은 'Enough is enough'로 충분함을 목적에 묶고 박제된 goldfinch 요구를 기각", "label": "지지됨", "evidence": "not ... enough to show it isn't a stuffed goldfinch", "note": ""},
+        {"n": 7, "text": "드로즈도 단호한 반대자가 기준 상승을 막을 수 있다고 보는 맥락주의자를 언급(§2)", "label": "지지됨", "evidence": "a determined opponent of the skeptic can ... keep", "note": ""},
+        {"n": 8, "text": "회의적 가설 언급이 모두 기준 상승을 일으키지는 않는다(주 19)", "label": "지지됨", "evidence": "not just any mention ... seems to trigger", "note": ""},
+        {"n": 9, "text": "두 입장의 거리는 회의론자 친화적 가정을 얼마나 받아들이는지에 달림", "label": "연결", "evidence": "", "note": ""}
+      ],
+      "sources_used": ["문헌/@DeRose1995 Solving the Skeptical Problem.md", "문헌/@Austin1946 Other Minds.md", "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-01_DeRose-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-02_DeRose-2.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-04_DeRose-4.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-DeRose_주석.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "10f5", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "앎을 인정하게 하는 변화가 장애물도 없앤다는 점으로 SCA를 확증한다", "label": "지지됨", "evidence": "also removes what SCA posits as the block", "note": ""},
+        {"n": 1, "text": "회의적 가설이 거짓임을 안다고 보이게 하는 조건을 살펴 SCA 확증(§6, p. 675)", "label": "지지됨", "evidence": "what it would take to make it seem to us", "note": ""},
+        {"n": 2, "text": "복권: 작은 오류 가능성도 앎을 빼앗는 듯하나 발표 뒤에는 안다", "label": "지지됨", "evidence": "even a very minute chance of being wrong", "note": ""},
+        {"n": 3, "text": "발표 뒤에는 당첨이었다면 낙첨이라 믿을 것이라는 판단이 뒤집힌다", "label": "지지됨", "evidence": "reverses our judgment regarding the truth", "note": ""},
+        {"n": 4, "text": "SCA가 장애물을 올바르게 식별했다고 본다", "label": "지지됨", "evidence": "SCA has correctly identified the block", "note": ""},
+        {"n": 5, "text": "동물학자, 페인트 제거제 조사, 독립 출처 확인도 같은 상관관계(pp. 675–676)", "label": "지지됨", "evidence": "an impressive correlation", "note": ""},
+        {"n": 6, "text": "BIV는 둔감하지 않은 상황을 상상하기 어렵고 이것도 SCA 확증(p. 676)", "label": "지지됨", "evidence": "this only confirms SCA", "note": ""}
+      ],
+      "sources_used": ["문헌/@DeRose1995 Solving the Skeptical Problem.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-02_DeRose-2.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "10h", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "둘째 전제는 비교 사실을 드러내므로 모든 기준에서 참이다", "label": "지지됨", "evidence": "regardless of how high or low the standards", "note": ""},
+        {"n": 1, "text": "인식적 위치의 강도를 시험하는 장치로 비교 조건문(§8, p. 677)", "label": "지지됨", "evidence": "The best such device is that of comparative conditionals", "note": ""},
+        {"n": 2, "text": "윌트가 먹시만큼 크다는 비교 지식이 조건문 동의의 좋은 근거", "label": "지지됨", "evidence": "one very good basis for assenting", "note": ""},
+        {"n": 3, "text": "헨리 사례: F에서 알면 N에서도 알지만 역은 실패, N에서 더 강함(pp. 677–678)", "label": "지지됨", "evidence": "stronger epistemic position in N than in F", "note": ""},
+        {"n": 4, "text": "같은 장치는 한 주체의 서로 다른 명제 사이의 비교에도 쓰인다", "label": "지지됨", "evidence": "different propositions that subject believes", "note": ""},
+        {"n": 5, "text": "세 쌍에서 O를 알 위치가 not-H를 알 위치보다 낫지 않고 둘째 전제가 이를 드러낸다(p. 678)", "label": "부분 지지", "evidence": "Given natural background assumptions", "note": "원문은 '자연스러운 배경 가정이 주어지면', 'H를 잘 고른 경우'라는 조건을 붙였으나 카드에는 없음."},
+        {"n": 6, "text": "불멸의 영혼을 O에 거는 것이 not-H보다 현명하지 않다는 깨달음이 묶여 있다", "label": "지지됨", "evidence": "no wiser to bet one's immortal soul", "note": ""},
+        {"n": 7, "text": "비교 사실은 기준이 어떻든 둘째 전제를 참으로 만들고 가증스러운 연언을 거짓으로", "label": "지지됨", "evidence": "that conjunction is false at any epistemic standard", "note": ""}
+      ],
+      "sources_used": ["문헌/@DeRose1995 Solving the Skeptical Problem.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-03_DeRose-3.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-DeRose_주석.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "10h1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "드로즈는 폐쇄성 원리를 받아들이고 양립 불가능성 너머로 강화할 여지를 본다", "label": "지지됨", "evidence": "I believe that something like P is correct", "note": ""},
+        {"n": 1, "text": "주 18: 둘째 전제의 사례들은 흔히 폐쇄성 원리의 사례", "label": "지지됨", "evidence": "often instances of the principle", "note": ""},
+        {"n": 2, "text": "정확히 다듬으려면 손질이 필요하다고 인정하며 노직 인용(p. 266)", "label": "지지됨", "evidence": "quibble over the details of P", "note": ""},
+        {"n": 3, "text": "올바른 폐쇄성 원리 비슷한 것이 옳다고 믿고 비교 강도 설명과 경쟁하지 않는다", "label": "지지됨", "evidence": "doesn't compete with my present account", "note": ""},
+        {"n": 4, "text": "H가 O와 양립 가능해도 설득력 있는 사례: 몸 없는 BIV와 휴스턴", "label": "지지됨", "evidence": "seems to undermine my putative knowledge", "note": ""},
+        {"n": 5, "text": "Q가 참이면 P를 모를 Q 전반에 대해 not-Q를 알아야 한다는 강화 원리 제안", "label": "지지됨", "evidence": "Perhaps if S is to know that P", "note": "원문은 'Perhaps'로 잠정 제안; 카드의 '제안'과 맞음."},
+        {"n": 6, "text": "스트라우드가 강한 폐쇄성 원리를 논의(1984, pp. 25–30)", "label": "지지됨", "evidence": "Stroud discusses a stronger closure principle", "note": ""},
+        {"n": 7, "text": "주 32: 맥락주의는 폐쇄성에서 그럴듯하지 않은 입장을 취하지 않아 불변주의 우위 주장이 힘을 잃는다", "label": "지지됨", "evidence": "does not, take an implausible stand on ... closure", "note": ""}
+      ],
+      "sources_used": ["문헌/@DeRose1995 Solving the Skeptical Problem.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-DeRose_주석.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-08_Nozick-4.md", "_원자료/claude.ai/projects/논자시/chats/2026-09-17_논자시 공부 계속하기.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "10i", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "인식적 위치의 강도와 믿음의 민감성은 서로 다른 조건이다", "label": "지지됨", "evidence": "at least as strong ... belief that not-H is insensitive", "note": ""},
+        {"n": 1, "text": "세 쌍에서 O는 민감, not-H는 둔감한데 not-H의 위치는 O만큼 강하다(§9)", "label": "지지됨", "evidence": "one's belief in O is sensitive, while ... not-H", "note": ""},
+        {"n": 2, "text": "강한 위치의 구성 요소는 가까운 세계들에서 사실과 일치, 멀리 미칠수록 강하다(p. 679)", "label": "지지됨", "evidence": "An important component of being in a strong", "note": ""},
+        {"n": 3, "text": "민감하려면 일치가 가장 가까운 not-P 세계까지 미쳐야 함", "label": "지지됨", "evidence": "reach the closest not -P worlds", "note": ""},
+        {"n": 4, "text": "손이 없는 세계는 놀랄 만큼 가깝고 손 믿음은 민감", "label": "지지됨", "evidence": "alarmingly close worlds in which I don't have hands", "note": ""},
+        {"n": 5, "text": "BIV 세계는 멀어 강한 위치지만 믿음은 둔감(pp. 679–680)", "label": "지지됨", "evidence": "these beliefs remain insensitive", "note": ""},
+        {"n": 6, "text": "회의적 가설 부정 믿음이 민감하려면 일상 명제보다 강한 위치 필요", "label": "지지됨", "evidence": "must be stronger than it is with respect to other", "note": ""},
+        {"n": 7, "text": "§4에 따라 같은 방법의 세계로 제한하거나 방법 유사성에 비중을 둔다는 단서", "label": "지지됨", "evidence": "weigh similarity with respect to ... method very heavily", "note": ""}
+      ],
+      "sources_used": ["문헌/@DeRose1995 Solving the Skeptical Problem.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-03_DeRose-3.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "10j1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "직선적 해법들은 한 가지 기준으로 세 명제를 평가한 결과", "label": "지지됨", "evidence": "depend on the standards that dominate her evaluation", "note": ""},
+        {"n": 1, "text": "둘째 전제는 모든 기준에서, 첫 전제는 부풀려진 기준에서만, 결론의 부정은 일상 기준에서 참(§11)", "label": "지지됨", "evidence": "only at the unusually inflated standards", "note": ""},
+        {"n": 2, "text": "첫 전제를 주장하면 참, 부정하면 거짓을 낳아 그럴듯해 보인다", "label": "지지됨", "evidence": "attempts to assert (1) are bound to result in truth", "note": ""},
+        {"n": 3, "text": "높은 기준에서도 결론의 부정이 그럴듯한 것은 일상 맥락에서 참이 됨을 깨닫기 때문", "label": "지지됨", "evidence": "as soon as we find ourselves in more ordinary", "note": "원문은 이 끌림의 정도가 논란이고 양가감정이 있다고 덧붙임."},
+        {"n": 4, "text": "무어식은 첫 전제, 노직식은 둘째 전제, 대담한 회의론은 결론의 부정을 부정(p. 682)", "label": "지지됨", "evidence": "denies (1), the 'Nozickean' (2)", "note": ""},
+        {"n": 5, "text": "불변주의자는 낮은 기준→무어, 높은 기준→회의론, 흔한 기준→노직주의자", "label": "지지됨", "evidence": "evaluating each belief according to the standards", "note": ""},
+        {"n": 6, "text": "노직주의자는 not-H를 인정한 뒤 O를 주장하기 어려움을 놓친다", "label": "지지됨", "evidence": "until the conversational air is cleared", "note": ""},
+        {"n": 7, "text": "노직은 설명 과제를 'further exploration'에 맡겼다", "label": "지지됨", "evidence": "Further exploration and explanation is needed", "note": ""},
+        {"n": 8, "text": "주 21: 특수 상황에서 둔감한 믿음에도 not-H를 안다고 참되게 말할 수 있는 예외를 환영", "label": "지지됨", "evidence": "I welcome these exceptions", "note": ""}
+      ],
+      "sources_used": ["문헌/@DeRose1995 Solving the Skeptical Problem.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-03_DeRose-3.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-DeRose_주석.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "10j2", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "노직의 민감성을 드로즈는 기준 상승 규칙의 조건으로 옮긴다", "label": "연결", "evidence": "", "note": "Claude 설명(2026-09-17 첫 세션 공부)에 근거한다고 카드가 밝힘. 재배치 서술은 그 설명에 있음."},
+        {"n": 1, "text": "노직에게 민감성은 S의 믿음 속성이고 앎은 말하는 사람과 무관", "label": "지지됨", "evidence": "누가 그것을 말하느냐와 무관합니다", "note": "대화 속 설명(카드가 출처로 표시)에 근거. 노직 본문과는 모순 없음."},
+        {"n": 2, "text": "SCA에서 둔감성은 우리가 모른다고 판단하는 성향을 설명", "label": "지지됨", "evidence": "We tend to judge that S doesn't know", "note": ""},
+        {"n": 3, "text": "민감성 규칙에서 민감성은 귀속자 맥락의 기준 상승을 정한다", "label": "지지됨", "evidence": "require S's belief ... to be sensitive", "note": ""},
+        {"n": 4, "text": "이 재배치로 노직의 설명력을 유지하면서 폐쇄성과 둘째 전제를 지킨다", "label": "지지됨", "evidence": "incorporating SCA into a contextualist solution", "note": ""},
+        {"n": 5, "text": "노직의 회의론자는 not-SK를 모른다는 점에서 옳다", "label": "지지됨", "evidence": "The skeptic asserts ... and he is right", "note": ""},
+        {"n": 6, "text": "드로즈의 회의론자는 자기가 올린 기준에서 참되게 말한다", "label": "부분 지지", "evidence": "the skeptic truthfully asserts her second premise", "note": "원문은 회의론자 친화적 맥락주의를 잠정 가정(§2, 주 20)하고 회의론자가 실제로 기준을 올리는지는 열어 둠. 이 조건이 카드에 없음."},
+        {"n": 7, "text": "노직의 양보는 맥락 무관한 사실 판정, 드로즈의 양보는 맥락 상대적 진리값 판정", "label": "연결", "evidence": "", "note": ""}
+      ],
+      "sources_used": ["문헌/@Nozick1981 Knowledge and Skepticism.md", "문헌/@DeRose1995 Solving the Skeptical Problem.md", "_원자료/claude.ai/projects/논자시/chats/2026-09-17_논자시 첫 세션 공부.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-07_Nozick-3.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-02_DeRose-2.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-03_DeRose-3.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "10k", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "대담한 회의론자는 주장 가능성 책략으로 민감성 규칙을 모방한다", "label": "부분 지지", "evidence": "allows the bold skeptic to mimic", "note": "원문은 'can mimic', 'can maintain'(모방할 수 있다). 카드는 모방한다고 단정."},
+        {"n": 1, "text": "대담한 회의론자는 안다고 말할 때마다 거짓을 말한다고 보아 체계적 거짓에 연루(§12, p. 682)", "label": "지지됨", "evidence": "systematic and widespread falsehood", "note": ""},
+        {"n": 2, "text": "엉거와 스트라우드는 정당한 주장 가능성을 참으로 착각한다고 제안", "label": "지지됨", "evidence": "mistake this ... assertability ... for truth", "note": ""},
+        {"n": 3, "text": "첫째 문제: 책략은 무어주의자 등 다른 직선적 해법도 쓸 수 있다(p. 683)", "label": "지지됨", "evidence": "could be attempted by advocates of the other", "note": ""},
+        {"n": 4, "text": "둘째 문제: 회의론자는 첫 전제의 그럴듯함도 설명해야 한다", "label": "지지됨", "evidence": "owes us an explanation for its plausibility", "note": ""},
+        {"n": 5, "text": "그 답은 둔감성을 포함하고 둘째 전제 직관과 가증스러운 연언까지 설명해야", "label": "지지됨", "evidence": "the answer must involve the lack of sensitivity", "note": ""},
+        {"n": 6, "text": "영리한 불변주의자는 변동 기준을 주장 가능성 조건에 둔다(pp. 683–684)", "label": "지지됨", "evidence": "govern their conditions of warranted assertability", "note": ""},
+        {"n": 7, "text": "이 뒤틀기로 민감성 규칙까지 모방, 의미론만 다른 평행 이론(p. 684)", "label": "부분 지지", "evidence": "differs in its semantics of 'know'", "note": "평행 이론은 지지되나 '모방한다'는 원문의 'can mimic'을 단정으로 바꿈."},
+        {"n": 8, "text": "주 28: 무어주의자도 같은 조작을 하되 불변 기준을 충족 가능하게 낮춘다", "label": "지지됨", "evidence": "constant epistemic standards will be meetably low", "note": ""},
+        {"n": 9, "text": "주 26: 직선적 해법을 골라야 하면 무어주의자가 되겠다", "label": "지지됨", "evidence": "I'd be a Moorean", "note": ""}
+      ],
+      "sources_used": ["문헌/@DeRose1995 Solving the Skeptical Problem.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-04_DeRose-4.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-DeRose_주석.md"],
+      "sources_missing": []
+    }
+  ]
+}

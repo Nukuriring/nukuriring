@@ -1,0 +1,63 @@
+{
+ "id": "10a3",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "노직은 믿음 형성 방법을 고정하여 할머니 사례를 처리한다",
+   "label": "지지됨",
+   "evidence": "the method must be held fixed",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "조건 3과 4를 믿음에 이른 방법에 상대화",
+   "label": "지지됨",
+   "evidence": "restate our conditions ... methods",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "할머니 사례: 아프거나 죽었다면 가족이 건강하다고 말해 줄 것(pp. 258–259)",
+   "label": "지지됨",
+   "evidence": "others would tell her he was well",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "방법 없는 조건 3으로는 모른다고 나오나 안다는 판단은 흔들리지 않음",
+   "label": "지지됨",
+   "evidence": "this does not mean she doesn't know",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "마갈릿 극장 사례도 같은 구조(p. 259)",
+   "label": "지지됨",
+   "evidence": "Our earlier example ... is of this sort",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "'S knows, via method M, that p' 정의와 단서 삽입",
+   "label": "지지됨",
+   "evidence": "S were to use M to arrive at a belief",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "한 방법만 관련되면 S가 p를 앎 = M을 통해 p를 앎",
+   "label": "지지됨",
+   "evidence": "if and only if ... S knows that p via M",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Nozick1981 Knowledge and Skepticism.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-06_Nozick-2.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

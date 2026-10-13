@@ -1,0 +1,70 @@
+{
+ "id": "10a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "노직은 지식을 진리를 추적하는 믿음으로 분석한다",
+   "label": "지지됨",
+   "evidence": "To know is to have a belief that tracks the truth",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "조건 3: p가 거짓이라면 S는 p를 믿지 않을 것이다",
+   "label": "지지됨",
+   "evidence": "If P weren't true, S wouldn't believe that p",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "조건 4: p가 참이라면 S는 p를 믿을 것이다",
+   "label": "지지됨",
+   "evidence": "if it were true he would believe it",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "조건 3은 거짓일 때, 조건 4는 참일 때 믿음이 어떠할지",
+   "label": "지지됨",
+   "evidence": "sensitive to p's falsity, but not ... truth",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "두 조건이 성립할 때 추적한다고 부르고 'To know is...'(p. 258)",
+   "label": "지지됨",
+   "evidence": "when 3 and 4 hold, his belief tracks",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "인과 조건의 난점과 탱크 속 사람 사례에서 출발(p. 255)",
+   "label": "지지됨",
+   "evidence": "inhospitable environment for mathematical",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "조건 3은 not-p 근방의 첫 부분, 조건 4는 p 근방의 어느 거리까지",
+   "label": "지지됨",
+   "evidence": "only of the first portion of it",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "앎은 세계를 추적하는 실재적 사실 연결(p. 258)",
+   "label": "지지됨",
+   "evidence": "a specific real factual connection",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Nozick1981 Knowledge and Skepticism.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-05_Nozick-1.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

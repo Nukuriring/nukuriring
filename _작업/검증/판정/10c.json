@@ -1,0 +1,78 @@
+{
+ "id": "10c",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "노직에 따르면 앎은 알려진 논리적 함축 아래 닫혀 있지 않다",
+   "label": "지지됨",
+   "evidence": "Knowledge is not closed under known logical implication",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "회의론자는 원리 P에 기대어 탱크 부재를 모르므로 있는 곳도 모른다고 추론",
+   "label": "지지됨",
+   "evidence": "I don't know that I am in Jerusalem",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "P의 세부 문제가 직관적 호소력을 약화하지 못한다고 인정",
+   "label": "지지됨",
+   "evidence": "will not weaken the principle's intuitive appeal",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "'Knowledge is not closed...' 주장(p. 266)",
+   "label": "지지됨",
+   "evidence": "Principle P is wrong, however",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "p가 q를 함축하면 not-q가 더 강한 진술, 가장 가까운 세계가 doxically identical할 이유 없음",
+   "label": "지지됨",
+   "evidence": "no reason to assume ... doxically identical",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "예루살렘 의자 p와 탱크 q 예시(p. 267)",
+   "label": "지지됨",
+   "evidence": "The first one entails the second",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "p가 거짓이면 p를 믿지 않겠지만 q가 거짓이면 q도 p도 믿을 것",
+   "label": "지지됨",
+   "evidence": "I would believe that q ... still believe that p",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "조건 3을 필요조건으로 포함하는 이론은 모두 비폐쇄성을 귀결로 가짐",
+   "label": "지지됨",
+   "evidence": "any account that includes ... condition 3",
+   "note": ""
+  },
+  {
+   "n": 8,
+   "text": "조건 4의 비폐쇄 사례는 p가 실제로 거짓인 경우에서만(주 32)",
+   "label": "지지됨",
+   "evidence": "depends on the (actual) falsity of p",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Nozick1981 Knowledge and Skepticism.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-08_Nozick-4.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-Nozick_주석.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

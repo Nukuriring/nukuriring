@@ -1,0 +1,72 @@
+{
+ "id": "10h1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "드로즈는 폐쇄성 원리를 받아들이고 양립 불가능성 너머로 강화할 여지를 본다",
+   "label": "지지됨",
+   "evidence": "I believe that something like P is correct",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "주 18: 둘째 전제의 사례들은 흔히 폐쇄성 원리의 사례",
+   "label": "지지됨",
+   "evidence": "often instances of the principle",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "정확히 다듬으려면 손질이 필요하다고 인정하며 노직 인용(p. 266)",
+   "label": "지지됨",
+   "evidence": "quibble over the details of P",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "올바른 폐쇄성 원리 비슷한 것이 옳다고 믿고 비교 강도 설명과 경쟁하지 않는다",
+   "label": "지지됨",
+   "evidence": "doesn't compete with my present account",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "H가 O와 양립 가능해도 설득력 있는 사례: 몸 없는 BIV와 휴스턴",
+   "label": "지지됨",
+   "evidence": "seems to undermine my putative knowledge",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "Q가 참이면 P를 모를 Q 전반에 대해 not-Q를 알아야 한다는 강화 원리 제안",
+   "label": "지지됨",
+   "evidence": "Perhaps if S is to know that P",
+   "note": "원문은 'Perhaps'로 잠정 제안; 카드의 '제안'과 맞음."
+  },
+  {
+   "n": 6,
+   "text": "스트라우드가 강한 폐쇄성 원리를 논의(1984, pp. 25–30)",
+   "label": "지지됨",
+   "evidence": "Stroud discusses a stronger closure principle",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "주 32: 맥락주의는 폐쇄성에서 그럴듯하지 않은 입장을 취하지 않아 불변주의 우위 주장이 힘을 잃는다",
+   "label": "지지됨",
+   "evidence": "does not, take an implausible stand on ... closure",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@DeRose1995 Solving the Skeptical Problem.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-DeRose_주석.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-08_Nozick-4.md",
+  "_원자료/claude.ai/projects/논자시/chats/2026-09-17_논자시 공부 계속하기.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

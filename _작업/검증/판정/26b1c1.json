@@ -1,0 +1,56 @@
+{
+ "id": "26b1c1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "변화가 충분히 급진적이면 더 나아졌는지 물을 같은 개체가 없다",
+   "label": "지지됨",
+   "evidence": "we'll deny … the same individual",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "파이거 반례: 형식을 고정하면 철학은 호랑이에게 좋지 않고, 바꾸면 호랑이가 아님",
+   "label": "지지됨",
+   "evidence": "더 이상 호랑이가 아니다(파이거)",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "각주 32 인용문",
+   "label": "지지됨",
+   "evidence": "if the change is radical enough",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "어디까지가 급진적인지는 큰 물음이나 논지에 필요하지 않다",
+   "label": "지지됨",
+   "evidence": "our point does not require one",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "형식 변화는 형식이 상대적으로 고정된 맥락에서만 평가, 테세우스의 배는 무방",
+   "label": "지지됨",
+   "evidence": "점진적 변화의 누적은 무방",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "형식 개념이 배제하는 것은 급진적 향상을 우리에게 좋다고 정당화하는 일의 가지성뿐",
+   "label": "지지됨",
+   "evidence": "가지성뿐이다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/GrollLott2015_Cambridge페이지_초록각주38.md",
+  "_원자료/로컬/인간 본성 참고 문헌/07_원료노트_사본/원문논증정리_그롤로트2015_20260907.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

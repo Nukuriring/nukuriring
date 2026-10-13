@@ -1,0 +1,63 @@
+{
+ "id": "10b1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "회의적 가능성은 not-p 근방에 있을 때만 조건 3을 무너뜨린다",
+   "label": "지지됨",
+   "evidence": "only if ... in the not-p neighborhood",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "회의론자는 악마·꿈·탱크 상황으로 조건 3 실패를 보이려 한다(pp. 262–263)",
+   "label": "지지됨",
+   "evidence": "it aims to show that condition 3 is not satisfied",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "필요한 것은 R보다 약한 조건 3의 부정 T",
+   "label": "지지됨",
+   "evidence": "R is stronger than the skeptic needs",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "가정법은 함축과 달라 가능 상황만으로 조건 3이 거짓이 되지 않음(p. 263)",
+   "label": "지지됨",
+   "evidence": "does not show that 3 is false",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "조건 3은 not-p 근방만 말하고 먼 세계는 관여하지 않는다",
+   "label": "지지됨",
+   "evidence": "more distant not-p worlds is no concern",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "SK가 반박하려면 p가 거짓일 때 성립하거나 성립할 수 있어야",
+   "label": "지지됨",
+   "evidence": "would or might obtain if p were false",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "not-p → SK does not obtain을 조건 C라 부르고 충족하면 배제(p. 264)",
+   "label": "지지됨",
+   "evidence": "Any skeptical situation SK which satisfies C is ruled out",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Nozick1981 Knowledge and Skepticism.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-07_Nozick-3.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

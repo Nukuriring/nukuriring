@@ -1,0 +1,85 @@
+{
+ "id": "10k",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "대담한 회의론자는 주장 가능성 책략으로 민감성 규칙을 모방한다",
+   "label": "부분 지지",
+   "evidence": "allows the bold skeptic to mimic",
+   "note": "원문은 'can mimic', 'can maintain'(모방할 수 있다). 카드는 모방한다고 단정."
+  },
+  {
+   "n": 1,
+   "text": "대담한 회의론자는 안다고 말할 때마다 거짓을 말한다고 보아 체계적 거짓에 연루(§12, p. 682)",
+   "label": "지지됨",
+   "evidence": "systematic and widespread falsehood",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "엉거와 스트라우드는 정당한 주장 가능성을 참으로 착각한다고 제안",
+   "label": "지지됨",
+   "evidence": "mistake this ... assertability ... for truth",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "첫째 문제: 책략은 무어주의자 등 다른 직선적 해법도 쓸 수 있다(p. 683)",
+   "label": "지지됨",
+   "evidence": "could be attempted by advocates of the other",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "둘째 문제: 회의론자는 첫 전제의 그럴듯함도 설명해야 한다",
+   "label": "지지됨",
+   "evidence": "owes us an explanation for its plausibility",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "그 답은 둔감성을 포함하고 둘째 전제 직관과 가증스러운 연언까지 설명해야",
+   "label": "지지됨",
+   "evidence": "the answer must involve the lack of sensitivity",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "영리한 불변주의자는 변동 기준을 주장 가능성 조건에 둔다(pp. 683–684)",
+   "label": "지지됨",
+   "evidence": "govern their conditions of warranted assertability",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "이 뒤틀기로 민감성 규칙까지 모방, 의미론만 다른 평행 이론(p. 684)",
+   "label": "부분 지지",
+   "evidence": "differs in its semantics of 'know'",
+   "note": "평행 이론은 지지되나 '모방한다'는 원문의 'can mimic'을 단정으로 바꿈."
+  },
+  {
+   "n": 8,
+   "text": "주 28: 무어주의자도 같은 조작을 하되 불변 기준을 충족 가능하게 낮춘다",
+   "label": "지지됨",
+   "evidence": "constant epistemic standards will be meetably low",
+   "note": ""
+  },
+  {
+   "n": 9,
+   "text": "주 26: 직선적 해법을 골라야 하면 무어주의자가 되겠다",
+   "label": "지지됨",
+   "evidence": "I'd be a Moorean",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@DeRose1995 Solving the Skeptical Problem.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-04_DeRose-4.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-DeRose_주석.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

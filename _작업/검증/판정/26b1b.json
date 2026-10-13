@@ -1,0 +1,63 @@
+{
+ "id": "26b1b",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "결함은 형식에 비추어 판정되므로 형식에 속하지 않는다",
+   "label": "지지됨",
+   "evidence": "defects are not part of human form",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "널리 퍼지고 불변이고 설명력 있어도 형식에 속하지 않는 특성이 있다",
+   "label": "지지됨",
+   "evidence": "형식에 속하지 않는 특성이 있다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "90퍼센트의 심장 결함은 뷰캐넌 기준으론 본성, 형식에는 불속",
+   "label": "지지됨",
+   "evidence": "성인의 90%가 어떤 심장 결함을 지녀",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "결함 판정은 개별 심장을 적절히 기능하는 심장과 비교해 내려진다",
+   "label": "지지됨",
+   "evidence": "comparing individual hearts to 'the human heart'",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "'to err is human'은 통계적, 형식에서는 'erring'을 'the human'이 정함",
+   "label": "지지됨",
+   "evidence": "what counts as 'erring' is determined",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "외집단 편향도 편향이라는 기술이 기준을 함축해 형식에 불속",
+   "label": "지지됨",
+   "evidence": "올바른 발휘의 기준을 함축",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "비관과 양립하며 두 의미의 본성을 함께 인정할 수 있다",
+   "label": "지지됨",
+   "evidence": "affirm both of these senses",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/GrollLott2015_Cambridge페이지_초록각주38.md",
+  "_원자료/로컬/인간 본성 참고 문헌/07_원료노트_사본/원문논증정리_그롤로트2015_20260907.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

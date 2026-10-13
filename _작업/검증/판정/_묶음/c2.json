@@ -1,0 +1,293 @@
+{
+  "model": "sonnet",
+  "date": "2026-10-13",
+  "cards": [
+    {
+      "id": "25l5", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "뢰브의 논증은 확률 지배 전제와 능력 비결합 원리에 기댄다", "label": "지지됨", "evidence": "논증이 서 있는 급소 … 첫째 … 둘째", "note": ""},
+        {"n": 1, "text": "행위자 인과론자는 선택이 확률에 구속되지 않는다고 부정할 수 있다", "label": "지지됨", "evidence": "자유 선택이 애초에 확률에 구속되지 않는다고 부정할 수 있어요", "note": ""},
+        {"n": 2, "text": "뢰브는 각주에서 이를 인정하고 배경 가정 거부로 정리한다", "label": "지지됨", "evidence": "저자도 각주에서 이걸 인정하고", "note": ""},
+        {"n": 3, "text": "can p, can q에서 can(p and q)로의 차단이 능력에도 참인지 논쟁적, 무너지면 §3 흔들림", "label": "지지됨", "evidence": "ability에 대해서도 참인지는 그 자체로 논쟁적", "note": ""},
+        {"n": 4, "text": "평균화 가정은 상황이 과거 선택과 상관되거나 편향되면 깨질 여지", "label": "지지됨", "evidence": "수렴이 깨질 여지가 있죠", "note": ""},
+        {"n": 5, "text": "자유의지 없이 재진술 가능: Skow의 almost necessary explanation", "label": "지지됨", "evidence": "Skow의 'almost necessary explanation'", "note": ""},
+        {"n": 6, "text": "Emery와 Schaffer 논쟁, 비결정론적 행위자에 한정해 읽으면 됨", "label": "지지됨", "evidence": "Emery vs Schaffer … 제한해 읽으면 된다", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-07-22_논문 내용 설명해주기.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "25l6a", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "수행문으로 읽으면 뢰브의 영원과 연인의 영원이 갈린다", "label": "지지됨", "evidence": "서로 다른 대상이다로 착지", "note": ""},
+        {"n": 1, "text": "첫째 길: '영원히'는 필멸의 낱말, 맹세는 되돌릴 수 없어 낭만적", "label": "지지됨", "evidence": "'영원히'는 사실 필멸의 단어", "note": ""},
+        {"n": 2, "text": "둘째 길: 수행 발화, 사랑의 무게를 등록, 영원을 바라는 게 어리석은가는 과녁 잃음", "label": "지지됨", "evidence": "무언가를 하는 발화 … 범주 오류", "note": ""},
+        {"n": 3, "text": "셋째 길: 모순을 명명한 채 열어 둠", "label": "지지됨", "evidence": "곤경을 명명하며 닫는, 가장 열린 착지", "note": ""},
+        {"n": 4, "text": "넷째 길: 순전한 지속을 장부가 셈하지 않는 다른 가치로 재배치", "label": "지지됨", "evidence": "순전한 지속 … 재배치하는 것", "note": ""},
+        {"n": 5, "text": "07-30 보렐-칸텔리가 참이면 불멸자는 약속할 수 없고 불발의 한 종류", "label": "지지됨", "evidence": "불멸자는 약속할 수 없다 … misfire", "note": ""},
+        {"n": 6, "text": "이 정리들은 Claude의 제안이며 영진은 착지를 열어 두기로 했다", "label": "지지됨", "evidence": "착지는 열어두라 하셨으니", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-07-22_논문 내용 설명해주기.md", "_원자료/claude.ai/chats/2026-07-30_Seeking an answer.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "25l7", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "슈팅룸의 재참가 금지 조항은 뢰브의 필멸과 같은 일을 한다", "label": "지지됨", "evidence": "재참가 금지 조항이 Loew의 필멸과 같은 일을 한다", "note": ""},
+        {"n": 1, "text": "뢰브의 정리와 에르고딕성 논변의 정리를 같은 것으로 봄", "label": "지지됨", "evidence": "Loew가 쓰는 게 같은 정리다", "note": ""},
+        {"n": 2, "text": "무한한 시간이면 확률 1로 모든 것을 하므로 전역적으로 아무것도 정하지 못함", "label": "지지됨", "evidence": "전역적으로는 아무것도 정하지 못한다", "note": ""},
+        {"n": 3, "text": "파산 쪽은 당사자를, 필멸 쪽은 당사자의 선택을 삼킴", "label": "지지됨", "evidence": "당신을 삼키고 … 당신의 선택을 삼킨다", "note": ""},
+        {"n": 4, "text": "재참가 금지는 앙상블 평균과 시간 평균을 일치시켜 1/36이 참가자에 관한 수로 남음", "label": "지지됨", "evidence": "n=1이라서 앙상블평균과 시간평균이 일치", "note": ""},
+        {"n": 5, "text": "뢰브의 정리는 큰 수의 법칙, 보렐-칸텔리는 충만성 원리 쪽(07-22 풀이)", "label": "지지됨", "evidence": "큰 수의 법칙 … 수학적 배후는 무한 원숭이 정리", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-07-30_Seeking an answer.md", "_원자료/claude.ai/chats/2026-07-22_논문 내용 설명해주기.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "26", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "본성 논증의 힘은 본성 개념을 어떻게 읽느냐에 달려 있다", "label": "연결", "evidence": "", "note": "네 출처를 엮은 종합 논지"},
+        {"n": 1, "text": "불활성 견해는 본성을 섞인 자루로 보고 소속만으로는 규범적 귀결이 없다고 봄", "label": "지지됨", "evidence": "nothing normative follows", "note": ""},
+        {"n": 2, "text": "이 견해는 본성을 대부분의 인간이 지닌 특성으로 읽는 통계적 개념에서 힘을 얻음", "label": "지지됨", "evidence": "통계적 개념은 Inert View(nature)를 지지", "note": ""},
+        {"n": 3, "text": "그롤과 로트는 인간 형식 개념을 세워 이 견해를 반박", "label": "지지됨", "evidence": "'human form' does have an important role", "note": ""},
+        {"n": 4, "text": "카스는 유한성과 영혼의 활동이 좋다는 내용 주장으로 향상을 평가", "label": "지지됨", "evidence": "human finitude … energeia psyches", "note": ""},
+        {"n": 5, "text": "램지는 본성을 기술적 패턴으로 읽어 개입 위험 정보의 역할을 맡김", "label": "지지됨", "evidence": "엄밀히 기술적이지 규범적이지 않다", "note": ""},
+        {"n": 6, "text": "샌델은 반대 근거를 향상이 표현하고 조장하는 태도와 성향에서 찾음", "label": "지지됨", "evidence": "향상이 표현하고 조장하는 인간의 성향", "note": ""},
+        {"n": 7, "text": "그래서 논증이 어떤 본성 개념을 쓰는지 먼저 확인해야 한다", "label": "연결", "evidence": "", "note": "종합 결론"}
+      ],
+      "sources_used": ["문헌/@GrollLott2015 Is There a Role for Human Nature in Debates About Human Enhancement.md", "_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/GrollLott2015_Cambridge페이지_초록각주38.md", "_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/Kass2003_AgelessBodiesHappySouls_NewAtlantis1.md", "_원자료/로컬/인간 본성 참고 문헌/07_원료노트_사본/원료_램지2012_충실정리_20260907.md", "문헌/@Sandel2004 The Case Against Perfection.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "26a", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "러플리는 인간 본성에 묶인 다섯 쓰임을 전통적 꾸러미로 정리한다", "label": "지지됨", "evidence": "the traditional package … five different uses", "note": ""},
+        {"n": 1, "text": "TP1 대조적 쓰임: 의도적 행위가 낳지 않은 특징", "label": "지지됨", "evidence": "not the results of human intentional action", "note": ""},
+        {"n": 2, "text": "TP2 청사진 설명적: 도토리가 참나무가 되는 내적 원리", "label": "지지됨", "evidence": "acorns contain a blueprint", "note": ""},
+        {"n": 3, "text": "TP3 완성된 형태, TP4 실현해야 하는 형태, TP5 호모 사피엔스 분류", "label": "지지됨", "evidence": "ought to realise … classificatory", "note": ""},
+        {"n": 4, "text": "첫째는 플라톤에서, 둘째~넷째는 아리스토텔레스에서 나왔다", "label": "부분 지지", "evidence": "seem to have their origin in Plato", "note": "원문은 첫째에 대해 'seem to'로 한정했는데 카드는 단정함."},
+        {"n": 5, "text": "다섯째를 아리스토텔레스에게 돌림은 중세 수용의 오독일 수 있다", "label": "지지됨", "evidence": "seems to derive from a misreading", "note": ""},
+        {"n": 6, "text": "목적론 거부, 역사주의, 다윈주의가 꾸러미의 정합성을 의심하게 함", "label": "지지됨", "evidence": "Enlightenment rejection … Darwinian", "note": ""},
+        {"n": 7, "text": "주장을 평가하려면 어떤 적합성 조건을 받아들이는지 밝혀야 한다", "label": "지지됨", "evidence": "requires clarity on … adequacy conditions", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/SEP_HumanNature_전문.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "26a2a", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "램지: 본성은 표적을 못 정해도 용이성과 위험을 알려 준다", "label": "지지됨", "evidence": "3 미달성 … 1·2 달성", "note": ""},
+        {"n": 1, "text": "본성의 기여 경로 넷", "label": "지지됨", "evidence": "본성이 향상 논쟁에 기여할 수 있는 길은 넷이다", "note": ""},
+        {"n": 2, "text": "공유·진화 특성 목록은 네 경로 모두에 실패", "label": "지지됨", "evidence": "목록형 본성은 넷 다 실패한다", "note": ""},
+        {"n": 3, "text": "진화·확산은 바꾸기 쉬운지 말해 주지 않고 위험은 경험적 문제", "label": "지지됨", "evidence": "경험적 문제이지 선험적으로 정할 수 없다", "note": ""},
+        {"n": 4, "text": "LTC 규정은 앞의 두 경로 달성, 취약 특성과 패턴 설명", "label": "지지됨", "evidence": "LTC는 1·2를 달성", "note": ""},
+        {"n": 5, "text": "뒤의 두 경로는 어떤 규정으로도 달성되지 않는다", "label": "지지됨", "evidence": "어떤 본성 규정으로도 안 된다", "note": ""},
+        {"n": 6, "text": "본성만으로 도덕 원리는 안 나오나 기존 원리를 데이터와 이어 준다", "label": "지지됨", "evidence": "기존 도덕 원리를 데이터와 연결", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/인간 본성 참고 문헌/07_원료노트_사본/원료_램지2012_충실정리_20260907.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "26a4", "voice": "종합", "verdict": "원문없음",
+      "claims": [
+        {"n": 0, "text": "인간 본성에는 필연, 전형, 당위의 세 층위가 겹쳐 있다", "label": "지지됨", "evidence": "세 층위 ⓐ필연(본질)·ⓑ전형(완고)·ⓒ당위", "note": ""},
+        {"n": 1, "text": "필연: 인간인 한 반드시 지니는 본질", "label": "지지됨", "evidence": "필연(본질)", "note": ""},
+        {"n": 2, "text": "전형: 대부분이 지니고 교육으로 잘 안 바뀌는 특성", "label": "지지됨", "evidence": "전형(완고) / 뷰캐넌 기준 둘", "note": ""},
+        {"n": 3, "text": "당위: 인간이 실현해야 하는 형태", "label": "지지됨", "evidence": "form that mature members ought to realise", "note": ""},
+        {"n": 4, "text": "다윈 이후 종 본질은 서기 어려워졌다", "label": "지지됨", "evidence": "Darwinian introduction of history", "note": ""},
+        {"n": 5, "text": "뷰캐넌의 정의와 마셔리 법칙론은 둘째 층위에 머문다", "label": "지지됨", "evidence": "통계적 본성 개념 / 마셔리: 대부분이 공유", "note": ""},
+        {"n": 6, "text": "그롤과 로트는 전형에서 당위로 가는 길을 통계가 아닌 형식 개념에서 찾음", "label": "지지됨", "evidence": "통계적 본성은 불활성, 형식은 좋음의 기준", "note": ""},
+        {"n": 7, "text": "러플리 꾸러미와의 대응(TP5, TP4, 통계적 정상성)", "label": "연결", "evidence": "", "note": "카드가 Claude의 연결이라고 밝힘"},
+        {"n": 8, "text": "한 층위 근거가 다른 층위 결론으로 넘어가는 자리를 찾으면 약한 고리가 드러난다", "label": "원문에 없음", "evidence": "", "note": "결정 기록은 세 층위를 구별하게 한다는 교육 축만 말하고, 약한 고리 진단법은 출처에 없음(Claude의 해석 추정)."}
+      ],
+      "sources_used": ["_원자료/로컬/인간 본성 참고 문헌/07_원료노트_사본/결정기록_앵커배치_20260903.md", "문헌/@천현득2016 포스트휴먼 시대의 인간 본성.md", "_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/SEP_HumanNature_전문.md", "문헌/@GrollLott2015 Is There a Role for Human Nature in Debates About Human Enhancement.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "26b1a", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "통계적 본성 개념은 성숙 개념에서 이미 인간 형식을 전제한다", "label": "지지됨", "evidence": "통계적 개념은 인간 형식을 개념적으로 전제", "note": ""},
+        {"n": 1, "text": "성숙은 나이로도 통계로도 정해지지 않는다", "label": "지지됨", "evidence": "나이로 정할 수 없다 … 통계로도", "note": ""},
+        {"n": 2, "text": "체르노빌 새는 성숙 실패로 판정, 하루살이는 대부분 성체에 못 이름", "label": "지지됨", "evidence": "성숙에 실패한 것", "note": ""},
+        {"n": 3, "text": "성숙의 완결/중단을 가르는 것은 비통계적 이해이다", "label": "지지됨", "evidence": "비통계적 이해다", "note": ""},
+        {"n": 4, "text": "루언스가 인용한 문장, Groll and Lott 2015: 633", "label": "지지됨", "evidence": "maturation is not a statistical summary", "note": ""},
+        {"n": 5, "text": "교육 기준: 혀를 자르는 일은 교육 아님, 늑대 아이는 교육 중단", "label": "지지됨", "evidence": "혀를 잘라 언어 능력을 바꾸는 것은 교육이 아니고", "note": ""},
+        {"n": 6, "text": "행동 기준: 하나의 행동으로 묶으려면 생명 활동으로 기술해야 함", "label": "지지됨", "evidence": "생명 활동으로 기술해야 하고", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/인간 본성 참고 문헌/07_원료노트_사본/원문논증정리_그롤로트2015_20260907.md", "_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/GrollLott2015_Cambridge페이지_초록각주38.md", "_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/Lewens2020_SpeciesNatures_PhilQuarterly70.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "26b1b", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "결함은 형식에 비추어 판정되므로 형식에 속하지 않는다", "label": "지지됨", "evidence": "defects are not part of human form", "note": ""},
+        {"n": 1, "text": "널리 퍼지고 불변이고 설명력 있어도 형식에 속하지 않는 특성이 있다", "label": "지지됨", "evidence": "형식에 속하지 않는 특성이 있다", "note": ""},
+        {"n": 2, "text": "90퍼센트의 심장 결함은 뷰캐넌 기준으론 본성, 형식에는 불속", "label": "지지됨", "evidence": "성인의 90%가 어떤 심장 결함을 지녀", "note": ""},
+        {"n": 3, "text": "결함 판정은 개별 심장을 적절히 기능하는 심장과 비교해 내려진다", "label": "지지됨", "evidence": "comparing individual hearts to 'the human heart'", "note": ""},
+        {"n": 4, "text": "'to err is human'은 통계적, 형식에서는 'erring'을 'the human'이 정함", "label": "지지됨", "evidence": "what counts as 'erring' is determined", "note": ""},
+        {"n": 5, "text": "외집단 편향도 편향이라는 기술이 기준을 함축해 형식에 불속", "label": "지지됨", "evidence": "올바른 발휘의 기준을 함축", "note": ""},
+        {"n": 6, "text": "비관과 양립하며 두 의미의 본성을 함께 인정할 수 있다", "label": "지지됨", "evidence": "affirm both of these senses", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/GrollLott2015_Cambridge페이지_초록각주38.md", "_원자료/로컬/인간 본성 참고 문헌/07_원료노트_사본/원문논증정리_그롤로트2015_20260907.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "26b1c", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "인간 형식에서 ~로서의 좋음과 ~에게 좋음을 차례로 끌어낸다", "label": "지지됨", "evidence": "'~로서의 좋음' → '~에게 좋음'", "note": ""},
+        {"n": 1, "text": "호랑이 다리 넷과 셋을 놓으면 다리 하나가 없다는 평가가 나온다", "label": "지지됨", "evidence": "이 호랑이는 다리 하나가 없다", "note": ""},
+        {"n": 2, "text": "형식은 종 개체의 좋음 기준이며 종마다 다르다(비둘기/고슴도치)", "label": "지지됨", "evidence": "기준은 종마다 다르다", "note": ""},
+        {"n": 3, "text": "남는 반론은 우리에게 좋은가이다", "label": "지지됨", "evidence": "향상 논쟁이 묻는 것은 '우리에게 좋은가'", "note": ""},
+        {"n": 4, "text": "이로운 것은 종의 특징적 생명 활동을 하게 해 주는 것, 종으로서 잘 사는 것", "label": "지지됨", "evidence": "자기 종으로서 잘 사는 것(크라우트)", "note": ""},
+        {"n": 5, "text": "형식에 없는 능력도 형식의 다른 부분을 더 잘 실현할 때만 좋다", "label": "지지됨", "evidence": "오직 그 능력이 형식의 다른 부분", "note": ""},
+        {"n": 6, "text": "X가 Y에게 좋음과 이유 사이 개념적 연결은 훼손되거나 압도될 수 있다", "label": "지지됨", "evidence": "the connection is undermined … outweighed", "note": ""},
+        {"n": 7, "text": "형식 특성을 없애면 일응 반대 이유, 더 잘 실현하면 일응 찬성 이유", "label": "지지됨", "evidence": "일응 반대 이유 … 일응 찬성", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/인간 본성 참고 문헌/07_원료노트_사본/원문논증정리_그롤로트2015_20260907.md", "_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/GrollLott2015_Cambridge페이지_초록각주38.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "26b1c1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "변화가 충분히 급진적이면 더 나아졌는지 물을 같은 개체가 없다", "label": "지지됨", "evidence": "we'll deny … the same individual", "note": ""},
+        {"n": 1, "text": "파이거 반례: 형식을 고정하면 철학은 호랑이에게 좋지 않고, 바꾸면 호랑이가 아님", "label": "지지됨", "evidence": "더 이상 호랑이가 아니다(파이거)", "note": ""},
+        {"n": 2, "text": "각주 32 인용문", "label": "지지됨", "evidence": "if the change is radical enough", "note": ""},
+        {"n": 3, "text": "어디까지가 급진적인지는 큰 물음이나 논지에 필요하지 않다", "label": "지지됨", "evidence": "our point does not require one", "note": ""},
+        {"n": 4, "text": "형식 변화는 형식이 상대적으로 고정된 맥락에서만 평가, 테세우스의 배는 무방", "label": "지지됨", "evidence": "점진적 변화의 누적은 무방", "note": ""},
+        {"n": 5, "text": "형식 개념이 배제하는 것은 급진적 향상을 우리에게 좋다고 정당화하는 일의 가지성뿐", "label": "지지됨", "evidence": "가지성뿐이다", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/GrollLott2015_Cambridge페이지_초록각주38.md", "_원자료/로컬/인간 본성 참고 문헌/07_원료노트_사본/원문논증정리_그롤로트2015_20260907.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "26b1d1", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "카스와 그롤과 로트는 상심의 취약성을 사랑하는 능력과 떼어 낼 수 없다고 본다", "label": "연결", "evidence": "", "note": "세 출처를 엮은 종합 논지(카드가 Claude의 연결이라 밝힘)"},
+        {"n": 1, "text": "카스: If one cannot grieve, one has not loved", "label": "지지됨", "evidence": "If one cannot grieve, one has not loved.", "note": ""},
+        {"n": 2, "text": "카스: 충족은 필요와 유한성의 피조물이라는 데 달려 있다", "label": "지지됨", "evidence": "creatures of need and finitude", "note": ""},
+        {"n": 3, "text": "그롤·로트: 상심은 분리 불가능한 취약성, 제거 향상에 일응 반대 이유", "label": "지지됨", "evidence": "분리 불가능한 취약성 … 일응 반대", "note": ""},
+        {"n": 4, "text": "그롤·로트는 형식의 일차적 의미 소속을 실질적 인간 이해에 맡김", "label": "지지됨", "evidence": "실질적 인간 이해 없이는 답할 수 없다", "note": ""},
+        {"n": 5, "text": "임옥란: 취약성이 공감하고 자신을 완성하며 함께 성장하게 하므로 존엄과 번영의 토대", "label": "부분 지지", "evidence": "함께 성장할 수 있다 / 토대이며", "note": "초록은 '성장할 수 있다'(가능)인데 카드는 '하게 한다'로 단정함."},
+        {"n": 6, "text": "카스는 내용 주장, 그롤·로트는 실질 이해에 맡김; 임옥란 주장은 일반으로 더 나아감", "label": "연결", "evidence": "", "note": "출처 간 비교 연결"}
+      ],
+      "sources_used": ["_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/Kass2003_AgelessBodiesHappySouls_NewAtlantis1.md", "_원자료/로컬/인간 본성 참고 문헌/07_원료노트_사본/원문논증정리_그롤로트2015_20260907.md", "_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/임옥란2022_취약성제거론비판_인격주의생명윤리12-2.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "26b1e", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "그롤과 로트의 형식 개념은 향상 진영을 온건하게 지지한다", "label": "지지됨", "evidence": "(modest) support for the enhancement camp", "note": ""},
+        {"n": 1, "text": "각주 8: 카스, 후쿠야마, 샌델은 논쟁적 내용·기원 견해로 경고, 자신들은 다름", "label": "지지됨", "evidence": "particular (and contentious) conceptions", "note": ""},
+        {"n": 2, "text": "§8: 틀을 주고 결함·부수 효과 취약성 제거와 긴장 없음", "label": "지지됨", "evidence": "아무 긴장이 없다", "note": ""},
+        {"n": 3, "text": "각주 34: 상당수는 치료적 개입일 수 있다", "label": "지지됨", "evidence": "therapeutic interventions to restore", "note": ""},
+        {"n": 4, "text": "보수적인 것이 없어 시력·비행 향상도 정당화될 수 있다", "label": "지지됨", "evidence": "형식 개념에는 보수적인 것이 전혀 없다", "note": ""},
+        {"n": 5, "text": "필요조건일 뿐이며 찬반은 실질적 규정이 필요(각주 35, 36)", "label": "지지됨", "evidence": "necessary, not sufficient, condition", "note": ""},
+        {"n": 6, "text": "복지 개념처럼 틀이며 틀이라고 불활성은 아니다", "label": "지지됨", "evidence": "틀이 불활성인 것은 아니다", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/GrollLott2015_Cambridge페이지_초록각주38.md", "_원자료/로컬/인간 본성 참고 문헌/07_원료노트_사본/원문논증정리_그롤로트2015_20260907.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "26c", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "자연사적 판단은 보편이나 통계로 환원되지 않는 일반성을 가진다", "label": "지지됨", "evidence": "not made false where … statistically rare", "note": ""},
+        {"n": 1, "text": "bobcat 문장은 개별 살쾡이를 서술하지 않고 모든/대부분으로 환원 안 됨", "label": "지지됨", "evidence": "not saying something about one individual", "note": "'모든/대부분으로 바꿔 쓸 수 없다'는 Roughley의 'neither tensed nor quantifiable'과 합치."},
+        {"n": 2, "text": "'The S is F' 꼴을 아리스토텔레스적 범주문이라 부름", "label": "지지됨", "evidence": "'The S is/has F' Aristotelian categoricals", "note": ""},
+        {"n": 3, "text": "하루살이 번식 판단은 대부분 못 번식한다는 사실로 반박되지 않음", "label": "지지됨", "evidence": "대부분의 하루살이가 번식하지 못하고", "note": ""},
+        {"n": 4, "text": "모든 호랑이가 다리 셋이 되어도 판단은 거짓 아니며 각자 하나를 잃은 것", "label": "지지됨", "evidence": "각 호랑이가 다리 하나를 잃은 것", "note": ""},
+        {"n": 5, "text": "러플리: 시제도 양화도 붙지 않는 술어(§5.2.1)", "label": "지지됨", "evidence": "neither tensed nor quantifiable", "note": ""},
+        {"n": 6, "text": "기준을 정하므로 다리 셋인 피도는 결함 개체", "label": "지지됨", "evidence": "Fido is defective", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/Lewens2020_SpeciesNatures_PhilQuarterly70.md", "_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/SEP_HumanNature_전문.md", "_원자료/로컬/인간 본성 참고 문헌/07_원료노트_사본/원문논증정리_그롤로트2015_20260907.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "26c2", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "풋은 도덕적 악을 실천 이성의 자연적 결함으로 본다", "label": "지지됨", "evidence": "evil person is one whose practical reason is defective", "note": ""},
+        {"n": 1, "text": "풋 인용 'a kind of natural defect' (Foot 2001: 5)", "label": "지지됨", "evidence": "moral evil as 'a kind of natural defect'", "note": ""},
+        {"n": 2, "text": "뿌리가 부실한 참나무를 악한 참나무라 부르지 않는다", "label": "지지됨", "evidence": "an oak with defective roots … evil oak", "note": ""},
+        {"n": 3, "text": "악한 사람은 흔들리는 참나무 뿌리와 같은 의미에서 실천 이성이 결함", "label": "지지됨", "evidence": "defective in just the same sense", "note": ""},
+        {"n": 4, "text": "러플리: 도덕적 평가는 'quite seriously' 같은 종류의 평가(Foot 2001: 16)", "label": "지지됨", "evidence": "\"quite seriously\" (Foot 2001: 16)", "note": ""},
+        {"n": 5, "text": "그롤·로트: 자연적 좋음·결함은 형식과 개체의 비교에서 생기고 내재적·자율적", "label": "지지됨", "evidence": "'intrinsic' or 'autonomous' goodness", "note": ""},
+        {"n": 6, "text": "갈매기 청각 판단을 'a plain matter of fact'로 봄(Foot 2001: 24)", "label": "지지됨", "evidence": "a plain matter of fact", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/Lewens2020_SpeciesNatures_PhilQuarterly70.md", "_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/SEP_HumanNature_전문.md", "_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/GrollLott2015_Cambridge페이지_초록각주38.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "26c4", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "루언스는 생물학에서 풀려난 삶의 형식 판단이 미결정성 문제를 진다고 비판", "label": "지지됨", "evidence": "unmooring their theory from the technical realm", "note": ""},
+        {"n": 1, "text": "통계·진화 기능과 분리해 무엇이 판단을 참으로 만드는지 불분명", "label": "지지됨", "evidence": "unclear what determines its truth", "note": ""},
+        {"n": 2, "text": "T-종은 생물학 종과 불일치, Paracerceis sculpta 은밀한 수컷도 T-종", "label": "지지됨", "evidence": "cryptic morph … regarded by Thompson as a T-species", "note": ""},
+        {"n": 3, "text": "110/60세, 침팬지 영아 살해 판단의 참을 통계도 적합도도 못 정함", "label": "지지됨", "evidence": "cannot determine the truth … proportion", "note": ""},
+        {"n": 4, "text": "해파리: 142개 변이가 결함인지 다른 T-종인지 가를 자원이 없다", "label": "지지됨", "evidence": "not obvious what resources can settle", "note": ""},
+        {"n": 5, "text": "풋의 필요 제한도 불분명, 로트 체계 통합 기준도 양립 불가 체계 허용 가능", "label": "지지됨", "evidence": "may be possible … incompatible judgements", "note": ""},
+        {"n": 6, "text": "민속 본질주의는 본질 부여를 보일 뿐 실재는 못 보임", "label": "지지됨", "evidence": "gives no reason to think there are any facts", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/Lewens2020_SpeciesNatures_PhilQuarterly70.md", "문헌/@Lewens2020 Species Natures.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "26c4b", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "루언스 2020은 입증 부담에 초월론적 논변을 받아들이며 답한다", "label": "연결", "evidence": "", "note": "카드가 Claude의 연결이라 밝힘"},
+        {"n": 1, "text": "그롤·로트 각주 25: 2012년 비판이 과녁을 빗나간다, 부담은 루언스에게", "label": "지지됨", "evidence": "The burden, then, is on Lewens", "note": ""},
+        {"n": 2, "text": "루언스가 핵심 논증을 다루지 않겠다고 밝힌 대목을 인용(2012: 467)", "label": "지지됨", "evidence": "not addressing the most important parts", "note": ""},
+        {"n": 3, "text": "루언스(2020)는 이 초월론적 논변을 가장 강력한 긍정 논증으로 지목해 다룬다(§VII)", "label": "부분 지지", "evidence": "what is probably the most compelling", "note": "원문은 'probably'로 한정했는데 카드는 단정함."},
+        {"n": 4, "text": "응답은 결론은 받아들이고 불가피성에서 실재를 끌어내는 추론을 겨냥", "label": "지지됨", "evidence": "삶의 형식이 있다는 점은 보이지 못한다", "note": ""},
+        {"n": 5, "text": "쟁점이 불가피성에서 실재론 뒷받침 여부로 옮겨 감", "label": "연결", "evidence": "", "note": "Claude의 해석"},
+        {"n": 6, "text": "루언스 2020은 각주 25에 답한다고 명시하지 않는다", "label": "지지됨", "evidence": "Groll and Lott 2015: 633 인용만 확인", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/GrollLott2015_Cambridge페이지_초록각주38.md", "_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/Lewens2020_SpeciesNatures_PhilQuarterly70.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "26d1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "카스: 선물성만으로는 무엇을 바꾸고 지킬지 정할 수 없다", "label": "지지됨", "evidence": "will not by itself teach which things", "note": ""},
+        {"n": 1, "text": "샌델의 하이퍼에이전시 비판은 프로메테우스적 태도에 적중", "label": "지지됨", "evidence": "Sandel's suggestion is on target", "note": ""},
+        {"n": 2, "text": "자연의 선물에는 천연두, 암, 쇠퇴 등도 들어 있다", "label": "지지됨", "evidence": "includes smallpox and malaria", "note": ""},
+        {"n": 3, "text": "given의 두 뜻과 샌델이 둘째를 빠뜨림", "label": "지지됨", "evidence": "the second of which Sandel's account omits", "note": ""},
+        {"n": 4, "text": "종마다 정해진 본성, 바퀴벌레와 인간은 본성이 다름", "label": "지지됨", "evidence": "equally bestowed but differently natured", "note": ""},
+        {"n": 5, "text": "'only if there is a human givenness…' 인용", "label": "지지됨", "evidence": "only if there is a human givenness", "note": ""},
+        {"n": 6, "text": "풍부한 생명윤리는 인간의 좋음 해명에서 시작", "label": "지지됨", "evidence": "a richer bioethics will always begin", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/Kass2003_AgelessBodiesHappySouls_NewAtlantis1.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "26d6", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "카스는 내용에서, 그롤·로트는 형식에서 평가 기준을 찾는다", "label": "연결", "evidence": "", "note": "두 출처 대조의 종합 논지"},
+        {"n": 1, "text": "카스: 주어진 인간다움이 좋고 존중할 만할 때에만 지침", "label": "지지됨", "evidence": "good and worth respecting", "note": ""},
+        {"n": 2, "text": "카스: 유한성, 생애 주기, 영혼의 활동이 좋다는 실질적 주장", "label": "지지됨", "evidence": "human finitude, the human life cycle", "note": ""},
+        {"n": 3, "text": "그롤·로트: 형식은 복지처럼 틀, 찬반엔 실질적 규정이 따로 필요", "label": "지지됨", "evidence": "substantive conception of human form", "note": ""},
+        {"n": 4, "text": "각주 8에서 카스를 내용 견해로 향상을 경고하는 쪽으로 분류", "label": "지지됨", "evidence": "particular (and contentious) conceptions", "note": ""},
+        {"n": 5, "text": "카스의 아리스토텔레스 호명은 energeia psyches 한 대목", "label": "지지됨", "evidence": "카스의 아리스토텔레스 귀속은 한 곳뿐", "note": ""},
+        {"n": 6, "text": "카스는 톰슨식 삶의 형식 논리를 쓰지 않는다", "label": "지지됨", "evidence": "카스는 삶의 형식 논리를 쓰지 않고", "note": ""},
+        {"n": 7, "text": "결론: 카스는 늙지 않는 몸 추구를 왜곡으로, 그롤·로트는 온건 지지", "label": "지지됨", "evidence": "a double-barreled error in the pursuit", "note": ""},
+        {"n": 8, "text": "상심의 취약성: 카스는 좋은 삶의 내용으로 단언, 그롤·로트는 실질 이해에 맡김", "label": "지지됨", "evidence": "If one cannot grieve / 실질적 인간 이해", "note": ""},
+        {"n": 9, "text": "2026-09-07 원료 노트의 명제 간 긴장을 Claude가 카드로 옮김", "label": "지지됨", "evidence": "같은 '본성 = 기준' 진영 안의 분기", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/Kass2003_AgelessBodiesHappySouls_NewAtlantis1.md", "_원자료/로컬/인간 본성 참고 문헌/07_원료노트_사본/원료_신아리스토텔레스_본성과향상_20260907.md", "_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/GrollLott2015_Cambridge페이지_초록각주38.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "26e4", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "보스트롬과 로치는 양극단 사이 넓은 중간 지대가 있다고 샌델을 반박", "label": "지지됨", "evidence": "there is plenty of room", "note": ""},
+        {"n": 1, "text": "샌델 논변 요약: 욕망이 선물적 성격 인식을 파괴하고 부모의 사랑과 양립 불가", "label": "부분 지지", "evidence": "fails to exemplify, 'and may even destroy'", "note": "원문 인용은 'may even destroy'인데 카드는 '파괴하고'로 단정함."},
+        {"n": 2, "text": "유전공학이 감사나 선물 감각을 파괴한다는 것은 자명하지 않다", "label": "지지됨", "evidence": "It is far from obvious", "note": ""},
+        {"n": 3, "text": "샌델은 부모가 덜 사랑하리라는 주장에 자료를 내놓지 않는다", "label": "지지됨", "evidence": "Sandel cites no data", "note": ""},
+        {"n": 4, "text": "향상된 아이를 사랑하기 더 쉬운 부모도 있을 법하다(보스트롬 2003)", "label": "지지됨", "evidence": "it seems plausible that", "note": ""},
+        {"n": 5, "text": "독서·운동·상벌 등은 좋은 양육과 양립한다고 널리 인정", "label": "지지됨", "evidence": "universally accepted to be compatible", "note": ""},
+        {"n": 6, "text": "최선 이익을 생각해 좋은 유전자를 확보함도 중간 지대에 속할 만함", "label": "지지됨", "evidence": "plausibly falls within this acceptable middle", "note": ""},
+        {"n": 7, "text": "원문에 하이퍼에이전시, 겸손, 책임, 연대 논변이 없고 2004 Atlantic판 인용", "label": "지지됨", "evidence": "원문에 등장하지 않는다(grep 전수 확인)", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/인간 본성 참고 문헌/03_향상3자_샌델보스트롬뷰캐넌/문면카드_보스트롬.md", "문헌/@BostromRoache2008 Ethical Issues in Human Enhancement.md"],
+      "sources_missing": []
+    }
+  ]
+}

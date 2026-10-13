@@ -1,0 +1,70 @@
+{
+ "id": "10i",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "인식적 위치의 강도와 믿음의 민감성은 서로 다른 조건이다",
+   "label": "지지됨",
+   "evidence": "at least as strong ... belief that not-H is insensitive",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "세 쌍에서 O는 민감, not-H는 둔감한데 not-H의 위치는 O만큼 강하다(§9)",
+   "label": "지지됨",
+   "evidence": "one's belief in O is sensitive, while ... not-H",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "강한 위치의 구성 요소는 가까운 세계들에서 사실과 일치, 멀리 미칠수록 강하다(p. 679)",
+   "label": "지지됨",
+   "evidence": "An important component of being in a strong",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "민감하려면 일치가 가장 가까운 not-P 세계까지 미쳐야 함",
+   "label": "지지됨",
+   "evidence": "reach the closest not -P worlds",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "손이 없는 세계는 놀랄 만큼 가깝고 손 믿음은 민감",
+   "label": "지지됨",
+   "evidence": "alarmingly close worlds in which I don't have hands",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "BIV 세계는 멀어 강한 위치지만 믿음은 둔감(pp. 679–680)",
+   "label": "지지됨",
+   "evidence": "these beliefs remain insensitive",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "회의적 가설 부정 믿음이 민감하려면 일상 명제보다 강한 위치 필요",
+   "label": "지지됨",
+   "evidence": "must be stronger than it is with respect to other",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "§4에 따라 같은 방법의 세계로 제한하거나 방법 유사성에 비중을 둔다는 단서",
+   "label": "지지됨",
+   "evidence": "weigh similarity with respect to ... method very heavily",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@DeRose1995 Solving the Skeptical Problem.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-03_DeRose-3.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

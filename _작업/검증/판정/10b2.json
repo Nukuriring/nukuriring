@@ -1,0 +1,64 @@
+{
+ "id": "10b2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "노직은 회의적 가능성의 부재를 모른다는 점에서 회의론자에 동의한다",
+   "label": "지지됨",
+   "evidence": "we do not know ... and he is right",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "not-SK에 적용하면 조건 3 실패(p. 264)",
+   "label": "지지됨",
+   "evidence": "condition 3 is not satisfied by the person's belief",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "악마·꿈·탱크가 아님을 모른다",
+   "label": "지지됨",
+   "evidence": "we do not know we're not in that tank",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "인용문 및 이 결과를 낳고 설명하는 것이 장점",
+   "label": "지지됨",
+   "evidence": "It is a virtue of our account",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "이 결과는 하찮지 않다: 주의를 돌리기 전엔 안다고 생각",
+   "label": "지지됨",
+   "evidence": "It is startling, shocking",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "doxically identical 정의와 믿음 대부분이 거짓인 세계(pp. 264–265)",
+   "label": "지지됨",
+   "evidence": "almost everything believed is false",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "매개를 거쳐 알기에 가능하며 2차원 투영에 견줌(p. 265)",
+   "label": "지지됨",
+   "evidence": "we know mediately, not directly",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Nozick1981 Knowledge and Skepticism.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-07_Nozick-3.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-Nozick_주석.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

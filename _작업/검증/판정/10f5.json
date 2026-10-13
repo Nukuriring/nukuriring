@@ -1,0 +1,63 @@
+{
+ "id": "10f5",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "앎을 인정하게 하는 변화가 장애물도 없앤다는 점으로 SCA를 확증한다",
+   "label": "지지됨",
+   "evidence": "also removes what SCA posits as the block",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "회의적 가설이 거짓임을 안다고 보이게 하는 조건을 살펴 SCA 확증(§6, p. 675)",
+   "label": "지지됨",
+   "evidence": "what it would take to make it seem to us",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "복권: 작은 오류 가능성도 앎을 빼앗는 듯하나 발표 뒤에는 안다",
+   "label": "지지됨",
+   "evidence": "even a very minute chance of being wrong",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "발표 뒤에는 당첨이었다면 낙첨이라 믿을 것이라는 판단이 뒤집힌다",
+   "label": "지지됨",
+   "evidence": "reverses our judgment regarding the truth",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "SCA가 장애물을 올바르게 식별했다고 본다",
+   "label": "지지됨",
+   "evidence": "SCA has correctly identified the block",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "동물학자, 페인트 제거제 조사, 독립 출처 확인도 같은 상관관계(pp. 675–676)",
+   "label": "지지됨",
+   "evidence": "an impressive correlation",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "BIV는 둔감하지 않은 상황을 상상하기 어렵고 이것도 SCA 확증(p. 676)",
+   "label": "지지됨",
+   "evidence": "this only confirms SCA",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@DeRose1995 Solving the Skeptical Problem.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-02_DeRose-2.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

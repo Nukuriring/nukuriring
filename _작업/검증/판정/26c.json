@@ -1,0 +1,64 @@
+{
+ "id": "26c",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "자연사적 판단은 보편이나 통계로 환원되지 않는 일반성을 가진다",
+   "label": "지지됨",
+   "evidence": "not made false where … statistically rare",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "bobcat 문장은 개별 살쾡이를 서술하지 않고 모든/대부분으로 환원 안 됨",
+   "label": "지지됨",
+   "evidence": "not saying something about one individual",
+   "note": "'모든/대부분으로 바꿔 쓸 수 없다'는 Roughley의 'neither tensed nor quantifiable'과 합치."
+  },
+  {
+   "n": 2,
+   "text": "'The S is F' 꼴을 아리스토텔레스적 범주문이라 부름",
+   "label": "지지됨",
+   "evidence": "'The S is/has F' Aristotelian categoricals",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "하루살이 번식 판단은 대부분 못 번식한다는 사실로 반박되지 않음",
+   "label": "지지됨",
+   "evidence": "대부분의 하루살이가 번식하지 못하고",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "모든 호랑이가 다리 셋이 되어도 판단은 거짓 아니며 각자 하나를 잃은 것",
+   "label": "지지됨",
+   "evidence": "각 호랑이가 다리 하나를 잃은 것",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "러플리: 시제도 양화도 붙지 않는 술어(§5.2.1)",
+   "label": "지지됨",
+   "evidence": "neither tensed nor quantifiable",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "기준을 정하므로 다리 셋인 피도는 결함 개체",
+   "label": "지지됨",
+   "evidence": "Fido is defective",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/Lewens2020_SpeciesNatures_PhilQuarterly70.md",
+  "_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/SEP_HumanNature_전문.md",
+  "_원자료/로컬/인간 본성 참고 문헌/07_원료노트_사본/원문논증정리_그롤로트2015_20260907.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

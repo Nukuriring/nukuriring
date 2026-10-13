@@ -1,0 +1,64 @@
+{
+ "id": "26c2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "풋은 도덕적 악을 실천 이성의 자연적 결함으로 본다",
+   "label": "지지됨",
+   "evidence": "evil person is one whose practical reason is defective",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "풋 인용 'a kind of natural defect' (Foot 2001: 5)",
+   "label": "지지됨",
+   "evidence": "moral evil as 'a kind of natural defect'",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "뿌리가 부실한 참나무를 악한 참나무라 부르지 않는다",
+   "label": "지지됨",
+   "evidence": "an oak with defective roots … evil oak",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "악한 사람은 흔들리는 참나무 뿌리와 같은 의미에서 실천 이성이 결함",
+   "label": "지지됨",
+   "evidence": "defective in just the same sense",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "러플리: 도덕적 평가는 'quite seriously' 같은 종류의 평가(Foot 2001: 16)",
+   "label": "지지됨",
+   "evidence": "\"quite seriously\" (Foot 2001: 16)",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "그롤·로트: 자연적 좋음·결함은 형식과 개체의 비교에서 생기고 내재적·자율적",
+   "label": "지지됨",
+   "evidence": "'intrinsic' or 'autonomous' goodness",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "갈매기 청각 판단을 'a plain matter of fact'로 봄(Foot 2001: 24)",
+   "label": "지지됨",
+   "evidence": "a plain matter of fact",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/Lewens2020_SpeciesNatures_PhilQuarterly70.md",
+  "_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/SEP_HumanNature_전문.md",
+  "_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/GrollLott2015_Cambridge페이지_초록각주38.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

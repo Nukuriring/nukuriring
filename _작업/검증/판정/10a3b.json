@@ -1,0 +1,85 @@
+{
+ "id": "10a3b",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "방법을 안에서 겪는 경험으로 개별화하고 중심 명제에서는 방법을 뺀다",
+   "label": "지지됨",
+   "evidence": "from the inside ... same method",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "체계적이지 않고 의식하지 못해도 방법을 쓸 수 있다(p. 261)",
+   "label": "지지됨",
+   "evidence": "without proceeding methodically",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "보통 경험상 최종 산물이 있고 안에서 같으면 같은 방법",
+   "label": "지지됨",
+   "evidence": "Usually, a method will have a final upshot",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "경험에 믿음을 두는 우리와 탱크 속 사람은 같은 방법",
+   "label": "지지됨",
+   "evidence": "the person floating in the tank are using ... same method",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "수반 방법은 압도 판정에서 제외",
+   "label": "지지됨",
+   "evidence": "not to apply to such supervenient methods",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "실제 방법은 실제로 행사하는 일반적 믿음 획득 성향으로 정해진다",
+   "label": "지지됨",
+   "evidence": "depend on which general disposition",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "중심 명제는 특정 방법으로 믿게 되었다고 보면 오해를 낳는다",
+   "label": "지지됨",
+   "evidence": "misleading to think of our coming to believe",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "중심 명제에서는 방법을 뺀 단순한 조건 3, 4로 돌아간다",
+   "label": "부분 지지",
+   "evidence": "we may revert to the earlier simpler subjunctives",
+   "note": "원문은 'may revert'이고 'for almost all purposes'로 한정함. 카드는 '돌아가며'로 단정."
+  },
+  {
+   "n": 8,
+   "text": "비트겐슈타인 『확실성에 관하여』 참조(p. 262, 주 18)",
+   "label": "지지됨",
+   "evidence": "See Ludwig Wittgenstein, On Certainty",
+   "note": ""
+  },
+  {
+   "n": 9,
+   "text": "개별화·셈의 문제를 과소평가하지 않되 여기서 추구하지 않는다",
+   "label": "지지됨",
+   "evidence": "neither do I want to pursue them here",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Nozick1981 Knowledge and Skepticism.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-06_Nozick-2.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-Nozick_주석.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,63 @@
+{
+ "id": "26b1e",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "그롤과 로트의 형식 개념은 향상 진영을 온건하게 지지한다",
+   "label": "지지됨",
+   "evidence": "(modest) support for the enhancement camp",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "각주 8: 카스, 후쿠야마, 샌델은 논쟁적 내용·기원 견해로 경고, 자신들은 다름",
+   "label": "지지됨",
+   "evidence": "particular (and contentious) conceptions",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "§8: 틀을 주고 결함·부수 효과 취약성 제거와 긴장 없음",
+   "label": "지지됨",
+   "evidence": "아무 긴장이 없다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "각주 34: 상당수는 치료적 개입일 수 있다",
+   "label": "지지됨",
+   "evidence": "therapeutic interventions to restore",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "보수적인 것이 없어 시력·비행 향상도 정당화될 수 있다",
+   "label": "지지됨",
+   "evidence": "형식 개념에는 보수적인 것이 전혀 없다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "필요조건일 뿐이며 찬반은 실질적 규정이 필요(각주 35, 36)",
+   "label": "지지됨",
+   "evidence": "necessary, not sufficient, condition",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "복지 개념처럼 틀이며 틀이라고 불활성은 아니다",
+   "label": "지지됨",
+   "evidence": "틀이 불활성인 것은 아니다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/GrollLott2015_Cambridge페이지_초록각주38.md",
+  "_원자료/로컬/인간 본성 참고 문헌/07_원료노트_사본/원문논증정리_그롤로트2015_20260907.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

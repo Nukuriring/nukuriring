@@ -1,0 +1,63 @@
+{
+ "id": "26c4",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "루언스는 생물학에서 풀려난 삶의 형식 판단이 미결정성 문제를 진다고 비판",
+   "label": "지지됨",
+   "evidence": "unmooring their theory from the technical realm",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "통계·진화 기능과 분리해 무엇이 판단을 참으로 만드는지 불분명",
+   "label": "지지됨",
+   "evidence": "unclear what determines its truth",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "T-종은 생물학 종과 불일치, Paracerceis sculpta 은밀한 수컷도 T-종",
+   "label": "지지됨",
+   "evidence": "cryptic morph … regarded by Thompson as a T-species",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "110/60세, 침팬지 영아 살해 판단의 참을 통계도 적합도도 못 정함",
+   "label": "지지됨",
+   "evidence": "cannot determine the truth … proportion",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "해파리: 142개 변이가 결함인지 다른 T-종인지 가를 자원이 없다",
+   "label": "지지됨",
+   "evidence": "not obvious what resources can settle",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "풋의 필요 제한도 불분명, 로트 체계 통합 기준도 양립 불가 체계 허용 가능",
+   "label": "지지됨",
+   "evidence": "may be possible … incompatible judgements",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "민속 본질주의는 본질 부여를 보일 뿐 실재는 못 보임",
+   "label": "지지됨",
+   "evidence": "gives no reason to think there are any facts",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/Lewens2020_SpeciesNatures_PhilQuarterly70.md",
+  "문헌/@Lewens2020 Species Natures.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

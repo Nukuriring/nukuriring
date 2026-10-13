@@ -1,0 +1,70 @@
+{
+ "id": "26e4",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "보스트롬과 로치는 양극단 사이 넓은 중간 지대가 있다고 샌델을 반박",
+   "label": "지지됨",
+   "evidence": "there is plenty of room",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "샌델 논변 요약: 욕망이 선물적 성격 인식을 파괴하고 부모의 사랑과 양립 불가",
+   "label": "부분 지지",
+   "evidence": "fails to exemplify, 'and may even destroy'",
+   "note": "원문 인용은 'may even destroy'인데 카드는 '파괴하고'로 단정함."
+  },
+  {
+   "n": 2,
+   "text": "유전공학이 감사나 선물 감각을 파괴한다는 것은 자명하지 않다",
+   "label": "지지됨",
+   "evidence": "It is far from obvious",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "샌델은 부모가 덜 사랑하리라는 주장에 자료를 내놓지 않는다",
+   "label": "지지됨",
+   "evidence": "Sandel cites no data",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "향상된 아이를 사랑하기 더 쉬운 부모도 있을 법하다(보스트롬 2003)",
+   "label": "지지됨",
+   "evidence": "it seems plausible that",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "독서·운동·상벌 등은 좋은 양육과 양립한다고 널리 인정",
+   "label": "지지됨",
+   "evidence": "universally accepted to be compatible",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "최선 이익을 생각해 좋은 유전자를 확보함도 중간 지대에 속할 만함",
+   "label": "지지됨",
+   "evidence": "plausibly falls within this acceptable middle",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "원문에 하이퍼에이전시, 겸손, 책임, 연대 논변이 없고 2004 Atlantic판 인용",
+   "label": "지지됨",
+   "evidence": "원문에 등장하지 않는다(grep 전수 확인)",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/인간 본성 참고 문헌/03_향상3자_샌델보스트롬뷰캐넌/문면카드_보스트롬.md",
+  "문헌/@BostromRoache2008 Ethical Issues in Human Enhancement.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,63 @@
+{
+ "id": "10f4",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "거짓 믿음의 경위를 설명하지 않는 회의적 가설은 작동하지 않는다",
+   "label": "부분 지지",
+   "evidence": "Part of the problem with these 'hypotheses'",
+   "note": "원문은 'Part of the problem', 'preliminary observation', 'might be going wrong'로 한정. 제목은 일반 규칙으로 단정함."
+  },
+  {
+   "n": 1,
+   "text": "단순 거짓 믿음·지적인 개 가설을 쓰는 AI는 첫 전제에서 힘을 잃는다(§5, p. 674)",
+   "label": "지지됨",
+   "evidence": "It's at the first premise that this ... fizzles",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "믿음은 둔감해 SCA가 그럴듯하리라 예측하나 실제로는 거짓임을 안다고 여김",
+   "label": "지지됨",
+   "evidence": "one does know that the deluded dog hypothesis",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "'Hypotheses are supposed to explain': 경위를 알려 주지 않는다",
+   "label": "지지됨",
+   "evidence": "Hypotheses are supposed to explain",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "효과적 가설은 경위를 어느 정도 이해하게 하고 비효과적 가설도 채우면 효과적",
+   "label": "지지됨",
+   "evidence": "it becomes effective",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "SCA의 한계: 경위를 설명하지 않으면 P를 모른다고 판단하지 않음(pp. 674–675)",
+   "label": "지지됨",
+   "evidence": "We don't so judge ourselves ignorant of P",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "예비적 진술이며 다듬을 여지가 많다",
+   "label": "지지됨",
+   "evidence": "just a preliminary statement",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@DeRose1995 Solving the Skeptical Problem.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-02_DeRose-2.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

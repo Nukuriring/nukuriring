@@ -1,0 +1,63 @@
+{
+ "id": "10f",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "드로즈는 노직에게서 SCA를 추상해 낸다",
+   "label": "지지됨",
+   "evidence": "which I've abstracted from Nozick's account",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "다른 맥락주의 해법은 가설이 왜 그럴듯한지 설명 못 했고 이것이 노직의 강점(§3, p. 672)",
+   "label": "지지됨",
+   "evidence": "particular point of strength of Nozick's treatment",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "S의 믿음 P는 P가 거짓이라면 S가 P를 믿을 때 둔감",
+   "label": "지지됨",
+   "evidence": "S's belief that P is insensitive if",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "SCA 일반화 인용문",
+   "label": "지지됨",
+   "evidence": "We tend to judge that S doesn't know that P",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "판단 성향을 서술하며 매우 강하고 일반적이나 예외가 있다는 단서",
+   "label": "지지됨",
+   "evidence": "very strong general, though not exceptionless",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "BIV가 아니라는 믿음은 BIV여도 가질 믿음이므로 첫 전제를 설명",
+   "label": "지지됨",
+   "evidence": "I would have this belief ... even if it were false",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "예외가 있어도 설명 역할 가능, 예외는 개선 방향의 자료(p. 673)",
+   "label": "지지됨",
+   "evidence": "needn't be exceptionless to perform the explanatory role",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@DeRose1995 Solving the Skeptical Problem.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-01_DeRose-1.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

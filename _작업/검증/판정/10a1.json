@@ -1,0 +1,71 @@
+{
+ "id": "10a1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "노직의 조건 3은 게티어 사례와 관련 대안 문제를 처리한다",
+   "label": "지지됨",
+   "evidence": "handles nicely cases ... relevant alternatives",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "조건 3이 게티어 사례를 배제한다",
+   "label": "지지됨",
+   "evidence": "excludes this Gettier case",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "포드 사례: 아무도 갖지 않았어도 첫째 사람 때문에 믿을 것이라 조건 3 실패(p. 256)",
+   "label": "지지됨",
+   "evidence": "I still would believe ... the first person",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "가정법은 함축과 달라 조건 3은 쉽지 않으나 모든 것을 배제할 만큼 강하지는 않다",
+   "label": "지지됨",
+   "evidence": "not so easy to satisfy, yet not so powerful",
+   "note": "원문은 가능세계 해석에 '(roughly)'를 붙이고 특정 이론에 묶이지 않는다고 하나, 카드의 문장은 가정법 일반 서술이라 지지로 판정."
+  },
+  {
+   "n": 4,
+   "text": "스타인이 지넷에게서 가져온 헨리와 종이 헛간 사례도 처리",
+   "label": "지지됨",
+   "evidence": "who attributes the example to Carl Ginet",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "q가 참이거나 참일 수 있을 때 관련, p 거짓이어도 q 거짓이면 비관련",
+   "label": "지지됨",
+   "evidence": "q would be true or might be",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "관련 대안 이론이 이 기준을 채택하면 조건 3을 더 길게 진술하는 것",
+   "label": "지지됨",
+   "evidence": "alternate and longer way of stating condition 3",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "주 6: 별도 개념으로 채우면 동치가 되지 않을 수 있다",
+   "label": "지지됨",
+   "evidence": "did not turn out to be equivalent",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Nozick1981 Knowledge and Skepticism.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-05_Nozick-1.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-Nozick_주석.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

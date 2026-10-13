@@ -1,0 +1,85 @@
+{
+ "id": "10c3",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "조건 4와 방법 자체를 겨냥하는 회의 논증도 추적 이론으로 다룬다",
+   "label": "지지됨",
+   "evidence": "some skeptical arguments play off condition 4",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "조건 3은 변이, 조건 4는 고수 조건; 변하지 않아야 할 때 변한다고도 논증(p. 269)",
+   "label": "지지됨",
+   "evidence": "it would vary when it shouldn't",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "조건 4 반박은 p가 참일 때 일어날 수 있는 상황일 때만",
+   "label": "지지됨",
+   "evidence": "something that might occur if p were true",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "논증에 믿음을 버리는 사람은 그 전에도 안다는 것을 몰랐다",
+   "label": "지지됨",
+   "evidence": "did not know that they knew that p",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "부분적 승리: 'gained by the plausibility...'(p. 270)",
+   "label": "지지됨",
+   "evidence": "gained by the plausibility of his arguments",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "메논의 예와 'Knowledge should be made of sterner stuff'",
+   "label": "지지됨",
+   "evidence": "Knowledge should be made of sterner stuff",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "가장 깊은 방법을 M으로 알 때 조건 3 전건이 정합적이지 않음(pp. 270–271)",
+   "label": "지지됨",
+   "evidence": "We have no coherent way to understand this",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "방법은 고정해야 하므로 방법을 바꾸어 평가할 수도 없다",
+   "label": "지지됨",
+   "evidence": "the method must be held fixed",
+   "note": ""
+  },
+  {
+   "n": 8,
+   "text": "이 문제는 가장 깊은 방법에만 생긴다",
+   "label": "지지됨",
+   "evidence": "arises only for our knowledge of ... deepest methods",
+   "note": ""
+  },
+  {
+   "n": 9,
+   "text": "특정 SK는 몰라도 특정 방식으로 이성적·온전함을 아는 데 지장 없음(pp. 271–272)",
+   "label": "지지됨",
+   "evidence": "Perhaps not, but ... other things",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Nozick1981 Knowledge and Skepticism.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-09_Nozick-5.md",
+  "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-Nozick_주석.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

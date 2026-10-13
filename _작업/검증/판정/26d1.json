@@ -1,0 +1,62 @@
+{
+ "id": "26d1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "카스: 선물성만으로는 무엇을 바꾸고 지킬지 정할 수 없다",
+   "label": "지지됨",
+   "evidence": "will not by itself teach which things",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "샌델의 하이퍼에이전시 비판은 프로메테우스적 태도에 적중",
+   "label": "지지됨",
+   "evidence": "Sandel's suggestion is on target",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "자연의 선물에는 천연두, 암, 쇠퇴 등도 들어 있다",
+   "label": "지지됨",
+   "evidence": "includes smallpox and malaria",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "given의 두 뜻과 샌델이 둘째를 빠뜨림",
+   "label": "지지됨",
+   "evidence": "the second of which Sandel's account omits",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "종마다 정해진 본성, 바퀴벌레와 인간은 본성이 다름",
+   "label": "지지됨",
+   "evidence": "equally bestowed but differently natured",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "'only if there is a human givenness…' 인용",
+   "label": "지지됨",
+   "evidence": "only if there is a human givenness",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "풍부한 생명윤리는 인간의 좋음 해명에서 시작",
+   "label": "지지됨",
+   "evidence": "a richer bioethics will always begin",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/Kass2003_AgelessBodiesHappySouls_NewAtlantis1.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
