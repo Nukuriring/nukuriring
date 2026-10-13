@@ -1,0 +1,55 @@
+{
+ "id": "46a2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "왓슨에 따르면 면제는 행위자가 선의의 의지에 대한 요구의 적절한 대상인지를 묻는다",
+   "label": "지지됨",
+   "evidence": "선의의 의지 요구의 적절한 대상이 되는가",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "변명은 요구 비위반, 면제는 일시적·영구적, 국소적·보편적으로 처음부터 면제됨을 보인다",
+   "label": "지지됨",
+   "evidence": "일시적이거나 영구적으로, 국소적이거나 보편적으로",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "\"A child can be malicious, a psychotic can be hostile, a sociopath indifferent\"",
+   "label": "지지됨",
+   "evidence": "A child can be malicious, a psychotic",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "그렇다면 행위자는 도덕적 관계를 맺을 수 있고 도덕 공동체의 일부이다",
+   "label": "지지됨",
+   "evidence": "도덕적 공동체의 일부일 것",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "면제로 반응적 태도가 유보되면 스트로슨의 객관적 태도를 취한다",
+   "label": "지지됨",
+   "evidence": "일종의 '객관적 태도'를 취하게 된다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "반응적 태도는 의지의 질과 배경 믿음에 의존하며 그 믿음을 경쟁 책임론 없이 설명할 수 있는지 묻는다",
+   "label": "지지됨",
+   "evidence": "depend as well upon a background of beliefs",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/도덕적 책임 세미나/Responsibility and the limits of Evil 1ef97cdd867e8002a404d1c4ca1773e9.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

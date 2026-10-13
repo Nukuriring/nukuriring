@@ -1,0 +1,62 @@
+{
+ "id": "26e5",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "보스트롬은 자연의 선물에 때로 독이 들어 있으므로 자연을 좋음의 기준으로 삼지 않는다",
+   "label": "지지됨",
+   "evidence": "nature's gifts are sometimes poisoned",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "카스의 문장(종마다 정해진 본성, 우리 자신의 주어진 본성이라는 선물 존중)을 인용한다",
+   "label": "지지됨",
+   "evidence": "special gift that is our own given nature",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "트랜스휴머니스트의 응수로 \"nature's gifts are sometimes poisoned…\"라고 쓴다",
+   "label": "지지됨",
+   "evidence": "should not always be accepted",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "암, 말라리아, 치매 … 거절하는 선물, 종의 본성은 취약성의 풍부한 원천",
+   "label": "지지됨",
+   "evidence": "a rich source of much of the thoroughly unrespectable",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "인도적 가치와 개인적 열망에 따라 우리 자신과 본성을 정당하게 개혁할 수 있다고 본다",
+   "label": "지지됨",
+   "evidence": "we can legitimately reform ourselves",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "자연을 일반 기준에서 내려도 특정 변형은 타락일 수 있다: \"Not all change is progress.\"",
+   "label": "지지됨",
+   "evidence": "Not all change is progress.",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "이 논문에 샌델은 등장하지 않으며 선물과 지배의 어휘는 카스 인용문에서 온다",
+   "label": "지지됨",
+   "evidence": "문면카드 B-7: Sandel 등장하지 않는다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/인간 본성 참고 문헌/03_향상3자_샌델보스트롬뷰캐넌/문면카드_보스트롬.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

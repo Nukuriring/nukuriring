@@ -1,0 +1,62 @@
+{
+ "id": "46a3",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "왓슨은 극단적 악이 스스로를 면제하지 않도록 호소의 조건에서 대화 가능성을 뺀다",
+   "label": "지지됨",
+   "evidence": "unless that is evil is to be its own exemption",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "공유 가치 체계와 도덕 공동체를 요구한다면 극단적 악인은 면제 조건을 충족하는 역설이 생긴다",
+   "label": "부분 지지",
+   "evidence": "면제 조건을 만족하게 되어버리는 것처럼 보인다",
+   "note": "필기는 '역설을 낳는 것처럼 보인다', '만족하게 되어버리는 것처럼 보인다'로 한정함. 카드는 '역설이 생긴다'로 단정."
+  },
+  {
+   "n": 2,
+   "text": "해리스(두 소년 살해, 웃으며 점심을 먹었다고 보도) 사례로 시험한다",
+   "label": "지지됨",
+   "evidence": "Robert Alton Harris … hamburger",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "해리스는 비난받을 만해 보이나 반응적 태도가 대화로의 초대라면 초대할 수 없다",
+   "label": "지지됨",
+   "evidence": "도덕적 담화에 초대수 없으며",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "대화 형식 아닌 소통도 있고, 거부는 도덕적 무법자를 선언하는 소통이다",
+   "label": "지지됨",
+   "evidence": "모든 소통이 대화인 것은 아니다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "호소의 제약에 공동 성원 자격이나 대화 가능성을 넣으면 악이 스스로 면제가 되므로 넣지 않는다",
+   "label": "지지됨",
+   "evidence": "we must not include among these constraints",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "한계 상황의 반응적 태도는 희망을 잃은 규탄(denunciation)일 수 있다",
+   "label": "지지됨",
+   "evidence": "nothing more than a denunciation forlorn",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/도덕적 책임 세미나/Responsibility and the limits of Evil 1ef97cdd867e8002a404d1c4ca1773e9.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

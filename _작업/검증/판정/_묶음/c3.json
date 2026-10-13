@@ -1,0 +1,351 @@
+{
+  "model": "sonnet",
+  "date": "2026-10-13",
+  "cards": [
+    {
+      "id": "26e5",
+      "voice": "문헌",
+      "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "보스트롬은 자연의 선물에 때로 독이 들어 있으므로 자연을 좋음의 기준으로 삼지 않는다", "label": "지지됨", "evidence": "nature's gifts are sometimes poisoned", "note": ""},
+        {"n": 1, "text": "카스의 문장(종마다 정해진 본성, 우리 자신의 주어진 본성이라는 선물 존중)을 인용한다", "label": "지지됨", "evidence": "special gift that is our own given nature", "note": ""},
+        {"n": 2, "text": "트랜스휴머니스트의 응수로 \"nature's gifts are sometimes poisoned…\"라고 쓴다", "label": "지지됨", "evidence": "should not always be accepted", "note": ""},
+        {"n": 3, "text": "암, 말라리아, 치매 … 거절하는 선물, 종의 본성은 취약성의 풍부한 원천", "label": "지지됨", "evidence": "a rich source of much of the thoroughly unrespectable", "note": ""},
+        {"n": 4, "text": "인도적 가치와 개인적 열망에 따라 우리 자신과 본성을 정당하게 개혁할 수 있다고 본다", "label": "지지됨", "evidence": "we can legitimately reform ourselves", "note": ""},
+        {"n": 5, "text": "자연을 일반 기준에서 내려도 특정 변형은 타락일 수 있다: \"Not all change is progress.\"", "label": "지지됨", "evidence": "Not all change is progress.", "note": ""},
+        {"n": 6, "text": "이 논문에 샌델은 등장하지 않으며 선물과 지배의 어휘는 카스 인용문에서 온다", "label": "지지됨", "evidence": "문면카드 B-7: Sandel 등장하지 않는다", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/인간 본성 참고 문헌/03_향상3자_샌델보스트롬뷰캐넌/문면카드_보스트롬.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "26e7",
+      "voice": "문헌",
+      "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "뷰캐넌은 모든 향상이 지배 욕구의 표현이라는 샌델의 전제를 거짓으로 판정한다", "label": "지지됨", "evidence": "is so clearly false that it is hard", "note": ""},
+        {"n": 1, "text": "선물성 수사를 논증으로 옮긴다(핵심 선, 지배 욕구, 향상은 사례 → 결정적 이유)", "label": "지지됨", "evidence": "translate Sandel's rhetoric … into an argument", "note": ""},
+        {"n": 2, "text": "그는 셋째 전제가 명백히 거짓이라고 본다", "label": "지지됨", "evidence": "so clearly false", "note": ""},
+        {"n": 3, "text": "예방접종, 교육, 컴퓨터는 존재 조건을 지배하려는 욕구의 증거가 될 수 없다(p.24)", "label": "지지됨", "evidence": "문면카드 §1(a) p.80, KIEJ p.24", "note": ""},
+        {"n": 4, "text": "그것들까지 지배 욕구라면 문해 등이 모두 심대한 잘못이고 선물성은 오래전 파괴되었을 것", "label": "지지됨", "evidence": "profound moral wrongs … destroyed long ago", "note": ""},
+        {"n": 5, "text": "수명 400년의 세계에도 사고·전쟁 등이 남아 의지 밖 긍정할 것이 남는다; Ironically 인용(pp.24–25)", "label": "지지됨", "evidence": "Ironically, it is Sandel who has an inadequate", "note": ""},
+        {"n": 6, "text": "가장 관대하게 읽으면 남는 것은 무한정 추구 말라는 경고, 형량의 한 고려 사항(pp.82–83)", "label": "지지됨", "evidence": "a warning not to pursue enhancements without limit", "note": ""},
+        {"n": 7, "text": "최훈은 이런 비판이 샌델을 유전자 결정론으로 읽는 허수아비 공격이라고 반박한다", "label": "지지됨", "evidence": "정리_최훈3편 Ⅱ p.135, Ⅲ p.154 허수아비 공격", "note": ""}
+      ],
+      "sources_used": [
+        "_원자료/로컬/인간 본성 참고 문헌/03_향상3자_샌델보스트롬뷰캐넌/문면카드_뷰캐넌.md",
+        "문헌/@Buchanan2008 Enhancement and the Ethics of Development.md",
+        "_원자료/로컬/인간 본성 참고 문헌/07_원료노트_사본/정리_최훈3편_선물논증_20260908.md",
+        "_원자료/로컬/인간 본성 참고 문헌/07_원료노트_사본/원료_샌델보스트롬뷰캐넌_향상3자_20260908.md"
+      ],
+      "sources_missing": []
+    },
+    {
+      "id": "26e9",
+      "voice": "문헌",
+      "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "캄은 행위자의 태도와 행위의 허용 가능성을 구별해 샌델을 비판한다", "label": "지지됨", "evidence": "태도는 성품에 관계할 뿐 허용 가능성엔 아님", "note": ""},
+        {"n": 1, "text": "캄은 2005년 논문에서 샌델의 향상 비판을 검토한다", "label": "지지됨", "evidence": "샌델의 논증이 훈련을 배제하지 못한다면", "note": ""},
+        {"n": 2, "text": "행위자의 의도와 태도는 성품에 관계하며 허용 가능성은 따로 평가된다", "label": "지지됨", "evidence": "행위자의 의도와 태도는 행위자의 성품에 관계", "note": ""},
+        {"n": 3, "text": "지배의 실제 행사와 지배의 욕구는 다르고 다른 좋은 것을 위한 수단 경우까지 묶을 수 없다", "label": "지지됨", "evidence": "지배의 실제 행사는 지배의 욕구와 다르며", "note": ""},
+        {"n": 4, "text": "샌델 논증이 훈련을 배제 못하면 약물·유전적 수단도 배제 못한다, 선물은 같은 정도로 변형", "label": "지지됨", "evidence": "선물은 어느 방법으로든 같은 정도로 변형", "note": ""},
+        {"n": 5, "text": "그롤과 로트는 인간과 좋음이 별개의 개념 범주라는 캄의 지적을 불활성 견해의 공유 사례로 다룬다(각주 4, 27)", "label": "부분 지지", "evidence": "n.13, 103 / Kamm might have had in mind", "note": "원료노트는 '자연적인 것과 좋은 것'이 별개 범주라 했고 '인간'이 아님. 각주 27은 캄이 통계적 인간 개념을 염두에 뒀을 수 있다는 조건부 서술(Inert View_nature 지지)로, '공유 사례로 다룬다'는 단정과 차이. 본문은 미확보(초록과 각주만)."},
+        {"n": 6, "text": "2009년판에서 부모가 상상력 부족으로 자기 시대 미덕을 심으려 할 수 있다, 비틀스 예(p.128)", "label": "지지됨", "evidence": "상상력의 부족으로 … 비틀스의 재능", "note": ""},
+        {"n": 7, "text": "최훈은 지적 능력에 관해서는 이 반론을 받아들인다(Ⅱ pp.148–149)", "label": "지지됨", "evidence": "캄의 상상력의 부족 반론을 귀담아 들여야", "note": ""}
+      ],
+      "sources_used": [
+        "_원자료/로컬/인간 본성 참고 문헌/07_원료노트_사본/원료_샌델보스트롬뷰캐넌_향상3자_20260908.md",
+        "_원자료/로컬/인간 본성 참고 문헌/07_원료노트_사본/정리_최훈3편_선물논증_20260908.md",
+        "_원자료/로컬/인간 본성 참고 문헌/02_신아리스토텔레스_형식자연주의/GrollLott2015_Cambridge페이지_초록각주38.md",
+        "문헌/@Kamm2005 Is There a Problem with Enhancement.md"
+      ],
+      "sources_missing": []
+    },
+    {
+      "id": "26e10",
+      "voice": "종합",
+      "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "유전적 향상과 통상적 양육의 연속성이라는 같은 관찰에서 세 논자는 세 방향으로 갈린다", "label": "지지됨", "evidence": "원료노트 긴장 1항: 세 방향으로 갈라진다", "note": ""},
+        {"n": 1, "text": "샌델, 보스트롬·로치, 뷰캐넌은 향상이 양육과 이어져 있다는 관찰을 공유한다", "label": "연결", "evidence": "", "note": ""},
+        {"n": 2, "text": "샌델은 연속성을 인정한 뒤 고압적 양육도 지배의 과잉이라는 쪽으로 나아간다", "label": "지지됨", "evidence": "과잉 양육은 지배와 통제의 과잉", "note": ""},
+        {"n": 3, "text": "보스트롬·로치: 독서·운동·상벌 양육은 사랑과 양립, 중간 지대, 유전적 개입도 거기 속할 수 있다", "label": "지지됨", "evidence": "plausibly falls within this acceptable middle ground", "note": ""},
+        {"n": 4, "text": "뷰캐넌: 모든 향상이 지배 욕구는 아니며 예방접종·교육까지면 선물성은 수천 년 전 파괴", "label": "지지됨", "evidence": "several millennia too late", "note": ""},
+        {"n": 5, "text": "최훈은 이런 응수를 물귀신 논증으로 분류하고 과잉 교육과 향상을 함께 비판해 샌델을 지킨다", "label": "부분 지지", "evidence": "유전 공학 향상과 과잉 교육 모두 같은 잣대(Ⅰ pp.171–172)", "note": "함께 비판하는 쪽은 Ⅰ pp.171–172로 확인. 그러나 '물귀신 논증'이라는 명명은 심지원 등 비판 맥락(Ⅲ p.148, p.157)에서 나오며, 뷰캐넌의 예방접종·교육 응수를 직접 그렇게 분류한 대목은 정리본에서 확인하지 못함."},
+        {"n": 6, "text": "함께 긍정할지 함께 부정할지는 연속성만으로 정해지지 않는다(양쪽 다 가능)", "label": "지지됨", "evidence": "두 가지 모두 부정하는 방법도 가능", "note": ""},
+        {"n": 7, "text": "쟁점은 교육과 유전적 수단의 차이, 최훈의 접근성과 보조와 핵심의 구별로 옮겨 간다", "label": "연결", "evidence": "", "note": "최훈이 접근성·보조/핵심을 드는 것은 Ⅲ pp.150–151로 확인됨. '쟁점이 옮겨 간다'는 종합의 해석."},
+        {"n": 8, "text": "이 대조는 2026-09-08 원료 노트의 명제 간 긴장을 Claude가 카드로 옮긴 것이다", "label": "지지됨", "evidence": "명제 간 모순·긴장 1항", "note": ""}
+      ],
+      "sources_used": [
+        "_원자료/로컬/인간 본성 참고 문헌/07_원료노트_사본/원료_샌델보스트롬뷰캐넌_향상3자_20260908.md",
+        "_원자료/로컬/인간 본성 참고 문헌/03_향상3자_샌델보스트롬뷰캐넌/문면카드_뷰캐넌.md",
+        "_원자료/로컬/인간 본성 참고 문헌/07_원료노트_사본/정리_최훈3편_선물논증_20260908.md"
+      ],
+      "sources_missing": []
+    },
+    {
+      "id": "26f1",
+      "voice": "종합",
+      "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "항진명제는 감동을 줄 수 있어도 누구에게 불의를 저지를 수는 없다", "label": "지지됨", "evidence": "그것은 불의를 저지를 수 없네", "note": ""},
+        {"n": 1, "text": "de dicto로 읽어 가난한 자를 배움이 닫힌 자로 정의하면 반례를 피할 수 있다", "label": "지지됨", "evidence": "모순을 피하려 de dicto의 문으로", "note": ""},
+        {"n": 2, "text": "그 대가로 명제는 선험적 항진명제가 되어 세계에 관해 아무것도 말하지 않는다", "label": "지지됨", "evidence": "아무것도 가리키지 못하는 손가락", "note": ""},
+        {"n": 3, "text": "경험적 주장으로 되살리면 내용은 생기지만 반례가 돌아온다", "label": "지지됨", "evidence": "에픽테토스가 증인석에서 다시 일어나", "note": ""},
+        {"n": 4, "text": "항진명제도 기하 정리처럼 공허하면서 아름다울 수 있고 공허해도 감동·분노할 수 있다는 반론", "label": "지지됨", "evidence": "영진 08:49, 08:52", "note": ""},
+        {"n": 5, "text": "감동은 대상이 부당할 것을 요구하지 않지만 의분은 세계 속 불의를 가리켜야 한다", "label": "지지됨", "evidence": "의분이 일려면 누군가 불의를 저질렀어야", "note": ""},
+        {"n": 6, "text": "쓰레기는 쓰레기라는 동어반복에 분노할 때 대상은 자기를 가리킨 경험적 단정이다", "label": "지지됨", "evidence": "자기를 가리킨 손가락에 분노", "note": ""},
+        {"n": 7, "text": "참이면 공허해 고발이 못 되고 내용이 있으면 거짓이라는 구도가 유지된다", "label": "지지됨", "evidence": "참이면 공허하여 나를 고발하지 못하고", "note": ""},
+        {"n": 8, "text": "이 구도는 소크라테스 자신의 명제에 되돌아온다: 들은 사람도 분노할 수 있다", "label": "지지됨", "evidence": "영진 08:53 그것을 들은 사람은 분노", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-06-26_소크라테스의 검토되지 않은 삶에 대한 주장.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "26f2a",
+      "voice": "종합",
+      "verdict": "원문없음",
+      "claims": [
+        {"n": 0, "text": "면전의 판결과 면전의 권유는 듣는 이에게 요구하는 응답에서 갈릴 수 있다", "label": "지지됨", "evidence": "판결은 듣는 자를 닫고, 권유는 듣는 자를 부르지", "note": ""},
+        {"n": 1, "text": "\"너는 쓰레기다\"와 \"검토하라…\"는 둘 다 면전에서 듣는 이를 벨 수 있다", "label": "지지됨", "evidence": "둘 다 사람을 벤다 — 인정하네", "note": ""},
+        {"n": 2, "text": "그래도 두 발화가 같은 종류의 말 행위인지는 따로 물을 수 있다", "label": "지지됨", "evidence": "그 둘이 같은 종류의 말 행위인가?", "note": ""},
+        {"n": 3, "text": "앞의 것은 판결: 듣는 이가 깎여 내려가야 하고 기대 응답은 굴복이나 되받음", "label": "지지됨", "evidence": "듣는 자가 깎여 내려가야", "note": ""},
+        {"n": 4, "text": "뒤의 것은 권유: 듣는 이가 받아 무언가 해야 하고 그 무엇은 검토", "label": "지지됨", "evidence": "받아 무언가를 해야 하네, 곧 검토", "note": ""},
+        {"n": 5, "text": "이 구별은 소크라테스 역의 제안이며 제안한 쪽도 실제 차이인지 도피인지 확신 못 한다", "label": "지지됨", "evidence": "이제 확신이 없네", "note": ""},
+        {"n": 6, "text": "오스틴의 말 행위 이론에 비추면 적절성(felicity)과 수용(uptake) 조건의 물음으로 다시 세울 수 있다", "label": "원문에 없음", "evidence": "", "note": "대화에 오스틴·felicity·uptake·적절성이 전혀 나오지 않음(grep 확인). 같은 종류의 말 행위냐는 물음은 있으나 오스틴 틀로 옮기는 것은 Claude가 덧붙인 연결(9c7 카드로 이어짐). 연결로 볼지는 지침 판단 사항."}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-06-26_소크라테스의 검토되지 않은 삶에 대한 주장.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "26f3",
+      "voice": "종합",
+      "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "검토되지 않은 삶 명제를 권유로 읽으면 이미 산 삶을 소급해 결산하지 않는다", "label": "지지됨", "evidence": "이 명제는 그를 결산하지 않네. 그를 부르네", "note": ""},
+        {"n": 1, "text": "명제가 참이면 이미 검토 없이 살아 버린 사람들의 시간은 어떻게 되는가라는 물음이 있다", "label": "지지됨", "evidence": "영진 09:03 이미 살아버린 사람들인데?", "note": ""},
+        {"n": 2, "text": "결산으로 읽으면 끝난 삶에 영점, 권유로 읽으면 살아갈 사람에게 검토하며 살라는 말", "label": "지지됨", "evidence": "결산하는 말 / 권하는 말", "note": ""},
+        {"n": 3, "text": "법정에서 앞에 앉은 아테네인들에게 했다는 점은 권유의 독해를 지지한다", "label": "지지됨", "evidence": "제 앞에 살아 앉은 아테네인들에게", "note": ""},
+        {"n": 4, "text": "살아 있는 사람은 오늘 처음 묻는 순간부터 검토가 시작되고 죽은 사람에게는 아무 일도 안 한다", "label": "지지됨", "evidence": "지금 검토되기 시작하네", "note": ""},
+        {"n": 5, "text": "삶을 무가치로 결산하는 일은 명제를 결산서로 쓰는 독자의 몫이다", "label": "지지됨", "evidence": "명제를 결산서로 오용한 것", "note": ""},
+        {"n": 6, "text": "살아 있는 사람에게도 이제부터 검토 않으면 계속 그렇게 산다는 판정은 남는다", "label": "지지됨", "evidence": "검토 없는 삶은 살 만한 게 못 된다", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-06-26_소크라테스의 검토되지 않은 삶에 대한 주장.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "26f3a",
+      "voice": "종합",
+      "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "삶의 방식을 평가하는 일과 사람의 값을 판결하는 일은 구별된다", "label": "지지됨", "evidence": "삶의 양식 평가를 사람 값 판결로 바꿔 읽었기", "note": ""},
+        {"n": 1, "text": "계속 쓰레기처럼 산다는 반문에는 평가 대상이 사람인지 삶의 방식인지 가려 답할 수 있다", "label": "지지됨", "evidence": "삶의 한 방식을 두고 한 말이지, 사람을", "note": ""},
+        {"n": 2, "text": "삶의 방식 평가는 바뀔 수 있는 상태, 사람 판결은 더 묻지도 바뀌지도 못할 존재로 못 박는다", "label": "지지됨", "evidence": "상태란 바뀔 수 있는 것", "note": ""},
+        {"n": 3, "text": "운동하지 않는 몸은 건강한 몸이 될 수 없다는 의사의 말은 몸의 상태를 평가하고 사람의 값은 안 매긴다", "label": "지지됨", "evidence": "몸의 상태를 말했지 사람의 값을 매기지", "note": ""},
+        {"n": 4, "text": "소크라테스는 모든 영혼이 귀하기 때문에 검토할 가치가 있다고 보고, 멸시는 몰래 실린 쓰레기라는 낱말에서 온다", "label": "지지됨", "evidence": "모든 영혼이 가장 귀한 것이라", "note": ""},
+        {"n": 5, "text": "unlivable이라는 말 자체가 버틀러가 비판한 틀 짓기를 닮았다는 반론에 부딪친다", "label": "지지됨", "evidence": "영진 09:06 / Claude 09:07 틀 짓는 시선을 흉내", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-06-26_소크라테스의 검토되지 않은 삶에 대한 주장.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "26f4",
+      "voice": "종합",
+      "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "검토를 넓게 새기면 명제가 힘을 잃고 좁게 새기면 한 문화의 양식을 보편으로 세운다", "label": "지지됨", "evidence": "넓히면 잣대가 묽어지고, 좁히면 폭력", "note": ""},
+        {"n": 1, "text": "검토를 잣대로 세우면 서구 철학의 사유 양식을 안 따른 삶이 살 만하지 않다고 분류된다는 비판", "label": "지지됨", "evidence": "영진 09:08 리버블 하지 못한것", "note": ""},
+        {"n": 2, "text": "엘렝코스는 답할 목소리를 요구하므로 틀 짓기와 방향이 반대라는 응수가 있다", "label": "지지됨", "evidence": "한쪽은 목소리를 빼앗고 한쪽은 요구", "note": ""},
+        {"n": 3, "text": "검토를 잣대로 세우는 일 자체가 위계를 깐다는 판본은 이 응수로 해소되지 않는다", "label": "지지됨", "evidence": "가벼이 부술 돌이 아닐세", "note": ""},
+        {"n": 4, "text": "넓은 뜻(선승의 화두, 장자의 나비 꿈까지, 믿음을 시험대에 올림)으로 새길 수 있다", "label": "지지됨", "evidence": "자기 믿음을 시험대에 올리는 일", "note": ""},
+        {"n": 5, "text": "넓히면 거의 누구나 해당해 살 만하지 않은 삶이 가리킬 사람이 거의 없어 명제가 묽어진다", "label": "지지됨", "evidence": "거의 빈 잣대가 되지", "note": ""},
+        {"n": 6, "text": "좁은 뜻(로고스, 정의 캐묻기)이면 날이 서지만 한 문화·계층의 양식이 조건이 된다", "label": "지지됨", "evidence": "한 문화·한 계층·한 성이 닦아 온 양식", "note": ""},
+        {"n": 7, "text": "비판 막을 땐 넓게, 무게 지킬 땐 좁게 쓰는 것은 애매어의 오류이다", "label": "지지됨", "evidence": "한 낱말에 두 뜻을 담아 두고", "note": "'애매어' 용어 자체는 대화에 없고 같은 내용을 꼬리 자르기로 인정함."},
+        {"n": 8, "text": "막강하면서 한 문화에 갇히지 않는 검토의 폭이 있는가라는 물음이 아포리아로 남는다", "label": "지지됨", "evidence": "이것이 아포리아일세 / 못 풀었네", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-06-26_소크라테스의 검토되지 않은 삶에 대한 주장.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "46",
+      "voice": "종합",
+      "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "스트로슨 이후 책임 논의는 반응적 태도의 적합성과 관리와 자격을 따로 묻는다", "label": "연결", "evidence": "", "note": "카드가 '묶음을 읽으려고 세운 종합'이라 밝힘. 세 갈래 각각의 재료(왓슨 적합성, 월러스 관리, 스미스 자격)는 아래에서 대조."},
+        {"n": 1, "text": "묶음의 글들은 대부분 스트로슨의 1962년 「자유와 분개」가 연 방향을 공통 전제로 삼는다", "label": "지지됨", "evidence": "스트로슨 1962년 논문의 영향력 증가", "note": ""},
+        {"n": 2, "text": "책임을 이해하려면 분개·의분·죄책감 같은 반응적 태도를 먼저 분석해야 한다", "label": "지지됨", "evidence": "반응적 태도들의 본질을 분석해야", "note": ""},
+        {"n": 3, "text": "첫째 적합성: 왓슨(변명·면제·극단적 악)", "label": "지지됨", "evidence": "Excusing과 Exempting / Evil and limits", "note": ""},
+        {"n": 4, "text": "첫째 적합성: 슈메이커(비난받을 만함의 정의), 하먼(도덕적 무지의 면제)", "label": "지지됨", "evidence": "blameworthy와 anger / 도덕적 무지는 면제", "note": ""},
+        {"n": 5, "text": "둘째 관리 이유: 월러스가 용서와 위선으로 다루고 인지주의 비판이 구분을 시험한다", "label": "지지됨", "evidence": "용서와 위선 / 이중 규범 구조가 성립할까?", "note": ""},
+        {"n": 6, "text": "셋째 자격: 스미스의 정리와 위선 논의가 여기에 속한다", "label": "지지됨", "evidence": "비난 자격을 갈라내는 세 가지", "note": ""},
+        {"n": 7, "text": "쿠헬버그와 베처는 도덕적 지위와 기만 비난의 구성을 묻는다", "label": "판단 불가", "evidence": "", "note": "세미나 필기 범위 밖(과학철학 과제연구, 사회철학연습 발제 등). 이번 묶음에서 읽지 않음."},
+        {"n": 8, "text": "프랭크퍼트와 헤겔은 사랑과 욕망의 질서로 의지가 하나로 정리되는 방식을 다룬다", "label": "판단 불가", "evidence": "", "note": "세미나 필기 범위 밖(심리철학연습, 참고문헌 라이브러리). 이번 묶음에서 읽지 않음."}
+      ],
+      "sources_used": [
+        "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/도덕적 책임 세미나/Responsibility and the limits of Evil 1ef97cdd867e8002a404d1c4ca1773e9.md",
+        "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/도덕적 책임 세미나_0421/Blame and Holding Responsible 1dd97cdd867e81d689d3c50cc26154d0.md",
+        "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/도덕적 책임 세미나_0421/Trust, anger, resentment, forgiveness On blame and 1dd97cdd867e813aa65dde4878f870e3.md",
+        "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/도덕적 책임 세미나/Response-Dependent Responsibility; or,A Funny Thin 1e097cdd867e80c7b738f094a0b6a84d.md",
+        "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/도덕적 책임 세미나_0421/윤리학은 어려워! 그래서 뭐 어쩌라고 도덕적 무지와 비난 1ff97cdd867e80cfbeefe94353ce5849.md",
+        "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/도덕적 책임 세미나_0421/월러스에 대한 인지주의적 비판 1dd97cdd867e816eb8a8dce46530c67a.md"
+      ],
+      "sources_missing": []
+    },
+    {
+      "id": "46a",
+      "voice": "문헌",
+      "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "왓슨은 스트로슨이 반응적 태도를 책임의 구성 요소로 본다고 정리한다", "label": "지지됨", "evidence": "are constitutive of moral responsibility", "note": ""},
+        {"n": 1, "text": "왓슨은 스트로슨의 급진적 주장을 이렇게 요약한다", "label": "지지됨", "evidence": "Strawson's radical claim is", "note": ""},
+        {"n": 2, "text": "책임 있는 존재로 여기는 일은 \"just is the proneness to react…\"이다", "label": "지지됨", "evidence": "just is the proneness to react to them", "note": ""},
+        {"n": 3, "text": "이 반응들을 정당화하는 더 기본적인 믿음은 따로 없다", "label": "지지됨", "evidence": "There is no more basic belief", "note": ""},
+        {"n": 4, "text": "책임이 있다는 사실에서 책임을 묻는 것이 아니라 실천을 통해 이해된다", "label": "지지됨", "evidence": "우리의 실천을 통해 이해되어야 한다", "note": ""},
+        {"n": 5, "text": "책임을 묻는 일은 우리의 우려와 요구를 표현하는 일에 가깝다", "label": "지지됨", "evidence": "우려와 요구를 표현하는 것의 문제", "note": ""},
+        {"n": 6, "text": "왓슨은 이 입장을 표현 이론(expressive theory)이라 부른다", "label": "지지됨", "evidence": "the expressive theory", "note": ""},
+        {"n": 7, "text": "변명·면제, 극단적 악, 성장사, 자유의지론이 이 이론에서 어떻게 설명되는지 차례로 따진다", "label": "지지됨", "evidence": "Excusing과 Exempting … libertarianism", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/도덕적 책임 세미나/Responsibility and the limits of Evil 1ef97cdd867e8002a404d1c4ca1773e9.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "46a1",
+      "voice": "문헌",
+      "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "왓슨에 따르면 변명은 반응적 태도의 내적 기준이 충족되지 않음을 보인다", "label": "지지됨", "evidence": "내재적 기준들이 만족되지 않게 된다", "note": ""},
+        {"n": 1, "text": "스트로슨은 일반적 rational justification이 없다면서도 구체적 지각엔 할 말이 많다", "label": "지지됨", "evidence": "has a good deal to say about the particular", "note": ""},
+        {"n": 2, "text": "왓슨은 이를 반응적 태도에 내적 기준(internal criteria)이 있다는 말로 정리한다", "label": "지지됨", "evidence": "Reactive attitudes do have internal criteria", "note": ""},
+        {"n": 3, "text": "행위 해석에 따라 반응적 태도가 일어나거나 억제되거나 취소된다", "label": "지지됨", "evidence": "행위에 대한 해석에 달려 있다", "note": ""},
+        {"n": 4, "text": "변명은 겉으로 요구 위반 같지만 실은 아님을 보여 내적 기준이 충족되지 않게 한다", "label": "지지됨", "evidence": "사실 그렇지 않다라는 방식으로 작동", "note": ""},
+        {"n": 5, "text": "이 설명은 표준적으로 인정되는 변명 조건들에 대응한다", "label": "지지됨", "evidence": "corresponds to Standardly acknowledged Excusing", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/도덕적 책임 세미나/Responsibility and the limits of Evil 1ef97cdd867e8002a404d1c4ca1773e9.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "46a2",
+      "voice": "문헌",
+      "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "왓슨에 따르면 면제는 행위자가 선의의 의지에 대한 요구의 적절한 대상인지를 묻는다", "label": "지지됨", "evidence": "선의의 의지 요구의 적절한 대상이 되는가", "note": ""},
+        {"n": 1, "text": "변명은 요구 비위반, 면제는 일시적·영구적, 국소적·보편적으로 처음부터 면제됨을 보인다", "label": "지지됨", "evidence": "일시적이거나 영구적으로, 국소적이거나 보편적으로", "note": ""},
+        {"n": 2, "text": "\"A child can be malicious, a psychotic can be hostile, a sociopath indifferent\"", "label": "지지됨", "evidence": "A child can be malicious, a psychotic", "note": ""},
+        {"n": 3, "text": "그렇다면 행위자는 도덕적 관계를 맺을 수 있고 도덕 공동체의 일부이다", "label": "지지됨", "evidence": "도덕적 공동체의 일부일 것", "note": ""},
+        {"n": 4, "text": "면제로 반응적 태도가 유보되면 스트로슨의 객관적 태도를 취한다", "label": "지지됨", "evidence": "일종의 '객관적 태도'를 취하게 된다", "note": ""},
+        {"n": 5, "text": "반응적 태도는 의지의 질과 배경 믿음에 의존하며 그 믿음을 경쟁 책임론 없이 설명할 수 있는지 묻는다", "label": "지지됨", "evidence": "depend as well upon a background of beliefs", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/도덕적 책임 세미나/Responsibility and the limits of Evil 1ef97cdd867e8002a404d1c4ca1773e9.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "46a3",
+      "voice": "문헌",
+      "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "왓슨은 극단적 악이 스스로를 면제하지 않도록 호소의 조건에서 대화 가능성을 뺀다", "label": "지지됨", "evidence": "unless that is evil is to be its own exemption", "note": ""},
+        {"n": 1, "text": "공유 가치 체계와 도덕 공동체를 요구한다면 극단적 악인은 면제 조건을 충족하는 역설이 생긴다", "label": "부분 지지", "evidence": "면제 조건을 만족하게 되어버리는 것처럼 보인다", "note": "필기는 '역설을 낳는 것처럼 보인다', '만족하게 되어버리는 것처럼 보인다'로 한정함. 카드는 '역설이 생긴다'로 단정."},
+        {"n": 2, "text": "해리스(두 소년 살해, 웃으며 점심을 먹었다고 보도) 사례로 시험한다", "label": "지지됨", "evidence": "Robert Alton Harris … hamburger", "note": ""},
+        {"n": 3, "text": "해리스는 비난받을 만해 보이나 반응적 태도가 대화로의 초대라면 초대할 수 없다", "label": "지지됨", "evidence": "도덕적 담화에 초대수 없으며", "note": ""},
+        {"n": 4, "text": "대화 형식 아닌 소통도 있고, 거부는 도덕적 무법자를 선언하는 소통이다", "label": "지지됨", "evidence": "모든 소통이 대화인 것은 아니다", "note": ""},
+        {"n": 5, "text": "호소의 제약에 공동 성원 자격이나 대화 가능성을 넣으면 악이 스스로 면제가 되므로 넣지 않는다", "label": "지지됨", "evidence": "we must not include among these constraints", "note": ""},
+        {"n": 6, "text": "한계 상황의 반응적 태도는 희망을 잃은 규탄(denunciation)일 수 있다", "label": "지지됨", "evidence": "nothing more than a denunciation forlorn", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/도덕적 책임 세미나/Responsibility and the limits of Evil 1ef97cdd867e8002a404d1c4ca1773e9.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "46b",
+      "voice": "문헌",
+      "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "스미스는 비난 이론을 제재, 품성 평가, 반응적 태도, 혼합, 기능 모형으로 나눈다", "label": "지지됨", "evidence": "1.제재 2.품성 평가 3.반응적 4.혼합 5.기능", "note": ""},
+        {"n": 1, "text": "최근 20년간 책임·비난 관심이 늘었고 스트로슨 영향, 도덕심리학, 비난의 윤리학 부상으로 요약", "label": "지지됨", "evidence": "최근 20년간 … 급증", "note": ""},
+        {"n": 2, "text": "스트로슨 접근은 반응적 태도의 본질을 먼저 분석해야 한다고 강조한다", "label": "지지됨", "evidence": "반응적 태도들의 본질을 분석해야", "note": ""},
+        {"n": 3, "text": "논의 범위가 책임의 조건에서 비난자가 언제·어떻게·누구를 비난할 정당성이 있는지로 넓어졌다", "label": "지지됨", "evidence": "비난할 정당성이 있는지를 판단하는", "note": ""},
+        {"n": 4, "text": "모형마다 비난을 처벌, 흠결 기록, 악의에 대한 감정적 응답, 판단과 동기의 결합, 목적 수행 관행으로 규정", "label": "지지됨", "evidence": "소극적 처벌 / 기록·감산 / 감정적 응답", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/도덕적 책임 세미나_0421/Blame and Holding Responsible 1dd97cdd867e81d689d3c50cc26154d0.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "46b4a",
+      "voice": "문헌",
+      "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "비난 자격은 위선 배제, 공모 배제, 사적 관심이라는 세 조건으로 갈린다", "label": "지지됨", "evidence": "비난 자격을 갈라내는 세 가지 모델", "note": ""},
+        {"n": 1, "text": "위선 배제: 같은 유형 위반 경력이 있으면 비난 권한이 약해지거나 사라진다", "label": "지지됨", "evidence": "권한 약화·소멸", "note": ""},
+        {"n": 2, "text": "공모 배제: 행위 발생에 기여·강제·조장했다면 권위가 사라진다", "label": "지지됨", "evidence": "비난자가 … 조장했다면 권위 소멸", "note": ""},
+        {"n": 3, "text": "코언(테러 비난), 셸비(빈곤층 비난), 더프(재판권)의 예", "label": "지지됨", "evidence": "Cohen / Shelby / Duff", "note": ""},
+        {"n": 4, "text": "사적 관심: 무관한 제삼자가 경미한 위반을 나무랄 자격 없음; 라직의 독일·미국 비교", "label": "지지됨", "evidence": "독일은 … 미국 다수 지역은 무례로 간주", "note": ""},
+        {"n": 5, "text": "세 조건은 독립적이면서 얽혀, 위선적 정치인은 위선과 공모로 이중으로 자격을 잃는다", "label": "지지됨", "evidence": "이중 자격을 상실한다", "note": ""},
+        {"n": 6, "text": "과제는 조건 사이의 우선순위와 귀속 방식을 체계화하는 일이다", "label": "지지됨", "evidence": "조건 간 우선순위·귀속 방식을 체계화", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/도덕적 책임 세미나_0421/Blame and Holding Responsible 1dd97cdd867e81d689d3c50cc26154d0.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "46b4b",
+      "voice": "문헌",
+      "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "비난의 절차 규범은 비례성, 시간·장소, 참회, 과소 비난의 네 차원을 따진다", "label": "지지됨", "evidence": "① 비례성 ② 시간·장소·방식 ③ 자기 참회 ④ 비난 의무", "note": ""},
+        {"n": 1, "text": "경미한 지각을 도덕적 캐릭터 붕괴로 몰아붙이면 과잉, 중범죄 앞 침묵은 묵인", "label": "지지됨", "evidence": "과잉·잔혹성 / 묵인", "note": ""},
+        {"n": 2, "text": "송년회에서 배우자의 실수를 공개 폭로하듯 존중·사생활 규범을 어기는 비난은 부적절", "label": "지지됨", "evidence": "회사 송년회에서 … 공개 폭로 ↔ 부적절", "note": ""},
+        {"n": 3, "text": "행위자가 즉석에서 사과하고 재발 방지를 약속한다면 추가 분노가 무례하고 잔혹하다", "label": "부분 지지", "evidence": "진심 사과·수정 의사를 보이면 추가 비난은 무례·잔혹", "note": "규범 행의 조건은 '진심' 사과·수정 의사. 카드는 예시(즉석 사과·약속)만 적고 '진심'을 뺌."},
+        {"n": 4, "text": "중대한 불의 앞 침묵하는 과소 비난은 피해자 경시와 연대 결여로 비판받는다", "label": "지지됨", "evidence": "피해자 경시·연대 결여 비판", "note": ""},
+        {"n": 5, "text": "정당화 이론으로 신중주의·의무론·공리주의·계약론·덕 윤리, 각각 가중치가 다르다", "label": "지지됨", "evidence": "서로 다른 가중치를 부여한다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/도덕적 책임 세미나_0421/Blame and Holding Responsible 1dd97cdd867e81d689d3c50cc26154d0.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "46b5",
+      "voice": "문헌",
+      "verdict": "원문없음",
+      "claims": [
+        {"n": 0, "text": "비난 관행의 적절성 규범은 권력과 성과 인종의 편향을 재생산할 수 있다", "label": "지지됨", "evidence": "구조적 부정의를 재생산할 수 있으므로", "note": ""},
+        {"n": 1, "text": "최근 연구는 비난 관행에 권력, 성, 인종의 편향이 있다고 지적한다", "label": "지지됨", "evidence": "비난 관행의 권력·성·인종 편향을 지적", "note": ""},
+        {"n": 2, "text": "지배 집단의 분노가 하위 집단에 징벌적 잣대로 쓰이고, 약자의 항의가 과민 반응으로 폄하된다", "label": "지지됨", "evidence": "징벌적 잣대 / 과민 반응으로 폄하", "note": ""},
+        {"n": 3, "text": "적절성 규범 자체가 구조적 부정의를 재생산할 수 있어 이론적·실천적 수정이 함께 필요하다", "label": "지지됨", "evidence": "이론적·실천적 수정을 병행해야 한다", "note": ""},
+        {"n": 4, "text": "비난 자격·절차 논의가 개인 간 관계에 머물지 않고 사회 구조 안에서 따져져야 함을 시사한다", "label": "원문에 없음", "evidence": "", "note": "필기 C절에 이 시사를 말하는 문장이 없음. 필기의 결론은 규범 수정 병행까지. 타당한 추론이나 출처 문장은 아님."}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/도덕적 책임 세미나_0421/Blame and Holding Responsible 1dd97cdd867e81d689d3c50cc26154d0.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "46c1",
+      "voice": "문헌",
+      "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "월러스는 분노의 적대성이 사회적 협조를 유인하는 기능으로 이해 가능하다고 본다", "label": "지지됨", "evidence": "사회적 협조를 incentivize하는 감정적 기능", "note": ""},
+        {"n": 1, "text": "극단적 비판(maximalist critique)은 반응적 비난이 내재적으로 문제적이라고 주장한다", "label": "지지됨", "evidence": "반응적 비난은 내재적으로 문제적이다", "note": ""},
+        {"n": 2, "text": "누스바움: 분노에는 해악이 닥치기를 바라는 갚아 주기의 추구가 있다", "label": "지지됨", "evidence": "the quest of payback", "note": ""},
+        {"n": 3, "text": "분노가 폭력을 일으키기도 하지만 갚아 주려는 욕망은 분노의 본질이 아니다", "label": "지지됨", "evidence": "갚아 주겠다는 욕망은 이 감정의 본질이 아니다", "note": ""},
+        {"n": 4, "text": "잔여 욕망을 걷어낸 행위자에게도 분노는 사회적 마찰과 대립적 현실을 나타낸다", "label": "지지됨", "evidence": "even when it is felt by agents who", "note": ""},
+        {"n": 5, "text": "적대성은 사회적 불승인의 경제에 연결되어 사회적 협조를 유인한다", "label": "지지됨", "evidence": "norm-compliant behavior를 활성화시키는", "note": ""},
+        {"n": 6, "text": "반응적 비난은 규범을 실천적 요구로 읽히게 하고, 존중받을 권리를 반영하며, 서로를 위해 나서게 한다", "label": "지지됨", "evidence": "legibility of moral standards as genuine demands", "note": ""},
+        {"n": 7, "text": "월러스는 대립적 성격을 살리면서 극단적 비판의 근거를 걷어냈다고 쓴다", "label": "부분 지지", "evidence": "But I hope I have succeeded in sketching", "note": "원문은 'I hope I have succeeded'로 한정함. 카드는 '걷어냈다고 쓴다'로 단정."}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/도덕적 책임 세미나_0421/Trust, anger, resentment, forgiveness On blame and 1dd97cdd867e813aa65dde4878f870e3.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "46c4",
+      "voice": "문헌",
+      "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "월러스는 관리 이유가 일반화되면 반응적 비난 전반에 대한 회의주의가 열린다고 본다", "label": "지지됨", "evidence": "철학적 회의주의는 바로 이 지점에서", "note": ""},
+        {"n": 1, "text": "관리 이유가 인정되고 나면 그 이유가 일반화될 가능성이 드러난다", "label": "지지됨", "evidence": "일반화될 가능성도 드러난다", "note": ""},
+        {"n": 2, "text": "내적으로 적합한 태도도 스스로 금지할 이유가 언제나 있다는 결론이 나올 수 있다", "label": "지지됨", "evidence": "항상 존재한다는 결론이 도출될 수 있다", "note": ""},
+        {"n": 3, "text": "회의주의가 흥미로운 이유는 예외 없이 그 태도를 포기할 설득력 있는 이유가 있다는 점", "label": "지지됨", "evidence": "예외 없이 그 태도를 포기해야 할", "note": ""},
+        {"n": 4, "text": "전면적 회의주의를 지지하지 않으면서도 혼동·개념적 오류 탓이 아니며 정면으로 다뤄야 한다", "label": "지지됨", "evidence": "회피하거나 무시할 것이 아니라 정면으로", "note": ""},
+        {"n": 5, "text": "비관주의자의 혼동 반론, 제재 부과일 때만 적용된다는 반론은 그의 재구성에서 통하지 않는다", "label": "지지됨", "evidence": "이 비판 역시 잘못된 셈이다", "note": ""},
+        {"n": 6, "text": "반응적 태도는 대립적이고 마찰을 일으키므로 공정하게 규제·관리할 수 있느냐는 문제 제기가 가능하다", "label": "지지됨", "evidence": "충분히 가능하다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/도덕적 책임 세미나_0421/Trust, anger, resentment, forgiveness On blame and 1dd97cdd867e813aa65dde4878f870e3.md"],
+      "sources_missing": []
+    }
+  ]
+}

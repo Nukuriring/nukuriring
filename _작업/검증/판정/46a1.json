@@ -1,0 +1,55 @@
+{
+ "id": "46a1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "왓슨에 따르면 변명은 반응적 태도의 내적 기준이 충족되지 않음을 보인다",
+   "label": "지지됨",
+   "evidence": "내재적 기준들이 만족되지 않게 된다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "스트로슨은 일반적 rational justification이 없다면서도 구체적 지각엔 할 말이 많다",
+   "label": "지지됨",
+   "evidence": "has a good deal to say about the particular",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "왓슨은 이를 반응적 태도에 내적 기준(internal criteria)이 있다는 말로 정리한다",
+   "label": "지지됨",
+   "evidence": "Reactive attitudes do have internal criteria",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "행위 해석에 따라 반응적 태도가 일어나거나 억제되거나 취소된다",
+   "label": "지지됨",
+   "evidence": "행위에 대한 해석에 달려 있다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "변명은 겉으로 요구 위반 같지만 실은 아님을 보여 내적 기준이 충족되지 않게 한다",
+   "label": "지지됨",
+   "evidence": "사실 그렇지 않다라는 방식으로 작동",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "이 설명은 표준적으로 인정되는 변명 조건들에 대응한다",
+   "label": "지지됨",
+   "evidence": "corresponds to Standardly acknowledged Excusing",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/도덕적 책임 세미나/Responsibility and the limits of Evil 1ef97cdd867e8002a404d1c4ca1773e9.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

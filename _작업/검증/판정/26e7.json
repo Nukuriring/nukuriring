@@ -1,0 +1,72 @@
+{
+ "id": "26e7",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "뷰캐넌은 모든 향상이 지배 욕구의 표현이라는 샌델의 전제를 거짓으로 판정한다",
+   "label": "지지됨",
+   "evidence": "is so clearly false that it is hard",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "선물성 수사를 논증으로 옮긴다(핵심 선, 지배 욕구, 향상은 사례 → 결정적 이유)",
+   "label": "지지됨",
+   "evidence": "translate Sandel's rhetoric … into an argument",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "그는 셋째 전제가 명백히 거짓이라고 본다",
+   "label": "지지됨",
+   "evidence": "so clearly false",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "예방접종, 교육, 컴퓨터는 존재 조건을 지배하려는 욕구의 증거가 될 수 없다(p.24)",
+   "label": "지지됨",
+   "evidence": "문면카드 §1(a) p.80, KIEJ p.24",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "그것들까지 지배 욕구라면 문해 등이 모두 심대한 잘못이고 선물성은 오래전 파괴되었을 것",
+   "label": "지지됨",
+   "evidence": "profound moral wrongs … destroyed long ago",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "수명 400년의 세계에도 사고·전쟁 등이 남아 의지 밖 긍정할 것이 남는다; Ironically 인용(pp.24–25)",
+   "label": "지지됨",
+   "evidence": "Ironically, it is Sandel who has an inadequate",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "가장 관대하게 읽으면 남는 것은 무한정 추구 말라는 경고, 형량의 한 고려 사항(pp.82–83)",
+   "label": "지지됨",
+   "evidence": "a warning not to pursue enhancements without limit",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "최훈은 이런 비판이 샌델을 유전자 결정론으로 읽는 허수아비 공격이라고 반박한다",
+   "label": "지지됨",
+   "evidence": "정리_최훈3편 Ⅱ p.135, Ⅲ p.154 허수아비 공격",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/인간 본성 참고 문헌/03_향상3자_샌델보스트롬뷰캐넌/문면카드_뷰캐넌.md",
+  "문헌/@Buchanan2008 Enhancement and the Ethics of Development.md",
+  "_원자료/로컬/인간 본성 참고 문헌/07_원료노트_사본/정리_최훈3편_선물논증_20260908.md",
+  "_원자료/로컬/인간 본성 참고 문헌/07_원료노트_사본/원료_샌델보스트롬뷰캐넌_향상3자_20260908.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

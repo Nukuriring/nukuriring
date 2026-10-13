@@ -1,0 +1,69 @@
+{
+ "id": "46c1",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "월러스는 분노의 적대성이 사회적 협조를 유인하는 기능으로 이해 가능하다고 본다",
+   "label": "지지됨",
+   "evidence": "사회적 협조를 incentivize하는 감정적 기능",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "극단적 비판(maximalist critique)은 반응적 비난이 내재적으로 문제적이라고 주장한다",
+   "label": "지지됨",
+   "evidence": "반응적 비난은 내재적으로 문제적이다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "누스바움: 분노에는 해악이 닥치기를 바라는 갚아 주기의 추구가 있다",
+   "label": "지지됨",
+   "evidence": "the quest of payback",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "분노가 폭력을 일으키기도 하지만 갚아 주려는 욕망은 분노의 본질이 아니다",
+   "label": "지지됨",
+   "evidence": "갚아 주겠다는 욕망은 이 감정의 본질이 아니다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "잔여 욕망을 걷어낸 행위자에게도 분노는 사회적 마찰과 대립적 현실을 나타낸다",
+   "label": "지지됨",
+   "evidence": "even when it is felt by agents who",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "적대성은 사회적 불승인의 경제에 연결되어 사회적 협조를 유인한다",
+   "label": "지지됨",
+   "evidence": "norm-compliant behavior를 활성화시키는",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "반응적 비난은 규범을 실천적 요구로 읽히게 하고, 존중받을 권리를 반영하며, 서로를 위해 나서게 한다",
+   "label": "지지됨",
+   "evidence": "legibility of moral standards as genuine demands",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "월러스는 대립적 성격을 살리면서 극단적 비판의 근거를 걷어냈다고 쓴다",
+   "label": "부분 지지",
+   "evidence": "But I hope I have succeeded in sketching",
+   "note": "원문은 'I hope I have succeeded'로 한정함. 카드는 '걷어냈다고 쓴다'로 단정."
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/도덕적 책임 세미나_0421/Trust, anger, resentment, forgiveness On blame and 1dd97cdd867e813aa65dde4878f870e3.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
