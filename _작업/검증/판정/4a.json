@@ -1,0 +1,56 @@
+{
+ "id": "4a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "맥도웰은 지각의 근본 물음이 정당하며 트래비스가 이를 놓친다고 응수한다",
+   "label": "지지됨",
+   "evidence": "Travis is oblivious to it",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "옆에서 보는 관점에서 예화 가능성을 묻는 물음이 나쁜 물음이라는 데 트래비스와 동의한다",
+   "label": "지지됨",
+   "evidence": "he agrees the sideways-on",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "이와 구별해 지각이 세계를 우리가 생각할 바에 합리적으로 관련짓는가라는 근본 물음을 세운다",
+   "label": "지지됨",
+   "evidence": "fundamental question of perception",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "이 물음에는 답해야 할 사안이 있고 트래비스는 이를 놓친다('Travis is oblivious to it')",
+   "label": "지지됨",
+   "evidence": "at least a case to answer",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "칸트 슬로건에 기댄 초월론적 설명으로 답하며 지각이 어떻게 구성되어야 하는지를 밝힌다",
+   "label": "지지됨",
+   "evidence": "how-it-must-be-constituted story",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "초월론적 원리는 사고가 진정한 사고이기 위한 조건이고 회의주의를 막는 정당화는 트래비스의 방식",
+   "label": "지지됨",
+   "evidence": "that way round: not, as in Travis's",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@McDowell2018 Travis on Frege, Kant, and the Given.md",
+  "_원자료/로컬/Walkthrough/Walkthrough_Notes/03_Discussion_Travis-McDowell-Cavell.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

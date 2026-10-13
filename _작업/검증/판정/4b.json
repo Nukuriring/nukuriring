@@ -1,0 +1,70 @@
+{
+ "id": "4b",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "트래비스는 예화가 진리를 부여한다는 점으로 증거의 도그마를 반박한다",
+   "label": "지지됨",
+   "evidence": "진리를 전달하지 않고 부여(confer)",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "awareness에서 awareness-that으로의 이행이 the Move, 도움 없이는 불가능하다는 주장이 the Myth",
+   "label": "지지됨",
+   "evidence": "the Move라 하고 ... the Myth라 하며",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "뿌리에 증거의 유일한 형식이 진리 전달이라는 도그마가 있다고 진단",
+   "label": "지지됨",
+   "evidence": "도그마를 신화의 뿌리로 진단",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "지각 대상은 참거짓이 없으므로 도그마를 받으면 지각은 증거를 시작할 수 없다",
+   "label": "지지됨",
+   "evidence": "지각 awareness는 증거를 시작할 수 없고",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "증거 필요와 대상의 비진리성은 인정하고 도그마만 공격한다",
+   "label": "지지됨",
+   "evidence": "P2만 반례관계로 친다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "역사적인 것과 개념적인 것을 범주적으로 구분하고 예화라는 범주 횡단 관계를 내세운다",
+   "label": "지지됨",
+   "evidence": "횡-범주적이고 Move가 가로지른다",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "왼훅 예: 주먹이 그렇게 던져진 사건이 '왼훅이 던져졌다'를 참이 되게 하며 진리를 부여하고 재인 가능",
+   "label": "지지됨",
+   "evidence": "진리를 부여(confer)",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "증거 개념을 진리 부여까지 넓히면 도그마는 근거를 잃고 신화 고발도 힘을 잃는다",
+   "label": "지지됨",
+   "evidence": "Dogma는 한낱 도그마, Myth는",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Travis2018 The Move, the Divide, the Myth, and its Dogma.md",
+  "_원자료/claude.ai/chats/2026-06-05_두 주장 비교 분석.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

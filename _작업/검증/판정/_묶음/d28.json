@@ -1,0 +1,295 @@
+{
+  "model": "sonnet",
+  "date": "2026-10-13",
+  "cards": [
+    {
+      "id": "37d1b", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "다른 증언에 의존하는 일과 입증 근거를 함축하는 일이 같은 순환인지가 응수의 관건", "label": "지지됨", "evidence": "그 동일시 자체가 추론 부담임", "note": ""},
+        {"n": 1, "text": "코디의 비판은 흄 측 응수가 정당화를 또 다른 증언적 믿음의 정당화에 의존시킨다고 말한다", "label": "지지됨", "evidence": "정당화에 다시 의존시킨다고 본다", "note": ""},
+        {"n": 2, "text": "프리커식 응수는 입증 대상이 입증 근거를 함축할 때 순환이 생긴다고 말한다", "label": "지지됨", "evidence": "입증 대상이 입증의 근거를 함축", "note": ""},
+        {"n": 3, "text": "프리커식 응수가 흄의 사례에 작동하려면 두 순환이 같아야 하고 이 동일시가 추론 부담을 진다", "label": "지지됨", "evidence": "그 동일시 자체가 추론 부담임", "note": ""},
+        {"n": 4, "text": "후자가 전자를 함축하지 않는 한 이 의존 관계는 코디가 지적한 순환이 되지 않는다", "label": "지지됨", "evidence": "후자가 전자를 함축하지 않는 한", "note": ""},
+        {"n": 5, "text": "같은 공동체 화자들의 신빙성이 통계적으로 상관될 가능성이 반론으로 남는다", "label": "지지됨", "evidence": "통계적 상관관계를 가질 가능성", "note": ""},
+        {"n": 6, "text": "코디 원문은 'reliance upon testimony as an institution'을 다루는 맥락에서 순환을 말하므로 전역적 정당화로 읽을 근거가 있다", "label": "부분 지지", "evidence": "증언이라는 제도에 대한 신뢰(p.80)", "note": "Coady 문헌 노트에는 한국어로 '증언이라는 제도에 대한 신뢰'(p.80)만 있고 영어 인용구는 없다. 그 대목은 흄의 공동 경험 해석을 설명하는 맥락이며, 순환 비판(p.81)과 전역 정당화 독해를 잇는 말은 노트에 없다. Grep: institution, 제도."}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-21_증언적 지식의 정당화와 신빙성 판단.md", "_원자료/claude.ai/chats/2026-05-21_증언적 믿음의 정당화 근거.md", "문헌/@Coady1992 Testimony.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "37d4", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "입증 실패를 보이는 비판과 추정적 권리의 부재를 입증하는 비판은 층위가 다르다", "label": "지지됨", "evidence": "입증 부담의 미충족에 관한 메타-논증", "note": ""},
+        {"n": 1, "text": "코디 논증이 권리의 존재를 증명하지 못한다는 비판은 입증 부담 미충족이라는 메타 논증적 주장", "label": "지지됨", "evidence": "입증 부담의 미충족에 관한 메타-논증", "note": ""},
+        {"n": 2, "text": "권리가 존재하지 않음을 입증하는 일은 존재를 부정하는 일차 논증이다(대화 속 설명)", "label": "지지됨", "evidence": "존재 부정에 관한 일차 논증으로", "note": ""},
+        {"n": 3, "text": "정당화될 수 없다는 결론은 도입 행위 부정과 존재 주장 부정의 두 독해로 읽힌다", "label": "지지됨", "evidence": "(i) 해결책으로 도입하는 행위", "note": ""},
+        {"n": 4, "text": "대화 속 설명은 프리커 입장을 필요성 입증 실패에 가깝게 본다", "label": "지지됨", "evidence": "필요성을 입증하지 못한다에 가깝지", "note": ""},
+        {"n": 5, "text": "프리커는 'Our target is the PR thesis'라고 써서 PR 논제를 표적으로 밝힌다(p.127)", "label": "지지됨", "evidence": "Our target is the PR thesis", "note": ""},
+        {"n": 6, "text": "직접 전략은 둘째 전제 NC를 거짓으로 보여 초월적 논증을 멈추는 것", "label": "지지됨", "evidence": "NC가 거짓임을 보여 초월적 논증을 멈추는", "note": ""},
+        {"n": 7, "text": "논증을 멈추는 단계와 PR 논제를 거부하는 단계를 구별해 읽을 필요가 있다", "label": "지지됨", "evidence": "NC를 무너뜨리는 일은 PR 반박의 절반", "note": "카드의 독해 권고이며 Fricker 노트 항목 16과 합치한다."}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-22_증언적 지식의 정당화와 신빙성 판단.md", "_원자료/claude.ai/chats/2026-05-25_증언의 신빙성 판단 근거에 관한 철학적 논의.md", "문헌/@Fricker1994 Against Gullibility.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "37c6", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "추정적 권리의 단서 조항은 긍정적 정당화 조건과 부정적 수정 조건을 나눈다", "label": "지지됨", "evidence": "긍정적 정당화 조건 ... 부정적 수정 조건", "note": ""},
+        {"n": 1, "text": "추정적 권리는 의심할 이유가 없는 한이라는 단서를 단다", "label": "지지됨", "evidence": "의심할 이유가 없는 한", "note": ""},
+        {"n": 2, "text": "관찰 경험 불필요 주장은 긍정적 판단 조건에 관한 것이고 의심 증거는 수정 조건으로 허용된다", "label": "지지됨", "evidence": "부정적 수정 조건에 관한 것이다", "note": "Claude 06:52의 학생 재구성이며 06:55에 문항 맥락에서는 철회됨. 카드는 '읽히고'로 한정해 일치."},
+        {"n": 3, "text": "학술적 코디의 입장은 defeater 처리를 포함한다(대화 속 설명)", "label": "지지됨", "evidence": "defeaters 처리를 포함한 정밀한 Coady", "note": ""},
+        {"n": 4, "text": "신빙성을 두 확률로 재고 0이 아닌 사전 신빙성을 약화 증거가 없는 한 유지하는 확률 모형", "label": "지지됨", "evidence": "0이 아닌 사전 신빙성을 부여한다", "note": ""},
+        {"n": 5, "text": "이 모형은 추정적 권리와 논리 형식이 같다", "label": "지지됨", "evidence": "거의 동형 구조 ... 동일한 논리 형식", "note": ""},
+        {"n": 6, "text": "과거 증언을 강화 증거로 셈하므로 이 모형은 흄의 관찰 기반 설명도 일부 받아들인다", "label": "부분 지지", "evidence": "사실로 드러난 사례는 ... 강화하는 증거", "note": "모형이 사실로 드러난 사례를 강화 증거로 셈하는 것은 〈보기〉에 있으나, 흄을 일부 받아들인다는 평가는 출처에 없다(출처는 흄의 '만' 진술과 상충한다고 함). 카드의 해석."}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-25_증언의 신빙성 판단 근거에 관한 철학적 논의.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "1a2", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "안다고 말하는 일은 약속처럼 자기 말과 권위를 내주는 일이다", "label": "지지됨", "evidence": "I give others my authority for saying", "note": ""},
+        {"n": 1, "text": "'아주 확실하다'와 '안다'의 차이는 '굳게 의도한다'와 '약속한다'의 차이와 같다", "label": "지지됨", "evidence": "I firmly and irrevocably intend", "note": ""},
+        {"n": 2, "text": "확신의 척도에 아주 확실함보다 높은 단계가 없고 '안다'는 척도 바깥의 발화(1946: 99)", "label": "지지됨", "evidence": "nothing in that scale superior", "note": ""},
+        {"n": 3, "text": "'When I say I know, I give others my word...' 정식화", "label": "지지됨", "evidence": "I give others my word", "note": ""},
+        {"n": 4, "text": "듣는 사람은 기댈 자격을 얻고 거부하면 특별한 방식으로 모욕하게 된다", "label": "지지됨", "evidence": "insult me in a special way", "note": ""},
+        {"n": 5, "text": "권위는 전해질 수 있고 구체적으로 불신할 이유가 없는 한 타인을 신뢰할 자격이 있다", "label": "지지됨", "evidence": "except ... concrete reason to distrust", "note": ""},
+        {"n": 6, "text": "'나는 안다'를 기술로 여기는 일은 기술주의적 오류의 한 사례", "label": "지지됨", "evidence": "only one example of the descriptive fallacy", "note": ""},
+        {"n": 7, "text": "브렘너는 오스틴이 순수 수행문으로 규정한 적 없다고 읽고 고전적 반론에 답한다(해설 노트 설명)", "label": "지지됨", "evidence": "Austin never calls it a pure performative", "note": ""}
+      ],
+      "sources_used": ["문헌/@Austin1946 Other Minds.md", "문헌/@Longworth SEP John Langshaw Austin.md", "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md", "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md", "_원자료/로컬/Integrating Transparency/WITTGENSTEIN_AUSTIN_moves.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "1a4", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "충분함은 목적에 상대적이고 도전은 결함을 지목해야 한다", "label": "지지됨", "evidence": "some more or less definite lack", "note": ""},
+        {"n": 1, "text": "'충분하지 않다'고 맞서는 사람은 어느 정도 특정된 결함을 염두에 두어야 하고 딱따구리 예가 그 예", "label": "지지됨", "evidence": "Woodpeckers have red heads too", "note": ""},
+        {"n": 2, "text": "'If there is no definite lack...' 인용과 'Enough is enough'(1946: 84)", "label": "지지됨", "evidence": "Enough is enough: it doesn't mean", "note": ""},
+        {"n": 3, "text": "충분함은 합리적 범위 안에서 현재 의도와 목적에 비추어 다른 것일 수 없음을 보이는 것", "label": "지지됨", "evidence": "within reason, and for present", "note": ""},
+        {"n": 4, "text": "이 기준은 박제된 goldfinch 가능성 배제 요구를 포함하지 않는다", "label": "지지됨", "evidence": "isn't a stuffed goldfinch", "note": ""},
+        {"n": 5, "text": "강독 노트는 결함을 댄 도전을 정당한 탐구로, 결함을 못 대는 의심을 회의론자의 의심으로 정리한다", "label": "지지됨", "evidence": "legitimate, answerable inquiry", "note": ""},
+        {"n": 6, "text": "정독 노트는 SEP를 따라 드레츠키 관련 대안 인식론과 루이스, 디로즈 맥락주의의 단초로 읽는다", "label": "지지됨", "evidence": "Seed of relevant-alternatives", "note": ""}
+      ],
+      "sources_used": ["문헌/@Austin1946 Other Minds.md", "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md", "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "1a3", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "감각과 지성이 오류 가능해도 앎이 가능하다", "label": "지지됨", "evidence": "inherently fallible and delusive", "note": ""},
+        {"n": 1, "text": "오스틴은 'If I know, I can't be wrong'에 끌리면서도 그대로 지지하지 않는다", "label": "지지됨", "evidence": "never quite endorses it", "note": ""},
+        {"n": 2, "text": "SEP: 'I know it is so, but I may be wrong'을 금하는 규칙으로 해석하는 데까지 동의", "label": "지지됨", "evidence": "a ban on saying", "note": ""},
+        {"n": 3, "text": "같은 능력과 상황에서 틀린 판정이 불가능해야 한다는 양상적 요구를 거부", "label": "지지됨", "evidence": "that would make knowledge impossible", "note": ""},
+        {"n": 4, "text": "'inherently fallible and delusive, but not inveterately so'(1946: 98)와 기계 비유", "label": "지지됨", "evidence": "good machines don't (often)", "note": ""},
+        {"n": 5, "text": "within my cognisance는 현재와 과거에 관한 것이고 미래는 믿음만 요구되며 새가 폭발하면 할 말을 잃는다", "label": "지지됨", "evidence": "words literally fail us", "note": ""},
+        {"n": 6, "text": "SEP는 오류가능주의가 수행적 해석과 긴장 관계에 있다고 지적한다", "label": "지지됨", "evidence": "fallibilism ... in tension with", "note": ""}
+      ],
+      "sources_used": ["문헌/@Austin1946 Other Minds.md", "문헌/@Longworth SEP John Langshaw Austin.md", "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md", "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "1a5", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "진짜라는 말은 특정한 대조 아래에서만 뜻을 얻는다", "label": "지지됨", "evidence": "has no answer absent a specified contrast", "note": ""},
+        {"n": 1, "text": "철학자의 도전: 진짜 goldfinch인가, 꿈은 아닌가, 박제는 아닌가", "label": "지지됨", "evidence": "Do you know it's a real goldfinch?", "note": ""},
+        {"n": 2, "text": "이 의심에도 가짜일 수 있는 특정한 방식이라는 근거가 있어야 한다", "label": "지지됨", "evidence": "must have a special basis", "note": ""},
+        {"n": 3, "text": "맥락이 그 방식을 정한다: goldfinch는 박제, 오아시스는 신기루", "label": "지지됨", "evidence": "goldfinch→stuffed ... oasis→mirage", "note": ""},
+        {"n": 4, "text": "'The wile of the metaphysician...'는 무엇이 잘못일 수 있는지 밝히지 않는 물음의 규정", "label": "지지됨", "evidence": "not specifying what may be wrong", "note": ""},
+        {"n": 5, "text": "SEP 경유: 'real'은 뒤따르는 명사를 요구하고 대조에서 뜻을 얻으며 부정형이 주도한다(wears the trousers)", "label": "지지됨", "evidence": "substantive-hungry, trouser word", "note": ""},
+        {"n": 6, "text": "대조가 지정되지 않으면 '진짜 사물을 지각하는가'는 답이 없다", "label": "지지됨", "evidence": "has no answer absent a specified contrast", "note": ""},
+        {"n": 7, "text": "강독 노트: 같은 생각이 「The Meaning of a Word」의 진짜 쥐 물음과 연설하는 고양이 사례에 이미 있다", "label": "지지됨", "evidence": "How would you distinguish a real rat", "note": ""}
+      ],
+      "sources_used": ["문헌/@Austin1946 Other Minds.md", "문헌/@Austin1962 Sense and Sensibilia.md", "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md", "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "1b", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "서술어는 분류하는 말이므로 교정 불가능한 감각 진술은 없다", "label": "지지됨", "evidence": "no incorrigible base", "note": ""},
+        {"n": 1, "text": "위즈덤은 '지금 나에게 빨갛게 보인다' 같은 감각 진술이 교정 불가능하다고 보았다", "label": "지지됨", "evidence": "Wisdom's incorrigible sense-statements", "note": ""},
+        {"n": 2, "text": "오스틴은 이런 진술도 확신과 망설임 사이에서 애매하다고 응수한다(magenta/mauve)", "label": "지지됨", "evidence": "ambiguous between confident and hesitant", "note": ""},
+        {"n": 3, "text": "'Any descriptive word is classificatory...'(1946: 92)", "label": "지지됨", "evidence": "Any descriptive word is classificatory", "note": ""},
+        {"n": 4, "text": "인지와 기억은 자주 불확실하므로 서술어를 쓰는 앎은 오류 가능한 분류를 포함한다", "label": "지지됨", "evidence": "memory and recognition are often uncertain", "note": ""},
+        {"n": 5, "text": "'Sensa are dumb'(1946: 97)이고 이전 경험만이 감각을 식별하게 해 준다", "label": "지지됨", "evidence": "only previous experience enables us", "note": ""},
+        {"n": 6, "text": "SEP 재구성에서 이 생각은 판단 능력이 자기 경험을 포함한 어떤 대상에도 빗나갈 수 있다는 논제로 이어진다", "label": "지지됨", "evidence": "capacities can misfire about anything", "note": "분류성에서 논제로의 이음은 카드의 연결이나 출처가 나란히 둔 두 점."},
+        {"n": 7, "text": "정독 노트: 특별히 무오류한 토대와 오류 가능한 상부구조를 나누는 토대주의가 무너진다", "label": "지지됨", "evidence": "no specially infallible foundations", "note": ""}
+      ],
+      "sources_used": ["문헌/@Austin1946 Other Minds.md", "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md", "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "1c", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "SEP는 착각 논증을 다섯 단계로 재구성하고 오스틴은 각 단계를 반박한다", "label": "지지됨", "evidence": "Austin objects to every step", "note": ""},
+        {"n": 1, "text": "착각 논증은 감각자료 이론을 지지하는 대표 논증('we never directly perceive...')", "label": "지지됨", "evidence": "we never directly perceive material", "note": ""},
+        {"n": 2, "text": "S&S의 상대는 에이어의 『Foundations of Empirical Knowledge』와 프라이스(프로젝트 지침)", "label": "지지됨", "evidence": "S&S↔Ayer·Price", "note": "지침은 'Price'만 적고 H. H.는 적지 않음."},
+        {"n": 3, "text": "다섯 단계 (i)~(v) 재구성", "label": "지지됨", "evidence": "Indiscriminability principle", "note": ""},
+        {"n": 4, "text": "오스틴은 '물질적 사물', '감각자료', 특히 '직접'에 안정된 뜻이 없다고 지적한다", "label": "지지됨", "evidence": "especially directly", "note": ""}
+      ],
+      "sources_used": ["문헌/@Longworth SEP John Langshaw Austin.md", "문헌/@Austin1962 Sense and Sensibilia.md", "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md", "_원자료/로컬/Reading J.L Austin/00_프로젝트_지침.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "1d", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "진술의 참은 발화 상황과 목적에 따라 달라진다", "label": "지지됨", "evidence": "different intents and purposes", "note": ""},
+        {"n": 1, "text": "「Truth」(1950): 지시 규약이 연결한 상황이 기술 규약의 유형에 속할 때 참", "label": "지지됨", "evidence": "particular state of affairs it is hooked", "note": ""},
+        {"n": 2, "text": "각주 'sufficiently like those standard states'와 'in calling them the same colour a convention'", "label": "지지됨", "evidence": "a convention is involved", "note": ""},
+        {"n": 3, "text": "분류에는 판단이 개입하고 같은 상황이 목적에 따라 유형에 속하기도 안 하기도 한다", "label": "지지됨", "evidence": "for some purposes and not others", "note": ""},
+        {"n": 4, "text": "래글런 경 사례: 교과서에서는 받아들일 만하나 역사 연구서에서는 아니다", "label": "지지됨", "evidence": "fine in a schoolbook, but not in", "note": ""},
+        {"n": 5, "text": "래글런 사례는 HTDTW의 것으로 보인다(서지 확인 필요)", "label": "판단 불가", "evidence": "", "note": "정독 노트는 출전을 적지 않고 상황 민감성이 HTDTW에서 더 밀려간다고만 함. 카드가 추정임을 밝혀 두었고 출처로 확인할 수 없음."},
+        {"n": 6, "text": "「Truth」에서 비슷한 예는 웰링턴이 워털루에서 이겼다는 진술이며 §5 'in different ways on different occasions'", "label": "지지됨", "evidence": "Wellington won the battle of Waterloo", "note": ""},
+        {"n": 7, "text": "'Sentences as such are not either true or false'(1962a: 110–111)를 같은 생각의 정식으로 인용", "label": "지지됨", "evidence": "Sentences as such are not either", "note": ""},
+        {"n": 8, "text": "정독 노트는 이 대목을 트래비스 상황 민감성의 단초로 읽는다", "label": "지지됨", "evidence": "the Travis seed, now explicit", "note": ""}
+      ],
+      "sources_used": ["문헌/@Longworth SEP John Langshaw Austin.md", "문헌/@Austin1962 Sense and Sensibilia.md", "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md", "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "2b", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "오도는 indicating으로 설명되므로 표상주의를 지지하지 않는다", "label": "지지됨", "evidence": "오도하는 경험은 indicating으로 설명", "note": ""},
+        {"n": 1, "text": "취한 시드의 예로 세 관계를 구별하고, 해고에서 비롯한 술 취함은 해고를 factively mean한다", "label": "지지됨", "evidence": "A factively means B → A이면 B", "note": ""},
+        {"n": 2, "text": "합당하게 기대할 수 있으면 indicate하고 이번 원인이 달라도 indicating은 성립한다", "label": "지지됨", "evidence": "여전히 indicate한다", "note": ""},
+        {"n": 3, "text": "피아의 '시드가 해고당했다'는 representation이며 성격은 commitment로 정해진다", "label": "지지됨", "evidence": "Pia가 무엇에 대해 책임을 지는가", "note": ""},
+        {"n": 4, "text": "indicating은 사실과 어긋날 수 있어 오도 현상은 indicating만으로 설명된다", "label": "지지됨", "evidence": "더 적은 자원으로 같은 현상이 설명", "note": ""},
+        {"n": 5, "text": "뮐러-라이어는 실제 look, 통상 패턴, 어긋남, 잘못된 결론으로 설명된다(대화 속 설명)", "label": "지지됨", "evidence": "이 네 단계로 충분히 설명된다", "note": ""},
+        {"n": 6, "text": "'That is no proof that they are not.'로 결론 강도를 스스로 제한", "label": "지지됨", "evidence": "That is no proof that they are not", "note": ""},
+        {"n": 7, "text": "§2는 표상 없이 오도를 설명하고 표상 부재 논증은 §3 이후에 맡긴다", "label": "지지됨", "evidence": "Section 3-4의 몫이다", "note": ""}
+      ],
+      "sources_used": ["문헌/@Travis2004 The Silence of the Senses.md", "_원자료/claude.ai/chats/2026-05-25_첫 챕터부터 차근차근 공부하기.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "2c", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "트래비스는 looks에서 looking like와 looking as if를 구별한다", "label": "지지됨", "evidence": "'looks'의 두 개념을 차례로 검토", "note": ""},
+        {"n": 1, "text": "looks-indexing 검증에 'looks'가 무엇인지 정해야 하고 일상 어휘에 두 개념이 압축되어 있다", "label": "지지됨", "evidence": "두 개념을 동일한 어구로 표현", "note": ""},
+        {"n": 2, "text": "LL: X가 Y라면 보일 방식대로 보인다는 뜻이며 demonstrable look이라 부른다", "label": "지지됨", "evidence": "Y가 보일 방식대로 보인다", "note": ""},
+        {"n": 3, "text": "피아가 자매처럼, 판 메이헤런 그림이 페르메이르처럼 보이는 일은 Y라는 결론을 함축하지 않는다", "label": "지지됨", "evidence": "Vermeer 그림이 보일 방식대로", "note": ""},
+        {"n": 4, "text": "LAI는 'It looks like it is a lemon'처럼 그것이 Y임을 시사하는 어법", "label": "지지됨", "evidence": "그것이 Y임을 시사하는 어법", "note": ""},
+        {"n": 5, "text": "밀랍 레몬은 레몬처럼 보이고, 위작임을 아는 사람의 'It looks as if it is a Vermeer'는 거짓", "label": "지지됨", "evidence": "말하면 거짓이다", "note": ""},
+        {"n": 6, "text": "§4는 LAI의 face value 고정이 indicating에 기대고 맥도웰의 ostensible seeing을 혼합 개념으로 비판한다(대화 속 설명)", "label": "지지됨", "evidence": "ostensible seeing ... 섞은 것", "note": ""},
+        {"n": 7, "text": "원자료의 정독은 §3에서 멈추었으므로 §4 논증은 원문으로 다시 확인해야 한다", "label": "지지됨", "evidence": "정독 범위: 도입부터 §3까지", "note": ""}
+      ],
+      "sources_used": ["문헌/@Travis2004 The Silence of the Senses.md", "_원자료/claude.ai/chats/2026-05-25_첫 챕터부터 차근차근 공부하기.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "3e3", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "과학적 설명의 동기만으로는 셀라스의 감각이 헛도는 바퀴라고 논한다", "label": "지지됨", "evidence": "The sensations look like idle wheels", "note": ""},
+        {"n": 1, "text": "셀라스는 시각 경험에 빨강의 감각 같은 비개념적 에피소드가 있음이 분명하다고 말한다", "label": "지지됨", "evidence": "Sellars simply says this is clear", "note": ""},
+        {"n": 2, "text": "개념적 에피소드는 이미 시각 의식의 형태이므로 감각을 덧붙일 필요가 없다", "label": "지지됨", "evidence": "shapings of visual consciousness", "note": ""},
+        {"n": 3, "text": "EPM의 동기는 진짜 봄, 착시, 환각이 같은 주장을 담는 이유의 과학적 설명", "label": "지지됨", "evidence": "genuine seeing, illusion, hallucination", "note": ""},
+        {"n": 4, "text": "맥도웰은 망막 이미지 같은 근접 원인의 유사성으로 충분하다고 본다", "label": "지지됨", "evidence": "proximate causes — retinal images", "note": ""},
+        {"n": 5, "text": "'The sensations look like idle wheels'(§5)", "label": "지지됨", "evidence": "The sensations look like idle wheels", "note": ""}
+      ],
+      "sources_used": ["문헌/@McDowell1998 Sellars on Perceptual Experience.md", "_원자료/로컬/Having the world in view/walkthrough/essay-01-sellars-on-perceptual-experience.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "3f", "voice": "문헌", "verdict": "원문없음",
+      "claims": [
+        {"n": 0, "text": "맥도웰은 소여됨을 필요한 능력 없이 앎을 위해 무언가를 받는 일로 정의한다", "label": "지지됨", "evidence": "앎에 필요한 능력 없이 앎을 위해 받는", "note": ""},
+        {"n": 1, "text": "셀라스는 소여의 신화라는 이름을 붙였지만 일반적인 말로 설명하지 않았다", "label": "지지됨", "evidence": "일반적인 말로 설명하지 않았다(§1)", "note": ""},
+        {"n": 2, "text": "소여됨은 비정합적이고 신화는 특정 능력이 필요함을 놓칠 때 빠지는 함정", "label": "지지됨", "evidence": "그래서 비정합적이다", "note": "함정 표현은 정의의 바꿔 쓰기로 봄."},
+        {"n": 3, "text": "셀라스의 격언상 이성 능력 없이 감성만으로 인식에 내놓을 수 있다는 생각은 신화의 한 형태", "label": "지지됨", "evidence": "감성만으로 ... 신화의 한 형태", "note": ""},
+        {"n": 4, "text": "맥도웰은 이 결론이 칸트의 기본 교설과 일치한다고 본다", "label": "원문에 없음", "evidence": "", "note": "문헌 노트의 §1~§2 논증(1~2번)에 칸트 언급이 없고 칸트는 §5~§6 직관 대목에만 나옴. Grep: 칸트, 교설, doctrine."},
+        {"n": 5, "text": "'Avoiding the Myth requires capacities that belong to reason...'(§2)", "label": "지지됨", "evidence": "capacities that belong to reason", "note": ""},
+        {"n": 6, "text": "이 요구가 이성 없는 동물의 앎을 부정하지 않으며 이성적 동물의 독특한 앎에 관한 것이라고 덧붙인다(§1)", "label": "원문에 없음", "evidence": "", "note": "문헌 노트에 해당 서술 없음. '동물'은 톰슨의 생명 판단(§5)에서만 나옴. Grep: 동물, animal."}
+      ],
+      "sources_used": ["문헌/@McDowell2008 Avoiding the Myth of the Given.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "3f3", "voice": "문헌", "verdict": "원문없음",
+      "claims": [
+        {"n": 0, "text": "맥도웰은 직관적 내용으로 트래비스식 소여와 데이비슨의 응답을 함께 피한다", "label": "지지됨", "evidence": "함께 감당할 수 있는 경험 개념", "note": ""},
+        {"n": 1, "text": "트래비스는 경험이 사물을 그러하다고 표상하지 않는다고 주장한다", "label": "지지됨", "evidence": "경험은 사물을 그러하다고 표상하지 않는다", "note": ""},
+        {"n": 2, "text": "경험이 직관이라면 이 주장은 문자로는 옳고 정신으로는 틀리다", "label": "지지됨", "evidence": "문자로는 옳고 정신으로는 틀리다", "note": ""},
+        {"n": 3, "text": "직관은 판단에서 바로 재사용할 수 있는 내용을 지닌다", "label": "부분 지지", "evidence": "직관 내용 일부를 판단에서 재사용", "note": "출처(§7)는 '일부'를 재사용한다고 하며, 직관이 앎을 가능하게 하는 두 방식 가운데 하나. '바로'는 없음."},
+        {"n": 4, "text": "직관은 사물을 판단될 모습 그대로 드러내기 때문에(위 평가의 이유)", "label": "원문에 없음", "evidence": "", "note": "문헌 노트에 '판단될 모습 그대로'나 위 평가의 이유 서술 없음. Grep: 그대로, 재사용."},
+        {"n": 5, "text": "같은 의미에서 셀라스가 경험이 주장을 담는다고 한 말은 문자로는 틀리고 정신으로는 옳다", "label": "원문에 없음", "evidence": "", "note": "이 카드의 유일한 출처인 2008 문헌 노트에 셀라스 평가가 없음(3e2의 1998 독해만 연결에 언급). Grep: 문자로는, 주장을 담."},
+        {"n": 6, "text": "트래비스의 그림에서는 감성만으로 제공되므로 'givenness becomes a case of Givenness'(§8)", "label": "지지됨", "evidence": "givenness becomes a case of Givenness", "note": ""},
+        {"n": 7, "text": "데이비슨은 경험이 명제적 내용을 가지면 환경의 영향으로 야기된 '그렇다고 여김'일 뿐이라 응답했고 맥도웰은 명제적이라 가정하는 한 설득력을 인정한다", "label": "부분 지지", "evidence": "데이비슨의 응답이 설득력을 얻는다", "note": "'환경의 영향으로 야기된'은 문헌 노트에 없음. 나머지는 지지."},
+        {"n": 8, "text": "직관은 감성만으로 작동하지 않아 트래비스식 신화를 피하고 비명제적이라 경험을 '여김'과 같게 하지 않는다", "label": "지지됨", "evidence": "감성만으로 제공되지 않는다", "note": ""},
+        {"n": 9, "text": "직관은 환경을 시야에 들여와 그러하다고 여길 자격을 주며 'whether we do is a further question'(§9)", "label": "지지됨", "evidence": "whether we do is a further question", "note": ""}
+      ],
+      "sources_used": ["문헌/@McDowell2008 Avoiding the Myth of the Given.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "4a", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "맥도웰은 지각의 근본 물음이 정당하며 트래비스가 이를 놓친다고 응수한다", "label": "지지됨", "evidence": "Travis is oblivious to it", "note": ""},
+        {"n": 1, "text": "옆에서 보는 관점에서 예화 가능성을 묻는 물음이 나쁜 물음이라는 데 트래비스와 동의한다", "label": "지지됨", "evidence": "he agrees the sideways-on", "note": ""},
+        {"n": 2, "text": "이와 구별해 지각이 세계를 우리가 생각할 바에 합리적으로 관련짓는가라는 근본 물음을 세운다", "label": "지지됨", "evidence": "fundamental question of perception", "note": ""},
+        {"n": 3, "text": "이 물음에는 답해야 할 사안이 있고 트래비스는 이를 놓친다('Travis is oblivious to it')", "label": "지지됨", "evidence": "at least a case to answer", "note": ""},
+        {"n": 4, "text": "칸트 슬로건에 기댄 초월론적 설명으로 답하며 지각이 어떻게 구성되어야 하는지를 밝힌다", "label": "지지됨", "evidence": "how-it-must-be-constituted story", "note": ""},
+        {"n": 5, "text": "초월론적 원리는 사고가 진정한 사고이기 위한 조건이고 회의주의를 막는 정당화는 트래비스의 방식", "label": "지지됨", "evidence": "that way round: not, as in Travis's", "note": ""}
+      ],
+      "sources_used": ["문헌/@McDowell2018 Travis on Frege, Kant, and the Given.md", "_원자료/로컬/Walkthrough/Walkthrough_Notes/03_Discussion_Travis-McDowell-Cavell.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "4b", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "트래비스는 예화가 진리를 부여한다는 점으로 증거의 도그마를 반박한다", "label": "지지됨", "evidence": "진리를 전달하지 않고 부여(confer)", "note": ""},
+        {"n": 1, "text": "awareness에서 awareness-that으로의 이행이 the Move, 도움 없이는 불가능하다는 주장이 the Myth", "label": "지지됨", "evidence": "the Move라 하고 ... the Myth라 하며", "note": ""},
+        {"n": 2, "text": "뿌리에 증거의 유일한 형식이 진리 전달이라는 도그마가 있다고 진단", "label": "지지됨", "evidence": "도그마를 신화의 뿌리로 진단", "note": ""},
+        {"n": 3, "text": "지각 대상은 참거짓이 없으므로 도그마를 받으면 지각은 증거를 시작할 수 없다", "label": "지지됨", "evidence": "지각 awareness는 증거를 시작할 수 없고", "note": ""},
+        {"n": 4, "text": "증거 필요와 대상의 비진리성은 인정하고 도그마만 공격한다", "label": "지지됨", "evidence": "P2만 반례관계로 친다", "note": ""},
+        {"n": 5, "text": "역사적인 것과 개념적인 것을 범주적으로 구분하고 예화라는 범주 횡단 관계를 내세운다", "label": "지지됨", "evidence": "횡-범주적이고 Move가 가로지른다", "note": ""},
+        {"n": 6, "text": "왼훅 예: 주먹이 그렇게 던져진 사건이 '왼훅이 던져졌다'를 참이 되게 하며 진리를 부여하고 재인 가능", "label": "지지됨", "evidence": "진리를 부여(confer)", "note": ""},
+        {"n": 7, "text": "증거 개념을 진리 부여까지 넓히면 도그마는 근거를 잃고 신화 고발도 힘을 잃는다", "label": "지지됨", "evidence": "Dogma는 한낱 도그마, Myth는", "note": ""}
+      ],
+      "sources_used": ["문헌/@Travis2018 The Move, the Divide, the Myth, and its Dogma.md", "_원자료/claude.ai/chats/2026-06-05_두 주장 비교 분석.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "4c", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "트래비스는 맥도웰의 개념적 내용이 불필요하거나 퇴행을 낳는다고 논증한다", "label": "지지됨", "evidence": "내용은 불필요이거나 악순환", "note": ""},
+        {"n": 1, "text": "맥도웰에 따르면 Pia의 경험은 F, G, H인 K가 있다는 내용을 지니고 이것이 판단할 자격을 준다", "label": "지지됨", "evidence": "이것이 Pia에게 권리를 ... 준다", "note": ""},
+        {"n": 2, "text": "트래비스는 받을 능력 없는 자에게는 줄 수 없다는 맥도웰의 원칙을 맥도웰에게 돌린다", "label": "지지됨", "evidence": "맥다월 자신의 dictum을 지렛대로", "note": ""},
+        {"n": 3, "text": "내용이 도우려면 K임이 무엇인지 파악해야 하고 그것은 K의 사례를 재인하는 능력을 포함한다", "label": "지지됨", "evidence": "K의 사례를 재인할 능력을 포함", "note": ""},
+        {"n": 4, "text": "능력이 있으면 너무 늦어 불필요, 없으면 도울 수 없고, 다른 내용을 덧붙이면 퇴행", "label": "지지됨", "evidence": "추가 내용 ... 악순환이 시작된다", "note": ""},
+        {"n": 5, "text": "경험이 그 내용을 지님을 재인하는 일도 역사의 한 조각이라 또 한 번의 Move를 요구한다", "label": "지지됨", "evidence": "또 한 번의 Move다", "note": ""},
+        {"n": 6, "text": "진짜 신화는 개념적인 것의 자율성(p.56)이며 방식 파악이 예화 재인 능력과 따로 성립한다는 생각", "label": "지지됨", "evidence": "독립적으로 식별되어", "note": ""}
+      ],
+      "sources_used": ["문헌/@Travis2018 The Move, the Divide, the Myth, and its Dogma.md", "_원자료/claude.ai/chats/2026-06-05_두 주장 비교 분석.md", "_원자료/로컬/Walkthrough/Walkthrough_Notes/03_Discussion_Travis-McDowell-Cavell.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "4f", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "트래비스의 너무 늦음 논증은 맥도웰의 내용을 분리 가능한 항목으로 다룬다", "label": "지지됨", "evidence": "내용을 분리 가능한 항목으로 다뤄야", "note": ""},
+        {"n": 1, "text": "트래비스는 §9에서 awareness와 내용으로 인수분해되지 않는 전체라는 골격적 생각에 공감하고 맥도웰 테제와 독립적이라 주장", "label": "지지됨", "evidence": "맥다월의 특정 테제와 독립적", "note": ""},
+        {"n": 2, "text": "§5에서 퇴행이 생기려면 맥도웰의 내용이 경험에 덧붙는 분리 가능한 항목이어야 한다", "label": "지지됨", "evidence": "분리 가능한 항목으로 다뤄야 퇴행이", "note": ""},
+        {"n": 3, "text": "맥도웰의 실제 입장이 비인수분해적이라면 §5가 실제 표적에 닿는지가 문제로 남는다", "label": "지지됨", "evidence": "진짜 표적을 맞히는지 자체가 문제", "note": ""},
+        {"n": 4, "text": "2026-06-05 대화의 정리는 이 긴장을 트래비스 내부에서 가장 흥미로운 긴장으로 꼽는다", "label": "지지됨", "evidence": "가장 흥미로운 긴장입니다", "note": ""},
+        {"n": 5, "text": "같은 정리는 개념 파악=재인 능력 동일성, Wallage 물음에 신뢰성 점검으로 답한 일, 재인 순간 이미 개념이 행사된다는 점을 압력점으로 든다", "label": "지지됨", "evidence": "개념 파악 = 사례 재인 능력", "note": ""},
+        {"n": 6, "text": "정리에 따르면 압력점들은 재인이 별도 행위인지 awareness가 이미 개념적인지라는 한 물음으로 모이고 두 사람은 거기서 갈린다(대화 속 설명)", "label": "부분 지지", "evidence": "재인이 개념을 밀반입하는가", "note": "압력점 2와 5, 대결의 핵심(3)은 이 물음을 가리키나 '압력점들이 한 물음으로 모인다'는 서술은 없다. Wallage 점(4)은 합리적 지위 물음이라 다름. 카드의 종합."}
+      ],
+      "sources_used": ["문헌/@Travis2018 The Move, the Divide, the Myth, and its Dogma.md", "_원자료/claude.ai/chats/2026-06-05_두 주장 비교 분석.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "4i", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "Gauker는 보인다 화법이 지각의 정당화 역할을 보여 주지 못한다고 논증한다", "label": "지지됨", "evidence": "never licenses perceptions justify beliefs", "note": ""},
+        {"n": 1, "text": "Mind and World 이후 지각이 믿음을 정정당화한다는 정설을 겨냥한다", "label": "지지됨", "evidence": "orthodoxy that gained steam with MW", "note": "카드의 '정당화한다'는 정설 표현과 일치."},
+        {"n": 2, "text": "메타 논증: P1 좋은 논증, P2 전제가 지각 내용을 보고, P3 결론이 믿음 내용을 보고", "label": "지지됨", "evidence": "P2: The premise reports perceptual content", "note": ""},
+        {"n": 3, "text": "P2를 참으로 만들려면 '보인다'를 '시각적으로 나타난다'라는 양상 연산자로 읽어야 한다", "label": "지지됨", "evidence": "special modality ... visually appears", "note": ""},
+        {"n": 4, "text": "그 독법에서 다섯 가지 지지 방식이 모두 실패하여 P1이 거짓이다", "label": "지지됨", "evidence": "P1 is false if P2 is true", "note": ""},
+        {"n": 5, "text": "셀라스 넥타이 가게를 이어받아 반사실적 진술로 읽으면 P1은 참이나 P2가 거짓", "label": "지지됨", "evidence": "the premise reports a counterfactual", "note": ""},
+        {"n": 6, "text": "그래서 메타 논증은 어느 독법에서도 성립하지 않는다", "label": "지지됨", "evidence": "Either way the meta-argument collapses", "note": ""},
+        {"n": 7, "text": "Gauker는 지각이 비개념적 내용을 가진다고 보며 개념주의 표준 논증 하나를 제거하려 한다", "label": "지지됨", "evidence": "deny the antecedent ... nonconceptual", "note": ""}
+      ],
+      "sources_used": ["문헌/@Gauker2018 Do Perceptions Justify Beliefs.md", "_원자료/로컬/Walkthrough/Walkthrough_Notes/05_Gauker_Do-Perceptions-Justify-Beliefs.md", "문헌/@Sellars1956 Empiricism and the Philosophy of Mind.md"],
+      "sources_missing": []
+    }
+  ]
+}

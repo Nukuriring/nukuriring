@@ -1,0 +1,56 @@
+{
+ "id": "3e3",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "과학적 설명의 동기만으로는 셀라스의 감각이 헛도는 바퀴라고 논한다",
+   "label": "지지됨",
+   "evidence": "The sensations look like idle wheels",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "셀라스는 시각 경험에 빨강의 감각 같은 비개념적 에피소드가 있음이 분명하다고 말한다",
+   "label": "지지됨",
+   "evidence": "Sellars simply says this is clear",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "개념적 에피소드는 이미 시각 의식의 형태이므로 감각을 덧붙일 필요가 없다",
+   "label": "지지됨",
+   "evidence": "shapings of visual consciousness",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "EPM의 동기는 진짜 봄, 착시, 환각이 같은 주장을 담는 이유의 과학적 설명",
+   "label": "지지됨",
+   "evidence": "genuine seeing, illusion, hallucination",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "맥도웰은 망막 이미지 같은 근접 원인의 유사성으로 충분하다고 본다",
+   "label": "지지됨",
+   "evidence": "proximate causes — retinal images",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "'The sensations look like idle wheels'(§5)",
+   "label": "지지됨",
+   "evidence": "The sensations look like idle wheels",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@McDowell1998 Sellars on Perceptual Experience.md",
+  "_원자료/로컬/Having the world in view/walkthrough/essay-01-sellars-on-perceptual-experience.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

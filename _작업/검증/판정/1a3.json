@@ -1,0 +1,65 @@
+{
+ "id": "1a3",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "감각과 지성이 오류 가능해도 앎이 가능하다",
+   "label": "지지됨",
+   "evidence": "inherently fallible and delusive",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "오스틴은 'If I know, I can't be wrong'에 끌리면서도 그대로 지지하지 않는다",
+   "label": "지지됨",
+   "evidence": "never quite endorses it",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "SEP: 'I know it is so, but I may be wrong'을 금하는 규칙으로 해석하는 데까지 동의",
+   "label": "지지됨",
+   "evidence": "a ban on saying",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "같은 능력과 상황에서 틀린 판정이 불가능해야 한다는 양상적 요구를 거부",
+   "label": "지지됨",
+   "evidence": "that would make knowledge impossible",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "'inherently fallible and delusive, but not inveterately so'(1946: 98)와 기계 비유",
+   "label": "지지됨",
+   "evidence": "good machines don't (often)",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "within my cognisance는 현재와 과거에 관한 것이고 미래는 믿음만 요구되며 새가 폭발하면 할 말을 잃는다",
+   "label": "지지됨",
+   "evidence": "words literally fail us",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "SEP는 오류가능주의가 수행적 해석과 긴장 관계에 있다고 지적한다",
+   "label": "지지됨",
+   "evidence": "fallibilism ... in tension with",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Austin1946 Other Minds.md",
+  "문헌/@Longworth SEP John Langshaw Austin.md",
+  "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md",
+  "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

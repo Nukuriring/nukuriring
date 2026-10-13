@@ -1,0 +1,70 @@
+{
+ "id": "2b",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "오도는 indicating으로 설명되므로 표상주의를 지지하지 않는다",
+   "label": "지지됨",
+   "evidence": "오도하는 경험은 indicating으로 설명",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "취한 시드의 예로 세 관계를 구별하고, 해고에서 비롯한 술 취함은 해고를 factively mean한다",
+   "label": "지지됨",
+   "evidence": "A factively means B → A이면 B",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "합당하게 기대할 수 있으면 indicate하고 이번 원인이 달라도 indicating은 성립한다",
+   "label": "지지됨",
+   "evidence": "여전히 indicate한다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "피아의 '시드가 해고당했다'는 representation이며 성격은 commitment로 정해진다",
+   "label": "지지됨",
+   "evidence": "Pia가 무엇에 대해 책임을 지는가",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "indicating은 사실과 어긋날 수 있어 오도 현상은 indicating만으로 설명된다",
+   "label": "지지됨",
+   "evidence": "더 적은 자원으로 같은 현상이 설명",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "뮐러-라이어는 실제 look, 통상 패턴, 어긋남, 잘못된 결론으로 설명된다(대화 속 설명)",
+   "label": "지지됨",
+   "evidence": "이 네 단계로 충분히 설명된다",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "'That is no proof that they are not.'로 결론 강도를 스스로 제한",
+   "label": "지지됨",
+   "evidence": "That is no proof that they are not",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "§2는 표상 없이 오도를 설명하고 표상 부재 논증은 §3 이후에 맡긴다",
+   "label": "지지됨",
+   "evidence": "Section 3-4의 몫이다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Travis2004 The Silence of the Senses.md",
+  "_원자료/claude.ai/chats/2026-05-25_첫 챕터부터 차근차근 공부하기.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

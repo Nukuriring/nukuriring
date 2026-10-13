@@ -1,0 +1,72 @@
+{
+ "id": "1a5",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "진짜라는 말은 특정한 대조 아래에서만 뜻을 얻는다",
+   "label": "지지됨",
+   "evidence": "has no answer absent a specified contrast",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "철학자의 도전: 진짜 goldfinch인가, 꿈은 아닌가, 박제는 아닌가",
+   "label": "지지됨",
+   "evidence": "Do you know it's a real goldfinch?",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "이 의심에도 가짜일 수 있는 특정한 방식이라는 근거가 있어야 한다",
+   "label": "지지됨",
+   "evidence": "must have a special basis",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "맥락이 그 방식을 정한다: goldfinch는 박제, 오아시스는 신기루",
+   "label": "지지됨",
+   "evidence": "goldfinch→stuffed ... oasis→mirage",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "'The wile of the metaphysician...'는 무엇이 잘못일 수 있는지 밝히지 않는 물음의 규정",
+   "label": "지지됨",
+   "evidence": "not specifying what may be wrong",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "SEP 경유: 'real'은 뒤따르는 명사를 요구하고 대조에서 뜻을 얻으며 부정형이 주도한다(wears the trousers)",
+   "label": "지지됨",
+   "evidence": "substantive-hungry, trouser word",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "대조가 지정되지 않으면 '진짜 사물을 지각하는가'는 답이 없다",
+   "label": "지지됨",
+   "evidence": "has no answer absent a specified contrast",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "강독 노트: 같은 생각이 「The Meaning of a Word」의 진짜 쥐 물음과 연설하는 고양이 사례에 이미 있다",
+   "label": "지지됨",
+   "evidence": "How would you distinguish a real rat",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Austin1946 Other Minds.md",
+  "문헌/@Austin1962 Sense and Sensibilia.md",
+  "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md",
+  "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

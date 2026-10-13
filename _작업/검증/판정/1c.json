@@ -1,0 +1,51 @@
+{
+ "id": "1c",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "SEP는 착각 논증을 다섯 단계로 재구성하고 오스틴은 각 단계를 반박한다",
+   "label": "지지됨",
+   "evidence": "Austin objects to every step",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "착각 논증은 감각자료 이론을 지지하는 대표 논증('we never directly perceive...')",
+   "label": "지지됨",
+   "evidence": "we never directly perceive material",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "S&S의 상대는 에이어의 『Foundations of Empirical Knowledge』와 프라이스(프로젝트 지침)",
+   "label": "지지됨",
+   "evidence": "S&S↔Ayer·Price",
+   "note": "지침은 'Price'만 적고 H. H.는 적지 않음."
+  },
+  {
+   "n": 3,
+   "text": "다섯 단계 (i)~(v) 재구성",
+   "label": "지지됨",
+   "evidence": "Indiscriminability principle",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "오스틴은 '물질적 사물', '감각자료', 특히 '직접'에 안정된 뜻이 없다고 지적한다",
+   "label": "지지됨",
+   "evidence": "especially directly",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Longworth SEP John Langshaw Austin.md",
+  "문헌/@Austin1962 Sense and Sensibilia.md",
+  "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md",
+  "_원자료/로컬/Reading J.L Austin/00_프로젝트_지침.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

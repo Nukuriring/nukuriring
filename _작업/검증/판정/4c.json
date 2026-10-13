@@ -1,0 +1,64 @@
+{
+ "id": "4c",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "트래비스는 맥도웰의 개념적 내용이 불필요하거나 퇴행을 낳는다고 논증한다",
+   "label": "지지됨",
+   "evidence": "내용은 불필요이거나 악순환",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "맥도웰에 따르면 Pia의 경험은 F, G, H인 K가 있다는 내용을 지니고 이것이 판단할 자격을 준다",
+   "label": "지지됨",
+   "evidence": "이것이 Pia에게 권리를 ... 준다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "트래비스는 받을 능력 없는 자에게는 줄 수 없다는 맥도웰의 원칙을 맥도웰에게 돌린다",
+   "label": "지지됨",
+   "evidence": "맥다월 자신의 dictum을 지렛대로",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "내용이 도우려면 K임이 무엇인지 파악해야 하고 그것은 K의 사례를 재인하는 능력을 포함한다",
+   "label": "지지됨",
+   "evidence": "K의 사례를 재인할 능력을 포함",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "능력이 있으면 너무 늦어 불필요, 없으면 도울 수 없고, 다른 내용을 덧붙이면 퇴행",
+   "label": "지지됨",
+   "evidence": "추가 내용 ... 악순환이 시작된다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "경험이 그 내용을 지님을 재인하는 일도 역사의 한 조각이라 또 한 번의 Move를 요구한다",
+   "label": "지지됨",
+   "evidence": "또 한 번의 Move다",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "진짜 신화는 개념적인 것의 자율성(p.56)이며 방식 파악이 예화 재인 능력과 따로 성립한다는 생각",
+   "label": "지지됨",
+   "evidence": "독립적으로 식별되어",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Travis2018 The Move, the Divide, the Myth, and its Dogma.md",
+  "_원자료/claude.ai/chats/2026-06-05_두 주장 비교 분석.md",
+  "_원자료/로컬/Walkthrough/Walkthrough_Notes/03_Discussion_Travis-McDowell-Cavell.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

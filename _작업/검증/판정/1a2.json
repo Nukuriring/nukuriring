@@ -1,0 +1,73 @@
+{
+ "id": "1a2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "안다고 말하는 일은 약속처럼 자기 말과 권위를 내주는 일이다",
+   "label": "지지됨",
+   "evidence": "I give others my authority for saying",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "'아주 확실하다'와 '안다'의 차이는 '굳게 의도한다'와 '약속한다'의 차이와 같다",
+   "label": "지지됨",
+   "evidence": "I firmly and irrevocably intend",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "확신의 척도에 아주 확실함보다 높은 단계가 없고 '안다'는 척도 바깥의 발화(1946: 99)",
+   "label": "지지됨",
+   "evidence": "nothing in that scale superior",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "'When I say I know, I give others my word...' 정식화",
+   "label": "지지됨",
+   "evidence": "I give others my word",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "듣는 사람은 기댈 자격을 얻고 거부하면 특별한 방식으로 모욕하게 된다",
+   "label": "지지됨",
+   "evidence": "insult me in a special way",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "권위는 전해질 수 있고 구체적으로 불신할 이유가 없는 한 타인을 신뢰할 자격이 있다",
+   "label": "지지됨",
+   "evidence": "except ... concrete reason to distrust",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "'나는 안다'를 기술로 여기는 일은 기술주의적 오류의 한 사례",
+   "label": "지지됨",
+   "evidence": "only one example of the descriptive fallacy",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "브렘너는 오스틴이 순수 수행문으로 규정한 적 없다고 읽고 고전적 반론에 답한다(해설 노트 설명)",
+   "label": "지지됨",
+   "evidence": "Austin never calls it a pure performative",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Austin1946 Other Minds.md",
+  "문헌/@Longworth SEP John Langshaw Austin.md",
+  "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md",
+  "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md",
+  "_원자료/로컬/Integrating Transparency/WITTGENSTEIN_AUSTIN_moves.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

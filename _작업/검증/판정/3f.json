@@ -1,0 +1,62 @@
+{
+ "id": "3f",
+ "voice": "문헌",
+ "verdict": "원문없음",
+ "claims": [
+  {
+   "n": 0,
+   "text": "맥도웰은 소여됨을 필요한 능력 없이 앎을 위해 무언가를 받는 일로 정의한다",
+   "label": "지지됨",
+   "evidence": "앎에 필요한 능력 없이 앎을 위해 받는",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "셀라스는 소여의 신화라는 이름을 붙였지만 일반적인 말로 설명하지 않았다",
+   "label": "지지됨",
+   "evidence": "일반적인 말로 설명하지 않았다(§1)",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "소여됨은 비정합적이고 신화는 특정 능력이 필요함을 놓칠 때 빠지는 함정",
+   "label": "지지됨",
+   "evidence": "그래서 비정합적이다",
+   "note": "함정 표현은 정의의 바꿔 쓰기로 봄."
+  },
+  {
+   "n": 3,
+   "text": "셀라스의 격언상 이성 능력 없이 감성만으로 인식에 내놓을 수 있다는 생각은 신화의 한 형태",
+   "label": "지지됨",
+   "evidence": "감성만으로 ... 신화의 한 형태",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "맥도웰은 이 결론이 칸트의 기본 교설과 일치한다고 본다",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "문헌 노트의 §1~§2 논증(1~2번)에 칸트 언급이 없고 칸트는 §5~§6 직관 대목에만 나옴. Grep: 칸트, 교설, doctrine."
+  },
+  {
+   "n": 5,
+   "text": "'Avoiding the Myth requires capacities that belong to reason...'(§2)",
+   "label": "지지됨",
+   "evidence": "capacities that belong to reason",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "이 요구가 이성 없는 동물의 앎을 부정하지 않으며 이성적 동물의 독특한 앎에 관한 것이라고 덧붙인다(§1)",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "문헌 노트에 해당 서술 없음. '동물'은 톰슨의 생명 판단(§5)에서만 나옴. Grep: 동물, animal."
+  }
+ ],
+ "sources_used": [
+  "문헌/@McDowell2008 Avoiding the Myth of the Given.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

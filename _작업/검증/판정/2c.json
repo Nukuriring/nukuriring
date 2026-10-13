@@ -1,0 +1,70 @@
+{
+ "id": "2c",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "트래비스는 looks에서 looking like와 looking as if를 구별한다",
+   "label": "지지됨",
+   "evidence": "'looks'의 두 개념을 차례로 검토",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "looks-indexing 검증에 'looks'가 무엇인지 정해야 하고 일상 어휘에 두 개념이 압축되어 있다",
+   "label": "지지됨",
+   "evidence": "두 개념을 동일한 어구로 표현",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "LL: X가 Y라면 보일 방식대로 보인다는 뜻이며 demonstrable look이라 부른다",
+   "label": "지지됨",
+   "evidence": "Y가 보일 방식대로 보인다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "피아가 자매처럼, 판 메이헤런 그림이 페르메이르처럼 보이는 일은 Y라는 결론을 함축하지 않는다",
+   "label": "지지됨",
+   "evidence": "Vermeer 그림이 보일 방식대로",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "LAI는 'It looks like it is a lemon'처럼 그것이 Y임을 시사하는 어법",
+   "label": "지지됨",
+   "evidence": "그것이 Y임을 시사하는 어법",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "밀랍 레몬은 레몬처럼 보이고, 위작임을 아는 사람의 'It looks as if it is a Vermeer'는 거짓",
+   "label": "지지됨",
+   "evidence": "말하면 거짓이다",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "§4는 LAI의 face value 고정이 indicating에 기대고 맥도웰의 ostensible seeing을 혼합 개념으로 비판한다(대화 속 설명)",
+   "label": "지지됨",
+   "evidence": "ostensible seeing ... 섞은 것",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "원자료의 정독은 §3에서 멈추었으므로 §4 논증은 원문으로 다시 확인해야 한다",
+   "label": "지지됨",
+   "evidence": "정독 범위: 도입부터 §3까지",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Travis2004 The Silence of the Senses.md",
+  "_원자료/claude.ai/chats/2026-05-25_첫 챕터부터 차근차근 공부하기.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

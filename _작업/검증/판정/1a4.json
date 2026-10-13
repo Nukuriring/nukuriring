@@ -1,0 +1,64 @@
+{
+ "id": "1a4",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "충분함은 목적에 상대적이고 도전은 결함을 지목해야 한다",
+   "label": "지지됨",
+   "evidence": "some more or less definite lack",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "'충분하지 않다'고 맞서는 사람은 어느 정도 특정된 결함을 염두에 두어야 하고 딱따구리 예가 그 예",
+   "label": "지지됨",
+   "evidence": "Woodpeckers have red heads too",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "'If there is no definite lack...' 인용과 'Enough is enough'(1946: 84)",
+   "label": "지지됨",
+   "evidence": "Enough is enough: it doesn't mean",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "충분함은 합리적 범위 안에서 현재 의도와 목적에 비추어 다른 것일 수 없음을 보이는 것",
+   "label": "지지됨",
+   "evidence": "within reason, and for present",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "이 기준은 박제된 goldfinch 가능성 배제 요구를 포함하지 않는다",
+   "label": "지지됨",
+   "evidence": "isn't a stuffed goldfinch",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "강독 노트는 결함을 댄 도전을 정당한 탐구로, 결함을 못 대는 의심을 회의론자의 의심으로 정리한다",
+   "label": "지지됨",
+   "evidence": "legitimate, answerable inquiry",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "정독 노트는 SEP를 따라 드레츠키 관련 대안 인식론과 루이스, 디로즈 맥락주의의 단초로 읽는다",
+   "label": "지지됨",
+   "evidence": "Seed of relevant-alternatives",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Austin1946 Other Minds.md",
+  "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md",
+  "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

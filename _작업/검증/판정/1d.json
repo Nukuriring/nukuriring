@@ -1,0 +1,79 @@
+{
+ "id": "1d",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "진술의 참은 발화 상황과 목적에 따라 달라진다",
+   "label": "지지됨",
+   "evidence": "different intents and purposes",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "「Truth」(1950): 지시 규약이 연결한 상황이 기술 규약의 유형에 속할 때 참",
+   "label": "지지됨",
+   "evidence": "particular state of affairs it is hooked",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "각주 'sufficiently like those standard states'와 'in calling them the same colour a convention'",
+   "label": "지지됨",
+   "evidence": "a convention is involved",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "분류에는 판단이 개입하고 같은 상황이 목적에 따라 유형에 속하기도 안 하기도 한다",
+   "label": "지지됨",
+   "evidence": "for some purposes and not others",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "래글런 경 사례: 교과서에서는 받아들일 만하나 역사 연구서에서는 아니다",
+   "label": "지지됨",
+   "evidence": "fine in a schoolbook, but not in",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "래글런 사례는 HTDTW의 것으로 보인다(서지 확인 필요)",
+   "label": "판단 불가",
+   "evidence": "",
+   "note": "정독 노트는 출전을 적지 않고 상황 민감성이 HTDTW에서 더 밀려간다고만 함. 카드가 추정임을 밝혀 두었고 출처로 확인할 수 없음."
+  },
+  {
+   "n": 6,
+   "text": "「Truth」에서 비슷한 예는 웰링턴이 워털루에서 이겼다는 진술이며 §5 'in different ways on different occasions'",
+   "label": "지지됨",
+   "evidence": "Wellington won the battle of Waterloo",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "'Sentences as such are not either true or false'(1962a: 110–111)를 같은 생각의 정식으로 인용",
+   "label": "지지됨",
+   "evidence": "Sentences as such are not either",
+   "note": ""
+  },
+  {
+   "n": 8,
+   "text": "정독 노트는 이 대목을 트래비스 상황 민감성의 단초로 읽는다",
+   "label": "지지됨",
+   "evidence": "the Travis seed, now explicit",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Longworth SEP John Langshaw Austin.md",
+  "문헌/@Austin1962 Sense and Sensibilia.md",
+  "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md",
+  "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
