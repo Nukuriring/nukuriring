@@ -1,0 +1,70 @@
+{
+ "id": "60d1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "버드는 존재를 본질이 함축하는 사실로 보아 힘의 존재가 더 풍부",
+   "label": "지지됨",
+   "evidence": "more to the being of essentially dispositional",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "파인식 본질론: 필연성만으로 부족, in virtue of the essence",
+   "label": "지지됨",
+   "evidence": "IN virtue of the essence of X 가 포함",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "정언 속성은 본질 사실이 많지 않고 성향적 성립은 우연",
+   "label": "지지됨",
+   "evidence": "다른 것과 DIspositional하게 성립하는 것은 우연",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "버드는 존재를 함축된 사실로 이해",
+   "label": "지지됨",
+   "evidence": "Being이 entail하는 fact에 의해 구성",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "정언 속성 F의 존재 (a)(b)(c)는 다른 속성을 포함하지 않음",
+   "label": "지지됨",
+   "evidence": "이 셋은 특정한 다른 속성을 포함하고 있지 않다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "D(S,M)은 다른 속성 포함, 성향적 성격 추가",
+   "label": "지지됨",
+   "evidence": "additional claim that they have a dispostional",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "환원되지 않으면 실재성 부족이라는 주장은 근거를 잃는다",
+   "label": "지지됨",
+   "evidence": "Reality가 부족하다고 말하기 어렵다",
+   "note": "영문 인용문이 잘려 있으나 Bird의 생각 절이 보충"
+  },
+  {
+   "n": 7,
+   "text": "세미나의 물음: 정언 속성의 양상적 사실, 사소함 구별",
+   "label": "지지됨",
+   "evidence": "사소하지 않는 양상적 특징과 사소한 양상적 특징",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "형이상학 세미나 1010 35697cdd867e8110b47bfc0ddb710db3.md",
+  "문헌/@영진2024 형이상학 세미나 1010.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,299 @@
+{
+  "model": "sonnet",
+  "date": "2026-10-13",
+  "cards": [
+    {
+      "id": "44g", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "벨먼은 욕구가 평가적 판단이므로 … 인지주의 논증을 비판한다", "label": "지지됨", "evidence": "욕구는 그 자체로 주관적 정당화력을 갖지 않는다", "note": ""},
+        {"n": 1, "text": "인지주의적 좋음의 외양 논증을 부합 방향 개념으로 재구성한 뒤 비판", "label": "지지됨", "evidence": "인지주의자는 다음과 같은 논증을 제시한다", "note": ""},
+        {"n": 2, "text": "인지주의 논증의 네 단계", "label": "지지됨", "evidence": "(1) 욕구는 세계 to 마음의 부합 방향을 가진 태도다", "note": ""},
+        {"n": 3, "text": "동기화와 합리적 행위가 같아지고 네 가지가 하나로 묶인다", "label": "지지됨", "evidence": "욕구 = 평가적 판단 = 합리적 지도 = 동기 부여", "note": ""},
+        {"n": 4, "text": "부합 방향 주장은 이유를 제공한다는 주장과 구별되어야 한다", "label": "지지됨", "evidence": "p를 실현할 이유를 제공하는 태도라는 주장과 구분", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/Proposal 35697cdd867e8194b2e4e050d22e23ad.md", "문헌/@Velleman1992 The Guise of the Good.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "44g1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "인지주의의 동기 설명은 … 딜레마를 만난다", "label": "지지됨", "evidence": "딜레마: (1) 욕구의 능력은 평가적 개념을 요구한다", "note": ""},
+        {"n": 1, "text": "인지주의는 동기 부여를 합리적 인도의 구조로 재구성하려 한다", "label": "지지됨", "evidence": "동기 부여를 합리적 Guidance의 구조로 재구성", "note": ""},
+        {"n": 2, "text": "욕구를 평가적 판단으로 보면 인과적 전환이 추론 구조가 된다", "label": "지지됨", "evidence": "내용들 사이의 논리적 추론 구조로 재구성하기", "note": ""},
+        {"n": 3, "text": "이유에 따른 모든 행위가 가치 판단에서 나와 좋음으로 정향", "label": "지지됨", "evidence": "좋음으로 정향되어 있다는 결론", "note": ""},
+        {"n": 4, "text": "평가적 개념을 요구하면 과도하게 지성화된다", "label": "지지됨", "evidence": "욕구의 Over intellectualizing", "note": ""},
+        {"n": 5, "text": "데이빗슨은 이 뿔을 피하려 한다", "label": "지지됨", "evidence": "데이빗슨은 이를 … 피하려고 한다", "note": ""},
+        {"n": 6, "text": "담지 않으면 욕구는 실천 추론의 전제로 기능하지 못한다", "label": "지지됨", "evidence": "욕구는 실천 추론의 전제로 기능하지 못한다", "note": ""},
+        {"n": 7, "text": "이유이려면 정신적으로 파악되어야 하고 세 조건 불만족", "label": "지지됨", "evidence": "이유이려면 정신적으로 파악되어야 한다", "note": ""}
+      ],
+      "sources_used": ["Proposal 35697cdd867e8194b2e4e050d22e23ad.md", "문헌/@Velleman1992 The Guise of the Good.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "44g3", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "p를 좋은 것으로 여긴다는 기술이 태도의 방식에 대한 기술이어서 …구별", "label": "지지됨", "evidence": "태도에 대한 기술을 내용에 대한 기술로 착각", "note": ""},
+        {"n": 1, "text": "인지주의자는 good/desirable을 평가적 용어라 가정한다", "label": "지지됨", "evidence": "good/desirable을 왜 평가적 용어라고 가정하는가", "note": ""},
+        {"n": 2, "text": "욕구만 있으면 이미 가치 판단과 주관적 정당화를 한 셈이 된다", "label": "지지됨", "evidence": "욕구만 있으면 행위자가 이미 … 판단", "note": ""},
+        {"n": 3, "text": "그 기술은 규범력 있는 가치 판단의 동반이 아닐 수 있다", "label": "지지됨", "evidence": "전혀 아닐 수 있음을 이해해야 한다", "note": ""},
+        {"n": 4, "text": "믿음 유비: 가정하기·전제하기는 같은 힘을 갖지 못한다", "label": "지지됨", "evidence": "가정하기, 전제하기… 등등", "note": ""},
+        {"n": 5, "text": "기존 부합 방향 기준은 인지적 태도 사이 차이를 설명 못함", "label": "지지됨", "evidence": "인지적 태도들 내부의 차이도 … 잘 설명하지 못한다", "note": ""},
+        {"n": 6, "text": "가정하기는 책임을 부여하지 않지만 p를 참으로 간주하는 태도", "label": "지지됨", "evidence": "p를 참이라고 간주하는 태도 중 하나", "note": ""}
+      ],
+      "sources_used": ["Proposal 35697cdd867e8194b2e4e050d22e23ad.md", "문헌/@Velleman1992 The Guise of the Good.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "44g4", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "믿음의 정당화력은 진리를 구성적 목적으로 삼는 데서 나오고 …", "label": "지지됨", "evidence": "믿음은 진리를 구성적 목표로 지니며", "note": ""},
+        {"n": 1, "text": "믿음은 특정한 방식으로 p를 참으로 여기는 태도라 정당화력", "label": "지지됨", "evidence": "특정한 방식으로 p를 참으로 여기는 태도", "note": ""},
+        {"n": 2, "text": "그 방식은 실제 사실을 추적하는 것, 현실에 대한 책임", "label": "지지됨", "evidence": "actuality에 대한 어떤 책임이나 커밋먼트", "note": ""},
+        {"n": 3, "text": "구성적 목적 개념과 믿음의 구성적 목적은 진리", "label": "지지됨", "evidence": "구성적 목적(Constitutive aim) 개념", "note": ""},
+        {"n": 4, "text": "믿음의 이중 구조가 규범력을 설명", "label": "지지됨", "evidence": "믿음의 구조가 바로 그 규범력을 설명한다", "note": ""},
+        {"n": 5, "text": "인지주의자는 욕구도 실제로 바람직한 것을 목적으로 한다고 유비", "label": "지지됨", "evidence": "욕구는 실제로 바람직한 것을 욕구하는 것을 목표로", "note": ""},
+        {"n": 6, "text": "벨먼: 부합 방향 혼동, 부합 방향만으로 GG 정당화 안 됨", "label": "지지됨", "evidence": "부합 방향만으로는 GG를 정당화할 수 없다", "note": ""}
+      ],
+      "sources_used": ["Proposal 35697cdd867e8194b2e4e050d22e23ad.md", "문헌/@Velleman1992 The Guise of the Good.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "44g5", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "욕구의 구성적 목적이 실현 가능성이므로 정당화력을 갖지 못한다", "label": "지지됨", "evidence": "욕구는 정당화력을 가지지 않으며", "note": ""},
+        {"n": 1, "text": "욕구는 실현 가능한 것을 추적하는 태도", "label": "지지됨", "evidence": "욕구는 실현 가능한 것(attainable)을 추적", "note": ""},
+        {"n": 2, "text": "불가능하거나 이미 실현된 것은 욕구 대상이 못 된다", "label": "지지됨", "evidence": "불가능하거나 이미 실현된 것을 대상으로 가지지 못한다", "note": ""},
+        {"n": 3, "text": "욕구는 가능성의 규제 아래 있어 구성적 목적은 가능성", "label": "지지됨", "evidence": "욕구는 '가능성'을 구성적 목표로 가진다", "note": ""},
+        {"n": 4, "text": "실현 가능해도 실현할 만하다는 보장은 없다", "label": "지지됨", "evidence": "실현 가능하다고 해서 … 보장은 없다", "note": ""},
+        {"n": 5, "text": "도착적 믿음은 불가능, 도착적 욕구는 가능", "label": "지지됨", "evidence": "Perverse desire는 가능함", "note": ""},
+        {"n": 6, "text": "GG 논자는 도착적 욕구를 오기술해야 한다", "label": "지지됨", "evidence": "좋은 것'을 욕구하는 사례로 오-기술", "note": ""},
+        {"n": 7, "text": "욕구는 정당화력 없는 의욕적(conative) 태도", "label": "지지됨", "evidence": "가능성을 추적하는 Conative한 태도에 불과", "note": ""}
+      ],
+      "sources_used": ["Proposal 35697cdd867e8194b2e4e050d22e23ad.md", "문헌/@Velleman1992 The Guise of the Good.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "59p2", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "시민의 법적 자유는 동의한 법을 따르는 것이고 … 금지된다", "label": "지지됨", "evidence": "법적 자유란 바로 자신이 동의한 법에 따르는 것", "note": ""},
+        {"n": 1, "text": "입법을 위해 뭉친 사람들이 시민", "label": "지지됨", "evidence": "입법의 목적을 위해 뭉친 사람들이 바로 시민", "note": ""},
+        {"n": 2, "text": "시민적 평등과 독립의 정의", "label": "지지됨", "evidence": "시민적 독립이란 다른 사람의 의지에 …", "note": ""},
+        {"n": 3, "text": "시민적 인격은 스스로의 대의자가 될 수 있음", "label": "지지됨", "evidence": "스스로가 스스로의 대의자가 될 수 있음", "note": ""},
+        {"n": 4, "text": "선거권의 중요성 두 가지 까닭", "label": "지지됨", "evidence": "독립된 인격임을 드러낸다", "note": ""},
+        {"n": 5, "text": "덜 자유로운 시민과 불평등이 있지 않느냐는 반문", "label": "지지됨", "evidence": "시민이지만 좀 덜 자유로운 사람들이 있지 않냐", "note": ""},
+        {"n": 6, "text": "칸트의 답: 자유 평등에 위배되지 않고 능동/수동 구성원", "label": "지지됨", "evidence": "active member가 있고, passive member가 있는 것", "note": ""},
+        {"n": 7, "text": "귀결: 수동이 동의할 법만, 수동→능동 노력을 부정 못 함", "label": "지지됨", "evidence": "넘어가는 노력을 부정하는 것이어서는 안된다", "note": ""}
+      ],
+      "sources_used": ["Untill 2025/Metaphysics of Moral - Kant, On right 13597cdd867e80bd8f68ec0418399fec.md", "문헌/@Kant1797 Metaphysics of Morals Doctrine of Right.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "59p4", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "칸트는 처벌을 좋음을 늘리는 수단으로 쓰지 않고 … 정언 명령", "label": "지지됨", "evidence": "형법이란 그 자체로 정언 명령이어야 한다", "note": ""},
+        {"n": 1, "text": "형법은 공적 침해(위조 지폐, 도둑, 강도)에 적용", "label": "지지됨", "evidence": "위조 지폐, 도둑, 강도와 같은 일", "note": ""},
+        {"n": 2, "text": "처벌은 좋음을 늘리는 수단으로 취급되어선 안 됨", "label": "지지됨", "evidence": "좋음을 증가시키기 위한 어떤 수단으로", "note": ""},
+        {"n": 3, "text": "형법이 정언 명령이 아니면 정의가 위협받는다", "label": "지지됨", "evidence": "그렇지 않다면 정의 자체가 위협받는다", "note": ""},
+        {"n": 4, "text": "응보의 법만이 질과 양을 정한다, 눈에는 눈은 원칙상", "label": "지지됨", "evidence": "응보의 법만이 처벌의 질과 양을 결정", "note": ""},
+        {"n": 5, "text": "마지막 살인자 사형 구절과 피의 죄책감", "label": "지지됨", "evidence": "감옥에 있는 마지막 살인자는 사형에 처해져야", "note": ""},
+        {"n": 6, "text": "공범자가 너무 많으면 주권이 추방 등 비사형 처벌, 행정권 칙령", "label": "지지됨", "evidence": "추방이 그런 종류의 처벌이 될 수 있다", "note": ""},
+        {"n": 7, "text": "필기는 홀로코스트 시사점과 프랑스 국민을 염두에 두었을 것 같다고 덧붙임", "label": "지지됨", "evidence": "생각을 하고는 있었을 것 같기는 하다", "note": "'것 같다' 한정어 유지됨"}
+      ],
+      "sources_used": ["Untill 2025/Metaphysics of Moral - Kant, On right 13597cdd867e80bd8f68ec0418399fec.md", "문헌/@Kant1797 Metaphysics of Morals Doctrine of Right.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "59p7", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "국가 사이의 자연 상태는 영속적 전쟁 상태이므로 … 연맹을 요구", "label": "지지됨", "evidence": "자연상태란 영속적인 전쟁 상태", "note": ""},
+        {"n": 1, "text": "국가들의 법은 국제적 권리", "label": "지지됨", "evidence": "우리는 이를 국제적인 권리라는 이름으로", "note": ""},
+        {"n": 2, "text": "국가는 자연 상태의 도덕적 인격, 누구나 전쟁 권리", "label": "지지됨", "evidence": "누구나 전쟁을 일으킬 수 있는 권리를 가진 상태", "note": ""},
+        {"n": 3, "text": "개인의 권리와 국가의 권리는 다르다", "label": "지지됨", "evidence": "개인의 권리와 국가의 권리는 다르다", "note": ""},
+        {"n": 4, "text": "비사법적 조건=전쟁의 조건, 위협 항상, 벗어날 의무", "label": "지지됨", "evidence": "전쟁의 위협은 항상 존재한다", "note": ""},
+        {"n": 5, "text": "연맹은 필수, 목적은 상호 방어이지 간섭 아님", "label": "지지됨", "evidence": "서로를 외부의 공격으로 지키기 위해서다", "note": ""},
+        {"n": 6, "text": "연맹은 주권적 힘 없이 협력, 해체 가능, 새로 써야 함", "label": "지지됨", "evidence": "주권적 힘을 가지고 있지 않아야만 한다", "note": ""},
+        {"n": 7, "text": "56절: 무장, 예방의 선험적 필연성, 최소한의 인정", "label": "지지됨", "evidence": "최소한 인정은 필요하다", "note": ""}
+      ],
+      "sources_used": ["Untill 2025/Metaphysics of Moral - Kant, On right 13597cdd867e80bd8f68ec0418399fec.md", "문헌/@Kant1797 Metaphysics of Morals Doctrine of Right.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "59p8", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "독립된 국가 사이의 전쟁은 처벌 전쟁도 절멸 전쟁도 될 수 없고 …", "label": "지지됨", "evidence": "처벌적 전쟁일 수 없다. 둘은 종속 관계가 아니기", "note": ""},
+        {"n": 1, "text": "55절: 소유물 처분 논증은 변호사식, 인간을 재산처럼 봐 틀림", "label": "지지됨", "evidence": "인간을 마치 재산처럼 보는거라 틀렸다", "note": ""},
+        {"n": 2, "text": "이 권리는 수동적 동의 간주되는 주권의 의무에서 도출", "label": "지지됨", "evidence": "신민들은 이미 수동적으로라도 동의를 한 것", "note": ""},
+        {"n": 3, "text": "절멸·예속 전쟁은 도덕적 인격을 절멸시켜 허락되지 않음", "label": "지지됨", "evidence": "도덕적 인격의 절멸", "note": ""},
+        {"n": 4, "text": "외적 자유 원칙에 따른 적대 행위만, 병합 목표 불가, 비열한 행위 금지", "label": "지지됨", "evidence": "외적 자유의 원칙에 의거한 적대 행위만", "note": ""},
+        {"n": 5, "text": "58절: 종전의 권리는 평화 조약의 법적 제약", "label": "지지됨", "evidence": "평화 조약과 그 이후의 결과에 대한 법적 제약", "note": ""},
+        {"n": 6, "text": "배상금 청구 불허, 패배국 시민적 자유, 식민지·종속민 안 됨", "label": "지지됨", "evidence": "전쟁 배상금을 청구해서는 안된다", "note": ""},
+        {"n": 7, "text": "59절 평화의 권리 세 가지, 마지막은 집단 안보", "label": "지지됨", "evidence": "연맹을 이룰 수 있는 권리. 이는 집단 안보 체제", "note": ""}
+      ],
+      "sources_used": ["Untill 2025/Metaphysics of Moral - Kant, On right 13597cdd867e80bd8f68ec0418399fec.md", "문헌/@Kant1797 Metaphysics of Morals Doctrine of Right.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "59p9", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "자연 상태에서 부정의한 적이라는 말은 잉여이고 세계시민의 권리는 …", "label": "지지됨", "evidence": "부정의한 적이란 말은 잉여적이다", "note": ""},
+        {"n": 1, "text": "60절: 훼손된 국가의 의지는 일반 원칙이 될 수 없는 준칙", "label": "지지됨", "evidence": "일반 원칙이 될 수 없는 준칙이다", "note": ""},
+        {"n": 2, "text": "악의 제국에 통합 대항, 영토 분할·소멸 금지, 새 헌법", "label": "지지됨", "evidence": "그 국가의 신민들에 대한 부정의일 것이다", "note": ""},
+        {"n": 3, "text": "자연 상태엔 정의가 없고 정의로운 적 논증", "label": "지지됨", "evidence": "자연 상태에는 정의가 없기 때문이다", "note": ""},
+        {"n": 4, "text": "61절: 전쟁으로 얻은 내 것·네 것은 임시, 연맹만 영원한 소유 보장", "label": "지지됨", "evidence": "오로지 일반적 국가들의 연맹만이", "note": ""},
+        {"n": 5, "text": "과한 확장은 실현을 불가능하게 만들 수 있어 천천히 넓힘", "label": "지지됨", "evidence": "실현을 불가능하게 만들 수 있다", "note": "'수 있다' 유지됨"},
+        {"n": 6, "text": "62절: 평화 이념은 자선이 아닌 법과 권리에서 도출", "label": "지지됨", "evidence": "법, 혹은 권리의 차원에서 도출되는 개념", "note": ""},
+        {"n": 7, "text": "세계시민의 권리는 지구 거주 사실에서, 상법, 상륙 땅 선포는 계약", "label": "지지됨", "evidence": "이 지구라는 땅 위에 거주한다는 것만으로", "note": ""}
+      ],
+      "sources_used": ["Untill 2025/Metaphysics of Moral - Kant, On right 13597cdd867e80bd8f68ec0418399fec.md", "문헌/@Kant1797 Metaphysics of Morals Doctrine of Right.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "60d", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "힘은 발현을 향하면서도 발현 없이 존재하므로 … 버드는 완전히 현실적이라 답한다", "label": "지지됨", "evidence": "Power는 그 자체로 fully actual하다", "note": ""},
+        {"n": 1, "text": "방향성 때문에 발현 포함하면서 발현 없이 존재, 긴장 직관", "label": "지지됨", "evidence": "어떤 긴장이 존재하는 것 같다는 직관", "note": ""},
+        {"n": 2, "text": "힘이 실재하는가 물음, 조건문 분석 전략", "label": "지지됨", "evidence": "Conditional analysis해서 actualize된 것을", "note": ""},
+        {"n": 3, "text": "조건문적 분석이 그다지 성공적이지 못하다", "label": "지지됨", "evidence": "그렇게 성공적이지 못하다는 것을 살펴 보았고", "note": ""},
+        {"n": 4, "text": "완전히 실재하려면 무언가 필요, 발현은 실현되지 않은 가능성", "label": "지지됨", "evidence": "Manifestation은 unrealized possibility", "note": ""},
+        {"n": 5, "text": "버드의 첫 대응: 환원 요구와 불완전 전제 거부", "label": "지지됨", "evidence": "환원될 경우에만 Real하다고 말하는 것을 거부", "note": ""},
+        {"n": 6, "text": "몰나르: 현실적 속성 부정은 힘과 발현 구분 실패", "label": "지지됨", "evidence": "힘과 발현의 구분을 제대로 하지 않아서", "note": ""}
+      ],
+      "sources_used": ["형이상학 세미나 1010 35697cdd867e8110b47bfc0ddb710db3.md", "문헌/@영진2024 형이상학 세미나 1010.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "60d1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "버드는 존재를 본질이 함축하는 사실로 보아 힘의 존재가 더 풍부", "label": "지지됨", "evidence": "more to the being of essentially dispositional", "note": ""},
+        {"n": 1, "text": "파인식 본질론: 필연성만으로 부족, in virtue of the essence", "label": "지지됨", "evidence": "IN virtue of the essence of X 가 포함", "note": ""},
+        {"n": 2, "text": "정언 속성은 본질 사실이 많지 않고 성향적 성립은 우연", "label": "지지됨", "evidence": "다른 것과 DIspositional하게 성립하는 것은 우연", "note": ""},
+        {"n": 3, "text": "버드는 존재를 함축된 사실로 이해", "label": "지지됨", "evidence": "Being이 entail하는 fact에 의해 구성", "note": ""},
+        {"n": 4, "text": "정언 속성 F의 존재 (a)(b)(c)는 다른 속성을 포함하지 않음", "label": "지지됨", "evidence": "이 셋은 특정한 다른 속성을 포함하고 있지 않다", "note": ""},
+        {"n": 5, "text": "D(S,M)은 다른 속성 포함, 성향적 성격 추가", "label": "지지됨", "evidence": "additional claim that they have a dispostional", "note": ""},
+        {"n": 6, "text": "환원되지 않으면 실재성 부족이라는 주장은 근거를 잃는다", "label": "지지됨", "evidence": "Reality가 부족하다고 말하기 어렵다", "note": "영문 인용문이 잘려 있으나 Bird의 생각 절이 보충"},
+        {"n": 7, "text": "세미나의 물음: 정언 속성의 양상적 사실, 사소함 구별", "label": "지지됨", "evidence": "사소하지 않는 양상적 특징과 사소한 양상적 특징", "note": ""}
+      ],
+      "sources_used": ["형이상학 세미나 1010 35697cdd867e8110b47bfc0ddb710db3.md", "문헌/@영진2024 형이상학 세미나 1010.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "60d2", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "발현 없는 힘은 아리스토텔레스적 보편자로 이해할 수 있어 …", "label": "지지됨", "evidence": "플라톤적 보편자에 Commitment를 발생시키지는 않는다", "note": ""},
+        {"n": 1, "text": "관계항에 의존하지 않는 힘은 플라톤적이라 버드 첫 대응이 상정해야 하느냐는 물음", "label": "지지됨", "evidence": "보편자에 대한 플라톤적 그림을 상정해야 하는 것 아니냐", "note": ""},
+        {"n": 2, "text": "플라톤적은 예화 없이 존재, 아리스토텔레스적은 한 번은 예화", "label": "지지됨", "evidence": "언젠가 한 번은 예화가 되었어야 한다", "note": ""},
+        {"n": 3, "text": "지금 여기서 예화될 필요는 없다", "label": "지지됨", "evidence": "지금 여기 이곳에 예화되어야 한다는 것은 아니다", "note": ""},
+        {"n": 4, "text": "깨지지 않는 컵 사례: 깨질 수 있음은 다른 곳에서 예화", "label": "지지됨", "evidence": "깨질 수 있음은 어디에서 이미 예화 되고 있는 것", "note": ""},
+        {"n": 5, "text": "플라톤적 이해와 힘 이해의 부조화는 물음으로 남고 플라톤주의자도 있다", "label": "지지됨", "evidence": "명시적으로 플라톤적 입장을 취하는 사람들이 더러", "note": ""}
+      ],
+      "sources_used": ["형이상학 세미나 1010 35697cdd867e8110b47bfc0ddb710db3.md", "문헌/@영진2024 형이상학 세미나 1010.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "60d3", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "존재의 풍부함이 실재성을 정한다는 전제는 집합 사례에서 의심되고 …", "label": "지지됨", "evidence": "항상 Reality가 더 크다고 말하기 어려워 보인다", "note": ""},
+        {"n": 1, "text": "버드는 존재 풍부할수록 실재성 큼, 존재=본질로 정의", "label": "지지됨", "evidence": "X의 being은 X의 Essence라고 Bird가 정의", "note": ""},
+        {"n": 2, "text": "a={1}, b={1,{1}}: b의 본질에 a를 원소로 가짐, b가 더 풍부", "label": "지지됨", "evidence": "B의 본질에는 a를 원소로 가진다는 사실", "note": ""},
+        {"n": 3, "text": "b의 존재가 a를 포함하는 것은 b의 지위가 a에 의존하기 때문이므로", "label": "부분 지지", "evidence": "a에 의존하기 때문인 것 같다", "note": "원문은 '~때문인 것 같다'로 추측형인데 카드는 단정하고 '이므로'로 근거 삼음. 한정어 빠짐."},
+        {"n": 4, "text": "풍부해도 실재성이 더 크다고 말하기 어렵다", "label": "지지됨", "evidence": "더 Real하다고 말할 수 없다", "note": ""},
+        {"n": 5, "text": "버드의 대응1(힘은 근본적)과 대응2(더 풍부)가 충돌", "label": "지지됨", "evidence": "Response 2는 Response 1과 충돌한다", "note": ""},
+        {"n": 6, "text": "대응1이 작동하려면 존재를 존재론적 실재성으로 이해해야 함", "label": "지지됨", "evidence": "being을 Ontological한 Reality로 이해해야", "note": ""},
+        {"n": 7, "text": "본질 내용이 풍부해도 존재론적 지위를 정하지 못함, 본질-존재 혼동", "label": "지지됨", "evidence": "Essence와 Existence의 Conflation", "note": ""}
+      ],
+      "sources_used": ["형이상학 세미나 1010 35697cdd867e8110b47bfc0ddb710db3.md", "문헌/@영진2024 형이상학 세미나 1010.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "60d5", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "힘은 내재적이라는 직관에 외재적 힘의 후보가 맞서지만 몰나르는 …", "label": "지지됨", "evidence": "Are all powers are extrinsic?", "note": ""},
+        {"n": 1, "text": "힘은 내재적이라는 직관이 있다", "label": "지지됨", "evidence": "Power는 내재적이라는 직관이 있다", "note": ""},
+        {"n": 2, "text": "보일의 열쇠와 자물쇠는 관계에 놓여 외재적", "label": "지지됨", "evidence": "Key와 Lock의 관계에 거주 … 외재적이다", "note": ""},
+        {"n": 3, "text": "주사위 확률 0.16, 포퍼는 상황 전체의 속성으로 외재적 힘 이해", "label": "지지됨", "evidence": "Extrinsic power로 이해될 수 있다", "note": ""},
+        {"n": 4, "text": "필기: 상황 전체가 담지자면 오히려 내재적이지 않느냐", "label": "지지됨", "evidence": "Situation 전체로 보면 Intrinsic하지 않은가", "note": ""},
+        {"n": 5, "text": "순간 속도도 관계적으로 이해되는 후보", "label": "지지됨", "evidence": "다른 시점에서의 장소를 통해서 관계적으로", "note": ""},
+        {"n": 6, "text": "몰나르: 열쇠를 힘으로 인정해도 모든 힘이 외재적일 수는 없다", "label": "지지됨", "evidence": "모든 Power가 Extrinsic하다고 볼 수는 없다", "note": ""},
+        {"n": 7, "text": "열고 못 여는 차이는 내재적 속성 차이에 기반할 것", "label": "지지됨", "evidence": "Intrinsic property의 차이에 기반할 것이다", "note": "'기반할 것이다' 유지됨"},
+        {"n": 8, "text": "기반 속성이 정언이면 반박 실패, 미세 구조가 힘이어야", "label": "지지됨", "evidence": "Mini structure들이 power라는 이야기", "note": ""},
+        {"n": 9, "text": "몰나르는 외재적 힘이 추가로 없다고 보고 내재성 논제", "label": "지지됨", "evidence": "내재성 논제: 모든 힘은 내재적이다", "note": ""}
+      ],
+      "sources_used": ["형이상학 세미나 1010 35697cdd867e8110b47bfc0ddb710db3.md", "문헌/@영진2024 형이상학 세미나 1010.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "52i", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "다스 필기는 폭력과 상실로 낯설어진 세계에서 어떻게 거주할 것인가를 묻고 …", "label": "지지됨", "evidence": "how one should inhabit. such a world", "note": ""},
+        {"n": 1, "text": "첫머리는 여성 폭력의 의미를 쓰려 할 때 고통의 언어가 닿기 어렵다는 대목", "label": "지지됨", "evidence": "languages of pain … often elude me", "note": ""},
+        {"n": 2, "text": "다스가 파괴의 장면으로 다시 들어가 거주를 묻는다", "label": "지지됨", "evidence": "I want to reenter this scene of devastation", "note": ""},
+        {"n": 3, "text": "카벨이 에머슨의 몸짓이라 부른 애도의 접근과 이어 붙임", "label": "지지됨", "evidence": "Emersonian gesture … mourning for it", "note": ""},
+        {"n": 4, "text": "철학을 형이상학과 일상 두 기슭 사이의 강으로 비유한 카벨의 은유", "label": "지지됨", "evidence": "philosophy as a river that flows between", "note": ""},
+        {"n": 5, "text": "이어지는 부분은 영진 메모로 보이는 질문·요약, 비트겐슈타인 논의", "label": "지지됨", "evidence": "Privacy of other mind. 타인의 고통?", "note": "'보이는' 한정어 유지됨"},
+        {"n": 6, "text": "필기는 검토 필요 표시가 붙은 거친 상태", "label": "지지됨", "evidence": "검토 필요: Yes", "note": ""}
+      ],
+      "sources_used": ["Veena das 35697cdd867e81a68db7cd4ef958c474.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "52i1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "사적임은 공유할 수 없음이나 접근 불가능을 뜻하지 않으며 …", "label": "지지됨", "evidence": "사적라는 것이 공유할 수 없음을 의미하지는 않는다", "note": ""},
+        {"n": 1, "text": "내면성이 무엇이며 왜 공공성 강조 언급에서 내면성을 지키려 하는가 묻는다", "label": "지지됨", "evidence": "한 인간의 내면성이란 무엇인가?", "note": ""},
+        {"n": 2, "text": "내면성 긍정이 영혼 존재 긍정으로 여겨져 방어되는지 묻는다", "label": "지지됨", "evidence": "영혼의 존재에 대한 긍정으로 여기고", "note": ""},
+        {"n": 3, "text": "'나는 내가 고통받고 있음을 안다'는 고통이 나의 것임에 의문 던짐", "label": "지지됨", "evidence": "고통이 나의 것이라는 점에 의문을 제기", "note": ""},
+        {"n": 4, "text": "표현 안 하면 남이 모르니 나 홀로 아는 상황이 있을 법하다는 반문", "label": "지지됨", "evidence": "나 홀로 내 고통을 아는 상황 같은 것이 있을 법", "note": ""},
+        {"n": 5, "text": "사적 대화는 비밀스러워도 남이 절대 들을 수 없는 대화가 아님", "label": "지지됨", "evidence": "남이 절대로 들을 수 없는 대화는 아니다", "note": ""},
+        {"n": 6, "text": "고통이 사적이라는 말이 접근 불가능하다는 말일 수 없다", "label": "지지됨", "evidence": "접근 불가능하다는 이야기일 수는 없는 것이다", "note": ""},
+        {"n": 7, "text": "비밀성은 사적임과 배타성을 공유한다", "label": "지지됨", "evidence": "비밀성은 privacy와 배타성을 공유한다", "note": ""}
+      ],
+      "sources_used": ["Veena das 35697cdd867e81a68db7cd4ef958c474.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "52i2", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "끓는 주전자 비유에서 고통이 안에 끓는 내용물인지 묻고 …당혹", "label": "지지됨", "evidence": "고통이 끓는 내용물 같은 것이긴 한가?", "note": ""},
+        {"n": 1, "text": "사적 감각 지칭이 고통의 언어 게임에 포함되는지가 논점", "label": "지지됨", "evidence": "pain-language 게임이 … reference을 포함하는가", "note": ""},
+        {"n": 2, "text": "주전자 속에 무언가 있어야 한다는 물음에 질문자의 실망의 감각", "label": "지지됨", "evidence": "무언가가 더 있을 것이다 라는 감각", "note": ""},
+        {"n": 3, "text": "어느 답이든 질문·답변 연쇄를 사로잡는 것은 안에 무언가 있다는 생각", "label": "지지됨", "evidence": "사로잡고 있는 것은 안에 무언가가 있다는 아이디어", "note": ""},
+        {"n": 4, "text": "안을 다 볼 수 있어도 고통이 어디 있는지 말하기 어렵다", "label": "지지됨", "evidence": "고통이 어디 있는지 말하기 어렵다", "note": ""},
+        {"n": 5, "text": "어깨/뇌/모든 곳의 당혹은 어디 있는지 보려 할 때 생기고 아니면 그저 어깨가 아프다", "label": "지지됨", "evidence": "그저 어깨가 아프다고 말할 뿐이다", "note": ""},
+        {"n": 6, "text": "정합적 답이 있어야 한다는 강박을 보라는 것이 의도인지 묻는다", "label": "지지됨", "evidence": "이 강박을 보라는 것이 비트겐슈타인의 의도다?", "note": ""}
+      ],
+      "sources_used": ["Veena das 35697cdd867e81a68db7cd4ef958c474.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "52i3", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "사적 언어의 환상은 알려지지 못할지 모른다는 무력함의 두려움이고 …", "label": "지지됨", "evidence": "알려지게 할 수 없을 지도 모른다는 무력함에 대한 두려움", "note": ""},
+        {"n": 1, "text": "타인 감각을 표현과 따로 알아내려는 바람, 일인칭→삼인칭에서 분명", "label": "지지됨", "evidence": "일인칭에서 삼인칭으로 시선을 돌릴 때 더 명확", "note": ""},
+        {"n": 2, "text": "내 고통에 대한 지칭은 고통 자체의 표현과 같다고 정리", "label": "부분 지지", "evidence": "비트겐슈타인의 교훈은 다음과 같을 것이다", "note": "원문은 '교훈은 다음과 같을 것이다'로 추정형인데 카드는 필기가 단정적으로 정리한 것처럼 씀. 한정어(~일 것이다) 빠짐."},
+        {"n": 3, "text": "타인 고통 지칭은 타인의 자기 고통 표현에 대한 나의 반응", "label": "지지됨", "evidence": "타인이 행하는 그 자신의 고통에 대한 표현에 대한 나의 반응", "note": ""},
+        {"n": 4, "text": "사적임의 환상은 언어의 공적 성격을 부정하려는 열망", "label": "지지됨", "evidence": "언어의 공적인 성격을 부정하려는 열망", "note": ""},
+        {"n": 5, "text": "사적 언어 논증의 교훈: 회의주의자가 충분히 회의적일 방법이 없다", "label": "지지됨", "evidence": "회의주의자가 충분히 회의적이 될 수 있는 방법은 없다", "note": ""},
+        {"n": 6, "text": "타인의 마음 문제가 확실성의 문제가 아니라면 무엇의 문제인지 묻는다", "label": "지지됨", "evidence": "도대체 무엇의 문제인가?", "note": ""},
+        {"n": 7, "text": "다른 사람의 마음에 대한 말의 정신을 얻지 못할 사람이 있을 수 있는지 묻는 인용으로 끝맺음", "label": "지지됨", "evidence": "Could there be people who could never achieve", "note": ""}
+      ],
+      "sources_used": ["Veena das 35697cdd867e81a68db7cd4ef958c474.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "51", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "…필기는 모두 어떤 구조나 담론이 사람의 자리와 선택의 범위를 정하는지를 묻는다", "label": "연결", "evidence": "", "note": "종합 연결, 판정하지 않음"},
+        {"n": 1, "text": "필기가 정치체제, 성, 저자, 번역, 물질, 기술, 정체성이라는 서로 다른 대상을 다룬다", "label": "지지됨", "evidence": "하위 카드 51a-51j 제목", "note": "원자료 아닌 하위 카드 제목 근거"},
+        {"n": 2, "text": "아리스토텔레스 필기는 체제의 변화·종류·보존을 동등성 요구와 제도 조합으로 설명", "label": "지지됨", "evidence": "51a 동등성에 대한 상이한 요구가 부딪친 파당", "note": "51b 심의·관직·사법 조합, 51a4 보존책도 확인. 하위 카드 근거"},
+        {"n": 3, "text": "성평등, 저자, 번역의 필기는 개념이 역사 속에서 구성되고 담론이 그 자리를 채운다", "label": "부분 지지", "evidence": "51d 역사적 구성성, 51e 다시 채워지는지", "note": "성(51d)과 저자(51e)는 근거 있으나 번역(51f)은 순수 언어와 친밀한 관계의 형식으로 서술되어 구성·담론 채움 근거를 찾지 못함"},
+        {"n": 4, "text": "신유물론 필기는 물질을 능동적 실재로 본다", "label": "지지됨", "evidence": "물질은 … 능동적 실재이다", "note": ""},
+        {"n": 5, "text": "신유물론이 구조와 행위의 관계를 다시 묻는다", "label": "부분 지지", "evidence": "행위성이 가해지기를 기다리는 소재", "note": "51g는 외부 행위성을 기다리는 소재가 아니라고만 말하며 '구조와 행위의 관계'는 언급하지 않음"},
+        {"n": 6, "text": "기술과 제도의 필기는 설계와 규범이 책임과 위험을 누구에게 나누는지 묻는다", "label": "지지됨", "evidence": "누구에게 이익과 책임과 위험을 돌리는가", "note": "51h 근거"},
+        {"n": 7, "text": "정체성과 연대, 적응적 선호의 필기도 같은 물음을 던진다", "label": "부분 지지", "evidence": "", "note": "51j는 번영에 불리한 조건에서 형성된 선호 정의일 뿐 책임·위험 분배를 다루지 않음. 51i는 읽지 않음"},
+        {"n": 8, "text": "이 연결은 작성자의 해석이며 필기들이 서로 직접 인용하지 않는다", "label": "지지됨", "evidence": "이 연결은 카드 작성자의 해석이며", "note": "51h에 같은 문장"}
+      ],
+      "sources_used": ["영구/51f", "영구/51g", "영구/51h", "영구/51j", "(51a, 51b, 51d, 51e는 Glob 제목만)"],
+      "sources_missing": ["카드 출처 절이 하위 카드를 가리킬 뿐이라 원자료 직접 대조 안 함; 51i 본문 미확인"]
+    }
+  ]
+}

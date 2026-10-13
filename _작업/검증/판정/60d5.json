@@ -1,0 +1,84 @@
+{
+ "id": "60d5",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "힘은 내재적이라는 직관에 외재적 힘의 후보가 맞서지만 몰나르는 …",
+   "label": "지지됨",
+   "evidence": "Are all powers are extrinsic?",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "힘은 내재적이라는 직관이 있다",
+   "label": "지지됨",
+   "evidence": "Power는 내재적이라는 직관이 있다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "보일의 열쇠와 자물쇠는 관계에 놓여 외재적",
+   "label": "지지됨",
+   "evidence": "Key와 Lock의 관계에 거주 … 외재적이다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "주사위 확률 0.16, 포퍼는 상황 전체의 속성으로 외재적 힘 이해",
+   "label": "지지됨",
+   "evidence": "Extrinsic power로 이해될 수 있다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "필기: 상황 전체가 담지자면 오히려 내재적이지 않느냐",
+   "label": "지지됨",
+   "evidence": "Situation 전체로 보면 Intrinsic하지 않은가",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "순간 속도도 관계적으로 이해되는 후보",
+   "label": "지지됨",
+   "evidence": "다른 시점에서의 장소를 통해서 관계적으로",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "몰나르: 열쇠를 힘으로 인정해도 모든 힘이 외재적일 수는 없다",
+   "label": "지지됨",
+   "evidence": "모든 Power가 Extrinsic하다고 볼 수는 없다",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "열고 못 여는 차이는 내재적 속성 차이에 기반할 것",
+   "label": "지지됨",
+   "evidence": "Intrinsic property의 차이에 기반할 것이다",
+   "note": "'기반할 것이다' 유지됨"
+  },
+  {
+   "n": 8,
+   "text": "기반 속성이 정언이면 반박 실패, 미세 구조가 힘이어야",
+   "label": "지지됨",
+   "evidence": "Mini structure들이 power라는 이야기",
+   "note": ""
+  },
+  {
+   "n": 9,
+   "text": "몰나르는 외재적 힘이 추가로 없다고 보고 내재성 논제",
+   "label": "지지됨",
+   "evidence": "내재성 논제: 모든 힘은 내재적이다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "형이상학 세미나 1010 35697cdd867e8110b47bfc0ddb710db3.md",
+  "문헌/@영진2024 형이상학 세미나 1010.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

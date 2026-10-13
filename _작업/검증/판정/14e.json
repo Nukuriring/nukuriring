@@ -1,0 +1,63 @@
+{
+ "id": "14e",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "성공 문법을 가진 기술용어 learn으로 증언 지식을 지각 지식과 같은 평면에 놓는다",
+   "label": "지지됨",
+   "evidence": "동등한 인식 층위에서 분석될 어휘 기반",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "8장 「The Status of Testimony」",
+   "label": "지지됨",
+   "evidence": "8장 The Status of Testimony(문헌 노트)",
+   "note": "장 제목은 문헌 노트에 있음."
+  },
+  {
+   "n": 2,
+   "text": "환원주의는 증언을 따로 심리에 회부될 수 있는 항목으로 보는 그림에 기댄다",
+   "label": "지지됨",
+   "evidence": "judicial arraignment에 회부될 수 있다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "see, hear, remember은 성공 문법, testify·be told는 아니다(존·아서 예)",
+   "label": "지지됨",
+   "evidence": "John은 p임을 증언했다는 p가 거짓이어도",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "증언 수용 단일 동사가 없고 trust는 비인식적 쓰임이 많다",
+   "label": "지지됨",
+   "evidence": "trust는 비-인식적 사용이 우세",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "learn은 증언 수용에 한정한 기술용어이며 know처럼 성공 문법",
+   "label": "지지됨",
+   "evidence": "John이 p를 learn했다면 p는 참",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "에반스 구별을 받아들이되 증언의 인식적 열위를 끌어내지 않는다",
+   "label": "지지됨",
+   "evidence": "조심스럽게 받아들인다 … 결정적 차단",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Coady1992 Testimony.md",
+  "_원자료/claude.ai/chats/2026-05-11_네 번째 논문 내용 추출 작업.md (12:22 개관, A·B·C절)"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

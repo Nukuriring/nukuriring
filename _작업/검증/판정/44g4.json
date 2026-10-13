@@ -1,0 +1,63 @@
+{
+ "id": "44g4",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "믿음의 정당화력은 진리를 구성적 목적으로 삼는 데서 나오고 …",
+   "label": "지지됨",
+   "evidence": "믿음은 진리를 구성적 목표로 지니며",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "믿음은 특정한 방식으로 p를 참으로 여기는 태도라 정당화력",
+   "label": "지지됨",
+   "evidence": "특정한 방식으로 p를 참으로 여기는 태도",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "그 방식은 실제 사실을 추적하는 것, 현실에 대한 책임",
+   "label": "지지됨",
+   "evidence": "actuality에 대한 어떤 책임이나 커밋먼트",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "구성적 목적 개념과 믿음의 구성적 목적은 진리",
+   "label": "지지됨",
+   "evidence": "구성적 목적(Constitutive aim) 개념",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "믿음의 이중 구조가 규범력을 설명",
+   "label": "지지됨",
+   "evidence": "믿음의 구조가 바로 그 규범력을 설명한다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "인지주의자는 욕구도 실제로 바람직한 것을 목적으로 한다고 유비",
+   "label": "지지됨",
+   "evidence": "욕구는 실제로 바람직한 것을 욕구하는 것을 목표로",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "벨먼: 부합 방향 혼동, 부합 방향만으로 GG 정당화 안 됨",
+   "label": "지지됨",
+   "evidence": "부합 방향만으로는 GG를 정당화할 수 없다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "Proposal 35697cdd867e8194b2e4e050d22e23ad.md",
+  "문헌/@Velleman1992 The Guise of the Good.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

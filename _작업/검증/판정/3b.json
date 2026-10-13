@@ -1,0 +1,64 @@
+{
+ "id": "3b",
+ "voice": "문헌",
+ "verdict": "원문없음",
+ "claims": [
+  {
+   "n": 0,
+   "text": "맥도웰에 따르면 정합론은 사고를 세계와 마찰 없이 헛돌게 한다",
+   "label": "지지됨",
+   "evidence": "허공에서의 마찰 없는 회전(p.11)",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "데이비슨은 'nothing can count as a reason…'라 했고 맥도웰이 §9에서 인용",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "Notion 노트는 한국어 표어만 있고 맥도웰 §9 인용 언급 없음. 문헌 노트 §9에도 없음. Grep: nothing can count, reason for holding (문헌 노트·문헌/·Notion 아카이브) 무결과. 원문 OCR본은 보관소 밖이라 확인 못 함."
+  },
+  {
+   "n": 2,
+   "text": "정합론에서 경험은 믿음을 야기하나 정당화 관계에는 들어가지 못한다",
+   "label": "지지됨",
+   "evidence": "경험은 믿음을 야기할 수 있으나 정당화할 수 없다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "정합론은 소여의 신화를 피하는 대가로 사고-실재 연결을 위협한다",
+   "label": "지지됨",
+   "evidence": "소여된 것을 거부한다면 … 위협으로 다시",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "합리적 제약이 없으면 자발성 행사는 허공에서 마찰 없이 도는 회전",
+   "label": "지지됨",
+   "evidence": "마찰 없이 공허하게 돌아가는 것",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "맥도웰은 2008년 논문에서 MW 시기를 돌아보며 데이비슨 표어에 통찰이 있다고 했다",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "McDowell2008 문헌 노트 전체에 이 회고가 없음. Grep: 데이비슨 표어, 통찰 관련 어구 무결과."
+  },
+  {
+   "n": 6,
+   "text": "그 통찰: 개념 능력은 믿음 형성 때에도 합리적 자격을 가질 때에도 작동(§9)",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "문헌 노트 §2는 'capacities that belong to reason … operative in experiencing itself'만 말함. §9 항목(직관이 자격을 줌)과 다름."
+  }
+ ],
+ "sources_used": [
+  "문헌/@McDowell2008 Avoiding the Myth of the Given.md",
+  "_원자료/notion/…/지각적 믿음의 정당화와 지각 경험의 내용 ….md",
+  "_원자료/notion/…/Lecture 1 Mind and World ….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

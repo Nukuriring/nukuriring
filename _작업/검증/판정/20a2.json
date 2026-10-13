@@ -1,0 +1,69 @@
+{
+ "id": "20a2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "양극 규범과 단극 규범은 어느 방향으로도 환원되지 않는다",
+   "label": "지지됨",
+   "evidence": "두 표는 어느 쪽으로도 환원되지 않는다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "Y 자리가 없는 단극 표가 있고 윤리학이 보통 다루는 형식이다",
+   "label": "지지됨",
+   "evidence": "Y가 없다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "단극 표는 to nomimon/lex, 양극 표는 to dikaion/ius에 대응",
+   "label": "지지됨",
+   "evidence": "to nomimon / lex ... to dikaion / ius",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "아퀴나스 lex(q.90)와 ius(q.57) 논의는 멀리 떨어져 있다",
+   "label": "지지됨",
+   "evidence": "수백 쪽 떨어져 있다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "벤담을 따라 단극을 deontological, 양극을 dikaiological, 메타-디카이올로지",
+   "label": "지지됨",
+   "evidence": "양극 판단을 dikaiological이라 부르자",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "칸트가 amphiboly라 부른 두 표의 혼동은 양방향으로 가능",
+   "label": "지지됨",
+   "evidence": "이 혼동이 양방향으로 가능",
+   "note": "대화는 칸트 원래 용법을 의무의 대상 착각이라 풀이함. 카드 서술은 대화의 틀을 따름"
+  },
+  {
+   "n": 6,
+   "text": "양극에서 단극, 단극에서 양극 환원이 모두 실패",
+   "label": "지지됨",
+   "evidence": "양방향 환원이 둘 다 실패",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "양극 규범성은 독립 영역이고 해명이 메타-디카이올로지의 과제",
+   "label": "지지됨",
+   "evidence": "양극 규범성은 독립적 영역",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/claude.ai/chats/2026-06-02_설명 요청.md 08:17"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

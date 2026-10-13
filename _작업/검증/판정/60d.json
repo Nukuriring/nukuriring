@@ -1,0 +1,63 @@
+{
+ "id": "60d",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "힘은 발현을 향하면서도 발현 없이 존재하므로 … 버드는 완전히 현실적이라 답한다",
+   "label": "지지됨",
+   "evidence": "Power는 그 자체로 fully actual하다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "방향성 때문에 발현 포함하면서 발현 없이 존재, 긴장 직관",
+   "label": "지지됨",
+   "evidence": "어떤 긴장이 존재하는 것 같다는 직관",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "힘이 실재하는가 물음, 조건문 분석 전략",
+   "label": "지지됨",
+   "evidence": "Conditional analysis해서 actualize된 것을",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "조건문적 분석이 그다지 성공적이지 못하다",
+   "label": "지지됨",
+   "evidence": "그렇게 성공적이지 못하다는 것을 살펴 보았고",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "완전히 실재하려면 무언가 필요, 발현은 실현되지 않은 가능성",
+   "label": "지지됨",
+   "evidence": "Manifestation은 unrealized possibility",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "버드의 첫 대응: 환원 요구와 불완전 전제 거부",
+   "label": "지지됨",
+   "evidence": "환원될 경우에만 Real하다고 말하는 것을 거부",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "몰나르: 현실적 속성 부정은 힘과 발현 구분 실패",
+   "label": "지지됨",
+   "evidence": "힘과 발현의 구분을 제대로 하지 않아서",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "형이상학 세미나 1010 35697cdd867e8110b47bfc0ddb710db3.md",
+  "문헌/@영진2024 형이상학 세미나 1010.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

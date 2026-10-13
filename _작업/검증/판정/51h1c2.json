@@ -1,0 +1,69 @@
+{
+ "id": "51h1c2",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "덜 차별적인 대안을 요구하는 길은 고용주가 모델과 원자료를 고칠 수 없다는 점에서 막힌다",
+   "label": "부분 지지",
+   "evidence": "prospect ... seems slim",
+   "note": "필기 결론은 '전망이 희박해 보인다', '무력해질 수 있다'인데 제목은 '막힌다'로 단정함. 이유도 고용주의 수정 불능 하나로 좁힘(필기는 비용, 식별 곤란, refuse 불명확도 듦)"
+  },
+  {
+   "n": 1,
+   "text": "대안 요건은 Albemarle에서 형성, 원고가 덜 차별적 수단을 보이면 책임, 1991년 법이 명시",
+   "label": "지지됨",
+   "evidence": "1991년 법에 의해 명시적으로 채택",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "LinkedIn처럼 도구 사용 여부만 정하는 경우 고용주가 대안을 거부한다고 말하기 어렵다",
+   "label": "지지됨",
+   "evidence": "could not really be said ... 'refuses'",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "원자료 접근에는 기술적 법적 제약이 있다",
+   "label": "지지됨",
+   "evidence": "기술적, 법적 제약이 존재",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "새 데이터 수집은 시간과 비용이 들고 때로 불가능",
+   "label": "지지됨",
+   "evidence": "time consuming and costly, if not impossible",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "과소표집 확인에는 현실 인구 분포의 독립된 기준 필요",
+   "label": "지지됨",
+   "evidence": "some independent mechanism",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "데이터 마이너가 인과를 염두에 두지 않아 차별 유발 특징을 가리기 어렵다",
+   "label": "지지됨",
+   "evidence": "do not operate with causal relationships",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "거부의 뜻이 불명확해 저자는 대안 고용 관행으로 이길 전망이 희박해 보인다고 결론",
+   "label": "지지됨",
+   "evidence": "prospect of winning ... seems slim",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/.../Big data’s disparate impact 1ea97cdd867e80529370dafed170eff9.md 668~810행"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

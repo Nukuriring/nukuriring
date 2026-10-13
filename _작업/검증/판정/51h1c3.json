@@ -1,0 +1,62 @@
+{
+ "id": "51h1c3",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "엄격한 필요성 기준은 단일 특성 모델에는 작동하지만 총체적 모델에는 구조적으로 맞지 않는다",
+   "label": "부분 지지",
+   "evidence": "작용할 여지가 있으나 ... 구조적으로 부적합",
+   "note": "필기는 단일 특성 모델에 '작용할 여지가 있다'고 했는데 제목은 '작동한다'로 단정함"
+  },
+  {
+   "n": 1,
+   "text": "필기가 기준 강화 방법을 따로 검토한다",
+   "label": "지지됨",
+   "evidence": "BN 기준 강화",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "근속 기간 같은 단일 특성 모델은 필수적이지 않아 엄격한 기준 아래 책임이 성립할 수 있다",
+   "label": "지지됨",
+   "evidence": "책임이 성립할 수 있다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "기준점 아래 직원이 일을 못 함을 못 보이면 방어 실패",
+   "label": "지지됨",
+   "evidence": "employees cannot do the work ... will fail",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "8천 개 특징 모델에서 어느 특징도 필수적이라 말하기 어렵다",
+   "label": "지지됨",
+   "evidence": "8,000-feature ... not strictly 'necessary'",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "그런 모델에 적용하면 차별적 영향이 생기는 한 순위 매기기 자체를 금지하는 셈",
+   "label": "지지됨",
+   "evidence": "forbidding that business from ranking candidates",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "엄격한 기준은 단일 요건 중심으로 설계된 것이라 다변량 실무에는 맞지 않는다",
+   "label": "부분 지지",
+   "evidence": "단일 기술 요건을 중심으로 설계된 모델",
+   "note": "필기에서 단일 요건 중심으로 설계된 것은 기준이 아니라 모델임. 주어가 바뀜"
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/.../Big data’s disparate impact 1ea97cdd867e80529370dafed170eff9.md 810~850행"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

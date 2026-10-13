@@ -1,0 +1,48 @@
+{
+ "id": "20a3a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "양극 당위에서 한 극을 고정하면 행위자별 단극 당위가 생긴다",
+   "label": "지지됨",
+   "evidence": "둘째 변항을 고정하면 ... 단극 당위 연산자",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "각주 17의 양극 연산자 ⟨X,Y⟩ O/P, O는 방향 의무(존스/스미스 예), P는 호펠드 특권",
+   "label": "지지됨",
+   "evidence": "존스는 스미스에게 잔디를 깎아 줄 의무",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "O와 P를 원초어로 두면 부작위나 내부 부정이 불필요하며 서로의 부정으로 정의",
+   "label": "지지됨",
+   "evidence": "X P not to do A ≝ ¬(X O to do A)",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "각 행위자가 나머지 모두에게 하나의 단극적 법(monadic lex)",
+   "label": "지지됨",
+   "evidence": "각 행위자가 ... 하나의 법(monadic lex)",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "20a2의 lex와 ius가 이어지고 ius 체계는 행위자별 lex를 낳는다",
+   "label": "지지됨",
+   "evidence": "ius 체계가 ... 행위자별 lex를 하나씩 낳는다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/claude.ai/chats/2026-06-02_설명 요청.md 08:23 6절"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

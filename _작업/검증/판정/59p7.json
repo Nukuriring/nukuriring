@@ -1,0 +1,70 @@
+{
+ "id": "59p7",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "국가 사이의 자연 상태는 영속적 전쟁 상태이므로 … 연맹을 요구",
+   "label": "지지됨",
+   "evidence": "자연상태란 영속적인 전쟁 상태",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "국가들의 법은 국제적 권리",
+   "label": "지지됨",
+   "evidence": "우리는 이를 국제적인 권리라는 이름으로",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "국가는 자연 상태의 도덕적 인격, 누구나 전쟁 권리",
+   "label": "지지됨",
+   "evidence": "누구나 전쟁을 일으킬 수 있는 권리를 가진 상태",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "개인의 권리와 국가의 권리는 다르다",
+   "label": "지지됨",
+   "evidence": "개인의 권리와 국가의 권리는 다르다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "비사법적 조건=전쟁의 조건, 위협 항상, 벗어날 의무",
+   "label": "지지됨",
+   "evidence": "전쟁의 위협은 항상 존재한다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "연맹은 필수, 목적은 상호 방어이지 간섭 아님",
+   "label": "지지됨",
+   "evidence": "서로를 외부의 공격으로 지키기 위해서다",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "연맹은 주권적 힘 없이 협력, 해체 가능, 새로 써야 함",
+   "label": "지지됨",
+   "evidence": "주권적 힘을 가지고 있지 않아야만 한다",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "56절: 무장, 예방의 선험적 필연성, 최소한의 인정",
+   "label": "지지됨",
+   "evidence": "최소한 인정은 필요하다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "Untill 2025/Metaphysics of Moral - Kant, On right 13597cdd867e80bd8f68ec0418399fec.md",
+  "문헌/@Kant1797 Metaphysics of Morals Doctrine of Right.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

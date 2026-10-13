@@ -1,0 +1,62 @@
+{
+ "id": "51h1c1",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "데이터 마이닝은 두 타당도를 쉽게 통과하므로 필요성 방어는 목표 변수 직무 중요성에 달린다",
+   "label": "지지됨",
+   "evidence": "통과하는 것은 굉장히 쉬운 일",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "EEOC 지침은 기준 관련·내용·구성 타당도 세 검증을 요구",
+   "label": "지지됨",
+   "evidence": "EEOC Guidelines에서는 세 가지 검증",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "목표 변수가 직무와 관련 없으면 방어 실패, 범죄 전력 광고 예",
+   "label": "지지됨",
+   "evidence": "advertisement suggesting a criminal record",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "관련 있다면 모델은 정의상 예측적이고 프록시 차별은 올바른 최적화의 결과",
+   "label": "지지됨",
+   "evidence": "Proxy 차별은 correct 최적화",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "편향 표본·잘못된 레이블 모델은 오류가 결과를 충분히 왜곡할 때에만 관련성이 약해진다",
+   "label": "부분 지지",
+   "evidence": "충분히 왜곡해서 ... 여부에 달려 있을 것이다",
+   "note": "필기는 '직무와 관련 있을 수도 있고 아닐 수도 있다', '달려 있을 것'으로 한정했는데 카드는 '때에만 약해진다'로 단정함"
+  },
+  {
+   "n": 5,
+   "text": "법원이 Ricci에서 지침 검증 없이도 직무 관련성을 인정했고 상식에 기댄다",
+   "label": "지지됨",
+   "evidence": "despite not having been validated",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "정당한 직무 특성을 예측하는 모델은 이 방어로 책임을 면한다는 결론",
+   "label": "지지됨",
+   "evidence": "결론 1: ... liability가 발생하지 않을 것",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/.../Big data’s disparate impact 1ea97cdd867e80529370dafed170eff9.md 622~735행"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

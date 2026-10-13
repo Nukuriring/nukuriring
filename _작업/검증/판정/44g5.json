@@ -1,0 +1,70 @@
+{
+ "id": "44g5",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "욕구의 구성적 목적이 실현 가능성이므로 정당화력을 갖지 못한다",
+   "label": "지지됨",
+   "evidence": "욕구는 정당화력을 가지지 않으며",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "욕구는 실현 가능한 것을 추적하는 태도",
+   "label": "지지됨",
+   "evidence": "욕구는 실현 가능한 것(attainable)을 추적",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "불가능하거나 이미 실현된 것은 욕구 대상이 못 된다",
+   "label": "지지됨",
+   "evidence": "불가능하거나 이미 실현된 것을 대상으로 가지지 못한다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "욕구는 가능성의 규제 아래 있어 구성적 목적은 가능성",
+   "label": "지지됨",
+   "evidence": "욕구는 '가능성'을 구성적 목표로 가진다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "실현 가능해도 실현할 만하다는 보장은 없다",
+   "label": "지지됨",
+   "evidence": "실현 가능하다고 해서 … 보장은 없다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "도착적 믿음은 불가능, 도착적 욕구는 가능",
+   "label": "지지됨",
+   "evidence": "Perverse desire는 가능함",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "GG 논자는 도착적 욕구를 오기술해야 한다",
+   "label": "지지됨",
+   "evidence": "좋은 것'을 욕구하는 사례로 오-기술",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "욕구는 정당화력 없는 의욕적(conative) 태도",
+   "label": "지지됨",
+   "evidence": "가능성을 추적하는 Conative한 태도에 불과",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "Proposal 35697cdd867e8194b2e4e050d22e23ad.md",
+  "문헌/@Velleman1992 The Guise of the Good.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
