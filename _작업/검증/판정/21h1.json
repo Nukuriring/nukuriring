@@ -1,0 +1,63 @@
+{
+ "id": "21h1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "개별화를 두고 앤스컴과 우카시에비치는 서로 다른 물음에 답한다",
+   "label": "지지됨",
+   "evidence": "they're answering different questions",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "에인스워스는 개별화 논의를 포퍼의 해소로 연다",
+   "label": "지지됨",
+   "evidence": "Popper's dissolution at the top of this",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "우카시에비치는 통일성, 형상이 답한다",
+   "label": "지지됨",
+   "evidence": "a question about unity, and form answers",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "앤스컴은 구별성, 질료가 답한다",
+   "label": "지지됨",
+   "evidence": "distinctness, and matter answers it",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "통일의 원리와 개별화 원리 용어 정리",
+   "label": "지지됨",
+   "evidence": "reserve principle of individuation",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "'이 질료이기 때문'은 자기 설명이 되어 질료주의 동기와 어긋난다",
+   "label": "지지됨",
+   "evidence": "she can't help herself to it",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "양쪽은 설명이 멈춘다는 데 동의하고 원초적 사실 위치만 갈린다",
+   "label": "지지됨",
+   "evidence": "explanation stops somewhere",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Ainsworth SEP Form vs Matter.md",
+  "_원자료/claude.ai/chats/2026-06-10_Understanding SEP entry walkthrough.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

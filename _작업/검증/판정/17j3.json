@@ -1,0 +1,70 @@
+{
+ "id": "17j3",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "윌리엄슨: 변별 능력 한계로 사소하지 않은 조건은 투명하지 않다",
+   "label": "지지됨",
+   "evidence": "with rather trivial exceptions",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "앎을 심적 상태·증거·주장 규범으로 보는 설명은 공통 반론을 받는다",
+   "label": "지지됨",
+   "evidence": "문헌 노트 61t3 / 서론 Chapter 4 앞부분",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "투명성 정의(성립하고 궁금해할 때마다 알 수 있는 처지)",
+   "label": "지지됨",
+   "evidence": "in a position to know that it obtains",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "변별 능력이 유한하므로 가까운 경우에서 참이어야 한다",
+   "label": "지지됨",
+   "evidence": "a luminous condition obtains in any case close",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "투명한 조건은 통제 없이 번져 모든 곳에서 성립하거나 어디서도 성립하지 않는다",
+   "label": "부분 지지",
+   "evidence": "obtains everywhere or nowhere—at least where",
+   "note": "원문은 '성립하는지 궁금해할 처지에 있는 곳에서는 적어도'라는 한정이 붙음. 카드 문장에는 그 한정이 빠짐(앞 문장의 정의에 기대면 경미)."
+  },
+  {
+   "n": 5,
+   "text": "거의 모든 관심 끌 조건은 투명하지 않고 나타남조차 투명하지 않다",
+   "label": "지지됨",
+   "evidence": "not even the condition that things appear",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "참과 알 수 있는 것 사이의 간극은 담론 전체에서 정상적이다",
+   "label": "지지됨",
+   "evidence": "it is normal throughout discourse",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "합리성 요구를 늘 알 수 없어 불완전하게 접근 가능한 기준과 사는 법을 배운다",
+   "label": "지지됨",
+   "evidence": "learn to live with an imperfectly accessible",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Williamson2000 Knowledge and Its Limits.md",
+  "_원자료/claude.ai/projects/크립키의 위악성/docs/Everyone by nature desires to know..txt.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,64 @@
+{
+ "id": "18d1b",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "§217과 §219에서 정당화가 다한 자리의 발언에 자기 거리를 표시한다",
+   "label": "지지됨",
+   "evidence": "my description only made sense if",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "§219: 더는 선택지 없음이라 쓴 뒤 무슨 도움이 되느냐 묻는다",
+   "label": "지지됨",
+   "evidence": "how would it help?",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "symbolically 이해될 때만 뜻이 있었고 'This is how it strikes me'라 했어야",
+   "label": "지지됨",
+   "evidence": "I should have said: This is how it strikes me",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "blindly는 그 뒤에 나오고 §220이 목적을 묻고 §221이 신화적 묘사라 쓴다",
+   "label": "지지됨",
+   "evidence": "a mythological description of the use",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "§217 bedrock/inclined to say와 장식적 마감 괄호",
+   "label": "지지됨",
+   "evidence": "ornamental coping that supports nothing",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "§§298-299가 inclined to say를 다루며 직접 지각·앎과 다르다고 말한다",
+   "label": "지지됨",
+   "evidence": "being irresistibly inclined to say it",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "발언은 상징적 표현·말하고 싶어짐·따옴표 거리와 함께 나온다",
+   "label": "지지됨",
+   "evidence": "따옴표 한 겹의 거리를 두면서",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Wittgenstein1953 Philosophical Investigations.md",
+  "_원자료/claude.ai/projects/크립키의 위악성/chats/2026-05-10_인계 노트의 어조 변환 도식 검토.md",
+  "_원자료/claude.ai/projects/크립키의 위악성/chats/2026-05-10_프로젝트 본문 주장과 근거 확보.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

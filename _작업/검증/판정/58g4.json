@@ -1,0 +1,56 @@
+{
+ "id": "58g4",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "회의주의자는 평범하게 도입된 꿈의 가능성을 철학적 가능성으로 바꾼다",
+   "label": "지지됨",
+   "evidence": "평범한 Pe를 P-철학적으로 바꾸어 버린다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "Pe의 가능성 자체는 평범한 것으로 도입된다",
+   "label": "지지됨",
+   "evidence": "Pe의 가능성 자체는 평범한 것으로 도입",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "회의주의자는 Pe를 CS:철학에 제기한다",
+   "label": "지지됨",
+   "evidence": "이 Pe를 CS:철학 … 에게 제기한다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "제기해 놓고 스스로 깨닫고 이후 그때 깨어 있었는지 묻는다",
+   "label": "지지됨",
+   "evidence": "우리가 이후에 … 깨어있었다는 것을 알 수 있는가",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "그렇게 그는 Pe를 던져 버린다",
+   "label": "지지됨",
+   "evidence": "그렇게 그는 Pe를 던져버린다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "휴머노이드 H처럼 바꾸어 놓는다고 쓰고 이 문장에서 끊긴다",
+   "label": "지지됨",
+   "evidence": "마치 휴머노이드 H처럼 … 그런데",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/The legacy of Sckepticism 35697cdd867e8137885dcf3a523a697c.md",
+  "문헌/@미상 The Legacy of Skepticism 노트.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,63 @@
+{
+ "id": "40b",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "§219–221에서 blindly가 든 서술을 상징적이고 신화적이라고 표시한다",
+   "label": "지지됨",
+   "evidence": "symbolical … mythological description",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "§219 첫 문장과 규칙이 선을 공간 전체에 긋는다",
+   "label": "지지됨",
+   "evidence": "traces the lines along which it is",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "how would it help / symbolically / This is how it strikes me",
+   "label": "지지됨",
+   "evidence": "only made sense if it was to be understood",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "obey blindly는 이 표시 뒤에 나온다",
+   "label": "지지됨",
+   "evidence": "blindly는 이 자기 거두어들임 이후에야",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "§220: 인과적 결정과 논리적 결정의 차이를 부각하려던 명제",
+   "label": "지지됨",
+   "evidence": "causally determined and being logically",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "§221: 상징적 표현은 규칙 사용의 신화적 묘사",
+   "label": "지지됨",
+   "evidence": "My symbolical expression was really a",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "대화는 이 운동을 자기 거두어들임이라 불렀다(대화 속 설명)",
+   "label": "지지됨",
+   "evidence": "자기 거두어들임 운동",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Wittgenstein1953 Philosophical Investigations.md",
+  "_원자료/claude.ai/projects/크립키의 위악성/chats/2026-05-10_프로젝트 본문 주장과 근거 확보.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
