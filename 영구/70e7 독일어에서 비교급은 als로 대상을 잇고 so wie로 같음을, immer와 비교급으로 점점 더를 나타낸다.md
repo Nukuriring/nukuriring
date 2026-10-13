@@ -8,9 +8,9 @@ sources: ["[[@독일어 2023-2 수업 필기]]"]
 cluster: 고전어
 group: NZ1
 created: 2026-10-12
-verify: 원문없음
+verify: 부분
 verify_date: 2026-10-12
-verify_by: sonnet
+verify_by: sonnet·영진
 ---
 # 70e7 독일어에서 비교급은 als로 대상을 잇고 so wie로 같음을, immer와 비교급으로 점점 더를 나타낸다
 

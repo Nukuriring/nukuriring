@@ -1,7 +1,7 @@
 {
  "id": "52f1a",
  "voice": "문헌",
- "verdict": "모순",
+ "verdict": "지지됨",
  "claims": [
   {
    "n": 0,
@@ -13,9 +13,10 @@
   {
    "n": 1,
    "text": "리건은 연합이 편안하고 좋은 일이라면 왜 필요한가라고 스스로 묻고 답한다",
-   "label": "모순",
+   "label": "지지됨",
    "evidence": "If coalition is so bad...why is it necessary?",
-   "note": "원문 물음은 연합이 나쁘고 불편한데 왜 필요한가이며 카드는 '편안하고 좋은 일이라면'으로 뒤집음."
+   "note": "영진 판정(2026-10-13): 카드를 고침. 원문 물음은 연합이 나쁘고 불편한데 왜 필요한가이며 카드는 '편안하고 좋은 일이라면'으로 뒤집음.",
+   "sonnet_label": "모순"
   },
   {
    "n": 2,
@@ -58,6 +59,11 @@
   "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/사회철학연습_0423/SIsterhood, Coalition, and the politics of Experie 1dd97cdd867e801f80a1fea19625bfe0.md"
  ],
  "sources_missing": [],
- "model": "sonnet",
- "date": "2026-10-13"
+ "model": "sonnet·영진",
+ "date": "2026-10-13",
+ "adjudication": {
+  "choice": "카드를 고침",
+  "date": "2026-10-13",
+  "sonnet_verdict": "모순"
+ }
 }

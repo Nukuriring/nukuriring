@@ -1,7 +1,7 @@
 {
  "id": "51g3a",
  "voice": "문헌",
- "verdict": "원문없음",
+ "verdict": "부분",
  "claims": [
   {
    "n": 0,
@@ -27,9 +27,10 @@
   {
    "n": 3,
    "text": "지표의 예: 연기가 불을 알리는 경우",
-   "label": "원문에 없음",
+   "label": "지지됨",
    "evidence": "",
-   "note": "Grep: 연기, smoke, 불을 (원자료와 DeLanda 노트) 없음; 예시는 카드가 보탬"
+   "note": "영진 판정(2026-10-13): 판정이 틀림. Grep: 연기, smoke, 불을 (원자료와 DeLanda 노트) 없음; 예시는 카드가 보탬",
+   "sonnet_label": "원문에 없음"
   },
   {
    "n": 4,
@@ -72,6 +73,11 @@
   "문헌/@DeLanda2021 Materialist Phenomenology.md"
  ],
  "sources_missing": [],
- "model": "sonnet",
- "date": "2026-10-13"
+ "model": "sonnet·영진",
+ "date": "2026-10-13",
+ "adjudication": {
+  "choice": "판정이 틀림",
+  "date": "2026-10-13",
+  "sonnet_verdict": "원문없음"
+ }
 }

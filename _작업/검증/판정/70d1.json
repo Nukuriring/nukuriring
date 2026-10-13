@@ -1,17 +1,64 @@
 {
-  "id": "70d1",
-  "voice": "문헌",
-  "verdict": "원문없음",
-  "claims": [
-    {"n": 0, "text": "라틴어 전치사 없는 탈격은 수단, 태도, 때를 나타낸다", "label": "부분 지지", "evidence": "아블라티브가 수단으로 쓰이고 있다", "note": "수단만 필기에 명시. 태도와 때는 아래 명제 참고"},
-    {"n": 1, "text": "23과 풀이는 pilis(공으로)와 ingenti clamore(큰 소란을 지르며)를 탈격으로 읽고 아블라티브가 수단으로 쓰였다고 적는다", "label": "지지됨", "evidence": "아블라티브가 수단으로 쓰이고 있다", "note": ""},
-    {"n": 2, "text": "summa admiratione, magna voce, summa celeritate는 방식을 나타내는 탈격이다", "label": "원문에 없음", "evidence": "", "note": "'방식' 분류는 필기에 없음. summa admiratione를 여성 단수 아블라티브로 표시한 것만 있음"},
-    {"n": 3, "text": "prima luce(날이 밝을 때), brevi tempore(짧은 시간 안에), decem diebus(열흘 안에)는 때를 나타낸다", "label": "원문에 없음", "evidence": "", "note": "예문은 23.3과 27.6에 있으나 때의 탈격 분류와 번역은 필기에 없음(카드도 밝힘)"},
-    {"n": 4, "text": "풀이는 summa admiratione를 여성 단수 탈격이라고 표시한다", "label": "지지됨", "evidence": "여성 단수 아블라티브 : summa admiratione", "note": ""},
-    {"n": 5, "text": "영진의 작문 23.4 답안도 summa celeritate와 magna industria를 같은 구문으로 쓴다", "label": "지지됨", "evidence": "summa celeritate per turbam currebat", "note": "magna industria도 답안에 있음"}
-  ],
-  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/23과 d564da1b1e374a63b6d825c4f3d244bc.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/작문 11f0e7d5ccac4514bcd036b4906c468a.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/27과 463b437384774cb6987bb0d998bb6244.md"],
-  "sources_missing": [],
-  "model": "sonnet",
-  "date": "2026-10-12"
+ "id": "70d1",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "라틴어 전치사 없는 탈격은 수단, 태도, 때를 나타낸다",
+   "label": "부분 지지",
+   "evidence": "아블라티브가 수단으로 쓰이고 있다",
+   "note": "수단만 필기에 명시. 태도와 때는 아래 명제 참고"
+  },
+  {
+   "n": 1,
+   "text": "23과 풀이는 pilis(공으로)와 ingenti clamore(큰 소란을 지르며)를 탈격으로 읽고 아블라티브가 수단으로 쓰였다고 적는다",
+   "label": "지지됨",
+   "evidence": "아블라티브가 수단으로 쓰이고 있다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "summa admiratione, magna voce, summa celeritate는 방식을 나타내는 탈격이다",
+   "label": "지지됨",
+   "evidence": "",
+   "note": "영진 판정(2026-10-13): 판정이 틀림. '방식' 분류는 필기에 없음. summa admiratione를 여성 단수 아블라티브로 표시한 것만 있음",
+   "sonnet_label": "원문에 없음"
+  },
+  {
+   "n": 3,
+   "text": "prima luce(날이 밝을 때), brevi tempore(짧은 시간 안에), decem diebus(열흘 안에)는 때를 나타낸다",
+   "label": "지지됨",
+   "evidence": "",
+   "note": "영진 판정(2026-10-13): 판정이 틀림. 예문은 23.3과 27.6에 있으나 때의 탈격 분류와 번역은 필기에 없음(카드도 밝힘)",
+   "sonnet_label": "원문에 없음"
+  },
+  {
+   "n": 4,
+   "text": "풀이는 summa admiratione를 여성 단수 탈격이라고 표시한다",
+   "label": "지지됨",
+   "evidence": "여성 단수 아블라티브 : summa admiratione",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "영진의 작문 23.4 답안도 summa celeritate와 magna industria를 같은 구문으로 쓴다",
+   "label": "지지됨",
+   "evidence": "summa celeritate per turbam currebat",
+   "note": "magna industria도 답안에 있음"
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/23과 d564da1b1e374a63b6d825c4f3d244bc.md",
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/작문 11f0e7d5ccac4514bcd036b4906c468a.md",
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/27과 463b437384774cb6987bb0d998bb6244.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet·영진",
+ "date": "2026-10-12",
+ "adjudication": {
+  "choice": "판정이 틀림",
+  "date": "2026-10-13",
+  "sonnet_verdict": "원문없음"
+ }
 }

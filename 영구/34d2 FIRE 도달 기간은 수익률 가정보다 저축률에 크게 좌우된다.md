@@ -8,9 +8,9 @@ sources: []
 cluster: 경제학과 경제사
 group: M7
 created: 2026-10-12
-verify: 원문없음
+verify: 지지됨
 verify_date: 2026-10-12
-verify_by: sonnet
+verify_by: sonnet·영진
 ---
 # 34d2 FIRE 도달 기간은 수익률 가정보다 저축률에 크게 좌우된다
 

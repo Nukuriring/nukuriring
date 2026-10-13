@@ -8,9 +8,9 @@ sources: ["[[@라틴어 2023-2 수업 필기]]"]
 cluster: 고전어
 group: NZ1
 created: 2026-10-12
-verify: 원문없음
+verify: 부분
 verify_date: 2026-10-12
-verify_by: sonnet
+verify_by: sonnet·영진
 ---
 # 70d2 라틴어에서 도시 이름과 domus는 전치사 없이 방향과 출발점을 나타내고 나라 이름에는 ad가 붙는다
 

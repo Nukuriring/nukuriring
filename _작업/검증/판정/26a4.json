@@ -1,7 +1,7 @@
 {
  "id": "26a4",
  "voice": "종합",
- "verdict": "원문없음",
+ "verdict": "지지됨",
  "claims": [
   {
    "n": 0,
@@ -58,13 +58,6 @@
    "label": "연결",
    "evidence": "",
    "note": "카드가 Claude의 연결이라고 밝힘"
-  },
-  {
-   "n": 8,
-   "text": "한 층위 근거가 다른 층위 결론으로 넘어가는 자리를 찾으면 약한 고리가 드러난다",
-   "label": "원문에 없음",
-   "evidence": "",
-   "note": "결정 기록은 세 층위를 구별하게 한다는 교육 축만 말하고, 약한 고리 진단법은 출처에 없음(Claude의 해석 추정)."
   }
  ],
  "sources_used": [
@@ -74,6 +67,21 @@
   "문헌/@GrollLott2015 Is There a Role for Human Nature in Debates About Human Enhancement.md"
  ],
  "sources_missing": [],
- "model": "sonnet",
- "date": "2026-10-13"
+ "model": "sonnet·영진",
+ "date": "2026-10-13",
+ "removed_claims": [
+  {
+   "n": 8,
+   "text": "한 층위 근거가 다른 층위 결론으로 넘어가는 자리를 찾으면 약한 고리가 드러난다",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "결정 기록은 세 층위를 구별하게 한다는 교육 축만 말하고, 약한 고리 진단법은 출처에 없음(Claude의 해석 추정).",
+   "sonnet_label": "원문에 없음"
+  }
+ ],
+ "adjudication": {
+  "choice": "문장을 지움",
+  "date": "2026-10-13",
+  "sonnet_verdict": "원문없음"
+ }
 }

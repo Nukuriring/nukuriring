@@ -1,7 +1,7 @@
 {
  "id": "20g1b",
  "voice": "종합",
- "verdict": "원문없음",
+ "verdict": "부분",
  "claims": [
   {
    "n": 0,
@@ -23,13 +23,6 @@
    "label": "지지됨",
    "evidence": "이 구조는 분리주의적입니다",
    "note": ""
-  },
-  {
-   "n": 3,
-   "text": "지각의 선언주의는 좋은 경우와 나쁜 경우에 공통된 내적 항목을 거부한다",
-   "label": "원문에 없음",
-   "evidence": "",
-   "note": "대화에 지각 선언주의 설명 없음(Grep: 선언, disjunct, common factor; 요약부에 disjunctivist 낱말만). 카드 출처 줄도 대화에 없는 제안이라고 밝힘."
   },
   {
    "n": 4,
@@ -58,6 +51,21 @@
   "문헌/@Thompson2008 Life and Action.md"
  ],
  "sources_missing": [],
- "model": "sonnet",
- "date": "2026-10-13"
+ "model": "sonnet·영진",
+ "date": "2026-10-13",
+ "removed_claims": [
+  {
+   "n": 3,
+   "text": "지각의 선언주의는 좋은 경우와 나쁜 경우에 공통된 내적 항목을 거부한다",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "대화에 지각 선언주의 설명 없음(Grep: 선언, disjunct, common factor; 요약부에 disjunctivist 낱말만). 카드 출처 줄도 대화에 없는 제안이라고 밝힘.",
+   "sonnet_label": "원문에 없음"
+  }
+ ],
+ "adjudication": {
+  "choice": "문장을 지움",
+  "date": "2026-10-13",
+  "sonnet_verdict": "원문없음"
+ }
 }

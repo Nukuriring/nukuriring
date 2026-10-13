@@ -8,9 +8,9 @@ sources: ["[[@Meillassoux2015 Science Fiction and Extro-Science Fiction]]"]
 cluster: 정치·사회·역사·법
 group: NP3
 created: 2026-10-12
-verify: 원문없음
+verify: 지지됨
 verify_date: 2026-10-13
-verify_by: sonnet
+verify_by: sonnet·영진
 ---
 # 53k6 메이야수의 SF와 XSF 논의가 자연과학 바깥의 사회과학과 인문학으로 확장될 수 있는지는 발제문이 열어 둔 물음이다
 

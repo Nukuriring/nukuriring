@@ -1,7 +1,7 @@
 {
  "id": "51h5",
  "voice": "문헌",
- "verdict": "원문없음",
+ "verdict": "지지됨",
  "claims": [
   {
    "n": 0,
@@ -48,9 +48,10 @@
   {
    "n": 6,
    "text": "필기에서 이어지는 질문들은 이 장 구성을 바탕으로 한다",
-   "label": "원문에 없음",
+   "label": "연결",
    "evidence": "",
-   "note": "필기에 질문이 장 구성에 근거한다는 서술 없음. 질문은 '이번에 이야기한 파트'(혈액), '이 책의 긴 논의'로만 언급. Grep: 장 구성/11장/16장 모두 첫머리 목록뿐. 카드 작성자의 추정."
+   "note": "영진 판정(2026-10-13): 해석임을 밝힘. 필기에 질문이 장 구성에 근거한다는 서술 없음. 질문은 '이번에 이야기한 파트'(혈액), '이 책의 긴 논의'로만 언급. Grep: 장 구성/11장/16장 모두 첫머리 목록뿐. 카드 작성자의 추정.",
+   "sonnet_label": "원문에 없음"
   }
  ],
  "sources_used": [
@@ -58,6 +59,11 @@
   "문헌/@미상 The Ethics of Generative AI in Health and Medicine.md"
  ],
  "sources_missing": [],
- "model": "sonnet",
- "date": "2026-10-13"
+ "model": "sonnet·영진",
+ "date": "2026-10-13",
+ "adjudication": {
+  "choice": "해석임을 밝힘",
+  "date": "2026-10-13",
+  "sonnet_verdict": "원문없음"
+ }
 }

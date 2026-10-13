@@ -1,7 +1,7 @@
 {
  "id": "43o4",
  "voice": "문헌",
- "verdict": "원문없음",
+ "verdict": "지지됨",
  "claims": [
   {
    "n": 0,
@@ -9,13 +9,6 @@
    "label": "지지됨",
    "evidence": "Overwanting case와 underwanting case를 모두 설명할 수 있다",
    "note": ""
-  },
-  {
-   "n": 1,
-   "text": "과욕/과소욕 반론은 욕구가 이유 믿음과 어긋날 수 있다는 점을 든다",
-   "label": "원문에 없음",
-   "evidence": "",
-   "note": "Grep: 어긋, mismatch, diverge 등. 필기는 반론이 '욕구에서 비합리적일 수 있다는 생각'이라 할 뿐, 어긋남 주장은 없음"
   },
   {
    "n": 2,
@@ -72,6 +65,21 @@
   "문헌/@Gregory2021 Desire as Belief.md"
  ],
  "sources_missing": [],
- "model": "sonnet",
- "date": "2026-10-13"
+ "model": "sonnet·영진",
+ "date": "2026-10-13",
+ "removed_claims": [
+  {
+   "n": 1,
+   "text": "과욕/과소욕 반론은 욕구가 이유 믿음과 어긋날 수 있다는 점을 든다",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "Grep: 어긋, mismatch, diverge 등. 필기는 반론이 '욕구에서 비합리적일 수 있다는 생각'이라 할 뿐, 어긋남 주장은 없음",
+   "sonnet_label": "원문에 없음"
+  }
+ ],
+ "adjudication": {
+  "choice": "문장을 지움",
+  "date": "2026-10-13",
+  "sonnet_verdict": "원문없음"
+ }
 }

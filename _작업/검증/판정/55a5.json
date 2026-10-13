@@ -1,17 +1,62 @@
 {
-  "id": "55a5",
-  "voice": "종합",
-  "verdict": "원문없음",
-  "claims": [
-    {"n": 0, "text": "재현이 본성상 정치적이라면 올바른 재현의 외적 기준 없이 어떤 재현을 오재현이라 부를 수 있는지가 물음으로 남는다", "label": "지지됨", "evidence": "no external strandard of deciding what is right", "note": ""},
-    {"n": 1, "text": "필기는 재현을 어떤 목적을 위해 무언가를 반복하여 어떤 것으로 제시하는 일로 풀이하고 본성상 정치적이라고 적는다", "label": "지지됨", "evidence": "Representation is Political in its nature", "note": ""},
-    {"n": 2, "text": "필기자는 seeing as에 깊은 근거가 없고 올바른 재현을 정할 외적 기준이 없다면 어떤 재현을 오재현이라 부를 수 있는지 묻는다", "label": "지지됨", "evidence": "how can we call some representations as", "note": ""},
-    {"n": 3, "text": "필기는 이 물음에 답하지 않는다", "label": "지지됨", "evidence": "(필기에 답 없음)", "note": "필기는 물음표로 끝남"},
-    {"n": 4, "text": "물음은 재현의 비판이 어떤 기준에 기대는지, 그 기준이 재현을 하는 쪽과 받는 쪽 가운데 누구에게서 오는지를 따져 보게 한다", "label": "원문에 없음", "evidence": "", "note": "필기에 재현하는 쪽과 받는 쪽을 구분하는 논의가 없음. 카드의 해석."},
-    {"n": 5, "text": "같은 수업에서 원주민 구술 문화의 기록이 다음 주제로 놓이므로 물음은 타자의 말을 기록하는 일에도 적용된다", "label": "원문에 없음", "evidence": "", "note": "구술 문화 항목이 다음에 있다는 점은 확인되나(제목뿐), 물음을 그 기록에 적용한다는 말은 필기에 없음. 카드의 연결."}
-  ],
-  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/미문개/3 9 Thr Native Amrican Response and Cultures 298938f43d0143bca251a1605ce2732f.md"],
-  "sources_missing": [],
-  "model": "sonnet",
-  "date": "2026-10-13"
+ "id": "55a5",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "재현이 본성상 정치적이라면 올바른 재현의 외적 기준 없이 어떤 재현을 오재현이라 부를 수 있는지가 물음으로 남는다",
+   "label": "지지됨",
+   "evidence": "no external strandard of deciding what is right",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "필기는 재현을 어떤 목적을 위해 무언가를 반복하여 어떤 것으로 제시하는 일로 풀이하고 본성상 정치적이라고 적는다",
+   "label": "지지됨",
+   "evidence": "Representation is Political in its nature",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "필기자는 seeing as에 깊은 근거가 없고 올바른 재현을 정할 외적 기준이 없다면 어떤 재현을 오재현이라 부를 수 있는지 묻는다",
+   "label": "지지됨",
+   "evidence": "how can we call some representations as",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "필기는 이 물음에 답하지 않는다",
+   "label": "지지됨",
+   "evidence": "(필기에 답 없음)",
+   "note": "필기는 물음표로 끝남"
+  },
+  {
+   "n": 4,
+   "text": "물음은 재현의 비판이 어떤 기준에 기대는지, 그 기준이 재현을 하는 쪽과 받는 쪽 가운데 누구에게서 오는지를 따져 보게 한다",
+   "label": "연결",
+   "evidence": "",
+   "note": "영진 판정(2026-10-13): 해석임을 밝힘. 필기에 재현하는 쪽과 받는 쪽을 구분하는 논의가 없음. 카드의 해석.",
+   "sonnet_label": "원문에 없음"
+  },
+  {
+   "n": 5,
+   "text": "같은 수업에서 원주민 구술 문화의 기록이 다음 주제로 놓이므로 물음은 타자의 말을 기록하는 일에도 적용된다",
+   "label": "연결",
+   "evidence": "",
+   "note": "영진 판정(2026-10-13): 해석임을 밝힘. 구술 문화 항목이 다음에 있다는 점은 확인되나(제목뿐), 물음을 그 기록에 적용한다는 말은 필기에 없음. 카드의 연결.",
+   "sonnet_label": "원문에 없음"
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/미문개/3 9 Thr Native Amrican Response and Cultures 298938f43d0143bca251a1605ce2732f.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet·영진",
+ "date": "2026-10-13",
+ "adjudication": {
+  "choice": "해석임을 밝힘",
+  "date": "2026-10-13",
+  "sonnet_verdict": "원문없음"
+ }
 }

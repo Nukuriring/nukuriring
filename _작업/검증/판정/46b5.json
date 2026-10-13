@@ -1,7 +1,7 @@
 {
  "id": "46b5",
  "voice": "문헌",
- "verdict": "원문없음",
+ "verdict": "지지됨",
  "claims": [
   {
    "n": 0,
@@ -34,15 +34,21 @@
   {
    "n": 4,
    "text": "비난 자격·절차 논의가 개인 간 관계에 머물지 않고 사회 구조 안에서 따져져야 함을 시사한다",
-   "label": "원문에 없음",
+   "label": "연결",
    "evidence": "",
-   "note": "필기 C절에 이 시사를 말하는 문장이 없음. 필기의 결론은 규범 수정 병행까지. 타당한 추론이나 출처 문장은 아님."
+   "note": "영진 판정(2026-10-13): 해석임을 밝힘. 필기 C절에 이 시사를 말하는 문장이 없음. 필기의 결론은 규범 수정 병행까지. 타당한 추론이나 출처 문장은 아님.",
+   "sonnet_label": "원문에 없음"
   }
  ],
  "sources_used": [
   "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/도덕적 책임 세미나_0421/Blame and Holding Responsible 1dd97cdd867e81d689d3c50cc26154d0.md"
  ],
  "sources_missing": [],
- "model": "sonnet",
- "date": "2026-10-13"
+ "model": "sonnet·영진",
+ "date": "2026-10-13",
+ "adjudication": {
+  "choice": "해석임을 밝힘",
+  "date": "2026-10-13",
+  "sonnet_verdict": "원문없음"
+ }
 }

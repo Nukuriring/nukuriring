@@ -1,7 +1,7 @@
 {
  "id": "42l2a",
  "voice": "문헌",
- "verdict": "원문없음",
+ "verdict": "지지됨",
  "claims": [
   {
    "n": 0,
@@ -37,19 +37,27 @@
    "label": "지지됨",
    "evidence": "amounts to knoweldge!",
    "note": ""
-  },
-  {
-   "n": 5,
-   "text": "이 특이성은 믿음 도식을 추론이라 부르는 것이 적절한지를 되묻게 하는 근거가 된다",
-   "label": "원문에 없음",
-   "evidence": "",
-   "note": "필기에 특이성을 '추론이라 부를 수 있는가'의 근거로 삼는 대목이 없음. 필기는 특이하다고만 말함."
   }
  ],
  "sources_used": [
   "_원자료/notion/…/심리철학연습_강의록_20210518 35697cdd….md"
  ],
  "sources_missing": [],
- "model": "sonnet",
- "date": "2026-10-13"
+ "model": "sonnet·영진",
+ "date": "2026-10-13",
+ "removed_claims": [
+  {
+   "n": 5,
+   "text": "이 특이성은 믿음 도식을 추론이라 부르는 것이 적절한지를 되묻게 하는 근거가 된다",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "필기에 특이성을 '추론이라 부를 수 있는가'의 근거로 삼는 대목이 없음. 필기는 특이하다고만 말함.",
+   "sonnet_label": "원문에 없음"
+  }
+ ],
+ "adjudication": {
+  "choice": "문장을 지움",
+  "date": "2026-10-13",
+  "sonnet_verdict": "원문없음"
+ }
 }

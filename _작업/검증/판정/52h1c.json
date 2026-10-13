@@ -1,7 +1,7 @@
 {
  "id": "52h1c",
  "voice": "문헌",
- "verdict": "원문없음",
+ "verdict": "지지됨",
  "claims": [
   {
    "n": 0,
@@ -9,13 +9,6 @@
    "label": "지지됨",
    "evidence": "Should feminism reject the conflation of “woman”",
    "note": ""
-  },
-  {
-   "n": 1,
-   "text": "토론 질문은 커비의 글 끝부분에서 가져온 물음",
-   "label": "원문에 없음",
-   "evidence": "",
-   "note": "원문은 '(p.234)'만 적고 글의 끝부분이라는 말이 없음. Grep: 끝, 마지막, 결론, conclu, p.234(발표 원자료), 끝부분, 맺음(문헌 노트)."
   },
   {
    "n": 2,
@@ -44,6 +37,21 @@
   "문헌/@Kirby Natural Conversations 발표문.md"
  ],
  "sources_missing": [],
- "model": "sonnet",
- "date": "2026-10-13"
+ "model": "sonnet·영진",
+ "date": "2026-10-13",
+ "removed_claims": [
+  {
+   "n": 1,
+   "text": "토론 질문은 커비의 글 끝부분에서 가져온 물음",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "원문은 '(p.234)'만 적고 글의 끝부분이라는 말이 없음. Grep: 끝, 마지막, 결론, conclu, p.234(발표 원자료), 끝부분, 맺음(문헌 노트).",
+   "sonnet_label": "원문에 없음"
+  }
+ ],
+ "adjudication": {
+  "choice": "문장을 지움",
+  "date": "2026-10-13",
+  "sonnet_verdict": "원문없음"
+ }
 }

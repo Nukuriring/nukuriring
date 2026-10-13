@@ -1,15 +1,47 @@
 {
-  "id": "54b5",
-  "voice": "문헌",
-  "verdict": "원문없음",
-  "claims": [
-    {"n": 0, "text": "카벨은 데스데모나를 죽이는 일을 타자의 최선의 경우를 인정하지 못하는 일로 읽는다", "label": "지지됨", "evidence": "failure to acknowledge a best case", "note": ""},
-    {"n": 1, "text": "카벨은 오델로가 데스데모나를 돌처럼 만드는 일을 타자의 최선의 경우를 인정하지 못하는 일로 읽는다. 이는 인정하는 능력이 죽는 일이고 우리 마음이 돌로 변하는 일이다", "label": "지지됨", "evidence": "turning of our hearts of stone", "note": "원문은 'stoning Desdemona'"},
-    {"n": 2, "text": "타자의 최선의 경우가 무엇을 뜻하는지는 영진의 요약에 풀이되어 있지 않다", "label": "지지됨", "evidence": "a best case of the other …", "note": "요약에 풀이가 없음을 확인함"},
-    {"n": 3, "text": "'타자의 최선의 경우'는 회의주의의 최선의 경우 논증에 쓰이는 개념을 타자에게 옮긴 말로 보인다", "label": "원문에 없음", "evidence": "", "note": "원문에 이 대응을 말하는 문장이 없다. 카드가 '보인다'로 표시한 추정이다."}
-  ],
-  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/Annotated Bib d226e7d2e87a45cc9a5e0308eb9f6818.md"],
-  "sources_missing": [],
-  "model": "sonnet",
-  "date": "2026-10-13"
+ "id": "54b5",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "카벨은 데스데모나를 죽이는 일을 타자의 최선의 경우를 인정하지 못하는 일로 읽는다",
+   "label": "지지됨",
+   "evidence": "failure to acknowledge a best case",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "카벨은 오델로가 데스데모나를 돌처럼 만드는 일을 타자의 최선의 경우를 인정하지 못하는 일로 읽는다. 이는 인정하는 능력이 죽는 일이고 우리 마음이 돌로 변하는 일이다",
+   "label": "지지됨",
+   "evidence": "turning of our hearts of stone",
+   "note": "원문은 'stoning Desdemona'"
+  },
+  {
+   "n": 2,
+   "text": "타자의 최선의 경우가 무엇을 뜻하는지는 영진의 요약에 풀이되어 있지 않다",
+   "label": "지지됨",
+   "evidence": "a best case of the other …",
+   "note": "요약에 풀이가 없음을 확인함"
+  },
+  {
+   "n": 3,
+   "text": "'타자의 최선의 경우'는 회의주의의 최선의 경우 논증에 쓰이는 개념을 타자에게 옮긴 말로 보인다",
+   "label": "지지됨",
+   "evidence": "",
+   "note": "영진 판정(2026-10-13): 판정이 틀림. 원문에 이 대응을 말하는 문장이 없다. 카드가 '보인다'로 표시한 추정이다.",
+   "sonnet_label": "원문에 없음"
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/Annotated Bib d226e7d2e87a45cc9a5e0308eb9f6818.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet·영진",
+ "date": "2026-10-13",
+ "adjudication": {
+  "choice": "판정이 틀림",
+  "date": "2026-10-13",
+  "sonnet_verdict": "원문없음"
+ }
 }

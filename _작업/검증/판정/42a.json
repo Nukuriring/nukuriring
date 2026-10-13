@@ -52,5 +52,10 @@
  ],
  "sources_missing": [],
  "model": "sonnet",
- "date": "2026-10-13"
+ "date": "2026-10-13",
+ "adjudication": {
+  "choice": "보류",
+  "date": "2026-10-13",
+  "sonnet_verdict": "원문없음"
+ }
 }

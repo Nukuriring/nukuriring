@@ -1,7 +1,7 @@
 {
  "id": "43o1",
  "voice": "종합",
- "verdict": "원문없음",
+ "verdict": "부분",
  "claims": [
   {
    "n": 0,
@@ -34,9 +34,10 @@
   {
    "n": 4,
    "text": "최선 추론 설명의 두 전제는 약해진 판본에서야 성립한다",
-   "label": "원문에 없음",
+   "label": "연결",
    "evidence": "",
-   "note": "Grep: 약화, 약해, 정당화, justif 등 해당 대목 없음; 필기는 두 전제를 '선호' 판본으로 적을 뿐"
+   "note": "영진 판정(2026-10-13): 해석임을 밝힘. Grep: 약화, 약해, 정당화, justif 등 해당 대목 없음; 필기는 두 전제를 '선호' 판본으로 적을 뿐",
+   "sonnet_label": "원문에 없음"
   }
  ],
  "sources_used": [
@@ -44,6 +45,11 @@
   "문헌/@Gregory2021 Desire as Belief.md"
  ],
  "sources_missing": [],
- "model": "sonnet",
- "date": "2026-10-13"
+ "model": "sonnet·영진",
+ "date": "2026-10-13",
+ "adjudication": {
+  "choice": "해석임을 밝힘",
+  "date": "2026-10-13",
+  "sonnet_verdict": "원문없음"
+ }
 }

@@ -6,6 +6,7 @@
 # - 해석임을 밝힘: 문제 명제를 연결로 (카드 문장 끝에 해석 표시가 붙었다는 전제)
 # - 문장을 지움: 문제 명제를 claims에서 빼 removed_claims로 옮김
 # - 원서를 넣고 다시 판정, 그대로 둠, 보류: 판정은 그대로 두고 표시만 남김
+# - 결정 값은 문자열이거나 {choice, skip_n(판정을 바꾸지 않을 명제 번호), pending(남은 일이 있으면 보류로 처리)}
 import json, os, sys
 V = sys.argv[1]
 DRY = '--dry-run' in sys.argv
@@ -25,7 +26,10 @@ def card_verdict(claims):
 
 
 out = []
-for cid, choice in sorted(DEC.items()):
+for cid, dec in sorted(DEC.items()):
+    if isinstance(dec, str): dec = {'choice': dec}
+    choice, skip = dec['choice'], set(dec.get('skip_n', []))
+    if dec.get('pending'): choice = '보류'
     p = os.path.join(JDIR, cid + '.json')
     j = json.load(open(p, encoding='utf-8'))
     if j.get('adjudication'):
@@ -34,7 +38,7 @@ for cid, choice in sorted(DEC.items()):
     tag = f'영진 판정({DATE}): {choice}'
     keep, removed = [], []
     for c in j['claims']:
-        if c.get('label') in BAD and choice in ('카드를 고침', '카드의 교정을 인정', '판정이 틀림', '해석임을 밝힘', '문장을 지움'):
+        if c.get('label') in BAD and c.get('n') not in skip and choice in ('카드를 고침', '카드의 교정을 인정', '판정이 틀림', '해석임을 밝힘', '문장을 지움'):
             c = dict(c, sonnet_label=c['label'])
             if choice == '문장을 지움':
                 removed.append(c); continue
@@ -43,7 +47,7 @@ for cid, choice in sorted(DEC.items()):
         keep.append(c)
     j['claims'] = keep
     if removed: j['removed_claims'] = removed
-    j['adjudication'] = {'choice': choice, 'date': DATE, 'sonnet_verdict': before}
+    j['adjudication'] = {'choice': choice, 'date': DATE, 'sonnet_verdict': before, **{k: v for k, v in dec.items() if k != 'choice'}}
     j['verdict'] = card_verdict(keep)
     if j['verdict'] != before: j['model'] = (j.get('model') or 'sonnet') + '·영진'
     out.append(f'{cid}: {choice} / {before} → {j["verdict"]}')

@@ -1,7 +1,7 @@
 {
  "id": "52f1b",
  "voice": "문헌",
- "verdict": "모순",
+ "verdict": "지지됨",
  "claims": [
   {
    "n": 0,
@@ -27,9 +27,10 @@
   {
    "n": 3,
    "text": "그때 방 안의 사람들은 이것은 여성의 일로 보이지 않는다고 말한다",
-   "label": "모순",
+   "label": "지지됨",
    "evidence": "they charge, “This ain’t no women’s thing!”",
-   "note": "원문에서 이 말을 하는 쪽은 들어온 사람들(they)이며 방 안 사람들이 아님. 화자가 뒤바뀜."
+   "note": "영진 판정(2026-10-13): 카드를 고침. 원문에서 이 말을 하는 쪽은 들어온 사람들(they)이며 방 안 사람들이 아님. 화자가 뒤바뀜.",
+   "sonnet_label": "모순"
   },
   {
    "n": 4,
@@ -64,6 +65,11 @@
   "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/사회철학연습_0423/Coalition Politics Turning the Century 1dd97cdd867e80bf8433f7df4dd66cd5.md"
  ],
  "sources_missing": [],
- "model": "sonnet",
- "date": "2026-10-13"
+ "model": "sonnet·영진",
+ "date": "2026-10-13",
+ "adjudication": {
+  "choice": "카드를 고침",
+  "date": "2026-10-13",
+  "sonnet_verdict": "모순"
+ }
 }

@@ -1,17 +1,63 @@
 {
-  "id": "54b1",
-  "voice": "문헌",
-  "verdict": "원문없음",
-  "claims": [
-    {"n": 0, "text": "카벨에 따르면 회의주의의 전형적 감정은 앎을 막으려던 노력에 대한 놀라움이다", "label": "지지됨", "evidence": "astonishment of 'effort to stave the knowledge off'", "note": ""},
-    {"n": 1, "text": "카벨은 회의주의에 따르는 전형적 감정을 발견 또는 놀라움으로 짚는다", "label": "지지됨", "evidence": "'Discovery, or astonishment'", "note": ""},
-    {"n": 2, "text": "이 감정에는 '안다고 생각했는데 몰랐다'는 감각이 들어 있다", "label": "지지됨", "evidence": "I-thoguht-I-knew-it-but-I-did-not", "note": ""},
-    {"n": 3, "text": "놀라움이 향하는 곳은 앎을 막아 내려고 애쓴 노력이다", "label": "지지됨", "evidence": "astonishment of 'effort to stave the knowledge off'", "note": ""},
-    {"n": 4, "text": "오델로는 이아고의 말이 거짓임을 어느 정도 알면서도 그를 믿으려 애썼다", "label": "지지됨", "evidence": "At least to some extent, Othello knows", "note": "'어느 정도' 유지됨"},
-    {"n": 5, "text": "그 믿으려 애쓴 노력이 무너지는 지점에서 이 놀라움이 오델로에게 나타난다", "label": "원문에 없음", "evidence": "", "note": "원문은 놀라움을 회의주의 일반의 전형적 감정으로 말할 뿐, 오델로의 어느 지점에서 나타난다고 하지 않는다. 오델로의 노력이 '무너진다'는 서술도 없다. 카드의 적용 해석."}
-  ],
-  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/Annotated Bib d226e7d2e87a45cc9a5e0308eb9f6818.md"],
-  "sources_missing": [],
-  "model": "sonnet",
-  "date": "2026-10-13"
+ "id": "54b1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "카벨에 따르면 회의주의의 전형적 감정은 앎을 막으려던 노력에 대한 놀라움이다",
+   "label": "지지됨",
+   "evidence": "astonishment of 'effort to stave the knowledge off'",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "카벨은 회의주의에 따르는 전형적 감정을 발견 또는 놀라움으로 짚는다",
+   "label": "지지됨",
+   "evidence": "'Discovery, or astonishment'",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "이 감정에는 '안다고 생각했는데 몰랐다'는 감각이 들어 있다",
+   "label": "지지됨",
+   "evidence": "I-thoguht-I-knew-it-but-I-did-not",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "놀라움이 향하는 곳은 앎을 막아 내려고 애쓴 노력이다",
+   "label": "지지됨",
+   "evidence": "astonishment of 'effort to stave the knowledge off'",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "오델로는 이아고의 말이 거짓임을 어느 정도 알면서도 그를 믿으려 애썼다",
+   "label": "지지됨",
+   "evidence": "At least to some extent, Othello knows",
+   "note": "'어느 정도' 유지됨"
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/Annotated Bib d226e7d2e87a45cc9a5e0308eb9f6818.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet·영진",
+ "date": "2026-10-13",
+ "removed_claims": [
+  {
+   "n": 5,
+   "text": "그 믿으려 애쓴 노력이 무너지는 지점에서 이 놀라움이 오델로에게 나타난다",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "원문은 놀라움을 회의주의 일반의 전형적 감정으로 말할 뿐, 오델로의 어느 지점에서 나타난다고 하지 않는다. 오델로의 노력이 '무너진다'는 서술도 없다. 카드의 적용 해석.",
+   "sonnet_label": "원문에 없음"
+  }
+ ],
+ "adjudication": {
+  "choice": "문장을 지움",
+  "date": "2026-10-13",
+  "sonnet_verdict": "원문없음"
+ }
 }

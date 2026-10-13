@@ -1,7 +1,7 @@
 {
  "id": "44d5",
  "voice": "문헌",
- "verdict": "원문없음",
+ "verdict": "지지됨",
  "claims": [
   {
    "n": 0,
@@ -41,9 +41,10 @@
   {
    "n": 5,
    "text": "차단으로 반례를 처리하는 전략은 A&S가 비판한 전통적 이론의 전략",
-   "label": "원문에 없음",
+   "label": "연결",
    "evidence": "",
-   "note": "Grep: A&S, 아팔리, Alvarez, Schroeder, 슈로더, 전통적 이론 (0314 필기와 SmithM 노트) 없음"
+   "note": "영진 판정(2026-10-13): 해석임을 밝힘. Grep: A&S, 아팔리, Alvarez, Schroeder, 슈로더, 전통적 이론 (0314 필기와 SmithM 노트) 없음",
+   "sonnet_label": "원문에 없음"
   }
  ],
  "sources_used": [
@@ -51,6 +52,11 @@
   "문헌/@SmithM Humean Theory of Motivation.md"
  ],
  "sources_missing": [],
- "model": "sonnet",
- "date": "2026-10-13"
+ "model": "sonnet·영진",
+ "date": "2026-10-13",
+ "adjudication": {
+  "choice": "해석임을 밝힘",
+  "date": "2026-10-13",
+  "sonnet_verdict": "원문없음"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "42l3",
  "voice": "문헌",
- "verdict": "원문없음",
+ "verdict": "지지됨",
  "claims": [
   {
    "n": 0,
@@ -34,15 +34,21 @@
   {
    "n": 4,
    "text": "암묵적 앎이 능력이라면 믿음의 본성이 그 능력을 포함한다는 주장을 앎의 설명으로 받아들일 수 있는지 따져 볼 문제",
-   "label": "원문에 없음",
+   "label": "연결",
    "evidence": "",
-   "note": "필기 Comment 1은 어떤 능력인지만 물음. 이 함축을 따지는 대목이 없음."
+   "note": "영진 판정(2026-10-13): 해석임을 밝힘. 필기 Comment 1은 어떤 능력인지만 물음. 이 함축을 따지는 대목이 없음.",
+   "sonnet_label": "원문에 없음"
   }
  ],
  "sources_used": [
   "_원자료/notion/…/심리철학연습_강의록_20210518 35697cdd….md"
  ],
  "sources_missing": [],
- "model": "sonnet",
- "date": "2026-10-13"
+ "model": "sonnet·영진",
+ "date": "2026-10-13",
+ "adjudication": {
+  "choice": "해석임을 밝힘",
+  "date": "2026-10-13",
+  "sonnet_verdict": "원문없음"
+ }
 }

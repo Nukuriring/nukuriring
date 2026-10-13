@@ -8,9 +8,9 @@ sources: []
 cluster: 경제학과 경제사
 group: M7
 created: 2026-10-12
-verify: 모순
+verify: 지지됨
 verify_date: 2026-10-12
-verify_by: sonnet
+verify_by: sonnet·영진
 ---
 # 34f1 레버리지 ETF는 매일 재조정되어 횡보장에서 기초지수가 제자리여도 가치가 깎인다
 

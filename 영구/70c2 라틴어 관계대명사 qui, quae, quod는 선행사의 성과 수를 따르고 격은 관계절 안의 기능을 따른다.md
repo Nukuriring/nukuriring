@@ -14,7 +14,7 @@ verify_by: sonnet
 ---
 # 70c2 라틴어 관계대명사 qui, quae, quod는 선행사의 성과 수를 따르고 격은 관계절 안의 기능을 따른다
 
-28과 필기는 관계대명사(relative pronoun)의 변화를 단수 qui, quae, quod, cuius, cui, quem, quam, quod, quo, qua, quo와 복수 qui, quae, quae, quorum, quarum, quorum, quibus, quos, quas, quae, quibus로 적는다. 28.4의 Magister, cui Flaccus tradiderat argentum에서 cui는 tradere의 받는 이이므로 여격이고, 영진의 작문 답안은 같은 문장을 cui Flaccus argentum dederat로 옮겼다. Navis, quam nautae solverant에서 quam은 solverant의 목적어이므로 대격이고 선행사 navis에 맞춰 여성 단수이다. alter viator cum quo Quintus colloquium faciebat에서 quo는 전치사 cum 뒤의 탈격이고, alter, cuius parentes in Graecia habitabant에서 cuius는 parentes를 한정하는 속격이다. 이 격 분석은 Claude가 예문을 풀이한 것이며 필기에는 변화표와 번역 연습만 있다.
+28과 필기는 관계대명사(relative pronoun)의 변화를 단수 qui, quae, quod, cuius, cui, quem, quam, quod, quo, qua, quo와 복수 qui, quae, quae, quorum, quarum, quorum, quibus, quos, quas, quae, quibus로 적는다. 28.4의 Magister, cui Flaccus tradiderat argentum에서 cui는 tradere의 받는 이이므로 여격이고, 영진의 작문 답안은 같은 문장을 cui Flaccus argentum dederat로 옮겼다. Navis, quam nautae solverant에서 quam은 solverant의 목적어이므로 대격이고 선행사 navis에 맞춰 여성 단수이다 (원자료에 없는 정리자 해석). alter viator cum quo Quintus colloquium faciebat에서 quo는 전치사 cum 뒤의 탈격이고, alter, cuius parentes in Graecia habitabant에서 cuius는 parentes를 한정하는 속격이다 (원자료에 없는 정리자 해석). 이 격 분석은 Claude가 예문을 풀이한 것이며 필기에는 변화표와 번역 연습만 있다.
 
 ## 연결
 - 상위: [[70c 라틴어 unus 계열 아홉 형용사는 속격을 -ius로, 여격을 -i로 만든다]]
