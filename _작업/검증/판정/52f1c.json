@@ -1,0 +1,56 @@
+{
+ "id": "52f1c",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "필기에 따르면 리건은 기술이 숨을 곳을 없앴다고 보고 문 닫기를 반동으로 평가하며 연합을 장기 투쟁으로 놓는다",
+   "label": "지지됨",
+   "evidence": "“숨을 곳 없는 세계”를 만들었다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "철도, 전화, 텔레비전, 컴퓨터가 숨을 곳 없는 세계를 만들었고 순혈적 공간의 시대가 끝났다",
+   "label": "지지됨",
+   "evidence": "순혈적 공간은 종말",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "자기 집단의 문을 걸어 잠그는 내셔널리즘이 결국 반동적이 된다",
+   "label": "지지됨",
+   "evidence": "곧 ‘반동(reactionary)’이 된다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "연합의 싸움은 반세기 뒤에도 살아남을 원칙을 심는 세대적 투쟁이다",
+   "label": "지지됨",
+   "evidence": "50년 뒤도 살아남을 원칙을 심어야",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "모한티 필기도 지금의 행동 대부분이 잊힌 뒤에 살 사람들을 위한 것이라는 취지",
+   "label": "지지됨",
+   "evidence": "for people who live long after you are forgotten",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "요약은 교차성 여성주의의 초기 텍스트이자 운동 전략서로 평가한다(작성자의 해석)",
+   "label": "지지됨",
+   "evidence": "인터섹셔널 페미니즘의 초기 텍스트",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/사회철학연습_0423/Coalition Politics Turning the Century 1dd97cdd867e80bf8433f7df4dd66cd5.md",
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/사회철학연습_0423/SIsterhood, Coalition, and the politics of Experie 1dd97cdd867e801f80a1fea19625bfe0.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

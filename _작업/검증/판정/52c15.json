@@ -1,0 +1,83 @@
+{
+ "id": "52c15",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "푸코 담론 분석에 현상학과 정신분석을 더해 지식과 살아지는 몸 사이 번역의 실패",
+   "label": "지지됨",
+   "evidence": "a failed translation",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "푸코의 부추김에 현상학적 강조와 정신분석적 관심을 결합",
+   "label": "지지됨",
+   "evidence": "phenomenological emphasis ... psychoanalytical",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "정신분석은 성 무의식 미래에 얽힌 쾌락과 고통의 자리로서 몸 강조",
+   "label": "지지됨",
+   "evidence": "body as the site of pleasures and pains",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "만남이 이미 정해진 범주로 결정된다고 하는 것으로는 불충분",
+   "label": "지지됨",
+   "evidence": "It is not sufficient to argue",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "범주와 규범은 협상되고 완전히 고정되지 않는다",
+   "label": "지지됨",
+   "evidence": "never fully fixed in place",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "인종적 몸의 구성과 살아짐 사이에 메워야 할 틈",
+   "label": "지지됨",
+   "evidence": "there is always a gap",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "파농의 만남: 백인 소년이 안다고 여기며 두려워 움츠림",
+   "label": "지지됨",
+   "evidence": "the little white boy 'knows'",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "봄과 앎의 관계가 보는 주체를 아는 자로 구성",
+   "label": "지지됨",
+   "evidence": "constitute the subject as the one who knows",
+   "note": ""
+  },
+  {
+   "n": 8,
+   "text": "흑인 주체를 보지 못함이 백인 몸의 재조직을 가능케 함, 환상으로 감쌈",
+   "label": "지지됨",
+   "evidence": "wrapping the bodies of others in fantasy",
+   "note": ""
+  },
+  {
+   "n": 9,
+   "text": "정신적 차원이 특정 타자화 역사에 우연적, 어떤 몸이 위험해 보이는지 이해",
+   "label": "지지됨",
+   "evidence": "contingent on specific histories of othering",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Ahmed_racialized body 35697cdd867e819ab7c3fdef10a908b3.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

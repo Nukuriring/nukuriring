@@ -1,0 +1,70 @@
+{
+ "id": "52a4",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "억압을 선의의 사람들의 일상 반응과 제도가 재생산하는 구조로 이해",
+   "label": "지지됨",
+   "evidence": "systematically reproduced in major",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "억압은 폭군의 의도 없이도 성립하는 집단 제약",
+   "label": "지지됨",
+   "evidence": "not necessarily the result of the intentions",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "선의의 사람의 무의식적 가정, 매체 고정관념, 관료제와 시장 기제에서 나옴",
+   "label": "부분 지지",
+   "evidence": "often unconscious assumptions and reactions",
+   "note": "원문 'often unconscious'의 'often'이 빠짐."
+  },
+  {
+   "n": 3,
+   "text": "지배자를 몰아내거나 새 법으로 없앨 수 없다",
+   "label": "지지됨",
+   "evidence": "getting rid of the rulers or making some new laws",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "억압받는 집단에 대응 억압 집단이 반드시 있을 필요 없다",
+   "label": "지지됨",
+   "evidence": "need not have a correlate oppressing group",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "푸코: 권력은 자유주의적이고 인도적인 실천의 효과로 행사",
+   "label": "부분 지지",
+   "evidence": "often liberal and \"humane\" practices",
+   "note": "원문은 'often liberal and humane'(흔히), 카드는 한정 없이 단정."
+  },
+  {
+   "n": 6,
+   "text": "개인이 의도적으로 해를 끼치는 일이 없다는 것은 아니다",
+   "label": "지지됨",
+   "evidence": "individual persons do intentionally harm others",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "억압으로 이익 얻는 집단이 있다, 모든 억압 집단에 특권 집단",
+   "label": "지지됨",
+   "evidence": "for every oppressed group there is a group",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Iris young 정리 35697cdd867e81bcabedce6812bb6d93.md (56-62줄)",
+  "문헌/@Young1990 Justice and the Politics of Difference.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

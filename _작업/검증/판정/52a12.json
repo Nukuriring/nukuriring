@@ -1,0 +1,84 @@
+{
+ "id": "52a12",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "폭력은 집단 구성원이라는 이유로 닥치는 체계적 공격과 일상의 두려움, 제도의 부정의",
+   "label": "지지됨",
+   "evidence": "Violence is systemic because it is directed",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "집단 구성원이 임의의 공격에 대한 두려움 속에 산다",
+   "label": "지지됨",
+   "evidence": "must fear random, unprovoked attacks",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "물리적 공격과 가벼운 괴롭힘 위협 조롱도 포함",
+   "label": "지지됨",
+   "evidence": "harrassment, intimidation, or ridicule",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "개인이 저질러도 정의 문제인 이유는 가능케 하고 용인하는 사회적 맥락",
+   "label": "지지됨",
+   "evidence": "social context ... makes them possible",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "여성의 강간 두려움, 흑인 남성은 공격 가능성을 알고 산다",
+   "label": "지지됨",
+   "evidence": "Any woman has a reason to fear rape",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "억압은 직접 피해와 매일 공유하는 앎에서도 성립",
+   "label": "지지됨",
+   "evidence": "daily knowledge shared by all members",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "가해자 약한 처벌로 집단 폭력은 용인되어 정당성에 가까워진다",
+   "label": "지지됨",
+   "evidence": "Group violence approaches legitimacy",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "파업 노동자 폭력은 합리적 동기, 인종 성 동성애 폭력은 공포 증오와 무의식",
+   "label": "지지됨",
+   "evidence": "irrationality suggests unconscious",
+   "note": "원문 'suggests'를 카드는 '개입한다고 본다'로 옮김. 허용 범위로 봄."
+  },
+  {
+   "n": 8,
+   "text": "정신분석적 설명 예고",
+   "label": "지지됨",
+   "evidence": "I offer a psychoanalytic account",
+   "note": ""
+  },
+  {
+   "n": 9,
+   "text": "분배적 정의가 잡기 어려운 부정의, 가능케 하는 제도와 실천은 개혁 대상",
+   "label": "지지됨",
+   "evidence": "ill equipped to capture",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Iris young 정리 35697cdd867e81bcabedce6812bb6d93.md (174-194줄)",
+  "문헌/@Young1990 Justice and the Politics of Difference.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

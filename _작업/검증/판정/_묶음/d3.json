@@ -1,0 +1,283 @@
+{
+  "model": "sonnet",
+  "date": "2026-10-13",
+  "cards": [
+    {
+      "id": "20d", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "톰슨은 생명의 표지 목록을 두 양면에서 허물어 삶을 형식의 범주로 옮긴다", "label": "지지됨", "evidence": "삶은...고유한 논리적 범주·형식", "note": ""},
+        {"n": 1, "text": "목록에는 삶에 실재적 정의를 주려는 야심이 깔려 있고 조직 항목 추궁에서 무너진다", "label": "지지됨", "evidence": "모든 표지가 물리나 동어반복으로 무너짐", "note": ""},
+        {"n": 2, "text": "어떤 표지든 DNA처럼 물리적이거나 기관처럼 동어반복이 된다", "label": "지지됨", "evidence": "DNA...스킬라...기관...동어반복적 카리브디스", "note": ""},
+        {"n": 3, "text": "둘째 야심 극단적 개체주의는 형식의 같음이 개체의 국소 사실로 판정되지 않아 무너진다", "label": "지지됨", "evidence": "개체주의적으로 판정 가능한 사실이 아닙니다", "note": ""},
+        {"n": 4, "text": "두 논박 모두에서 변별력은 생명 작용과 형식의 범주를 불러들이는 쪽에서만 얻어진다", "label": "부분 지지", "evidence": "변별력은 오직 카리브디스(형식·생명) 쪽에서만", "note": "이 비대칭은 개체주의 논박(둘째)에서만 명시됨. 첫째(조직)는 '삶 특유의 조직'이라는 동어반복으로 귀착한다고만 하고 형식 범주를 불러들인다고는 하지 않음."},
+        {"n": 5, "text": "실재적 정의의 실패가 삶은 고유한 논리적 범주라는 테제를 떠받친다", "label": "지지됨", "evidence": "고유한 논리적 범주·형식이라는 적극적 단서", "note": ""},
+        {"n": 6, "text": "이 범주가 자연사적 판단과 생명형식으로 이어진다", "label": "지지됨", "evidence": "자연사적 판단과 생명형식이라는 논리 형식으로", "note": ""}
+      ],
+      "sources_used": ["문헌/@Thompson2008 Life and Action.md", "_원자료/claude.ai/chats/2026-06-03_글 설명 요청.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "20d8", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "톰슨의 즉자적 비판은 수선이 형식 범주를 끌어오게 해 부정을 긍정으로 전환한다", "label": "지지됨", "evidence": "즉자적(immanent) 비판의 묘수", "note": ""},
+        {"n": 1, "text": "개체주의자의 수선은 생명 작용과 형식의 같음을 부르므로 변별력은 카리브디스 쪽에서만 얻어진다", "label": "지지됨", "evidence": "변별력은 오직 카리브디스 쪽에서만", "note": ""},
+        {"n": 2, "text": "그 기준들은 처음부터 형식의 범주에 기대어 있었다", "label": "지지됨", "evidence": "처음부터 형식 범주에 기생하고", "note": ""},
+        {"n": 3, "text": "톰슨은 개체주의자가 마음껏 수선하게 두고 스스로 형식 범주를 끌어오게 만든다", "label": "지지됨", "evidence": "마음껏 수선하게 두고", "note": ""},
+        {"n": 4, "text": "피고의 자기변호가 검사의 증거가 되는 구도이다", "label": "지지됨", "evidence": "피고의 자기변호가 검사의 증거", "note": ""},
+        {"n": 5, "text": "개체주의는 자기 수선의 논리로 무너지고 형식 범주가 남는다", "label": "지지됨", "evidence": "자기 수선의 논리에 의해 무너지고", "note": ""},
+        {"n": 6, "text": "자연사적 판단과 생명형식은 논박이 남긴 폐허에서 요구되는 개념이다", "label": "지지됨", "evidence": "부정이 요구한 잔여물", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-06-03_글 설명 요청.md", "문헌/@Thompson2008 Life and Action.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "20g", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "생명형식을 생명 기술이 전제하는 범주로 세우고 그 형식을 자연사적 판단에서 찾는다", "label": "지지됨", "evidence": "답: 자연사적 판단으로 기술된다", "note": ""},
+        {"n": 1, "text": "앞의 두 절에서 목록 전통의 기준을 허물었고 이 구간은 남은 범주에 이름을 붙인다", "label": "지지됨", "evidence": "그 부정이 요구한 잔여물을 명명해 세우는", "note": ""},
+        {"n": 2, "text": "생명형식은 생명 기술이 전제하는 더 넓은 맥락이다", "label": "지지됨", "evidence": "생명-기술은 형식을 전제한다", "note": ""},
+        {"n": 3, "text": "다중 실현, 환경과 DNA, 수입한 종 개념, 개체 집합이 차례로 후보에서 빠진다", "label": "지지됨", "evidence": "다중 실현만으로 입증되지(1) 않는다", "note": ""},
+        {"n": 4, "text": "물음을 무엇인지에서 어떻게 기술되는지로 바꾼다", "label": "지지됨", "evidence": "어떻게 기술되는가(How is such", "note": ""},
+        {"n": 5, "text": "자연사적 판단을 전용 어휘 없이 겉이 같은 판단 곁에 놓아 식별한다", "label": "지지됨", "evidence": "표면이 동일한 사칭자 옆에 세워", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-06-03_글 설명 요청.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "20g1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "다른 재료에서 같은 것이 실현되는 사실만으로는 비개체주의가 입증되지 않는다", "label": "지지됨", "evidence": "다중 실현 가능성 ≠ 비개체주의", "note": ""},
+        {"n": 1, "text": "새 출발의 단서를 앤스컴의 피임 논의에서 빌린다", "label": "지지됨", "evidence": "앵스컴(피임 논의)에서 빌려옵니다", "note": ""},
+        {"n": 2, "text": "먹기는 본성상 영양 섭취, 눈은 시각 기관, 교미는 본질상 생식적", "label": "지지됨", "evidence": "본질상 생식적이다", "note": ""},
+        {"n": 3, "text": "도토리라 부를 때 도토리 자체에서 보이는 것보다 넓은 맥락을 본다", "label": "지지됨", "evidence": "더 넓은 맥락을 본다", "note": ""},
+        {"n": 4, "text": "도토리 반문에 먹기와 눈의 예로 씨앗 일반 사유에서 이미 작동한다고 답한다", "label": "지지됨", "evidence": "'씨앗 일반'으로 생각하는 데서", "note": ""},
+        {"n": 5, "text": "구리, 철, 은이 금속이라는 사실과 같고 금속은 개체주의적으로 판정된다", "label": "지지됨", "evidence": "덩어리만 검사하면 되니까", "note": ""},
+        {"n": 6, "text": "비개체주의를 입증하려면 역방향의 사례가 필요하다", "label": "지지됨", "evidence": "입증하려면 역방향이 필요합니다", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-06-03_글 설명 요청.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "20g4", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "늪지인간 사례로 물리적 동일성은 생명에 충분하지 않고 형식 귀속이 필요하다", "label": "지지됨", "evidence": "물리적 동일성은 생명에 충분치 않다", "note": ""},
+        {"n": 1, "text": "데이비슨의 늪지인간은 우연히 생겨난 부분 대 부분 물리적 동일 존재이다", "label": "지지됨", "evidence": "부분 대 부분 ... 동일한 존재", "note": ""},
+        {"n": 2, "text": "데이비슨은 사고를 의심했고 톰슨은 살아 있지조차 않다고 본다", "label": "지지됨", "evidence": "살아 있지조차 않다", "note": ""},
+        {"n": 3, "text": "특정 맥락과 연결이 끊겨 생명형식에 결부될 수 없고 생명 기술의 지반이 사라진다", "label": "지지됨", "evidence": "모든 생명-기술의 지반 자체가 제거", "note": ""},
+        {"n": 4, "text": "팔인지 변형된 다리인지 잘린 날개인지, 유전자로도 결함 여부를 가릴 수 없다", "label": "지지됨", "evidence": "팔인가, 끔찍하게 변형된 다리인가", "note": ""},
+        {"n": 5, "text": "해당 과정이 가장 정밀한 예이며 중단돼도 해당 과정은 일어나고 있었다", "label": "지지됨", "evidence": "그것은 분명 glycolysis였다", "note": ""},
+        {"n": 6, "text": "형식의 정상 계열 속 다음 단계를 가진 위치로 식별되기 때문이다", "label": "지지됨", "evidence": "형식의 정상 계열 속 위치", "note": ""},
+        {"n": 7, "text": "늪지인간은 다음 단계 조건조차 우연이라 해당 과정이 일어났다고 말할 수 없다", "label": "지지됨", "evidence": "그 기원이 그러했듯 모든 의미에서 우연", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-06-03_글 설명 요청.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "20g7", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "자연사적 판단은 이전과 이후의 시간 표지를 쓰는 시제 없는 습성적 현재이다", "label": "지지됨", "evidence": "시제 없는·습성적 현재다", "note": ""},
+        {"n": 1, "text": "시간 표지는 봄에, 가을에처럼 이전과 이후를 가리키는 맥타가트 B계열이다", "label": "지지됨", "evidence": "B계열(이전-이후의 순서)", "note": ""},
+        {"n": 2, "text": "엘사에 관한 문장은 A계열 과거의 단칭 문장이다", "label": "지지됨", "evidence": "단칭, A계열 과거", "note": ""},
+        {"n": 3, "text": "종류에 관해서는 겨울에도 현재형, 엘사의 과거형은 일반 문장의 예시이다", "label": "지지됨", "evidence": "겨울에 그 정보를 전해도 현재형", "note": ""},
+        {"n": 4, "text": "생명형식 판단은 과거형·미래형 없이도 가능하나 개별자 기술은 과거형(아마 미래형도) 요구", "label": "지지됨", "evidence": "과거(아마 미래)형 사용이 없으면 안 된다", "note": ""},
+        {"n": 5, "text": "개체의 사건은 삽화적이어서 끝을 알아야 하고, 볏을 가진다는 데는 그침의 관념이 필요 없다", "label": "지지됨", "evidence": "볏을 갖기를 그친다는 관념에 아무 의미", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-06-03_글 설명 요청.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "20g8", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "생물학의 일반 명제는 생명형식 자리에 대한 일반화여서 일반성이 두 층이다", "label": "지지됨", "evidence": "일반성의 두 층위다", "note": ""},
+        {"n": 1, "text": "도감식 서술이 철학의 입장권이라니 우습지 않으냐는 반론을 스스로 제기한다", "label": "지지됨", "evidence": "자기 반론을 톰슨이 먼저 던지고", "note": ""},
+        {"n": 2, "text": "생물학 명제는 이런 진술이거나 더 흔하게는 보통명사 자리에 대한 일반화이다", "label": "지지됨", "evidence": "더 흔하게는...일반화다", "note": ""},
+        {"n": 3, "text": "프레게식으로 술어가 변항에 붙고 대입 예가 아리스토텔레스적 정언문이 된다", "label": "지지됨", "evidence": "열린 문장의 대입예가", "note": ""},
+        {"n": 4, "text": "태생의 예는 인간, 말, 낙타이며 헬레네와 페넬로페는 아니다", "label": "지지됨", "evidence": "헬레네와 페넬로페를 들지 않는다", "note": ""},
+        {"n": 5, "text": "틀니 낀 사람, 새삼과 수정난풀, 백화 메리골드 예", "label": "지지됨", "evidence": "새삼·수정난풀(종!)", "note": ""},
+        {"n": 6, "text": "대입 예는 부케팔로스는 태생이다가 아니라 말은 태생이다 같은 일반 명제", "label": "지지됨", "evidence": "그 자체로 일반 명제", "note": ""},
+        {"n": 7, "text": "크게 일반화할 때 이 두 층을 놓치기 쉽다고 톰슨이 경고한다", "label": "지지됨", "evidence": "놓치기 쉽다고 톰슨은 경고한다", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-06-03_글 설명 요청.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "20g9", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "진짜 주어는 분류 위계에 앞서는 생명형식이고 분류학은 경험적 상부구조이다", "label": "지지됨", "evidence": "경험적 상부구조다", "note": ""},
+        {"n": 1, "text": "더 높은 유를 주어로 세우는 것은 가능한 이론이며 반박할 필요가 없다", "label": "지지됨", "evidence": "가능한 이론이고, 반박할 필요는 없다", "note": ""},
+        {"n": 2, "text": "상위 유 분류를 허용한다는 사실은 단지 경험적 진리이고 진화의 산물이다", "label": "지지됨", "evidence": "단지 경험적 진리, 진화의 산물", "note": ""},
+        {"n": 3, "text": "유기체가 생명형식 아래 든다는 사실은 단지 경험적 사실이 아니다", "label": "지지됨", "evidence": "단지 경험적 사실이 아니다", "note": ""},
+        {"n": 4, "text": "분류 위계는 역사나 유사성의 기록이며 생명형식 분류는 유사성·계통 판단보다 먼저이다", "label": "지지됨", "evidence": "유사성 판단이나 공통 계통 판단보다 선행", "note": ""},
+        {"n": 5, "text": "그 분류는 개체를 먹고 자라며 팔이나 잎을 가진 것으로 표상하는 데 함축된다", "label": "지지됨", "evidence": "표상함 안에 함축돼 있다", "note": ""},
+        {"n": 6, "text": "진짜 주어는 거기 반드시 있어야 하는 것의 표상으로 최하종에 가깝다", "label": "지지됨", "evidence": "infima species(최하종) 비슷한 것", "note": ""},
+        {"n": 7, "text": "톰슨은 최하종도 불순하다고 물러서며 나란한 최하종들은 있을 필요가 없다", "label": "지지됨", "evidence": "이 표현조차 불순하다고 즉시 물러선다", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-06-03_글 설명 요청.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "44k", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "구조적 합리성 요구를 다섯 방향으로 해석하고 이 해석도 부트스트래핑을 막지 못한다", "label": "지지됨", "evidence": "어떻게 해도 막을 수 없음을 보이는 것", "note": ""},
+        {"n": 1, "text": "3장은 구조적 합리성을 어떻게 이해해야 설득력 있는지를 정한다", "label": "지지됨", "evidence": "가장 설득력 있는 해석이 무엇인지 밝히는 장", "note": ""},
+        {"n": 2, "text": "4장은 그 요구를 규범성 논제와 함께 받아들일 때의 문제를 따진다", "label": "지지됨", "evidence": "합리성의 규범성과 같이 이야기 되었을 때", "note": ""},
+        {"n": 3, "text": "쟁점은 범위, 명제/반응, 조건/무조건, 공시/통시, 상태/과정 다섯 쌍이다", "label": "지지됨", "evidence": "상태 요구 v.s 과정 요구", "note": ""},
+        {"n": 4, "text": "넓은 범위, 조건적, 통시적, 상태 요구, 반응 요구의 해석을 제시한다", "label": "지지됨", "evidence": "넓은 범위, 통시적, 상태 요구, 조건적", "note": ""},
+        {"n": 5, "text": "엄격한 규범성이면 어떤 태도를 가졌다는 사실만으로 다른 태도를 가질 의무가 따른다", "label": "지지됨", "evidence": "다른 어떤 태도를 가져야만 하는 의무", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/3-4장 정리 35697cdd867e8127b670c3f84e96ab57.md", "문헌/@Kiesewetter2017 The Normativity of Rationality.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "44k6c", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "넓은 범위로 부트스트래핑을 막으려 해도 규범적 분리 원리가 새 문제를 제기한다", "label": "지지됨", "evidence": "문제: 규범적 분리의 상황", "note": ""},
+        {"n": 1, "text": "TWSS는 넓은 범위로 읽으면 부트스트래핑이 해결된다고 말한다", "label": "지지됨", "evidence": "TWSS: 넓은 범위에서 보면 해결된다", "note": ""},
+        {"n": 2, "text": "넓은 범위 요구는 조건문 전체를 요구하므로 a만으로 의무를 분리할 수 없다", "label": "지지됨", "evidence": "넓은 범위 이해에서는 분리가 일어나지 않는다", "note": ""},
+        {"n": 3, "text": "a 또는 b를 해야 하고 a를 해야 하지 않으면 b를 해야 한다는 원리가 설득력 있다", "label": "지지됨", "evidence": "직관적으로 설득력 있는 원칙", "note": ""},
+        {"n": 4, "text": "a와 b를 모두 해야 한다는 원리가 이 분리를 지지한다", "label": "지지됨", "evidence": "[a and b]를 해야만 한다", "note": ""},
+        {"n": 5, "text": "b가 a의 필수적 수단이면 b를 해야 한다는 원리도 분리를 지지한다", "label": "부분 지지", "evidence": "a를 해야만 하고 b가 a를 하기 위한 필수적인 수단이라면", "note": "필기는 '행위자가 a를 해야만 하고'라는 조건을 달았는데 카드가 이 전제를 뺐음."},
+        {"n": 6, "text": "필기는 이 원리들이 대부분의 경우 문제가 없어 보인다고 덧붙인다", "label": "지지됨", "evidence": "대부분 문제가 없어 보임", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/3-4장 정리 35697cdd867e8127b670c3f84e96ab57.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "44k6e", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "필수 수단 전송 원리를 더하면 넓은 범위도 상식에 반하는 규범적 결론의 분리를 허용한다", "label": "지지됨", "evidence": "넓은 범위의 해석 역시 LT 와 NMT에서", "note": ""},
+        {"n": 1, "text": "NMT는 a를 해야 하고 b가 a의 필수적 수단이면 b를 해야 한다는 원리이다", "label": "지지됨", "evidence": "a하는 것에 b 하는 것이 필수적인 수단이라면", "note": ""},
+        {"n": 2, "text": "LT(자유 전송)와 NMT를 받아들이면 받아들일 수 없는 결론의 분리를 허용한다", "label": "지지됨", "evidence": "비상식적인 규범적 결론들의 분리를 허용", "note": ""},
+        {"n": 3, "text": "좁은 범위 해석은 어떤 경우에도 실패한다", "label": "지지됨", "evidence": "좁은 범위...해석은 무조건 실패한다", "note": ""},
+        {"n": 4, "text": "요구와 규범성을 동시에 받아들이면 부트스트래핑을 막을 길이 없다는 것이 4장의 결론", "label": "지지됨", "evidence": "어떻게 해도 막을 수 없음을 보이는 것", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/3-4장 정리 35697cdd867e8127b670c3f84e96ab57.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "44k10", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "논평은 결론이 터무니없어 보이는 까닭을 학살을 필연적 수단으로 믿는 비합리성에서 찾는다", "label": "지지됨", "evidence": "필연적인 수단이라고 생각하는 거 자체가 비합리적", "note": ""},
+        {"n": 1, "text": "행위자는 경제성장을 해야 한다고 믿고 학살이 필수적 수단이라고 믿는다", "label": "지지됨", "evidence": "경제성장을 해야한다고 믿음", "note": ""},
+        {"n": 2, "text": "구조적 합리성과 엄격한 규범성을 받아들이면 그는 학살을 의도해야 한다는 결론이 나온다", "label": "지지됨", "evidence": "그럼 해야지.", "note": ""},
+        {"n": 3, "text": "학살은 도덕적으로 선택 가능한 수단이 아니므로 필연적 수단일 수 없다", "label": "지지됨", "evidence": "선택 가능한 수단이 아니다", "note": ""},
+        {"n": 4, "text": "그렇게 믿는 사람이 그렇게 행동하는 것은 이성의 요구에 맞고 안 하면 비판받아야 한다", "label": "지지됨", "evidence": "이성의 요구고, 그렇게 안하면 욕 먹어야지", "note": ""},
+        {"n": 5, "text": "좁혀진 영역에서 사고하는 것이 문제의 근원이고 일상 이해는 분리와 무관하다", "label": "지지됨", "evidence": "일상적인 이해는 단독적으로 결론을 분리하는 것과는 상관없다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/3-4장 정리 35697cdd867e8127b670c3f84e96ab57.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/123 35697cdd867e81d6858df402366689ee.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "44k11", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "논평은 부트스트래핑을 전건 긍정의 문제로 환원한다", "label": "지지됨", "evidence": "modus pones의 문제라서", "note": ""},
+        {"n": 1, "text": "좁은 범위를 p이면 R(q)로 적고 현실 세계에서 p이면 모든 가능 세계에서 후건 성립", "label": "지지됨", "evidence": "현실 세계에서 p이면 모든 가능 세계에서 후건이 성립", "note": ""},
+        {"n": 2, "text": "p를 믿는다는 사실에서 R(q)를 떼어내는 분리는 전건 긍정이다", "label": "지지됨", "evidence": "p ... R(q)", "note": ""},
+        {"n": 3, "text": "전건 긍정을 금지하는 해석이면 어느 쪽이든 부트스트래핑을 피한다", "label": "지지됨", "evidence": "modus pones가 밴되는 해석이면 다 가능", "note": ""},
+        {"n": 4, "text": "넓은 범위도 전송 원리를 들여오면 이 금지가 풀린다", "label": "지지됨", "evidence": "transmission을 가지고 오니까 ...밴이 풀려버림", "note": ""},
+        {"n": 5, "text": "논평은 이 점을 책의 근본 구조로 본다", "label": "지지됨", "evidence": "이게 이 책의 근본 구조", "note": ""},
+        {"n": 6, "text": "저자가 전건 긍정의 논란을 간과했을 가능성, 논쟁 관련자 전원도 그럴 수 있다", "label": "지지됨", "evidence": "이 논쟁 관련자 전원이 이걸 모를 수도", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/3-4장 정리 35697cdd867e8127b670c3f84e96ab57.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/123 35697cdd867e81d6858df402366689ee.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "44k12", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "논평은 넓은/좁은 범위 구별을 조건문의 양상 번역 문제로 보면서 핵심은 부트스트래핑이라고 본다", "label": "지지됨", "evidence": "사실 진짜 핵심문제는 bootstrapping", "note": ""},
+        {"n": 1, "text": "쟁점은 자연언어를 양상논리로 번역하는 문제일 수 있고 양상논리의 일반 문제이다", "label": "지지됨", "evidence": "자연언어 번역 상의 문제일수도 ... 양상논리", "note": ""},
+        {"n": 2, "text": "양상 표현이 들어가는 조건문은 넓은 범위 읽기가 올바른 번역인 경우가 많다", "label": "지지됨", "evidence": "wide scope가 제대로 된 번역인 경우가 많음", "note": ""},
+        {"n": 3, "text": "좁은 범위 읽기는 표층 문법만 같고 의미를 제대로 반영하지 못하는 듯하다", "label": "지지됨", "evidence": "의미를 제대로 반영하지는 못하는 것 같다", "note": ""},
+        {"n": 4, "text": "책이 이 쟁점을 제기하는 목적은 부트스트래핑을 해결할 수 있는지 가리는 데 있다", "label": "지지됨", "evidence": "bootstrapping을 해결할 수 있느냐 없느냐", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/123 35697cdd867e81d6858df402366689ee.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "44k13", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "논평은 엄격한 규범성을 전체 일반화로 읽는 것이 억지라고 본다", "label": "지지됨", "evidence": "Normativity를 strict으로 이해함 = 일반화 ... 억지", "note": ""},
+        {"n": 1, "text": "엄격한 규범성은 전체에 일반화되는 규범성이라고 이해된다", "label": "지지됨", "evidence": "strict으로 이해함 = 일반화", "note": ""},
+        {"n": 2, "text": "일상언어에서 전건 긍정은 대개 영역을 좁혀 쓰므로 전체 일반화 규범성이 무엇인지 알기 어렵다", "label": "지지됨", "evidence": "다 domain 좁히기가 있는 것 같다", "note": ""},
+        {"n": 3, "text": "엄격한 규범성도 코드이고 기준이며 체스 규칙과 크게 다르지 않다", "label": "지지됨", "evidence": "체스 게임 규칙이랑 별반 다를게 없다", "note": ""},
+        {"n": 4, "text": "차이는 인간 전체에 일반화되고 상황과 맥락에 따라 다르게 부여될 수 있다는 데 있다", "label": "지지됨", "evidence": "인간 전체에 일반화된다", "note": ""},
+        {"n": 5, "text": "pro tanto와 완전히 분리하면 이해하기 어려운 형이상학적 개념이 된다", "label": "지지됨", "evidence": "도통 이해가 어려운 형이상학적인 개념", "note": ""},
+        {"n": 6, "text": "도덕과 체스 규칙, pro tanto와 strict를 구분하는 취지는 이해된다고 인정한다", "label": "지지됨", "evidence": "구분하는 취지와 요점은 이해가 됨", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/123 35697cdd867e81d6858df402366689ee.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "44k14", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "합리적 요구를 이유 주장 없이 이성 내부에서 구성하는 일을 선행 과제로 둔다", "label": "지지됨", "evidence": "규범성에 호소하지 않고 ... 내적으로 구성", "note": ""},
+        {"n": 1, "text": "먼저 부트스트래핑을 전건 긍정의 문제로 환원한다", "label": "지지됨", "evidence": "Modus pones의 문제다로 bootstrapping을 환원", "note": ""},
+        {"n": 2, "text": "엄격한 규범성은 받아들일 수 없고 규범성도 다른 코드와 다를 것이 없다", "label": "지지됨", "evidence": "normativity도 다른 code랑 다를 게 없다", "note": ""},
+        {"n": 3, "text": "합리적 요구는 다른 코드의 규칙처럼 단독으로 구성할 수 있어야 한다", "label": "지지됨", "evidence": "단독적으로 구성할 수 있어야 된다", "note": ""},
+        {"n": 4, "text": "결정적 이유와 충분한 이유도 규범성 호소 없이 이성 내부에서 구성해야 한다", "label": "지지됨", "evidence": "규범성에 호소하지 않고 ... 내적으로 구성", "note": ""},
+        {"n": 5, "text": "그 작업 뒤에야 그 요구가 규범적인지 논할 수 있다", "label": "지지됨", "evidence": "그러고 나서 얘가 규범적인지", "note": ""},
+        {"n": 6, "text": "이유 주장을 도입하는 대신 옹호하는 일이 이성의 규범성을 주장하는 방법이다", "label": "지지됨", "evidence": "얘를 옹호하는게 이성의 규범성을 주장하는 방법", "note": ""},
+        {"n": 7, "text": "이유 주장은 비순환적으로 옹호할 수 없지만 그렇다고 없는 것은 아니다", "label": "지지됨", "evidence": "비순환적으로 못함. 못한다고 해서 없냐? 아니다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/123 35697cdd867e81d6858df402366689ee.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/철학 자료 마스터/3-4장 정리 35697cdd867e8127b670c3f84e96ab57.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "52f1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "리건은 동질적인 방과 연합을 혼동하지 말라 하며 연합은 방에서 나와 모두를 포함해야 성립한다", "label": "지지됨", "evidence": "not to confuse them—home and coalition", "note": ""},
+        {"n": 1, "text": "1981년 캘리포니아 여성 음악 축제 아침 워크숍에서 한 즉흥 연설이다", "label": "지지됨", "evidence": "아침 워크숍에서 한 즉흥 연설", "note": ""},
+        {"n": 2, "text": "같은 사람끼리 모인 방을 자궁에 견주고 필수적이지만 영원히 머물 수 없다", "label": "지지됨", "evidence": "필수적이지만 영원히 머무를 수 없다", "note": ""},
+        {"n": 3, "text": "방에서는 연합을 이룰 수 없고 낯선 사람이 들어오면 집처럼 느껴지지 않는다", "label": "지지됨", "evidence": "You don’t do no coalition building in a womb", "note": ""},
+        {"n": 4, "text": "집과 연합을 섞어 쓰지 말라고 당부한다", "label": "지지됨", "evidence": "not to confuse them—home and coalition", "note": ""},
+        {"n": 5, "text": "연합은 먹여야 하는 몫이 크고 늘 더 요구하는 괴물에 가깝다", "label": "지지됨", "evidence": "you have to feed it. And it’s a monster", "note": ""},
+        {"n": 6, "text": "돌아가 쉴 집을 따로 지녀야 연합의 순교자가 되지 않는다", "label": "지지됨", "evidence": "not become a martyr to the coalition", "note": ""},
+        {"n": 7, "text": "연합이 필요한 이유는 빗장 건 방이 존속하도록 허용되지 않기 때문이다", "label": "지지됨", "evidence": "barred rooms will not be allowed to exist", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/사회철학연습_0423/Coalition Politics Turning the Century 1dd97cdd867e80bf8433f7df4dd66cd5.md", "문헌/@Reagon Coalition Politics Turning the Century.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "52f1a", "voice": "문헌", "verdict": "모순",
+      "claims": [
+        {"n": 0, "text": "리건은 우리라는 말이 살기 위해 포함해야 할 모두를 포함해야 하며 이유는 생존이라고 말한다", "label": "지지됨", "evidence": "must include everybody you have to include", "note": ""},
+        {"n": 1, "text": "리건은 연합이 편안하고 좋은 일이라면 왜 필요한가라고 스스로 묻고 답한다", "label": "모순", "evidence": "If coalition is so bad...why is it necessary?", "note": "원문 물음은 연합이 나쁘고 불편한데 왜 필요한가이며 카드는 '편안하고 좋은 일이라면'으로 뒤집음."},
+        {"n": 2, "text": "닫힌 공간은 결국 존속하도록 허용되지 않는다", "label": "지지됨", "evidence": "barred rooms will not be allowed to exist", "note": ""},
+        {"n": 3, "text": "자신이 어디로도 가지 않을 것이므로 자신을 빼고는 우리를 이룰 수 없다", "label": "지지됨", "evidence": "I don’t plan to go nowhere", "note": ""},
+        {"n": 4, "text": "상대가 살아야 내가 산다는 데서 나오고 위험도 있지만 함께 살 가능성도 있다", "label": "지지됨", "evidence": "danger...possibility we can both live", "note": ""},
+        {"n": 5, "text": "요약표는 같은 논지를 모두가 살아야 나도 산다는 생존 전략으로 정리한다", "label": "지지됨", "evidence": "모두가 살아야 나도 산다’는 생존 전략", "note": ""},
+        {"n": 6, "text": "모한티의 필기는 이를 좋아서가 아닌 살아남는 길이라는 점으로 옮긴다", "label": "지지됨", "evidence": "you don’t go into coalition because you like it", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/사회철학연습_0423/Coalition Politics Turning the Century 1dd97cdd867e80bf8433f7df4dd66cd5.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/사회철학연습_0423/SIsterhood, Coalition, and the politics of Experie 1dd97cdd867e801f80a1fea19625bfe0.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "52f1b", "voice": "문헌", "verdict": "모순",
+      "claims": [
+        {"n": 0, "text": "여성이라는 말을 숨은 코드로 쓰면 사람을 배제하고 연합은 자기 명명을 허용해야 한다", "label": "지지됨", "evidence": "allowing people to name themselves", "note": ""},
+        {"n": 1, "text": "여성 운동은 여성이라서 공통 경험이 생긴다는 신화를 퍼뜨려 왔다", "label": "지지됨", "evidence": "perpetuated a myth that there is some common", "note": ""},
+        {"n": 2, "text": "같은 종류의 여성 방에서는 통하나 사전 정의로 들어온 사람은 닮은 것을 보지 못한다", "label": "지지됨", "evidence": "they don’t see or hear nothing that is like them", "note": ""},
+        {"n": 3, "text": "그때 방 안의 사람들은 이것은 여성의 일로 보이지 않는다고 말한다", "label": "모순", "evidence": "they charge, “This ain’t no women’s thing!”", "note": "원문에서 이 말을 하는 쪽은 들어온 사람들(they)이며 방 안 사람들이 아님. 화자가 뒤바뀜."},
+        {"n": 4, "text": "여성 전용은 레즈비어니즘과 벗은 몸을 다룰 수 있어야 한다는 내부 정의를 숨긴 코드", "label": "지지됨", "evidence": "in-house definition...women only", "note": ""},
+        {"n": 5, "text": "여성 동일시라는 말이 많은 여성을 방 밖에 남긴다", "label": "지지됨", "evidence": "a good way to leave a lot of women out", "note": ""},
+        {"n": 6, "text": "뉴욕에서 백인처럼 보이지 않는다고 했던 경험, 백인이라는 사람에게는 그렇게 불러 주는 것이 존중", "label": "지지됨", "evidence": "Respect means ...you are white", "note": ""},
+        {"n": 7, "text": "스스로 이름을 붙이게 두고 그 관점에서 상대하는 일이 방의 경계를 넓힌다", "label": "지지됨", "evidence": "allowing people to name themselves", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/사회철학연습_0423/Coalition Politics Turning the Century 1dd97cdd867e80bf8433f7df4dd66cd5.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "52f1c", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "필기에 따르면 리건은 기술이 숨을 곳을 없앴다고 보고 문 닫기를 반동으로 평가하며 연합을 장기 투쟁으로 놓는다", "label": "지지됨", "evidence": "“숨을 곳 없는 세계”를 만들었다", "note": ""},
+        {"n": 1, "text": "철도, 전화, 텔레비전, 컴퓨터가 숨을 곳 없는 세계를 만들었고 순혈적 공간의 시대가 끝났다", "label": "지지됨", "evidence": "순혈적 공간은 종말", "note": ""},
+        {"n": 2, "text": "자기 집단의 문을 걸어 잠그는 내셔널리즘이 결국 반동적이 된다", "label": "지지됨", "evidence": "곧 ‘반동(reactionary)’이 된다", "note": ""},
+        {"n": 3, "text": "연합의 싸움은 반세기 뒤에도 살아남을 원칙을 심는 세대적 투쟁이다", "label": "지지됨", "evidence": "50년 뒤도 살아남을 원칙을 심어야", "note": ""},
+        {"n": 4, "text": "모한티 필기도 지금의 행동 대부분이 잊힌 뒤에 살 사람들을 위한 것이라는 취지", "label": "지지됨", "evidence": "for people who live long after you are forgotten", "note": ""},
+        {"n": 5, "text": "요약은 교차성 여성주의의 초기 텍스트이자 운동 전략서로 평가한다(작성자의 해석)", "label": "지지됨", "evidence": "인터섹셔널 페미니즘의 초기 텍스트", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/사회철학연습_0423/Coalition Politics Turning the Century 1dd97cdd867e80bf8433f7df4dd66cd5.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/사회철학연습_0423/SIsterhood, Coalition, and the politics of Experie 1dd97cdd867e801f80a1fea19625bfe0.md"],
+      "sources_missing": []
+    }
+  ]
+}

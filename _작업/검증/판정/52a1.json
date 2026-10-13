@@ -1,0 +1,70 @@
+{
+ "id": "52a1",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "영은 정의를 제도적 규범을 평가하는 관점으로 규정하고 의사결정 분업 문화로 초점 이동",
+   "label": "지지됨",
+   "evidence": "perspectives, principles, and procedures",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "분배 패러다임에서 벗어나려 한다",
+   "label": "지지됨",
+   "evidence": "Displacing the distributive paradigm",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "집중 쟁점은 의사결정, 분업, 문화",
+   "label": "지지됨",
+   "evidence": "decisionmaking, division of labor, and culture",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "헬러는 하버마스 의사소통 윤리를 이어받음",
+   "label": "지지됨",
+   "evidence": "Developing Habermas's communicative ethics",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "정의는 집단적 문제를 숙의하는 시민의 덕목",
+   "label": "부분 지지",
+   "evidence": "justice is primarily the virtue of citizenship",
+   "note": "원문은 'primarily'(주로)인데 카드는 한정 없이 단정."
+  },
+  {
+   "n": 5,
+   "text": "지배와 억압이 없고 상호성과 관용이 있는 조건",
+   "label": "지지됨",
+   "evidence": "without domination or oppression",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "모든 이가 실효성 있게 발언하고 강제 없이 동의할 수 있어야 정의로운 규범",
+   "label": "지지됨",
+   "evidence": "effective voice ... without coercion",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "정의의 문제로 부를지는 선택, 실용적 이유",
+   "label": "지지됨",
+   "evidence": "a matter of choice ... pragmatic reasons",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Iris young 정리 35697cdd867e81bcabedce6812bb6d93.md (1-60줄 구간)",
+  "문헌/@Young1990 Justice and the Politics of Difference.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

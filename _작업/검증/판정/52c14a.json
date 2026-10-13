@@ -1,0 +1,69 @@
+{
+ "id": "52c14a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "흑인 여성의 몸이 몸으로 환원되어 기괴하고 성애화된 몸으로 표상, 백인 남성은 몸을 벗어난 사유자",
+   "label": "지지됨",
+   "evidence": "through the reduction of the black woman to body",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "백인 남성이 망원경으로 흑인 여성의 몸을 보는 이미지, 기술 매개",
+   "label": "지지됨",
+   "evidence": "technology that mediates what he can see",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "지식과 봄의 관계가 대상을 신체 부위로 틀 짓는다",
+   "label": "지지됨",
+   "evidence": "making it appear as body part",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "살아서도 죽어서도 성애화된 대상으로 전유되고 해부",
+   "label": "지지됨",
+   "evidence": "appropriated and dissected as sexualized",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "바흐친의 기괴한 몸: 다중적, 부풀고, 열린 몸",
+   "label": "지지됨",
+   "evidence": "The grotesque body is an open body",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "성애화되고 원시적인 몸의 투사로 백인 남성 몸은 닫힌 고전적 몸",
+   "label": "지지됨",
+   "evidence": "the white masculine body becomes elevated",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "그가 몸이기를 멈출 때에만 몸의 규범",
+   "label": "지지됨",
+   "evidence": "only insofar as he ceases to be body",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "지식의 대상이면서 과도하고 성애화된 몸으로 보인다",
+   "label": "지지됨",
+   "evidence": "excessive, sexualized and primitive",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Ahmed_racialized body 35697cdd867e819ab7c3fdef10a908b3.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

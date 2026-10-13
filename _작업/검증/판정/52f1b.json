@@ -1,0 +1,69 @@
+{
+ "id": "52f1b",
+ "voice": "문헌",
+ "verdict": "모순",
+ "claims": [
+  {
+   "n": 0,
+   "text": "여성이라는 말을 숨은 코드로 쓰면 사람을 배제하고 연합은 자기 명명을 허용해야 한다",
+   "label": "지지됨",
+   "evidence": "allowing people to name themselves",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "여성 운동은 여성이라서 공통 경험이 생긴다는 신화를 퍼뜨려 왔다",
+   "label": "지지됨",
+   "evidence": "perpetuated a myth that there is some common",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "같은 종류의 여성 방에서는 통하나 사전 정의로 들어온 사람은 닮은 것을 보지 못한다",
+   "label": "지지됨",
+   "evidence": "they don’t see or hear nothing that is like them",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "그때 방 안의 사람들은 이것은 여성의 일로 보이지 않는다고 말한다",
+   "label": "모순",
+   "evidence": "they charge, “This ain’t no women’s thing!”",
+   "note": "원문에서 이 말을 하는 쪽은 들어온 사람들(they)이며 방 안 사람들이 아님. 화자가 뒤바뀜."
+  },
+  {
+   "n": 4,
+   "text": "여성 전용은 레즈비어니즘과 벗은 몸을 다룰 수 있어야 한다는 내부 정의를 숨긴 코드",
+   "label": "지지됨",
+   "evidence": "in-house definition...women only",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "여성 동일시라는 말이 많은 여성을 방 밖에 남긴다",
+   "label": "지지됨",
+   "evidence": "a good way to leave a lot of women out",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "뉴욕에서 백인처럼 보이지 않는다고 했던 경험, 백인이라는 사람에게는 그렇게 불러 주는 것이 존중",
+   "label": "지지됨",
+   "evidence": "Respect means ...you are white",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "스스로 이름을 붙이게 두고 그 관점에서 상대하는 일이 방의 경계를 넓힌다",
+   "label": "지지됨",
+   "evidence": "allowing people to name themselves",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/사회철학연습_0423/Coalition Politics Turning the Century 1dd97cdd867e80bf8433f7df4dd66cd5.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

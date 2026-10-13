@@ -1,0 +1,76 @@
+{
+ "id": "52c14",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "인종이 몸에 속한다는 발상은 19세기 제국 팽창 정당화로 발명, 식민 지배가 피식민자의 몸을 인종화",
+   "label": "지지됨",
+   "evidence": "means of justifying and legitimating",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "식민 지배는 피식민자 몸을 지식 대상으로 구성",
+   "label": "지지됨",
+   "evidence": "already raced, by constituting them as objects",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "권력이 생산적이면 몸도 생산한다는 푸코",
+   "label": "지지됨",
+   "evidence": "If power is productive, then power also produces bodies",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "푸코는 성 억압 모델에 맞서 담론으로 부추겨졌다 분석",
+   "label": "지지됨",
+   "evidence": "challenges the model of sexuality as repressed",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "몸이 알고 보고 규제할 대상으로 생산, 인종도 담론으로 부추겨짐",
+   "label": "지지됨",
+   "evidence": "race was also produced or incited into discourse",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "진리 알려는 욕망이 담론 증식, 과학적 분류와 유형학",
+   "label": "지지됨",
+   "evidence": "scientific classifications and typologies",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "과학 담론은 흑인성을 원시적/덜 진화로 구성할 수 있었다",
+   "label": "지지됨",
+   "evidence": "able to construct Blackness as more primitive",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "다윈주의와 몸의 유형이 인종을 집단으로 세움, 시간과 공간으로 갈림",
+   "label": "지지됨",
+   "evidence": "separated by time (evolution) as well as space",
+   "note": ""
+  },
+  {
+   "n": 8,
+   "text": "인종이 민족성으로 옮겨 가는 일이 폭력 역사를 잊게 해 탈정치화",
+   "label": "부분 지지",
+   "evidence": "often means the forgetting of these histories",
+   "note": "원문은 'often means'(흔히 잊게 한다)인데 카드는 한정어 없이 단정."
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Ahmed_racialized body 35697cdd867e819ab7c3fdef10a908b3.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
