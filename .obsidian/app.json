@@ -7,5 +7,6 @@
   "userIgnoreFilters": [
     "_원자료/",
     "_작업/스크립트/"
-  ]
+  ],
+  "promptDelete": false
 }
