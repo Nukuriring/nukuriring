@@ -1,0 +1,57 @@
+{
+ "id": "40d",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "크립키의 인용은 비트겐슈타인의 명제를 받고 자기 표시를 떨어낸다",
+   "label": "지지됨",
+   "evidence": "명제만 흡수",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "40a, 40b, 40c를 함께 놓으면 인용 방식에서 한 규칙성이 드러난다",
+   "label": "지지됨",
+   "evidence": "세 자리 모두에서…일관되게 빠뜨려",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "두 문구를 명제로 받아 쓰고 §217·§219·§220·§221의 자기 표시는 들어오지 않는다",
+   "label": "지지됨",
+   "evidence": "I am inclined to say, symbolically, mythological",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "대화는 이를 거리의 평면화로 묘사하고 매끄러움이 여기서 실현된다고 보았다",
+   "label": "지지됨",
+   "evidence": "형식이 자기 내용에 대해 취하는 거리",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "위악 진단에는 부분 인용이 체계적이고 책의 자기 규정이 보호함이 보여야 한다",
+   "label": "지지됨",
+   "evidence": "체계적이어야, 자기 자리매김에 의해 보호받는다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "초기 정식은 매끄러움과 유보의 양식의 결합이고 지금까지 확보된 것은 앞의 조건",
+   "label": "지지됨",
+   "evidence": "(a) 손에 잡힘 (b) 아직 펴지지 않음",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Kripke1982 Wittgenstein on Rules and Private Language.md",
+  "문헌/@Wittgenstein1953 Philosophical Investigations.md",
+  "_원자료/claude.ai/projects/크립키의 위악성/chats/2026-05-10_프로젝트 본문 주장과 근거 확보.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

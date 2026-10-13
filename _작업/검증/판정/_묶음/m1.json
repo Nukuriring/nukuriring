@@ -1,0 +1,235 @@
+{
+  "model": "sonnet",
+  "date": "2026-10-13",
+  "cards": [
+    {
+      "id": "10e1",
+      "voice": "문헌",
+      "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "드로즈는 세 단서로 맥락주의 전략의 대상과 가정과 남은 과제를 한정한다", "label": "지지됨", "evidence": "Three important points about", "note": ""},
+        {"n": 1, "text": "첫째 단서: 소심한 회의론자는 건드리지 않는다(§2, p.671)", "label": "지지됨", "evidence": "untouched the timid skeptic", "note": ""},
+        {"n": 2, "text": "대담한 논제를 위협하므로 이 한정은 전략의 가치를 줄이지 않는다", "label": "지지됨", "evidence": "strategy is important because", "note": ""},
+        {"n": 3, "text": "둘째 단서: 회의론자 친화적 판본을 잠정 가정", "label": "지지됨", "evidence": "provisionally assume a skeptic-friendly", "note": ""},
+        {"n": 4, "text": "최종 논점: 회의론자는 기준을 올림으로써만 성공한다", "label": "지지됨", "evidence": "only by raising the standards", "note": ""},
+        {"n": 5, "text": "셋째 단서: 혼자 생각할 때도 AI가 거의 같은 호소력", "label": "지지됨", "evidence": "about the same degree of intuitive", "note": ""},
+        {"n": 6, "text": "대화 규칙으로 설명하되 생각의 경우로 일반화, 두 경로 예고", "label": "지지됨", "evidence": "either or both of the following", "note": "원문은 두 경로를 '둘 중 하나 또는 둘 다'로 말하고 카드는 두 경로를 나열한다. 뜻은 어긋나지 않는다."},
+        {"n": 7, "text": "SEP 필기: EC는 진리 조건이 귀속자 맥락에 의존, 기준이 바뀌면 명제도 바뀐다", "label": "지지됨", "evidence": "기준을 바꾸면, 문장이 표현하는 명제 역시 달라진다", "note": ""},
+        {"n": 8, "text": "EC는 지식의 본성을 말하지 않고 S가 안다는 일 자체가 맥락 의존이라는 설명도 지지 안 함", "label": "지지됨", "evidence": "지식의 본성에 대해서는 발언하는 것이 없는", "note": ""},
+        {"n": 9, "text": "단어 표현을 다루는 인식론 이론이나 인식적 속성·관계를 다루지는 않는다", "label": "지지됨", "evidence": "인식적 속성이나 관계에 대한 이론은 아니다", "note": ""},
+        {"n": 10, "text": "맥락이 가장 근본적인 언어 요소라는 의미론 일파와 구분, 직접 연관 없음", "label": "지지됨", "evidence": "직접적인 연관을 가지고 있지는 않다", "note": ""}
+      ],
+      "sources_used": ["문헌/@DeRose1995 Solving the Skeptical Problem.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/A-2_인식론/A2-01_DeRose-1.md", "문헌/@SEP 인식적 맥락주의 정리.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/2024 - 지식귀속문장과 인식적 맥락주의/SEP 정리 a74a5d37ea134b17916e9aa3c24f34c8.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "14b",
+      "voice": "문헌",
+      "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "흄은 증언 신뢰를 보고와 사실의 경험된 결합에 기댄 인과 추론으로 본다", "label": "지지됨", "evidence": "보고와 사실 사이의 항상적 결합", "note": ""},
+        {"n": 1, "text": "증언과 실재 사이에 선험적 연관이 없고 합치를 발견하는 데 익숙해졌기 때문", "label": "지지됨", "evidence": "일치성이 있음을 발견하는 데 익숙", "note": ""},
+        {"n": 2, "text": "청자는 결합을 경험으로 따로 확인해야 근거를 가진다", "label": "지지됨", "evidence": "좋은 실적 정보를 가지면 비로소 정당화", "note": ""},
+        {"n": 3, "text": "결합을 종류 단위로 잡아 증명 또는 개연성이 된다(Enquiry p.112)", "label": "지지됨", "evidence": "any particular kind of report", "note": ""},
+        {"n": 4, "text": "영진 초안·Claude 재정식화: 과거 부합 사례에 기대 추론", "label": "지지됨", "evidence": "그동안 사실에 부합해 온 사례들에 기대어", "note": ""},
+        {"n": 5, "text": "한상기: 개연성은 과거 경험 빈도에 비례한다는 일반 격률", "label": "지지됨", "evidence": "과거 경험에서…일어난 빈도에 비례", "note": ""},
+        {"n": 6, "text": "흄의 환원은 증언→귀납→지각 관찰의 두 단계", "label": "지지됨", "evidence": "귀납추리로 환원 → 지각에 의한 관찰", "note": ""},
+        {"n": 7, "text": "우진이 사례: 명시적 추리 없이도, 실적을 지각 증거로 기억하고 추리할 수 있어야", "label": "지지됨", "evidence": "추리를 수행할 수 있어야 함", "note": ""},
+        {"n": 8, "text": "섬망·거짓말로 알려진 사람의 증언은 권위가 없고, 거부 조건도 경험으로 정당화한다(대화 속 설명)", "label": "부분 지지", "evidence": "섬망 상태에 있거나 거짓말과 악행으로 알려진", "note": "출처는 섬망 예와 '인간 본성의 성질이 경험으로 발견되어야 신뢰한다'까지만 말한다. '거부하는 조건도 경험으로 정당화'는 카드가 덧붙인 확장이다. 다른 대목(네 번째 논문 추출, 306행)은 이 예를 코디가 증언이 증언을 기각하는 사례로 쓴다고 적는다."}
+      ],
+      "sources_used": ["문헌/@Hume1748 Of Miracles.md", "문헌/@Coady1992 Testimony.md", "문헌/@한상기2012b 지식과 정당화의 원천으로서의 증언.md", "_원자료/claude.ai/chats/2026-05-07_논문의 장별 구체 논증 요약.md", "_원자료/claude.ai/chats/2026-05-11_네 번째 논문 내용 추출 작업.md", "_원자료/claude.ai/chats/2026-05-11_흄의 기적론과 Coady의 반박 정리.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "14c",
+      "voice": "문헌",
+      "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "코디는 흄의 경험이 개인 관찰과 인류 공동 경험 사이에서 흔들린다고 진단한다", "label": "지지됨", "evidence": "conflation of personal and communal", "note": ""},
+        {"n": 1, "text": "흄의 입장을 환원주의 테제(RT)라 부르고 반박한다", "label": "지지됨", "evidence": "환원주의 테제라 부르고 이를 반박한다", "note": ""},
+        {"n": 2, "text": "experience, observation에 'a fatal ambiguity'가 있다는 지적에서 시작", "label": "지지됨", "evidence": "a fatal ambiguity", "note": ""},
+        {"n": 3, "text": "개인 관찰이면 'plainly false', 공동 경험이면 'surely question-begging'", "label": "지지됨", "evidence": "plainly false / question-begging", "note": ""},
+        {"n": 4, "text": "둘째 독해를 RT″라 부르고 먼저 다룬다", "label": "지지됨", "evidence": "코디는 이 둘째 독해를 먼저 다룬다", "note": ""},
+        {"n": 5, "text": "어느 쪽을 택해도 증언 신뢰를 경험으로 정당화하지 못한다", "label": "지지됨", "evidence": "어느 갈래에서도 환원주의는 유지되지 않으며", "note": ""},
+        {"n": 6, "text": "기적 논의의 any age or country, uniform experience는 공동 경험", "label": "지지됨", "evidence": "observed in any age or country", "note": ""},
+        {"n": 7, "text": "『인간 본성론』 편지 구절은 'my memory and observation'", "label": "지지됨", "evidence": "my memory and observation (p. 196)", "note": ""},
+        {"n": 8, "text": "이 혼용은 보고로 아는 것과 관찰로 아는 것이 근본 수준에서 쉽게 뒤섞인다는 증거", "label": "지지됨", "evidence": "How easy it is to appropriate", "note": ""},
+        {"n": 9, "text": "Claude: 이접지 소거 구조, 두 해석을 오갈 때만 그럴듯(대화 속 설명)", "label": "지지됨", "evidence": "이접지 소거(disjunction elimination)", "note": ""}
+      ],
+      "sources_used": ["문헌/@Coady1992 Testimony.md", "_원자료/claude.ai/chats/2026-05-11_Reductionist thesis and the circularity of testimony.md", "_원자료/claude.ai/chats/2026-05-11_네 번째 논문 내용 추출 작업.md", "_원자료/claude.ai/chats/2026-05-11_흄의 기적론과 Coady의 반박 정리.md", "_원자료/claude.ai/chats/2026-05-20_Hume's circular reasoning on testimony and experience.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "15d",
+      "voice": "종합",
+      "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "코디의 순환 비판은 청자 개인 경험이 모자라 인류 공통 경험에 기대는 지점을 겨눈다", "label": "지지됨", "evidence": "청자 개인의 경험 대신 인류가 공통으로", "note": ""},
+        {"n": 1, "text": "증언 지식 대부분은 신빙성을 지지하는 관찰 없이 얻어져 흄의 설명은 관행과 충돌", "label": "지지됨", "evidence": "관찰 경험 없이 얻어 졌다", "note": ""},
+        {"n": 2, "text": "역사 교과서, 낯선 도시 행인의 안내 사례", "label": "지지됨", "evidence": "처음 본 행인의 안내를 통해", "note": ""},
+        {"n": 3, "text": "환원주의는 그 경험이 누구의 경험인지 정해야 한다", "label": "지지됨", "evidence": "증언 바깥의 경험이 무엇인지 제시", "note": ""},
+        {"n": 4, "text": "개인 관찰만 경험이면 출산·혈액 순환 같은 영역의 증언 수용이 부당해진다", "label": "지지됨", "evidence": "정당하게 수용될 수 없다는 결론", "note": ""},
+        {"n": 5, "text": "공통 경험은 증언으로만 도달하므로 순환, 05-12 대화는 이를 딜레마로 정리", "label": "지지됨", "evidence": "다시 타인의 증언으로만 접근", "note": ""},
+        {"n": 6, "text": "정리에 증언 일반이 믿을 만하다는 명제가 없고 표적은 개인 경험의 부족", "label": "지지됨", "evidence": "비판의 표적은 청자 개인 경험의 부족", "note": ""},
+        {"n": 7, "text": "그래서 이 화자·이 영역의 국소 명제에도 압박을 가한다", "label": "지지됨", "evidence": "코디의 비판이 국소 환원주의에 그대로 적중", "note": ""},
+        {"n": 8, "text": "누적 경험이 있는 친구 사례는 답하지만 교과서·행인 사례는 국소 명제도 못 받침", "label": "지지됨", "evidence": "충분한 누적 경험을 가진 경우에 한해서만", "note": ""},
+        {"n": 9, "text": "코디가 흄을 전역 환원주의자로 읽은 뒤 무너뜨렸고 등식이 관용어처럼 굳었다", "label": "지지됨", "evidence": "거의 관용어처럼 굳었다", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-13_Local reductionism and testimonial justification.md", "_원자료/claude.ai/chats/2026-05-13_프리커의 논증 체계적 분석.md", "_원자료/claude.ai/chats/2026-05-12_증언의 정당화와 흄의 환원주의.md", "문헌/@Coady1992 Testimony.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "15d2",
+      "voice": "종합",
+      "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "흄 옹호를 부류 단위 귀납으로 세우면 코디는 부류 식별이 증언에 기댄다고 되받는다", "label": "지지됨", "evidence": "부류 식별 자체가 증언에 의존", "note": ""},
+        {"n": 1, "text": "흄의 인과 추론은 부류 단위: 빵 일반에 대한 누적 경험(대화 속 설명)", "label": "지지됨", "evidence": "빵 일반에 대한 누적 경험", "note": ""},
+        {"n": 2, "text": "옹호자는 신빙성 확보 단위를 화자의 부류로 잡을 수 있다", "label": "지지됨", "evidence": "화자가 속한 부류라고 응수", "note": ""},
+        {"n": 3, "text": "청자 자신의 경험에 기초한 부류 귀납이 사슬 없이 X의 신빙성을 떠받친다", "label": "지지됨", "evidence": "의존 사슬을 발생시키지 않는다", "note": ""},
+        {"n": 4, "text": "코디 쪽 재반론 하나: 표본 부족 노선", "label": "지지됨", "evidence": "옵션 A — 표본 부족 노선", "note": ""},
+        {"n": 5, "text": "보조 논점: 사실 확인도 검사 결과·전문가 소견처럼 증언을 거친다", "label": "지지됨", "evidence": "검사 결과·다른 의사의 소견", "note": "원자료(05-20 Claude 02:50)는 사실 확인을 독립된 둘째 경로로, 개인 표본 빈곤을 보조로 세운다. 카드는 사실 확인을 표본 부족 노선의 보조로 묶었다. 종합 단계의 재배열로 보고 지지됨으로 둔다."},
+        {"n": 6, "text": "다른 재반론: 부류 귀속 정보(직업·경력·소속·매체)가 말, 명함, 자격증, 평판 등 증언에서 온다", "label": "지지됨", "evidence": "X를 아는 사람의 말, X의 명함", "note": ""},
+        {"n": 7, "text": "초고들은 이 노선을 코디에 귀속해 후퇴 논변으로 쓴다", "label": "지지됨", "evidence": "끝없이 다른 화자의 신빙성 판단으로", "note": ""},
+        {"n": 8, "text": "귀속 단계는 누적 경험의 출처와 무관하게 끼어들고 처음 만난 화자 사례가 두 갈래를 묶는다", "label": "지지됨", "evidence": "두 경우 모두 증언적 믿음의 정당화를", "note": ""},
+        {"n": 9, "text": "코디가 4장에서 전역 귀납 전략을 가장 강한 흄주의로 다룬다는 설명은 원문 미확인", "label": "지지됨", "evidence": "흄주의의 가장 강한 형태로 다루는", "note": "카드가 확인 안 됨을 스스로 밝혔고, 05-15 Claude 설명과 문헌 노트의 확인 필요 표시가 일치한다."}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-15_흄의 증언 정당화 이론과 순환성 문제.md", "_원자료/claude.ai/chats/2026-05-19_증언적 지식의 정당화 근거에 관한 철학적 논쟁.md", "_원자료/claude.ai/chats/2026-05-20_증언적 믿음의 정당화와 화자 식별.md", "_원자료/claude.ai/chats/2026-05-20_증언의 정당화와 경험의 순환 문제.md", "문헌/@Coady1992 Testimony.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "16d2",
+      "voice": "문헌",
+      "verdict": "원문없음",
+      "claims": [
+        {"n": 0, "text": "카벨에 따르면 크립키의 회의적 해결은 풀려는 문제보다 더 회의적이다", "label": "지지됨", "evidence": "solution is more skeptical", "note": ""},
+        {"n": 1, "text": "크립키에게서 개인의 행위는 다른 사람의 성향에 근거해 허가·불허된다(p.70)", "label": "지지됨", "evidence": "community licenses or excludes", "note": "근거는 Claude가 쓴 독해 지도(영진 보관함 밖 OCR 요약)이며 카벨 원문 쪽수는 대조하지 못했다."},
+        {"n": 2, "text": "성향의 일치가 남은 전부라면 그것이 무슨 해결이냐고 묻는다(p.75)", "label": "지지됨", "evidence": "What kind of solution is that?", "note": ""},
+        {"n": 3, "text": "차를 몰며 빨간불을 지나고 싶다고 말하자 동승자가 'My inclination agrees with yours'라고 답하는 예(p.75)", "label": "원문에 없음", "evidence": "", "note": "'My inclination agrees with yours' 문구만 독해 지도에 있고 차·빨간불·동승자 상황은 어디에도 없다. Grep한 어구: red light, 빨간불, 신호등, 동승자, passenger(_원자료 전체). 영진 보관함 밖 OCR 원문에 있을 수 있으나 확인 불가."},
+        {"n": 4, "text": "그래서 이 해결이 문제보다 더 회의적이라고 판정한다(p.75)", "label": "지지됨", "evidence": "풀려는 문제보다 더 회의적이다(p.75)", "note": ""},
+        {"n": 5, "text": "나에 관한 사실이 뜻함을 이루지 않는다는 정식에서 진리와 무게를 느낀다고 인정(p.76)", "label": "부분 지지", "evidence": "Cavell accepts Kripke's striking truth", "note": "진리를 인정한다는 점은 근거가 있으나 '무게'와 p.76은 출처에 없다(독해 지도는 pp.74–77 범위로만 적음)."},
+        {"n": 6, "text": "사실의 부재를 회의주의자의 요구로 읽고 §107 순수성의 요구의 기원을 묻는다(p.77)", "label": "지지됨", "evidence": "the skeptic's requirement", "note": ""},
+        {"n": 7, "text": "두 사람은 회의주의 가능성을 부인하지 않는 점에서 일치, 카벨은 해결 시도가 유한성·인간성 부정을 이어 간다고 본다", "label": "지지됨", "evidence": "해결하려는 시도가 부정을 지속한다", "note": ""},
+        {"n": 8, "text": "05-10 대화: 크립키는 발견·해결, 카벨의 비트겐슈타인은 유혹 구조를 드러내는 진단", "label": "지지됨", "evidence": "크립키는 회의주의를 발견으로 본다", "note": ""},
+        {"n": 9, "text": "규칙은 정당화 구조 안의 답의 후보, 기준은 정당화가 시작되는 자리", "label": "지지됨", "evidence": "의미를 정당화 구조 안에서 다룬다", "note": ""}
+      ],
+      "sources_used": ["문헌/@Cavell1990 Conditions Handsome and Unhandsome.md", "_원자료/로컬/Reading COH/notes/lecture-2_argument-of-the-ordinary_map.md", "_원자료/claude.ai/chats/2026-05-10_카벨의 핵심 요지 정리.md"],
+      "sources_missing": ["카벨 원서 OCR 텍스트(강연 2, pp.70–80, 보관함 밖)"]
+    },
+    {
+      "id": "20d4",
+      "voice": "문헌",
+      "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "항상성과 생식이 요구하는 같음은 형식의 같음이며 개체의 국소 사실로 판정되지 않는다", "label": "지지됨", "evidence": "개체주의적으로 판정 가능한 사실이 아닙니다", "note": ""},
+        {"n": 1, "text": "항상성은 같은 상태로 머문다는 뜻이라 어떤 읽기에선 죽음의 기준", "label": "지지됨", "evidence": "오히려 *죽음의 기준*입니다", "note": ""},
+        {"n": 2, "text": "각주 1에 기대 개체의 재생산, 자기를 존재 속에 유지하려는 경향으로 읽는다", "label": "지지됨", "evidence": "각주 1을 끼워 읽어야 합니다", "note": ""},
+        {"n": 3, "text": "변태 같은 변형에도 삶의 개념은 양립, 준-나비에겐 백 번 일어날 수도", "label": "지지됨", "evidence": "백 번 일어날 수도 있습니다", "note": ""},
+        {"n": 4, "text": "같음이 개체 안의 무엇으로도 고정되지 않으며 형식의 같음은 물리적·현상적 사실 집합과 동치가 아님", "label": "지지됨", "evidence": "동치가 아닙니다", "note": ""},
+        {"n": 5, "text": "눈에 잡히는 것은 morphē, 유지될 형태는 시점마다 다르게 실현(다중 실현)", "label": "지지됨", "evidence": "다중 실현될 수 있는 무엇", "note": ""},
+        {"n": 6, "text": "밥캣 다큐: 내레이션과 정확히 세 마리 화면, 고유명사·지시사 없는 단칭 지시 없음", "label": "지지됨", "evidence": "단칭 지시(singular reference)가 없다", "note": ""},
+        {"n": 7, "text": "다른 가족으로 바꿔도 거짓말 아니나 〈7 Up〉식 전기 다큐라면 문제", "label": "지지됨", "evidence": "전기(biography)를 찍는 거라면 문제", "note": ""},
+        {"n": 8, "text": "전제된 같음은 형식·종의 같음이며 이를 못 잡는 사람은 방송을 이해하지 못한다", "label": "지지됨", "evidence": "형식·종의 같음", "note": ""},
+        {"n": 9, "text": "나비 사례의 형식의 같음과 같은 것, 밥캣은 그 같음이 발화 형식에 담기는 방식", "label": "지지됨", "evidence": "어떤 발화 형식에 담기는지를 보이는", "note": ""}
+      ],
+      "sources_used": ["문헌/@Thompson2008 Life and Action.md", "_원자료/claude.ai/chats/2026-06-03_글 설명 요청.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "20d6",
+      "voice": "문헌",
+      "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "생명 작용은 형식의 범주를 전제하므로 극단적 개체주의는 자기파괴로 끝난다", "label": "부분 지지", "evidence": "전제해야 할지 모릅니다", "note": "원문 설명은 '전제해야 할지 모릅니다'로 한정하는데 제목은 '전제하므로'로 단정한다. 자기파괴 결론은 근거가 있다."},
+        {"n": 1, "text": "생식·항상성 기준은 어떤 생명 작용이든 보이면 충분해 굳이 꼽힐 이유가 없고 조직과 평행", "label": "지지됨", "evidence": "앞 절의 조직은 아무것도 더하지 않는다와 평행", "note": ""},
+        {"n": 2, "text": "형식의 전달·유지가 생명 작용의 개념이라면 어떤 착상이든 형식의 범주 파악을 전제한다", "label": "부분 지지", "evidence": "전제해야 할지 모릅니다", "note": "원문은 '전제해야 할지 모릅니다'로 한정하나 카드는 '전제한다'고 단정한다. 한정어 누락."},
+        {"n": 3, "text": "톰슨은 이 전제가 자기 유지·생식 기준에 실제로 등록된다고 본다(헤겔, threpsis·genesis)", "label": "지지됨", "evidence": "실제로 등록되는 것이라 봅니다", "note": ""},
+        {"n": 4, "text": "항상성은 자기 유지 쪽, 생식은 종류 쪽이며 전통이 이미 형식과 종 아래 두었다(대화의 풀이)", "label": "지지됨", "evidence": "형식/종의 범주 아래 두었습니다", "note": ""},
+        {"n": 5, "text": "형식과 종은 종 전체를 가리켜 개체 안의 사실로 삶을 판정하려는 야심이 무너진다", "label": "지지됨", "evidence": "필연적으로 파괴합니다", "note": ""},
+        {"n": 6, "text": "삶은 생명형식을 끌어들이는 고유한 논리 범주, 형식은 다중 실현되며 자연사적 판단으로 이끌린다", "label": "지지됨", "evidence": "고유한 논리적 범주", "note": ""},
+        {"n": 7, "text": "생명형식을 넓은 맥락으로 소개하고 다중 실현·DNA·수입 종 개념·집합을 후보에서 뺀다", "label": "지지됨", "evidence": "일곱 겹의 가드레일로 차단", "note": ""},
+        {"n": 8, "text": "물음을 어떻게 기술되는가로 바꿔 자연사적 판단 'The S is/has/does F'에서 답을 구한다", "label": "지지됨", "evidence": "자연사적 판단으로 기술된다", "note": ""}
+      ],
+      "sources_used": ["문헌/@Thompson2008 Life and Action.md", "_원자료/claude.ai/chats/2026-06-03_글 설명 요청.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "37a2",
+      "voice": "문헌",
+      "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "코디에 따르면 타인의 관찰을 알려면 보고를 먼저 믿어야 하므로 흄의 환원은 악순환", "label": "지지됨", "evidence": "vicious circularity", "note": ""},
+        {"n": 1, "text": "흄이 기대는 경험은 흄 개인의 관찰일 수 없고 any age or country는 인류 전체의 관찰", "label": "지지됨", "evidence": "quite likely that Hume never had", "note": ""},
+        {"n": 2, "text": "공동 경험 독해 확정 뒤 'RT as actually argued by Hume is involved in vicious circularity'(p.81)", "label": "지지됨", "evidence": "RT as actually argued by Hume", "note": ""},
+        {"n": 3, "text": "신뢰가 기대는 경험이 환원 불가능한 증언에 기대고, 타인 관찰을 진지하게 받는 일이 이미 증언 신뢰를 요구", "label": "지지됨", "evidence": "already requires us to take their testimony", "note": ""},
+        {"n": 4, "text": "'we have to take their reports seriously…'이고 그렇게 말하는 것은 'ludicrous'", "label": "지지됨", "evidence": "It is ludicrous to talk of", "note": ""},
+        {"n": 5, "text": "편지의 전 경로를 직접 본 사람은 아마 없고, 대부분은 출산을 직접 본 적 없다", "label": "지지됨", "evidence": "probably no single person", "note": "'아마'(probably)가 카드에도 남아 있다."},
+        {"n": 6, "text": "문제는 근거로 끌어온 경험에 접근하는 통로가 이미 증언이라는 점", "label": "지지됨", "evidence": "통로는 결국 그 사례를 경험한 다른 화자의 증언", "note": ""},
+        {"n": 7, "text": "Claude: 모든 증언에 같은 도식이 적용돼 전역적 순환에 가깝고 환원의 대상이 자원으로 되돌아온다", "label": "지지됨", "evidence": "구조적·전역적 순환", "note": ""},
+        {"n": 8, "text": "Claude: 무한 후퇴로도 정식화, 결합 사례도 증언으로 얻어 한 단계씩 밀린다", "label": "지지됨", "evidence": "환원이 한 단계 미뤄질 뿐", "note": ""},
+        {"n": 9, "text": "영진 초안: 증언 바깥 자료를 확보하려면 다시 증언에 의지하는 순환", "label": "지지됨", "evidence": "다시 증언에 의지해야 하는 순환", "note": ""}
+      ],
+      "sources_used": ["문헌/@Coady1992 Testimony.md", "_원자료/claude.ai/chats/2026-05-20_Hume's circular reasoning on testimony and experience.md", "_원자료/claude.ai/chats/2026-05-11_Reductionist thesis and the circularity of testimony.md", "_원자료/claude.ai/chats/2026-05-11_네 번째 논문 내용 추출 작업.md", "_원자료/claude.ai/chats/2026-05-12_증언의 정당화와 흄의 환원주의.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "37d",
+      "voice": "문헌",
+      "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "화자 일반의 신빙성은 한 화자의 신빙성에 대한 충분조건도 필요조건도 아니다", "label": "지지됨", "evidence": "neither sufficient nor necessary", "note": ""},
+        {"n": 1, "text": "한 화자의 신빙성은 특정 상황의 문제, 화자 일반은 임의 화자가 일반적으로 믿을 만한가", "label": "지지됨", "evidence": "특정 상황에서 그 화자가 믿을 만한가", "note": ""},
+        {"n": 2, "text": "화자 일반이 신빙성 있어도 정황에 따라 X는 아닐 수 있어 충분조건이 못 된다", "label": "지지됨", "evidence": "정황에 따라 특정 화자 X는", "note": ""},
+        {"n": 3, "text": "X가 신빙성 있어도 화자 일반은 아닐 수 있어 필요조건이 못 된다", "label": "지지됨", "evidence": "화자 일반은 신빙성 있지 않을 수 있다", "note": ""},
+        {"n": 4, "text": "그러므로 증언적 지식에는 그 상황 화자의 신빙성만 요구된다", "label": "지지됨", "evidence": "개별 화자의 신빙성만이 요구될 뿐", "note": ""},
+        {"n": 5, "text": "코디가 화자 일반의 신빙성을 요구했다면 추정적 권리의 존재도 도출되지 않는다", "label": "지지됨", "evidence": "추정적 권리의 존재를 입증하는데 실패", "note": "05-19 Claude는 코디가 이 요구를 명시적으로 세운 것은 아니라고 지적한다. 카드는 '요구했다면'이라는 조건을 달아 두었다."},
+        {"n": 6, "text": "영진은 이 논증을 프리커의 코디 비판으로 서술한다", "label": "지지됨", "evidence": "프리커는 코디가 한 화자의 신빙성과", "note": ""},
+        {"n": 7, "text": "프리커는 p.134에서 '유일한 길이 포괄적 일반화라면 국소적 물음이 전역적 물음으로 바뀐다'는 점을 부정한다", "label": "부분 지지", "evidence": "True, the local reductionist question", "note": "프리커는 이 조건문을 'True'로 인정하고, '유일한 길'이라는 선행 조건이 사실이 아니라고(this is not so) 부정한다. 카드 문장은 부정 대상을 조건문 쪽으로 읽히게 쓰였다."},
+        {"n": 8, "text": "포괄적 일반화는 이번 경우 이 화자의 신빙성을 정당화하는 증거로서 'neither sufficient nor necessary'(p.134)", "label": "지지됨", "evidence": "neither sufficient nor necessary", "note": "쪽수 p.134 일치."},
+        {"n": 9, "text": "필요조건 부정의 근거: 신빙성 기대 근거는 정황·성격·주제의 본성에 관련되고 단언적 발화 일반과는 무관", "label": "지지됨", "evidence": "do not concern the generality", "note": ""},
+        {"n": 10, "text": "이 논점은 점검의 회귀가 증언 일반으로 이른다는 의문에 답하는 자원(대화 속 설명)", "label": "지지됨", "evidence": "종착점은 증언 일반의 신빙성이 아니며", "note": ""}
+      ],
+      "sources_used": ["문헌/@Fricker1994 Against Gullibility.md", "_원자료/claude.ai/chats/2026-05-13_Local reductionism and testimonial justification.md", "_원자료/claude.ai/chats/2026-05-13_프리커의 논증 체계적 분석.md", "_원자료/claude.ai/chats/2026-05-14_Local reductionism and testimony reliability.md", "_원자료/claude.ai/chats/2026-05-19_증언적 지식과 화자 신빙성의 구분.md", "_원자료/claude.ai/chats/2026-05-20_Hume's circular reasoning on testimony and experience.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "39l4",
+      "voice": "문헌",
+      "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "바우어에 따르면 포르노유토피아에는 대상화 개념이 들어설 자리가 없다", "label": "지지됨", "evidence": "‘대상화’라는 개념을 위한 공간이 전혀 없다", "note": ""},
+        {"n": 1, "text": "대상화 문헌은 대상화를 사람을 물건처럼 대함과 동치시키고 인간성 침해를 보이려 한다", "label": "지지됨", "evidence": "인간성에 대한 침해라는 사실을 보임", "note": ""},
+        {"n": 2, "text": "분석이 너무 명백히 옳다는 데서 우려, 철학자의 분석이 필요했느냐", "label": "지지됨", "evidence": "너무나도 명백하게 옳기 때문이다", "note": ""},
+        {"n": 3, "text": "관찰자 자리의 이유 대기보다 포르노그래피의 논리를 안에서부터 묻는 일이 필요", "label": "지지됨", "evidence": "그 안에서부터 접근할 필요가 있다", "note": ""},
+        {"n": 4, "text": "합리성과 성적 욕망의 충돌이 사라지고 남을 쓰는 일이 존중이며 문명은 욕망의 논리로 재편", "label": "지지됨", "evidence": "욕망의 논리로 문명은 재편된다", "note": ""},
+        {"n": 5, "text": "내 욕망 만족과 남의 욕망 만족이 구분되지 않고 자율성은 탐험하고 지체 없이 실행함", "label": "지지됨", "evidence": "탐험하고, 지체 없이 실행하는 것", "note": ""},
+        {"n": 6, "text": "필기: '보면 안다'에서 출발, 외설 기준도 무엇이 포르노인가를 피해 가 나아진 점이 불분명", "label": "지지됨", "evidence": "질문을 피해간 법정", "note": ""},
+        {"n": 7, "text": "어려움은 인간 언어 전반에 있고 쓰레기통 사례, 기준 구체화는 어느 지점에서 끝나야 함", "label": "지지됨", "evidence": "어느 순간 끝에 도달해야 한다", "note": ""},
+        {"n": 8, "text": "'공산주의 동조자', '동물처럼 취급한다' 같은 말은 규범적 방식을 받아들여야 진지하게 쓸 수 있다", "label": "지지됨", "evidence": "진지하게 사용할 수 없을 것이다", "note": ""},
+        {"n": 9, "text": "외설이 쓸모를 잃은 것은 아마 포르노가 사적 공간에 퍼져 충격을 잃었기 때문일 것", "label": "지지됨", "evidence": "아마 포르노가 이제는", "note": "'아마'와 '일 것'이 카드에도 남아 있다."},
+        {"n": 10, "text": "바우어는 성적 대상화도 같은 현상이며 도움이 되면 보면 알 것이라고 쓴다", "label": "지지됨", "evidence": "성적 대상화가 무엇인지 보면 알 것이다", "note": ""}
+      ],
+      "sources_used": ["문헌/@Bauer2015 How to Do Things with Pornography.md", "_원자료/claude.ai/projects/Cavell/docs/낸시 바우어.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/How to do things with Pornography 0b6442f9017d406baffa0aea5a221e32.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "40d",
+      "voice": "종합",
+      "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "크립키의 인용은 비트겐슈타인의 명제를 받고 그 명제에 붙은 자기 표시를 떨어낸다", "label": "지지됨", "evidence": "명제만 흡수", "note": ""},
+        {"n": 1, "text": "40a, 40b, 40c를 함께 놓으면 인용 방식에서 한 규칙성이 드러난다", "label": "연결", "evidence": "", "note": "카드 간 종합 연결."},
+        {"n": 2, "text": "justifications come to an end와 blindly를 명제로 받아 쓰고, §217·§219·§220·§221의 자기 표시는 안 들어온다", "label": "지지됨", "evidence": "I am inclined to say", "note": ""},
+        {"n": 3, "text": "p.17의 justifications는 PI §1 explanations의 변형 인용(PI 대조는 대화 속 설명)", "label": "지지됨", "evidence": "§1의 변형 인용", "note": ""},
+        {"n": 4, "text": "blindly는 §219 'I obey the rule blindly'에서 떼어 온 한 낱말", "label": "지지됨", "evidence": "I obey the rule blindly", "note": ""},
+        {"n": 5, "text": "정당화가 다한 자리의 가장 강한 발언 §217은 이 단락에서 호출되지 않는다", "label": "지지됨", "evidence": "§217의 자리", "note": ""},
+        {"n": 6, "text": "대화는 이를 형식의 거리를 인용 단계에서 평면화하는 일로 묘사, 산문의 매끄러움이 실현", "label": "지지됨", "evidence": "일관되게 통과시키면서", "note": ""},
+        {"n": 7, "text": "p.17의 매끄러움이 모르는 자의 것인지 알면서 다르게 다루는 자의 것인지는 이 단락만으로 미결정", "label": "지지됨", "evidence": "텍스트 자체에서는 결정되지 않는다", "note": ""},
+        {"n": 8, "text": "위악 진단에는 조건이 더 필요: 부분 인용은 부정확이나 인용 관행일 수도 있어 체계성이 보여야", "label": "지지됨", "evidence": "당대의 인용 관행에서 흔한 부분 인용", "note": ""},
+        {"n": 9, "text": "초기 정식은 매끄러움과 유보의 양식이 함께 작동하는 것, 지금까지 확보된 것은 앞의 조건", "label": "지지됨", "evidence": "(a) 측에 매우 강해", "note": ""}
+      ],
+      "sources_used": ["문헌/@Kripke1982 Wittgenstein on Rules and Private Language.md", "_원자료/claude.ai/projects/크립키의 위악성/chats/2026-05-10_프로젝트 본문 주장과 근거 확보.md", "_원자료/claude.ai/projects/크립키의 위악성/chats/2026-05-10_인계 노트의 어조 변환 도식 검토.md"],
+      "sources_missing": []
+    }
+  ]
+}

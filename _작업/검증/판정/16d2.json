@@ -1,0 +1,87 @@
+{
+ "id": "16d2",
+ "voice": "문헌",
+ "verdict": "원문없음",
+ "claims": [
+  {
+   "n": 0,
+   "text": "카벨에 따르면 크립키의 회의적 해결은 풀려는 문제보다 더 회의적이다",
+   "label": "지지됨",
+   "evidence": "solution is more skeptical",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "크립키에게서 개인의 행위는 다른 사람의 성향에 근거해 허가·불허된다(p.70)",
+   "label": "지지됨",
+   "evidence": "community licenses or excludes",
+   "note": "근거는 Claude가 쓴 독해 지도(영진 보관함 밖 OCR 요약)이며 카벨 원문 쪽수는 대조하지 못했다."
+  },
+  {
+   "n": 2,
+   "text": "성향의 일치가 남은 전부라면 그것이 무슨 해결이냐고 묻는다(p.75)",
+   "label": "지지됨",
+   "evidence": "What kind of solution is that?",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "차를 몰며 빨간불을 지나고 싶다고 말하자 동승자가 'My inclination agrees with yours'라고 답하는 예(p.75)",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "'My inclination agrees with yours' 문구만 독해 지도에 있고 차·빨간불·동승자 상황은 어디에도 없다. Grep한 어구: red light, 빨간불, 신호등, 동승자, passenger(_원자료 전체). 영진 보관함 밖 OCR 원문에 있을 수 있으나 확인 불가."
+  },
+  {
+   "n": 4,
+   "text": "그래서 이 해결이 문제보다 더 회의적이라고 판정한다(p.75)",
+   "label": "지지됨",
+   "evidence": "풀려는 문제보다 더 회의적이다(p.75)",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "나에 관한 사실이 뜻함을 이루지 않는다는 정식에서 진리와 무게를 느낀다고 인정(p.76)",
+   "label": "부분 지지",
+   "evidence": "Cavell accepts Kripke's striking truth",
+   "note": "진리를 인정한다는 점은 근거가 있으나 '무게'와 p.76은 출처에 없다(독해 지도는 pp.74–77 범위로만 적음)."
+  },
+  {
+   "n": 6,
+   "text": "사실의 부재를 회의주의자의 요구로 읽고 §107 순수성의 요구의 기원을 묻는다(p.77)",
+   "label": "지지됨",
+   "evidence": "the skeptic's requirement",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "두 사람은 회의주의 가능성을 부인하지 않는 점에서 일치, 카벨은 해결 시도가 유한성·인간성 부정을 이어 간다고 본다",
+   "label": "지지됨",
+   "evidence": "해결하려는 시도가 부정을 지속한다",
+   "note": ""
+  },
+  {
+   "n": 8,
+   "text": "05-10 대화: 크립키는 발견·해결, 카벨의 비트겐슈타인은 유혹 구조를 드러내는 진단",
+   "label": "지지됨",
+   "evidence": "크립키는 회의주의를 발견으로 본다",
+   "note": ""
+  },
+  {
+   "n": 9,
+   "text": "규칙은 정당화 구조 안의 답의 후보, 기준은 정당화가 시작되는 자리",
+   "label": "지지됨",
+   "evidence": "의미를 정당화 구조 안에서 다룬다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Cavell1990 Conditions Handsome and Unhandsome.md",
+  "_원자료/로컬/Reading COH/notes/lecture-2_argument-of-the-ordinary_map.md",
+  "_원자료/claude.ai/chats/2026-05-10_카벨의 핵심 요지 정리.md"
+ ],
+ "sources_missing": [
+  "카벨 원서 OCR 텍스트(강연 2, pp.70–80, 보관함 밖)"
+ ],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

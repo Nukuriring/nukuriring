@@ -1,0 +1,64 @@
+{
+ "id": "14c",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "코디는 흄의 경험이 개인 관찰과 공동 경험 사이에서 흔들린다고 진단",
+   "label": "지지됨",
+   "evidence": "a fatal ambiguity in the use of terms",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "증언 신뢰가 비증언적 관찰로 정당화된다는 흄의 입장을 RT라 부르고 반박",
+   "label": "지지됨",
+   "evidence": "환원주의 테제(Reductionist Thesis, RT)",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "개인 관찰이면 명백히 거짓으로 보이고 공동 경험이면 논점 선취",
+   "label": "지지됨",
+   "evidence": "seems plainly false…surely question-begging",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "기적 논의의 'observed in any age or country'와 'uniform experience'는 공동 경험",
+   "label": "지지됨",
+   "evidence": "the common experience of mankind",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "편지 구절에서는 'my memory and observation'을 말한다",
+   "label": "지지됨",
+   "evidence": "And yet, 'my memory and observation'",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "혼용을 보고로 아는 것과 관찰로 아는 것이 근본 수준에서 쉽게 뒤섞인다는 증거로 읽는다",
+   "label": "지지됨",
+   "evidence": "How easy it is to appropriate at a very fundamental level",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "Claude: 이접지 소거 구조, 두 해석 사이를 오갈 때에만 그럴듯(대화 속 설명)",
+   "label": "지지됨",
+   "evidence": "이접지 소거(disjunction elimination) 구조",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Coady1992 Testimony.md",
+  "_원자료/claude.ai/chats/2026-05-11_Reductionist thesis and the circularity of testimony.md",
+  "_원자료/claude.ai/chats/2026-05-11_네 번째 논문 내용 추출 작업.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

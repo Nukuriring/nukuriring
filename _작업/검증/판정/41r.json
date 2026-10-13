@@ -1,0 +1,86 @@
+{
+ "id": "41r",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "보고시안은 인식론적 분석성이 선험적 지식을 설명한다고 보고 콰인의 회의주의에 맞서 프레게 분석 문장이 있음을 논증한다",
+   "label": "지지됨",
+   "evidence": "epistemological analyticity provides a plausible explanation",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "분석성을 형이상학적/인식론적으로 나누며 형이상학적 분석성은 보고시안이 보기에도 신비롭다",
+   "label": "지지됨",
+   "evidence": "mystifying even from Boghossian's view",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "인식론적 분석성은 의미를 파악하면 인식적 보증을 얻는 개념이며 선험적으로 알려질 문장의 종류를 설명한다",
+   "label": "지지됨",
+   "evidence": "선험적으로 알려질 수 있는 종류의 것이다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "문장이 동의어 대체로 논리적 참으로 환원되면 프레게 분석적이다",
+   "label": "지지됨",
+   "evidence": "동의어 대체를 통해 논리적 참으로 환원가능",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "프레게 분석성으로 설명하려면 동의성의 선험성과 논리적 참의 선험성 두 가정이 필요하다",
+   "label": "지지됨",
+   "evidence": "두가지 가정이 필요하다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "앞 가정은 접어 두고 먼저 콰인의 회의주의를 반박한 다음 논리적 참의 선험성을 분석성으로 설명한다",
+   "label": "지지됨",
+   "evidence": "lays aside the first gap",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "이 논증은 아무도 의미 불확정성을 받아들이려 하지 않는다는 가정 위에 서 있다",
+   "label": "지지됨",
+   "evidence": "one core assumption of his argument",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "논리 인식론 필기는 비추론적 보증(직관)을 먼저 든 다음 배제한다",
+   "label": "지지됨",
+   "evidence": "비추론적 보증. = 직관 … 배제하고",
+   "note": ""
+  },
+  {
+   "n": 8,
+   "text": "MP가 필연적으로 참 보존적이라는 단순한 신빙주의는 복잡한 참 보존적 규칙들이 있어 거짓이다",
+   "label": "지지됨",
+   "evidence": "이런 신빙주의는 거짓. 복잡하고 어려운",
+   "note": ""
+  },
+  {
+   "n": 9,
+   "text": "총각 이해만으로 지식이 정당화되듯 if를 이해하는 일이 MP 사용에 자격을 줄 수 있다는 생각이다",
+   "label": "지지됨",
+   "evidence": "if를 이해하는 것이 MP를 사용하는 것에 자격부여",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/(1) Response to Boghossian 1996",
+  "_원자료/notion/…/5,6 epistemology of logic",
+  "문헌/@Boghossian1996 Analyticity Reconsidered.md",
+  "문헌/@미상 Epistemology of Logic 필기.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
