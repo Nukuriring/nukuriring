@@ -1,0 +1,16 @@
+{"model":"sonnet","date":"2026-10-13","batch":"r1","cards":[
+{"id":"3h1","verdict":"원문없음","claims":[{"n":5,"sonnet":"원문에 없음","label":"원문에 없음","action":"유지","where":"","evidence":"","note":"새 Grep: Kelly|켈리|잊|forget (문헌/@McDowell2008). 켈리는 파생 노트 목록 한 줄(60행)뿐, §7 미세 모양·색조·잊힘 서술과 각주 없음. 카드 자체도 원문 OCR 대조라 적어 보관소에서 검증 불가."}]},
+{"id":"3b","verdict":"원문없음","claims":[
+{"n":1,"sonnet":"원문에 없음","label":"원문에 없음","action":"유지","where":"","evidence":"","note":"새 Grep: nothing can|insight|통찰|Davidson 표어 관련 어구(문헌/@McDowell2008) 무결과. §9 인용을 보관소 안에서 확인 못 함."},
+{"n":5,"sonnet":"원문에 없음","label":"원문에 없음","action":"유지","where":"","evidence":"","note":"새 Grep: insight|통찰 무결과. 2008 논문의 MW 회고 서술 없음."},
+{"n":6,"sonnet":"원문에 없음","label":"원문에 없음","action":"유지","where":"","evidence":"","note":"새 Grep: insight|통찰 무결과. 문헌 노트 §9 항목에 해당 통찰 서술 없음."}]},
+{"id":"3f3","verdict":"원문없음","claims":[
+{"n":4,"sonnet":"원문에 없음","label":"원문에 없음","action":"유지","where":"","evidence":"","note":"새 Grep: 판단될|재사용|reuse. 10번 항목(§7)은 직관 내용 '일부'를 판단에서 재사용한다고만 하고 '판단될 모습 그대로' 드러냄이라는 이유 서술은 없음."},
+{"n":5,"sonnet":"원문에 없음","label":"원문에 없음","action":"유지","where":"","evidence":"","note":"새 Grep: 문자|letter|spirit. '문자로는 옳고 정신으로는 틀리다'는 트래비스에 대해서만 있고(35행) 셀라스 평가는 없음."}]},
+{"id":"3f","verdict":"원문없음","claims":[
+{"n":4,"sonnet":"원문에 없음","label":"원문에 없음","action":"유지","where":"","evidence":"","note":"새 Grep: Kant|칸트|교설|doctrine. 칸트는 직관 대목(19,30,33행)에만 나오고 '이 결론이 칸트의 기본 교설과 일치' 서술은 없음."},
+{"n":6,"sonnet":"원문에 없음","label":"원문에 없음","action":"유지","where":"","evidence":"","note":"새 Grep: 동물|animal|irrational. 동물은 톰슨 생명 판단(31행)뿐이며 이성 없는 동물의 앎 부정 여부 서술 없음."}]},
+{"id":"52f1a","verdict":"모순","claims":[{"n":1,"sonnet":"모순","label":"모순","action":"유지","where":"","evidence":"","note":"원문 해당 줄이 너무 길어 Grep에서 생략되었고 차례 상한으로 직접 읽지 못함. Sonnet 지적(원문 물음은 연합이 불편한데 왜 필요한가) 번복할 근거 없어 유지. 카드 첫 문장 '편안하고 좋은 일이라면'은 뒤 문장·제목('좋아서가 아닌 생존')과도 맞지 않아 뒤집힘 가능성 높음."}]},
+{"id":"52f1b","verdict":"모순","claims":[{"n":3,"sonnet":"모순","label":"모순","action":"유지","where":"","evidence":"","note":"원문 해당 줄이 길어 Grep에서 생략되었고 차례 상한으로 직접 읽지 못함. 번복 근거 없어 Sonnet 판정 유지(화자가 들어온 사람들인지 방 안 사람들인지 사람 확인 권장)."}]},
+{"id":"52g","verdict":"모순","claims":[{"n":6,"sonnet":"모순","label":"모순","action":"유지","where":"","evidence":"","note":"새 Grep(루고네스|베처|Lugones|Bettcher, Response 파일): 0506 글에는 매치 없고 0513(루고네스)·0527(베처)에만 있음. 카드 '앞의 두 글'(0506·0513)은 '뒤의 두 글'(0513·0527)의 오기로 보임. 카드 내 5/13·5/27 서술과도 어긋남."}]}
+]}
