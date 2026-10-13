@@ -1,0 +1,48 @@
+{
+ "id": "46j4",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "온전한 마음이 바람직한 이유는 자기 논박을 피하고 자유를 준다",
+   "label": "지지됨",
+   "evidence": "분열된 의지는 자기-논박적이다 / 하나된 마음은 자유다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "자기애가 온전한 의지의 순수함이면 왜 온전한 마음을 바라야 하는지가 물음",
+   "label": "지지됨",
+   "evidence": "What reason is there for us to be particularly interested",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "분열된 의지는 자기 논박적이며 일종의 비합리성, 비일관",
+   "label": "지지됨",
+   "evidence": "일종의 비합리성이며 ... 비정합적으로",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "하나가 된 마음은 자유(스스로와 싸우지 않음)",
+   "label": "지지됨",
+   "evidence": "스스로와 싸우지 않는다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "자신의 의지적 정체성을 기꺼이 받아들이고 승인하는 상태",
+   "label": "지지됨",
+   "evidence": "willingly accpet and endorse our own volitional",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/Frankfurt_Love 1b697cdd867e803e8ca2d7c32d3d0ea6.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,56 @@
+{
+ "id": "46k2",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "헤겔과 프랭크퍼트는 욕망의 질서를 의지가 세워야 한다고 본다는 점에서 닿는다",
+   "label": "연결",
+   "evidence": "",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "헤겔 필기: 욕망 자체는 우선순위 기준을 주지 못해 바깥 기준이 필요",
+   "label": "지지됨",
+   "evidence": "욕망 그 자체에는 그런 기준들이 없다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "프랭크퍼트: 갈등의 어느 편에 서는지 최종적으로 정하는 일이 필요",
+   "label": "지지됨",
+   "evidence": "finally and unequivocally clear as to which side",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "두 설명은 질서 세우기를 의지의 일로 두고 욕망은 스스로 질서를 못 준다",
+   "label": "연결",
+   "evidence": "",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "헤겔 필기는 외부적 기준이 무엇인지 말하지 않는다",
+   "label": "지지됨",
+   "evidence": "외부적 기준을 들고 들어와야 한다(내용 언급 없음)",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "프랭크퍼트는 통일이 도덕과 분리되어도 온전한 마음을 이룬다고 본다",
+   "label": "지지됨",
+   "evidence": "도덕적으로 불완전한 것과 양립 가능",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/철학/Hegel - Philosophy of Right d80db1f41ff14b13a5ab90741834bc7d.md",
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/Frankfurt_Love 1b697cdd867e803e8ca2d7c32d3d0ea6.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

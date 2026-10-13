@@ -1,0 +1,48 @@
+{
+ "id": "46j6",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "온전한 마음에 이르지 못한다면 적어도 유머 감각을 지키라고 권한다",
+   "label": "지지됨",
+   "evidence": "at least be sure to hang on to your sense of humor",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "자신을 사랑하도록 유도할 수 없다",
+   "label": "지지됨",
+   "evidence": "we can no more induce ourselves to love ourselves",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "그래서 자신을 너무 진지하게 받아들이지 않는 편이 좋겠다고 말한다",
+   "label": "지지됨",
+   "evidence": "Perhaps it is a good idea ... not to take ourselves",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "근처 사무실 여성과의 대화를 소개하며 요점 제시",
+   "label": "지지됨",
+   "evidence": "a conversation ... with a woman ... in an office",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "불확실성과 양가성을 극복할 수 없고 참된 자기애가 불가능하다면 유머",
+   "label": "지지됨",
+   "evidence": "if true selflove is, for you, really out of the question",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/Frankfurt_Love 1b697cdd867e803e8ca2d7c32d3d0ea6.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

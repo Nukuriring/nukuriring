@@ -1,0 +1,56 @@
+{
+ "id": "46h3",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "쿠헬버그와 슈메이커는 대상의 속성보다 인간의 반응을 앞세운다",
+   "label": "연결",
+   "evidence": "",
+   "note": "두 출처를 엮는 연결."
+  },
+  {
+   "n": 1,
+   "text": "쿠헬버그는 지위를 속성에서 추론하는 길을 거절하고 관계에서 출발",
+   "label": "지지됨",
+   "evidence": "대상의 속성을 중심으로…접근과 결별",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "슈메이커는 반응 독립적 속성의 길을 거절하고 분노의 적합성에서 출발",
+   "label": "지지됨",
+   "evidence": "분노의 적합성(fittingness)을 참조하지 않고서는",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "두 이론은 가치에서 인간의 반응과 경험에 구성적 몫을 주는 같은 방향",
+   "label": "연결",
+   "evidence": "",
+   "note": "출처 간 비교."
+  },
+  {
+   "n": 4,
+   "text": "속성 목록에 반례가 생긴다는 관찰은 속성 접근의 인식적 어려움과 닿는다",
+   "label": "연결",
+   "evidence": "",
+   "note": "출처 간 비교. 각 항(반례, 인식적 문제)은 각 필기에 있음."
+  },
+  {
+   "n": 5,
+   "text": "슈메이커는 적합성이라는 규범 항으로 반응의 정당성을 따진다",
+   "label": "지지됨",
+   "evidence": "Fittingness. amusement-worthy가 제공",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/과학철학 과제연구_0422/The Moral Standing of Machines… 1dd97cdd….md",
+  "_원자료/notion/…/도덕적 책임 세미나/Response-Dependent Responsibility… 1e097cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
