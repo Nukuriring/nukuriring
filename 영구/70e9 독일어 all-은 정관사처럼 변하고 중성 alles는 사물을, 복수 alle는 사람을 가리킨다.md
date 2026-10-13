@@ -8,6 +8,9 @@ sources: ["[[@독일어 2023-2 수업 필기]]"]
 cluster: 고전어
 group: NZ1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 70e9 독일어 all-은 정관사처럼 변하고 중성 alles는 사물을, 복수 alle는 사람을 가리킨다
 

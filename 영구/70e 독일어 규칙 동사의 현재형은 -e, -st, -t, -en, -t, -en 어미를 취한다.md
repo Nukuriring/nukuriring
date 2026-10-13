@@ -8,6 +8,9 @@ sources: ["[[@독일어 2023-2 수업 필기]]"]
 cluster: 고전어
 group: NZ1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 70e 독일어 규칙 동사의 현재형은 -e, -st, -t, -en, -t, -en 어미를 취한다
 

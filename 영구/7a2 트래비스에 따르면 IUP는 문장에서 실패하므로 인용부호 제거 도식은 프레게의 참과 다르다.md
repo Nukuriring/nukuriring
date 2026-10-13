@@ -8,6 +8,9 @@ sources: ["[[@Travis2021 Frege The Pure Business of Being True]]"]
 cluster: 언어와 의미
 group: L1b
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 7a2 트래비스에 따르면 IUP는 문장에서 실패하므로 인용부호 제거 도식은 프레게의 참과 다르다
 

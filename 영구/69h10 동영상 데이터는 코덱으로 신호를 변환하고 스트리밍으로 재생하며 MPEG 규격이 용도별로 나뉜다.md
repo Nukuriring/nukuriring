@@ -8,6 +8,9 @@ sources: ["[[@컴퓨터활용능력 컴퓨터 일반 필기]]"]
 cluster: 실용 지식
 group: NZ1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 69h10 동영상 데이터는 코덱으로 신호를 변환하고 스트리밍으로 재생하며 MPEG 규격이 용도별로 나뉜다
 

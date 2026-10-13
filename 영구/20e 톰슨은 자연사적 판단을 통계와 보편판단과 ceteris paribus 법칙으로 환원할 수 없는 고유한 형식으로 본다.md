@@ -8,6 +8,9 @@ sources: ["[[@Thompson2008 Life and Action]]"]
 cluster: 행위와 실천이성
 group: P1c
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 20e 톰슨은 자연사적 판단을 통계와 보편판단과 ceteris paribus 법칙으로 환원할 수 없는 고유한 형식으로 본다
 

@@ -8,6 +8,9 @@ sources: ["[[@Austin1956b Ifs and Cans]]", "[[@Longworth SEP John Langshaw Austi
 cluster: 행위와 실천이성
 group: P2
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 21j 오스틴은 can을 숨은 조건문으로 분석하는 무어의 시도를 거부한다
 

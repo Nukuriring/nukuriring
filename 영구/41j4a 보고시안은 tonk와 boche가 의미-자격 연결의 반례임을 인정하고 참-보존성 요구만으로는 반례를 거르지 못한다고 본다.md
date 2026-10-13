@@ -8,6 +8,9 @@ sources: ["[[@Boghossian Blind Reasoning]]"]
 cluster: 자기지식과 투명성
 group: NJ1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 41j4a 보고시안은 tonk와 boche가 의미-자격 연결의 반례임을 인정하고 참-보존성 요구만으로는 반례를 거르지 못한다고 본다
 

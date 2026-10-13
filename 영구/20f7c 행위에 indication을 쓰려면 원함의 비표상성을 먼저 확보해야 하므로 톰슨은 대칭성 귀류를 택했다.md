@@ -8,6 +8,9 @@ sources: ["[[@Thompson2008 Life and Action]]"]
 cluster: 행위와 실천이성
 group: P1c
 created: 2026-10-12
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 20f7c 행위에 indication을 쓰려면 원함의 비표상성을 먼저 확보해야 하므로 톰슨은 대칭성 귀류를 택했다
 

@@ -8,6 +8,9 @@ sources: ["[[@Humberstone Direction of Fit]]"]
 cluster: 자기지식과 투명성
 group: NJ1
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 41i6a 험버스톤은 스미스의 not-p의 지각을 믿음으로 읽으면 순환하고 외관으로 읽으면 보편적 설명이 못 된다고 비판한다
 

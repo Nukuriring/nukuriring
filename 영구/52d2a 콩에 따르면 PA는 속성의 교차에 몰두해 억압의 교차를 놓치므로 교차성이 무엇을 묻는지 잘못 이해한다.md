@@ -8,6 +8,9 @@ sources: ["[[@Kong Are Intersectionally Fair AI Algorithms Really Fair]]"]
 cluster: 정치·사회·역사·법
 group: NP2
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 52d2a 콩에 따르면 PA는 속성의 교차에 몰두해 억압의 교차를 놓치므로 교차성이 무엇을 묻는지 잘못 이해한다
 

@@ -8,6 +8,9 @@ sources: ["[[@컴퓨터활용능력 컴퓨터 일반 필기]]"]
 cluster: 실용 지식
 group: NZ1
 created: 2026-10-12
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 69h13 통신망은 규모에 따라 LAN, MAN, WAN으로 나뉘고 이용 범위에 따라 인트라넷과 엑스트라넷 등이 있다
 

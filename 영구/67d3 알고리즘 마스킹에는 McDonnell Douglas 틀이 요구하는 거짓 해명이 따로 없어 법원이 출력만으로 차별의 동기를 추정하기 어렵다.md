@@ -8,6 +8,9 @@ sources: ["[[@BarocasSelbst2016 Big Data's Disparate Impact]]"]
 cluster: AI와 윤리
 group: NH1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 67d3 알고리즘 마스킹에는 McDonnell Douglas 틀이 요구하는 거짓 해명이 따로 없어 법원이 출력만으로 차별의 동기를 추정하기 어렵다
 

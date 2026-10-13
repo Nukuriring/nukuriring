@@ -8,6 +8,9 @@ sources: ["[[@DeRose1995 Solving the Skeptical Problem]]"]
 cluster: 인식론
 group: E1
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 10f5 드로즈는 앎을 인정하게 하는 변화가 장애물도 없앤다는 점으로 SCA를 확증한다
 

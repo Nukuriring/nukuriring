@@ -8,6 +8,9 @@ sources: ["[[@Plato Republic]]"]
 cluster: 고대철학
 group: NA1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 48k1 x의 정의와 좋은 x의 정의가 같다면 좋음이 x가 x로 있는 원인이 된다
 

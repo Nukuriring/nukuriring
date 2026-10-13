@@ -8,6 +8,9 @@ sources: ["[[@영진2024 독단론 역설 메모]]"]
 cluster: 영문학과 문학비평
 group: NL3
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 56l 독단론 역설은 P를 안다면 P에 반대하는 증거를 고려할 필요가 없다는 귀결을 낳으며 메모는 증거를 무시한다는 말이 무엇을 뜻하는지 되묻는다
 

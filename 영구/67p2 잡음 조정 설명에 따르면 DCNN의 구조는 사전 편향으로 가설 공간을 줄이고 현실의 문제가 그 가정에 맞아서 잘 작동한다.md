@@ -8,6 +8,9 @@ sources: ["[[@Buckner Deep Learning A Philosophical Introduction]]"]
 cluster: AI와 윤리
 group: NH1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 67p2 잡음 조정 설명에 따르면 DCNN의 구조는 사전 편향으로 가설 공간을 줄이고 현실의 문제가 그 가정에 맞아서 잘 작동한다
 

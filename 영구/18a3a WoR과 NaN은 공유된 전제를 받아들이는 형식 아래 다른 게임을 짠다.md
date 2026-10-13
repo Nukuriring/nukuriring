@@ -8,6 +8,9 @@ sources: ["[[@Kripke1982 Wittgenstein on Rules and Private Language]]", "[[@Krip
 cluster: 카벨과 일상언어철학
 group: K2b
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 18a3a WoR과 NaN은 공유된 전제를 받아들이는 형식 아래 다른 게임을 짠다
 

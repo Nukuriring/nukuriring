@@ -8,6 +8,9 @@ sources: ["[[@미상 The Ethics of Generative AI in Health and Medicine]]"]
 cluster: 정치·사회·역사·법
 group: NP1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 51h6a ought implies can 원칙과 과잉한 책임이라는 메모는 개인이 협력으로 풀 수 없는 문제의 책임을 개인에게 묻는 것이 과한지 따지는 틀로 읽을 수 있다
 

@@ -8,6 +8,9 @@ sources: ["[[@한국철학사2022 서론에서 이이까지 강의 필기]]"]
 cluster: 한국철학
 group: NX1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 64b2 강의에 따르면 중국은 리학과 도학으로 서구는 Neo-Confucianism으로 신유학을 부른다
 

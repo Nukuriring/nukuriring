@@ -8,6 +8,9 @@ sources: ["[[@Buckner Deep Learning A Philosophical Introduction]]"]
 cluster: AI와 윤리
 group: NH1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 67p3 선형 영역 설명에 따르면 DCNN은 유사성 공간에서 더 복잡한 결정 경계를 그린다
 

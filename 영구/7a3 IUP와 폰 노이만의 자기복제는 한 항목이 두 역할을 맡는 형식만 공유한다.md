@@ -8,6 +8,9 @@ sources: ["[[@Travis2021 Frege The Pure Business of Being True]]"]
 cluster: 언어와 의미
 group: L1b
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 7a3 IUP와 폰 노이만의 자기복제는 한 항목이 두 역할을 맡는 형식만 공유한다
 

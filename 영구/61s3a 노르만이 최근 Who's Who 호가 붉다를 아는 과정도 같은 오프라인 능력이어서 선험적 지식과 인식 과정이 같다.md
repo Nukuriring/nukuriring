@@ -8,6 +8,9 @@ sources: ["[[@Williamson 선험 후험 구분의 깊이]]"]
 cluster: 언어와 의미
 group: NK1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 61s3a 노르만이 최근 Who's Who 호가 붉다를 아는 과정도 같은 오프라인 능력이어서 선험적 지식과 인식 과정이 같다
 

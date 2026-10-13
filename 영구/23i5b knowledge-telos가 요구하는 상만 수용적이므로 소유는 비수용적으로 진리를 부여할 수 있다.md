@@ -8,6 +8,9 @@ sources: []
 cluster: 자기지식과 투명성
 group: X2
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 23i5b knowledge-telos가 요구하는 상만 수용적이므로 소유는 비수용적으로 진리를 부여할 수 있다
 

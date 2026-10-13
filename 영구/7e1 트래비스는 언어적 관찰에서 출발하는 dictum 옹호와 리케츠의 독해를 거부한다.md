@@ -8,6 +8,9 @@ sources: ["[[@Travis2021 Frege The Pure Business of Being True]]"]
 cluster: 언어와 의미
 group: L1b
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 7e1 트래비스는 언어적 관찰에서 출발하는 dictum 옹호와 리케츠의 독해를 거부한다
 

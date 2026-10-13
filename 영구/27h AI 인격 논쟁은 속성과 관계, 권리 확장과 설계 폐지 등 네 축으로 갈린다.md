@@ -8,6 +8,9 @@ sources: []
 cluster: 정치·사회·역사·법
 group: G1
 created: 2026-10-09
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 27h AI 인격 논쟁은 속성과 관계, 권리 확장과 설계 폐지 등 네 축으로 갈린다
 

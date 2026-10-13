@@ -8,6 +8,9 @@ sources: ["[[@Ashwell2013 Deep Dark or Transparent]]"]
 cluster: 자기지식과 투명성
 group: NJ1
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 41e3a 애시웰에 따르면 DD는 가치와 욕구의 괴리를 충분히 산출하지 못하고 설명 순서를 뒤집는다
 

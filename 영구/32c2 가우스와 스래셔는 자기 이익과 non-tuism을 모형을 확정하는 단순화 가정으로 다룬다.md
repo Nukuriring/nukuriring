@@ -8,6 +8,9 @@ sources: ["[[@GausThrasher2021 Philosophy, Politics, and Economics]]"]
 cluster: 경제학과 경제사
 group: M5
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 32c2 가우스와 스래셔는 자기 이익과 non-tuism을 모형을 확정하는 단순화 가정으로 다룬다
 

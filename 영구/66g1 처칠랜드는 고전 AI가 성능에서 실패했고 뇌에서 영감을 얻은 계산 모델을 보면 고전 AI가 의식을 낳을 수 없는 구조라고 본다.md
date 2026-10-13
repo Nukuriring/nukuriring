@@ -8,6 +8,9 @@ sources: ["[[@Churchland Could a Machine Think]]"]
 cluster: 과학철학
 group: NH1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 66g1 처칠랜드는 고전 AI가 성능에서 실패했고 뇌에서 영감을 얻은 계산 모델을 보면 고전 AI가 의식을 낳을 수 없는 구조라고 본다
 

@@ -8,6 +8,9 @@ sources: ["[[@McDowell1978 Are Moral Requirements Hypothetical Imperatives]]"]
 cluster: 카벨과 일상언어철학
 group: NC2
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 58h3 카벨의 must와 맥도웰의 침묵시킴은 대안을 비교 대상으로 올리지 않는 요구를 말한다는 점에서 이어 읽을 수 있다
 

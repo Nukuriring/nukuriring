@@ -8,6 +8,9 @@ sources: ["[[@Buckner Deep Learning A Philosophical Introduction]]"]
 cluster: AI와 윤리
 group: NH1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 67s 적대적 예제는 DCNN이 인간과 다른 방식으로 패턴을 인식한다는 논거로 쓰인다
 

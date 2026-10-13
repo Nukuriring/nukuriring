@@ -8,6 +8,9 @@ sources: ["[[@양상논리스터디2021 양상 논리 핸드아웃]]"]
 cluster: 형이상학과 양상
 group: NM2
 created: 2026-10-12
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 60f6 확장하는 영역 조건은 (CBF)에 수축하는 영역 조건은 (BF)에 대응하고 둘을 함께 쓰면 영역이 같아진다
 

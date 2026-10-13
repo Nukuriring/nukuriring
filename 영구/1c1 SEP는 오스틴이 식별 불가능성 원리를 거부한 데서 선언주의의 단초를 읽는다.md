@@ -8,6 +8,9 @@ sources: ["[[@Austin1962 Sense and Sensibilia]]", "[[@Longworth SEP John Langsha
 cluster: 지각의 철학
 candidate: D-C11
 created: 2026-10-09
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 
 # 1c1 SEP는 오스틴이 식별 불가능성 원리를 거부한 데서 선언주의의 단초를 읽는다

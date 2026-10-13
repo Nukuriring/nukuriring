@@ -8,6 +8,9 @@ sources: ["[[@Khader2011 Adaptive Preferences and Women's Empowerment]]"]
 cluster: 정치·사회·역사·법
 group: NP1
 created: 2026-10-12
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 51j6 Khader는 절차적 자율성에 기대어 적응적 선호를 정의하면 선의 이론을 끌어들이게 되고 실질적 자율성 정의는 자유주의적 헌신과 충돌한다고 본다
 

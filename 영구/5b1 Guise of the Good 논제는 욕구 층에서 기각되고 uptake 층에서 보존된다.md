@@ -8,6 +8,9 @@ sources: []
 cluster: 지각의 철학
 candidate: A-C16
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 
 # 5b1 Guise of the Good 논제는 욕구 층에서 기각되고 uptake 층에서 보존된다

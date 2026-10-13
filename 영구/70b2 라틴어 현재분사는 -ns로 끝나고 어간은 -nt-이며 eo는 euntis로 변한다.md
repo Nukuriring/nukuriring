@@ -8,6 +8,9 @@ sources: ["[[@라틴어 2023-2 수업 필기]]"]
 cluster: 고전어
 group: NZ1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 70b2 라틴어 현재분사는 -ns로 끝나고 어간은 -nt-이며 eo는 euntis로 변한다
 

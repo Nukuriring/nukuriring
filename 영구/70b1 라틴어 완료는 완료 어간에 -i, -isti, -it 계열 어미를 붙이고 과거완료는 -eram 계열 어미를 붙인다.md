@@ -8,6 +8,9 @@ sources: ["[[@라틴어 2023-2 수업 필기]]"]
 cluster: 고전어
 group: NZ1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 70b1 라틴어 완료는 완료 어간에 -i, -isti, -it 계열 어미를 붙이고 과거완료는 -eram 계열 어미를 붙인다
 

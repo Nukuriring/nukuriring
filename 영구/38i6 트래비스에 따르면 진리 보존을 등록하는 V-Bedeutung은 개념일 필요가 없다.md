@@ -8,6 +8,9 @@ sources: ["[[@Travis2021 Frege The Pure Business of Being True]]"]
 cluster: 언어와 의미
 group: L1c
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 38i6 트래비스에 따르면 진리 보존을 등록하는 V-Bedeutung은 개념일 필요가 없다
 

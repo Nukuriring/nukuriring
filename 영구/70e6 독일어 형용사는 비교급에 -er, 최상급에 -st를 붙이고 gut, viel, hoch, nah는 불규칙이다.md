@@ -8,6 +8,9 @@ sources: ["[[@독일어 2023-2 수업 필기]]"]
 cluster: 고전어
 group: NZ1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 70e6 독일어 형용사는 비교급에 -er, 최상급에 -st를 붙이고 gut, viel, hoch, nah는 불규칙이다
 

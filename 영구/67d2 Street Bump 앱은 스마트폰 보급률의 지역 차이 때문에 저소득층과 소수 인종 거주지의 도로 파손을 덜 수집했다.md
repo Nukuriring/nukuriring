@@ -8,6 +8,9 @@ sources: ["[[@BarocasSelbst2016 Big Data's Disparate Impact]]"]
 cluster: AI와 윤리
 group: NH1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 67d2 Street Bump 앱은 스마트폰 보급률의 지역 차이 때문에 저소득층과 소수 인종 거주지의 도로 파손을 덜 수집했다
 

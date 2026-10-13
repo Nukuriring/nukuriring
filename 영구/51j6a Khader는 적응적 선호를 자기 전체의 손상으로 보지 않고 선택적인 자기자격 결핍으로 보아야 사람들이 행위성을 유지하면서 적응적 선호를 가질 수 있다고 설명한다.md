@@ -8,6 +8,9 @@ sources: ["[[@Khader2011 Adaptive Preferences and Women's Empowerment]]"]
 cluster: 정치·사회·역사·법
 group: NP1
 created: 2026-10-12
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 51j6a Khader는 적응적 선호를 자기 전체의 손상으로 보지 않고 선택적인 자기자격 결핍으로 보아야 사람들이 행위성을 유지하면서 적응적 선호를 가질 수 있다고 설명한다
 

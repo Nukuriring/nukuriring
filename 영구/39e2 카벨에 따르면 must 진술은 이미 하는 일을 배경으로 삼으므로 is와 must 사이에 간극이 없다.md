@@ -8,6 +8,9 @@ sources: ["[[@Cavell1969 Must We Mean What We Say]]"]
 cluster: 카벨과 일상언어철학
 group: K2c
 created: 2026-10-09
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 39e2 카벨에 따르면 must 진술은 이미 하는 일을 배경으로 삼으므로 is와 must 사이에 간극이 없다
 

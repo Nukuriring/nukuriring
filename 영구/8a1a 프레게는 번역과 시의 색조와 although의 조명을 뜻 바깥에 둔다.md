@@ -8,6 +8,9 @@ sources: ["[[@Frege1892 Über Sinn und Bedeutung]]"]
 cluster: 언어와 의미
 group: L2
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 8a1a 프레게는 번역과 시의 색조와 although의 조명을 뜻 바깥에 둔다
 

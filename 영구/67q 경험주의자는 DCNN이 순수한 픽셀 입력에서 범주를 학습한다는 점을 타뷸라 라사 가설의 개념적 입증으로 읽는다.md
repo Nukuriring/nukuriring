@@ -8,6 +8,9 @@ sources: ["[[@Buckner Deep Learning A Philosophical Introduction]]"]
 cluster: AI와 윤리
 group: NH1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 67q 경험주의자는 DCNN이 순수한 픽셀 입력에서 범주를 학습한다는 점을 타뷸라 라사 가설의 개념적 입증으로 읽는다
 

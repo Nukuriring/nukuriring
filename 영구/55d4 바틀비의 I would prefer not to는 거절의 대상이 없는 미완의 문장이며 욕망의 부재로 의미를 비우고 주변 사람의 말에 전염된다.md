@@ -8,6 +8,9 @@ sources: ["[[@AmLit19c 문철대 19세기 미국문학 강의 필기]]", "[[@AmL
 cluster: 영문학과 문학비평
 group: NL2
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 55d4 바틀비의 I would prefer not to는 거절의 대상이 없는 미완의 문장이며 욕망의 부재로 의미를 비우고 주변 사람의 말에 전염된다
 

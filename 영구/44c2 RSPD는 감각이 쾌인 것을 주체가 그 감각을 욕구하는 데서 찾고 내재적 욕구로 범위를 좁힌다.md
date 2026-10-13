@@ -8,6 +8,9 @@ sources: ["[[@Heathwood2007 The Reduction of Sensory Pleasure to Desire]]"]
 cluster: 행위와 실천이성
 group: NR2
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 44c2 RSPD는 감각이 쾌인 것을 주체가 그 감각을 욕구하는 데서 찾고 내재적 욕구로 범위를 좁힌다
 

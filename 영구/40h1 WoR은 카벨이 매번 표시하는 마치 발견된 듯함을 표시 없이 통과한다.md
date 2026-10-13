@@ -8,6 +8,9 @@ sources: ["[[@Cavell1979 The Claim of Reason]]", "[[@Kripke1982 Wittgenstein on 
 cluster: 카벨과 일상언어철학
 group: K2d
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 40h1 WoR은 카벨이 매번 표시하는 마치 발견된 듯함을 표시 없이 통과한다
 

@@ -8,6 +8,9 @@ sources: ["[[@Recanati2017 Contextualism and Polysemy]]"]
 cluster: 언어와 의미
 group: L1b
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 7g1 르카나티는 어휘 의미와 sense로의 변환과 변조를 나누는 세 층 구조를 세운다
 

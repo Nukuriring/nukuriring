@@ -8,6 +8,9 @@ sources: ["[[@Travis2021 Frege The Pure Business of Being True]]"]
 cluster: 언어와 의미
 group: L1c
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 38i5 트래비스는 Bedeutung을 사고의 요구에 대한 기여와 그 요구의 처분에 대한 기여로 가른다
 

@@ -8,6 +8,9 @@ sources: ["[[@Thompson2008 Life and Action]]"]
 cluster: 행위와 실천이성
 group: P1b2
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 20d5 톰슨에 따르면 생식 역량을 어떤 상황에서는 가능한 것으로 약화하면 PCR 때문에 모든 것이 생식 적합도를 지닌다
 

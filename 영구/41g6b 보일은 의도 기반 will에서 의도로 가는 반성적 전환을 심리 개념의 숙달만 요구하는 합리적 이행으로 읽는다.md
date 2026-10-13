@@ -8,6 +8,9 @@ sources: ["[[@Boyle Non-Positional Consciousness]]"]
 cluster: 자기지식과 투명성
 group: NJ1
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 41g6b 보일은 의도 기반 will에서 의도로 가는 반성적 전환을 심리 개념의 숙달만 요구하는 합리적 이행으로 읽는다
 

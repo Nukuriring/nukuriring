@@ -8,6 +8,9 @@ sources: ["[[@Kripke1982 Wittgenstein on Rules and Private Language]]", "[[@Witt
 cluster: 카벨과 일상언어철학
 group: K2d
 created: 2026-10-09
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 40d1 WoR의 해설이라는 자기 규정은 크립키의 인용 방식을 옹호하는 가장 강한 근거이다
 

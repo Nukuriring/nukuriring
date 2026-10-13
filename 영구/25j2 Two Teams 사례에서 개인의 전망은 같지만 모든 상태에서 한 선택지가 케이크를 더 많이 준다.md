@@ -8,6 +8,9 @@ sources: ["[[@HongRussell2025 Paradoxes of Infinite Aggregation]]"]
 cluster: 윤리와 가치
 group: H1
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 25j2 Two Teams 사례에서 개인의 전망은 같지만 모든 상태에서 한 선택지가 케이크를 더 많이 준다
 

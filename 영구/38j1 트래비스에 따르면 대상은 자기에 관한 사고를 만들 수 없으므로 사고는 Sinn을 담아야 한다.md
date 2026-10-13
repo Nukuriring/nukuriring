@@ -8,6 +8,9 @@ sources: ["[[@Travis2021 Frege The Pure Business of Being True]]"]
 cluster: 언어와 의미
 group: L1c
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 38j1 트래비스에 따르면 대상은 자기에 관한 사고를 만들 수 없으므로 사고는 Sinn을 담아야 한다
 

@@ -8,6 +8,9 @@ sources: ["[[@라틴어 2023-2 수업 필기]]"]
 cluster: 고전어
 group: NZ1
 created: 2026-10-12
+verify: 원문없음
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 70b4 라틴어는 미래보다 앞서 끝나는 일을 cum이나 si 절에 미래완료로 쓴다
 

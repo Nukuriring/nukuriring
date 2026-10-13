@@ -8,6 +8,9 @@ sources: ["[[@Travis2004 The Silence of the Senses]]"]
 cluster: 지각의 철학
 candidate: A-C05
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 
 # 2b 트래비스에 따르면 오도는 indicating으로 설명되므로 표상주의를 지지하지 않는다

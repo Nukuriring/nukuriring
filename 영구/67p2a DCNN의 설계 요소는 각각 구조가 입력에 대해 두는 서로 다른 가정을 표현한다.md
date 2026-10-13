@@ -8,6 +8,9 @@ sources: ["[[@Buckner Deep Learning A Philosophical Introduction]]"]
 cluster: AI와 윤리
 group: NH1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 67p2a DCNN의 설계 요소는 각각 구조가 입력에 대해 두는 서로 다른 가정을 표현한다
 

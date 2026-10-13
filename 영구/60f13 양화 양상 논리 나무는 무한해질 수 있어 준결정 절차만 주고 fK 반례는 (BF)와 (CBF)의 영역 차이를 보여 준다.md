@@ -8,6 +8,9 @@ sources: ["[[@양상논리스터디2021 양상 논리 핸드아웃]]"]
 cluster: 형이상학과 양상
 group: NM2
 created: 2026-10-12
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 60f13 양화 양상 논리 나무는 무한해질 수 있어 준결정 절차만 주고 fK 반례는 (BF)와 (CBF)의 영역 차이를 보여 준다
 

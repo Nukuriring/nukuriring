@@ -8,6 +8,9 @@ sources: ["[[@Kripke1982 Wittgenstein on Rules and Private Language]]", "[[@Cave
 cluster: 카벨과 일상언어철학
 group: K2b
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 18f2a WoR의 역설과 해법은 일상으로 돌아오는 카벨의 회의주의자 운동과 겹친다
 

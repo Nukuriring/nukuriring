@@ -8,6 +8,9 @@ sources: ["[[@Hempel1962 Two Basic Types of Scientific Explanation]]"]
 cluster: 과학철학
 group: S2
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 13a 헴펠에 따르면 인과 설명은 D-N 설명이지만 D-N 설명이 모두 인과 설명은 아니다
 

@@ -8,6 +8,9 @@ sources: ["[[@Travis2021 Frege The Pure Business of Being True]]"]
 cluster: 언어와 의미
 group: L1b
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 7d 트래비스에 따르면 문장의 Bedeutung이 진리치라는 정식은 V-Bedeutung 장부에서만 성립한다
 

@@ -8,6 +8,9 @@ sources: ["[[@Moran2012 Self-Knowledge Transparency and the Forms of Activity]]"
 cluster: 자기지식과 투명성
 group: NJ1
 created: 2026-10-09
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 41a6 모런은 바이른의 BEL을 따르는 일이 전제와 결론 사이의 합리적 연관을 이해하는 행위자성을 요구한다고 논한다
 

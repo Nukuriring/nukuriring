@@ -8,6 +8,9 @@ sources: ["[[@Boyle Non-Positional Consciousness]]"]
 cluster: 자기지식과 투명성
 group: NJ1
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 41g3b 보일은 의도의 경우에도 나는 PHI할 것이다에서 의도한다로 가는 전환이 의도 기반 will일 때만 보장되고 그때 중립적이지 않다고 본다
 

@@ -8,6 +8,9 @@ sources: ["[[@Beckmann2023 Rejecting Cognitivism]]"]
 cluster: 과학철학
 group: NH1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 66c3b RotNet과 DeepFace는 얼굴의 방향과 학습된 핵심 지점에 의존하며 이는 메를로퐁티의 지각적 경로와 대응한다
 

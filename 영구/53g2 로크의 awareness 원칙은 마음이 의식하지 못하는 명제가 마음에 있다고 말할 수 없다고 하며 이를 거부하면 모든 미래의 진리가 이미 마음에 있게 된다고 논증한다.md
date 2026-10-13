@@ -8,6 +8,9 @@ sources: ["[[@Locke1689 인간지성론 1권]]"]
 cluster: 정치·사회·역사·법
 group: NP3
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 53g2 로크의 awareness 원칙은 마음이 의식하지 못하는 명제가 마음에 있다고 말할 수 없다고 하며 이를 거부하면 모든 미래의 진리가 이미 마음에 있게 된다고 논증한다
 

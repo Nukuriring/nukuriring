@@ -8,6 +8,9 @@ sources: ["[[@BarocasSelbst2016 Big Data's Disparate Impact]]"]
 cluster: 정치·사회·역사·법
 group: NP1
 created: 2026-10-12
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 51h1f 절차적 대응이 기술적으로 실패하면 결과 기반의 보정만 남는데 반분류주의가 우세한 법 환경과 Ricci 판결이 이를 막는다
 

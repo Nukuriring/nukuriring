@@ -8,6 +8,9 @@ sources: ["[[@라틴어 2023-2 수업 필기]]"]
 cluster: 고전어
 group: NZ1
 created: 2026-10-12
+verify: 부분
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 70b5 라틴어 명령법은 단수에 어간형을, 복수에 -te를 쓰고 복수 금지는 nolite와 부정사로 나타낸다
 

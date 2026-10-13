@@ -8,6 +8,9 @@ sources: ["[[@Buckner Deep Learning A Philosophical Introduction]]"]
 cluster: AI와 윤리
 group: NH1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 67r DCNN이 인간보다 훨씬 많은 데이터를 요구한다는 점은 두 학습이 다른 메커니즘이라는 논거로 쓰인다
 

@@ -8,6 +8,9 @@ sources: []
 cluster: 경제학과 경제사
 group: M7
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 34h ISA는 만기에 계좌 전체 손익을 통산하므로 계좌를 유지한 매매에는 세금 불이익이 없다
 

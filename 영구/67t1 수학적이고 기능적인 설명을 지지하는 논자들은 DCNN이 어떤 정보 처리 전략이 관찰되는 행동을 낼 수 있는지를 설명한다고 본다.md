@@ -8,6 +8,9 @@ sources: ["[[@Buckner Deep Learning A Philosophical Introduction]]"]
 cluster: AI와 윤리
 group: NH1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 67t1 수학적이고 기능적인 설명을 지지하는 논자들은 DCNN이 어떤 정보 처리 전략이 관찰되는 행동을 낼 수 있는지를 설명한다고 본다
 

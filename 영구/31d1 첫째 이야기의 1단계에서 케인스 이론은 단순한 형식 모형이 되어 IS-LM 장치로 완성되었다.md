@@ -8,6 +8,9 @@ sources: ["[[@Backhouse1995 Interpreting Macroeconomics]]"]
 cluster: 경제학과 경제사
 group: M4
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 31d1 첫째 이야기의 1단계에서 케인스 이론은 단순한 형식 모형이 되어 IS-LM 장치로 완성되었다
 

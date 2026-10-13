@@ -8,6 +8,9 @@ sources: ["[[@라틴어 2023-2 수업 필기]]"]
 cluster: 고전어
 group: NZ1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 70c1 라틴어 uter는 둘 중 어느 쪽을 묻고 utrum과 an은 두 선택지를 묻는 의문문을 이룬다
 

@@ -8,6 +8,9 @@ sources: ["[[@Cavell1969 Must We Mean What We Say]]"]
 cluster: 카벨과 일상언어철학
 group: K2c
 created: 2026-10-09
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 39e3 카벨에 따르면 must와 ought의 차이는 행위를 하는 일과 잘 하는 일의 차이이다
 

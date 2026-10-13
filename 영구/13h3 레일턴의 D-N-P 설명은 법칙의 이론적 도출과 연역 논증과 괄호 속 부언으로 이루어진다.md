@@ -8,6 +8,9 @@ sources: ["[[@Railton1978 A Deductive-Nomological Model of Probabilistic Explana
 cluster: 과학철학
 group: S2
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 13h3 레일턴의 D-N-P 설명은 법칙의 이론적 도출과 연역 논증과 괄호 속 부언으로 이루어진다
 

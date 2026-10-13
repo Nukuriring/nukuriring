@@ -8,6 +8,9 @@ sources: ["[[@미상 Bloody Hard Way 노트]]"]
 cluster: 카벨과 일상언어철학
 group: NC1
 created: 2026-10-12
+verify: 모순
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 57c BHW 논자는 일관성을 묻는 회의주의는 정당하고 말하기의 요점을 부정하는 회의주의는 저항받아야 한다고 본다
 

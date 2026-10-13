@@ -8,6 +8,9 @@ sources: ["[[@영진2026 비트겐슈타인의 유산 대화]]", "[[@Cavell1988 
 cluster: 카벨과 일상언어철학
 group: NC1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 57s Declining Decline의 수평적 삶의 형식과 수직적 삶의 형식을 가르면 관습주의 독해가 수직을 잃는다
 

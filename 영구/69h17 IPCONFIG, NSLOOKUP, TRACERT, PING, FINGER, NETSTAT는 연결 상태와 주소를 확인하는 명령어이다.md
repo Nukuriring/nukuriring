@@ -8,6 +8,9 @@ sources: ["[[@컴퓨터활용능력 컴퓨터 일반 필기]]"]
 cluster: 실용 지식
 group: NZ1
 created: 2026-10-12
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 69h17 IPCONFIG, NSLOOKUP, TRACERT, PING, FINGER, NETSTAT는 연결 상태와 주소를 확인하는 명령어이다
 

@@ -8,6 +8,9 @@ sources: ["[[@Kant1781 순수이성비판 서문 필기]]"]
 cluster: 근세철학
 group: NX1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 63e7a 초월적 논증은 논란 없는 사실 P가 가능하려면 충족되어야 하는 조건 C를 구성 원리로 가진 판단 A를 참으로 받아들인다
 

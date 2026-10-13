@@ -8,6 +8,9 @@ sources: ["[[@컴퓨터활용능력 컴퓨터 일반 필기]]"]
 cluster: 실용 지식
 group: NZ1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 69h 레지스터는 CPU가 처리할 명령어와 결과값을 임시 저장하며 누산기는 연산 결과를 저장한다
 

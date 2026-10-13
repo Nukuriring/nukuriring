@@ -8,6 +8,9 @@ sources: ["[[@Austin1956b Ifs and Cans]]", "[[@Millgram SEP Practical Reason and
 cluster: 행위와 실천이성
 group: P2
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 21j2 오스틴의 능력의 can과 샤피로의 자유의 양상은 서로 다른 양상이다
 

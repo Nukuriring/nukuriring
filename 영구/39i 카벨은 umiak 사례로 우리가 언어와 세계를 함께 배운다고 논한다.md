@@ -8,6 +8,9 @@ sources: ["[[@Cavell1969 Must We Mean What We Say]]"]
 cluster: 카벨과 일상언어철학
 group: K2c
 created: 2026-10-09
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 39i 카벨은 umiak 사례로 우리가 언어와 세계를 함께 배운다고 논한다
 

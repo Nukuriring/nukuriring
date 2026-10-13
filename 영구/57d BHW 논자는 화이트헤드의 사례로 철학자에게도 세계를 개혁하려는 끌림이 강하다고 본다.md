@@ -8,6 +8,9 @@ sources: ["[[@미상 Bloody Hard Way 노트]]"]
 cluster: 카벨과 일상언어철학
 group: NC1
 created: 2026-10-12
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 57d BHW 논자는 화이트헤드의 사례로 철학자에게도 세계를 개혁하려는 끌림이 강하다고 본다
 

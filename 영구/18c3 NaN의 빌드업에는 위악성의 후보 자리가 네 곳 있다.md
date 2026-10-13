@@ -8,6 +8,9 @@ sources: ["[[@Kripke1980 Naming and Necessity]]"]
 cluster: 카벨과 일상언어철학
 group: K2b
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 18c3 NaN의 빌드업에는 위악성의 후보 자리가 네 곳 있다
 

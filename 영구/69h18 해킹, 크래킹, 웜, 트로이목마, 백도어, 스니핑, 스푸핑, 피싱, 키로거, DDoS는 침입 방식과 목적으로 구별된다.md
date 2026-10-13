@@ -8,6 +8,9 @@ sources: ["[[@컴퓨터활용능력 컴퓨터 일반 필기]]"]
 cluster: 실용 지식
 group: NZ1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 69h18 해킹, 크래킹, 웜, 트로이목마, 백도어, 스니핑, 스푸핑, 피싱, 키로거, DDoS는 침입 방식과 목적으로 구별된다
 

@@ -8,6 +8,9 @@ sources: ["[[@Buckner Deep Learning A Philosophical Introduction]]"]
 cluster: AI와 윤리
 group: NH1
 created: 2026-10-12
+verify: 부분
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 67q1 본유주의자는 DCNN의 성공이 설계에 내장된 구조적 편향에 기대고 있어서 경험주의를 입증하지 못한다고 답한다
 

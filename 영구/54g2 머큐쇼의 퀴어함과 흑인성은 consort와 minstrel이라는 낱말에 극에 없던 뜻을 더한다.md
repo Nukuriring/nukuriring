@@ -8,6 +8,9 @@ sources: []
 cluster: 영문학과 문학비평
 group: NL1
 created: 2026-10-09
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 54g2 머큐쇼의 퀴어함과 흑인성은 consort와 minstrel이라는 낱말에 극에 없던 뜻을 더한다
 

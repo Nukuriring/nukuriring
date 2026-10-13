@@ -8,6 +8,9 @@ sources: []
 cluster: 모호성과 논리
 group: V1
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 19e1b1 스미스의 근접성 이론과 에징턴의 verity 이론은 정도 이론을 두 반론에서 지키려 한다
 

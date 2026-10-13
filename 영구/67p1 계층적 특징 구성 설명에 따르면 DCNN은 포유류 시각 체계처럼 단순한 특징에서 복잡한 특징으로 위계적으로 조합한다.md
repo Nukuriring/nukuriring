@@ -8,6 +8,9 @@ sources: ["[[@Buckner Deep Learning A Philosophical Introduction]]"]
 cluster: AI와 윤리
 group: NH1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 67p1 계층적 특징 구성 설명에 따르면 DCNN은 포유류 시각 체계처럼 단순한 특징에서 복잡한 특징으로 위계적으로 조합한다
 

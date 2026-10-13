@@ -8,6 +8,9 @@ sources: ["[[@Beckmann2023 Rejecting Cognitivism]]"]
 cluster: 과학철학
 group: NH1
 created: 2026-10-12
+verify: 원문없음
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 66c 베크만 외에 따르면 메를로퐁티의 corps propre는 일인칭 관점의 기저 구조에서 발견되는 몸이고 생물학적 몸과 구별된다
 

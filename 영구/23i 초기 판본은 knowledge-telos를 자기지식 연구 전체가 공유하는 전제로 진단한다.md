@@ -8,6 +8,9 @@ sources: ["[[@Gertler2018 Self-Knowledge and Rational Agency]]"]
 cluster: 자기지식과 투명성
 group: X2
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 23i 초기 판본은 knowledge-telos를 자기지식 연구 전체가 공유하는 전제로 진단한다
 

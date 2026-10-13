@@ -8,6 +8,9 @@ sources: ["[[@Buckner Deep Learning A Philosophical Introduction]]"]
 cluster: AI와 윤리
 group: NH1
 created: 2026-10-12
+verify: 부분
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 67s1 착시와 인간이 예측할 수 있는 적대적 예제는 DCNN의 오분류를 완전히 비인간적이라고 단정할 수 없게 한다
 

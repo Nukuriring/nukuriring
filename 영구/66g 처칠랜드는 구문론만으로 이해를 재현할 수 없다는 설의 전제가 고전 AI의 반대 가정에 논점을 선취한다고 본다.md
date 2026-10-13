@@ -8,6 +8,9 @@ sources: ["[[@Churchland Could a Machine Think]]"]
 cluster: 과학철학
 group: NH1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 66g 처칠랜드는 구문론만으로 이해를 재현할 수 없다는 설의 전제가 고전 AI의 반대 가정에 논점을 선취한다고 본다
 

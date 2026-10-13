@@ -8,6 +8,9 @@ sources: ["[[@양상논리스터디2021 양상 논리 핸드아웃]]"]
 cluster: 형이상학과 양상
 group: NM2
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 60e2 M과 S4와 B와 S5는 K에 공리를 더한 확장이고 S5는 여러 공리 조합으로 얻어진다
 

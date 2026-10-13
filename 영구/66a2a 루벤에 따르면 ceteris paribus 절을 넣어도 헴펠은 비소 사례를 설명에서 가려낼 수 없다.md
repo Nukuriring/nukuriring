@@ -8,6 +8,9 @@ sources: ["[[@Ruben Arguments Laws and Explanation]]"]
 cluster: 과학철학
 group: NH1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 66a2a 루벤에 따르면 ceteris paribus 절을 넣어도 헴펠은 비소 사례를 설명에서 가려낼 수 없다
 

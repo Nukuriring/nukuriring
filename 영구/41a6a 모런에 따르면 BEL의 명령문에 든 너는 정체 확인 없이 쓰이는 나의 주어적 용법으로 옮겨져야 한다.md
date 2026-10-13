@@ -8,6 +8,9 @@ sources: ["[[@Moran2012 Self-Knowledge Transparency and the Forms of Activity]]"
 cluster: 자기지식과 투명성
 group: NJ1
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 41a6a 모런에 따르면 BEL의 명령문에 든 너는 정체 확인 없이 쓰이는 나의 주어적 용법으로 옮겨져야 한다
 

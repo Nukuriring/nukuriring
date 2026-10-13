@@ -8,6 +8,9 @@ sources: ["[[@Travis2021 Frege The Pure Business of Being True]]"]
 cluster: 언어와 의미
 group: L1c
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 38j4 트래비스에 따르면 진리 전달은 V-Bedeutung의 문제이고 증명은 Sinn의 문제이다
 

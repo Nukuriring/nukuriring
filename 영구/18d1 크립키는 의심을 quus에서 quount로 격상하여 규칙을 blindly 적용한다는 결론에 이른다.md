@@ -8,6 +8,9 @@ sources: ["[[@Kripke1982 Wittgenstein on Rules and Private Language]]"]
 cluster: 카벨과 일상언어철학
 group: K2b
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 18d1 크립키는 의심을 quus에서 quount로 격상하여 규칙을 blindly 적용한다는 결론에 이른다
 

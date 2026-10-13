@@ -8,6 +8,9 @@ sources: ["[[@독일어 2023-2 수업 필기]]"]
 cluster: 고전어
 group: NZ1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 70e1 독일어에서 essen, helfen, sehen, fahren, geben, lesen은 2·3인칭 단수에서 어간 모음이 바뀐다
 

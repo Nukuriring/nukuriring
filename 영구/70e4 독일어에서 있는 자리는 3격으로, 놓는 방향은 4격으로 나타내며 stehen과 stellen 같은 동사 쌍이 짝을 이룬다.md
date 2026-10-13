@@ -8,6 +8,9 @@ sources: ["[[@독일어 2023-2 수업 필기]]"]
 cluster: 고전어
 group: NZ1
 created: 2026-10-12
+verify: 부분
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 70e4 독일어에서 있는 자리는 3격으로, 놓는 방향은 4격으로 나타내며 stehen과 stellen 같은 동사 쌍이 짝을 이룬다
 

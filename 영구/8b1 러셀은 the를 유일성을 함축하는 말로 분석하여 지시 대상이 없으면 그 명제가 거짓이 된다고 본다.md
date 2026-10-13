@@ -8,6 +8,9 @@ sources: ["[[@Russell1905 On Denoting]]"]
 cluster: 언어와 의미
 group: L2
 created: 2026-10-09
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 8b1 러셀은 the를 유일성을 함축하는 말로 분석하여 지시 대상이 없으면 그 명제가 거짓이 된다고 본다
 

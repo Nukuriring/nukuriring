@@ -8,6 +8,9 @@ sources: ["[[@Nozick1981 Knowledge and Skepticism]]"]
 cluster: 인식론
 group: E1
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 10b1 노직에 따르면 회의적 가능성은 not-p 근방에 있을 때만 조건 3을 무너뜨린다
 

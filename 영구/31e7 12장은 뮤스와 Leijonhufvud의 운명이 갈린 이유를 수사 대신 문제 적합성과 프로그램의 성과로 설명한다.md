@@ -8,6 +8,9 @@ sources: ["[[@Backhouse1995 Interpreting Macroeconomics]]"]
 cluster: 경제학과 경제사
 group: M4
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 31e7 12장은 뮤스와 Leijonhufvud의 운명이 갈린 이유를 수사 대신 문제 적합성과 프로그램의 성과로 설명한다
 

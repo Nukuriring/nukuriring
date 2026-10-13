@@ -8,6 +8,9 @@ sources: ["[[@Beckmann2023 Rejecting Cognitivism]]"]
 cluster: 과학철학
 group: NH1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 66c6a 계산 현상학에서 마음은 세계와 경계를 지을 수 없고 연구는 AGI 대신 corps propre의 개별 인지 과정을 분리해 다룬다
 

@@ -8,6 +8,9 @@ sources: ["[[@Coady1992 Testimony]]"]
 cluster: 증언 인식론
 group: T1
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 14e 코디는 성공 문법을 가진 기술용어 learn으로 증언 지식을 지각 지식과 같은 평면에 놓는다
 

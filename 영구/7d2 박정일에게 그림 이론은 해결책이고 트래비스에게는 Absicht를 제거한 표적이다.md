@@ -8,6 +8,9 @@ sources: ["[[@박정일 전기 비트겐슈타인의 프레게 의미이론 비�
 cluster: 언어와 의미
 group: L1b
 created: 2026-10-09
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 7d2 박정일에게 그림 이론은 해결책이고 트래비스에게는 Absicht를 제거한 표적이다
 

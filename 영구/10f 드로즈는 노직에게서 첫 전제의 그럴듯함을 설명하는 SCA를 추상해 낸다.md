@@ -8,6 +8,9 @@ sources: ["[[@DeRose1995 Solving the Skeptical Problem]]", "[[@Nozick1981 Knowle
 cluster: 인식론
 group: E1
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 10f 드로즈는 노직에게서 첫 전제의 그럴듯함을 설명하는 SCA를 추상해 낸다
 

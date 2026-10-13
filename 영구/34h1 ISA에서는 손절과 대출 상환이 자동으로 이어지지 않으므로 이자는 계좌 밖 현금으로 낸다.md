@@ -8,6 +8,9 @@ sources: []
 cluster: 경제학과 경제사
 group: M7
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 34h1 ISA에서는 손절과 대출 상환이 자동으로 이어지지 않으므로 이자는 계좌 밖 현금으로 낸다
 

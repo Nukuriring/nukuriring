@@ -8,6 +8,9 @@ sources: ["[[@Cavell2008 Philosophy and Animal Life]]"]
 cluster: 언어와 의미
 group: L1b
 created: 2026-10-09
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 7i6 Philosophy and Animal Life의 필자들은 굴절의 가치를 서로 다르게 매긴다
 

@@ -8,6 +8,9 @@ sources: ["[[@Cavell2008 Philosophy and Animal Life]]"]
 cluster: 언어와 의미
 group: L1b
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 7i1 다이아몬드는 동물의 지위를 표지에서 끌어내려는 because의 욕망에서 회의주의를 듣는다
 

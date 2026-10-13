@@ -8,6 +8,9 @@ sources: ["[[@라틴어 2023-2 수업 필기]]"]
 cluster: 고전어
 group: NZ1
 created: 2026-10-12
+verify: 부분
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 70a4 라틴어 quam 비교에서 비교되는 두 항은 같은 격이고 quam에 최상급을 붙이면 가능한 한을 뜻한다
 

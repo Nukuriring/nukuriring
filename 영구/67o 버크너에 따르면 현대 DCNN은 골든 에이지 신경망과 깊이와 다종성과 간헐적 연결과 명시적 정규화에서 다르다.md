@@ -8,6 +8,9 @@ sources: ["[[@Buckner Deep Learning A Philosophical Introduction]]"]
 cluster: AI와 윤리
 group: NH1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 67o 버크너에 따르면 현대 DCNN은 골든 에이지 신경망과 깊이와 다종성과 간헐적 연결과 명시적 정규화에서 다르다
 

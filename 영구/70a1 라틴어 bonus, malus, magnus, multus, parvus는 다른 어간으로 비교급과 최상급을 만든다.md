@@ -8,6 +8,9 @@ sources: ["[[@라틴어 2023-2 수업 필기]]"]
 cluster: 고전어
 group: NZ1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 70a1 라틴어 bonus, malus, magnus, multus, parvus는 다른 어간으로 비교급과 최상급을 만든다
 

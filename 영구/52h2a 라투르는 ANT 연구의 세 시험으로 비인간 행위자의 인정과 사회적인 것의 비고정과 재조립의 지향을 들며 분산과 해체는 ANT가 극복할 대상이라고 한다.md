@@ -8,6 +8,9 @@ sources: ["[[@김다은 라투르 Reassembling the Social 서론 발제]]"]
 cluster: 정치·사회·역사·법
 group: NP2
 created: 2026-10-12
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 52h2a 라투르는 ANT 연구의 세 시험으로 비인간 행위자의 인정과 사회적인 것의 비고정과 재조립의 지향을 들며 분산과 해체는 ANT가 극복할 대상이라고 한다
 

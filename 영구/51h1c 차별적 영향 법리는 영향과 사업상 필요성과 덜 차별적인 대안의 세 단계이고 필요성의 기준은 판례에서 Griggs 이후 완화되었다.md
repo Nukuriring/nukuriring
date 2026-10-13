@@ -8,6 +8,9 @@ sources: ["[[@BarocasSelbst2016 Big Data's Disparate Impact]]"]
 cluster: 정치·사회·역사·법
 group: NP1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 51h1c 차별적 영향 법리는 영향과 사업상 필요성과 덜 차별적인 대안의 세 단계이고 필요성의 기준은 판례에서 Griggs 이후 완화되었다
 

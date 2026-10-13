@@ -8,6 +8,9 @@ sources: ["[[@영진2026 비트겐슈타인의 유산 대화]]"]
 cluster: 카벨과 일상언어철학
 group: NC1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 57p2 대화 속 Claude는 카벨의 실존주의적 가닥을 비트겐슈타인 안에 이미 있던 것의 복원으로 고쳐 말한다
 

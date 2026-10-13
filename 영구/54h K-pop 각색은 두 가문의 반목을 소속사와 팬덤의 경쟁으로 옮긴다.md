@@ -8,6 +8,9 @@ sources: []
 cluster: 영문학과 문학비평
 group: NL1
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 54h K-pop 각색은 두 가문의 반목을 소속사와 팬덤의 경쟁으로 옮긴다
 

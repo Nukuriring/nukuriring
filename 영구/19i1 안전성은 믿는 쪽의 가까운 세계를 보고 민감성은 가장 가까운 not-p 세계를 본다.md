@@ -8,6 +8,9 @@ sources: ["[[@Williamson2000 Knowledge and Its Limits]]"]
 cluster: 모호성과 논리
 group: V1
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 19i1 안전성은 믿는 쪽의 가까운 세계를 보고 민감성은 가장 가까운 not-p 세계를 본다
 

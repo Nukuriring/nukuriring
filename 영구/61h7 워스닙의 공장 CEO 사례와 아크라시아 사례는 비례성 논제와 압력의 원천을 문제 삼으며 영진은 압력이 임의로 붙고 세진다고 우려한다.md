@@ -8,6 +8,9 @@ sources: ["[[@미상 인식론 연습 합리성 토론 필기]]", "[[@Fogal2020 
 cluster: 행위와 실천이성
 group: NK1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 61h7 워스닙의 공장 CEO 사례와 아크라시아 사례는 비례성 논제와 압력의 원천을 문제 삼으며 영진은 압력이 임의로 붙고 세진다고 우려한다
 

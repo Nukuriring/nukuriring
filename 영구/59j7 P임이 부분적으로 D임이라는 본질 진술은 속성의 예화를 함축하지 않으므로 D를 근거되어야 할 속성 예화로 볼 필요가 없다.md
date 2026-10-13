@@ -8,6 +8,9 @@ sources: ["[[@형이상학연습 1205 성향 본질주의와 근거 강의 필�
 cluster: 형이상학과 양상
 group: NM1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 59j7 P임이 부분적으로 D임이라는 본질 진술은 속성의 예화를 함축하지 않으므로 D를 근거되어야 할 속성 예화로 볼 필요가 없다
 

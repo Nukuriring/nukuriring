@@ -8,6 +8,9 @@ sources: ["[[@컴퓨터활용능력 컴퓨터 일반 필기]]"]
 cluster: 실용 지식
 group: NZ1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 69h16 FTP, SMTP, POP3, IMAP, MIME, HTTP, TELNET은 파일 전송, 전자우편, 웹, 원격 접속을 맡는다
 

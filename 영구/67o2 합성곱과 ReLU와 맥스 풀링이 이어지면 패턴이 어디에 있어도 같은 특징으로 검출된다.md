@@ -8,6 +8,9 @@ sources: ["[[@Buckner Deep Learning A Philosophical Introduction]]"]
 cluster: AI와 윤리
 group: NH1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 67o2 합성곱과 ReLU와 맥스 풀링이 이어지면 패턴이 어디에 있어도 같은 특징으로 검출된다
 

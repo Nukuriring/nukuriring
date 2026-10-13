@@ -8,6 +8,9 @@ sources: ["[[@Kripke1982 Wittgenstein on Rules and Private Language]]", "[[@Witt
 cluster: 카벨과 일상언어철학
 group: K2b
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 18d3 WoR에서 blindly는 역설의 어둠에서 일상의 자신감으로 가치가 뒤집힌다
 

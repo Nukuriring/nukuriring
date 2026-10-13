@@ -8,6 +8,9 @@ sources: ["[[@컴퓨터활용능력 컴퓨터 일반 필기]]"]
 cluster: 실용 지식
 group: NZ1
 created: 2026-10-12
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 69h2 플래시 메모리는 EEPROM의 일종이며 전원이 꺼져도 정보를 유지하고 블록 단위로 저장한다
 

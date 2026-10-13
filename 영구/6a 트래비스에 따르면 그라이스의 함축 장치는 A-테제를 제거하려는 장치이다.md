@@ -8,6 +8,9 @@ sources: ["[[@Travis1985 On What Is Strictly Speaking True]]"]
 cluster: 언어와 의미
 group: L1a
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 6a 트래비스에 따르면 그라이스의 함축 장치는 A-테제를 제거하려는 장치이다
 

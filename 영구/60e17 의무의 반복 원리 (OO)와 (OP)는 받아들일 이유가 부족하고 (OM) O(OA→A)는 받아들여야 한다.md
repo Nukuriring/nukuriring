@@ -8,6 +8,9 @@ sources: ["[[@양상논리스터디2021 양상 논리 핸드아웃]]"]
 cluster: 형이상학과 양상
 group: NM2
 created: 2026-10-12
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 60e17 의무의 반복 원리 (OO)와 (OP)는 받아들일 이유가 부족하고 (OM) O(OA→A)는 받아들여야 한다
 

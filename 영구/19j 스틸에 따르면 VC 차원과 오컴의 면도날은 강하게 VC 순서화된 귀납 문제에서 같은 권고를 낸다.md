@@ -8,6 +8,9 @@ sources: ["[[@Steel Testability and Ockham's Razor]]"]
 cluster: 모호성과 논리
 group: V1
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 19j 스틸에 따르면 VC 차원과 오컴의 면도날은 강하게 VC 순서화된 귀납 문제에서 같은 권고를 낸다
 

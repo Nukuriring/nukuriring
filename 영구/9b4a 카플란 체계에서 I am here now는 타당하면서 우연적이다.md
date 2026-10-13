@@ -8,6 +8,9 @@ sources: ["[[@Braun SEP Indexicals]]"]
 cluster: 언어와 의미
 group: L3
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 9b4a 카플란 체계에서 I am here now는 타당하면서 우연적이다
 

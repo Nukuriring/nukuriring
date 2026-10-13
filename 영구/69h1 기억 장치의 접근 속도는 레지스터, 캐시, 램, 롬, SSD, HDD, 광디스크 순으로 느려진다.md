@@ -8,6 +8,9 @@ sources: ["[[@컴퓨터활용능력 컴퓨터 일반 필기]]"]
 cluster: 실용 지식
 group: NZ1
 created: 2026-10-12
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 69h1 기억 장치의 접근 속도는 레지스터, 캐시, 램, 롬, SSD, HDD, 광디스크 순으로 느려진다
 

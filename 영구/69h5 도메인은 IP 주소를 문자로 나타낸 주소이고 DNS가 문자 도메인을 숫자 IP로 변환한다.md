@@ -8,6 +8,9 @@ sources: ["[[@컴퓨터활용능력 컴퓨터 일반 필기]]"]
 cluster: 실용 지식
 group: NZ1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 69h5 도메인은 IP 주소를 문자로 나타낸 주소이고 DNS가 문자 도메인을 숫자 IP로 변환한다
 

@@ -8,6 +8,9 @@ sources: ["[[@라틴어 2023-2 수업 필기]]"]
 cluster: 고전어
 group: NZ1
 created: 2026-10-12
+verify: 부분
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 70d 라틴어 in은 탈격과 쓰면 장소를, 대격과 쓰면 운동의 방향을 나타낸다
 

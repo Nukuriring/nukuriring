@@ -8,6 +8,9 @@ sources: ["[[@Buckner Deep Learning A Philosophical Introduction]]"]
 cluster: AI와 윤리
 group: NH1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 67t 기계론적 설명을 지지하는 논자들은 DCNN이 인지 이면의 과정을 밝혀 마음의 블랙박스를 열 수 있다고 본다
 

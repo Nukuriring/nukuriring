@@ -8,6 +8,9 @@ sources: ["[[@Cavell1990 Conditions Handsome and Unhandsome]]", "[[@Kripke1982 W
 cluster: 카벨과 일상언어철학
 group: K2d
 created: 2026-10-09
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 40f 카벨의 크립키 비판은 결론을 겨누고 WoR이 결론에 이르는 형식은 다루지 않는다
 

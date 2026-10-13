@@ -8,6 +8,9 @@ sources: ["[[@Cavell1979 The Claim of Reason]]"]
 cluster: 카벨과 일상언어철학
 group: NC1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 57k 카벨은 ought 문장이 행위를 제시하는 한 방식이어서 제시 방식에는 추론이 적용되지 않는다고 본다
 

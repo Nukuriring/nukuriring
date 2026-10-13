@@ -8,6 +8,9 @@ sources: ["[[@Gertler2018 Self-Knowledge and Rational Agency]]", "[[@Moran2001 A
 cluster: 자기지식과 투명성
 group: X2
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 23i4 knowledge-telos를 버리면 바이른과 모런의 보증 논쟁은 두 현상의 기술로 풀린다
 

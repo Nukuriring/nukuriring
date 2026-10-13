@@ -8,6 +8,9 @@ sources: ["[[@Cavell1990 Conditions Handsome and Unhandsome]]"]
 cluster: 카벨과 일상언어철학
 group: K1
 created: 2026-10-09
+verify: 원문없음
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 16d4 카벨에 따르면 회의주의는 기준을 벗겨 내고 tabair 사례는 기준을 덧쌓는다
 

@@ -8,6 +8,9 @@ sources: ["[[@Railton1978 A Deductive-Nomological Model of Probabilistic Explana
 cluster: 과학철학
 group: S2
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 13h8 레일턴의 D-N-P 모형은 단일 사례 성향을 해명할 수 있을 때에만 성립한다
 

@@ -8,6 +8,9 @@ sources: ["[[@Ainsworth SEP Form vs Matter]]"]
 cluster: 행위와 실천이성
 group: P2
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 21h2 에인스워스의 idia 논의는 종에 필연적인 속성이 본질 밖에 있을 수 있음을 보여 준다
 

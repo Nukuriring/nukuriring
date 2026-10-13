@@ -8,6 +8,9 @@ sources: ["[[@라틴어 2023-2 수업 필기]]"]
 cluster: 고전어
 group: NZ1
 created: 2026-10-12
+verify: 원문없음
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 70c2 라틴어 관계대명사 qui, quae, quod는 선행사의 성과 수를 따르고 격은 관계절 안의 기능을 따른다
 

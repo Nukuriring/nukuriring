@@ -8,6 +8,9 @@ sources: ["[[@라틴어 2023-2 수업 필기]]"]
 cluster: 고전어
 group: NZ1
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 70a2 라틴어에서 -er로 끝나는 형용사는 r을, -ilis로 끝나는 형용사는 l을 겹쳐 최상급을 만든다
 

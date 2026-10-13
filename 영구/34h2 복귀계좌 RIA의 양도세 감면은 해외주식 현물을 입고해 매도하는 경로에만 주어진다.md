@@ -8,6 +8,9 @@ sources: []
 cluster: 경제학과 경제사
 group: M7
 created: 2026-10-12
+verify: 지지됨
+verify_date: 2026-10-12
+verify_by: sonnet
 ---
 # 34h2 복귀계좌 RIA의 양도세 감면은 해외주식 현물을 입고해 매도하는 경로에만 주어진다
 

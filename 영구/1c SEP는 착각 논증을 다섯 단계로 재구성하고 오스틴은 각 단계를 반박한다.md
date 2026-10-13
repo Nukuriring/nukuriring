@@ -8,6 +8,9 @@ sources: ["[[@Austin1962 Sense and Sensibilia]]", "[[@Longworth SEP John Langsha
 cluster: 지각의 철학
 candidate: D-C10
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 
 # 1c SEP는 착각 논증을 다섯 단계로 재구성하고 오스틴은 각 단계를 반박한다

@@ -8,6 +8,9 @@ sources: ["[[@Gauker2018 Do Perceptions Justify Beliefs]]"]
 cluster: 지각의 철학
 candidate: B-C15
 created: 2026-10-09
+verify: 지지됨
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 
 # 4i Gauker는 보인다 화법이 지각의 정당화 역할을 보여 주지 못한다고 논증한다

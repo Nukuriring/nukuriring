@@ -8,6 +8,9 @@ sources: ["[[@Frege1892 Über Sinn und Bedeutung]]"]
 cluster: 언어와 의미
 group: L2
 created: 2026-10-09
+verify: 부분
+verify_date: 2026-10-13
+verify_by: sonnet
 ---
 # 8a 프레게는 a=a와 a=b의 인식적 가치 차이를 뜻으로 설명한다
 
