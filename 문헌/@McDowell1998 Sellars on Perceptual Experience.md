@@ -13,7 +13,7 @@ created: 2026-10-09
 ---
 # Sellars on Perceptual Experience
 
-> 절 번호(§1~§7)는 맥도웰 원문의 절 번호이고, 해설 노트도 같은 번호를 씁니다. 원문 추출본에는 쪽 표시가 없어서 쪽수 대신 절 번호로 위치를 적습니다. EPM은 셀라스의 「Empiricism and the Philosophy of Mind」, SM은 『Science and Metaphysics』(1968)를 가리킵니다(서지 확인 필요, 『Having the World in View』 참고문헌은 1967로 적음).
+> 절 번호(§1~§7)는 맥도웰 원문의 절 번호이고, 해설 노트도 같은 번호를 씁니다. 원문 추출본에는 쪽 표시가 없어서 쪽수 대신 절 번호로 위치를 적습니다. EPM은 셀라스의 「Empiricism and the Philosophy of Mind」, SM은 『Science and Metaphysics: Variations on Kantian Themes』(London: Routledge & Kegan Paul, New York: Humanities Press, 1968)를 가리킵니다(1968이 맞고, 『Having the World in View』 참고문헌의 1967 표기는 맞지 않음).
 
 ## 한 줄 요지
 맥도웰은 셀라스의 지각 경험 이론을 최대한 강하게 재구성한 뒤, 셀라스가 개념 질서 바깥에서 경험의 객관적 지향을 정당화하려 한다는 단 한 지점을 잘못으로 지목한다.
@@ -63,3 +63,5 @@ created: 2026-10-09
 - [[_원자료/로컬/Having the world in view/walkthrough/essay-01-sellars-on-perceptual-experience]] (2026-06-12): 절별 변증법 해설 노트. 해설의 네 박자 구도(입장 설정, 긴장 제기, 자원 발견, 자원 분할)는 해설 노트의 정리이다.
 - 원문 대조: 로컬 폴더 `Having the world in view/source-text/essay-01-sellars-on-perceptual-experience.md` (보관소 밖, PDF 추출본, 각주가 본문에 섞여 있음). 위 인용문은 모두 이 추출본에서 확인했다.
 - `Having the world in view/source-text/00-preface.md`: Woodbridge Lectures 정보와 에세이 6에서의 독해 철회.
+
+- 서지 확인(2026-10-13, 웹): https://relbib.de/Record/196772680 , https://libcat.library.tamu.edu/Record/in00000333472

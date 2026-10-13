@@ -4,7 +4,7 @@ citekey: Setiya2010
 author: Setiya
 year: 2010
 title: "Sympathy for the Devil"
-published: "원자료에는 저자의 성과 제목만 나온다. 연도와 게재지는 필기에 없다."
+published: "원자료에는 저자의 성과 제목만 나온다. 연도와 게재지는 필기에 없다. (후보: Kieran Setiya, \"Sympathy for the Devil\", in Sergio Tenenbaum (ed.), Desire, Practical Reason, and the Good, Oxford University Press, 2010, pp. 82-110; 확인 필요, https://dc2.philarchive.org/rec/KAZSFT)"
 status: 초안
 read_via:
   - "Notion 「Setiya_Sympathy for the devil」 (Untill 2025/스터디 트래커, 심리철학연습)"

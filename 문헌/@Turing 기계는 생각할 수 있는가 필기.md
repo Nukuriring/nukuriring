@@ -4,7 +4,7 @@ citekey: Turing
 author: Alan Turing
 year: 
 title: "기계는 생각할 수 있는가 (0312 필기)"
-published: "서지 확인 필요. 원자료 제목이 「0312 앨런 튜링, 호그랜드,」이고 첫 줄이 Q. Can machines t에서 끊겨 있다. 튜링의 어느 글인지와 호그랜드(Haugeland)의 어느 글인지는 원자료에서 확인되지 않는다."
+published: "서지 확인 필요. 원자료 제목이 「0312 앨런 튜링, 호그랜드,」이고 첫 줄이 Q. Can machines t에서 끊겨 있다. 튜링의 어느 글인지와 호그랜드(Haugeland)의 어느 글인지는 원자료에서 확인되지 않는다. (튜링의 글 후보: Alan Turing, \"Computing Machinery and Intelligence\", Mind, 1950; 첫 문장이 \"Can machines think?\"로 필기와 맞으나 권호와 쪽수는 확인하지 못했다; 확인 필요, https://andrewclark.super.site/all-media/computing-machinery-and-intelligence)"
 status: 초안
 read_via:
   - "Notion 「0312 앨런 튜링, 호그랜드,」 (과학철학 과제 연구, 2025-1학기, 3월 12일 수업)"

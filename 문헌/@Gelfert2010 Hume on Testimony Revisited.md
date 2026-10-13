@@ -4,7 +4,7 @@ citekey: Gelfert2010
 author: Axel Gelfert
 year: 2010
 title: "Hume on Testimony Revisited"
-published: "확인 필요. 원자료는 사전 인쇄본 PDF(Gelfert_HumeOnTestimonyRevisited-penultPREPRINT.pdf)이고, 연도 2010은 2026-05-13 대화의 웹 검색 정리를 따른다. 게재지는 원자료에 없다."
+published: "확인 필요. 원자료는 사전 인쇄본 PDF(Gelfert_HumeOnTestimonyRevisited-penultPREPRINT.pdf)이고, 연도 2010은 2026-05-13 대화의 웹 검색 정리를 따른다. 게재지는 원자료에 없다. 후보(확인 필요): 연도 2010, Helen Beebee, Markus Schrenk 편, David Hume: Epistemology and Metaphysics (Logical Analysis and History of Philosophy 13), Mentis, Paderborn, 60-75 (https://philpapers.org/browse/hume-testimony 의 검색 결과 요약, 편자와 시리즈 번호는 단일 출처)."
 status: 초안
 read_via:
   - "[[_원자료/claude.ai/chats/2026-05-15_Hume의 국소 환원주의 해석]]"

@@ -1,10 +1,10 @@
 ---
 type: 문헌
 citekey: Bryson2010
-author: Joanna J. Bryson (확인 필요)
-year: 2010 (확인 필요)
+author: Joanna J. Bryson
+year: 2010
 title: "Robots Should Be Slaves"
-published: "필기에는 제목과 저자의 성만 적혀 있다. 저자의 이름과 2010년은 원자료에 없어 서지 지식으로 보충함."
+published: "필기에는 제목과 저자의 성만 적혀 있다. 저자의 이름과 2010년은 원자료에 없어 서지 지식으로 보충하고 웹으로 확인함. 수록처는 Yorick Wilks 편, Close Engagements with Artificial Companions: Key Social, Psychological, Ethical and Design Issues, John Benjamins (Natural Language Processing 8), 63-74."
 status: 초안
 read_via:
   - "Robots should be slaves - Bryson (읽기 필기)"
@@ -46,3 +46,4 @@ created: 2026-10-12
 
 ## 원자료
 - Robots should be slaves - Bryson: 영어 논문의 한국어 읽기 필기이다. 인용은 원문과 대조하지 않았다.
+- 서지 확인(2026-10-13, 웹): https://researchportal.bath.ac.uk/en/publications/robots-should-be-slaves/ , https://lwc1.benjamins.com/catalog/nlp.8.toc

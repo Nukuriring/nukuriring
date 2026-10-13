@@ -4,7 +4,7 @@ citekey: Broome2013
 author: Broome
 year: 2013
 title: "Rationality Through Reasoning"
-published: "원자료에는 약칭 RTR과 장 번호만 나온다. 연도와 출판 정보는 필기에 없다."
+published: "원자료에는 약칭 RTR과 장 번호만 나온다. 연도와 출판 정보는 필기에 없다. 출판 정보 후보(확인 필요): 2013 (2013-08-16 출간으로 표기), Wiley-Blackwell, Blackwell/Brown Lectures in Philosophy, ISBN 9781405117104(양장), 9781118656051(보급판) (https://www.megabooks.cz/en/p/1832517/rationality-through-reasoning , https://philevents.org/event/show/13704)."
 status: 초안
 read_via:
   - "Notion 「RTR Chapter 7 Requirments」 (Untill 2025/철학/분석철학)"

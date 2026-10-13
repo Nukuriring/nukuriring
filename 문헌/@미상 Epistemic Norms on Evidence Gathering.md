@@ -1,10 +1,10 @@
 ---
 type: 문헌
 citekey: 
-author: (저자 미상)
-year: 
+author: Carolina Flores, Elise Woodard (후보, 확인 필요)
+year: 2023 (후보, 확인 필요)
 title: "Epistemic norms on evidence gathering"
-published: "원자료는 논문의 저자, 연도, 게재지를 적지 않는다. 필기 속에서 슈리니바산(Srinivasan), 응우옌(Nguyen), 윌리엄슨의 반 발광성 논증이 언급될 뿐이다. 서지 확인 필요."
+published: "원자료는 논문의 저자, 연도, 게재지를 적지 않는다. 필기 속에서 슈리니바산(Srinivasan), 응우옌(Nguyen), 윌리엄슨의 반 발광성 논증이 언급될 뿐이다. 서지 확인 필요. (후보: Carolina Flores and Elise Woodard, \"Epistemic norms on evidence-gathering\", Philosophical Studies, 2023; 제목은 일치하나 필기의 Srinivasan, Nguyen, 반 발광성 논증이 이 논문에 나오는지는 확인하지 못했다; https://philarchive.org/rec/WOOENO)"
 status: 초안
 read_via:
   - "Notion 「Epistemic norms on evidence gathering」 (Untill 2025, 필기, 수정일 미상)"

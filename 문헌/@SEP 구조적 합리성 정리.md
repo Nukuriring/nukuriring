@@ -1,10 +1,10 @@
 ---
 type: 문헌
 citekey: SEP 구조적 합리성 정리
-author: 
-year: 미상
+author: Benjamin Kiesewetter, Alex Worsnip
+year: 2023
 title: "SEP 구조적 합리성 정리"
-published: "원자료에는 SEP라는 제목의 짧은 필기만 있고 항목명, 저자, 연도가 없다."
+published: "원자료에는 SEP라는 제목의 짧은 필기만 있고 항목명, 저자, 연도가 없다. 필기 내용(구조적 합리성과 실질적 합리성의 구별, 부트스트래핑)과 항목 구성이 맞아, Benjamin Kiesewetter and Alex Worsnip, \"Structural Rationality\", Stanford Encyclopedia of Philosophy(Fall 2023 ed.)로 특정했다."
 status: 초안
 read_via:
   - "Notion 「SEP」 (Untill 2025/논문 계획)"
@@ -12,7 +12,7 @@ created: 2026-10-12
 ---
 # SEP 구조적 합리성 정리
 
-> 서지 확인 메모: 필기 「SEP」는 Stanford Encyclopedia of Philosophy 항목을 정리한 짧은 필기로 보이나 항목명과 저자를 적지 않는다. 확인 필요. 이 노트의 제목은 필기 내용에 맞춰 붙인 것이다.
+> 서지 확인 메모: 필기 「SEP」는 Stanford Encyclopedia of Philosophy 항목을 정리한 짧은 필기로 보이나 항목명과 저자를 적지 않는다. 서지 조사로 위 항목으로 특정했다(내용 일치에 근거). 이 노트의 제목은 필기 내용에 맞춰 붙인 것이다.
 
 ## 한 줄 요지
 이 필기는 구조적 합리성을 정합적인 심적 상태를 가지는 일로, 실질적 합리성을 규범적 이유에 반응하는 일로 구별하고, 구조적 합리성의 공간을 따로 두는 동기와 그 특징을 개관한다.
@@ -40,3 +40,5 @@ created: 2026-10-12
 
 ## 원자료
 - Notion 「SEP」 (Untill 2025/논문 계획)
+
+- 서지 확인(2026-10-13, 웹): https://plato.stanford.edu/archives/fall2023/entries/rationality-structural/ , https://philpapers.org/sep/rationality-structural/

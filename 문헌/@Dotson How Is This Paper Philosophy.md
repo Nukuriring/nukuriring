@@ -1,10 +1,10 @@
 ---
 type: 문헌
 citekey: Dotson
-author: Kristie Dotson (확인 필요)
-year: 2012 (확인 필요)
+author: Kristie Dotson
+year: 2012
 title: "How Is This Paper Philosophy?"
-published: "필기 제목 How this paper philosophy만 있다. 저자는 자료 폴더의 라이브러리 파일명에서 따왔고 2012년 Comparative Philosophy 게재는 원자료에 없어 서지 지식으로 보충함."
+published: "필기 제목 How this paper philosophy만 있다. 저자는 자료 폴더의 라이브러리 파일명에서 따왔고 2012년 Comparative Philosophy 게재는 원자료에 없어 서지 지식으로 보충하고 웹으로 확인함. 게재지는 Comparative Philosophy 3(1): 3-29(일부 목록은 2013으로 적음)."
 status: 초안
 read_via:
   - "How this paper philosophy (읽기 필기, 영진의 논평 포함)"
@@ -12,7 +12,7 @@ created: 2026-10-12
 ---
 # How Is This Paper Philosophy?
 
-> 서지 확인 메모: 저자와 연도는 확정하지 않았다. 영진의 논평은 필기에서 따로 표시된 부분만 영진의 목소리로 옮겼다.
+> 서지 확인 메모: 저자와 연도는 웹으로 확인했다. 영진의 논평은 필기에서 따로 표시된 부분만 영진의 목소리로 옮겼다.
 
 ## 한 줄 요지
 필기에 따르면 도트슨은 철학의 정당화 문화가 정당화 서사를 특권화하고 규범이 하나라고 가정하며, 예외주의와 부적합의 감각으로 조용히 배제한다고 진단한다. 영진은 이를 대체할 실천 문화의 특징이 철학의 공허한 정의처럼 느껴진다고 쓰고, 교차 억압의 분석을 문해력으로 읽는다.
@@ -40,3 +40,4 @@ created: 2026-10-12
 
 ## 원자료
 - How this paper philosophy: 한국어 읽기 필기이며 영진의 논평이 포함된다.
+- 서지 확인(2026-10-13, 웹): https://scholarworks.sjsu.edu/comparativephilosophy/vol3/iss1 , https://warpweftandway.com/comparative-philosophy-31-table-of-contents/

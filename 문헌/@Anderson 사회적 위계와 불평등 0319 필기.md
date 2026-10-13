@@ -1,7 +1,7 @@
 ---
 type: 문헌
 citekey: Anderson0319
-author: Anderson (확인 필요)
+author: "Anderson (확인 필요) (후보: Elizabeth Anderson, https://www.emptywheel.net/2019/08/10/freedom-and-equality-relational-equality-against-social-hierarchies/)"
 year: 미상
 title: "사회적 위계와 불평등 0319 필기"
 published: "필기 제목은 0319 Social injustice이며 저자와 글 제목은 필기에 없다. 저자가 앤더슨이라는 판단은 내용에서 추정한 것이며 원자료에 없어 서지 지식으로 보충함."

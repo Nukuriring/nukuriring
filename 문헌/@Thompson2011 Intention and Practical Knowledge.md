@@ -4,7 +4,7 @@ citekey: Thompson2011
 author: Michael Thompson
 year: 2011
 title: Anscombe's Intention and Practical Knowledge
-published: A. Ford, J. Hornsby & F. Stoutland (eds.), Essays on Anscombe's Intention (Harvard University Press, 2011). 제목, 연도, 수록처는 원자료에 없어 Claude가 보충함(확인 필요).
+published: A. Ford, J. Hornsby & F. Stoutland (eds.), Essays on Anscombe's Intention (Harvard University Press, 2011). 제목, 연도, 수록처는 원자료에 없어 Claude가 보충했고 서지 조사로 확인함(편자는 Anton Ford, Jennifer Hornsby, Frederick Stoutland). 쪽수 범위는 찾지 못했다.
 status: 초안
 read_via:
   - "[[_원자료/claude.ai/chats/2026-08-24_Article walkthrough and explanation]] (첨부 원문에 대한 Claude의 단계별 해설)"
@@ -49,3 +49,5 @@ created: 2026-10-09
 
 ## 원자료
 - [[_원자료/claude.ai/chats/2026-08-24_Article walkthrough and explanation]] Claude 02:58(여섯 수의 해설과 재구성 과제), Claude 04:43(쉬운 설명) (2026-08-24). 저자가 톰슨이라는 점은 대화 요약에 있고, 제목은 원자료에 없다.
+
+- 서지 확인(2026-10-13, 웹): https://ndpr.nd.edu/reviews/essays-on-anscombe-s-intention/ , https://oeaw.ac.at/resources/Record/9780674060913

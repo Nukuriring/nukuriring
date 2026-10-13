@@ -4,7 +4,7 @@ citekey: DeLanda2021
 author: Manuel DeLanda
 year: 2021 (확인 필요)
 title: "Materialist Phenomenology"
-published: "필기 제목이 마누엘 데란다이며 책 제목과 출판 연도는 원자료에 없다. 2021년과 Materialist Phenomenology라는 제목은 원자료에 없어 서지 지식으로 보충함."
+published: "필기 제목이 마누엘 데란다이며 책 제목과 출판 연도는 원자료에 없다. 2021년과 Materialist Phenomenology라는 제목은 원자료에 없어 서지 지식으로 보충함. 후보(확인 필요): 부제 A Philosophy of Perception, Bloomsbury (Bloomsbury Academic), 2021, 224쪽, ISBN 9781350263956 (서점, 서평 목록 https://www.alibri.es/en/libro/820590/materialist-phenomenology-a-philosophy-of-perception , 출판사 페이지는 열지 못함)."
 status: 초안
 read_via:
   - "마누엘 데란다 (읽기 필기)"

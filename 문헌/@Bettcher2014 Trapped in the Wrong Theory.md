@@ -2,9 +2,9 @@
 type: 문헌
 citekey: Bettcher2014
 author: Talia Mae Bettcher (필기 표기는 Betcher)
-year: 2014 (확인 필요)
+year: 2014
 title: "Trapped in the Wrong Theory: Rethinking Trans Oppression and Resistance"
-published: "필기 제목은 Betcher_Trapped in the Wrong Theory Rethinking Tra에서 잘린 것이다. 저자 철자는 Notion 표기를 따르고, Signs 2014 게재는 원자료에 없어 서지 지식으로 보충함."
+published: "필기 제목은 Betcher_Trapped in the Wrong Theory Rethinking Tra에서 잘린 것이다. 저자 철자는 Notion 표기를 따르고, Signs 2014 게재는 원자료에 없어 서지 지식으로 보충하고 웹으로 확인함. 게재지는 Signs 39(2): 383-406, DOI 10.1086/673088."
 status: 초안
 read_via:
   - "Betcher_Trapped in the Wrong Theory Rethinking Tra (읽기 필기, LLM 요약으로 보이는 부분 포함)"
@@ -44,3 +44,4 @@ created: 2026-10-12
 
 ## 원자료
 - Betcher_Trapped in the Wrong Theory ...: 한국어 읽기 필기이다. 같은 저자의 Evil Deceivers 필기는 다른 묶음이 정리한 별도의 문헌 노트에 있다.
+- 서지 확인(2026-10-13, 웹): https://philpapers.org/rec/BETTIT

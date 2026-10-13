@@ -2,9 +2,9 @@
 type: 문헌
 citekey: Daston2022
 author: Lorraine Daston (로레인 다스턴)
-year: 2022 (확인 필요)
+year: 2022
 title: "Rules: A Short History of What We Live By (국문본 『규칙들』로 보임)"
-published: "발제문이 책의 저자와 제목을 밝히지 않는다. 저자와 제목은 발제문이 다스턴으로 부르는 점과 내용으로 추정했고 연도 2022는 서지 지식으로 보충한 것이며 모두 확인이 필요하다. 쪽수 표기는 국문본 기준으로 보이나 확인하지 못했다."
+published: "발제문이 책의 저자와 제목을 밝히지 않는다. 저자와 제목은 발제문이 다스턴으로 부르는 점과 내용으로 추정했고 연도 2022는 서지 지식으로 보충한 것이며, 저자, 원제, 연도는 웹으로 확인함(Princeton University Press, 2022, Lawrence Stone Lectures, ISBN 9780691156989. 출간일은 서점마다 2022-07-01과 2022-10-18로 갈리고 보급판은 2023, ISBN 9780691254081). 쪽수 표기는 국문본 기준으로 보이나 확인 필요."
 status: 초안
 read_via:
   - "알고리즘,패러다임,법_발제 김영진 (월요 독서 모임, 2025-02-24 수정, 발제문)"
@@ -51,3 +51,4 @@ created: 2026-10-12
 
 ## 원자료
 - 알고리즘,패러다임,법_발제 김영진: 발제문.
+- 서지 확인(2026-10-13, 웹): https://muse.jhu.edu/book/101548 , https://readings.com.au/product/9780691156989 , https://ingramacademic.com/products/rules-9780691156989

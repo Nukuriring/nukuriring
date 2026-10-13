@@ -1,10 +1,10 @@
 ---
 type: 문헌
 citekey: BarocasSelbst2016
-author: Solon Barocas, Andrew D. Selbst (확인 필요)
-year: 2016 (확인 필요)
+author: Solon Barocas, Andrew D. Selbst
+year: 2016
 title: "Big Data's Disparate Impact"
-published: "필기 제목은 논문 제목만 적혀 있다. 저자명과 2016년, California Law Review 게재는 원자료에 없어 서지 지식으로 보충함."
+published: "필기 제목은 논문 제목만 적혀 있다. 저자명과 2016년, California Law Review 게재는 원자료에 없어 서지 지식으로 보충하고 웹으로 확인함. 게재지는 California Law Review 104, 671(끝쪽은 못 찾음)."
 status: 초안
 read_via:
   - "Big data’s disparate impact (읽기 필기, LLM 요약으로 보이는 부분 포함)"
@@ -82,3 +82,4 @@ created: 2026-10-12
 ## 원자료
 - Big data’s disparate impact: 영어 논문의 한국어 요약 필기이다. 법리 부분의 판례 이름은 필기에 적힌 범위에서만 따랐다.
 - Notion 「김영진_발제 0506」 (철학 자료 아카이브, 과학철학 2025-1 발제문, 영진): 위 논문을 발제한 글이며 말미에 영진 님의 질문이 있다.
+- 서지 확인(2026-10-13, 웹): https://papers.ssrn.com/abstract=2477899 , https://escholarship.org/content/qt31b8c97t/qt31b8c97t.pdf

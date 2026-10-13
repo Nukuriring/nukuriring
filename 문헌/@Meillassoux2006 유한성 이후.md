@@ -4,7 +4,7 @@ citekey: Meillassoux2006
 author: Quentin Meillassoux (퀑탱 메이야수)
 year: 2006 (확인 필요)
 title: "유한성 이후"
-published: "필기는 번역서의 쪽수를 기준으로 삼는다. 번역서의 출판 정보와 프랑스어 원서의 연도 2006은 원자료에 없어 서지 지식으로 보충함."
+published: "필기는 번역서의 쪽수를 기준으로 삼는다. 번역서의 출판 정보와 프랑스어 원서의 연도 2006은 원자료에 없어 서지 지식으로 보충함. 영역본 후보: After Finitude: An Essay on the Necessity of Contingency (Continuum, 페이퍼백 2010, ISBN 9781441173836, 약 160쪽; 후보, 확인 필요, https://campusstore.miamioh.edu/after-finitude-essay-necessity-contingency/bk/9781441173836)."
 status: 초안
 read_via:
   - "유한성 이후 - 퀑탱 메이야수 (읽기 필기, 쪽수는 번역서 기준)"
