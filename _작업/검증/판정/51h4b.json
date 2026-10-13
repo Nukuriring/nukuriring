@@ -1,0 +1,64 @@
+{
+ "id": "51h4b",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "세 축으로 대비, 보든은 설명, 코켈버그는 질문 재구성",
+   "label": "지지됨",
+   "evidence": "상황 정리자 ... 질문 재구성자",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "창의성: 보든은 구현 가능한 현상, 코켈버그는 알고리즘 환원의 위험",
+   "label": "지지됨",
+   "evidence": "lose important dimensions if we rush to reduce",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "미적 판단: 보든은 공동체 승인의 외재적·준객관적 기준",
+   "label": "지지됨",
+   "evidence": "externalist ... quasi-objective criterion",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "코켈버그는 판단이 예술을 규정하는 일부",
+   "label": "지지됨",
+   "evidence": "evaluation itself is part of what defines art",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "행위주체성: 보든은 간격을 줄이고 코켈버그는 창작자·도구 역할이 바뀔 수 있다",
+   "label": "지지됨",
+   "evidence": "roles of 'creator' and 'tool' are in flux",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "마지막에 두 사람을 상황 정리자·질문 재구성자로 부르며 표로 요약",
+   "label": "지지됨",
+   "evidence": "| 목적 | 가능성 탐색 | 개념 확장",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "작성자 미상의 2차 요약이라 원문과 같은지 확인 안 됨",
+   "label": "연결",
+   "evidence": "",
+   "note": "메타 진술이라 판정하지 않음."
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/과학철학 0507/Creativity, Art, and Artificial Intelligence A Com 1f997cdd867e801582d9d3497668d7e5.md",
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/📑 참고문헌 라이브러리/Creativity, Art, and Artificial Intelligence_ A Co 35697cdd867e81e38210c0aca06afc69.md",
+  "문헌/@BodenCoeckelbergh AI와 창의성 비교 에세이.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

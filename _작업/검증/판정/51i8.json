@@ -1,0 +1,57 @@
+{
+ "id": "51i8",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "note": "도트슨이라는 저자명은 필기 본문에 없고 자료 폴더 파일명에서 온 것(문헌 노트가 밝힘).",
+ "claims": [
+  {
+   "n": 0,
+   "text": "정당화 문화가 서사 특권화, 단일 규범 가정, 조용한 배제",
+   "label": "지지됨",
+   "evidence": "Silent exclusion",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "징후: 정당화 서사 특권화, 규범이 하나의 목소리라는 가정",
+   "label": "지지됨",
+   "evidence": "Justifying norm이 univocal하다고 가정",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "예외주의 배제: 특정 집단 규범 특권화, 적용자가 문제, 자기 수정 곤란",
+   "label": "지지됨",
+   "evidence": "스스로 진단하고 수정하기 어렵게 만든다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "부적합의 감각: 몸과 분리된 철학함 요구, 여러 인종 철학 배제",
+   "label": "지지됨",
+   "evidence": "demand of disembodied phiosophizing",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "규범을 바꾸는 부담이 소수 실천가에게 불균형하게",
+   "label": "지지됨",
+   "evidence": "a disproportionate burden of shifting",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "실천 문화: 다양한 문제 식별, 고전 재인식, 기여에 한계 없음",
+   "label": "지지됨",
+   "evidence": "어떻게 기여해야 하는지에 대해서 한계를 두지 않는다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2025-1/사회철학연습/How this paper philosophy 6dbaa15a463a4fd8b2e3d04e5512a414.md",
+  "문헌/@Dotson How Is This Paper Philosophy.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

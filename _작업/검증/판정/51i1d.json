@@ -1,0 +1,49 @@
+{
+ "id": "51i1d",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "포용성 비판은 연대를 쪼갠다 주장, 반박은 내부 차이 기반 연합",
+   "label": "지지됨",
+   "evidence": "enables coalitions based on internal differences",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "Zack: 교차성이 여성 연대를 분절하고 인종적 자기 분리를 낳음",
+   "label": "지지됨",
+   "evidence": "fragments women's solidarity ... self-segregation",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "전제: 극소 단위로 쪼개 공동 목표와 공감대를 약화",
+   "label": "지지됨",
+   "evidence": "극소분화(micro-fragmentation)하여",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "Cole: 오해 위험이 있어도 제대로 이해되면 내부 차이 인정하며 연합 모색",
+   "label": "지지됨",
+   "evidence": "if correctly understood, enables coalitions",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "파편화로 포용적 페미니즘이 좌초할 수 있고 올바른 이해는 차이를 통한 연대",
+   "label": "지지됨",
+   "evidence": "'차이를 통한 연대' 가능성",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/사회철학연습/The concept of intersectionality 1e397cdd867e80258ca2f73a52e8c6ca.md",
+  "문헌/@미상 The Concept of Intersectionality.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

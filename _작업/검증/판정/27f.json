@@ -1,0 +1,55 @@
+{
+ "id": "27f",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "아우구스투스는 공화정 복원의 언어로 군주정을 위장했다",
+   "label": "지지됨",
+   "evidence": "권력을 '복원'의 언어로 위장한 방식",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "27년과 23년 헌정 정착, 공화정 형식 뒤에 군주정",
+   "label": "지지됨",
+   "evidence": "camouflage of monarchy behind Republican forms",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "역량: auctoritas, festina lente, 아그리파·마이케나스·리비아",
+   "label": "지지됨",
+   "evidence": "auctoritas, festina lente, talent-selection",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "실패: 토이토부르크, 후계 문제, 율리아 추방",
+   "label": "지지됨",
+   "evidence": "Teutoburg, the succession, Julia's exile",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "타키투스와 사임이 프린키파투스를 screen and sham으로 봄",
+   "label": "지지됨",
+   "evidence": "a screen and a sham",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "리비아 관여 전승은 다투어지는 전승으로 표시",
+   "label": "지지됨",
+   "evidence": "contested traditions (Livia's alleged role",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/claude.ai/chats/2026-07-10_아우구스투스의 정치적 역량과 리더십.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

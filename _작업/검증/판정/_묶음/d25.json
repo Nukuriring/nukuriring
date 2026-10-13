@@ -1,0 +1,284 @@
+{
+  "model": "sonnet",
+  "date": "2026-10-13",
+  "cards": [
+    {
+      "id": "27i3", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "불교의 효에서 효라는 글자는 고정되고 그 뜻은 움직였다", "label": "지지됨", "evidence": "글자는 고정돼 있지만 그 안에 담기는 뜻은 계속 움직였다", "note": ""},
+        {"n": 1, "text": "박성일은 기표 효와 움직이는 기의를 구분, Claude가 축으로 삼음", "label": "지지됨", "evidence": "박성일의 기표/기의 구분을 빌렸습니다", "note": ""},
+        {"n": 2, "text": "불교의 효는 처음부터 고정된 교리로 있었던 적이 없다", "label": "지지됨", "evidence": "never a fixed doctrine", "note": ""},
+        {"n": 3, "text": "불효 비난에 맞선 방어 속에서 만들어졌다(명계환)", "label": "지지됨", "evidence": "불효라는 비난에 맞선 생존 전략", "note": ""},
+        {"n": 4, "text": "윤회와 칠세 부모의 논리로 우월성 주장(권태윤)", "label": "지지됨", "evidence": "7세(世)의 부모 논리를 통해 ... 大孝", "note": ""},
+        {"n": 5, "text": "교화에 쓰려는 국가가 선택적으로 편집(박성일)", "label": "지지됨", "evidence": "국가의 손에 선택·편집되는 과정", "note": ""},
+        {"n": 6, "text": "뜻은 시간, 장소, 정치적 맥락에 따라 바뀌었다", "label": "지지됨", "evidence": "shifted across time, geography, political context", "note": ""},
+        {"n": 7, "text": "영진 요청에 따라 세 논문 안에서만 종합, 외부 자료 없음", "label": "지지됨", "evidence": "일반 독자용 해설. 안에서만 종합", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-06-23_불교의 효 개념 분석 보고서.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "27f", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "아우구스투스는 공화정 복원의 언어로 군주정을 위장했다", "label": "지지됨", "evidence": "권력을 '복원'의 언어로 위장한 방식", "note": ""},
+        {"n": 1, "text": "27년과 23년 헌정 정착, 공화정 형식 뒤에 군주정", "label": "지지됨", "evidence": "camouflage of monarchy behind Republican forms", "note": ""},
+        {"n": 2, "text": "역량: auctoritas, festina lente, 아그리파·마이케나스·리비아", "label": "지지됨", "evidence": "auctoritas, festina lente, talent-selection", "note": ""},
+        {"n": 3, "text": "실패: 토이토부르크, 후계 문제, 율리아 추방", "label": "지지됨", "evidence": "Teutoburg, the succession, Julia's exile", "note": ""},
+        {"n": 4, "text": "타키투스와 사임이 프린키파투스를 screen and sham으로 봄", "label": "지지됨", "evidence": "a screen and a sham", "note": ""},
+        {"n": 5, "text": "리비아 관여 전승은 다투어지는 전승으로 표시", "label": "지지됨", "evidence": "contested traditions (Livia's alleged role", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-07-10_아우구스투스의 정치적 역량과 리더십.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "27h", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "AI 인격 논쟁은 네 축으로 갈린다", "label": "지지됨", "evidence": "four main axes", "note": ""},
+        {"n": 1, "text": "첫째 축: 속성 접근 대 관계 접근", "label": "지지됨", "evidence": "properties-based vs. relational approaches", "note": ""},
+        {"n": 2, "text": "둘째 축: 권리 확장 대 AI가 지위를 갖지 않도록 설계 폐지", "label": "부분 지지", "evidence": "rights-extension vs design-abolitionist", "note": "출처는 '설계 폐지/설계의무론적 부정론'이라고만 하고, 'AI가 도덕적 지위를 갖지 않도록 설계'라는 풀이는 출처에 없음."},
+        {"n": 3, "text": "셋째 축: 계산 기능주의 대 생물학적 자연주의", "label": "지지됨", "evidence": "computational functionalism vs. biological naturalism", "note": ""},
+        {"n": 4, "text": "넷째 축: 법인격의 기능적 대 도덕적 정당화", "label": "지지됨", "evidence": "functional vs. moral-grounded theories", "note": ""},
+        {"n": 5, "text": "종 중첩 논증, 세이건 1973 탄소 쇼비니즘, 기질 차별주의", "label": "지지됨", "evidence": "Carl Sagan's coinage of 'carbon chauvinism' (1973)", "note": ""},
+        {"n": 6, "text": "롱·세보 2024, 버치 2024, 세보 2025, 쿠르키 다발 이론", "label": "지지됨", "evidence": "Taking AI Welfare Seriously ... Kurki's bundle theory", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-07-31_인간중심주의와 AI 인격성 논의 정리.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "27b8c", "voice": "종합", "verdict": "지지됨",
+      "note": "Claude 06:41이 극을 직접 보지 않고 논문 인용 대목만으로 읽는다고 밝힌 단서는 카드 출처 줄에만 있고 본문에는 없음.",
+      "claims": [
+        {"n": 0, "text": "미지의 서울은 진실 생산 기술이 작동하지 않는 공백을 그린다", "label": "지지됨", "evidence": "어떤 진실 생산 기술도 작동하지 않는 상태", "note": ""},
+        {"n": 1, "text": "미래는 알고 말했으나 파레지아 발화도 근대 절차도 작동 안 함", "label": "지지됨", "evidence": "절차·기록·신고자 보호는 작동하지 않았죠", "note": ""},
+        {"n": 2, "text": "발화는 두 체제 사이의 공백에 떨어졌다", "label": "지지됨", "evidence": "두 체제 사이의 공백에 떨어진 겁니다", "note": ""},
+        {"n": 3, "text": "미지의 대응은 발화를 포기하고 몸을 바꾸는 것", "label": "지지됨", "evidence": "발화를 포기하고 몸을 바꾼다", "note": ""},
+        {"n": 4, "text": "담보로 쓰이는 것은 양도할 수 있게 된 삶", "label": "지지됨", "evidence": "양도 가능해진 삶", "note": ""},
+        {"n": 5, "text": "교체 가능성을 맨몸으로 흉내, 결말은 교체의 청산", "label": "지지됨", "evidence": "결말이 그 교체의 청산일 수밖에 없어요", "note": ""},
+        {"n": 6, "text": "영진의 제안을 Claude가 고친 정식", "label": "지지됨", "evidence": "정식을 한 번 조정해야 걸립니다", "note": ""},
+        {"n": 7, "text": "파레지아에서 진실 생산과 앎은 애초에 붙어 있지 않았다", "label": "지지됨", "evidence": "애초에 붙어 있지 않았어요", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-07-31_파레지아를 윤리적 원칙으로 읽는 것의 문제.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "27b8d", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "구원은 관계에서 진실로 가는 순서를 따른다", "label": "지지됨", "evidence": "진실 → 관계가 아니라 관계 → 진실", "note": ""},
+        {"n": 1, "text": "파레지아는 위험한 진실이 관계를 시험하는 순서", "label": "지지됨", "evidence": "위험한 진실이 관계를 시험하고", "note": ""},
+        {"n": 2, "text": "먼저 담보 요구를 내려놓고 누가 어디 있는지만 알리는 형식 확보", "label": "지지됨", "evidence": "누가 어디 있는지만 알립니다", "note": ""},
+        {"n": 3, "text": "한 번의 검증 대신 곁에 있음의 누적이 담보", "label": "지지됨", "evidence": "한 번의 검증 대신 시간의 누적", "note": ""},
+        {"n": 4, "text": "진실 회복은 이미 죽은 사람의 편지라는 타인의 손으로 온다", "label": "지지됨", "evidence": "타인이 대신 열어 준 ... 이미 죽은 사람의 편지", "note": ""},
+        {"n": 5, "text": "구원은 좁은 범위에 머물러 정치적으로 무력하다", "label": "지지됨", "evidence": "범위가 좁아요 ... 정치적으로는 무력", "note": ""},
+        {"n": 6, "text": "인용된 대사만으로 재구성, 실제 극과 어긋날 수 있다", "label": "지지됨", "evidence": "실제 극과 어긋날 수 있습니다", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-07-31_파레지아를 윤리적 원칙으로 읽는 것의 문제.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "27e", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "수탁자가 처분하면 신탁자의 구제는 금전으로 바뀐다", "label": "지지됨", "evidence": "등기청구가 아니라 금전적 구제", "note": ""},
+        {"n": 1, "text": "무효는 약정과 수탁자 명의 등기, 매매계약은 유효", "label": "지지됨", "evidence": "매매계약 자체는 유효하게 남습니다", "note": ""},
+        {"n": 2, "text": "소유권은 매도인에게, 매수인은 이전등기 청구와 채권자대위", "label": "지지됨", "evidence": "말소등기청구권을 채권자대위로 행사", "note": ""},
+        {"n": 3, "text": "제3자 유효 취득 시 청구권 이행불능, 제3자엔 청구 근거 없음", "label": "지지됨", "evidence": "이행불능이 되고 ... 근거가 없습니다", "note": ""},
+        {"n": 4, "text": "계약이 유효하므로 대금은 법률상 원인 있는 급여", "label": "지지됨", "evidence": "지급한 매매대금에는 법률상 원인이 있습니다", "note": ""},
+        {"n": 5, "text": "남는 구제: 해제·원상회복, 전보배상, 위험부담, 대상청구권, 불법행위", "label": "부분 지지", "evidence": "을의 귀책사유를 인정할 수 있으면", "note": "원문은 해제·전보배상을 '을의 귀책 인정 시'로 한정하고 귀책 인정이 어려우면 위험부담으로 넘어간다고 함. 카드는 귀책 조건 없이 나열."},
+        {"n": 6, "text": "매매계약까지 무효가 되는 계약명의신탁과 갈린다", "label": "지지됨", "evidence": "처음부터 무효인 계약명의신탁", "note": ""},
+        {"n": 7, "text": "2021년 전원합의체(횡령죄 부정, 불법행위책임 인정) 미확인", "label": "지지됨", "evidence": "횡령죄는 부정하면서도 ... 불법행위책임", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-08-12_3자 간 명의신탁에서 소유권 이전 청구권.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "27c1", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "셰바르드나제 모델을 옮기려면 성립 조건을 확인해야 한다", "label": "지지됨", "evidence": "인과 기제고, 기제엔 성립 조건이 붙습니다", "note": ""},
+        {"n": 1, "text": "증상 목록으로 읽으면 맞아 보이나 그린 것은 인과 기제", "label": "지지됨", "evidence": "증상 체크리스트가 아니라 인과 기제", "note": ""},
+        {"n": 2, "text": "재량적 예외, 예측 불가능성, 선별적 집행의 비교가 제기될 수 있다", "label": "지지됨", "evidence": "재량적 예외 부여 체제", "note": ""},
+        {"n": 3, "text": "포섭 재원은 국유 자산, 미국은 렌트를 매번 만들고 반박받음", "label": "지지됨", "evidence": "렌트를 ... 매번 제조해야 하고", "note": ""},
+        {"n": 4, "text": "전략은 약함에서 나와 임기·선거·연방제 체제와 위협 구조가 다름", "label": "지지됨", "evidence": "동력은 통치자의 약함", "note": ""},
+        {"n": 5, "text": "결과 지표가 없으면 모델은 확인되지 않고 유비로 남는다", "label": "지지됨", "evidence": "모델이 확인된 게 아니라 유비만 남아요", "note": ""},
+        {"n": 6, "text": "A&R은 미국에 회랑 이탈과 붉은 여왕 붕괴라는 다른 도구", "label": "지지됨", "evidence": "회랑 이탈과 붉은 여왕 균형의 붕괴", "note": ""},
+        {"n": 7, "text": "유비 과장 대 대항력 침식, 침식 정도는 열린 쟁점", "label": "지지됨", "evidence": "침식의 정도가 경험적 쟁점이고 ... 열려", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-08-12_Shevardnadze와 Trump의 유사성.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "27g", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "울프 홀의 크롬웰 형상은 엘튼 논쟁과 맞물린다", "label": "지지됨", "evidence": "Elton's 'Tudor Revolution' thesis and its critics", "note": ""},
+        {"n": 1, "text": "1485 보즈워스 이후 정통성 위기, 대사건, 상소금지법·수장령 배경", "label": "지지됨", "evidence": "1485년 보즈워스 이후", "note": ""},
+        {"n": 2, "text": "경제 조건: 양모·모직물, 인클로저, 재정, Valor Ecclesiasticus", "label": "지지됨", "evidence": "wool and cloth trade, enclosure", "note": ""},
+        {"n": 3, "text": "종교·지성: 후기 중세 가톨릭, 롤라드, 루터주의, 틴들, 에라스뮈스", "label": "지지됨", "evidence": "Lollardy, Lutheran infiltration, Tyndale", "note": ""},
+        {"n": 4, "text": "엘튼 테제와 비판, 맥클로흐 2018 전기, 모어 묘사와 맞물림", "label": "지지됨", "evidence": "MacCulloch's 2018 Cromwell biography", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-09-18_울프 홀 읽기 전 역사 배경 학습.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "27g1", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "가디너 평가의 쟁점은 기회주의자 대 원칙적 보수주의자", "label": "지지됨", "evidence": "opportunist or a principled conservative", "note": ""},
+        {"n": 1, "text": "윈체스터 주교, 메리 1세 대법관, 크롬웰의 최대 정적", "label": "지지됨", "evidence": "크롬웰의 최대 정적", "note": ""},
+        {"n": 2, "text": "출생 연도가 1483년과 1497년 무렵 사이에서 다투어짐", "label": "지지됨", "evidence": "c.1483/1497 ... contested birth date", "note": ""},
+        {"n": 3, "text": "대사건 교섭에 관여, 국왕 비서 자리를 크롬웰에게 내줌", "label": "지지됨", "evidence": "displacement from the secretaryship by Cromwell", "note": ""},
+        {"n": 4, "text": "1535 De Vera Obedientia, 1553 개신교 재출간 아이러니", "label": "지지됨", "evidence": "irony of its Protestant republication in 1553", "note": ""},
+        {"n": 5, "text": "신학적 입장은 '교황 없는 가톨릭'", "label": "지지됨", "evidence": "Catholicism without the Pope", "note": ""},
+        {"n": 6, "text": "성직록 수급자 음모와 캐서린 파 제거 시도에 얽힘", "label": "지지됨", "evidence": "Prebendaries' Plot ... Catherine Parr", "note": ""},
+        {"n": 7, "text": "메리 치세 박해의 개인적 책임을 수정주의가 제한적으로 봄", "label": "지지됨", "evidence": "revisionist scholarship limiting his personal culpability", "note": ""},
+        {"n": 8, "text": "폭스, 뮬러 1926, 레드워스 1990, 맥클로흐 1996, 암스트롱 평가", "label": "지지됨", "evidence": "Muller (1926), Redworth (1990)", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-09-18_울프 홀 읽기 전 역사 배경 학습.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "27h4", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "같은 칸트에서 출발해 AI에 대해 반대 귀결", "label": "지지됨", "evidence": "후보 α 「같은 칸트, 반대 귀결」", "note": ""},
+        {"n": 1, "text": "인격·도덕 공동체가 인간종에 국한되지 않는다는 전제 공유", "label": "지지됨", "evidence": "생물학적 인간종에 국한되지 않는다", "note": ""},
+        {"n": 2, "text": "박경남: 귀속 범위의 객관적 지식 불성립에서 강 AI 가능성 열어 둠", "label": "지지됨", "evidence": "객관적 지식이 성립하지 않는다 (B9)", "note": ""},
+        {"n": 3, "text": "이병덕: 성원 자격은 의무로부터 행위할 능력, 자기 이익·대안 요구, AI 배제", "label": "지지됨", "evidence": "의무로부터 행위할 능력이고 ... 자기 이익", "note": ""},
+        {"n": 4, "text": "맞서는 자리는 무엇이 인격/성원 자격을 구성하는가, 둘 다 종 주의 거부", "label": "지지됨", "evidence": "두 원천 모두 종 주의를 거부한다", "note": ""},
+        {"n": 5, "text": "같은 층위의 충돌인지가 쟁점: 인식의 한계 대 자격의 내용", "label": "지지됨", "evidence": "인식의 한계를 말하는가 자격의 내용을 말하는가", "note": ""},
+        {"n": 6, "text": "자유 용법: 이성적 존재자 일반의 이념 대 대안을 가진 선택 능력", "label": "지지됨", "evidence": "같은 낱말의 두 용법", "note": ""},
+        {"n": 7, "text": "간접 의무 인정 시 이병덕 논변이 약해지는지는 열린 물음", "label": "지지됨", "evidence": "C19가 약해지는가가 열린 지점", "note": ""},
+        {"n": 8, "text": "이 비교는 Claude가 원료 노트에서 정리한 것", "label": "연결", "evidence": "", "note": "출처 표기에 관한 진술이라 판정하지 않음."}
+      ],
+      "sources_used": ["_원자료/로컬/수능_원료/지문/_대기/AI인격_인간중심주의/원료노트_AI인격_20260727.md", "문헌/@박경남2023 인격에 대한 칸트의 관점과 인공지능.md", "문헌/@이병덕2025 Can Artificial Intelligence Be a Member of the Moral Community.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "27h5", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "종 중첩 논증은 동물윤리에서 AI 논쟁으로 건너가는 다리", "label": "지지됨", "evidence": "logical bridge from this animal ethics anchor", "note": ""},
+        {"n": 1, "text": "고차 정신능력 기준이면 능력 없는 인간과 능력 많은 동물이 같은 범주", "label": "지지됨", "evidence": "같은 범주에 놓인다 (A5)", "note": ""},
+        {"n": 2, "text": "원료 노트: 가장자리 경우 논변의 다른 이름으로 확정", "label": "지지됨", "evidence": "가장자리 경우 논변의 개칭이다", "note": ""},
+        {"n": 3, "text": "싱어 이익 평등에서 종 중첩 논증을 거쳐 AI로 가는 사슬", "label": "지지됨", "evidence": "Singer's equal consideration ... to AI", "note": ""},
+        {"n": 4, "text": "탄소 쇼비니즘·기질 차별주의는 종차별의 AI 판본", "label": "지지됨", "evidence": "the AI-version of species discrimination", "note": ""},
+        {"n": 5, "text": "기질 중립성 논쟁이 두 영역을 잇는다", "label": "지지됨", "evidence": "substrate neutrality disputes connect", "note": ""},
+        {"n": 6, "text": "박경남은 귀결을 받아들여 답하고 미해결 자리에 칸트적 답이 들어감", "label": "지지됨", "evidence": "귀결을 받아들여 난점을 해소한다", "note": ""}
+      ],
+      "sources_used": ["_원자료/로컬/수능_원료/지문/_대기/AI인격_인간중심주의/원료노트_AI인격_20260727.md", "_원자료/claude.ai/chats/2026-07-31_인간중심주의와 AI 인격성 논의 정리.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "51i6a", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "좋음·도덕적 옳음·덕 세 관점이 각각 1·2·3인칭에 대응", "label": "부분 지지", "evidence": "(2) 2인칭 ... (3) 3인칭 관점", "note": "필기는 좋음을 '감정적 개인적 경험'이라고만 적고 1인칭이라고 쓰지 않음. 좋음=1인칭은 추론."},
+        {"n": 1, "text": "필기는 판단의 관점을 셋으로 나눈다", "label": "지지됨", "evidence": "판단의 관점 (1) 좋음 (2) 도덕적 옳음 (3) 덕", "note": ""},
+        {"n": 2, "text": "좋음: 감정적 경험, 열등·우등·사회 전체에게 나쁨", "label": "지지됨", "evidence": "우등한 위치의 사람들과 사회 전체에게 나쁘다", "note": ""},
+        {"n": 3, "text": "도덕적 옳음: 2인칭, 정당한 권위의 명령, 권리 침해로 비판", "label": "지지됨", "evidence": "정당한 권위에게 명령 받았다고 느껴지는 것", "note": ""},
+        {"n": 4, "text": "덕: 3인칭, 성품 타락, 악덕을 덕으로 포장하는 혼란", "label": "지지됨", "evidence": "악덕을 덕으로 포장하는 등의 혼란", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2025-1/사회철학연습/0319 Social injustice 1bb97cdd867e800c8f1dd22e0dbfeff3.md", "문헌/@Anderson 사회적 위계와 불평등 0319 필기.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "51i8", "voice": "문헌", "verdict": "지지됨",
+      "note": "도트슨이라는 저자명은 필기 본문에 없고 자료 폴더 파일명에서 온 것(문헌 노트가 밝힘).",
+      "claims": [
+        {"n": 0, "text": "정당화 문화가 서사 특권화, 단일 규범 가정, 조용한 배제", "label": "지지됨", "evidence": "Silent exclusion", "note": ""},
+        {"n": 1, "text": "징후: 정당화 서사 특권화, 규범이 하나의 목소리라는 가정", "label": "지지됨", "evidence": "Justifying norm이 univocal하다고 가정", "note": ""},
+        {"n": 2, "text": "예외주의 배제: 특정 집단 규범 특권화, 적용자가 문제, 자기 수정 곤란", "label": "지지됨", "evidence": "스스로 진단하고 수정하기 어렵게 만든다", "note": ""},
+        {"n": 3, "text": "부적합의 감각: 몸과 분리된 철학함 요구, 여러 인종 철학 배제", "label": "지지됨", "evidence": "demand of disembodied phiosophizing", "note": ""},
+        {"n": 4, "text": "규범을 바꾸는 부담이 소수 실천가에게 불균형하게", "label": "지지됨", "evidence": "a disproportionate burden of shifting", "note": ""},
+        {"n": 5, "text": "실천 문화: 다양한 문제 식별, 고전 재인식, 기여에 한계 없음", "label": "지지됨", "evidence": "어떻게 기여해야 하는지에 대해서 한계를 두지 않는다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2025-1/사회철학연습/How this paper philosophy 6dbaa15a463a4fd8b2e3d04e5512a414.md", "문헌/@Dotson How Is This Paper Philosophy.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "51c8", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "4권 11장과 7-8권은 서로 다른 층위의 물음에 답한다고 읽을 수 있다", "label": "연결", "evidence": "", "note": "두 대목을 엮는 카드 작성자의 종합(카드가 스스로 명시)."},
+        {"n": 1, "text": "4권 11장은 이상 체제 대신 대부분의 폴리스가 누릴 체제를 묻는다", "label": "지지됨", "evidence": "대부분의 폴리스가 참여할 수 있는 정치체제", "note": ""},
+        {"n": 2, "text": "7-8권은 이상적 폴리스 아래 영토, 입지, 시민 자격, 공교육 설계", "label": "지지됨", "evidence": "제 4장: 인구: 이상적 폴리스의 크기", "note": ""},
+        {"n": 3, "text": "4권은 실현 가능 범위, 7-8권은 행복·삶의 기준을 다룬다는 구분", "label": "연결", "evidence": "", "note": "카드가 필기에 명시되지 않은 종합이라고 밝힘."}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/정치학/발제-정치학 4장 11장 866292c7c4e342559661a788dfad4b13.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/정치학/정치학 7-8권 c7585b2578f74bcf9007a043ec77ed9d.md", "문헌/@Aristotle 정치학 5-8권 요약.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "51h4b", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "세 축으로 대비, 보든은 설명, 코켈버그는 질문 재구성", "label": "지지됨", "evidence": "상황 정리자 ... 질문 재구성자", "note": ""},
+        {"n": 1, "text": "창의성: 보든은 구현 가능한 현상, 코켈버그는 알고리즘 환원의 위험", "label": "지지됨", "evidence": "lose important dimensions if we rush to reduce", "note": ""},
+        {"n": 2, "text": "미적 판단: 보든은 공동체 승인의 외재적·준객관적 기준", "label": "지지됨", "evidence": "externalist ... quasi-objective criterion", "note": ""},
+        {"n": 3, "text": "코켈버그는 판단이 예술을 규정하는 일부", "label": "지지됨", "evidence": "evaluation itself is part of what defines art", "note": ""},
+        {"n": 4, "text": "행위주체성: 보든은 간격을 줄이고 코켈버그는 창작자·도구 역할이 바뀔 수 있다", "label": "지지됨", "evidence": "roles of 'creator' and 'tool' are in flux", "note": ""},
+        {"n": 5, "text": "마지막에 두 사람을 상황 정리자·질문 재구성자로 부르며 표로 요약", "label": "지지됨", "evidence": "| 목적 | 가능성 탐색 | 개념 확장", "note": ""},
+        {"n": 6, "text": "작성자 미상의 2차 요약이라 원문과 같은지 확인 안 됨", "label": "연결", "evidence": "", "note": "메타 진술이라 판정하지 않음."}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/과학철학 0507/Creativity, Art, and Artificial Intelligence A Com 1f997cdd867e801582d9d3497668d7e5.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/📚 철학 자료 아카이브/📑 참고문헌 라이브러리/Creativity, Art, and Artificial Intelligence_ A Co 35697cdd867e81e38210c0aca06afc69.md", "문헌/@BodenCoeckelbergh AI와 창의성 비교 에세이.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "51h2d", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "브라이슨의 책임 귀속 논리는 알고리즘 차별의 책임 물음과 이어진다", "label": "연결", "evidence": "", "note": "두 출처를 엮는 연결."},
+        {"n": 1, "text": "브라이슨: 로봇에 도덕적 책임을 주는 것은 인간의 책임 회피", "label": "지지됨", "evidence": "책임 회피(abrogation of responsibility)", "note": ""},
+        {"n": 2, "text": "차별 원인이 프로그래머 의도와 무관, 법정 설명이 어려움", "label": "지지됨", "evidence": "의도 없이도 과거의 편견과 불평등을 재생산", "note": "법정에서의 어려움은 '현행 고용차별법은 이를 효과적으로 규제하지 못한다', 마스킹 증명 곤란에서 읽음."},
+        {"n": 3, "text": "책임은 설계·도입·사용하는 인간과 조직에 남겨야 한다는 방향", "label": "연결", "evidence": "", "note": "카드가 자기 해석이라고 밝힘."}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/과학철학 과제연구_0422/Robots should be slaves - Bryson 1dd97cdd867e80d69145ffc3ac766b36.md", "문헌/@Bryson2010 Robots Should Be Slaves.md", "문헌/@BarocasSelbst2016 Big Data's Disparate Impact.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "51i3d", "voice": "문헌", "verdict": "지지됨",
+      "note": "카드 sources는 @Bettcher2007 노트인데 내용은 Trapped in the Wrong Theory 필기에서 온 것(해당 노트가 보탬으로 밝힘). 출처 줄의 Notion 파일명이 실제 근거.",
+      "claims": [
+        {"n": 0, "text": "잘못된 몸 서사는 비난을 뒤집어 기만 혐의를 상쇄하나 동일시 규범은 둠", "label": "지지됨", "evidence": "표현=생식기 ... 그대로 둬 억압을 재생산", "note": ""},
+        {"n": 1, "text": "현실 강제 구도: 겉 표현과 속 생식기 어긋남이면 옷이 몸을 속임", "label": "지지됨", "evidence": "옷이 몸을 속인다", "note": ""},
+        {"n": 2, "text": "몸이 정체를 속인다는 역전, 두 속임이 상쇄", "label": "지지됨", "evidence": "두 '속임'이 상쇄되어", "note": ""},
+        {"n": 3, "text": "표현→몸 의미 규범 인정으로 수술·몸 규격 못 맞추면 배제", "label": "지지됨", "evidence": "겉표현→몸 의미 규범 인정", "note": ""},
+        {"n": 4, "text": "임상 심사가 서류 속 새로운 현실 강제", "label": "지지됨", "evidence": "새로운 현실 강제(서류 속 '검증')", "note": ""},
+        {"n": 5, "text": "비용·문화 자원 차이로 유색인·빈곤·성노동 트랜스 여성이 더 가혹", "label": "지지됨", "evidence": "더욱 가혹한 폭력 대상", "note": ""},
+        {"n": 6, "text": "필요 조건: 표현-생식기 동일시 규범 해체와 다중 세계 의미 인정", "label": "지지됨", "evidence": "다중 세계·다중 의미 인정", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/사회철학연습/Betcher_Trapped in the Wrong Theory Rethinking Tra 1ff97cdd867e80eebeb6c0dbd12dd442.md", "문헌/@Bettcher2007 Evil Deceivers and Make-Believers.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "51i2e", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "비이상 이론은 주제 변경이 아니라 인식 방식의 전환", "label": "지지됨", "evidence": "not merely a change in topic but in epistemic approach", "note": ""},
+        {"n": 1, "text": "콩은 이상 이론에서 비이상 이론으로 방법론적 전환을 제안", "label": "지지됨", "evidence": "methodological reorientation", "note": ""},
+        {"n": 2, "text": "롤스 이상 이론은 억압을 추상화, Mills·Khader는 침묵시킨다고 비판", "label": "지지됨", "evidence": "silencing the lived realities", "note": ""},
+        {"n": 3, "text": "이상 이론은 거리가 작은 특권자의 관점을 반영하기 쉽다", "label": "지지됨", "evidence": "tends to reflect the interests ... of the privileged", "note": ""},
+        {"n": 4, "text": "콩은 형이상학에 권력을 포함하는 데 대한 저항 경험을 예로 듦", "label": "지지됨", "evidence": "resistance to including power", "note": ""},
+        {"n": 5, "text": "Young·Frye를 따라 억압은 구조적, 정체성은 지배 체계 안에서 형성", "label": "지지됨", "evidence": "oppression is not episodic but structural", "note": ""},
+        {"n": 6, "text": "핵심 주장: 정체성은 권력과의 협상으로 구성되는 과정", "label": "지지됨", "evidence": "권력과의 협상을 통해 구성되고 변화하는 '과정'", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/사회철학연습/Non-ideal theory 1e697cdd867e8065a6d9da9bc1dcd879.md", "문헌/@Kong Non-Ideal Theory 사회 정체성의 형이상학.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "51i4a", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "세계는 세계관·가능 세계·이상 세계와 구별되는 실제 사회, 여행은 소수자에게 강제", "label": "지지됨", "evidence": "세계는 세계관도 아니고, 가능 세계도 아니며", "note": ""},
+        {"n": 1, "text": "세계의 정의를 세계관·가능 세계·이상 세계와 구별하며 시작", "label": "지지됨", "evidence": "이상 세계도 아니다", "note": ""},
+        {"n": 2, "text": "살과 피의 사람이 거주하므로 유토피아일 수 없고 지배 문화가 구성한 사회", "label": "지지됨", "evidence": "That is why it cannot be a utopia", "note": ""},
+        {"n": 3, "text": "전체 사회일 필요 없고 완전할 필요 없고 구성을 이해 못할 수도", "label": "지지됨", "evidence": "부분적인 사회만 구성해서도 세계라고", "note": ""},
+        {"n": 4, "text": "세계 여행은 한 사람이 여러 세계에 동시에 거주하는 것", "label": "부분 지지", "evidence": "동시에 거주할 수 있다는 것을 말한다", "note": "필기는 '거주할 수 있다'(가능)인데 카드는 '거주하는 것이다'로 단정."},
+        {"n": 5, "text": "연기와 구별되고 한 사람은 기저의 자아를 가리키지 않는다", "label": "지지됨", "evidence": "does not refer to some underlying I", "note": ""},
+        {"n": 6, "text": "소수자에게 여행이 생존을 위해 강제된다는 점 강조", "label": "지지됨", "evidence": "소수자들에게 세계 여행은 ... 강제된다", "note": ""},
+        {"n": 7, "text": "편안함의 네 방식: 유창한 화자, 규범 만족, 끈끈한 관계, 공유 일상사", "label": "지지됨", "evidence": "유창한 화자가 되는 것", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/사회철학연습/Playfulness, world traveling and loving perception 1f297cdd867e80458ef7ceb5a5a75930.md", "문헌/@Lugones Playfulness World-Traveling and Loving Perception.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "51i1d", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "포용성 비판은 연대를 쪼갠다 주장, 반박은 내부 차이 기반 연합", "label": "지지됨", "evidence": "enables coalitions based on internal differences", "note": ""},
+        {"n": 1, "text": "Zack: 교차성이 여성 연대를 분절하고 인종적 자기 분리를 낳음", "label": "지지됨", "evidence": "fragments women's solidarity ... self-segregation", "note": ""},
+        {"n": 2, "text": "전제: 극소 단위로 쪼개 공동 목표와 공감대를 약화", "label": "지지됨", "evidence": "극소분화(micro-fragmentation)하여", "note": ""},
+        {"n": 3, "text": "Cole: 오해 위험이 있어도 제대로 이해되면 내부 차이 인정하며 연합 모색", "label": "지지됨", "evidence": "if correctly understood, enables coalitions", "note": ""},
+        {"n": 4, "text": "파편화로 포용적 페미니즘이 좌초할 수 있고 올바른 이해는 차이를 통한 연대", "label": "지지됨", "evidence": "'차이를 통한 연대' 가능성", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/사회철학연습/The concept of intersectionality 1e397cdd867e80258ca2f73a52e8c6ca.md", "문헌/@미상 The Concept of Intersectionality.md"],
+      "sources_missing": []
+    }
+  ]
+}

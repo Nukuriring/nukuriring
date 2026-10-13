@@ -1,0 +1,64 @@
+{
+ "id": "51i3d",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "note": "카드 sources는 @Bettcher2007 노트인데 내용은 Trapped in the Wrong Theory 필기에서 온 것(해당 노트가 보탬으로 밝힘). 출처 줄의 Notion 파일명이 실제 근거.",
+ "claims": [
+  {
+   "n": 0,
+   "text": "잘못된 몸 서사는 비난을 뒤집어 기만 혐의를 상쇄하나 동일시 규범은 둠",
+   "label": "지지됨",
+   "evidence": "표현=생식기 ... 그대로 둬 억압을 재생산",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "현실 강제 구도: 겉 표현과 속 생식기 어긋남이면 옷이 몸을 속임",
+   "label": "지지됨",
+   "evidence": "옷이 몸을 속인다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "몸이 정체를 속인다는 역전, 두 속임이 상쇄",
+   "label": "지지됨",
+   "evidence": "두 '속임'이 상쇄되어",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "표현→몸 의미 규범 인정으로 수술·몸 규격 못 맞추면 배제",
+   "label": "지지됨",
+   "evidence": "겉표현→몸 의미 규범 인정",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "임상 심사가 서류 속 새로운 현실 강제",
+   "label": "지지됨",
+   "evidence": "새로운 현실 강제(서류 속 '검증')",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "비용·문화 자원 차이로 유색인·빈곤·성노동 트랜스 여성이 더 가혹",
+   "label": "지지됨",
+   "evidence": "더욱 가혹한 폭력 대상",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "필요 조건: 표현-생식기 동일시 규범 해체와 다중 세계 의미 인정",
+   "label": "지지됨",
+   "evidence": "다중 세계·다중 의미 인정",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/사회철학연습/Betcher_Trapped in the Wrong Theory Rethinking Tra 1ff97cdd867e80eebeb6c0dbd12dd442.md",
+  "문헌/@Bettcher2007 Evil Deceivers and Make-Believers.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

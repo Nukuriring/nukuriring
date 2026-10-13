@@ -1,0 +1,48 @@
+{
+ "id": "27g",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "울프 홀의 크롬웰 형상은 엘튼 논쟁과 맞물린다",
+   "label": "지지됨",
+   "evidence": "Elton's 'Tudor Revolution' thesis and its critics",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "1485 보즈워스 이후 정통성 위기, 대사건, 상소금지법·수장령 배경",
+   "label": "지지됨",
+   "evidence": "1485년 보즈워스 이후",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "경제 조건: 양모·모직물, 인클로저, 재정, Valor Ecclesiasticus",
+   "label": "지지됨",
+   "evidence": "wool and cloth trade, enclosure",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "종교·지성: 후기 중세 가톨릭, 롤라드, 루터주의, 틴들, 에라스뮈스",
+   "label": "지지됨",
+   "evidence": "Lollardy, Lutheran infiltration, Tyndale",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "엘튼 테제와 비판, 맥클로흐 2018 전기, 모어 묘사와 맞물림",
+   "label": "지지됨",
+   "evidence": "MacCulloch's 2018 Cromwell biography",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/claude.ai/chats/2026-09-18_울프 홀 읽기 전 역사 배경 학습.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

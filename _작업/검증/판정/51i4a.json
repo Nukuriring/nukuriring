@@ -1,0 +1,70 @@
+{
+ "id": "51i4a",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "세계는 세계관·가능 세계·이상 세계와 구별되는 실제 사회, 여행은 소수자에게 강제",
+   "label": "지지됨",
+   "evidence": "세계는 세계관도 아니고, 가능 세계도 아니며",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "세계의 정의를 세계관·가능 세계·이상 세계와 구별하며 시작",
+   "label": "지지됨",
+   "evidence": "이상 세계도 아니다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "살과 피의 사람이 거주하므로 유토피아일 수 없고 지배 문화가 구성한 사회",
+   "label": "지지됨",
+   "evidence": "That is why it cannot be a utopia",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "전체 사회일 필요 없고 완전할 필요 없고 구성을 이해 못할 수도",
+   "label": "지지됨",
+   "evidence": "부분적인 사회만 구성해서도 세계라고",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "세계 여행은 한 사람이 여러 세계에 동시에 거주하는 것",
+   "label": "부분 지지",
+   "evidence": "동시에 거주할 수 있다는 것을 말한다",
+   "note": "필기는 '거주할 수 있다'(가능)인데 카드는 '거주하는 것이다'로 단정."
+  },
+  {
+   "n": 5,
+   "text": "연기와 구별되고 한 사람은 기저의 자아를 가리키지 않는다",
+   "label": "지지됨",
+   "evidence": "does not refer to some underlying I",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "소수자에게 여행이 생존을 위해 강제된다는 점 강조",
+   "label": "지지됨",
+   "evidence": "소수자들에게 세계 여행은 ... 강제된다",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "편안함의 네 방식: 유창한 화자, 규범 만족, 끈끈한 관계, 공유 일상사",
+   "label": "지지됨",
+   "evidence": "유창한 화자가 되는 것",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/사회철학연습/Playfulness, world traveling and loving perception 1f297cdd867e80458ef7ceb5a5a75930.md",
+  "문헌/@Lugones Playfulness World-Traveling and Loving Perception.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,43 @@
+{
+ "id": "51h2d",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "브라이슨의 책임 귀속 논리는 알고리즘 차별의 책임 물음과 이어진다",
+   "label": "연결",
+   "evidence": "",
+   "note": "두 출처를 엮는 연결."
+  },
+  {
+   "n": 1,
+   "text": "브라이슨: 로봇에 도덕적 책임을 주는 것은 인간의 책임 회피",
+   "label": "지지됨",
+   "evidence": "책임 회피(abrogation of responsibility)",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "차별 원인이 프로그래머 의도와 무관, 법정 설명이 어려움",
+   "label": "지지됨",
+   "evidence": "의도 없이도 과거의 편견과 불평등을 재생산",
+   "note": "법정에서의 어려움은 '현행 고용차별법은 이를 효과적으로 규제하지 못한다', 마스킹 증명 곤란에서 읽음."
+  },
+  {
+   "n": 3,
+   "text": "책임은 설계·도입·사용하는 인간과 조직에 남겨야 한다는 방향",
+   "label": "연결",
+   "evidence": "",
+   "note": "카드가 자기 해석이라고 밝힘."
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/Total To-do List/과학철학 과제연구_0422/Robots should be slaves - Bryson 1dd97cdd867e80d69145ffc3ac766b36.md",
+  "문헌/@Bryson2010 Robots Should Be Slaves.md",
+  "문헌/@BarocasSelbst2016 Big Data's Disparate Impact.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
