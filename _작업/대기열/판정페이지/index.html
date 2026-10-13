@@ -1,0 +1,252 @@
+<title>제텔 판정대</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500&family=IBM+Plex+Sans+KR:wght@400;500;600&family=Nanum+Myeongjo:wght@700&display=swap">
+<style>
+/* 레이아웃: 상단 고정 띠(탭·진행·필터) 아래로 색인 카드가 한 줄씩 쌓이는 판정 대기열 */
+:root {
+  --bg: #f3f4f1; --card: #fdfdfb; --ink: #1d2320; --muted: #5f6964; --line: #d9ddd7;
+  --accent: #2c5a85; --accent-soft: #e3ebf3; --ok: #2f7a4f; --ok-soft: #e2f0e7; --hold: #9a6a12; --hold-soft: #f6ecd8;
+  --warn: #a2412f; --warn-soft: #f6e3de;
+  --f-title: "Nanum Myeongjo", "Noto Serif KR", "Batang", serif;
+  --f-body: "IBM Plex Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #161a18; --card: #1e2421; --ink: #e6ebe7; --muted: #9aa59f; --line: #333b37;
+  --accent: #8db6e0; --accent-soft: #23313f; --ok: #7cc79a; --ok-soft: #1f3328; --hold: #e0b45f; --hold-soft: #362c18;
+  --warn: #ec9a87; --warn-soft: #3a2420; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #161a18; --card: #1e2421; --ink: #e6ebe7; --muted: #9aa59f; --line: #333b37;
+  --accent: #8db6e0; --accent-soft: #23313f; --ok: #7cc79a; --ok-soft: #1f3328; --hold: #e0b45f; --hold-soft: #362c18;
+  --warn: #ec9a87; --warn-soft: #3a2420; color-scheme: dark }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 15px; line-height: 1.6; }
+.wrap { max-width: 880px; margin: 0 auto; padding-inline: 16px; padding-block: 0 48px; }
+header { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); border-bottom: 1px solid var(--line); padding-block: 14px 10px; }
+.brand { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+h1 { font-family: var(--f-title); font-size: 22px; margin: 0; text-wrap: balance; }
+.sub { color: var(--muted); font-size: 13px; }
+.tabs { display: flex; gap: 6px; margin-top: 12px; flex-wrap: wrap; }
+.tab { border: 1px solid var(--line); background: var(--card); color: var(--ink); border-radius: 6px; padding: 7px 12px; font: inherit; font-size: 14px; cursor: pointer; display: flex; gap: 8px; align-items: center; }
+.tab[aria-selected="true"] { border-color: var(--accent); background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.tab .cnt { font-family: var(--f-mono); font-size: 12px; font-variant-numeric: tabular-nums; color: var(--muted); }
+.bar { height: 4px; background: var(--line); border-radius: 2px; margin-top: 10px; overflow: hidden; }
+.bar > i { display: block; height: 100%; background: var(--ok); width: 0; transition: width .3s; }
+.filters { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin-top: 10px; font-size: 13px; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; }
+.seg button { border: 0; background: var(--card); color: var(--muted); font: inherit; font-size: 13px; padding: 5px 10px; cursor: pointer; }
+.seg button[aria-pressed="true"] { background: var(--ink); color: var(--bg); }
+.filters input[type="search"] { flex: 1 1 160px; min-width: 0; border: 1px solid var(--line); background: var(--card); color: var(--ink); border-radius: 6px; padding: 5px 10px; font: inherit; font-size: 13px; }
+.filters label { display: inline-flex; gap: 5px; align-items: center; color: var(--muted); cursor: pointer; }
+.ghost { border: 1px dashed var(--line); background: transparent; color: var(--muted); border-radius: 6px; padding: 5px 10px; font: inherit; font-size: 13px; cursor: pointer; }
+.ghost:hover { color: var(--accent); border-color: var(--accent); }
+.notice { margin-top: 14px; padding: 10px 14px; border-radius: 6px; background: var(--hold-soft); color: var(--hold); font-size: 13px; }
+.notice[hidden] { display: none; }
+.confirm { margin-top: 10px; padding: 10px 14px; border: 1px solid var(--accent); border-radius: 6px; background: var(--accent-soft); font-size: 13px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+.list { display: grid; gap: 14px; margin-top: 16px; }
+.card { background: var(--card); border: 1px solid var(--line); border-radius: 4px; padding: 14px 16px 12px; border-left: 4px solid var(--line); min-width: 0; }
+.card.done { border-left-color: var(--ok); }
+.card.held { border-left-color: var(--hold); }
+.top { display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; }
+.num { font-family: var(--f-mono); font-size: 13px; color: var(--accent); background: var(--accent-soft); padding: 1px 7px; border-radius: 3px; }
+.ttl { font-family: var(--f-title); font-size: 16.5px; line-height: 1.45; flex: 1 1 300px; min-width: 0; text-wrap: balance; }
+.chips { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 6px; }
+.chip { font-size: 12px; padding: 1px 8px; border-radius: 10px; background: var(--bg); color: var(--muted); border: 1px solid var(--line); }
+.chip.rec { color: var(--accent); border-color: var(--accent); }
+.chip.warn { color: var(--warn); background: var(--warn-soft); border-color: transparent; }
+.chip.ok { color: var(--ok); background: var(--ok-soft); border-color: transparent; }
+.body { margin-top: 8px; font-size: 14px; color: var(--ink); overflow-wrap: anywhere; position: relative; }
+.body.clip { max-height: 15em; overflow: hidden; }
+.body.clip::after { content: ""; position: absolute; inset: auto 0 0 0; height: 3em; background: linear-gradient(transparent, var(--card)); }
+.body p, .body ul, .body ol { margin: .4em 0; }
+.body ul { padding-left: 1.2em; }
+.body h3 { font-family: var(--f-title); font-size: 14.5px; margin: .9em 0 .3em; }
+.body table { border-collapse: collapse; font-size: 13px; width: 100%; }
+.body th, .body td { border: 1px solid var(--line); padding: 4px 6px; text-align: left; vertical-align: top; }
+.tblwrap { overflow-x: auto; }
+.body a { color: var(--accent); }
+.more { background: none; border: 0; color: var(--accent); font: inherit; font-size: 13px; cursor: pointer; padding: 4px 0; }
+.act { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-top: 10px; padding-top: 10px; border-top: 1px dashed var(--line); }
+.opt { border: 1px solid var(--line); background: var(--card); color: var(--ink); border-radius: 6px; padding: 6px 12px; font: inherit; font-size: 13.5px; cursor: pointer; position: relative; }
+.opt.recd::after { content: "권고"; position: absolute; top: -8px; right: -6px; font-size: 10px; background: var(--accent); color: var(--card); border-radius: 6px; padding: 0 4px; }
+.opt[aria-pressed="true"] { background: var(--ok); border-color: var(--ok); color: var(--card); font-weight: 600; }
+.opt.hold[aria-pressed="true"] { background: var(--hold); border-color: var(--hold); }
+.memo { flex: 1 1 200px; min-width: 0; border: 1px solid var(--line); background: var(--bg); color: var(--ink); border-radius: 6px; padding: 6px 10px; font: inherit; font-size: 13px; }
+.saved { font-size: 12px; color: var(--muted); min-width: 4em; }
+button:focus-visible, input:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.empty { text-align: center; color: var(--muted); padding: 40px 0; }
+.pager { display: flex; justify-content: center; margin-top: 16px; }
+@media (prefers-reduced-motion: reduce) { .bar > i { transition: none; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="brand"><h1>제텔 판정대</h1><span class="sub" id="sub">대기열 초안을 불러오는 중입니다.</span></div>
+    <div class="tabs" role="tablist" id="tabs"></div>
+    <div class="bar"><i id="prog"></i></div>
+    <div class="filters">
+      <div class="seg" id="seg">
+        <button type="button" data-f="todo" aria-pressed="true">남은 것</button>
+        <button type="button" data-f="all" aria-pressed="false">전체</button>
+        <button type="button" data-f="done" aria-pressed="false">결정한 것</button>
+      </div>
+      <label id="flagWrap"><input type="checkbox" id="flagOnly" checked> 지금도 길이 경고가 남은 카드만</label>
+      <input type="search" id="q" placeholder="번호나 낱말로 찾기">
+      <button type="button" class="ghost" id="bulk">보이는 미결정 항목을 권고대로 채우기</button>
+    </div>
+    <div class="confirm" id="confirm" hidden></div>
+    <div class="notice" id="notice" hidden></div>
+  </header>
+  <div class="list" id="list"><div class="empty">항목을 불러오는 중입니다.</div></div>
+  <div class="pager"><button type="button" class="ghost" id="pager" hidden>더 보기</button></div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.1.6/purify.min.js"></script>
+<script>
+const KINDS = {
+  yj:  { name: '영진 부분 판정', opts: ['수정안 채택', 'voice 변경', '그대로 둠', '직접 고침', '보류'],
+         recMap: { '수정': '수정안 채택', 'voice 변경': 'voice 변경', '그대로 둠': '그대로 둠' }, open: true },
+  len: { name: '길이 처리', opts: ['분할', '압축', '유지', '보류'], recMap: { '분할': '분할', '압축': '압축', '유지': '유지' }, open: false },
+  bib: { name: '서지 후보', opts: ['후보 채택', '일부 채택', '보류'], recMap: {}, open: false },
+};
+const HOLD = new Set(['보류', '직접 고침']);
+let items = [], dec = {}, db = null, coll = null;
+let tab = 'yj', filt = 'todo', q = '', flagOnly = true, shown = 40;
+const $ = s => document.querySelector(s);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const md = s => { try { return DOMPurify.sanitize(marked.parse(s, { gfm: true, breaks: false })); } catch (e) { return '<pre>' + esc(s) + '</pre>'; } };
+
+function visible() {
+  const ql = q.trim().toLowerCase();
+  return items.filter(it => it.kind === tab
+    && (filt === 'all' || (filt === 'done') === !!(dec[it.key] && dec[it.key].choice))
+    && (tab !== 'len' || !flagOnly || it.flagged || it.rec !== '유지')
+    && (!ql || (it.id + ' ' + it.title + ' ' + it.body).toLowerCase().includes(ql)));
+}
+function counts(kind) {
+  const all = items.filter(i => i.kind === kind);
+  return [all.filter(i => dec[i.key] && dec[i.key].choice).length, all.length];
+}
+function renderHead() {
+  $('#tabs').innerHTML = Object.entries(KINDS).map(([k, v]) => {
+    const [d, n] = counts(k);
+    return `<button type="button" class="tab" role="tab" data-k="${k}" aria-selected="${k === tab}">${v.name}<span class="cnt">${d}/${n}</span></button>`;
+  }).join('');
+  const [d, n] = counts(tab);
+  $('#prog').style.width = n ? (100 * d / n) + '%' : '0';
+  $('#flagWrap').hidden = tab !== 'len';
+  $('#bulk').hidden = tab === 'bib';
+  const tot = items.length, done = items.filter(i => dec[i.key] && dec[i.key].choice).length;
+  $('#sub').textContent = `전체 ${tot}건 가운데 ${done}건 결정`;
+}
+function cardHTML(it) {
+  const k = KINDS[it.kind], d = dec[it.key] || {}, rec = k.recMap[it.rec] || '';
+  const cls = d.choice ? (HOLD.has(d.choice) ? 'card held' : 'card done') : 'card';
+  const chips = [];
+  if (it.tag) chips.push(`<span class="chip">${esc(it.tag)}</span>`);
+  if (it.rec) chips.push(`<span class="chip rec">권고 ${esc(it.rec)}</span>`);
+  if (it.kind === 'len') chips.push(it.flagged ? `<span class="chip warn">지금 lint ${it.lint}문장</span>` : `<span class="chip ok">지금 lint ${it.lint ?? '?'}문장, 범위 안</span>`);
+  chips.push(`<span class="chip">${esc(it.batch)}</span>`);
+  const num = it.kind === 'bib' ? '' : `<span class="num">${esc(it.id)}</span>`;
+  return `<article class="${cls}" data-key="${it.key}">
+    <div class="top">${num}<div class="ttl">${esc(it.title)}</div></div>
+    <div class="chips">${chips.join('')}</div>
+    <div class="body${k.open ? '' : ' clip'}">${md(it.body)}</div>
+    ${k.open ? '' : '<button type="button" class="more">펼치기</button>'}
+    <div class="act">
+      ${k.opts.map(o => `<button type="button" class="opt${HOLD.has(o) ? ' hold' : ''}${o === rec ? ' recd' : ''}" data-o="${esc(o)}" aria-pressed="${d.choice === o}">${esc(o)}</button>`).join('')}
+      <input class="memo" id="memo_${it.key}" placeholder="메모(선택)" value="${esc(d.memo || '')}">
+      <span class="saved"></span>
+    </div></article>`;
+}
+function render() {
+  renderHead();
+  const v = visible();
+  const list = $('#list');
+  if (!items.length) return;
+  list.innerHTML = v.length ? v.slice(0, shown).map(cardHTML).join('') : '<div class="empty">이 보기에 남은 항목이 없습니다.</div>';
+  list.querySelectorAll('.body table').forEach(t => { const w = document.createElement('div'); w.className = 'tblwrap'; t.replaceWith(w); w.appendChild(t); });
+  $('#pager').hidden = v.length <= shown;
+  $('#pager').textContent = `더 보기 (${v.length - shown}건 남음)`;
+}
+async function save(key, patch, card) {
+  const it = items.find(i => i.key === key);
+  const next = Object.assign({ kind: it.kind, ref: it.id, choice: '', memo: '' }, dec[key] || {}, patch, { at: Date.now() });
+  dec[key] = next;
+  const s = card && card.querySelector('.saved');
+  if (!coll) { if (s) s.textContent = '저장 안 됨'; return; }
+  if (s) s.textContent = '저장 중';
+  try { await coll.doc(key).set(next); if (s) s.textContent = '저장됨'; }
+  catch (e) { if (s) s.textContent = '저장 실패'; showNotice(e && e.code === 'not_granted' ? '이 보기에서는 저장 권한이 없습니다. 보관함 주인 계정으로 열어 주세요.' : '저장하지 못했습니다. 잠시 뒤 다시 눌러 주세요.'); }
+}
+function showNotice(t) { const n = $('#notice'); n.textContent = t; n.hidden = !t; }
+
+document.addEventListener('click', e => {
+  const t = e.target;
+  if (t.closest('.tab')) { tab = t.closest('.tab').dataset.k; shown = 40; $('#confirm').hidden = true; render(); window.scrollTo(0, 0); return; }
+  if (t.closest('#seg button')) { filt = t.closest('button').dataset.f; document.querySelectorAll('#seg button').forEach(b => b.setAttribute('aria-pressed', b.dataset.f === filt)); shown = 40; render(); return; }
+  if (t.id === 'pager') { shown += 40; render(); return; }
+  if (t.classList.contains('more')) { const b = t.previousElementSibling; b.classList.toggle('clip'); t.textContent = b.classList.contains('clip') ? '펼치기' : '접기'; return; }
+  const opt = t.closest('.opt');
+  if (opt) {
+    const card = opt.closest('.card'), key = card.dataset.key, o = opt.dataset.o;
+    const choice = (dec[key] && dec[key].choice === o) ? '' : o;
+    save(key, { choice, memo: card.querySelector('.memo').value }, card);
+    card.querySelectorAll('.opt').forEach(b => b.setAttribute('aria-pressed', b.dataset.o === choice));
+    card.className = choice ? (HOLD.has(choice) ? 'card held' : 'card done') : 'card';
+    renderHead();
+    return;
+  }
+  if (t.id === 'bulk') {
+    const cand = visible().filter(i => !(dec[i.key] && dec[i.key].choice) && KINDS[i.kind].recMap[i.rec]);
+    const c = $('#confirm');
+    c.innerHTML = cand.length
+      ? `<span>지금 보이는 미결정 항목 ${cand.length}건을 각자의 권고대로 채웁니다. 나중에 하나씩 바꿀 수 있습니다.</span><button type="button" class="opt" id="bulkGo">채우기</button><button type="button" class="ghost" id="bulkNo">그만두기</button>`
+      : '<span>권고가 붙은 미결정 항목이 이 보기에 없습니다.</span><button type="button" class="ghost" id="bulkNo">닫기</button>';
+    c.hidden = false; c._cand = cand; return;
+  }
+  if (t.id === 'bulkNo') { $('#confirm').hidden = true; return; }
+  if (t.id === 'bulkGo') {
+    const cand = $('#confirm')._cand || [];
+    t.disabled = true;
+    (async () => {
+      let n = 0;
+      for (const it of cand) { await save(it.key, { choice: KINDS[it.kind].recMap[it.rec] }); n++; if (n % 10 === 0) t.textContent = `${n}/${cand.length}`; }
+      $('#confirm').hidden = true; render();
+    })();
+  }
+});
+document.addEventListener('change', e => {
+  if (e.target.classList.contains('memo')) { const card = e.target.closest('.card'); save(card.dataset.key, { memo: e.target.value }, card); }
+  if (e.target.id === 'flagOnly') { flagOnly = e.target.checked; shown = 40; render(); }
+});
+$('#q').addEventListener('input', e => { q = e.target.value; shown = 40; render(); });
+
+(async () => {
+  try { items = await (await fetch('items.json')).json(); }
+  catch (e) { $('#list').innerHTML = '<div class="empty">대기열 자료(items.json)를 읽지 못했습니다. 페이지를 새로 고쳐 주세요.</div>'; return; }
+  render();
+  const claude = window.claude;
+  db = claude && claude.use ? await claude.use('db') : null;
+  if (!db) { showNotice('결정을 저장하려면 claude.ai에 로그인한 상태로 열어 주세요. 지금은 둘러보기만 됩니다.'); return; }
+  coll = db.collection('decisions');
+  let first = true;
+  coll.onSnapshot(snap => {
+    const next = {};
+    snap.docs.forEach(d => { if (d.exists) next[d.id] = d.data(); });
+    dec = next;
+    if (first) { first = false; render(); return; }
+    // 이후 변경은 카드를 다시 그리지 않고 그 자리에서 고친다. 방금 고른 카드가 목록에서 갑자기 사라지지 않게 한다.
+    renderHead();
+    snap.docChanges().forEach(ch => {
+      const card = document.querySelector(`.card[data-key="${ch.doc.id}"]`);
+      if (!card) return;
+      const d = dec[ch.doc.id] || {};
+      card.querySelectorAll('.opt').forEach(b => b.setAttribute('aria-pressed', b.dataset.o === d.choice));
+      card.className = d.choice ? (HOLD.has(d.choice) ? 'card held' : 'card done') : 'card';
+      const m = card.querySelector('.memo');
+      if (m && document.activeElement !== m) m.value = d.memo || '';
+    });
+  }, err => showNotice('저장된 결정을 불러오지 못했습니다. 새로 고쳐 주세요.'));
+})();
+</script>
