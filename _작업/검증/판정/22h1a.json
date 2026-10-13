@@ -1,0 +1,49 @@
+{
+ "id": "22h1a",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "과잉반성은 모런의 언어로 강제된 이론적 태도로 옮길 수 있다",
+   "label": "지지됨",
+   "evidence": "(a)의 언어로 옮기면 강제된 이론적 태도",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "모런: 권위는 숙고적 태도에서, 취할 수 없으면 소외",
+   "label": "지지됨",
+   "evidence": "숙고적 태도(deliberative stance)에서 나오고",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "숙고적 태도를 고를 수 없어 자기 사고를 관찰 대상으로만",
+   "label": "지지됨",
+   "evidence": "관찰 대상으로만 마주하게 되는 상태",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "독서 목록: 관찰자 태도로 밀려남, 탐지기·구경꾼 그림의 병리화",
+   "label": "지지됨",
+   "evidence": "forced off the transparent/tacit stance",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "대화: 의지적·국소적 대 비자발적·전면적 불투명성",
+   "label": "지지됨",
+   "evidence": "의지적이고 국소적인가, 아니면 비자발적",
+   "note": "대화는 치료 논의에서 이 구별을 냄. 카드의 '이 대비' 연결은 허용 범위."
+  }
+ ],
+ "sources_used": [
+  "_원자료/claude.ai/chats/2026-08-26_Apperception and psychopathology literature.md",
+  "_원자료/로컬/Integrating Transparency/READING_Psychopathology-and-Transparency.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

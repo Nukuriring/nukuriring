@@ -1,0 +1,58 @@
+{
+ "id": "22h1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "조현병의 과잉반성은 암묵적인 것이 대상으로 떠오르는 일",
+   "label": "지지됨",
+   "evidence": "tacit self-aspects thrust into object",
+   "note": "원문 미독, 독서 목록·대화 요약에 근거(카드가 밝힘)."
+  },
+  {
+   "n": 1,
+   "text": "2003년 논문, 조현병을 자기성 교란으로 보는 모형",
+   "label": "지지됨",
+   "evidence": "canonical ipseity-disturbance model",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "과잉반성과 자기 촉발 감소로 이루어진다",
+   "label": "지지됨",
+   "evidence": "diminished self-affection",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "사스는 폴라니 암묵지/초점지로 투명 매체의 불투명화 규정",
+   "label": "지지됨",
+   "evidence": "Polanyi의 암묵지/초점지 구별",
+   "note": "대화 속 설명 표시 있음"
+  },
+  {
+   "n": 4,
+   "text": "Paradoxes of Delusion(1994), 비트겐슈타인 유아론 비판",
+   "label": "지지됨",
+   "evidence": "a consciousness turned in upon itself",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "푹스: 몸을 낯선 힘에 조종되는 데카르트적 기계로 경험",
+   "label": "지지됨",
+   "evidence": "Cartesian machine steered by alien",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/READING_Psychopathology-and-Transparency.md",
+  "_원자료/claude.ai/chats/2026-08-26_Apperception and psychopathology literature.md"
+ ],
+ "sources_missing": [
+  "문헌/@SassParnas2003 (원문 미독, 확인 안 함)"
+ ],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

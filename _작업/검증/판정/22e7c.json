@@ -1,0 +1,49 @@
+{
+ "id": "22e7c",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "행위자 이론은 관찰로만 아는 태도를 소외된 태도로 본다",
+   "label": "지지됨",
+   "evidence": "makes me 'alienated' (Moran 2001)",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "버지 brute 등, 빌그라미 삼인칭, 보일 나의 것으로",
+   "label": "지지됨",
+   "evidence": "brute, contingent, non-rational",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "공언 가능/이유 둔감 구분이 흄주의·인식적 이론에 맞선다",
+   "label": "지지됨",
+   "evidence": "opposing both purely epistemic accounts",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "비판자: 관찰적 앎이 소유를 막지 않는다 등",
+   "label": "지지됨",
+   "evidence": "observational knowledge needn't preclude",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "대화 설명: 소외는 숙고적 태도를 취할 수 없어 제삼자처럼 확인",
+   "label": "지지됨",
+   "evidence": "제삼자처럼 이론적으로 확인해야 할 때",
+   "note": "대화 속 설명 표시 있음"
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/KB_SEP_Self-Knowledge.md",
+  "_원자료/claude.ai/chats/2026-08-26_Apperception and psychopathology literature.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,55 @@
+{
+ "id": "22f2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "비트겐슈타인에 따르면 나는 믿는다는 말은 내 상태에 빛을 비춘다",
+   "label": "지지됨",
+   "evidence": "throws light on my state",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "PI 2부 §x 무어의 역설, 'believe falsely' 인용",
+   "label": "지지됨",
+   "evidence": "a verb meaning 'to believe falsely'",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "메모: 부정합은 '나는 믿는다' 쓰임의 특징",
+   "label": "지지됨",
+   "evidence": "feature of the use of \"I believe\"",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "'throws light'를 보고 없이 드러냄으로 읽는다",
+   "label": "지지됨",
+   "evidence": "manifests the state without reporting",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "맥긴의 「Wittgenstein and Moore's Paradox」",
+   "label": "지지됨",
+   "evidence": "Marie McGinn … developed secondary",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "끝까지 밀면 앎을 표현하는 단언이 아니라는 결론, 경고",
+   "label": "지지됨",
+   "evidence": "not a knowledge-expressing assertion",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/WITTGENSTEIN_AUSTIN_moves.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

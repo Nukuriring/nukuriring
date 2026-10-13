@@ -1,0 +1,62 @@
+{
+ "id": "22e7d",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "행위자 이론은 행위자성이 앎을 주는 방식을 설명할 부담",
+   "label": "지지됨",
+   "evidence": "explains how agency provides",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "대부분의 앎에서 믿음은 대상에 통제받는다(개 예)",
+   "label": "지지됨",
+   "evidence": "controlled by what is known",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "설명 못 하면 진정한 경쟁자가 못 된다",
+   "label": "지지됨",
+   "evidence": "not a genuine competitor",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "패럿 2015 비인식적 판본은 경쟁자 포기",
+   "label": "지지됨",
+   "evidence": "explicitly not a competitor",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "적용 범위: 이유에 둔감한 태도 목록",
+   "label": "지지됨",
+   "evidence": "akratic/self-sabotaging intentions",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "이런 태도는 자기 해석 이론 동기의 일부",
+   "label": "지지됨",
+   "evidence": "part of the motivation for self-interpretation",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "맥기어만 예외",
+   "label": "지지됨",
+   "evidence": "McGeer excepted",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/KB_SEP_Self-Knowledge.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

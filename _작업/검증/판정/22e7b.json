@@ -1,0 +1,62 @@
+{
+ "id": "22e7b",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "맥기어와 콜리바: 자기 귀속은 책무를 떠맡거나 태도를 만든다",
+   "label": "지지됨",
+   "evidence": "commissive … create the attitude",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "맥기어 운전자 비유(1996: 505)",
+   "label": "지지됨",
+   "evidence": "person driving a car",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "자기 귀속은 commissive, 인용(507)",
+   "label": "지지됨",
+   "evidence": "make them make sense",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "일상 실천 의무에서 와 '해변에 가고 싶다'까지",
+   "label": "지지됨",
+   "evidence": "I want to go to the beach",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "콜리바: 귀속이 태도를 만들어 참, 수행문에 견줌",
+   "label": "지지됨",
+   "evidence": "like a performative (\"I promise",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "'나는 P라고 믿는다' 판단은 같은 책무를 떠맡는 다른 방식",
+   "label": "지지됨",
+   "evidence": "alternative way of undertaking",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "콜리바는 합리주의적 요소를 남긴다",
+   "label": "지지됨",
+   "evidence": "retains a rationalist element",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/KB_SEP_Self-Knowledge.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

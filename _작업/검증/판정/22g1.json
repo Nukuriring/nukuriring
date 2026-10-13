@@ -1,0 +1,55 @@
+{
+ "id": "22g1",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "공언의 권위는 보증을 자기에게 돌린 경우로 읽을 수 있다",
+   "label": "지지됨",
+   "evidence": "reflexive case of the assurance",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "증언 보증의 재귀적 경우, 나는 나에게 내 말을 준다",
+   "label": "지지됨",
+   "evidence": "I give myself, as it were, my word",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "이인칭적 존중이라는 생각에 구체적 내용",
+   "label": "지지됨",
+   "evidence": "discharge B1's IOU",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "오스틴이 허락한 전이와 같은 종류",
+   "label": "지지됨",
+   "evidence": "same transposition Austin already licenses",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "증언은 타인, 공언은 자기 귀속이라는 차이를 드러내라",
+   "label": "지지됨",
+   "evidence": "Flag the transposition",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "모런의 증언론으로 자기지식론을 보충, 화제 바꿈 반론에 답",
+   "label": "지지됨",
+   "evidence": "change-the-topic objection",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/WITTGENSTEIN_AUSTIN_moves.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

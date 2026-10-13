@@ -1,0 +1,63 @@
+{
+ "id": "22h2",
+ "voice": "종합",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "사고 주입은 소유와 저자성이 갈라지는 사례로 분석된다",
+   "label": "지지됨",
+   "evidence": "소유(ownership)와 저자성(agency)의 해리",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "환자는 마음 안의 생각을 자기 것으로 여기지 않는다",
+   "label": "지지됨",
+   "evidence": "a thought … in their mind that is not",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "독서 목록: 사고 수준 실패, 일인칭 권위로 가는 깨끗한 통로",
+   "label": "지지됨",
+   "evidence": "cleanest clinical wedge",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "스티븐스·그레이엄 2000 소유와 저자성의 해리",
+   "label": "지지됨",
+   "evidence": "When Self-Consciousness Breaks",
+   "note": "대화 속 설명 표시 있음"
+  },
+  {
+   "n": 4,
+   "text": "갤러거 2004 행위주체감·소유감 구분",
+   "label": "지지됨",
+   "evidence": "sense-of-agency vs. sense-of-ownership",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "보르톨로티·브룸 2009 소유와 저자성 짝",
+   "label": "지지됨",
+   "evidence": "ownership + authorship",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "캠벨·갤러거 논쟁을 알아야 할 논쟁으로",
+   "label": "지지됨",
+   "evidence": "Campbell–Gallagher exchange",
+   "note": "카드 frontmatter sources는 빈 배열인데 출처 절에는 자료가 있음(카드 형식 점검 필요)."
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/READING_Psychopathology-and-Transparency.md",
+  "_원자료/claude.ai/chats/2026-08-26_Apperception and psychopathology literature.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

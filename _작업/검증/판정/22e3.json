@@ -1,0 +1,62 @@
+{
+ "id": "22e3",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "자기 해석 이론은 태도 앎을 최선의 설명으로 본다",
+   "label": "지지됨",
+   "evidence": "Best interpretation = best explanation",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "믿음·욕구, 어쩌면 감정까지 해석 과정(Lawlor 등)",
+   "label": "지지됨",
+   "evidence": "(perhaps emotions)",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "인과적 역할은 내성만으로 알 수 없어 해석으로 안다",
+   "label": "지지됨",
+   "evidence": "isn't knowable by mere introspective",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "롤러의 캐서린 예",
+   "label": "지지됨",
+   "evidence": "Lawlor's example — Katherine",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "캐러더스: 마음읽기 체계가 자기도 탐지, 사회적 목적으로 진화",
+   "label": "지지됨",
+   "evidence": "evolved for outward-looking social",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "라일 eavesdrop 인용(1949: 184)",
+   "label": "지지됨",
+   "evidence": "We eavesdrop on our own voiced",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "비판: 비대칭 놓침(Shoemaker), 소외(Moran)",
+   "label": "지지됨",
+   "evidence": "alienated from our attitudes",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/KB_SEP_Self-Knowledge.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

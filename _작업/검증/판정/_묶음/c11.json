@@ -1,0 +1,201 @@
+{
+  "model": "sonnet",
+  "date": "2026-10-13",
+  "cards": [
+    {"id":"22b","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"에반스에 따르면 믿음을 자기에게 귀속할 때 눈은 바깥 세계를 향한다","label":"지지됨","evidence":"directed outward — upon the world","note":""},
+      {"n":1,"text":"내성 그림과 투명성 방법을 서로 반대되는 두 그림으로 나눈다","label":"지지됨","evidence":"two opposite pictures","note":""},
+      {"n":2,"text":"내성은 안으로 향한 주의가 마음 상태를 알아차리게 하는 일","label":"지지됨","evidence":"inwardly directed attention","note":""},
+      {"n":3,"text":"투명성 방법은 생각이 표상하는 세계의 상태를 내다본다","label":"지지됨","evidence":"looking outward, to the states of the world","note":""},
+      {"n":4,"text":"에반스 인용과 1982: 225","label":"지지됨","evidence":"Evans (1982: 225)","note":""},
+      {"n":5,"text":"셋째 세계대전 예: 같은 바깥 현상에 주의","label":"지지됨","evidence":"precisely the same outward phenomena","note":""},
+      {"n":6,"text":"내성은 직접 대면·내감, 투명성은 경험주의 투명성·일부 행위자 이론의 중심","label":"지지됨","evidence":"Central to Acquaintance (3.1) and Inner Sense","note":""}
+    ],"sources_used":["_원자료/로컬/Integrating Transparency/KB_SEP_Self-Knowledge.md"],"sources_missing":[]},
+
+    {"id":"22b1","voice":"종합","verdict":"부분","claims":[
+      {"n":0,"text":"자기지식의 투명성과 경험의 투명성과 사진의 투명성은 낱말만 공유한다","label":"부분 지지","evidence":"The two share only the word","note":"원문(Part D)은 SEP 투명성 방법과 월튼의 사진 투명성 둘만 '낱말만 공유'라 함. 경험의 투명성은 칸트와 구조적으로 닮았다는 서술뿐이라, 세 갈래 모두 낱말만 공유한다는 일반화는 출처 밖."},
+      {"n":1,"text":"투명성이라는 낱말은 적어도 세 갈래로 쓰인다","label":"지지됨","evidence":"두 가지 투명성 + Walton 구분","note":""},
+      {"n":2,"text":"에반스·모런의 투명성: p인지 내다보아 답하는 절차","label":"지지됨","evidence":"P가 참인지를 바깥으로 내다보면","note":""},
+      {"n":3,"text":"무어·하먼·타이의 경험의 투명성: 파란색만 발견","label":"지지됨","evidence":"파란색만 발견될 뿐 경험 자체는","note":""},
+      {"n":4,"text":"독서 목록은 메칭거 현상적 투명성도 이 갈래에","label":"지지됨","evidence":"Metzinger … phenomenal transparency","note":""},
+      {"n":5,"text":"월튼의 투명한 사진: 사진을 통해 세계를 본다","label":"지지됨","evidence":"see the world through the photograph","note":""},
+      {"n":6,"text":"메모는 SEP와 월튼이 낱말만 공유한다고 본다","label":"지지됨","evidence":"share only the word","note":""},
+      {"n":7,"text":"낱말에 기대면 아무도 지지하지 않는 지각적 독해를 공격","label":"지지됨","evidence":"perceptual reading … no one holds","note":""},
+      {"n":8,"text":"통각과 접속하는 쪽은 자기지식의 투명성(모런의 칸트·사르트르 원용)","label":"지지됨","evidence":"칸트적 통각과의 접속점이 이미 텍스트 안에","note":""},
+      {"n":9,"text":"경험의 투명성은 통각의 '나'와 구조적으로 닮았을 뿐","label":"지지됨","evidence":"구조적으로 닮았을 뿐입니다","note":""}
+    ],"sources_used":["_원자료/로컬/Integrating Transparency/PROJECT-KNOWLEDGE_moves.md","_원자료/로컬/Integrating Transparency/READING_Psychopathology-and-Transparency.md","_원자료/claude.ai/chats/2026-08-26_Apperception and psychopathology literature.md","_원자료/로컬/Integrating Transparency/KB_SEP_Self-Knowledge.md"],"sources_missing":[]},
+
+    {"id":"22c","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"게르틀러는 인식적 특권과 사회언어적 권위를 구별한다","label":"지지됨","evidence":"First-person privilege (epistemic) vs","note":""},
+      {"n":1,"text":"일인칭 권위는 참이라는 추정을 누린다는 표지","label":"지지됨","evidence":"presumption of truth","note":""},
+      {"n":2,"text":"흔히 비트겐슈타인에게 귀속되는 접근은 주로 사회언어적 관행","label":"지지됨","evidence":"primarily a matter of social-linguistic","note":""},
+      {"n":3,"text":"'아니, 너는 그렇게 믿지 않아'는 보통 규범 오해","label":"지지됨","evidence":"(ordinarily) shows a misunderstanding","note":""},
+      {"n":4,"text":"권위를 사회적 규범에 두므로 엄밀히 자기지식 논점이 아니다","label":"지지됨","evidence":"strictly speaking, not about self-knowledge","note":""},
+      {"n":5,"text":"핀켈스타인·바온은 권위, 캠벨은 특권에 초점","label":"지지됨","evidence":"Finkelstein & Bar-On focus on","note":""}
+    ],"sources_used":["_원자료/로컬/Integrating Transparency/KB_SEP_Self-Knowledge.md"],"sources_missing":[]},
+
+    {"id":"22e2","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"슈메이커는 내감 이론이 자기맹을 허용한다는 이유로 거부","label":"지지됨","evidence":"a rational person could lack it","note":""},
+      {"n":1,"text":"로크 'internal Sense'(II.1.iv)","label":"지지됨","evidence":"call'd internal Sense","note":""},
+      {"n":2,"text":"암스트롱: 입력→표상 출력, 인과적이고 우연적","label":"지지됨","evidence":"causal and contingent","note":""},
+      {"n":3,"text":"비대칭도 우연적, 타인 상태 텔레파시적 탐색 가능(1993: 124)","label":"지지됨","evidence":"telepathic scanning","note":""},
+      {"n":4,"text":"큰 이점은 자연주의","label":"지지됨","evidence":"Chief benefit — naturalism","note":""},
+      {"n":5,"text":"슈메이커 1994: 자기맹 귀결, 합리적 존재엔 불가능","label":"지지됨","evidence":"impossible in a rational creature","note":""},
+      {"n":6,"text":"카인드 2003 반론","label":"지지됨","evidence":"doesn't say how awareness occurs","note":""},
+      {"n":7,"text":"게르틀러: de dicto 가능, 슈메이커엔 de re 논제 필요","label":"지지됨","evidence":"de dicto truth … de re thesis","note":""}
+    ],"sources_used":["_원자료/로컬/Integrating Transparency/KB_SEP_Self-Knowledge.md"],"sources_missing":[]},
+
+    {"id":"22e3","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"자기 해석 이론은 태도 앎을 최선의 설명으로 본다","label":"지지됨","evidence":"Best interpretation = best explanation","note":""},
+      {"n":1,"text":"믿음·욕구, 어쩌면 감정까지 해석 과정(Lawlor 등)","label":"지지됨","evidence":"(perhaps emotions)","note":""},
+      {"n":2,"text":"인과적 역할은 내성만으로 알 수 없어 해석으로 안다","label":"지지됨","evidence":"isn't knowable by mere introspective","note":""},
+      {"n":3,"text":"롤러의 캐서린 예","label":"지지됨","evidence":"Lawlor's example — Katherine","note":""},
+      {"n":4,"text":"캐러더스: 마음읽기 체계가 자기도 탐지, 사회적 목적으로 진화","label":"지지됨","evidence":"evolved for outward-looking social","note":""},
+      {"n":5,"text":"라일 eavesdrop 인용(1949: 184)","label":"지지됨","evidence":"We eavesdrop on our own voiced","note":""},
+      {"n":6,"text":"비판: 비대칭 놓침(Shoemaker), 소외(Moran)","label":"지지됨","evidence":"alienated from our attitudes","note":""}
+    ],"sources_used":["_원자료/로컬/Integrating Transparency/KB_SEP_Self-Knowledge.md"],"sources_missing":[]},
+
+    {"id":"22e4","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"바이른: 믿음 도식은 자기 검증적","label":"지지됨","evidence":"the schema is self-verifying","note":""},
+      {"n":1,"text":"경험주의 투명성은 에반스 절차가 경험적 보증을 낳는다고 봄","label":"지지됨","evidence":"generate empirical justification","note":""},
+      {"n":2,"text":"드레츠키: 지각적 앎, 자각에서 추론(1994: 264)","label":"지지됨","evidence":"a form of perceptual knowledge","note":""},
+      {"n":3,"text":"페르난데스 우회 모형","label":"지지됨","evidence":"bypassing the first-order belief","note":""},
+      {"n":4,"text":"바이른은 추론주의, 갈루아 도식 p ∴ I believe that p","label":"지지됨","evidence":"explicitly inferentialist","note":""},
+      {"n":5,"text":"p의 정당화와 상관없이 참인 귀속이므로 자기 검증적","label":"지지됨","evidence":"regardless of whether p is justified","note":""},
+      {"n":6,"text":"안전성으로 보증, 타인엔 신빙성 없어 비대칭 설명","label":"지지됨","evidence":"won't yield knowledge of others","note":""}
+    ],"sources_used":["_원자료/로컬/Integrating Transparency/KB_SEP_Self-Knowledge.md"],"sources_missing":[]},
+
+    {"id":"22e5","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"피콕: 의식적 판단은 알아차리지 않아도 이유가 된다","label":"지지됨","evidence":"you need not be aware of the judgment","note":""},
+      {"n":1,"text":"이유 이론은 피콕 1999에서 시작, 추론 없이 알 수 있다","label":"지지됨","evidence":"can sometimes know beliefs without","note":"원문 'sometimes'는 카드의 '알 수 있다'(가능)에 담겨 있다고 보아 통과."},
+      {"n":2,"text":"믿음은 성향적, 판단은 사건","label":"지지됨","evidence":"judgments are occurrent","note":""},
+      {"n":3,"text":"판단은 장화 성향 등 믿음에 딸린 성향을 가질 이유","label":"지지됨","evidence":"reason to think you have the dispositions","note":""},
+      {"n":4,"text":"의식적이기만 하면 이유, 가려움 비유","label":"지지됨","evidence":"itch can be a reason for scratching","note":""},
+      {"n":5,"text":"'the fundamental way' (1999: 238)","label":"지지됨","evidence":"fundamental way to form a belief","note":""},
+      {"n":6,"text":"실린스 2020 무어 역설 논증","label":"지지됨","evidence":"Silins (2020): Moore-paradoxical","note":""},
+      {"n":7,"text":"콜리바 2008 반론, 맥휴 2012 답","label":"지지됨","evidence":"McHugh (2012) replies","note":""}
+    ],"sources_used":["_원자료/로컬/Integrating Transparency/KB_SEP_Self-Knowledge.md"],"sources_missing":[]},
+
+    {"id":"22e6","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"합리주의: 합리적 사고자임이 자기지식을 보장","label":"지지됨","evidence":"status as rational thinkers guarantees","note":""},
+      {"n":1,"text":"행위자성 주장에 기대지 않아 행위자 이론과 구별","label":"지지됨","evidence":"independent of agency claims","note":""},
+      {"n":2,"text":"슈메이커: 자기맹은 무어 역설 판단, 전달·협력 불가, 이방인","label":"지지됨","evidence":"regard themselves 'as a stranger'","note":""},
+      {"n":3,"text":"구성주의: 상태에 있음이 부분적으로 그렇게 믿음","label":"지지됨","evidence":"partly consists in believing","note":""},
+      {"n":4,"text":"스미시스 2019 인용(174)과 믿음 규정","label":"지지됨","evidence":"Rationality requires knowing what you","note":""},
+      {"n":5,"text":"게르틀러가 남기는 두 과제","label":"지지됨","evidence":"Two challenges to rationalism","note":""}
+    ],"sources_used":["_원자료/로컬/Integrating Transparency/KB_SEP_Self-Knowledge.md"],"sources_missing":[]},
+
+    {"id":"22e7b","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"맥기어와 콜리바: 자기 귀속은 책무를 떠맡거나 태도를 만든다","label":"지지됨","evidence":"commissive … create the attitude","note":""},
+      {"n":1,"text":"맥기어 운전자 비유(1996: 505)","label":"지지됨","evidence":"person driving a car","note":""},
+      {"n":2,"text":"자기 귀속은 commissive, 인용(507)","label":"지지됨","evidence":"make them make sense","note":""},
+      {"n":3,"text":"일상 실천 의무에서 와 '해변에 가고 싶다'까지","label":"지지됨","evidence":"I want to go to the beach","note":""},
+      {"n":4,"text":"콜리바: 귀속이 태도를 만들어 참, 수행문에 견줌","label":"지지됨","evidence":"like a performative (\"I promise","note":""},
+      {"n":5,"text":"'나는 P라고 믿는다' 판단은 같은 책무를 떠맡는 다른 방식","label":"지지됨","evidence":"alternative way of undertaking","note":""},
+      {"n":6,"text":"콜리바는 합리주의적 요소를 남긴다","label":"지지됨","evidence":"retains a rationalist element","note":""}
+    ],"sources_used":["_원자료/로컬/Integrating Transparency/KB_SEP_Self-Knowledge.md"],"sources_missing":[]},
+
+    {"id":"22e7c","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"행위자 이론은 관찰로만 아는 태도를 소외된 태도로 본다","label":"지지됨","evidence":"makes me 'alienated' (Moran 2001)","note":""},
+      {"n":1,"text":"버지 brute 등, 빌그라미 삼인칭, 보일 나의 것으로","label":"지지됨","evidence":"brute, contingent, non-rational","note":""},
+      {"n":2,"text":"공언 가능/이유 둔감 구분이 흄주의·인식적 이론에 맞선다","label":"지지됨","evidence":"opposing both purely epistemic accounts","note":""},
+      {"n":3,"text":"비판자: 관찰적 앎이 소유를 막지 않는다 등","label":"지지됨","evidence":"observational knowledge needn't preclude","note":""},
+      {"n":4,"text":"대화 설명: 소외는 숙고적 태도를 취할 수 없어 제삼자처럼 확인","label":"지지됨","evidence":"제삼자처럼 이론적으로 확인해야 할 때","note":"대화 속 설명 표시 있음"}
+    ],"sources_used":["_원자료/로컬/Integrating Transparency/KB_SEP_Self-Knowledge.md","_원자료/claude.ai/chats/2026-08-26_Apperception and psychopathology literature.md"],"sources_missing":[]},
+
+    {"id":"22e7d","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"행위자 이론은 행위자성이 앎을 주는 방식을 설명할 부담","label":"지지됨","evidence":"explains how agency provides","note":""},
+      {"n":1,"text":"대부분의 앎에서 믿음은 대상에 통제받는다(개 예)","label":"지지됨","evidence":"controlled by what is known","note":""},
+      {"n":2,"text":"설명 못 하면 진정한 경쟁자가 못 된다","label":"지지됨","evidence":"not a genuine competitor","note":""},
+      {"n":3,"text":"패럿 2015 비인식적 판본은 경쟁자 포기","label":"지지됨","evidence":"explicitly not a competitor","note":""},
+      {"n":4,"text":"적용 범위: 이유에 둔감한 태도 목록","label":"지지됨","evidence":"akratic/self-sabotaging intentions","note":""},
+      {"n":5,"text":"이런 태도는 자기 해석 이론 동기의 일부","label":"지지됨","evidence":"part of the motivation for self-interpretation","note":""},
+      {"n":6,"text":"맥기어만 예외","label":"지지됨","evidence":"McGeer excepted","note":""}
+    ],"sources_used":["_원자료/로컬/Integrating Transparency/KB_SEP_Self-Knowledge.md"],"sources_missing":[]},
+
+    {"id":"22e8","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"표현주의: 공언이 귀속하는 상태를 직접 표현","label":"지지됨","evidence":"directly express the states they ascribe","note":""},
+      {"n":1,"text":"'나는 아프다'는 찡그림·'아야!'와 닮았고 공언이라 부른다","label":"지지됨","evidence":"resemble direct expressions","note":""},
+      {"n":2,"text":"단순 표현주의는 참거짓 아님, 대부분 거부","label":"지지됨","evidence":"Most contemporary expressivists reject","note":""},
+      {"n":3,"text":"직접성의 두 뜻","label":"지지됨","evidence":"Two senses of directness","note":""},
+      {"n":4,"text":"핀켈스타인: 맹목적 인과와 다름, logical space","label":"지지됨","evidence":"the logical space of animate life","note":""},
+      {"n":5,"text":"바온: 증거·매개 판단 없이 느낌에서 바로 나와 참 추정","label":"지지됨","evidence":"flowing directly from the feeling","note":""},
+      {"n":6,"text":"캠벨 2020: 합리적 응답 능력으로서의 앎","label":"지지됨","evidence":"rationally respond to, or operate","note":""}
+    ],"sources_used":["_원자료/로컬/Integrating Transparency/KB_SEP_Self-Knowledge.md"],"sources_missing":[]},
+
+    {"id":"22e8a","voice":"종합","verdict":"지지됨","claims":[
+      {"n":0,"text":"신표현주의는 비트겐슈타인 표출 학설을 뿌리로 삼고 단언적 차원을 지킨다","label":"지지됨","evidence":"build neo-expressivism on this","note":""},
+      {"n":1,"text":"PI §244: 고통의 언어적 표현이 자연적 표현을 대체","label":"지지됨","evidence":"replaces the natural expression","note":""},
+      {"n":2,"text":"핀켈스타인 2003과 바온 2004가 신표현주의를 세운다","label":"지지됨","evidence":"Finkelstein … and Bar-On","note":""},
+      {"n":3,"text":"핀켈스타인: 단언적 차원을 부정한 적 없다","label":"지지됨","evidence":"never denied avowals an assertoric","note":""},
+      {"n":4,"text":"표현과 진리 적합성은 긴장하지 않는다","label":"지지됨","evidence":"not in tension","note":""},
+      {"n":5,"text":"단순 표현주의로 미끄러지지 말라는 경고","label":"지지됨","evidence":"If you slide to simple expressivism","note":""},
+      {"n":6,"text":"§244·§246 인용은 판본 대조 표시","label":"지지됨","evidence":"PI §244/§246 quotation","note":""}
+    ],"sources_used":["_원자료/로컬/Integrating Transparency/WITTGENSTEIN_AUSTIN_moves.md"],"sources_missing":[]},
+
+    {"id":"22f1","voice":"종합","verdict":"지지됨","claims":[
+      {"n":0,"text":"탐지로 보면 앎 귀속의 인칭 비대칭이 거꾸로 예측","label":"지지됨","evidence":"predicts the wrong person-asymmetry","note":""},
+      {"n":1,"text":"내 마음·네 마음 탐지는 같은 종류, 쉬움만 다름","label":"지지됨","evidence":"differing only in ease of access","note":""},
+      {"n":2,"text":"그러면 일인칭 문장이 쉬운 경우여야 한다","label":"지지됨","evidence":"paradigm easy case","note":""},
+      {"n":3,"text":"문법은 거꾸로: 둘째 문장은 제자리, 첫째가 어색","label":"지지됨","evidence":"Grammar delivers the reverse","note":""},
+      {"n":4,"text":"메모: 간격도 도구도 없어 탐지 관계가 못 된다","label":"지지됨","evidence":"no epistemic gap … no instrument","note":""},
+      {"n":5,"text":"반론: 너무 뻔해서 어색할 뿐","label":"지지됨","evidence":"I know I have hands","note":""},
+      {"n":6,"text":"응답: 뻔함은 군더더기만 예측, 인칭 축 못 예측","label":"지지됨","evidence":"redundancy, not impropriety","note":""},
+      {"n":7,"text":"끝까지 밀면 라이트식 결론, 기각에서 멈추라","label":"지지됨","evidence":"fastest route into Wright","note":""}
+    ],"sources_used":["_원자료/로컬/Integrating Transparency/WITTGENSTEIN_AUSTIN_moves.md"],"sources_missing":[]},
+
+    {"id":"22f2","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"비트겐슈타인에 따르면 나는 믿는다는 말은 내 상태에 빛을 비춘다","label":"지지됨","evidence":"throws light on my state","note":""},
+      {"n":1,"text":"PI 2부 §x 무어의 역설, 'believe falsely' 인용","label":"지지됨","evidence":"a verb meaning 'to believe falsely'","note":""},
+      {"n":2,"text":"메모: 부정합은 '나는 믿는다' 쓰임의 특징","label":"지지됨","evidence":"feature of the use of \"I believe\"","note":""},
+      {"n":3,"text":"'throws light'를 보고 없이 드러냄으로 읽는다","label":"지지됨","evidence":"manifests the state without reporting","note":""},
+      {"n":4,"text":"맥긴의 「Wittgenstein and Moore's Paradox」","label":"지지됨","evidence":"Marie McGinn … developed secondary","note":""},
+      {"n":5,"text":"끝까지 밀면 앎을 표현하는 단언이 아니라는 결론, 경고","label":"지지됨","evidence":"not a knowledge-expressing assertion","note":""}
+    ],"sources_used":["_원자료/로컬/Integrating Transparency/WITTGENSTEIN_AUSTIN_moves.md"],"sources_missing":[]},
+
+    {"id":"22g","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"모런은 말해 주기를 보증을 주는 일로 보고 이인칭 이유를 끌어낸다","label":"지지됨","evidence":"giving an assurance","note":""},
+      {"n":1,"text":"『The Exchange of Words』(2018)의 보증 견해","label":"지지됨","evidence":"Moran's assurance view","note":""},
+      {"n":2,"text":"말해 주기는 고유하게 이인칭적 이유를 낳는다","label":"지지됨","evidence":"distinctively second-personal reasons","note":""},
+      {"n":3,"text":"'complainant and complainee'로 묶는다","label":"지지됨","evidence":"complainant and complainee","note":""},
+      {"n":4,"text":"오스틴과 그라이스에게서 명시적으로 발전","label":"지지됨","evidence":"explicitly out of Austin (and Grice)","note":""},
+      {"n":5,"text":"증언 규범을 화자·청자 관계에서 찾는다","label":"지지됨","evidence":"binding speaker and audience","note":"바꿔 쓴 것으로 인정. 원전 미확인, 메모(서평 요약)에만 근거."}
+    ],"sources_used":["_원자료/로컬/Integrating Transparency/WITTGENSTEIN_AUSTIN_moves.md"],"sources_missing":[]},
+
+    {"id":"22g1","voice":"종합","verdict":"지지됨","claims":[
+      {"n":0,"text":"공언의 권위는 보증을 자기에게 돌린 경우로 읽을 수 있다","label":"지지됨","evidence":"reflexive case of the assurance","note":""},
+      {"n":1,"text":"증언 보증의 재귀적 경우, 나는 나에게 내 말을 준다","label":"지지됨","evidence":"I give myself, as it were, my word","note":""},
+      {"n":2,"text":"이인칭적 존중이라는 생각에 구체적 내용","label":"지지됨","evidence":"discharge B1's IOU","note":""},
+      {"n":3,"text":"오스틴이 허락한 전이와 같은 종류","label":"지지됨","evidence":"same transposition Austin already licenses","note":""},
+      {"n":4,"text":"증언은 타인, 공언은 자기 귀속이라는 차이를 드러내라","label":"지지됨","evidence":"Flag the transposition","note":""},
+      {"n":5,"text":"모런의 증언론으로 자기지식론을 보충, 화제 바꿈 반론에 답","label":"지지됨","evidence":"change-the-topic objection","note":""}
+    ],"sources_used":["_원자료/로컬/Integrating Transparency/WITTGENSTEIN_AUSTIN_moves.md"],"sources_missing":[]},
+
+    {"id":"22h1","voice":"문헌","verdict":"지지됨","claims":[
+      {"n":0,"text":"조현병의 과잉반성은 암묵적인 것이 대상으로 떠오르는 일","label":"지지됨","evidence":"tacit self-aspects thrust into object","note":"원문 미독, 독서 목록·대화 요약에 근거(카드가 밝힘)."},
+      {"n":1,"text":"2003년 논문, 조현병을 자기성 교란으로 보는 모형","label":"지지됨","evidence":"canonical ipseity-disturbance model","note":""},
+      {"n":2,"text":"과잉반성과 자기 촉발 감소로 이루어진다","label":"지지됨","evidence":"diminished self-affection","note":""},
+      {"n":3,"text":"사스는 폴라니 암묵지/초점지로 투명 매체의 불투명화 규정","label":"지지됨","evidence":"Polanyi의 암묵지/초점지 구별","note":"대화 속 설명 표시 있음"},
+      {"n":4,"text":"Paradoxes of Delusion(1994), 비트겐슈타인 유아론 비판","label":"지지됨","evidence":"a consciousness turned in upon itself","note":""},
+      {"n":5,"text":"푹스: 몸을 낯선 힘에 조종되는 데카르트적 기계로 경험","label":"지지됨","evidence":"Cartesian machine steered by alien","note":""}
+    ],"sources_used":["_원자료/로컬/Integrating Transparency/READING_Psychopathology-and-Transparency.md","_원자료/claude.ai/chats/2026-08-26_Apperception and psychopathology literature.md"],"sources_missing":["문헌/@SassParnas2003 (원문 미독, 확인 안 함)"]},
+
+    {"id":"22h1a","voice":"종합","verdict":"지지됨","claims":[
+      {"n":0,"text":"과잉반성은 모런의 언어로 강제된 이론적 태도로 옮길 수 있다","label":"지지됨","evidence":"(a)의 언어로 옮기면 강제된 이론적 태도","note":""},
+      {"n":1,"text":"모런: 권위는 숙고적 태도에서, 취할 수 없으면 소외","label":"지지됨","evidence":"숙고적 태도(deliberative stance)에서 나오고","note":""},
+      {"n":2,"text":"숙고적 태도를 고를 수 없어 자기 사고를 관찰 대상으로만","label":"지지됨","evidence":"관찰 대상으로만 마주하게 되는 상태","note":""},
+      {"n":3,"text":"독서 목록: 관찰자 태도로 밀려남, 탐지기·구경꾼 그림의 병리화","label":"지지됨","evidence":"forced off the transparent/tacit stance","note":""},
+      {"n":4,"text":"대화: 의지적·국소적 대 비자발적·전면적 불투명성","label":"지지됨","evidence":"의지적이고 국소적인가, 아니면 비자발적","note":"대화는 치료 논의에서 이 구별을 냄. 카드의 '이 대비' 연결은 허용 범위."}
+    ],"sources_used":["_원자료/claude.ai/chats/2026-08-26_Apperception and psychopathology literature.md","_원자료/로컬/Integrating Transparency/READING_Psychopathology-and-Transparency.md"],"sources_missing":[]},
+
+    {"id":"22h2","voice":"종합","verdict":"지지됨","claims":[
+      {"n":0,"text":"사고 주입은 소유와 저자성이 갈라지는 사례로 분석된다","label":"지지됨","evidence":"소유(ownership)와 저자성(agency)의 해리","note":""},
+      {"n":1,"text":"환자는 마음 안의 생각을 자기 것으로 여기지 않는다","label":"지지됨","evidence":"a thought … in their mind that is not","note":""},
+      {"n":2,"text":"독서 목록: 사고 수준 실패, 일인칭 권위로 가는 깨끗한 통로","label":"지지됨","evidence":"cleanest clinical wedge","note":""},
+      {"n":3,"text":"스티븐스·그레이엄 2000 소유와 저자성의 해리","label":"지지됨","evidence":"When Self-Consciousness Breaks","note":"대화 속 설명 표시 있음"},
+      {"n":4,"text":"갤러거 2004 행위주체감·소유감 구분","label":"지지됨","evidence":"sense-of-agency vs. sense-of-ownership","note":""},
+      {"n":5,"text":"보르톨로티·브룸 2009 소유와 저자성 짝","label":"지지됨","evidence":"ownership + authorship","note":""},
+      {"n":6,"text":"캠벨·갤러거 논쟁을 알아야 할 논쟁으로","label":"지지됨","evidence":"Campbell–Gallagher exchange","note":"카드 frontmatter sources는 빈 배열인데 출처 절에는 자료가 있음(카드 형식 점검 필요)."}
+    ],"sources_used":["_원자료/로컬/Integrating Transparency/READING_Psychopathology-and-Transparency.md","_원자료/claude.ai/chats/2026-08-26_Apperception and psychopathology literature.md"],"sources_missing":[]}
+  ]
+}

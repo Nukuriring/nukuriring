@@ -1,0 +1,62 @@
+{
+ "id": "22b",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "에반스에 따르면 믿음을 자기에게 귀속할 때 눈은 바깥 세계를 향한다",
+   "label": "지지됨",
+   "evidence": "directed outward — upon the world",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "내성 그림과 투명성 방법을 서로 반대되는 두 그림으로 나눈다",
+   "label": "지지됨",
+   "evidence": "two opposite pictures",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "내성은 안으로 향한 주의가 마음 상태를 알아차리게 하는 일",
+   "label": "지지됨",
+   "evidence": "inwardly directed attention",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "투명성 방법은 생각이 표상하는 세계의 상태를 내다본다",
+   "label": "지지됨",
+   "evidence": "looking outward, to the states of the world",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "에반스 인용과 1982: 225",
+   "label": "지지됨",
+   "evidence": "Evans (1982: 225)",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "셋째 세계대전 예: 같은 바깥 현상에 주의",
+   "label": "지지됨",
+   "evidence": "precisely the same outward phenomena",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "내성은 직접 대면·내감, 투명성은 경험주의 투명성·일부 행위자 이론의 중심",
+   "label": "지지됨",
+   "evidence": "Central to Acquaintance (3.1) and Inner Sense",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/KB_SEP_Self-Knowledge.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

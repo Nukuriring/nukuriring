@@ -1,0 +1,55 @@
+{
+ "id": "22e6",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "합리주의: 합리적 사고자임이 자기지식을 보장",
+   "label": "지지됨",
+   "evidence": "status as rational thinkers guarantees",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "행위자성 주장에 기대지 않아 행위자 이론과 구별",
+   "label": "지지됨",
+   "evidence": "independent of agency claims",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "슈메이커: 자기맹은 무어 역설 판단, 전달·협력 불가, 이방인",
+   "label": "지지됨",
+   "evidence": "regard themselves 'as a stranger'",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "구성주의: 상태에 있음이 부분적으로 그렇게 믿음",
+   "label": "지지됨",
+   "evidence": "partly consists in believing",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "스미시스 2019 인용(174)과 믿음 규정",
+   "label": "지지됨",
+   "evidence": "Rationality requires knowing what you",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "게르틀러가 남기는 두 과제",
+   "label": "지지됨",
+   "evidence": "Two challenges to rationalism",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/KB_SEP_Self-Knowledge.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

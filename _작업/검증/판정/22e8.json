@@ -1,0 +1,62 @@
+{
+ "id": "22e8",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "표현주의: 공언이 귀속하는 상태를 직접 표현",
+   "label": "지지됨",
+   "evidence": "directly express the states they ascribe",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "'나는 아프다'는 찡그림·'아야!'와 닮았고 공언이라 부른다",
+   "label": "지지됨",
+   "evidence": "resemble direct expressions",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "단순 표현주의는 참거짓 아님, 대부분 거부",
+   "label": "지지됨",
+   "evidence": "Most contemporary expressivists reject",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "직접성의 두 뜻",
+   "label": "지지됨",
+   "evidence": "Two senses of directness",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "핀켈스타인: 맹목적 인과와 다름, logical space",
+   "label": "지지됨",
+   "evidence": "the logical space of animate life",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "바온: 증거·매개 판단 없이 느낌에서 바로 나와 참 추정",
+   "label": "지지됨",
+   "evidence": "flowing directly from the feeling",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "캠벨 2020: 합리적 응답 능력으로서의 앎",
+   "label": "지지됨",
+   "evidence": "rationally respond to, or operate",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/KB_SEP_Self-Knowledge.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

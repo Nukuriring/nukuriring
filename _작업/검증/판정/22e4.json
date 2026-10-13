@@ -1,0 +1,62 @@
+{
+ "id": "22e4",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "바이른: 믿음 도식은 자기 검증적",
+   "label": "지지됨",
+   "evidence": "the schema is self-verifying",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "경험주의 투명성은 에반스 절차가 경험적 보증을 낳는다고 봄",
+   "label": "지지됨",
+   "evidence": "generate empirical justification",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "드레츠키: 지각적 앎, 자각에서 추론(1994: 264)",
+   "label": "지지됨",
+   "evidence": "a form of perceptual knowledge",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "페르난데스 우회 모형",
+   "label": "지지됨",
+   "evidence": "bypassing the first-order belief",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "바이른은 추론주의, 갈루아 도식 p ∴ I believe that p",
+   "label": "지지됨",
+   "evidence": "explicitly inferentialist",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "p의 정당화와 상관없이 참인 귀속이므로 자기 검증적",
+   "label": "지지됨",
+   "evidence": "regardless of whether p is justified",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "안전성으로 보증, 타인엔 신빙성 없어 비대칭 설명",
+   "label": "지지됨",
+   "evidence": "won't yield knowledge of others",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/KB_SEP_Self-Knowledge.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

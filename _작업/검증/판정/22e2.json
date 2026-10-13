@@ -1,0 +1,69 @@
+{
+ "id": "22e2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "슈메이커는 내감 이론이 자기맹을 허용한다는 이유로 거부",
+   "label": "지지됨",
+   "evidence": "a rational person could lack it",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "로크 'internal Sense'(II.1.iv)",
+   "label": "지지됨",
+   "evidence": "call'd internal Sense",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "암스트롱: 입력→표상 출력, 인과적이고 우연적",
+   "label": "지지됨",
+   "evidence": "causal and contingent",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "비대칭도 우연적, 타인 상태 텔레파시적 탐색 가능(1993: 124)",
+   "label": "지지됨",
+   "evidence": "telepathic scanning",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "큰 이점은 자연주의",
+   "label": "지지됨",
+   "evidence": "Chief benefit — naturalism",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "슈메이커 1994: 자기맹 귀결, 합리적 존재엔 불가능",
+   "label": "지지됨",
+   "evidence": "impossible in a rational creature",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "카인드 2003 반론",
+   "label": "지지됨",
+   "evidence": "doesn't say how awareness occurs",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "게르틀러: de dicto 가능, 슈메이커엔 de re 논제 필요",
+   "label": "지지됨",
+   "evidence": "de dicto truth … de re thesis",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/KB_SEP_Self-Knowledge.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

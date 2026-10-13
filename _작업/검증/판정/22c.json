@@ -1,0 +1,55 @@
+{
+ "id": "22c",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "게르틀러는 인식적 특권과 사회언어적 권위를 구별한다",
+   "label": "지지됨",
+   "evidence": "First-person privilege (epistemic) vs",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "일인칭 권위는 참이라는 추정을 누린다는 표지",
+   "label": "지지됨",
+   "evidence": "presumption of truth",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "흔히 비트겐슈타인에게 귀속되는 접근은 주로 사회언어적 관행",
+   "label": "지지됨",
+   "evidence": "primarily a matter of social-linguistic",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "'아니, 너는 그렇게 믿지 않아'는 보통 규범 오해",
+   "label": "지지됨",
+   "evidence": "(ordinarily) shows a misunderstanding",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "권위를 사회적 규범에 두므로 엄밀히 자기지식 논점이 아니다",
+   "label": "지지됨",
+   "evidence": "strictly speaking, not about self-knowledge",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "핀켈스타인·바온은 권위, 캠벨은 특권에 초점",
+   "label": "지지됨",
+   "evidence": "Finkelstein & Bar-On focus on",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Integrating Transparency/KB_SEP_Self-Knowledge.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
