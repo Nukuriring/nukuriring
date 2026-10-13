@@ -1,0 +1,70 @@
+{
+ "id": "21i4",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "핀니 사례에서 무엇이 변명되는지 밝혀야 변명 논쟁이 풀린다",
+   "label": "부분 지지",
+   "evidence": "Many disputes ... arise because we",
+   "note": "원문은 many disputes가 명시하지 않아서 생긴다고 할 뿐, 명시하면 논쟁이 풀린다고는 하지 않음. 제목이 일반화·강화함."
+  },
+  {
+   "n": 1,
+   "text": "핀니 사건 경과: 간호인, 왓킨스, 새 간호인의 질문, 화상 사망",
+   "label": "지지됨",
+   "evidence": "scalds Watkins to death",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "핀니 진술: I did not intend to turn the hot water",
+   "label": "지지됨",
+   "evidence": "I made a mistake in the tap",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "설시는 중과실과 사고의 구별에 달렸고 판결은 무죄",
+   "label": "지지됨",
+   "evidence": "Verdict: not guilty",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "판사는 변명어를 등가로 섞고 핀니는 정확한 부사를 씀(p.145)",
+   "label": "지지됨",
+   "evidence": "he uses different, and the correct, adverbs",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "Many disputes ... what is being excused (pp.148-49)",
+   "label": "지지됨",
+   "evidence": "what is being excused",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "한 행위가 여러 기술을 받음: 꼭지 틀기, 데게 함(p.149)",
+   "label": "지지됨",
+   "evidence": "turning on the hot tap, ... scalding Watkins",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "변명 문제와 행위 기술 문제가 묶여 있고 단계, 국면, 범위로 나눔",
+   "label": "지지됨",
+   "evidence": "bound up with each other",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md",
+  "문헌/@Austin1956 A Plea for Excuses.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

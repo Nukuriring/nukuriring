@@ -1,0 +1,71 @@
+{
+ "id": "21j1",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "인간의 능력은 본래 이유 없이 실패할 수 있다",
+   "label": "지지됨",
+   "evidence": "inherently liable not to produce succ",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "짧은 퍼트: 시도했고 놓쳤으므로 시도했다면으로 풀 수 없다",
+   "label": "지지됨",
+   "evidence": "I did try, and missed",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "There is the rub (1956a: 218 각주 1)",
+   "label": "지지됨",
+   "evidence": "There is the rub",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "할 수 있었다는 어떤 ~했다면 했을 것이다로도 옮겨지지 않는다",
+   "label": "지지됨",
+   "evidence": "≠ any 'I would have, if…'",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "can이라는 낱말에 담긴 믿음에 따르면 능력은 inherently liable...",
+   "label": "부분 지지",
+   "evidence": "a human ability or power or capacity",
+   "note": "인용문은 맞으나 'can이라는 낱말에 담긴 믿음'이라는 틀은 정독·강독 노트에 없음(grep: belief, embod). 노트는 오스틴 본인의 주장으로만 적음."
+  },
+  {
+   "n": 5,
+   "text": "정독 노트는 SEP 3.1 판단 능력의 오류 가능성과 같은 구조라 적는다",
+   "label": "지지됨",
+   "evidence": "Same structure as the inherently-fallible",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "결정론적 설명이 있다면 넣을 수 없었을 것; 비양립론 쪽으로 기운다",
+   "label": "지지됨",
+   "evidence": "looks incompatible with determinism",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "가림(masking): 조건 분석은 모든 가림을 순환 없이 명시해야 해 불가능",
+   "label": "지지됨",
+   "evidence": "specify all possible masks non-circularly",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Austin1956b Ifs and Cans.md",
+  "문헌/@Longworth SEP John Langshaw Austin.md",
+  "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

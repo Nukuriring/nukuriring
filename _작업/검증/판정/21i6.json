@@ -1,0 +1,63 @@
+{
+ "id": "21i6",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "낱말에 묻힌 모형들이 하나의 체계로 맞아떨어질 필요가 없다",
+   "label": "지지됨",
+   "evidence": "no necessity whatsoever",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "낱말은 어원을 떨쳐 내지 못함: accident, mistake, deliberately(p.150)",
+   "label": "지지됨",
+   "evidence": "in an accident something befalls",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "가장 원시적 모형은 스스로 돌을 미는 단순한 행위",
+   "label": "지지됨",
+   "evidence": "very simple action, like shoving a stone",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "causing 관념, 원시인의 해석, even to Hume and Kant(pp.150-51)",
+   "label": "지지됨",
+   "evidence": "As happened even to Hume",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "겹치고 충돌하는 이질적 모형이 많을 것(p.151)",
+   "label": "지지됨",
+   "evidence": "overlapping, conflicting, ... disparate",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "각주: right, good도 정합적 체계 가정 이유 없음, amalgam 질문",
+   "label": "지지됨",
+   "evidence": "the Good Life for Man?",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "강독 노트는 진리, 자유, 앎을 쓰임의 가족으로 보는 다원론으로 읽는다",
+   "label": "지지됨",
+   "evidence": "pluralism — Austin's standing refusal",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md",
+  "문헌/@Austin1956 A Plea for Excuses.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

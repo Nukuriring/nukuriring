@@ -1,0 +1,71 @@
+{
+ "id": "21i1",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "표준적인 행위에는 수식어가 필요하지도 허용되지도 않는다",
+   "label": "지지됨",
+   "evidence": "no modifying expression is required",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "어떤 수식어 M에 대해서든 물을 수 있다는 그림은 그럴듯",
+   "label": "지지됨",
+   "evidence": "The tempting picture",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "대부분의 경우 이 그림이 거짓, 표준 사례에 수식어 불필요(p.138)",
+   "label": "지지됨",
+   "evidence": "in the great majority of cases",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "이탈할 때에만 수식어가 필요해지거나 허용된다",
+   "label": "지지됨",
+   "evidence": "Only a deviation ... calls one forth",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "잠자리 하품 예: just not to just yawn(p.138)",
+   "label": "지지됨",
+   "evidence": "To yawn in any such peculiar way",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "murder 같은 징조 동사만 표준 사례가 없는 예외",
+   "label": "부분 지지",
+   "evidence": "not, perhaps, a verb of omen",
+   "note": "원문은 perhaps로 한정하고 murder를 예로 든 것('such as')인데 카드는 '만 예외'로 단정함."
+  },
+  {
+   "n": 6,
+   "text": "부정형 말이 이상을 표시하고 긍정형은 암시를 배제(p.140)",
+   "label": "지지됨",
+   "evidence": "commonly enough the 'negative'",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "강독 노트는 이 원리를 문법적 엔진으로 읽고 의자 예는 잘못 형성된 물음",
+   "label": "지지됨",
+   "evidence": "grammatical engine of the whole essay",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md",
+  "문헌/@Austin1956 A Plea for Excuses.md",
+  "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

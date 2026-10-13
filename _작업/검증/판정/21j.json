@@ -1,0 +1,72 @@
+{
+ "id": "21j",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "오스틴은 can을 숨은 조건문으로 분석하는 무어의 시도를 거부한다",
+   "label": "지지됨",
+   "evidence": "Austin rejects Moore (1912)",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "Ifs and Cans는 can이 본래 조건적인가를 두 답으로 검토",
+   "label": "지지됨",
+   "evidence": "ARE cans constitutionally iffy?",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "무어는 선택했다면 할 수 있었다에서 했을 것이다로 미끄러짐",
+   "label": "지지됨",
+   "evidence": "the slide from 'I could have if",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "정독 노트는 노웰스미스(1954)를 같은 분석의 대표로 든다",
+   "label": "지지됨",
+   "evidence": "Moore (1912)/Nowell-Smith (1954)",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "S can A는 선택하면, 시도하면 A할 것과 같지 않다",
+   "label": "지지됨",
+   "evidence": "'S can A' ≠ 'S will A if S chooses'",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "I can if I choose의 if는 인과 조건문의 if와 다르다(숨찬 예)",
+   "label": "지지됨",
+   "evidence": "≠ 'If I run, I pant'",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "자유도 진리처럼 차원어; 달리 할 수 없었다는 일반적 변명",
+   "label": "지지됨",
+   "evidence": "general excuse",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "그때 X를 할 수 있었다는 상황 양립을 요구하고 결정론은 이를 부정하는 듯",
+   "label": "지지됨",
+   "evidence": "which determinism ... appears to deny",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Austin1956b Ifs and Cans.md",
+  "문헌/@Longworth SEP John Langshaw Austin.md",
+  "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md",
+  "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,56 @@
+{
+ "id": "20c5a",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "정의가 건전한 인간 실천이성의 일부라면 큰 물음이 해소된다고 본다",
+   "label": "부분 지지",
+   "evidence": "It will perhaps be impossible",
+   "note": "원문 마지막 문장은 perhaps로 한정하는데 제목과 본문 해소 서술은 단정으로 적음(본문 첫 문장에는 '불가능할 수도'가 남아 있음)."
+  },
+  {
+   "n": 1,
+   "text": "마지막 문장: 도덕과 합리성을 떼어 놓는 일이 불가능할 수도 있다",
+   "label": "지지됨",
+   "evidence": "It will perhaps be impossible",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "큰 물음은 도덕과 합리성을 분리할 수 있다는 전제 위에서 성립",
+   "label": "지지됨",
+   "evidence": "떼어 놓을 수 있다는 전제 위에서만",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "아리스토텔레스적 자연주의에서 정의는 건전한 실천이성의 일부; 틈이 없다",
+   "label": "지지됨",
+   "evidence": "사이에 틈이 없습니다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "이 귀결은 반칸트적이고 반흄적이다",
+   "label": "지지됨",
+   "evidence": "반(反)칸트적·반(反)흄적 귀결",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "도덕은 이성 바깥이 아니라 이성적이라는 것의 일부이며 우리가 무엇인지에 결부",
+   "label": "지지됨",
+   "evidence": "이성적이라는 것의 일부",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Thompson2008 Life and Action.md",
+  "_원자료/claude.ai/chats/2026-06-03_글 설명 요청.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

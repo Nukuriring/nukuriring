@@ -1,0 +1,72 @@
+{
+ "id": "21i",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "변명을 연구하여 행위의 기계 장치를 드러내고 자유를 평가의 차원으로 본다",
+   "label": "지지됨",
+   "evidence": "name of a dimension in which actions",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "변명의 현장 연구로 자유와 의지의 문제에 접근",
+   "label": "지지됨",
+   "evidence": "field study of excuses",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "정당화는 나쁨을 부인, 변명은 온전히 자기 것임을 다툼",
+   "label": "지지됨",
+   "evidence": "justification owns the act but denies",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "변명은 blinding veil을 꿰뚫고 어긋난 지점을 표시",
+   "label": "지지됨",
+   "evidence": "penetrate the blinding veil",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "기제 단계: 정보, 상황 파악, 원칙, 계획, 실행 통제; 변명마다 다른 단계",
+   "label": "지지됨",
+   "evidence": "different excuses target different stages",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "free는 real처럼 반대말을 배제; freedom은 평가 차원의 이름; truth도 같다",
+   "label": "지지됨",
+   "evidence": "only used to rule out ... antitheses",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "변명들을 연구하면 자유의 문제는 해소된다",
+   "label": "지지됨",
+   "evidence": "problem of Freedom dissolves",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "강독 노트는 Truth(1950)에서 예고된 평행으로 읽는다",
+   "label": "지지됨",
+   "evidence": "foreshadowed in Truth (1950)",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers.md",
+  "_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트.md",
+  "문헌/@Austin1956 A Plea for Excuses.md",
+  "문헌/@Longworth SEP John Langshaw Austin.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,70 @@
+{
+ "id": "21g3",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "샤피로에 따르면 행위는 그만둘 수 없는 일반적 실천 안의 지위이다",
+   "label": "지지됨",
+   "evidence": "a game you can't walk away from",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "롤스는 실천을 게임의 일반화로 보고 지위, 기준, 이유를 들여온다고 논함",
+   "label": "지지됨",
+   "evidence": "a practice generalizes a game",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "샤피로는 행위를 완전히 일반적인 실천 안의 지위로 봄; 밀그램은 인텐도라 부름",
+   "label": "지지됨",
+   "evidence": "Millgram dubs the generic practice Intendo",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "인텐도 바깥의 실천적 이유는 없고 기준(보편화 가능성)은 모든 이유에 적용",
+   "label": "지지됨",
+   "evidence": "then all reasons must meet it",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "자유의 양상은 베이스를 거꾸로 돈 주자에 대한 can이다",
+   "label": "지지됨",
+   "evidence": "ran the bases backwards",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "칸트적 결론이 구속력을 가지려면 인텐도는 그만둘 수 없는 게임이어야 함",
+   "label": "지지됨",
+   "evidence": "Intendo must be a game you can't walk",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "문 앞의 살인자: 게임을 거부하면 정직은 둘 수 있는 수에서 빠짐",
+   "label": "지지됨",
+   "evidence": "honesty ... not an available move",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "그만둘 수 없어 따라야 한다는 요구와 살인자는 그만두었다는 허용의 긴장이 미해명",
+   "label": "지지됨",
+   "evidence": "The resulting tension is exact",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Millgram SEP Practical Reason and the Structure of Actions.md",
+  "_원자료/claude.ai/chats/2026-06-10_Understanding SEP entry walkthrough.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
