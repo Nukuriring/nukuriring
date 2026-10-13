@@ -1,0 +1,55 @@
+{
+ "id": "58i1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "초록색 사례에서 불일치 지점은 무엇이 초록으로 간주되는가 하나",
+   "label": "지지됨",
+   "evidence": "only in regard to what is to count as green",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "세계·문장 유형 뜻·자기 낱말 뜻엔 불일치하지 않음",
+   "label": "지지됨",
+   "evidence": "not about how the world is, or what the sentence type means",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "이것이 문장 토큰에 부여할 진리값을 고정",
+   "label": "지지됨",
+   "evidence": "fixes the truth value they would assign",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "참은 사실·언어적 의미뿐 아니라 술어 충족 판단에도 달림",
+   "label": "지지됨",
+   "evidence": "on how we judge what counts as the predicate",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "모든 상황이 이와 같다: 말함은 대립적 해석을 암묵적으로 배제",
+   "label": "지지됨",
+   "evidence": "Every situation, though, is precisely like this",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "진리의 일반성은 차이를 무시하게 하면서 두드러지게도 한다",
+   "label": "지지됨",
+   "evidence": "also allows us to make such differences salient",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Mc_moral imperatives 35697…md (27-31행)"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

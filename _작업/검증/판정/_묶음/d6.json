@@ -1,0 +1,293 @@
+{
+  "model": "sonnet",
+  "date": "2026-10-13",
+  "cards": [
+    {
+      "id": "61p10", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "수반 논증은 증거의 외재성과 합리성의 수반 사이의 긴장 / 윌리엄슨은 배드 스미스를 인지적으로 무고하다고 본다", "label": "지지됨", "evidence": "비합리적이지만, 인지적으로 무고하다", "note": ""},
+        {"n": 1, "text": "증거는 마음 외적 사실에 의존 vs 합리성은 마음에 수반하는 긴장", "label": "지지됨", "evidence": "이 두 생각 사이에 긴장 관계가 있다", "note": ""},
+        {"n": 2, "text": "합리성이 내적 속성으로만 결정되면 증거의 외적 의존을 설명해야", "label": "지지됨", "evidence": "어떻게 합리성이 마음 외적인 사안에 의존", "note": ""},
+        {"n": 3, "text": "굿 스미스는 실제로 숨음, 배드 스미스는 조작", "label": "지지됨", "evidence": "누가 실제로 숨지는 않았는데 조작", "note": ""},
+        {"n": 4, "text": "내적 복제물이므로 수반하면 둘 다 합리적이어야", "label": "지지됨", "evidence": "합리성이 마음에 수반한다면 둘 다 합리적", "note": ""},
+        {"n": 5, "text": "배드 스미스는 증거가 없어 믿을 이유가 없어 보인다", "label": "지지됨", "evidence": "믿을 이유가 없는 것 같다", "note": ""},
+        {"n": 6, "text": "윌리엄슨: 굿은 정당·앎, 배드는 정당하지 않고 앎 가능성 없음", "label": "지지됨", "evidence": "지식의 가능성이 애초에 허락되지 않는다", "note": ""},
+        {"n": 7, "text": "배드 스미스는 비합리적이나 굿과 같은 의미에서 무고, 공유 속성 있음", "label": "지지됨", "evidence": "굿 스미스와 같은 의미에서 무고하다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/Untill 2025/철학/분석철학/인식론 연습 5월 12일 3b4fd…md"],
+      "sources_missing": []
+    },
+    {
+      "id": "61p11", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "백업 관점에서 외관과 사실이 같은 힘이면 사실성이 일을 못하고 이중 계산", "label": "지지됨", "evidence": "이중 카운팅이다", "note": ""},
+        {"n": 1, "text": "키제베터: 배드 스미스의 현상적 상태·시각 지각도 동등하게 강한 이유", "label": "지지됨", "evidence": "동등하게 강력한 이유를 제공한다", "note": ""},
+        {"n": 2, "text": "필기는 사실과 외관이 어떻게 같은 힘의 증거인지 묻는다", "label": "지지됨", "evidence": "어떻게 같은 힘의 증거를 제공하는가?", "note": ""},
+        {"n": 3, "text": "일인칭 식별 불가는 성격 평가일 수 있어도 외관 배후 사실이 더 강력해 보인다", "label": "지지됨", "evidence": "외관 배후의 사실이 힘이 더 강력한 것 같아", "note": ""},
+        {"n": 4, "text": "브룸은 밀어붙일 수 있다: 증거의 사실성이 아무 역할도 않는다", "label": "지지됨", "evidence": "브룸이 밀어 붙힐 수는 있을 것 같다", "note": ""},
+        {"n": 5, "text": "사실까지 증거로 세는 것은 별도 사실이 아니므로 이중 계산", "label": "지지됨", "evidence": "완전히 별도의 사실이 아니기 때문이다", "note": ""},
+        {"n": 6, "text": "브룸 「Rationality vs. Normativity」: 합리성은 마음에, 규범성은 마음에만은 아님", "label": "지지됨", "evidence": "규범성은 마음에만 달려 있지는 않다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/인식론 연습 5월 12일 3b4fd…md", "문헌/@Kiesewetter2017 The Normativity of Rationality.md", "문헌/@Broome2013 Rationality Through Reasoning.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "61p12", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "굿 스미스에게만 가능한 추론 사례는 일인칭인지 객관적 상황인지를 묻는다", "label": "지지됨", "evidence": "일인칭적인 관점만이 중요한가", "note": ""},
+        {"n": 1, "text": "두 정보: 주변에 있으면 살인자 / 먼 도시 발견 제보", "label": "지지됨", "evidence": "살인자가 다른 먼 도시에서 발견되었다", "note": ""},
+        {"n": 2, "text": "굿 스미스는 추론으로 새 지식, 제보를 기각하고 믿는 것이 합리적", "label": "지지됨", "evidence": "믿는 것은 합리적이지만", "note": ""},
+        {"n": 3, "text": "배드 스미스는 추론이 앎을 낳는다는 보장 없고 기각할 권리 없음", "label": "지지됨", "evidence": "기각하고 ... 믿을 권리가 없다", "note": ""},
+        {"n": 4, "text": "일인칭은 같지만 삼인칭 평가에서는 굿만 믿을 만하다", "label": "지지됨", "evidence": "굿 스미스는 그럴 만 하고", "note": ""},
+        {"n": 5, "text": "예외 처리하면 합리성이 마음에 수반하지 않는다고 인정", "label": "지지됨", "evidence": "합리성이 마음에 수반하지 않는다는 것을 인정", "note": ""},
+        {"n": 6, "text": "필기: 추가 데이터가 가장 현실적, 사실적 관점 거부 또는 차이 인정 택일", "label": "지지됨", "evidence": "거부하든지, 아니면 둘 사이에 차이가 있다든지", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/인식론 연습 5월 12일 3b4fd…md", "문헌/@Kiesewetter2017 The Normativity of Rationality.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "61p13", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "백업 관점의 약한 판본과 로드의 균형 논변은 혼합 사례에서 시험받는다", "label": "지지됨", "evidence": "Mixed case: 사탄이 부분적으로만 속이고", "note": ""},
+        {"n": 1, "text": "키제베터: 배드 스미스의 현상적 관점이 굿과 정확히 같은 힘", "label": "지지됨", "evidence": "정확히 동일한 힘을 지닌다", "note": ""},
+        {"n": 2, "text": "굿 증거가 더 강할 수 있으나 합리성 판정은 같고 이유 세기만 다름", "label": "지지됨", "evidence": "합리적인지 아닌지는 동일하지만, 이유의 세기는 다르다", "note": ""},
+        {"n": 3, "text": "로드: 지지 이유도 반대 이유도 약해 균형상 똑같이 합리적", "label": "지지됨", "evidence": "이유들의 밸런스를 따져보면 똑같이 합리적", "note": ""},
+        {"n": 4, "text": "필기는 부분적 속임의 혼합 사례로 반론한다", "label": "지지됨", "evidence": "Mixed case: 사탄이 부분적으로만 속이고", "note": ""},
+        {"n": 5, "text": "연못 아이: 구할 결정적 이유로 뛰어드는 것이 합리적, 배드도 마찬가지", "label": "지지됨", "evidence": "그래도 ... 뛰어들어야만 하는 것은 맞다", "note": ""},
+        {"n": 6, "text": "혼합 스미스: 약속 실재 아이 환각, 약속 이유가 더 강할 수 있음", "label": "지지됨", "evidence": "약속을 지킬 이유가 ... 더 강할 수가 있다", "note": ""},
+        {"n": 7, "text": "직관상 뛰어드는 게 합리적, 동등한 이유 부정하면 설명 못함", "label": "지지됨", "evidence": "설명할 수 없게 되는 것이다", "note": ""},
+        {"n": 8, "text": "키제베터는 동등한 이유 주장 + 사실함축성 보존의 임무", "label": "지지됨", "evidence": "이유들이 사실함축적이라는 주장을 보존", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/인식론 연습 5월 12일 3b4fd…md", "문헌/@Kiesewetter2017 The Normativity of Rationality.md", "문헌/@Lord2018 The Importance of Being Rational.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "61p14", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "유일성 함의와 주목 조건의 시간적 허점은 수정 논제에 남은 물음", "label": "지지됨", "evidence": "주목을 한 시점에만 잠깐 동안 비합리적", "note": ""},
+        {"n": 1, "text": "이론적 합리성(충분한 증거+주목→요구)은 유일성을 함축하는 듯하다", "label": "지지됨", "evidence": "유일성 논제를 받아들이기 그렇게 어렵지는 않다", "note": "필기가 TR과 유일성을 나란히 적고 근거-결론으로 잇는 것을 카드가 정리함."},
+        {"n": 2, "text": "키제베터는 허용과 요구를 이유로 이해하므로 허용된 반응이 곧 요구", "label": "지지됨", "evidence": "permission, requirement를 키제베터는 이유로 이해", "note": ""},
+        {"n": 3, "text": "충분한 이유→결정적 이유에 반례: 양립론 믿음/유보", "label": "지지됨", "evidence": "양립론이 참이라고 믿을 수 있지만 ... 유보", "note": ""},
+        {"n": 4, "text": "스펙트럼 그림에서 경합하면 어느 쪽도 믿지 않아야, 유일성 수용 어렵지 않음", "label": "지지됨", "evidence": "p와 -p을 믿을 증거들이 경합하는 경우", "note": ""},
+        {"n": 5, "text": "넬슨의 풍부성 반론에 키제베터가 주목 조건을 더해 답함", "label": "지지됨", "evidence": "키제베터는 주목 조건을 추가한다", "note": ""},
+        {"n": 6, "text": "주의를 거두면 믿음 없이도 합리적일 수 있어 반론을 넘지 못하는지 묻는다", "label": "지지됨", "evidence": "넬슨의 반론을 궁극적으로 극복을 하지 못하게", "note": ""},
+        {"n": 7, "text": "주목하는 순간에만 잠깐 비합리적이라 해야 하는지도 물음", "label": "지지됨", "evidence": "주목을 한 시점에만 잠깐 동안 비합리적", "note": ""},
+        {"n": 8, "text": "통시적 관점 미고려 시 지연 문제에 빠질 수 있다는 지적과 이어진다", "label": "지지됨", "evidence": "딜레이 문제에 빠질 수가 있다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/인식론 연습 5월 12일 3b4fd…md", "문헌/@Kiesewetter2017 The Normativity of Rationality.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "61p15", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "지님 관점은 심적 상태 없는 사실도 합리성에 영향 준다는 사례로 반박", "label": "지지됨", "evidence": "(C) 지님 관점은 거짓이다", "note": ""},
+        {"n": 1, "text": "지님 관점: 이유를 내용으로 갖는 심적 상태를 지닐 때만 소유", "label": "지지됨", "evidence": "R을 내용으로 갖는 심적 상태를 지닐 경우에만", "note": ""},
+        {"n": 2, "text": "키제베터는 소유를 한정하는 것으로 보이므로 받아들일 것이고, 태도를 가져야 유효하다고 말할 것", "label": "부분 지지", "evidence": "받아들일 것처럼 보인다", "note": "필기는 결론도 '받아들일 것처럼 보인다'로 한정하는데 카드는 '받아들일 것이고'로 단정함. 한정어 '처럼 보인다' 누락."},
+        {"n": 3, "text": "로드의 반대 논증 P1, P2, 결론", "label": "지지됨", "evidence": "(P2) ... 합리성에 영향을 미칠수있다", "note": ""},
+        {"n": 4, "text": "P2 근거 사례 Out of the Ordinary, 화장실 샘; 부주의함과 비합리성의 관계", "label": "지지됨", "evidence": "Out of the Ordinary, Sam the bathroom seeker", "note": ""},
+        {"n": 5, "text": "접근 가능한 추가 데이터에 접근 않는 사람은 비합리적이지 않은가", "label": "지지됨", "evidence": "그것에 접근하지 않는 경우에는 근데 비합리적이지 않은가", "note": ""},
+        {"n": 6, "text": "지구 평평론자는 비합리적 판단 가능, 잡지 독자는 주목 계기 여부가 변수", "label": "지지됨", "evidence": "컨텐츠에 주목할 계기를 제공하는 사건인가", "note": ""},
+        {"n": 7, "text": "바로잡는 방법은 접근 가능한 정보를 데이터에 추가, 합리적 경로 반론으로 이어질 수", "label": "지지됨", "evidence": "합리적 경로 반론을 생각해볼 수 있을 것", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/인식론 연습 5월 12일 3b4fd…md", "문헌/@Lord2018 The Importance of Being Rational.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "61p19", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "규범적 성취 설명이 인과적이면 미래 사실을 이유로 드는 행위 설명이 어려워진다", "label": "지지됨", "evidence": "미래 사실 같은 경우에는 문제가 되는 것 같다", "note": ""},
+        {"n": 1, "text": "수업 참가자의 반론: 4시 반 공지, 실제 4시 시작", "label": "지지됨", "evidence": "4시 반이라고 메일을 보냈는데 ... 4시에 시작", "note": ""},
+        {"n": 2, "text": "4시로 믿고 가는 건 비합리적이나 4시에 열리면 참인 이유로 가는 셈", "label": "지지됨", "evidence": "4시에 열린다면, 참인 이유 때문에 가고 있다", "note": ""},
+        {"n": 3, "text": "미래 명제의 참이 행위에 영향 못 주고 믿음에만 역할 있어 보인다", "label": "지지됨", "evidence": "온전히 내 믿음에만 역할이 있는 것 아닌가", "note": ""},
+        {"n": 4, "text": "규범적 성취 설명은 합리화이면서 인과적인 것 같다", "label": "지지됨", "evidence": "합리화하는 설명이면서 동시에 인과적인 설명인 것 같다", "note": ""},
+        {"n": 5, "text": "인과적이라 가정하면 미래 사실이 문제", "label": "지지됨", "evidence": "미래 사실 같은 경우에는 문제가 되는 것 같다", "note": ""},
+        {"n": 6, "text": "비 올 것을 알아 우산 사기, 근육이 생길 것이니 운동: 같은 문제", "label": "지지됨", "evidence": "미래에 근육이 생길 것이니까", "note": ""},
+        {"n": 7, "text": "미래를 알 수 없다 하면 해소되나 극단적, 기대라는 심적 사실은 심리적 설명", "label": "지지됨", "evidence": "너무 극단적 / 심리적 설명 아닌가", "note": ""},
+        {"n": 8, "text": "규범적/동기부여적 이유 구별, 이유 설명이 인과적이지 않을 가능성을 묻는다", "label": "지지됨", "evidence": "그것이 인과적인 설명이 아니라면?", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/인식론 연습 5월 12일 3b4fd…md", "문헌/@Lord2018 The Importance of Being Rational.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "52e9", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "정체성의 기능: 개인 5가지, 사회 6가지", "label": "지지됨", "evidence": "개인 차원 5행, 사회 차원 6행 표", "note": ""},
+        {"n": 1, "text": "정체성이 무엇을 하는가라는 기능 중심 관점", "label": "지지됨", "evidence": "What does identity do? ― 기능 중심 관점", "note": ""},
+        {"n": 2, "text": "개인: 지향·위치, 의미 부여·일관성, 행동 스크립트, 존엄, 행동 동원", "label": "지지됨", "evidence": "타인의 인정이 매개된 긍지", "note": ""},
+        {"n": 3, "text": "사회: 경계, 통치, 분배, 연대·동원, 기억, 배제", "label": "지지됨", "evidence": "정책 라우팅 기준", "note": ""},
+        {"n": 4, "text": "각 기능마다 고장 사례를 곁들인다", "label": "지지됨", "evidence": "고장 (기능 상실) 사례 열", "note": ""},
+        {"n": 5, "text": "고장 트리거 여섯: 경계 격변 ... 스토리 라인 붕괴", "label": "지지됨", "evidence": "스토리 라인 붕괴", "note": ""},
+        {"n": 6, "text": "기능마다 핵심 매개체 대응, 정체성의 실체는 매개 인프라 묶음", "label": "지지됨", "evidence": "정체성의 실체 = 여러 층의 매개 인프라 묶음", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/사회철학연습/정체성에 대한 기능주의 1e497…md"],
+      "sources_missing": []
+    },
+    {
+      "id": "52e9a", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "콩의 현현·재생산·변혁적 저항을 매개체의 세 국면에 대응", "label": "지지됨", "evidence": "Kong의 구분 | 정체성 기능·매개체", "note": ""},
+        {"n": 1, "text": "현현: 경계·분류 인프라가 낙인과 규율 부여, 예시 셋", "label": "지지됨", "evidence": "경계·분류 인프라가 부여하는 낙인과 규율", "note": ""},
+        {"n": 2, "text": "재생산: 생존 전략으로 억압적 매개체를 길들임, 순응이 편향 고착", "label": "지지됨", "evidence": "시스템 편향을 고착시킨다", "note": ""},
+        {"n": 3, "text": "변혁적 저항: 같은 매개체를 재구성·가로채 새 동원·수리로", "label": "지지됨", "evidence": "재구성·가로채어 새로운 동원·수리로 전환", "note": ""},
+        {"n": 4, "text": "세 국면이 정체성을 부여된 틀, 순응적 보호막, 수선·재설계 대상으로 보게 함", "label": "지지됨", "evidence": "수선·재설계하여 억압 인프라를 비틀고", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/사회철학연습/정체성에 대한 기능주의 1e497…md"],
+      "sources_missing": []
+    },
+    {
+      "id": "52e9b", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "스타와 루들러의 인프라 일곱 특성이 정체성에도 적용된다", "label": "부분 지지", "evidence": "거의 그대로 들어맞는다", "note": "원문은 '적용할 수 있다. 다만 정체성을 사회-기술적 장치로 보아야 논리가 성립'이라는 조건과 '거의'를 붙임. 카드는 조건 없이 '적용된다'로 씀."},
+        {"n": 1, "text": "일곱 특성 목록", "label": "지지됨", "evidence": "정치성 & 가치 내포", "note": ""},
+        {"n": 2, "text": "내재성: 교육·노동·가족·병원 서류·플랫폼 프로필에 묻힘", "label": "지지됨", "evidence": "수많은 제도 안에 깊숙이 묻혀 작동", "note": ""},
+        {"n": 3, "text": "투명성: 순조로우면 의식 못하다 차별과 부딪혀야 인식", "label": "지지됨", "evidence": "차별에 부딪혀야 비로소 존재를 인식", "note": ""},
+        {"n": 4, "text": "도달 범위·학습과 상속·표준화의 대응", "label": "지지됨", "evidence": "규약화된 필드가 정체성을 기계적으로 호출", "note": ""},
+        {"n": 5, "text": "고장 시 가시화와 정치성·가치의 대응", "label": "지지됨", "evidence": "권력과 가치 판단이 새겨진다", "note": ""},
+        {"n": 6, "text": "설득력 이유 셋: 배관, 고장·수리 패턴, 비물질 인프라 선례", "label": "지지됨", "evidence": "비(非)물질적 인프라도 연구 대상", "note": ""},
+        {"n": 7, "text": "억압은 배관 설계 문제, 해방은 수리·재배치로 사유할 여지", "label": "지지됨", "evidence": "사유할 여지를 열어 준다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/사회철학연습/정체성에 대한 기능주의 1e497…md"],
+      "sources_missing": []
+    },
+    {
+      "id": "52e9c", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "고장이 일상을 무너뜨리면 우려 그룹, 진단·전유·구조 수리 세 단계", "label": "지지됨", "evidence": "고장 진단 / 집단 전유 / 구조-수리", "note": ""},
+        {"n": 1, "text": "한국 퀴어 정체성: 법·기술·장소·의례·데이터가 엮인 복합 장치", "label": "지지됨", "evidence": "법·기술·장소·의례·데이터로 엮인 복합 장치", "note": ""},
+        {"n": 2, "text": "여섯 기능과 매개체 예시", "label": "지지됨", "evidence": "카카오 오픈채팅", "note": ""},
+        {"n": 3, "text": "고장 사건 넷: 코로나 실명 보도, 군형법 앱 추적, 광장 불허, 차별금지법 지연", "label": "지지됨", "evidence": "차별금지법 15년 지연", "note": ""},
+        {"n": 4, "text": "고장은 체감 위기를 낳고 정체성 범주 축으로 우려 그룹 조직", "label": "지지됨", "evidence": "정체성 범주를 축으로 우려 그룹이 형성", "note": ""},
+        {"n": 5, "text": "매크로 수리: 매개체 재전유, 법·제도·기술 규격 수정", "label": "지지됨", "evidence": "정체성이 수행하던 기능 회복·확장", "note": ""},
+        {"n": 6, "text": "우려 그룹의 목표는 정체성 수리가 아니라 인프라 재설계", "label": "지지됨", "evidence": "정체성이 일상을 구성하던 기술·법·공간 인프라를 재설계", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/사회철학연습/정체성에 대한 기능주의 1e497…md"],
+      "sources_missing": []
+    },
+    {
+      "id": "52e9d", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "인프라 없던 집단에도 고장·우려·수리 궤적, 억압 인프라는 음의 기능, 음→영→양", "label": "지지됨", "evidence": "‘–(음) → 0 → +(양)’의 이동", "note": ""},
+        {"n": 1, "text": "인프라가 갖추어진 뒤에만 작동한다는 반론, 1960년대 이전 흑인", "label": "지지됨", "evidence": "공간 지도도, 프라이드 축제도 없었다", "note": ""},
+        {"n": 2, "text": "첫째: 정체성은 삶을 짜는 형식, 부재·배제·감시도 기능", "label": "지지됨", "evidence": "부재·배제·감시 역시 기능", "note": ""},
+        {"n": 3, "text": "둘째: 민권운동·스톤월·장애 해방은 음수 기능을 영·양수로", "label": "지지됨", "evidence": "0(중립)으로 되돌리거나, 나아가 + 기능", "note": ""},
+        {"n": 4, "text": "셋째: 고장은 혜택 끊김과 억압 인프라 한계 초과를 모두 포함", "label": "지지됨", "evidence": "억압 인프라가 파국을 드러내는 순간", "note": ""},
+        {"n": 5, "text": "넷째: 난민·무국적자는 기능 없음 자체가 고장", "label": "지지됨", "evidence": "‘기능 없음’ 자체가 고장", "note": ""},
+        {"n": 6, "text": "음·영·양 어느 위치의 집단도 같은 궤적으로 설명", "label": "지지됨", "evidence": "같은 “고장→우려→수리” 궤적을 따라", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/사회철학연습/정체성에 대한 기능주의 1e497…md"],
+      "sources_missing": []
+    },
+    {
+      "id": "52e10", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "정체성은 해석이자 인프라, 선언은 존재 주장이면서 재설계 요구", "label": "지지됨", "evidence": "해석 조건의 재설계 요구이기도 하다", "note": ""},
+        {"n": 1, "text": "해석적 인격론과 인프라 개념으로 통합", "label": "지지됨", "evidence": "해석적 인격론과 인프라스트럭처 개념의 통합", "note": ""},
+        {"n": 2, "text": "정체성은 해석 가능성으로 성립, 해석은 인프라 위에서 작동", "label": "지지됨", "evidence": "그 해석은 언제나 물리적·기술적·사회적 인프라 위에서", "note": ""},
+        {"n": 3, "text": "트랜스 여성은 정정 절차·화장실·의료·성별 코드·재현이 작동할 때 해석 가능", "label": "지지됨", "evidence": "정상적으로 작동할 때 ... 해석 가능하게 하고", "note": ""},
+        {"n": 4, "text": "인프라 고장 → 해석 붕괴 → 우려 그룹 → 재설계 요구", "label": "지지됨", "evidence": "우려 그룹의 형성과 해석의 재전유", "note": ""},
+        {"n": 5, "text": "'우리는 이미 X' 실체적 진술과 해석적-인프라적 관점의 긴장", "label": "지지됨", "evidence": "긴장의 구조: 실체적 정체성과 구성적 정체성", "note": ""},
+        {"n": 6, "text": "긴장 해소: 실증적 사실보다 해석적 요구이자 윤리적 선언", "label": "지지됨", "evidence": "해석적 요구이자 윤리적 선언", "note": ""},
+        {"n": 7, "text": "선언은 해석 조건 재설계 요구를 겸하는 전략적 이중성", "label": "지지됨", "evidence": "선언과 구성 사이에는 ... 전략적 이중성", "note": ""},
+        {"n": 8, "text": "억압은 존재의 침해이면서 해석 가능성의 차단", "label": "지지됨", "evidence": "해석 가능성 자체의 차단이다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/사회철학연습/정체성에 대한 기능주의 1e497…md"],
+      "sources_missing": []
+    },
+    {
+      "id": "58i", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "트래비스는 변항 값 채우기 그림이 근본적으로 틀렸다고 본다", "label": "지지됨", "evidence": "the picture is mistaken at a fundamental level", "note": ""},
+        {"n": 1, "text": "'I am ill now'는 S가 T에 아플 때만 참, 변항은 화자와 시간", "label": "지지됨", "evidence": "true as spoken by speaker S at time T iff", "note": ""},
+        {"n": 2, "text": "고정된 의미의 매개변수 값을 채워 발화의 진리 조건에 이른다", "label": "지지됨", "evidence": "by providing values for the variables", "note": ""},
+        {"n": 3, "text": "해설은 이 그림이 진리조건적 접근의 본질이라고 본다", "label": "부분 지지", "evidence": "might be thought of as the essential aspect", "note": "원문은 'might be thought of as'(~로 볼 수도 있다)로 한정. 카드는 '본질이라고 본다'로 단정."},
+        {"n": 4, "text": "트래비스(1997:101-2): 잎이 초록으로 간주되었다는 사실", "label": "지지됨", "evidence": "the leaves counted as green on the occasion", "note": ""},
+        {"n": 5, "text": "낱말 의미는 진리 조건 고정에 역할을 하나 전부를 맡지 않는다", "label": "지지됨", "evidence": "but not an exhaustive one", "note": ""},
+        {"n": 6, "text": "의미가 미결정으로 남기는 것은 무엇이 그러함으로 간주되는가", "label": "지지됨", "evidence": "underspecifies is what counts as something being so", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/철학 자료 마스터/Mc_moral imperatives 35697…md (17-31행)", "문헌/@미상 Travis 사고와 상황 민감성 해설 노트.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "58i1", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "초록색 사례에서 불일치 지점은 무엇이 초록으로 간주되는가 하나", "label": "지지됨", "evidence": "only in regard to what is to count as green", "note": ""},
+        {"n": 1, "text": "세계·문장 유형 뜻·자기 낱말 뜻엔 불일치하지 않음", "label": "지지됨", "evidence": "not about how the world is, or what the sentence type means", "note": ""},
+        {"n": 2, "text": "이것이 문장 토큰에 부여할 진리값을 고정", "label": "지지됨", "evidence": "fixes the truth value they would assign", "note": ""},
+        {"n": 3, "text": "참은 사실·언어적 의미뿐 아니라 술어 충족 판단에도 달림", "label": "지지됨", "evidence": "on how we judge what counts as the predicate", "note": ""},
+        {"n": 4, "text": "모든 상황이 이와 같다: 말함은 대립적 해석을 암묵적으로 배제", "label": "지지됨", "evidence": "Every situation, though, is precisely like this", "note": ""},
+        {"n": 5, "text": "진리의 일반성은 차이를 무시하게 하면서 두드러지게도 한다", "label": "지지됨", "evidence": "also allows us to make such differences salient", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/Mc_moral imperatives 35697…md (27-31행)"],
+      "sources_missing": []
+    },
+    {
+      "id": "58i3", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "규칙 따르기 도전에 해석이 아닌 이해의 개념으로 응답", "label": "지지됨", "evidence": "an idea of understanding ... not an interpretation", "note": ""},
+        {"n": 1, "text": "야망은 규칙 따르기 논증의 중심 측면에 응답하는 일", "label": "지지됨", "evidence": "Travis’s ambition ... to meet the challenge", "note": ""},
+        {"n": 2, "text": "모든 해석이 허공에 떠 있다는 『철학적 탐구』 §198", "label": "지지됨", "evidence": "hangs in the air ... §198", "note": ""},
+        {"n": 3, "text": "사고의 수단과 사고 자체의 차이를 부정하지 않는 응답", "label": "지지됨", "evidence": "does not belie the difference between a vehicle", "note": ""},
+        {"n": 4, "text": "필요한 것은 해석이 아닌 이해", "label": "지지됨", "evidence": "understanding (a rule) that is not an interpretation", "note": ""},
+        {"n": 5, "text": "'둘째 길에서 오른쪽' 지시도 경쟁하는 이해를 허용", "label": "지지됨", "evidence": "admits of competing understandings", "note": ""},
+        {"n": 6, "text": "설명하는 말은 우리 같은 사고자를 위한 것, 받아들이는 방식이 그 일부", "label": "지지됨", "evidence": "Such is part of being the sort they are", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/Mc_moral imperatives 35697…md (35, 43행)"],
+      "sources_missing": []
+    },
+    {
+      "id": "58j", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "프레게의 사고는 보이지 않고 일반적이며 다중 분해되고 공공적", "label": "지지됨", "evidence": "invisibility, generality, multiple decomposability, and publicity", "note": ""},
+        {"n": 1, "text": "비가시성: 감각적 인식의 대상이 아니므로 인과적으로 비활성", "label": "지지됨", "evidence": "invisibility makes Fregean thoughts causally inert", "note": ""},
+        {"n": 2, "text": "일반성: 무한히 확장되는 사례, 시드 흡연의 여러 방식", "label": "지지됨", "evidence": "indefinitely extendable range of actual and counterfactual", "note": ""},
+        {"n": 3, "text": "다중 분해: 전체 사고가 먼저, 같은 사고가 여러 방식으로 분석", "label": "지지됨", "evidence": "can be analysed or decomposed in many different ways", "note": ""},
+        {"n": 4, "text": "공공성: 시드는 피아의 관념을 가질 수 없으나 같은 사고를 파악", "label": "지지됨", "evidence": "entirely public, objective, and sharable", "note": ""},
+        {"n": 5, "text": "사고 개별화 기준이 증명 방식에 있다는 생각을 덧붙임", "label": "지지됨", "evidence": "criterion of individuation ... lies in the manner of their proof", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/Mc_moral imperatives 35697…md (37-47행)"],
+      "sources_missing": []
+    },
+    {
+      "id": "58n", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "RTM은 믿음·욕구가 행위를 일으킨다는 말을 두개 안 사건의 계산 연쇄로 대체한다", "label": "부분 지지", "evidence": "there is also another less arch causal explanation", "note": "원문은 이 설명 곁에 '또 하나의' 덜 억지스러운 인과 설명이 있다고 함(추가). 제목의 '대체'는 강도가 다름. 본문의 '곁에'는 맞음."},
+        {"n": 1, "text": "RTM의 매력은 행위 발생에서 믿음·욕구의 역할과 관련이 깊다", "label": "지지됨", "evidence": "have much to do with the role of attitudes", "note": ""},
+        {"n": 2, "text": "피아의 샴페인 사례, 믿음이 그렇게 하게 했다고 말할 수 있지만", "label": "지지됨", "evidence": "one might say: her believing ... caused her", "note": ""},
+        {"n": 3, "text": "원인은 물리학이 허용하는 것뿐, 믿음은 추가적 무엇일 수 없다", "label": "지지됨", "evidence": "can be nothing extra", "note": ""},
+        {"n": 4, "text": "라거 주문: 두개 안 사건의 인과 연쇄, 내용 상태 이행, 계산", "label": "지지됨", "evidence": "chain of causally linked intracranial events", "note": ""},
+        {"n": 5, "text": "RTM의 장악을 깨려면 '일으키다'에 대한 이해를 깨야 한다", "label": "지지됨", "evidence": "break the grip of RTM on our imagination", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/Mc_moral imperatives 35697…md (85-87, 107행)"],
+      "sources_missing": []
+    },
+    {
+      "id": "58o", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "재인 능력은 실제 구별 표지에 기대 호의적 환경을 전제, 개념적 능력과 다르다", "label": "지지됨", "evidence": "rely on an environment hospitable to it", "note": ""},
+        {"n": 1, "text": "개념적 능력의 정의와 충분히 접해 본 상태의 조건", "label": "지지됨", "evidence": "on sufficient acquaintance with what is to do the counting", "note": ""},
+        {"n": 2, "text": "돼지·체·게우즈: 표지 하나면 되고 속까지 알 필요 없음", "label": "지지됨", "evidence": "You need not so much as know that pigs form a genus", "note": ""},
+        {"n": 3, "text": "식별 방식으로 규정되는 능력을 재인 능력이라 부르고 같은지 묻는다", "label": "지지됨", "evidence": "Might a conceptual capacity be a recognitional capacity", "note": ""},
+        {"n": 4, "text": "재인 능력은 실제로 구별되는 표지에 마음대로 기댈 수 있다", "label": "지지됨", "evidence": "free to rely on whatever is, in fact, distinctive", "note": ""},
+        {"n": 5, "text": "그것에만 기대는 능력은 호의적 환경에 기대는 것", "label": "지지됨", "evidence": "rely on an environment hospitable to it", "note": ""},
+        {"n": 6, "text": "주둥이 윤곽 능력은 닮은 원숭이·맥이 적은 환경에서만 성립", "label": "지지됨", "evidence": "not races of extremely porcine monkeys", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/Mc_moral imperatives 35697…md (93-95행)"],
+      "sources_missing": []
+    },
+    {
+      "id": "52h", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "두 발표문은 커비의 이분법 재질문과 라투르의 결합 추적 재정의를 정리", "label": "지지됨", "evidence": "연계를 추적하기로 정의", "note": ""},
+        {"n": 1, "text": "2023년 초에 쓰인 두 발표문", "label": "지지됨", "evidence": "수정일: February 1, 2023 / 4 January 2023", "note": ""},
+        {"n": 2, "text": "신유물론·포스트휴먼 연구 수업의 읽기 자료를 정리", "label": "부분 지지", "evidence": "New Materialism / Posthuman Studies", "note": "라투르 발제문 머리말에만 수업명이 있음. 커비 발표 파일은 분야 태그 '신유물론·OOO'만 있고 수업 표기 없음."},
+        {"n": 3, "text": "커비: 비판이 이분법을 비판하면서도 구조를 되풀이한다고 진단", "label": "지지됨", "evidence": "remained wedded to its repetition", "note": ""},
+        {"n": 4, "text": "라투르 서론 요약 번역, 사회를 이질적 요소 결합의 추적으로 정의", "label": "지지됨", "evidence": "요약 번역 및 토론 질문", "note": ""},
+        {"n": 5, "text": "두 글은 비인간의 행위 능력을 사회 이론에 들이는 점에서 만난다", "label": "연결", "evidence": "", "note": ""},
+        {"n": 6, "text": "커비는 라투르를 받아들이면서 독자가 인간이어야 한다는 전제를 문제 삼는다", "label": "지지됨", "evidence": "reader of the world must remain human", "note": ""},
+        {"n": 7, "text": "두 발표문은 사회철학연습 자료와 별도로 분류되어 한 분기로 정리", "label": "지지됨", "evidence": "철학 자료 마스터 폴더의 발표문", "note": "분류 서술이라 폴더 위치(철학 자료 마스터, 사회철학연습 폴더와 별개)로만 확인함."}
+      ],
+      "sources_used": ["_원자료/notion/…/철학 자료 마스터/Kirby 발표 35697…md", "_원자료/notion/…/철학 자료 마스터/김다은_라투르 서론 발제 35697…md", "문헌/@Kirby Natural Conversations 발표문.md", "문헌/@김다은 라투르 Reassembling the Social 서론 발제.md"],
+      "sources_missing": []
+    }
+  ]
+}

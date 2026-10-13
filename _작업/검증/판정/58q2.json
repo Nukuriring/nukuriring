@@ -1,0 +1,41 @@
+{
+ "id": "58q2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "노트에 따르면 은행 사례에서 일의 중요도가 지식 귀속을 뒤집어도 자신감은 줄지 않았다",
+   "label": "지지됨",
+   "evidence": "자신감이 줄어든 것이 아니다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "노트는 지성주의를 부정할 수 없는 이유로 은행 사례를 든다",
+   "label": "지지됨",
+   "evidence": "Intellectualism을 부정할 수 없는 이유 / Bank case",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "은행 사례는 일의 중요도가 지식 귀속을 뒤집은 것 같은 사례",
+   "label": "지지됨",
+   "evidence": "일의 중요도가 지식 귀속을 뒤집은 것 같은 case",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "자신감이 줄어들지 않았고 상황이 더 심각해졌을 뿐",
+   "label": "지지됨",
+   "evidence": "그저 상황이 더 심각해졌을 뿐이다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Now you know it 35697cdd867e8106b87de3783164f103.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,55 @@
+{
+ "id": "58n",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "RTM은 믿음·욕구가 행위를 일으킨다는 말을 두개 안 사건의 계산 연쇄로 대체한다",
+   "label": "부분 지지",
+   "evidence": "there is also another less arch causal explanation",
+   "note": "원문은 이 설명 곁에 '또 하나의' 덜 억지스러운 인과 설명이 있다고 함(추가). 제목의 '대체'는 강도가 다름. 본문의 '곁에'는 맞음."
+  },
+  {
+   "n": 1,
+   "text": "RTM의 매력은 행위 발생에서 믿음·욕구의 역할과 관련이 깊다",
+   "label": "지지됨",
+   "evidence": "have much to do with the role of attitudes",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "피아의 샴페인 사례, 믿음이 그렇게 하게 했다고 말할 수 있지만",
+   "label": "지지됨",
+   "evidence": "one might say: her believing ... caused her",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "원인은 물리학이 허용하는 것뿐, 믿음은 추가적 무엇일 수 없다",
+   "label": "지지됨",
+   "evidence": "can be nothing extra",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "라거 주문: 두개 안 사건의 인과 연쇄, 내용 상태 이행, 계산",
+   "label": "지지됨",
+   "evidence": "chain of causally linked intracranial events",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "RTM의 장악을 깨려면 '일으키다'에 대한 이해를 깨야 한다",
+   "label": "지지됨",
+   "evidence": "break the grip of RTM on our imagination",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Mc_moral imperatives 35697…md (85-87, 107행)"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,55 @@
+{
+ "id": "58j",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "프레게의 사고는 보이지 않고 일반적이며 다중 분해되고 공공적",
+   "label": "지지됨",
+   "evidence": "invisibility, generality, multiple decomposability, and publicity",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "비가시성: 감각적 인식의 대상이 아니므로 인과적으로 비활성",
+   "label": "지지됨",
+   "evidence": "invisibility makes Fregean thoughts causally inert",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "일반성: 무한히 확장되는 사례, 시드 흡연의 여러 방식",
+   "label": "지지됨",
+   "evidence": "indefinitely extendable range of actual and counterfactual",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "다중 분해: 전체 사고가 먼저, 같은 사고가 여러 방식으로 분석",
+   "label": "지지됨",
+   "evidence": "can be analysed or decomposed in many different ways",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "공공성: 시드는 피아의 관념을 가질 수 없으나 같은 사고를 파악",
+   "label": "지지됨",
+   "evidence": "entirely public, objective, and sharable",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "사고 개별화 기준이 증명 방식에 있다는 생각을 덧붙임",
+   "label": "지지됨",
+   "evidence": "criterion of individuation ... lies in the manner of their proof",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Mc_moral imperatives 35697…md (37-47행)"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

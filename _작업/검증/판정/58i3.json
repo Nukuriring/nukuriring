@@ -1,0 +1,62 @@
+{
+ "id": "58i3",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "규칙 따르기 도전에 해석이 아닌 이해의 개념으로 응답",
+   "label": "지지됨",
+   "evidence": "an idea of understanding ... not an interpretation",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "야망은 규칙 따르기 논증의 중심 측면에 응답하는 일",
+   "label": "지지됨",
+   "evidence": "Travis’s ambition ... to meet the challenge",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "모든 해석이 허공에 떠 있다는 『철학적 탐구』 §198",
+   "label": "지지됨",
+   "evidence": "hangs in the air ... §198",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "사고의 수단과 사고 자체의 차이를 부정하지 않는 응답",
+   "label": "지지됨",
+   "evidence": "does not belie the difference between a vehicle",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "필요한 것은 해석이 아닌 이해",
+   "label": "지지됨",
+   "evidence": "understanding (a rule) that is not an interpretation",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "'둘째 길에서 오른쪽' 지시도 경쟁하는 이해를 허용",
+   "label": "지지됨",
+   "evidence": "admits of competing understandings",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "설명하는 말은 우리 같은 사고자를 위한 것, 받아들이는 방식이 그 일부",
+   "label": "지지됨",
+   "evidence": "Such is part of being the sort they are",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Mc_moral imperatives 35697…md (35, 43행)"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

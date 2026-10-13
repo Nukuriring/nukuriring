@@ -1,0 +1,62 @@
+{
+ "id": "58o",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "재인 능력은 실제 구별 표지에 기대 호의적 환경을 전제, 개념적 능력과 다르다",
+   "label": "지지됨",
+   "evidence": "rely on an environment hospitable to it",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "개념적 능력의 정의와 충분히 접해 본 상태의 조건",
+   "label": "지지됨",
+   "evidence": "on sufficient acquaintance with what is to do the counting",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "돼지·체·게우즈: 표지 하나면 되고 속까지 알 필요 없음",
+   "label": "지지됨",
+   "evidence": "You need not so much as know that pigs form a genus",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "식별 방식으로 규정되는 능력을 재인 능력이라 부르고 같은지 묻는다",
+   "label": "지지됨",
+   "evidence": "Might a conceptual capacity be a recognitional capacity",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "재인 능력은 실제로 구별되는 표지에 마음대로 기댈 수 있다",
+   "label": "지지됨",
+   "evidence": "free to rely on whatever is, in fact, distinctive",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "그것에만 기대는 능력은 호의적 환경에 기대는 것",
+   "label": "지지됨",
+   "evidence": "rely on an environment hospitable to it",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "주둥이 윤곽 능력은 닮은 원숭이·맥이 적은 환경에서만 성립",
+   "label": "지지됨",
+   "evidence": "not races of extremely porcine monkeys",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Mc_moral imperatives 35697…md (93-95행)"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

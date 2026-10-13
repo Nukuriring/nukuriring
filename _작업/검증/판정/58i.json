@@ -1,0 +1,63 @@
+{
+ "id": "58i",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "트래비스는 변항 값 채우기 그림이 근본적으로 틀렸다고 본다",
+   "label": "지지됨",
+   "evidence": "the picture is mistaken at a fundamental level",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "'I am ill now'는 S가 T에 아플 때만 참, 변항은 화자와 시간",
+   "label": "지지됨",
+   "evidence": "true as spoken by speaker S at time T iff",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "고정된 의미의 매개변수 값을 채워 발화의 진리 조건에 이른다",
+   "label": "지지됨",
+   "evidence": "by providing values for the variables",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "해설은 이 그림이 진리조건적 접근의 본질이라고 본다",
+   "label": "부분 지지",
+   "evidence": "might be thought of as the essential aspect",
+   "note": "원문은 'might be thought of as'(~로 볼 수도 있다)로 한정. 카드는 '본질이라고 본다'로 단정."
+  },
+  {
+   "n": 4,
+   "text": "트래비스(1997:101-2): 잎이 초록으로 간주되었다는 사실",
+   "label": "지지됨",
+   "evidence": "the leaves counted as green on the occasion",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "낱말 의미는 진리 조건 고정에 역할을 하나 전부를 맡지 않는다",
+   "label": "지지됨",
+   "evidence": "but not an exhaustive one",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "의미가 미결정으로 남기는 것은 무엇이 그러함으로 간주되는가",
+   "label": "지지됨",
+   "evidence": "underspecifies is what counts as something being so",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/철학 자료 마스터/Mc_moral imperatives 35697…md (17-31행)",
+  "문헌/@미상 Travis 사고와 상황 민감성 해설 노트.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
