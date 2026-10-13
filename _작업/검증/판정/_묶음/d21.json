@@ -1,0 +1,193 @@
+{
+  "model": "sonnet",
+  "date": "2026-10-13",
+  "cards": [
+    {"id": "64o3", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "이황은 주희 공부를 쌓아 주자서절요를 쓰고 59세에야 자기 철학을 시작", "label": "지지됨", "evidence": "자기 철학이 59세에서야 시작.", "note": ""},
+      {"n": 1, "text": "19세 성리대전, 23세 주자전서, 김인후와 친구", "label": "지지됨", "evidence": "성균관에 들어가서 김인후랑 친구가 된다", "note": ""},
+      {"n": 2, "text": "43세 주자대전 간행 참여, 본격 공부 시작", "label": "지지됨", "evidence": "주자대전 간행 참여 주희에 대한 본격적인 공부 시작", "note": ""},
+      {"n": 3, "text": "56세 주자서절요, 57세 계몽전의, 59세 송계원명이학통록", "label": "지지됨", "evidence": "56세 <주자서절요>", "note": ""},
+      {"n": 4, "text": "송계원명이학통록은 철학사 서적, 자기 식으로 정리", "label": "지지됨", "evidence": "자기 식으로 정리를 끝낸다", "note": ""},
+      {"n": 5, "text": "사단칠정논쟁은 59~66세 기대승과", "label": "지지됨", "evidence": "사단칠정논쟁 59-66 V.S 기대승", "note": ""}
+    ], "sources_used": ["_원자료/notion/.../이황의 생애 35697cdd….md", "문헌/@한국철학사2022 0330 사화 이후와 이황의 생애.md"], "sources_missing": []},
+    {"id": "64o4", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "이황은 서원을 학문 연마의 장으로 중시하여 소수서원 사액 건의", "label": "지지됨", "evidence": "소수서원에 임금이 사액을 내리도록 건의", "note": ""},
+      {"n": 1, "text": "최초로 세운 것은 아니지만 중요하다고 주장", "label": "지지됨", "evidence": "이황이 최초로 세운 것은 아니지만", "note": ""},
+      {"n": 2, "text": "사액은 국가 공식 기관 인정, 땅을 주어 운영 기반", "label": "지지됨", "evidence": "서원이 운영될 수 있는 기반 제공", "note": ""},
+      {"n": 3, "text": "서원의 주요 기능은 제사와 교육", "label": "지지됨", "evidence": "서원의 주요 기능 : 제사 + 교육", "note": ""},
+      {"n": 4, "text": "필기는 이어서 도산서당과 도산서원을 적는다", "label": "지지됨", "evidence": "도산서당 도산서원", "note": "사이에 사단칠정논쟁 두 줄이 끼어 있어 '이어서'는 느슨함"}
+    ], "sources_used": ["_원자료/notion/.../이황의 생애 35697cdd….md", "문헌/@한국철학사2022 0330 사화 이후와 이황의 생애.md"], "sources_missing": []},
+    {"id": "64r4", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "기대승: 리기 늘 함께, 기질이 성격 결정, 예가 사단칠정 가름", "label": "지지됨", "evidence": "사단/칠정 여부를 판정 기준 = 예", "note": ""},
+      {"n": 1, "text": "필기는 기대승의 현상주의자적 측면을 짚는다", "label": "지지됨", "evidence": "기대승의 현상주의자인 측면", "note": ""},
+      {"n": 2, "text": "리와 기는 현상에서 항상 같이, 기원은 리, 성격은 기", "label": "지지됨", "evidence": "기원은 다 리지만, 감정의 성격을 결정하는 것은 기", "note": ""},
+      {"n": 3, "text": "예에 맞으면 사단, 맞지 않으면 칠정", "label": "지지됨", "evidence": "예에 맞으면 사단이고, 예에 맞지 않으면 칠정", "note": ""},
+      {"n": 4, "text": "사단도 기준에 안 맞는 경우 말했다가 모순이라 철회", "label": "지지됨", "evidence": "모순이기 때문에 기대승은 철회한다", "note": ""},
+      {"n": 5, "text": "100년쯤 뒤 다시 부활한다", "label": "지지됨", "evidence": "한참 100년 뒤에 이 이야기가 다시금 부활", "note": ""}
+    ], "sources_used": ["_원자료/notion/.../이황의 철학 35697cdd….md", "문헌/@한국철학사2022 0411 이황의 철학.md"], "sources_missing": []},
+    {"id": "64s", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "마음이 본성과 감정을 못 거느리면 거경으로 하나에 머물게 해 선한 반응", "label": "지지됨", "evidence": "이럴 때 본성의 선량한 반응이 튀어나온다", "note": ""},
+      {"n": 1, "text": "필기는 심통성정이 잘 안 되는 경우를 묻는다", "label": "지지됨", "evidence": "심통성정이 잘 안된다면?", "note": ""},
+      {"n": 2, "text": "답은 수양론, 첫째 거경, 주일무적", "label": "지지됨", "evidence": "主一無適 하나에 머물러 다른 데로 벗어나지 않는다", "note": ""},
+      {"n": 3, "text": "육체에 근거한 반응은 마음을 경건하게 두지 못해서", "label": "지지됨", "evidence": "마음을 경건한 상태로 두지 못했기 때문", "note": ""},
+      {"n": 4, "text": "욕구 반응 때 마음은 다른 데로 벗어나 정신을 팔림", "label": "지지됨", "evidence": "자극에 정신을 팔린다", "note": ""},
+      {"n": 5, "text": "마음을 거두면 하나, 적절한 말은 경건함", "label": "지지됨", "evidence": "이 하나에 적절한 말은 경건함이다", "note": ""}
+    ], "sources_used": ["_원자료/notion/.../이황의 철학 35697cdd….md", "문헌/@한국철학사2022 0411 이황의 철학.md"], "sources_missing": []},
+    {"id": "21g1", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "계산적 이유만 비선택적이므로 합리적 악덕이 가능하다", "label": "지지됨", "evidence": "one can be reasonably vicious", "note": ""},
+      {"n": 1, "text": "보글러는 앤스컴·아퀴나스 따라 프레게 반심리주의를 실천철학으로", "label": "지지됨", "evidence": "Fregean anti-psychologistic move", "note": ""},
+      {"n": 2, "text": "행위 구조에서 논리를 읽고 믿음·욕구는 들여다보지 않음", "label": "지지됨", "evidence": "look past beliefs and desires to actions", "note": ""},
+      {"n": 3, "text": "행위는 왜 물음으로 골라내고 나뉘며 종결점 향한 단계 계열", "label": "지지됨", "evidence": "series of steps toward a termination point", "note": ""},
+      {"n": 4, "text": "단계는 종결점 향할 때 합리적, 샐러드 후 견과 썰기는 비합리", "label": "지지됨", "evidence": "you finished the salad but keep obsessively chopping", "note": ""},
+      {"n": 5, "text": "이유가 있을 때마다 거의 언제나 계산적 이유도 있다", "label": "지지됨", "evidence": "whenever (or almost whenever)", "note": ""},
+      {"n": 6, "text": "비계산적 고려는 계산적 구조 전제, 계산적 구조는 전제 없음", "label": "지지됨", "evidence": "presupposes nothing further", "note": ""},
+      {"n": 7, "text": "큰 행위는 계산적으로 잘 짜여야 하므로 계산적 이유는 비선택적", "label": "지지됨", "evidence": "calculative reasons are nonoptional", "note": ""},
+      {"n": 8, "text": "극단적 부도덕도 비합리적일 필요 없다", "label": "지지됨", "evidence": "need not be irrational", "note": ""}
+    ], "sources_used": ["문헌/@Millgram SEP Practical Reason and the Structure of Actions.md", "_원자료/claude.ai/chats/2026-06-10_Understanding SEP entry walkthrough.md (379-393행)"], "sources_missing": []},
+    {"id": "21g2", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "톰슨에 따르면 욕구는 감각자료와 같은 종류의 오류", "label": "지지됨", "evidence": "desires are a mistake on a par with sense-data", "note": ""},
+      {"n": 1, "text": "톰슨은 반심리주의자이나 화살표를 뒤집어 추론 파악을 먼저 둔다", "label": "지지됨", "evidence": "reverses the arrow", "note": ""},
+      {"n": 2, "text": "셀라스식 전략: 행위만 드는 이유 제시 관행이 핵심", "label": "지지됨", "evidence": "The strategy is Sellarsian", "note": ""},
+      {"n": 3, "text": "축은 문법적 상, 만들었다는 생겨남 함의 / 만들고 있다는 아님", "label": "지지됨", "evidence": "from the progressive it doesn't", "note": ""},
+      {"n": 4, "text": "자연 상태에서 'A하고 있으므로 B하고 있지만 지금 B하지 않는다' 혼란", "label": "지지됨", "evidence": "I'm B-ing because I'm A-ing, but I'm not B-ing", "note": ""},
+      {"n": 5, "text": "B할 것이다=준비, A하려 한다=계획, A하고 싶다=계획 이전 국면", "label": "지지됨", "evidence": "a pre-planning phase", "note": ""},
+      {"n": 6, "text": "내적 상태의 이름으로 읽는 일은 범주 오류", "label": "지지됨", "evidence": "a category mistake", "note": ""},
+      {"n": 7, "text": "감각자료 이론가의 '~인 것 같다' 오인과 같은 구도", "label": "지지됨", "evidence": "a device for hedging a commitment", "note": ""}
+    ], "sources_used": ["문헌/@Millgram SEP Practical Reason and the Structure of Actions.md", "_원자료/claude.ai/chats/2026-06-10_Understanding SEP entry walkthrough.md (379-393행)"], "sources_missing": []},
+    {"id": "21d", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "왜 물음의 참된 답은 무엇이 일어나는지도 알려 준다", "label": "지지됨", "evidence": "'무엇이 일어나는지'…알려 준다", "note": ""},
+      {"n": 1, "text": "의도를 언어적 표현으로 표상해야 하는 이유 세 가지", "label": "지지됨", "evidence": "세 겹의 길", "note": ""},
+      {"n": 2, "text": "첫째: 왜?에 대한 응답성, 적용 거부도 가능", "label": "지지됨", "evidence": "그 적용을 ‘거부’할 수도 있으나", "note": ""},
+      {"n": 3, "text": "둘째: 자기가 하는 것의 진술일 때만 수행 탄핵 표준", "label": "지지됨", "evidence": "오직 진술…사실을 탄핵할 위치", "note": ""},
+      {"n": 4, "text": "셋째: 통일 직접 드러냄, 앤스컴 p. 83", "label": "지지됨", "evidence": "‘왜?’가 없다면 존재하지 않을 유형의 기술 (p. 83)", "note": ""},
+      {"n": 5, "text": "저자들은 셋째 길을 밀어 참된 답이 수행되는 행위도 알려 준다고 봄", "label": "지지됨", "evidence": "어떤 행위가 수행되는지", "note": ""},
+      {"n": 6, "text": "주전자 두 물음 사이에 흔히 고를 것이 많지 않다", "label": "지지됨", "evidence": "흔히 고를 것이 많지 않듯", "note": ""},
+      {"n": 7, "text": "식별이 왜 심문 결과와 함께 주어지는 점이 행위를 구별", "label": "지지됨", "evidence": "‘무엇’은 ‘왜?’의 답과 함께 나타난다", "note": ""}
+    ], "sources_used": ["문헌/@MoranStone2011 Anscombe on Expression of Intention.md", "_원자료/로컬/Reading COH/앤스컴_의도의표현_정밀해설.md (§7)", "문헌/@Anscombe1957 Intention.md"], "sources_missing": []},
+    {"id": "21d1", "voice": "문헌", "verdict": "부분", "claims": [
+      {"n": 0, "text": "의도를 대신할 심적 상태도 의도적 행위의 구조를 물려받는다", "label": "지지됨", "evidence": "의도적 행위 특유의 구조를 물려받는다", "note": ""},
+      {"n": 1, "text": "앤스컴을 행동주의자로 읽어서는 안 된다", "label": "지지됨", "evidence": "행동주의적 독해", "note": ""},
+      {"n": 2, "text": "앤스컴이 부정하는 것은 믿음·욕구식 '상태' 개념 적용뿐", "label": "지지됨", "evidence": "부정하는 것은…뿐이다", "note": ""},
+      {"n": 3, "text": "X는 부분·전체 중첩을 허용해야 한다(나무집 세 예)", "label": "지지됨", "evidence": "내적 중첩 관계(부분-전체)", "note": ""},
+      {"n": 4, "text": "X도 목적을 물을 수 있고 표현은 모순·특징짓기·교정 구조 공유", "label": "지지됨", "evidence": "모순·행위 특징짓기·수행 교정의 구조", "note": ""},
+      {"n": 5, "text": "상태 심리학 강화는 의도적 행위의 선이해에 기댄다", "label": "지지됨", "evidence": "의도적 행위가 무엇인지에 대한 선이해", "note": ""},
+      {"n": 6, "text": "TA가 발견을 거쳐 더 온전한 오마주를 바칠 길에 들어선다", "label": "부분 지지", "evidence": "오마주를 바칠 길을 시사한다", "note": "원문은 '길을 시사한다'인데 카드는 '길에 들어선다'고 단정에 가깝게 씀"}
+    ], "sources_used": ["문헌/@MoranStone2011 Anscombe on Expression of Intention.md", "_원자료/로컬/Reading COH/앤스컴_의도의표현_정밀해설.md (§7)"], "sources_missing": []},
+    {"id": "21f", "voice": "문헌", "verdict": "부분", "claims": [
+      {"n": 0, "text": "회고적 이유는 왜 물음을 끝내지만 그 동기 방침에는 전망적 이유가 있다", "label": "부분 지지", "evidence": "if this reason is of the forward-looking kind", "note": "원문은 '답은 ~일 수 있다', '이유가 전망적이라면'으로 조건·가능성을 둠. 제목은 '있다'로 단정"},
+      {"n": 1, "text": "회고적 이유는 necessarily ultimate, 왜?의 선형 반복 배제", "label": "지지됨", "evidence": "necessarily ultimate and exclude any linear reiteration", "note": ""},
+      {"n": 2, "text": "정직: 특정 주장을 삼가는 이유는 p를 믿지 않는다는 사실", "label": "지지됨", "evidence": "would not match your beliefs", "note": ""},
+      {"n": 3, "text": "왜 거짓말을 피하는가는 대략 왜 사실을 이유로 취급하는가", "label": "지지됨", "evidence": "treat the fact that you do not believe that p", "note": "원문의 'or imply'는 카드에서 빠짐(경미)"},
+      {"n": 4, "text": "답은 온전한 인간·천국·기억력 같은 전망적 이유", "label": "지지됨", "evidence": "states a forward-looking reason", "note": ""},
+      {"n": 5, "text": "이 이유들은 특정 상황에서 특정 주장을 거절할 이유가 아님", "label": "지지됨", "evidence": "not, however, a reason for refusing", "note": ""},
+      {"n": 6, "text": "ϕ할 이유로 취급하는 일의 이유를 배경 이유라 부른다", "label": "지지됨", "evidence": "It might be called a background reason", "note": ""},
+      {"n": 7, "text": "원자료에 저자명이 없고 자기 인용에 근거한 추정", "label": "지지됨", "evidence": "my “Mental Teleology”", "note": ""}
+    ], "sources_used": ["문헌/@Mueller Backward-Looking Rationality.md", "_원자료/claude.ai/chats/2026-07-03_Backward-looking reasons and teleological action.md"], "sources_missing": []},
+    {"id": "21f1", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "배경 이유의 목적이 개별 행위에 목적인의 방식으로만 목적을 준다", "label": "지지됨", "evidence": "In this sense, but only in this sense", "note": ""},
+      {"n": 1, "text": "배경 이유가 목적론적일 때 개별 행위에도 목적을 주는지 묻는다", "label": "지지됨", "evidence": "Does it confer a telos also on your ϕ-ing?", "note": ""},
+      {"n": 2, "text": "추가 의도가 되는 방식으로는 못 준다", "label": "지지됨", "evidence": "not…a further intention with which you ϕ", "note": ""},
+      {"n": 3, "text": "보상은 거절에 책임이 있고 그 책임은 final cause", "label": "지지됨", "evidence": "responsible in the way of a final cause", "note": ""},
+      {"n": 4, "text": "오직 이 의미에서 방침의 목적이 개별 행위에도 목적을 준다고 말할 수 있다", "label": "지지됨", "evidence": "could one say that the telos", "note": ""},
+      {"n": 5, "text": "직접적 회고적 동기가 매개하여 보상 달성에 이바지", "label": "지지됨", "evidence": "in virtue of mediating the connection", "note": ""},
+      {"n": 6, "text": "각주: 아리스토텔레스와 스콜라가 이런 목적론을 염두에 두었을 수 있다", "label": "지지됨", "evidence": "may have had this kind of teleology in mind", "note": ""}
+    ], "sources_used": ["문헌/@Mueller Backward-Looking Rationality.md", "_원자료/claude.ai/chats/2026-07-03_Backward-looking reasons and teleological action.md"], "sources_missing": []},
+    {"id": "20e5", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "생명형식-어는 자연사적 판단의 주어 능력이 의미를 이루는 보통명사", "label": "지지됨", "evidence": "그 결합 능력이 그 낱말의 의미를 고정하는 데 한몫", "note": ""},
+      {"n": 1, "text": "주어 자격+의미 고정 참여 시 생명형식-어 문법", "label": "지지됨", "evidence": "생명형식-어의 ‘문법’을 가집니다", "note": ""},
+      {"n": 2, "text": "프레게의 개념어 방식을 본뜸", "label": "지지됨", "evidence": "프레게의 ‘개념어’를 본뜬 것입니다", "note": ""},
+      {"n": 3, "text": "통계 양화사는 나중에 덧붙일 뿐 장치 구성에 불참", "label": "지지됨", "evidence": "나중에 덧붙일 수 있을 뿐", "note": ""},
+      {"n": 4, "text": "자연사적 결합은 낱말을 구성한다(도토리)", "label": "지지됨", "evidence": "생명형식-어를 구성하지만", "note": ""},
+      {"n": 5, "text": "둘을 같다 보면 '더 넓은 맥락' 명제 부정, 이 절의 후렴", "label": "지지됨", "evidence": "이 절 전체를 관통하는 후렴", "note": ""},
+      {"n": 6, "text": "이 정의에서 생명형식(종)과 유기체가 차례로 정의", "label": "지지됨", "evidence": "정의가 사슬처럼 이어집니다", "note": ""},
+      {"n": 7, "text": "자연사적 종합 능력을 잃으면 단칭 판단·생물 경험 능력도 잃음", "label": "지지됨", "evidence": "살아 있는 것으로 경험하는 능력까지 잃", "note": ""}
+    ], "sources_used": ["문헌/@Thompson2008 Life and Action.md", "_원자료/claude.ai/chats/2026-06-04_설명 요청.md (90-96행)"], "sources_missing": []},
+    {"id": "20e6", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "자연적 목적론을 의도의 질서와 인공물의 목적론에서 구별", "label": "지지됨", "evidence": "의도·심적 목적론과 가장 멀리 떨어져", "note": ""},
+      {"n": 1, "text": "같은 형식끼리 목적론적 결합 가능(꽃·곤충), 연결항도 자연사적", "label": "지지됨", "evidence": "다시 자연사적 명제입니다", "note": ""},
+      {"n": 2, "text": "풋의 『자연적 선』의 분석으로 소개", "label": "지지됨", "evidence": "이는 풋의 『자연적 선』의 분석입니다", "note": ""},
+      {"n": 3, "text": "Q하기 위해 P는 P와 Q를 함의, 사실과 사실을 잇는다", "label": "지지됨", "evidence": "곧장 P와 Q를 함의", "note": ""},
+      {"n": 4, "text": "의도적 왜?의 표지는 시점을 매길 수 있는 사건 기술에 붙음(학생/개구리)", "label": "지지됨", "evidence": "시점을 매길 수 있는 사건 기술", "note": ""},
+      {"n": 5, "text": "요소·국면 사이 의존 분절, 신적 의도·자연선택과 무관", "label": "지지됨", "evidence": "아무 영향을 못 줍니다", "note": ""},
+      {"n": 6, "text": "기술·인공물은 앤스컴의 부분적 관념론을 따른다", "label": "지지됨", "evidence": "‘부분적 관념론’이 성립합니다", "note": ""},
+      {"n": 7, "text": "자연사적 판단은 대상에 전제되지 않고 인지되지 않은 생명형식은 흔하다", "label": "지지됨", "evidence": "인지되지 않은 생명형식은 흔합니다", "note": ""}
+    ], "sources_used": ["문헌/@Thompson2008 Life and Action.md", "_원자료/claude.ai/chats/2026-06-04_설명 요청.md (98-104행)"], "sources_missing": []},
+    {"id": "20d1b", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "우주적으로 참인 물리적 사실도 삶의 개념 해명 목록에 못 들어간다", "label": "지지됨", "evidence": "목록에 집어넣는 것은 잘못", "note": ""},
+      {"n": 1, "text": "조직된 덩어리를 낳는 것이 생명체뿐/더 드물어도 목록에 넣는 건 잘못", "label": "지지됨", "evidence": "우주적 규모에서 생명체보다 더 드물다", "note": ""},
+      {"n": 2, "text": "목록은 삶의 개념 해명용이지 경험적·우주적 사실 보고용이 아님", "label": "지지됨", "evidence": "삶의 개념을 해명하기로 되어 있지", "note": ""},
+      {"n": 3, "text": "마이어는 복잡성과 조직 앞에 화학적 고유성 항목을 둠", "label": "지지됨", "evidence": "‘복잡성과 조직’ 바로 앞에 ‘화학적 고유성’", "note": "마이어 도표는 Claude 풀이 속 언급이며 원문 대조 불가(카드도 명시)"},
+      {"n": 4, "text": "화성 탐사에서 DNA 명제가 우주 어디서나 참일 수도 있다", "label": "지지됨", "evidence": "우주적 규모에서도 참일 수 있습니다", "note": ""},
+      {"n": 5, "text": "그래도 아무도 DNA를 목록에 넣으려 하지 않는다", "label": "지지됨", "evidence": "누구도 DNA를 목록에 넣어", "note": ""},
+      {"n": 6, "text": "물리적 세계 선택지가 적음만 보일 뿐, 기여해도 지시적 예시", "label": "지지됨", "evidence": "지시적 예시(ostension) 수준", "note": ""},
+      {"n": 7, "text": "열역학적 질서도 같은 배, 물리 개념은 구현에 관한 것", "label": "지지됨", "evidence": "삶의 물리적 구현에 관한 것", "note": ""}
+    ], "sources_used": ["문헌/@Thompson2008 Life and Action.md", "_원자료/claude.ai/chats/2026-06-03_글 설명 요청.md (216-220행)"], "sources_missing": []},
+    {"id": "20d2", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "삶의 표지는 하위형이상학적이거나 동어반복적이어서 빈 목록으로 대체", "label": "지지됨", "evidence": "빈 목록으로 대체해도 무방하다", "note": ""},
+      {"n": 1, "text": "DNA 항목은 하위형이상학적, 기관 항목은 동어반복", "label": "지지됨", "evidence": "‘기관이라는 의미의 부분을 가진다’는 동어반복", "note": ""},
+      {"n": 2, "text": "스킬라와 카리브디스 비유", "label": "지지됨", "evidence": "스킬라와 카리브디스는 『오디세이아』", "note": ""},
+      {"n": 3, "text": "안전한 중간이 없는 이유: 개념성과 비순환 정보의 충돌", "label": "지지됨", "evidence": "안전한 중간이 없는 이유가 핵심", "note": ""},
+      {"n": 4, "text": "이 실패는 1·3절 큰 그림에서 적극적 단서", "label": "지지됨", "evidence": "적극적 단서입니다", "note": ""},
+      {"n": 5, "text": "실재적 정의가 가능한가에 아니오, 삶은 고유한 논리적 범주·형식", "label": "지지됨", "evidence": "고유한 논리적 범주·형식", "note": ""}
+    ], "sources_used": ["문헌/@Thompson2008 Life and Action.md", "_원자료/claude.ai/chats/2026-06-03_글 설명 요청.md (188, 236-244행)"], "sources_missing": []},
+    {"id": "20f7", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "세련된 행위철학의 최선 논변이 환상 논변과 같은 구조", "label": "지지됨", "evidence": "인식론자의 환상 논변과 같은 구조", "note": ""},
+      {"n": 1, "text": "2×2 표, 소박 합리화의 진짜 내용은 가까운 이웃(원함), 왼쪽은 비설명적 정보", "label": "지지됨", "evidence": "비(非)설명적…정보", "note": ""},
+      {"n": 2, "text": "환원은 대담한 가설이라 입증 부담", "label": "지지됨", "evidence": "대담한 환원 가설", "note": ""},
+      {"n": 3, "text": "최선 논변: 비협조 세계, 때문에는 둘의 참 요구, 공통 요소는 원함", "label": "지지됨", "evidence": "P 때문에 Q ⊨ P ∧ Q", "note": ""},
+      {"n": 4, "text": "단검 환각 경우와 공통 감각자료 논변과 같은 구조", "label": "지지됨", "evidence": "단검-인 듯한 감각자료", "note": ""},
+      {"n": 5, "text": "환상 논변이 의심스럽다 하나 반박하지 않고 유비는 의심 제기에만", "label": "지지됨", "evidence": "의심을 제기하려고만 언급", "note": ""},
+      {"n": 6, "text": "소박 합리화는 원하는 바를 얻는 정보에 올바른 연결을 더함(펌프)", "label": "지지됨", "evidence": "올바른 연결", "note": ""}
+    ], "sources_used": ["문헌/@Thompson2008 Life and Action.md", "_원자료/claude.ai/chats/2026-06-04_설명 요청.md (654-681행)"], "sources_missing": []},
+    {"id": "20f7a", "voice": "문헌", "verdict": "부분", "claims": [
+      {"n": 0, "text": "대칭성 논변은 세련된 환원이 행위와 원함을 함께 지운다고 보인다", "label": "지지됨", "evidence": "행위·욕구를 함께 소거 → 자기 파괴", "note": ""},
+      {"n": 1, "text": "도식이 설명항과 피설명항을 가리지 못한다", "label": "지지됨", "evidence": "설명항/피설명항의 구별에 무감각", "note": ""},
+      {"n": 2, "text": "피설명항 A를 한다는 명제도 같은 함 명제", "label": "지지됨", "evidence": "똑같은 ‘함’ 명제입니다", "note": ""},
+      {"n": 3, "text": "마취·결박으로 팔이 안 올라가도 든다고 생각할 수 있다", "label": "지지됨", "evidence": "마취·결박으로 팔이 올라가지 않는데", "note": ""},
+      {"n": 4, "text": "오직 원함만이 합리화하고 합리화된다", "label": "지지됨", "evidence": "오직 원함만이 무언가에 의해 합리화된다", "note": ""},
+      {"n": 5, "text": "행위 이유 없으면 행위 자체가 없고, 함이 사라지면 하고 싶어 함도 사라짐", "label": "부분 지지", "evidence": "행위라는 것 자체가 없다(아마도)", "note": "원문은 '(아마도)'를 달았는데 카드는 단정으로 씀"},
+      {"n": 6, "text": "인식론에서는 근거 지어지는 판단이 환상에 노출 안 됨, 행위는 양쪽 노출", "label": "지지됨", "evidence": "판단의 존재에 대해서는 환상의 여지가 없", "note": ""},
+      {"n": 7, "text": "도식을 받아들이면 자기 파괴, 거부하면 논거 상실", "label": "지지됨", "evidence": "받아들이거나 거부하거나", "note": ""}
+    ], "sources_used": ["문헌/@Thompson2008 Life and Action.md", "_원자료/claude.ai/chats/2026-06-04_설명 요청.md (739-816행)"], "sources_missing": []},
+    {"id": "20f4", "voice": "문헌", "verdict": "부분", "claims": [
+      {"n": 0, "text": "원함은 합리화에서 행위자와 할 법한 행위 사이에 놓는 연결", "label": "지지됨", "evidence": "행위자와 ‘A를 함-직한 것’ 사이에 놓는 연결", "note": ""},
+      {"n": 1, "text": "I→W가 네 함의 중 가장 확실", "label": "지지됨", "evidence": "네 함의 중 가장 확실하다고", "note": ""},
+      {"n": 2, "text": "왜 B를 원하냐 물을 수 있고 '그냥 그러려고'도 답", "label": "지지됨", "evidence": "그건 그 물음을 거부하는 게 아닙니다", "note": ""},
+      {"n": 3, "text": "거부 직관은 want의 두 용법에서 나온다", "label": "지지됨", "evidence": "‘want’라는 낱말의 두 뜻", "note": ""},
+      {"n": 4, "text": "강조형은 욕구(appetite), 비강조형은 to will", "label": "부분 지지", "evidence": "가장 전형적으로는 욕구(appetite)", "note": "원문은 '가장 전형적으로는'이라 한정, 카드는 단정"},
+      {"n": 5, "text": "톰슨의 관심은 비강조형, 소망·희망·욕망 느낌과 구별", "label": "지지됨", "evidence": "소망도 희망도 욕망의 느낌도 아니며", "note": ""},
+      {"n": 6, "text": "표에서 행과 열을 동시에 낳는 가장 약한 개념, 또는 개념적 직시", "label": "지지됨", "evidence": "가장 약한 단일 개념", "note": ""},
+      {"n": 7, "text": "댐 예시와 연결에 시선 고정", "label": "지지됨", "evidence": "오하이오강에 댐을 지으려", "note": ""},
+      {"n": 8, "text": "동기화된 욕구보다 합리화될 수 있는 유형의 원함", "label": "지지됨", "evidence": "합리화될 수 있는 유형의 원함", "note": ""},
+      {"n": 9, "text": "모든 원함이 동기화된다는 주장은 논쟁적, '그냥 그러려고'를 막음", "label": "지지됨", "evidence": "논쟁적인 추가 주장", "note": ""}
+    ], "sources_used": ["문헌/@Thompson2008 Life and Action.md", "_원자료/claude.ai/chats/2026-06-04_설명 요청.md (396-429행)"], "sources_missing": []},
+    {"id": "20f4b", "voice": "종합", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "톰슨의 원함 규정은 영진의 행위를 시야에 둠을 정식화한 것으로 읽을 수 있다", "label": "연결", "evidence": "", "note": "두 출처를 엮는 연결(대화 속 Claude 제안)"},
+      {"n": 1, "text": "톰슨이 원함을 행위자와 할 법한 행위 사이 연결로 규정", "label": "지지됨", "evidence": "행위자와 ‘A를 함-직한 것’ 사이", "note": ""},
+      {"n": 2, "text": "원함은 행위자의 관계이며 재현하는 내적 상태가 아님", "label": "지지됨", "evidence": "재현하는 내적 상태가 아닙니다", "note": ""},
+      {"n": 3, "text": "소망·희망·느낌이 아니므로 질적 내용의 내적 항목을 상정 안 함", "label": "지지됨", "evidence": "내용을 품은 항목이 아니라 관계", "note": "비표상주의와 같은 방향이라는 부분은 연결"},
+      {"n": 4, "text": "수단이 바뀌어도 같은 원함 지속, 관계항으로 개별화", "label": "지지됨", "evidence": "관계항(B = 댐 짓기)으로 개별화", "note": "5e Relatum과 맞는다는 부분은 연결"},
+      {"n": 5, "text": "지각 대상은 눈앞 특수자, 원함 대상은 아직 없을 수 있는 행위", "label": "지지됨", "evidence": "아직(혹은 영영) 없는, 할-법한 것", "note": ""},
+      {"n": 6, "text": "정초가 다르다: 상·과정 형이상학과 표의 통사 vs 지각의 직접성", "label": "지지됨", "evidence": "상(相)·과정의 형이상학", "note": ""}
+    ], "sources_used": ["문헌/@Thompson2008 Life and Action.md", "_원자료/claude.ai/chats/2026-06-04_설명 요청.md (431-451행)"], "sources_missing": []},
+    {"id": "20f5", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "소박한 합리화가 이질적 분해 없이 행위 첫 구간까지 내려간다고 추측", "label": "지지됨", "evidence": "이질적 분해는 필요 없다", "note": ""},
+      {"n": 1, "text": "이질적 분해(오믈렛)는 한계에 부딪힌다", "label": "지지됨", "evidence": "한계에 부딪힌다는 것", "note": ""},
+      {"n": 2, "text": "분해가 필요하면 짧은 행위엔 닿지 않고 점적 행위로 물러선다", "label": "지지됨", "evidence": "행위철학은 결국 점적 행위로 환원", "note": ""},
+      {"n": 3, "text": "기술 아래 의도적이면 그 기술이 설명항인 참된 합리화를 찾을 수 있다", "label": "지지됨", "evidence": "언제나 그 기술이 설명항에 들어가는", "note": ""},
+      {"n": 4, "text": "돌 밀기: β까지 밀고 있었다는 말도 참, ω 때문에 β", "label": "지지됨", "evidence": "ω까지 밀고 있었기 때문에 β까지", "note": ""},
+      {"n": 5, "text": "더 긴 행위가 첫 구간을 떠받쳐 합리화가 안쪽으로 내려감", "label": "지지됨", "evidence": "행위 안쪽으로 내려가는 것", "note": ""},
+      {"n": 6, "text": "발생적 사고 요건은 편견, 기술은 흔히 숙고를 몰아냄, 34번째 오믈렛", "label": "지지됨", "evidence": "기술(technē)은 흔히 숙고를 몰아냅니다", "note": ""}
+    ], "sources_used": ["문헌/@Thompson2008 Life and Action.md", "_원자료/claude.ai/chats/2026-06-04_설명 요청.md (466-486행)"], "sources_missing": []},
+    {"id": "20f5a", "voice": "문헌", "verdict": "부분", "claims": [
+      {"n": 0, "text": "의도적으로 움직일 수 있는 최소치 소라이트에 세 가지로 응수", "label": "지지됨", "evidence": "세 갈래가 열려 있습니다", "note": "원문은 큐와인 수 + 세 갈래(카드 본문은 이를 반영)"},
+      {"n": 1, "text": "짧은 궤적에서 암묵적 인지 요건과 파악 경로 길이의 하한", "label": "지지됨", "evidence": "암묵적 인지 요건(implicit cognition requirement)", "note": ""},
+      {"n": 2, "text": "의도적 최소치가 있어야 하고 그 아래는 전의도적(근육 수축)", "label": "지지됨", "evidence": "앤스컴의 ‘전(前)의도적’", "note": ""},
+      {"n": 3, "text": "반론은 소라이트, 두 전제(완전한 분할, 때로 최소치)", "label": "지지됨", "evidence": "이것이 소라이트(연쇄 논변)임", "note": ""},
+      {"n": 4, "text": "큐와인식: don't cares 선언, 경계를 명령으로", "label": "지지됨", "evidence": "경계를 편의대로 명령으로 긋는", "note": ""},
+      {"n": 5, "text": "준칸트적 노선: 모든 부분을 직관적으로 파악, 하한 전제 부정", "label": "지지됨", "evidence": "모든 부분을 직관적으로 파악함", "note": ""},
+      {"n": 6, "text": "모호성 노선: 같은 모호성이 전의도적/의도적 분할에도 스며든다", "label": "부분 지지", "evidence": "그것을 처리한다면 같은 모호성이 스며들 것", "note": "원문은 '모호성의 이론적 난점을 처리한다면'이라는 조건을 달았는데 카드는 조건 없이 단정"},
+      {"n": 7, "text": "약한 인지 요건 노선이 가장 자연스럽다, 빈칸이 직관적 경로로 채워지면 의도성 확보", "label": "지지됨", "evidence": "톰슨이 가장 자연스럽다고 보는 것", "note": ""}
+    ], "sources_used": ["문헌/@Thompson2008 Life and Action.md", "_원자료/claude.ai/chats/2026-06-04_설명 요청.md (488-506행)"], "sources_missing": []}
+  ]
+}

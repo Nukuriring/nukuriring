@@ -1,0 +1,70 @@
+{
+ "id": "21g2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "톰슨에 따르면 욕구는 감각자료와 같은 종류의 오류",
+   "label": "지지됨",
+   "evidence": "desires are a mistake on a par with sense-data",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "톰슨은 반심리주의자이나 화살표를 뒤집어 추론 파악을 먼저 둔다",
+   "label": "지지됨",
+   "evidence": "reverses the arrow",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "셀라스식 전략: 행위만 드는 이유 제시 관행이 핵심",
+   "label": "지지됨",
+   "evidence": "The strategy is Sellarsian",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "축은 문법적 상, 만들었다는 생겨남 함의 / 만들고 있다는 아님",
+   "label": "지지됨",
+   "evidence": "from the progressive it doesn't",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "자연 상태에서 'A하고 있으므로 B하고 있지만 지금 B하지 않는다' 혼란",
+   "label": "지지됨",
+   "evidence": "I'm B-ing because I'm A-ing, but I'm not B-ing",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "B할 것이다=준비, A하려 한다=계획, A하고 싶다=계획 이전 국면",
+   "label": "지지됨",
+   "evidence": "a pre-planning phase",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "내적 상태의 이름으로 읽는 일은 범주 오류",
+   "label": "지지됨",
+   "evidence": "a category mistake",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "감각자료 이론가의 '~인 것 같다' 오인과 같은 구도",
+   "label": "지지됨",
+   "evidence": "a device for hedging a commitment",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Millgram SEP Practical Reason and the Structure of Actions.md",
+  "_원자료/claude.ai/chats/2026-06-10_Understanding SEP entry walkthrough.md (379-393행)"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

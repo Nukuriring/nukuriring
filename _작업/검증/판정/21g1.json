@@ -1,0 +1,77 @@
+{
+ "id": "21g1",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "계산적 이유만 비선택적이므로 합리적 악덕이 가능하다",
+   "label": "지지됨",
+   "evidence": "one can be reasonably vicious",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "보글러는 앤스컴·아퀴나스 따라 프레게 반심리주의를 실천철학으로",
+   "label": "지지됨",
+   "evidence": "Fregean anti-psychologistic move",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "행위 구조에서 논리를 읽고 믿음·욕구는 들여다보지 않음",
+   "label": "지지됨",
+   "evidence": "look past beliefs and desires to actions",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "행위는 왜 물음으로 골라내고 나뉘며 종결점 향한 단계 계열",
+   "label": "지지됨",
+   "evidence": "series of steps toward a termination point",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "단계는 종결점 향할 때 합리적, 샐러드 후 견과 썰기는 비합리",
+   "label": "지지됨",
+   "evidence": "you finished the salad but keep obsessively chopping",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "이유가 있을 때마다 거의 언제나 계산적 이유도 있다",
+   "label": "지지됨",
+   "evidence": "whenever (or almost whenever)",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "비계산적 고려는 계산적 구조 전제, 계산적 구조는 전제 없음",
+   "label": "지지됨",
+   "evidence": "presupposes nothing further",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "큰 행위는 계산적으로 잘 짜여야 하므로 계산적 이유는 비선택적",
+   "label": "지지됨",
+   "evidence": "calculative reasons are nonoptional",
+   "note": ""
+  },
+  {
+   "n": 8,
+   "text": "극단적 부도덕도 비합리적일 필요 없다",
+   "label": "지지됨",
+   "evidence": "need not be irrational",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Millgram SEP Practical Reason and the Structure of Actions.md",
+  "_원자료/claude.ai/chats/2026-06-10_Understanding SEP entry walkthrough.md (379-393행)"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

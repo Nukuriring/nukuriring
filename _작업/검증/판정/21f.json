@@ -1,0 +1,70 @@
+{
+ "id": "21f",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "회고적 이유는 왜 물음을 끝내지만 그 동기 방침에는 전망적 이유가 있다",
+   "label": "부분 지지",
+   "evidence": "if this reason is of the forward-looking kind",
+   "note": "원문은 '답은 ~일 수 있다', '이유가 전망적이라면'으로 조건·가능성을 둠. 제목은 '있다'로 단정"
+  },
+  {
+   "n": 1,
+   "text": "회고적 이유는 necessarily ultimate, 왜?의 선형 반복 배제",
+   "label": "지지됨",
+   "evidence": "necessarily ultimate and exclude any linear reiteration",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "정직: 특정 주장을 삼가는 이유는 p를 믿지 않는다는 사실",
+   "label": "지지됨",
+   "evidence": "would not match your beliefs",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "왜 거짓말을 피하는가는 대략 왜 사실을 이유로 취급하는가",
+   "label": "지지됨",
+   "evidence": "treat the fact that you do not believe that p",
+   "note": "원문의 'or imply'는 카드에서 빠짐(경미)"
+  },
+  {
+   "n": 4,
+   "text": "답은 온전한 인간·천국·기억력 같은 전망적 이유",
+   "label": "지지됨",
+   "evidence": "states a forward-looking reason",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "이 이유들은 특정 상황에서 특정 주장을 거절할 이유가 아님",
+   "label": "지지됨",
+   "evidence": "not, however, a reason for refusing",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "ϕ할 이유로 취급하는 일의 이유를 배경 이유라 부른다",
+   "label": "지지됨",
+   "evidence": "It might be called a background reason",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "원자료에 저자명이 없고 자기 인용에 근거한 추정",
+   "label": "지지됨",
+   "evidence": "my “Mental Teleology”",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Mueller Backward-Looking Rationality.md",
+  "_원자료/claude.ai/chats/2026-07-03_Backward-looking reasons and teleological action.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
