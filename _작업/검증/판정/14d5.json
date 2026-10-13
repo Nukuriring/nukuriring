@@ -1,0 +1,71 @@
+{
+ "id": "14d5",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "자율적 지식인 이상을 버리고 통제적 지성을 행사하는 자율성을 남긴다",
+   "label": "지지됨",
+   "evidence": "통제적 지성을 행사하는 자",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "매키는 지식 대부분이 증언으로 들어온다 인정, 흄 기획 성공이 자율적 지식에 필수",
+   "label": "지지됨",
+   "evidence": "the greater part of what each one of us knows",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "자율적 지식인은 'off his own bat' 알아야, 증인 신빙성을 스스로 확인한 경우에만",
+   "label": "지지됨",
+   "evidence": "only if the knower somehow checks, for himself",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "코디는 이 이상이 'chimerical', 기획은 원리상 그릇되었다고 본다",
+   "label": "지지됨",
+   "evidence": "환상에 불과(chimerical)",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "자율과 극단적 개인주의의 결합이 불가피하지 않다고 답한다",
+   "label": "지지됨",
+   "evidence": "이 연결은 불가피하지 않다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "자율적 사상가도 타인 말에 대한 근본적 의존을 포기할 필요가 없고 이를 활용해야",
+   "label": "부분 지지",
+   "evidence": "어느 정도의 근본적 의존을 완전히 포기",
+   "note": "원문 정리는 '어느 정도의' 근본적 의존이라고 한정. 카드는 '어느 정도'를 뺐다."
+  },
+  {
+   "n": 6,
+   "text": "독립적 사상가는 정보 원천 입력에 통제적 지성을 행사하는 사람",
+   "label": "지지됨",
+   "evidence": "정보 원천들에서 받는 입력에 대해 통제적 지성",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "흄식 자율성 이상이 교육 이론에서 특히 해로웠다",
+   "label": "지지됨",
+   "evidence": "교육 이론에서 특히 해로웠다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "문헌/@Coady1992 Testimony.md",
+  "_원자료/claude.ai/chats/2026-05-11_Reductionist thesis and the circularity of testimony.md",
+  "_원자료/claude.ai/chats/2026-05-11_네 번째 논문 내용 추출 작업.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

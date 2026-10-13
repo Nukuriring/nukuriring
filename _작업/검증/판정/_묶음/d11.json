@@ -1,0 +1,298 @@
+{
+  "model": "sonnet",
+  "date": "2026-10-13",
+  "cards": [
+    {
+      "id": "52h2", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "라투르는 사회를 이질적 요소의 연계를 추적하는 결합들의 사회학으로", "label": "지지됨", "evidence": "사회학을 …‘연계를 추적하기’로 정의해야", "note": ""},
+        {"n": 1, "text": "발제문은 서론의 요약 번역이다", "label": "지지됨", "evidence": "요약 번역 및 토론 질문", "note": ""},
+        {"n": 2, "text": "사회적이라는 말은 결합 상태를 가리키나 불변하는 본질은 말할 수 없다", "label": "지지됨", "evidence": "불변하는 본질을 말하기 위해 쓰일 수는 없다", "note": ""},
+        {"n": 3, "text": "사회적인 것의 사회학은 잔여를 설명하는 별도 영역, 주체는 정보원", "label": "지지됨", "evidence": "잔류의 영역들…정보원들", "note": ""},
+        {"n": 4, "text": "결합들의 사회학은 고유한 현실 영역이 없다고 보고 사회를 도관 안 요소 중 하나로 읽는다", "label": "지지됨", "evidence": "작은 도관 안에서 순환하며 결합", "note": ""},
+        {"n": 5, "text": "사회학을 사회적인 것에 대한 학문이 아닌 연계 추적으로 정의", "label": "지지됨", "evidence": "‘연계를 추적하기’로 정의", "note": ""},
+        {"n": 6, "text": "socius 어원에서 보듯 이질적 요소의 연결에서 유래", "label": "지지됨", "evidence": "Socius 라는 라틴 어원에서도", "note": ""},
+        {"n": 7, "text": "사회적인 것은 비사회적 요소 결합이 남긴 흔적으로만 보인다", "label": "지지됨", "evidence": "연계가 남겨둔 흔적들을 통해서다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/철학 자료 마스터/김다은_라투르 서론 발제 35697cdd867e8153ab1dd3b6c22f05ae.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "52h2a", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "ANT 연구의 세 시험…분산과 해체는 극복할 대상", "label": "지지됨", "evidence": "분산, 붕괴, 해체는 ANT가 극복하려", "note": ""},
+        {"n": 1, "text": "결합들의 사회학…번역의 사회학…이름을 거치다 ANT 고안", "label": "지지됨", "evidence": "이름을 거치다가 A. N. T. 가 고안", "note": ""},
+        {"n": 2, "text": "세 시험을 통과하면 ANT 연구에 든다", "label": "부분 지지", "evidence": "범주에 들어올 수 있다고 말한다", "note": "원문은 '들어올 수 있다'(자격 가능)인데 카드는 '든다'로 단정."},
+        {"n": 3, "text": "첫째 비인간 요소를 행위자로 분류, 자연적 인과보다 넓은 행위", "label": "지지됨", "evidence": "비인간 요소들을 행위자로 분류하는 연구", "note": ""},
+        {"n": 4, "text": "둘째 사회적인 것의 정의가 안정되면 ANT 아님, 모든 원인 제공도 안 됨", "label": "지지됨", "evidence": "정의가 안정되어(stabilized) 있다면", "note": ""},
+        {"n": 5, "text": "셋째 재조립하려는 연구여야, 분산·해체 지향은 ANT 아님", "label": "지지됨", "evidence": "재조립(reassemble)하려 하는 것이 아니라", "note": ""},
+        {"n": 6, "text": "ANT가 포스트모던 이론으로 오해받았으나 분산·해체는 극복 대상", "label": "지지됨", "evidence": "포스트모던 이론으로 오해받곤 했으나", "note": ""},
+        {"n": 7, "text": "더 중요한 일은 새로운 기관·과정·개념을 찾는 것", "label": "지지됨", "evidence": "새로운 기관들, 과정들, 개념들을 찾아내는", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/철학 자료 마스터/김다은_라투르 서론 발제 35697cdd867e8153ab1dd3b6c22f05ae.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "52h2b", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "라투르는 사회적 설명을 속기로 보고 길게 쓰기로 바꾸어…집합체", "label": "지지됨", "evidence": "속기(shorthand)와도 같다", "note": ""},
+        {"n": 1, "text": "사회적 설명은 속기, 이제 길게 쓰기로 대체해야 한다", "label": "지지됨", "evidence": "길게 쓰기(longhand)로 대체해야", "note": ""},
+        {"n": 2, "text": "행위자를 정보원 역할에 가둘 수 없고 자기 이론을 쓸 능력을 돌려줘야", "label": "지지됨", "evidence": "그들만의 이론을 쓸 수 있는 능력을", "note": ""},
+        {"n": 3, "text": "ANT 연구자의 일은 행위자들 자신을 따라가는 것", "label": "지지됨", "evidence": "행위자들을 따라가야 한다", "note": ""},
+        {"n": 4, "text": "사회적인 것의 사회학은 이미 결합한 연결에는 작동하나 새 참여자 모으기엔 맞지 않는다", "label": "부분 지지", "evidence": "잘 작동하지 않을 것이다", "note": "원문은 '이미 결합한 연결들에 한해서는 잘 작동한다면…않을 것이다'로 추정형. 카드는 단정."},
+        {"n": 5, "text": "타르드를 순환하는 유동체로 보았다고 평가해 ANT 선구자로", "label": "지지됨", "evidence": "순환하는 유동체와 같아서…선구자", "note": ""},
+        {"n": 6, "text": "사회적 영역을 사회가 아닌 집합체로 부르기로 한다", "label": "지지됨", "evidence": "‘집합체(a collective)’라고 부르기로", "note": ""},
+        {"n": 7, "text": "세 의무에 차례로 답하는 구성, 가장 중요한 일은 공존할 방법", "label": "지지됨", "evidence": "공존(cohabit)할 방법이다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/철학 자료 마스터/김다은_라투르 서론 발제 35697cdd867e8153ab1dd3b6c22f05ae.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "52h2c", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "발제자는 모든 개체를 행위자로 놓으면…권력의 역사를 추적할 수 있는지 묻는다", "label": "지지됨", "evidence": "더 큰 agency를 가진 존재로 이해되지 않을까", "note": ""},
+        {"n": 1, "text": "토론 질문은 세 가지", "label": "지지됨", "evidence": "토론 질문 아래 세 문단", "note": ""},
+        {"n": 2, "text": "인간중심주의를 해체하면서도 사회의 기본 뜻은 해체하지 않아 의미가 있으나 우월한 행위자 우려", "label": "지지됨", "evidence": "우월한 행위자가 될 우려도 생기지", "note": ""},
+        {"n": 3, "text": "하먼에 따르면 행위자는 동등, 동맹으로만 힘을 얻는다", "label": "지지됨", "evidence": "all actants are on the same footing", "note": ""},
+        {"n": 4, "text": "권력과 지배의 역사를 추적할 수 있을지 의문, 평평한 지도", "label": "지지됨", "evidence": "평평한 지도 위의 선처럼 이루어지지는 않을 것 같다", "note": ""},
+        {"n": 5, "text": "연기설이나 도가의 도가 신유물론의 아시아적 선구자가 될 수 있는지", "label": "지지됨", "evidence": "아시아의 선구자로 기능할 수 있을까", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/철학 자료 마스터/김다은_라투르 서론 발제 35697cdd867e8153ab1dd3b6c22f05ae.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "14c", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "코디는 흄의 경험이 개인 관찰과 공동 경험 사이에서 흔들린다고 진단", "label": "지지됨", "evidence": "a fatal ambiguity in the use of terms", "note": ""},
+        {"n": 1, "text": "증언 신뢰가 비증언적 관찰로 정당화된다는 흄의 입장을 RT라 부르고 반박", "label": "지지됨", "evidence": "환원주의 테제(Reductionist Thesis, RT)", "note": ""},
+        {"n": 2, "text": "개인 관찰이면 명백히 거짓으로 보이고 공동 경험이면 논점 선취", "label": "지지됨", "evidence": "seems plainly false…surely question-begging", "note": ""},
+        {"n": 3, "text": "기적 논의의 'observed in any age or country'와 'uniform experience'는 공동 경험", "label": "지지됨", "evidence": "the common experience of mankind", "note": ""},
+        {"n": 4, "text": "편지 구절에서는 'my memory and observation'을 말한다", "label": "지지됨", "evidence": "And yet, 'my memory and observation'", "note": ""},
+        {"n": 5, "text": "혼용을 보고로 아는 것과 관찰로 아는 것이 근본 수준에서 쉽게 뒤섞인다는 증거로 읽는다", "label": "지지됨", "evidence": "How easy it is to appropriate at a very fundamental level", "note": ""},
+        {"n": 6, "text": "Claude: 이접지 소거 구조, 두 해석 사이를 오갈 때에만 그럴듯(대화 속 설명)", "label": "지지됨", "evidence": "이접지 소거(disjunction elimination) 구조", "note": ""}
+      ],
+      "sources_used": ["문헌/@Coady1992 Testimony.md", "_원자료/claude.ai/chats/2026-05-11_Reductionist thesis and the circularity of testimony.md", "_원자료/claude.ai/chats/2026-05-11_네 번째 논문 내용 추출 작업.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "14c1", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "공동 경험으로 읽은 환원주의는 증언을 증언으로 정당화하는 순환", "label": "지지됨", "evidence": "RT…involved in vicious circularity", "note": ""},
+        {"n": 1, "text": "기적 비판의 경험은 흄 개인의 관찰일 수 없다", "label": "지지됨", "evidence": "not to the mere solitary observations", "note": ""},
+        {"n": 2, "text": "건강해 보이던 사람의 급사를 흄이 직접 자주 관찰했을 가능성은 낮다", "label": "지지됨", "evidence": "it is quite likely that Hume…never", "note": ""},
+        {"n": 3, "text": "'어느 시대 어느 나라에서도'는 인류 전체의 관찰을 가리킨다", "label": "지지됨", "evidence": "observed in any age or country", "note": ""},
+        {"n": 4, "text": "인용: we have to take their reports seriously…", "label": "지지됨", "evidence": "we have to take their reports seriously", "note": ""},
+        {"n": 5, "text": "RT″에서 경험이 환원되지 않는 증언에 기대 악순환", "label": "지지됨", "evidence": "involved in vicious circularity", "note": ""},
+        {"n": 6, "text": "편지가 도착까지 거치는 전 경로를 직접 본 사람은 아마 없다", "label": "지지됨", "evidence": "probably no single person who has", "note": ""},
+        {"n": 7, "text": "우리 대부분은 아기가 태어나는 방식을 알지만 출산을 직접 본 적은 없다", "label": "부분 지지", "evidence": "very many of us have not observed even one birth", "note": "원문은 'very many/many of us'(많은 사람). 카드는 '대부분'으로 강도를 올림."},
+        {"n": 8, "text": "Claude: 같은 도식이 모든 증언에 적용되어 전역적 순환(대화 속 설명)", "label": "지지됨", "evidence": "구조적·전역적 순환", "note": ""}
+      ],
+      "sources_used": ["문헌/@Coady1992 Testimony.md", "_원자료/claude.ai/chats/2026-05-11_Reductionist thesis and the circularity of testimony.md", "_원자료/claude.ai/chats/2026-05-11_네 번째 논문 내용 추출 작업.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "14d5", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "자율적 지식인 이상을 버리고 통제적 지성을 행사하는 자율성을 남긴다", "label": "지지됨", "evidence": "통제적 지성을 행사하는 자", "note": ""},
+        {"n": 1, "text": "매키는 지식 대부분이 증언으로 들어온다 인정, 흄 기획 성공이 자율적 지식에 필수", "label": "지지됨", "evidence": "the greater part of what each one of us knows", "note": ""},
+        {"n": 2, "text": "자율적 지식인은 'off his own bat' 알아야, 증인 신빙성을 스스로 확인한 경우에만", "label": "지지됨", "evidence": "only if the knower somehow checks, for himself", "note": ""},
+        {"n": 3, "text": "코디는 이 이상이 'chimerical', 기획은 원리상 그릇되었다고 본다", "label": "지지됨", "evidence": "환상에 불과(chimerical)", "note": ""},
+        {"n": 4, "text": "자율과 극단적 개인주의의 결합이 불가피하지 않다고 답한다", "label": "지지됨", "evidence": "이 연결은 불가피하지 않다", "note": ""},
+        {"n": 5, "text": "자율적 사상가도 타인 말에 대한 근본적 의존을 포기할 필요가 없고 이를 활용해야", "label": "부분 지지", "evidence": "어느 정도의 근본적 의존을 완전히 포기", "note": "원문 정리는 '어느 정도의' 근본적 의존이라고 한정. 카드는 '어느 정도'를 뺐다."},
+        {"n": 6, "text": "독립적 사상가는 정보 원천 입력에 통제적 지성을 행사하는 사람", "label": "지지됨", "evidence": "정보 원천들에서 받는 입력에 대해 통제적 지성", "note": ""},
+        {"n": 7, "text": "흄식 자율성 이상이 교육 이론에서 특히 해로웠다", "label": "지지됨", "evidence": "교육 이론에서 특히 해로웠다", "note": ""}
+      ],
+      "sources_used": ["문헌/@Coady1992 Testimony.md", "_원자료/claude.ai/chats/2026-05-11_Reductionist thesis and the circularity of testimony.md", "_원자료/claude.ai/chats/2026-05-11_네 번째 논문 내용 추출 작업.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "37a", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "코디에 따르면 흄의 경험 개념은 개인 관찰이면 거짓이 되고 공동 경험이면 선결문제", "label": "부분 지지", "evidence": "this seems plainly false", "note": "원문은 '거짓으로 보인다(seems)'. 제목은 '거짓이 되고'로 단정."},
+        {"n": 1, "text": "RT 비판을 'a fatal ambiguity' 지적에서 출발", "label": "지지됨", "evidence": "My criticism begins by calling attention", "note": ""},
+        {"n": 2, "text": "흄은 경험이 신빙성을 보여 주었기 때문에 증언을 신뢰한다고 말한다", "label": "지지됨", "evidence": "experience has shown it to be reliable", "note": ""},
+        {"n": 3, "text": "개인 관찰을 뜻할 때 이 말은 'plainly false'이다", "label": "부분 지지", "evidence": "this seems plainly false", "note": "원문의 'seems'가 빠져 단정으로 바뀜."},
+        {"n": 4, "text": "공동 경험을 뜻할 때 'surely question-begging'", "label": "지지됨", "evidence": "it is surely question-begging", "note": ""},
+        {"n": 5, "text": "둘째 독해를 RT″라 부르고 먼저 다룬다", "label": "지지됨", "evidence": "To take the second part…first—let us call it RT″", "note": ""},
+        {"n": 6, "text": "흄은 어느 독해를 택해도 증언 신뢰를 경험으로 정당화하지 못한다", "label": "지지됨", "evidence": "RT…involved in vicious circularity", "note": ""}
+      ],
+      "sources_used": ["문헌/@Coady1992 Testimony.md", "_원자료/claude.ai/chats/2026-05-20_Hume's circular reasoning on testimony and experience.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "37b", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "흄 측은 화자가 속한 부류의 누적 경험으로 처음 만난 화자의 신빙성을 판단할 수 있다", "label": "지지됨", "evidence": "사회적 부류의 신빙성을 판단하면 된다고 대응할 수 있다", "note": ""},
+        {"n": 1, "text": "코디는 흄의 설명이 일상의 신빙성 판단을 포착하지 못한다고 본다", "label": "지지됨", "evidence": "포착하지 못한다고 본다", "note": ""},
+        {"n": 2, "text": "처음 보는 교수의 강연처럼 관찰한 적 없는 화자에게서도 정당화된 믿음", "label": "지지됨", "evidence": "처음 보는 교수의 강연을 듣고", "note": ""},
+        {"n": 3, "text": "청자는 직업군이나 경력 같은 부류를 신빙성 판단의 단위로 삼는다", "label": "지지됨", "evidence": "그가 속한 부류를 단위로 한 경험에 호소", "note": ""},
+        {"n": 4, "text": "부류 발언이 충분히 자주 사실로 드러났다면 부류에 속한다고 식별하는 한 판단 가능", "label": "지지됨", "evidence": "그 부류에 속한다고 식별하는 한", "note": ""},
+        {"n": 5, "text": "판단의 단위를 개별 화자에서 유형으로 옮겨 흄의 귀납적 틀을 유지", "label": "지지됨", "evidence": "개별 화자가 아닌 그가 속한 부류를 단위로", "note": "'귀납적 일반화'는 Claude 02:50 표현."},
+        {"n": 6, "text": "코디 원문에 이 형태로 있는지는 확인하지 못했다", "label": "지지됨", "evidence": "원문 대조 못 함(문헌 노트 확인 필요)", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-19_증언적 지식의 정당화 근거에 관한 철학적 논쟁.md", "_원자료/claude.ai/chats/2026-05-20_증언의 정당화와 경험의 순환 문제.md", "_원자료/claude.ai/chats/2026-05-25_증언의 신빙성 판단 근거에 관한 철학적 논의.md", "문헌/@Coady1992 Testimony.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "37b1", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "코디의 재반박에 따르면 부류 귀속 정보가 다시 증언에서 오므로 판단이 미루어진다", "label": "지지됨", "evidence": "끝없이 미루어진다", "note": ""},
+        {"n": 1, "text": "원자료 초고에서 코디는 부류 호소에 이렇게 답한다", "label": "지지됨", "evidence": "그러나 코디에 따르면 이 경우에도", "note": ""},
+        {"n": 2, "text": "부류로 판단하려면 X가 그 부류에 속하는지를 먼저 판단해야 한다", "label": "지지됨", "evidence": "X가 실제로 그러한 부류에 속해 있는지", "note": ""},
+        {"n": 3, "text": "정보는 대개 X를 아는 사람의 말, 명함·자격증, 자기소개 같은 증언에서 온다", "label": "지지됨", "evidence": "X를 아는 사람의 말, X의 명함 등", "note": ""},
+        {"n": 4, "text": "그 정보를 전한 화자의 신빙성을 먼저 판단해야 하고 그 정보도 증언에 기댄다", "label": "지지됨", "evidence": "그 판단에 필요한 정보 역시 또 다른 증언", "note": ""},
+        {"n": 5, "text": "끝없이 미루어지고, 흄 측 응수는 정당화를 또 다른 증언으로 미루는 데 그친다", "label": "지지됨", "evidence": "또 다른 증언적 믿음의 정당화로 미루는 데", "note": ""},
+        {"n": 6, "text": "후퇴 논변은 코디 원문에서 이 형태를 확인하지 못했다", "label": "지지됨", "evidence": "원문 확인 필요(문헌 노트)", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-19_증언적 지식의 정당화 근거에 관한 철학적 논쟁.md", "_원자료/claude.ai/chats/2026-05-20_증언적 믿음의 정당화와 화자 식별.md", "_원자료/claude.ai/chats/2026-05-20_증언의 정당화와 경험의 순환 문제.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "37b2", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "흄 측은 후퇴 사슬이 청자가 직접 검증한 가까운 증언자에서 끝난다고 응수할 수 있다", "label": "지지됨", "evidence": "가까운 증언자(가족, 친구)에서 끝나면", "note": ""},
+        {"n": 1, "text": "코디의 후퇴 논변은 판단이 끝없이 미루어진다고 결론짓는다", "label": "지지됨", "evidence": "끝없이 다른 화자의 신빙성 판단으로", "note": ""},
+        {"n": 2, "text": "사슬이 오랫동안 관찰해 온 가족이나 친구에서 끝난다", "label": "지지됨", "evidence": "청자가 누적 관찰한 가까운 증언자", "note": ""},
+        {"n": 3, "text": "그 신빙성은 직접 누적한 관찰로 확인되므로 사슬은 다른 증언으로 넘어가지 않는다", "label": "지지됨", "evidence": "사슬이 결국 …에서 끝나면 그만", "note": ""},
+        {"n": 4, "text": "응수가 옳다면 결론은 사슬이 길 수 있다는 점까지만 보여 준다", "label": "지지됨", "evidence": "진짜 끝없음을 입증한 게 아니라", "note": ""},
+        {"n": 5, "text": "진료 행위나 강의를 직접 관찰해 부류를 추론하는 경로도 빈틈으로 든다", "label": "지지됨", "evidence": "X의 진료 행위를 직접 관찰하거나", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-19_증언적 지식의 정당화 근거에 관한 철학적 논쟁.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "37c5", "voice": "종합", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "추정적 권리를 도입하면 근거가 화자의 신빙성에서 청자의 권리로 옮겨 간다", "label": "지지됨", "evidence": "화자 측 속성에서 청자 측 권리로 이행", "note": ""},
+        {"n": 1, "text": "흄의 틀에서 정당화는 화자의 신빙성, 곧 화자 쪽 속성에 달려 있다", "label": "부분 지지", "evidence": "정당화는 화자의 신빙성에 달려 있다", "note": "이 문장은 지문 1문단의 일반 정의로 인용됨. 원자료는 '흄의 틀'로 귀속하지 않음."},
+        {"n": 2, "text": "코디 결론에서 증언적 믿음은 청자에게 부여된 추정적 권리에 근거해 정당화", "label": "지지됨", "evidence": "청자에게 부여된 추정적 권리에 근거해", "note": ""},
+        {"n": 3, "text": "두 층위가 다르므로 이 이행은 두 가지로 읽힌다", "label": "지지됨", "evidence": "같은 층위가 아니야…두 가지로 해석", "note": ""},
+        {"n": 4, "text": "한 독해에서 코디는 근거를 화자의 신빙성에서 청자의 권리로 바꾼다", "label": "지지됨", "evidence": "정당화 근거를…*대체*했다", "note": ""},
+        {"n": 5, "text": "다른 독해에서 권리는 화자가 사전적으로 신빙성 있게 간주되게 하고 정당화는 그것을 거친다", "label": "지지됨", "evidence": "이 인정이 증언적 믿음의 정당화 근거가 된다", "note": ""},
+        {"n": 6, "text": "독해에 따라 프리커식 비판의 적중 여부가 달라진다", "label": "지지됨", "evidence": "프리커 비판을 해석하는 방식이 갈려", "note": ""},
+        {"n": 7, "text": "권리는 외부주의적 자격처럼 강하게도, 기본값 규칙처럼 약하게도 읽힌다", "label": "지지됨", "evidence": "외부주의적 인식 권한…default rule", "note": ""},
+        {"n": 8, "text": "한 정련안은 증언 지식 형성의 인간 인식 관행을 부여 근거로 적는다", "label": "지지됨", "evidence": "인간의 인식 관행 자체가 그 부여의 근거다", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/chats/2026-05-19_증언적 지식의 정당화 근거에 관한 철학적 논쟁.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "35i2", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "서운함의 진리 조건은 둘만의 질서에 상대적이어서 시정을 요구할 수 없다", "label": "지지됨", "evidence": "오직 둘만의 질서에만 상대적이라는 사실에서", "note": ""},
+        {"n": 1, "text": "톰슨은 양극 형식의 의무와 자격이 특정 질서에 결부되어야 참거짓을 가진다고 본다", "label": "지지됨", "evidence": "특정한 질서에 결부되어야 비로소", "note": ""},
+        {"n": 2, "text": "같은 청구가 법, 놀이 규칙, 예절 관행 아래의 청구일 수 있고 질서에 따라 잘못이기도 아니기도", "label": "지지됨", "evidence": "잘못이기도 하고 아니기도 하다", "note": "놀이·예절은 Thompson 문헌 노트 논증 5."},
+        {"n": 3, "text": "서운함의 청구는 둘만의 질서에 결부된다", "label": "지지됨", "evidence": "이 관계만이 당사자인 둘만의 질서다", "note": ""},
+        {"n": 4, "text": "연인의 마땅한 목록은 법전·도덕 규범집에 없고 둘만의 질서 안에서는 마땅할 수 있다", "label": "지지됨", "evidence": "둘만의 질서 안에서는 마땅한 것일 수 있다", "note": ""},
+        {"n": 5, "text": "외부 강제력으로 시정하게 할 수 있다면 공적 질서 아래 청구, 서운함의 문장이 못 된다", "label": "지지됨", "evidence": "이미 외부의 강제력을 갖춘 공적 질서", "note": ""},
+        {"n": 6, "text": "시정 요구 불가는 진리 조건의 상대성에서 곧바로 따라 나온다", "label": "지지됨", "evidence": "곧바로 따라 나온다", "note": ""}
+      ],
+      "sources_used": ["문헌/@Thompson2004 What Is It to Wrong Someone.md", "_원자료/claude.ai/projects/집필/docs/현재까지 집필.md", "_원자료/claude.ai/projects/집필/chats/2026-06-03_글쓰기 이어서 작성하기.md", "_원자료/claude.ai/projects/집필/chats/2026-06-05_글의 방향성과 논리 구조 정리.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "35i2a", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "공유된 법이라 여긴 것이 나만의 조례였을 가능성이 들어 있다", "label": "지지됨", "evidence": "실은 나만의 조례였을 가능성이", "note": ""},
+        {"n": 1, "text": "진리 조건이 질서에 상대적이라는 말은 그 질서가 실제로 있을 때에만 뜻을 가진다", "label": "지지됨", "evidence": "그 질서가 실제로 있을 때에만 뜻을 가진다", "note": ""},
+        {"n": 2, "text": "질서는 판단들과 함께 생겨나고 공포되지 않은 의무는 구속하지 못한다", "label": "지지됨", "evidence": "알 수 없게 가려진 법은 아무도 구속하지 못한다", "note": ""},
+        {"n": 3, "text": "양극 의무는 조건이 양쪽에 걸려 두 파악이 우연히 겹친 것이어서는 안 된다", "label": "지지됨", "evidence": "두 파악이 우연히 겹치는 것이 아니어야", "note": ""},
+        {"n": 4, "text": "'당연히 알았어야' 서운함은 공유된 적 없는 조항 위반을 묻는 것일 수 있다", "label": "지지됨", "evidence": "내 안에만 있던 조례의 위반을 묻는다", "note": ""},
+        {"n": 5, "text": "떨어져 자란 두 무리의 우연한 같은 규범 사고실험, 같은 약속이 아니다", "label": "지지됨", "evidence": "같은 하나의 약속을 맺은 것이 아니다", "note": ""},
+        {"n": 6, "text": "톰슨은 이 사고실험을 롬바르드와 슐롬바르드라는 이름으로 제시", "label": "지지됨", "evidence": "롬바르드와 슐롬바르드 사고실험", "note": "Thompson 문헌 노트 논증 6."},
+        {"n": 7, "text": "닮음이 우연이면 같은 질서 아래 서지 못하고 우연 여부는 행동만으론 가려지지 않는다", "label": "지지됨", "evidence": "닮음이 우연인지 아닌지는 행동 위에 적혀 있지 않기", "note": ""}
+      ],
+      "sources_used": ["문헌/@Thompson2004 What Is It to Wrong Someone.md", "_원자료/claude.ai/projects/집필/docs/현재까지 집필.md", "_원자료/claude.ai/projects/집필/chats/2026-06-03_글쓰기 이어서 작성하기.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "35i3a", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "강제할 수 없음과 자신 있게 말할 수 없음은 외부 기관 없음에서 함께 나온다", "label": "지지됨", "evidence": "이 '기관 없음'에서 둘이 동시에 떨어진다", "note": ""},
+        {"n": 1, "text": "둘째 직관은 구성적 주장(강제 불가)과 인식적 주장(확증 불가)이 겹쳐 있다", "label": "지지됨", "evidence": "(2a) 강요·요구 불가…(2b) 자신 있게 말 못 함", "note": ""},
+        {"n": 2, "text": "둘만의 질서는 외부 기관 없이 비우연적 상호 파악으로만 존재", "label": "지지됨", "evidence": "오직 양쪽의 비우연적 상호 파악으로만", "note": ""},
+        {"n": 3, "text": "강제로 시정할 곳도 공유를 바깥에서 확증해 줄 곳도 없다", "label": "지지됨", "evidence": "외부에서 확증할 데도 없다", "note": ""},
+        {"n": 4, "text": "이론화 불가에서 일치 불성립·결코 확신 불가로 건너가면 과장", "label": "지지됨", "evidence": "건너뛰면 과장이야", "note": ""},
+        {"n": 5, "text": "톰슨은 깔끔한 이론을 부정하되 공유가 일어난다는 점은 인정(대화 속 설명)", "label": "지지됨", "evidence": "부정하는 건 공유의 깔끔한 이론", "note": ""},
+        {"n": 6, "text": "추론은 외부에서 증언받을 수 없다는 비확증에서 멈추어야 한다", "label": "지지됨", "evidence": "확신을 외부에서 증언받을 수 없음 → 비확신", "note": ""},
+        {"n": 7, "text": "비확신은 그 공유에 우리 둘 말고 증인이 없다는 사실을 가리킨다", "label": "지지됨", "evidence": "우리 둘 말고 증인이 없다", "note": ""}
+      ],
+      "sources_used": ["_원자료/claude.ai/projects/집필/chats/2026-06-05_글의 방향성과 논리 구조 정리.md", "문헌/@Thompson2004 What Is It to Wrong Someone.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "35i4a", "voice": "종합", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "서운함은 함께 쌓은 질서를 어겼다는 결과 사랑이라면 당연하다는 표준을 어겼다는 결로 나뉜다", "label": "지지됨", "evidence": "서운함이 두 결로 쪼개진다", "note": ""},
+        {"n": 1, "text": "'우리가 쌓아 온 질서를 어겼다'에서만 나온다면 흄의 답이 이긴다", "label": "지지됨", "evidence": "전자만이라면 — 흄이 이깁니다", "note": ""},
+        {"n": 2, "text": "함께 익힌 관행이 공유를 떠받치고 남는 불확실성은 흄과 같은 편에서 세울 수 있다", "label": "지지됨", "evidence": "이미 흄과 같은 편에서 세운 물음", "note": ""},
+        {"n": 3, "text": "서운함이 '사랑이라면 당연히' 표준에 호소할 때가 있다", "label": "지지됨", "evidence": "서운함엔 둘째 결이 있다", "note": ""},
+        {"n": 4, "text": "이 결은 명시적 관행으로 환원되지 않아 흄이 떠받치지 못한다", "label": "지지됨", "evidence": "흄은 이걸 못 떠받쳐요", "note": ""},
+        {"n": 5, "text": "이 결에서 아리스토텔레스와 칸트의 답이 다시 경합하고 곤란도 들어온다", "label": "지지됨", "evidence": "아리스토텔레스…와 칸트가 재입장", "note": ""},
+        {"n": 6, "text": "서운함은 정의의 바깥으로 뻗는 야심을 친밀 안으로 되들여오는 결을 품는다", "label": "지지됨", "evidence": "친밀 안으로 몰래 되들여온다", "note": ""},
+        {"n": 7, "text": "톰슨의 삼자 퍼즐은 이 결에서만 다시 힘을 얻는다", "label": "지지됨", "evidence": "이 결에 대해서만 삼자가 다시 경합", "note": "원자료는 '새 척추 후보(확정 아님)'로 제시하고 영진이 재구성에 동의함."}
+      ],
+      "sources_used": ["_원자료/claude.ai/projects/집필/chats/2026-06-03_원천 파트 진입 전 작업 확인.md", "문헌/@Thompson2004 What Is It to Wrong Someone.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "43e1", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "파생적 이유와 구성적 이유는 다른 이유에 책임을 돌릴 뿐이다", "label": "지지됨", "evidence": "이건 결국 폭탄 돌리기다", "note": ""},
+        {"n": 1, "text": "수단이라는 설명에는 순응이 그 일을 효과적으로 돕는다는 보장이 없다", "label": "지지됨", "evidence": "효과적인 수단임을 보장해주는 것이 없다", "note": ""},
+        {"n": 2, "text": "잘못된 믿음대로 행동하라는 요구는 효과적인 수단이 되지 못한다", "label": "지지됨", "evidence": "효과적인 수단이 아니다", "note": ""},
+        {"n": 3, "text": "합리적 성향의 일반적 이유가 있어도 비판을 말이 되게 하는 이유가 필요하다", "label": "지지됨", "evidence": "비판을 말이 되게 하는 이유들을 원한다", "note": ""},
+        {"n": 4, "text": "구성적 설명은 행위자가 될 이유 등이 있고 순응이 그 일을 구성한다고 말한다", "label": "지지됨", "evidence": "순응하는 것은 구성적인 것이다", "note": ""},
+        {"n": 5, "text": "이 설명은 왜 행위자가 되어야 하는지로 물음을 바꿀 뿐이다", "label": "지지됨", "evidence": "질문을 대체하는 것 뿐", "note": ""},
+        {"n": 6, "text": "자율적일 이유가 항상 결정적인 것도 아니며 다른 이유와 경쟁해 패배할 수 있다", "label": "부분 지지", "evidence": "경쟁하는 것이 가능해 보인다", "note": "필기는 '그렇지 않은 것 같다', '~처럼 보인다', '가능해 보인다'로 한정. 카드는 단정."},
+        {"n": 7, "text": "패배할 수 있는 이유는 비판을 정초하지 못한다", "label": "지지됨", "evidence": "패배할 수 있는 이유는 비판을 정초하지 못한다", "note": ""},
+        {"n": 8, "text": "파생적 설명은 그 이유가 항상 결정적이어야 한다는 요건을 넘지 못한다", "label": "지지됨", "evidence": "그 이유가 항상 결정적 이유라는", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/분석철학/Why be Rational Kiesewetter 7504c2534b6c4243905732f8cda5f96e.md", "문헌/@Kiesewetter2017 The Normativity of Rationality.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "43e3", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "구조적 요구는 평결적이지 않아서 책임 전가 논증이 성립하지 않는다", "label": "부분 지지", "evidence": "평결적이어 보이지 않는다", "note": "필기는 '평결적이어 보이지 않는다'. 제목은 '평결적이지 않아서'로 단정(본문은 '보이지 않고'로 유지)."},
+        {"n": 1, "text": "책임 전가 논증은 합리성의 요구를 이유에 대한 평결적 발화로 읽는다", "label": "지지됨", "evidence": "평결적 명제들이다", "note": ""},
+        {"n": 2, "text": "도덕이 돕기를 요구한다는 말은 도덕적 이유가 도움을 결정적으로 지지한다는 말", "label": "지지됨", "evidence": "결정적으로 지지한다고 밝히는 것", "note": ""},
+        {"n": 3, "text": "키제베터는 구조적 요구에 이 읽기가 맞지 않다고 본다", "label": "지지됨", "evidence": "평결적이어 보이지 않는다", "note": ""},
+        {"n": 4, "text": "비합리성은 기존 이유와 무관하게 성립하므로 요구가 기존 이유를 선언할 수 없다", "label": "지지됨", "evidence": "기존에 가지고 있던 이유와 무관하게 발생", "note": ""},
+        {"n": 5, "text": "증거가 세 믿음의 조합을 금지한다는 결론이 나오는 논증", "label": "지지됨", "evidence": "증거는 우리에게…하지 않도록 요구한다", "note": ""},
+        {"n": 6, "text": "문제는 전제 2이다", "label": "지지됨", "evidence": "전제 2번이 문제다", "note": ""},
+        {"n": 7, "text": "확률적 명제는 연언하면 확률이 곱해져 낮아지고, 거짓 확실해도 각 믿음의 충분한 이유는 있을 수 있다", "label": "부분 지지", "evidence": "보통 확률적 명제 두 개를 결합하면 확률 곱", "note": "필기는 '보통'이라 한정. 카드는 '보통'을 뺐다."}
+      ],
+      "sources_used": ["_원자료/notion/…/분석철학/Why be Rational Kiesewetter 7504c2534b6c4243905732f8cda5f96e.md", "문헌/@Kiesewetter2017 The Normativity of Rationality.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "43e4", "voice": "문헌", "verdict": "지지됨",
+      "claims": [
+        {"n": 0, "text": "투명성 설명은 합리성의 규범성을 행위자의 심리적 사실로 환원한다", "label": "지지됨", "evidence": "규범성을 행위자의 심리적 사실로 환원한다", "note": ""},
+        {"n": 1, "text": "구조적 비합리성은 태도 상태와 결정적 이유를 믿는 판단 사이의 충돌에서 생긴다", "label": "지지됨", "evidence": "판단 사이의 충돌에서 발생한다", "note": ""},
+        {"n": 2, "text": "키제베터는 이를 TPA로 정식화한다", "label": "지지됨", "evidence": "결국 TPA: A가 p하도록", "note": ""},
+        {"n": 3, "text": "세 우려: 규범적 내용 충돌 없을 수 있음, 상태-부여 이유 인정, 반응 못해도 비합리적 아닐 수 있음", "label": "지지됨", "evidence": "우려 (1)…(2)…(3)", "note": ""},
+        {"n": 4, "text": "우려를 접어도 심리적 사실로 환원하므로 오류 이론에 해당한다", "label": "지지됨", "evidence": "오류 이론에 개입하게 된다", "note": ""},
+        {"n": 5, "text": "행위자 관점에서는 설명하나 2·3인칭의 규범적 외견은 설명하지 못한다", "label": "지지됨", "evidence": "1인칭 말고 2인칭이나 3인칭에서…설명 못함", "note": ""},
+        {"n": 6, "text": "비판은 규범적 사실 평가를 포함해 심리적 사실로는 비판 기능을 설명할 수 없다", "label": "지지됨", "evidence": "비판은 규범적 사실에 대한 평가를 포함", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/분석철학/Why be Rational Kiesewetter 7504c2534b6c4243905732f8cda5f96e.md", "문헌/@Kiesewetter2017 The Normativity of Rationality.md"],
+      "sources_missing": []
+    },
+    {
+      "id": "43f", "voice": "문헌", "verdict": "부분",
+      "claims": [
+        {"n": 0, "text": "좁은·넓은 범위 해석은 각각 문제를 안아 구조적 합리성은 허상으로 남는다", "label": "지지됨", "evidence": "(7) 결국 구조적 합리성은 환상이다", "note": ""},
+        {"n": 1, "text": "키제베터는 규범성만이 아니라 구조적 요구라는 발상 자체를 공격한다", "label": "지지됨", "evidence": "구조적 합리성 자체가 말이 안된다는 것을", "note": ""},
+        {"n": 2, "text": "좁은 범위는 조건 태도를 가졌을 때 결론 태도를 요구하는 형태", "label": "부분 지지", "evidence": "합리성은 애니에게 강의에 갈 의도를 요구", "note": "필기에 NS 정의 문장이 없고 Annie 사례에서 조건-요구 구조가 드러남. Grep: 좁은 범위/narrow/NSP/조건적."},
+        {"n": 3, "text": "넓은 범위는 조건 태도를 포기하거나 결론 태도를 가지라는 선언 형태", "label": "지지됨", "evidence": "[믿음을 포기하거나 의도를 가져라]", "note": ""},
+        {"n": 4, "text": "좁은 범위의 세 문제: 부트스트래핑, 비일관적 요구, 서로를 약화하는 요구", "label": "지지됨", "evidence": "bootstrapping 비일관적 요구…함축", "note": ""},
+        {"n": 5, "text": "넓은 범위의 문제: 비대칭성 설명 못함, 선언 요구가 반응을 인도 못함", "label": "지지됨", "evidence": "비대칭성을 설명 못함 2. 우리의 반응을 이끌 수 없음", "note": ""},
+        {"n": 6, "text": "이 고찰들이 구조적 합리성을 의심할 충분한 이유가 된다고 결론", "label": "지지됨", "evidence": "의심할 충분한 이유를 제공한다", "note": ""}
+      ],
+      "sources_used": ["_원자료/notion/…/분석철학/Why be Rational Kiesewetter 7504c2534b6c4243905732f8cda5f96e.md", "문헌/@Kiesewetter2017 The Normativity of Rationality.md"],
+      "sources_missing": []
+    }
+  ]
+}
