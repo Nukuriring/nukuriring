@@ -1,0 +1,62 @@
+{
+ "id": "51j6",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "절차적 자율성 정의는 선의 이론을 끌어들이고 실질적 자율성 정의는 자유주의적 헌신과 충돌",
+   "label": "부분 지지",
+   "evidence": "It is difficult to imagine ... retain our liberal commitments",
+   "note": "원문은 '유지하는 정의를 상상하기 어렵다'. 제목은 '충돌한다'로 강도를 높임. 본문은 '유지하기 어렵다'로 맞음."
+  },
+  {
+   "n": 1,
+   "text": "절차적으로 비자율적이라고 방어하려 할 때마다 선호의 내용이 중요하다고 말하게 되어 선의 이론으로 보충",
+   "label": "부분 지지",
+   "evidence": "Almost every time we attempted",
+   "note": "원문은 'Almost every time'(거의 매번). 카드는 '때마다'로 '거의'를 뺌."
+  },
+  {
+   "n": 2,
+   "text": "이 선의 이론이 자신의 완전주의적 정의에 내장된 인간 번영 관념",
+   "label": "지지됨",
+   "evidence": "conception of human flourishing built into my",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "실질적 자율성 정의는 직관에 맞게 식별하면서 자유주의적 헌신을 유지하기 어렵다",
+   "label": "지지됨",
+   "evidence": "It is difficult to imagine a substantive",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "박탈된 사람과 아닌 사람 모두 내면화한 가치로 선택하고 선호가 사회 조건과 인과적으로 연결",
+   "label": "지지됨",
+   "evidence": "Both deprived and nondeprived people make",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "적응적 선호는 박탈에 의해 부과된 선호이며 내용과 박탈과의 인과 관계로 규정",
+   "label": "지지됨",
+   "evidence": "preferences imposed by deprivation",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "행위자로 그리려는 욕구와 억압의 심리적 효과를 인정하려는 욕구가 충돌하는 지점",
+   "label": "지지됨",
+   "evidence": "sometimes at odds with our desire",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/.../Khader_adaptive preference.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

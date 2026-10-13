@@ -1,0 +1,56 @@
+{
+ "id": "51i2c",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "콩은 팬데믹기 반아시아 인종주의와 연대를 정체성 의미가 저항 속에서 다시 쓰이는 사례로 든다",
+   "label": "지지됨",
+   "evidence": "정체성 유동성 테제 강화",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "팬데믹 이후 모델 마이너리티가 옐로 퍼릴과 영원한 외국인으로 뒤집힘",
+   "label": "지지됨",
+   "evidence": "옐로 퍼릴·영원한 외국인으로 뒤집힘",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "인종주의, 언어 차별, 성차별이 동시에 작동하고 여성 혐오 범죄 신고가 남성보다 높음",
+   "label": "지지됨",
+   "evidence": "증오 범죄 보고가 남성보다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "순응이 보호가 못 되자 Stop AAPI Hate 등이 생기고 아시아성에 저항과 행동의 의미 부여",
+   "label": "지지됨",
+   "evidence": "효과 없음이 드러남 / Stop AAPI Hate",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "아시아계-흑인 페미니스트 연대는 교차 구조를 겨냥하며 Weir의 변형적 동일시를 구현",
+   "label": "지지됨",
+   "evidence": "transformative identification 직접 구현",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "비판자가 예측한 상호 배타성에 대한 반례",
+   "label": "지지됨",
+   "evidence": "상호 배타성 부정",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/.../Kong_Non ideal theory.md",
+  "문헌/@Kong Intersectional Non-Ideal Theory.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

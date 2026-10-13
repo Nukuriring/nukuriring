@@ -1,0 +1,56 @@
+{
+ "id": "51i2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "콩은 교차성이 여성을 쪼갠다는 비판이 고정된 구슬 형이상학에 기댄다고 논증",
+   "label": "지지됨",
+   "evidence": "pop-bead metaphysics",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "논문 목적: 비판이 전제하는 정체성 개념을 분석하고 새 교차성 페미니즘 이론을 전개",
+   "label": "지지됨",
+   "evidence": "새로운 교차성 페미니즘 이론을 전개함",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "비교불가능성 비판: 교차 정체성마다 고유한 조건이 있어 공통 척도가 사라짐",
+   "label": "지지됨",
+   "evidence": "공통 척도나 번역 가능성이 사라진다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "무한 분절 비판: 정의할 때마다 요소가 덧붙어 분석 단위가 개인으로 줄어듦",
+   "label": "지지됨",
+   "evidence": "분석 단위가 개인으로 축소된다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "두 비판 모두 정체성을 미리 완결된 불변의 실체로 상정, Spelman의 pop-bead 형이상학",
+   "label": "지지됨",
+   "evidence": "사전적·불변적 / Spelman 1988",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "비판자들이 추상적 탐구에 몰두해 교차점 여성들이 정체성으로 실제 하는 일을 놓침",
+   "label": "지지됨",
+   "evidence": "what women ... are actually doing",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/.../Kong_Non ideal theory.md",
+  "문헌/@Kong Intersectional Non-Ideal Theory.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

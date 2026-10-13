@@ -1,0 +1,70 @@
+{
+ "id": "43o",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "욕구-믿음 동일론은 욕구가 행위의 합리성에 차이를 만드는 방식을 에크라시아 요구로 설명",
+   "label": "지지됨",
+   "evidence": "Dab는 Enkratic requirement로 욕구의 Rationality를 설명",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "그레고리의 물음: 욕구가 합리성에 어떤 차이를 만드는가",
+   "label": "지지됨",
+   "evidence": "욕구는 무엇이 합리적인지에 대하여 어떻게 차이를 만드는가?",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "욕구가 행위를 합리화한다는 주장은 이해 가능성 이상의 지위를 부여하는 설명을 요구",
+   "label": "부분 지지",
+   "evidence": "이해 가능성 이상의 status를 action에 부여할 수 있다",
+   "note": "원문은 '부여할 수 있다'인데 카드는 설명이 '요구한다'로 바꿈"
+  },
+  {
+   "n": 3,
+   "text": "여러 욕구론은 설명 곤란, 동일론은 규범적 믿음에 따라 살라는 제약으로 설명",
+   "label": "지지됨",
+   "evidence": "many theories of desire will struggle",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "에크라시아 요구: v해야 한다고 믿으면 합리성이 v하도록 요구",
+   "label": "지지됨",
+   "evidence": "v를 해야만 한다고 믿는다면 ... 요구한다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "가장 좋은 판본: 이유가 있다고 믿으면 v하기를 선호",
+   "label": "지지됨",
+   "evidence": "p2. ... v하는 것을 선호한다",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "두 전제(욕구/이유 믿음 모두 선호)",
+   "label": "지지됨",
+   "evidence": "p1 ... p2",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "IBE로 v 욕구=이유 믿음",
+   "label": "지지됨",
+   "evidence": "IBE → v를 욕구하는 것은 v를 할 이유가 있다고 믿는 것",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/.../Dab - Rationality 20197cdd....md",
+  "문헌/@Gregory2021 Desire as Belief.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

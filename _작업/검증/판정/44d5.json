@@ -1,0 +1,56 @@
+{
+ "id": "44d5",
+ "voice": "문헌",
+ "verdict": "원문없음",
+ "claims": [
+  {
+   "n": 0,
+   "text": "내재적 차단자는 성향 모형의 문제이며 자려는 욕구는 차단자로 설명 안 됨",
+   "label": "지지됨",
+   "evidence": "Maksing factor로 취급하는 건 어려운 문제다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "필기: 내적 상태를 차단 요인으로 다루기는 어려운 문제",
+   "label": "지지됨",
+   "evidence": "어려운 문제다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "내재적 차단자는 인과 사슬을 막는 주체 내부의 무언가",
+   "label": "지지됨",
+   "evidence": "인과적 chain을 막는 내재적인 무언가",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "자려는 욕구를 차단자로 설명할 수 없다",
+   "label": "지지됨",
+   "evidence": "Intrinsic Mask가 있어서 못 자는 형태로 설명할 수는 없다",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "대상을 자려는 행위로 보면 인과 사슬이 이어질 수 있다",
+   "label": "지지됨",
+   "evidence": "causal chain이 이어질 수 있다",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "차단으로 반례를 처리하는 전략은 A&S가 비판한 전통적 이론의 전략",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "Grep: A&S, 아팔리, Alvarez, Schroeder, 슈로더, 전통적 이론 (0314 필기와 SmithM 노트) 없음"
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/.../0314 35697cdd....md",
+  "문헌/@SmithM Humean Theory of Motivation.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

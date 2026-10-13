@@ -1,0 +1,91 @@
+{
+ "id": "44h7",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "사전 의도는 문제 제기와 선택지 거름의 배경 틀, 프레임워크 이유는 경쟁하지 않음",
+   "label": "지지됨",
+   "evidence": "These reasons do not compete with desire-belief reasons",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "중심 문제는 두 종류 실천 추론의 관계",
+   "label": "지지됨",
+   "evidence": "relation between two kinds of practical reasoning",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "두 추론의 내용",
+   "label": "지지됨",
+   "evidence": "weighing of desire-belief reasons ... prior intention",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "답: 사전 의도가 저울질의 배경 틀",
+   "label": "지지됨",
+   "evidence": "a background framework within which the weighing",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "틀은 문제를 제기(수단-목적)하고 거른다(일관성)",
+   "label": "지지됨",
+   "evidence": "standards of relevance ... filter of admissibility",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "101번 도로 예",
+   "label": "지지됨",
+   "evidence": "turning right at Page Mill is an admissible",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "실천 추론은 두 층",
+   "label": "지지됨",
+   "evidence": "Practical reasoning, then, has two levels",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "의도는 저울에 올라 이유를 주지 않고 고려할 선택지를 정함",
+   "label": "지지됨",
+   "evidence": "rather than to provide reasons to be weighed",
+   "note": ""
+  },
+  {
+   "n": 8,
+   "text": "파바로티 예",
+   "label": "지지됨",
+   "evidence": "intention to hear Pavarotti partly constitutes",
+   "note": ""
+  },
+  {
+   "n": 9,
+   "text": "시간 조각 행위자를 피하게 함",
+   "label": "지지됨",
+   "evidence": "avoid being merely time-slice agents",
+   "note": ""
+  },
+  {
+   "n": 10,
+   "text": "필기는 프레임워크 이유라 부르고 경쟁하지 않으며 구조화",
+   "label": "지지됨",
+   "evidence": "structure the process of weighing such reasons",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/.../Bratman_chap 3 35697cdd....md",
+  "문헌/@Bratman1987 Intention, Plans, and Practical Reason.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

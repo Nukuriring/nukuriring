@@ -1,0 +1,62 @@
+{
+ "id": "51j6a",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "적응적 선호를 전체 자기 손상이 아니라 선택적 자기자격 결핍으로 보아야 행위성을 유지하며 가질 수 있다",
+   "label": "지지됨",
+   "evidence": "selective self-entitlement deficits",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "Adaptive Self View: 적응적 선호를 가진 사람은 대체로 자신에게 좋은 것을 욕구하지 못한다",
+   "label": "지지됨",
+   "evidence": "generally fail to desire what is good",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "이 견해는 억압과 박탈을 심각하고 깊이 해로운 것으로 다루게 하는 장점",
+   "label": "지지됨",
+   "evidence": "treat oppression ... as serious and deeply",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "진정한 욕구를 형성할 수 없다고 받아들이면 극복 역할에 대한 결론이 편향",
+   "label": "지지됨",
+   "evidence": "it will prejudice our conclusions",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "자기 개념과 선호가 여럿이고 모순되면 부분적으로 긍정적인 자기 개념을 유지하는 것이 이상하지 않다",
+   "label": "지지됨",
+   "evidence": "retain partially positive self-concepts",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "좋은 아내와 어머니가 되려는 욕구는 역할에서 얻는 실제 만족과 인정에 부분적으로 뿌리를 둔다",
+   "label": "부분 지지",
+   "evidence": "rooted partly in a sense of self-entitlement",
+   "note": "원문은 그 욕구가 '번영에 대한 자기자격 의식'에 부분적으로 뿌리를 둔다고 읽자는 것이고, 만족과 인정은 역할 수행에서 '얻을 수 있는' 것으로 따로 적음. 카드는 뿌리를 만족과 인정으로 바꿈."
+  },
+  {
+   "n": 6,
+   "text": "일부 적응적 선호는 자기 이익 오인에서 나오고, 일반화된 부정적 자기관은 심한 학대 피해자에게 전형적일 수 있다",
+   "label": "지지됨",
+   "evidence": "It may be typical of people who are victims",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/.../Khader_adaptive preference.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

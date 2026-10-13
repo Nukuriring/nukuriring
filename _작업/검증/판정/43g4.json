@@ -1,0 +1,55 @@
+{
+ "id": "43g4",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "TR은 유일성 논제와 풍부성 문제를 함축하는 듯하다",
+   "label": "지지됨",
+   "evidence": "RRR에서 TR은 자연스럽게 따라나오는 것처럼 보인다",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "RRR에서 TR이 따라 나오는 듯하다",
+   "label": "지지됨",
+   "evidence": "자연스럽게 따라나오는 것처럼 보인다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "TR의 내용(충분한 증거 있으면 믿도록, 없으면 믿지 않도록)",
+   "label": "지지됨",
+   "evidence": "충분한 증거를 가지고 있지 않다면 ... 믿지 않도록",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "TR은 유일성 논제를 함축한다",
+   "label": "지지됨",
+   "evidence": "TR은 행위자로 하여금 단 하나의 태도만을 가지도록 허용",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "유일성이면 무한히 많은 믿음이 요구되는 풍부성 문제",
+   "label": "지지됨",
+   "evidence": "잠재적으로 무한하게 다양한 믿음들을 정당화",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "명시/성향 구분으로 해결 안 됨",
+   "label": "지지됨",
+   "evidence": "이미 믿음을 가지고 있다 말하기는 어려워 보인다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/.../Rationality as Responding Correctly to Reasons 44afe6f7....md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

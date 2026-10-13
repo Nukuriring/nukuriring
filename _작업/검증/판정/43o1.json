@@ -1,0 +1,49 @@
+{
+ "id": "43o1",
+ "voice": "종합",
+ "verdict": "원문없음",
+ "claims": [
+  {
+   "n": 0,
+   "text": "약화된 판본에는 추가 정당화가 필요해 보인다",
+   "label": "부분 지지",
+   "evidence": "넘어가는게 의심스럽다",
+   "note": "원문은 '의심스럽다'뿐; 추가 정당화 요구는 카드의 풀이"
+  },
+  {
+   "n": 1,
+   "text": "영진은 에크라시아→가장 좋은 판본 단계가 의심스럽다고 적음",
+   "label": "지지됨",
+   "evidence": "넘어가는게 의심스럽다",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "두 판본의 조건과 귀결 차이(해야 한다/이유 있다, 요구/선호)",
+   "label": "지지됨",
+   "evidence": "만약 v를 해야만 한다고 믿는다면 ... 요구",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "해야 한다→이유가 있다, 요구→선호로 모두 약해진다",
+   "label": "부분 지지",
+   "evidence": "The best Enkratic requirement ... 선호한다",
+   "note": "정식 차이는 있으나 '약해진다'는 평가는 원문에 없고 카드의 해석"
+  },
+  {
+   "n": 4,
+   "text": "최선 추론 설명의 두 전제는 약해진 판본에서야 성립한다",
+   "label": "원문에 없음",
+   "evidence": "",
+   "note": "Grep: 약화, 약해, 정당화, justif 등 해당 대목 없음; 필기는 두 전제를 '선호' 판본으로 적을 뿐"
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/.../Dab - Rationality 20197cdd....md",
+  "문헌/@Gregory2021 Desire as Belief.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,78 @@
+{
+ "id": "44h8",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "비대칭성 논제: 비일관성이 미완결보다 비판받을 비합리성에 더 가깝다",
+   "label": "지지됨",
+   "evidence": "closer to criticizable irrationality than is",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "비일관성/미완결의 정의",
+   "label": "지지됨",
+   "evidence": "intending to A without believing one will",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "두 생각: 기대 지지와 번복 가능한 요구",
+   "label": "지지됨",
+   "evidence": "there is a defeasible demand",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "두 생각에서 A할 믿음 요구 결론은 안 나옴",
+   "label": "지지됨",
+   "evidence": "still do not entail that an intention to A actually requires",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "서점·구조 작전 예",
+   "label": "지지됨",
+   "evidence": "stop at the bookstore on the way home",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "비대칭의 이유: 비일관성이 정합적 계획을 더 직접 해침",
+   "label": "지지됨",
+   "evidence": "more directly undermines coherent planning",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "확신 없으면 조건적 계획으로 복잡하게 짤 수 있다",
+   "label": "지지됨",
+   "evidence": "I can make my plans for tomorrow appropriately more complex",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "못 가리라 믿으면 서점을 두 번 가는 계획",
+   "label": "지지됨",
+   "evidence": "planning to go to the bookstore twice",
+   "note": ""
+  },
+  {
+   "n": 8,
+   "text": "믿는다는 것은 높은 확률 부여하며 그 가정 위에서 계획할 자리에 놓이는 일",
+   "label": "부분 지지",
+   "evidence": "what seems distinctive about believing",
+   "note": "원문은 '단지 높은 확률 부여가 아니며, 계획할 자리에 놓이는 점이 distinctive해 보인다'; '해 보인다' 한정과 계획 이론 전제 빠짐"
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/.../Bratman_chap 3 35697cdd....md",
+  "_원자료/notion/.../Response_0409 35697cdd....md",
+  "문헌/@Bratman1987 Intention, Plans, and Practical Reason.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

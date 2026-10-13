@@ -1,0 +1,78 @@
+{
+ "id": "61p",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "브룸은 어긋난 의무 사례로 규범적 분리를 거부하지만 키제베터는 문제가 없다고 본다",
+   "label": "부분 지지",
+   "evidence": "받아들여도 문제가 없어 보인다고 이야기한다",
+   "note": "원문 '없어 보인다'가 제목에서 '없다고 본다'로 단정됨"
+  },
+  {
+   "n": 1,
+   "text": "키제베터: 넓은 범위여도 후건 분리 문제로 자체 생산 문제를 못 벗어남",
+   "label": "지지됨",
+   "evidence": "후건 분리 문제에서 자유로울 수 없고",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "강한 규범성 논제 받아들이고 특정 원리 받아들이면 문제",
+   "label": "지지됨",
+   "evidence": "특정한 원리들을 받아들일 경우에 문제 발생",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "원리: 규범적 후건 분리, 자유로운 전달, 필수적 수단 전달",
+   "label": "지지됨",
+   "evidence": "Normative detachment / liberal transmission / Necessary Means",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "규범적 분리의 정식",
+   "label": "지지됨",
+   "evidence": "O: p & O: (p —> q) → O: q",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "브룸은 세 원리를 모두 받아들이지 않음",
+   "label": "지지됨",
+   "evidence": "위의 세 원리를 모두 받아들이지 않는다",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "브룸은 어긋난 의무 사례로 규범적 분리 반박",
+   "label": "지지됨",
+   "evidence": "브룸의 반대 - Contrary to duty",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "도우러 가야/돕는다면 알려야 사례",
+   "label": "지지됨",
+   "evidence": "그렇다고 항상 알려야 하지는 않는다",
+   "note": ""
+  },
+  {
+   "n": 8,
+   "text": "키제베터: 규범적 상황에서 후건 분리는 문제 안 됨",
+   "label": "지지됨",
+   "evidence": "규범적 상황에서는 후건의 분리가 문제가 되지 않는다",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/.../인식론 연습 4 07 a240d5ff....md",
+  "문헌/@Kiesewetter2017 The Normativity of Rationality.md",
+  "문헌/@Broome2013 Rationality Through Reasoning.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

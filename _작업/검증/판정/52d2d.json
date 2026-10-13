@@ -1,0 +1,69 @@
+{
+ "id": "52d2d",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "통계적으로 유의미한 하위집단만 보호하자는 제안도 과소대표 집단을 지워 또 다른 게리맨더링",
+   "label": "지지됨",
+   "evidence": "another form of fairness gerrymandering",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "일부 연구자는 너무 적지도 많지도 않은 합리적 지점에서 나누기를 멈추자고 제안",
+   "label": "지지됨",
+   "evidence": "stop splitting at a 'reasonable' point",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "이는 컴퓨터가 식별할 수 있는 통계적으로 유의미한 하위집단만 고려하자는 것",
+   "label": "지지됨",
+   "evidence": "statistically meaningful subgroups",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "콩은 이 제안이 소수 하위집단 보호에 실패한다고 본다",
+   "label": "지지됨",
+   "evidence": "failure to protect minority subgroups",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "교차적 억압으로 극히 과소대표된 집단은 통계적으로 무의미하다고 무시되기 쉽다",
+   "label": "지지됨",
+   "evidence": "likely to be dismissed as",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "인종과 성별을 보호 속성으로 정해도 더 많은 교차 부정의 관점에서 자의적이라 비판받을 수 있다",
+   "label": "지지됨",
+   "evidence": "can also be criticized for being arbitrary",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "무엇이 관련 있는지는 정치적 싸움터이므로 통계적 유의미성 응답은 자의성 우려를 풀지 못함",
+   "label": "지지됨",
+   "evidence": "a political battleground, not merely a statistical",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "text": "논바이너리는 알고리즘에 성별 유형으로 없어 관찰되지 않은 특성, Costanza-Chock의 경험",
+   "label": "지지됨",
+   "evidence": "an 'unobserved characteristic'",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/.../kong_ai fairness.md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
