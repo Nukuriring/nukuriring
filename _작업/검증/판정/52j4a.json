@@ -1,0 +1,55 @@
+{
+ "id": "52j4a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "식욕과 기개는 좋음의 외양이나 생각을 포함하나 판단일 필요 없음",
+   "label": "지지됨",
+   "evidence": "need not always be judged as good",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "그렇지 않으면 의지 박약이 불가능",
+   "label": "지지됨",
+   "evidence": "or else akrasia would not be possible",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "소망은 좋다는 판단을 포함하고 선택은 해야 한다는 판단 포함",
+   "label": "지지됨",
+   "evidence": "wish cannot fail to include a judgement",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "소망과 선택이 그 판단과 동일하지는 않다",
+   "label": "지지됨",
+   "evidence": "neither wishes nor choices are identical",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "흄은 반대자로 해석되곤 하나 이성만으로 동기화 못함",
+   "label": "지지됨",
+   "evidence": "sometimes interpreted as an opponent",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "욕구와 독립된 좋음의 개념이 할 자리가 없어 보인다",
+   "label": "지지됨",
+   "evidence": "There seems no room, here",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Orsi 정리 35697cdd….md 60-64행"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

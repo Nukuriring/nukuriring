@@ -1,0 +1,55 @@
+{
+ "id": "52j2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "주관과 객관을 모두 요구하는 판본은 세 가지 오류를 허용",
+   "label": "지지됨",
+   "evidence": "three sorts of 'mistakes in desire'",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "순수한 사실 오류(아보카도)와 과다 또는 과소 욕구",
+   "label": "지지됨",
+   "evidence": "desire it too much or too little",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "사드의 경우 맥락상 좋음이 아닌 오류",
+   "label": "지지됨",
+   "evidence": "as in de Sade's case, the property P may fail",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "주관만 요구하면 셋째 오류가 더 급진적일 수 있다",
+   "label": "지지됨",
+   "evidence": "can be a much more radical mistake",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "객관만 요구하는 판본은 평가적 관점을 거부해 범위 밖",
+   "label": "지지됨",
+   "evidence": "lying outside the range of claims",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "합리적 행위자 이해는 평가하는 존재 이해를 요구한다는 논변",
+   "label": "지지됨",
+   "evidence": "understanding ourselves as evaluating beings",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Orsi 정리 35697cdd….md 20-34행"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,62 @@
+{
+ "id": "52j5b",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "왜 물음이 정신적 원인과 행위자의 이유 두 가지로 나뉨",
+   "label": "지지됨",
+   "evidence": "the mental cause question and the agent's reason",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "좋음의 외양은 두 번째 물음을 포착하는 유일하거나 최선의 길",
+   "label": "지지됨",
+   "evidence": "the only or the best way to capture",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "22절 근처: 이유는 좋거나 나쁜 것으로 다룸, 복수 예",
+   "label": "지지됨",
+   "evidence": "conceives it as something good or bad",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "가치 시험이고 정신적 원인 설명은 영향받지 않음",
+   "label": "지지됨",
+   "evidence": "Call this the 'value-test'",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "미래를 향한 이유에도 같은 시험을 적용하자는 제안",
+   "label": "지지됨",
+   "evidence": "run her 'value-test' for forward-looking",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "암묵적 전제가 이유와 동기를 분리해 좋음의 외양을 처음 놓은 새 출발",
+   "label": "부분 지지",
+   "evidence": "Anscombe is probably the first philosopher",
+   "note": "원문은 'probably the first'로 한정함. 또 새 출발은 전제가 아니라 논변(분리)에 붙은 평가."
+  },
+  {
+   "n": 6,
+   "text": "분리에 기대면 논제를 포기할 이유일 수도, 데이비슨 판본",
+   "label": "지지됨",
+   "evidence": "one may well decide to abandon",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Orsi 정리 35697cdd….md 88-110행"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

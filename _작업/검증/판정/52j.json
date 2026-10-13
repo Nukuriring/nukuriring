@@ -1,0 +1,48 @@
+{
+ "id": "52j",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "논제를 여러 조절 손잡이로 나눠 변형의 범위를 정한다",
+   "label": "지지됨",
+   "evidence": "a final set of 'control knobs'",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "기본 형태는 A가 x를 욕구하면 x가 좋음의 외양 아래 나타남",
+   "label": "지지됨",
+   "evidence": "GG … a conditional statement",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "손잡이: 선택성, 평가 종류, 나타남, 논리 형식, 범위",
+   "label": "지지됨",
+   "evidence": "Objective + Subjective … Appearing? …",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "평가적 또는 규범적 술어로 지정되면 모두 좋음의 외양",
+   "label": "지지됨",
+   "evidence": "specified with an unambiguously normative",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "아리스토텔레스, 흄, 앤스콤의 역사적 읽기를 정리",
+   "label": "지지됨",
+   "evidence": "Hume / Anscombe 소절",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Orsi 정리 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

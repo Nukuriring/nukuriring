@@ -1,0 +1,55 @@
+{
+ "id": "52j1",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "욕구에만 또는 의도에만 적용하는 선택적 판본",
+   "label": "지지됨",
+   "evidence": "perhaps only desires, or perhaps only intentions",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "덜 단정적이지만 의도가 욕구에 기대 옹호하기 어렵다",
+   "label": "부분 지지",
+   "evidence": "probably also harder to defend",
+   "note": "원문은 'probably'로 한정함. 카드와 제목은 단정."
+  },
+  {
+   "n": 2,
+   "text": "할머니 찾아가기 예시와 오르시의 물음",
+   "label": "지지됨",
+   "evidence": "If intending to visit grandma depends on",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "실제로 좋게 제시된 욕구만 의도의 후보인 판본",
+   "label": "지지됨",
+   "evidence": "applies uniformly to intentions, but only to some",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "동기가 되는 이유에 적용하는 선택지",
+   "label": "지지됨",
+   "evidence": "not to a certain state … but to motivating reasons",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "지침을 규범적 이유 일반으로 넓힐 수도 있다",
+   "label": "지지됨",
+   "evidence": "guise of 'normative reasons'",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Orsi 정리 35697cdd….md 14-18행"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

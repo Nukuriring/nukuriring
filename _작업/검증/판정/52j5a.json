@@ -1,0 +1,55 @@
+{
+ "id": "52j5a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "이유 없는 행위도 의도적일 수 있고 그때는 좋음 아래 원함이 아닌 듯",
+   "label": "지지됨",
+   "evidence": "we don't seem to want something under",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "삼단논법 맥락 도입, 과거 향한 이유와 해석적 동기는 전제 불가",
+   "label": "지지됨",
+   "evidence": "backward-looking reasons … interpretative motives",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "원함을 대전제로 표현되는 것에 한정하지 않는다고 읽음",
+   "label": "지지됨",
+   "evidence": "does not mean 'wanting' to be confined",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "근거: 실천적 추론이나 왜 물음의 순서는 혼돈에 질서를 드러내는 장치",
+   "label": "지지됨",
+   "evidence": "a device which reveals the order",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "결론: 원함, 이유 물음의 연속성, 의도적 행위 특징",
+   "label": "지지됨",
+   "evidence": "is about intentional action, because (1)",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "소리쳐 요구하는 아이의 원함은 논제 밖, 평가적 사고가 곁에",
+   "label": "지지됨",
+   "evidence": "must be in the offing",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Orsi 정리 35697cdd….md 74-86행"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

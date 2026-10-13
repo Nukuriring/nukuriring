@@ -1,0 +1,55 @@
+{
+ "id": "52j4",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "논리적 형식은 필요조건, 필요충분조건, 동일성 셋",
+   "label": "지지됨",
+   "evidence": "necessary condition, necessary and sufficient",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "셋 다 우선순위를 못 정해 설명 방향이 필요, GG+",
+   "label": "지지됨",
+   "evidence": "GG+. If A desires x, then A desires x because",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "때문의 의미는 인과적일 수도, 구성적 또는 개념적일 수도",
+   "label": "지지됨",
+   "evidence": "It could be, broadly speaking, causal",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "위 판본들은 평가 없는 욕구와 사탄적 욕구를 닫는다",
+   "label": "지지됨",
+   "evidence": "leave no room at all for the possibility",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "합리적 존재, 핵심 사례, 일반화로 약화한 판본도 받아들임",
+   "label": "지지됨",
+   "evidence": "weaker or qualified versions",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "통계적 주장과 규범적 주장은 너무 약해 범위 밖",
+   "label": "지지됨",
+   "evidence": "a purely statistical claim … too weak",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Orsi 정리 35697cdd….md 48-58행"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

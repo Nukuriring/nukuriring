@@ -1,0 +1,62 @@
+{
+ "id": "52j5",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "내가 x를 원하기 때문이라는 답은 만족스럽지 않다",
+   "label": "지지됨",
+   "evidence": "cannot be, as such, a satisfactory answer",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "답은 바람직성 규정을 가리켜야 한다(진흙 한 접시)",
+   "label": "지지됨",
+   "evidence": "a 'desirability characterisation'",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "매력은 끌린다는 사실과 독립적으로 이해 가능해야 한다",
+   "label": "지지됨",
+   "evidence": "intelligible independent of the fact",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "주관적이면서 객관적, 잘못 생각해도 선의 형태 중 하나",
+   "label": "지지됨",
+   "evidence": "perhaps falsely … one of the many forms of good",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "예: 쾌락, 건강, 나치에게 어울림, 밀턴의 사탄",
+   "label": "지지됨",
+   "evidence": "befits a Nazi; Milton's Satan",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "선은 여러 형태이고 어떤 선의 면 아래 본다는 것뿐",
+   "label": "지지됨",
+   "evidence": "Bonum est multiplex",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "오르시는 주관과 객관을 함께 요구하는 판본으로 읽는다",
+   "label": "지지됨",
+   "evidence": "Subjective + Objective version",
+   "note": "앤스콤 원문과 쪽수 인용은 대조하지 않음(카드도 명시)."
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Orsi 정리 35697cdd….md 66-74행"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

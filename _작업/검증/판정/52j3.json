@@ -1,0 +1,48 @@
+{
+ "id": "52j3",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "나타남의 심리적 의미에 내용 견해와 태도 견해 두 해석",
+   "label": "지지됨",
+   "evidence": "Two main options are possible",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "내용 견해는 평가 내용을 지닌 상태(현상, 지각, 믿음, 판단)",
+   "label": "지지됨",
+   "evidence": "an appearance or perception that x is good",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "태도 견해는 좋은 것으로 여기는 태도, 모형은 믿음",
+   "label": "지지됨",
+   "evidence": "a thinking-as-good attitude towards x",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "내용 견해는 평가 개념이 필요해 더 강해 보인다",
+   "label": "지지됨",
+   "evidence": "Content views … may seem stronger",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "태도를 욕구 개념 없이 정의해야 사소해지지 않는다",
+   "label": "지지됨",
+   "evidence": "otherwise … a trivial version",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/Orsi 정리 35697cdd….md 38-46행"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

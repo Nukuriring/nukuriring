@@ -1,0 +1,152 @@
+{
+  "model": "sonnet",
+  "date": "2026-10-13",
+  "cards": [
+    {"id": "51a1", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "민주정과 과두정은 동등성의 한 면을 전체로 오해해 단적으로 잘못", "label": "지지됨", "evidence": "단적으로 말하자면, 잘못되었다", "note": ""},
+      {"n": 1, "text": "동등성은 수적 동등성과 비례적 동등성의 두 겹", "label": "지지됨", "evidence": "이중적 동등성: 수적 동등성, 비례적 동등성", "note": ""},
+      {"n": 2, "text": "한 점에서 동등하면 전적으로 동등하다고 여기는 데서 불일치", "label": "지지됨", "evidence": "한 점에서 동등하면 전적으로 동등하다고", "note": ""},
+      {"n": 3, "text": "어느 정도의 정의는 갖지만 단적으로는 잘못", "label": "지지됨", "evidence": "어느정도의 정의를 가지고 있을 수는 있지만", "note": ""},
+      {"n": 4, "text": "필기는 한쪽 동등성 체제는 나쁘다는 취지이나 문장이 끊김", "label": "지지됨", "evidence": "한 쪽의 동등성으로만 조직된 … 나ㅃ", "note": ""}
+    ], "sources_used": ["정치학 5-6권 요약.md 3-44행"], "sources_missing": []},
+    {"id": "51a2", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "파당은 성향, 목적, 원인의 세 축으로 분류", "label": "지지됨", "evidence": "파당의 분류 1.성향 2.무엇을 위해 3.소요", "note": ""},
+      {"n": 1, "text": "덜 가진 자는 동등해지려, 동등한 자는 더 크게 되려", "label": "지지됨", "evidence": "덜 가진자들은 동등하고자 파당을 형성한다", "note": ""},
+      {"n": 2, "text": "목적은 이득, 명예, 불명예, 손실", "label": "지지됨", "evidence": "이득, 명예, 불명예, 손실.", "note": ""},
+      {"n": 3, "text": "원인 일곱 가지와 부가적 원인 셋", "label": "지지됨", "evidence": "부가적 원인: 편애적 관직 선거 운동", "note": ""}
+    ], "sources_used": ["정치학 5-6권 요약.md 46-79행"], "sources_missing": []},
+    {"id": "51a2e", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "체제는 힘으로도 속임수로도 바뀐다", "label": "지지됨", "evidence": "정치체제를 변화시키는 두 방법 (1) 힘 (2) 속임수", "note": ""},
+      {"n": 1, "text": "힘은 곧장 쓰거나 나중에야 쓴다", "label": "지지됨", "evidence": "처음부터 곧장 사용하거나 나중에야", "note": ""},
+      {"n": 2, "text": "속여 자발적으로 바꾸게 한 뒤 힘으로 유지", "label": "지지됨", "evidence": "그 다음으로 힘을 사용하여 유지한다", "note": ""},
+      {"n": 3, "text": "끝까지 설득해 인민을 자발적 상태로 지배", "label": "지지됨", "evidence": "처음부터 나중까지 설득하고", "note": ""},
+      {"n": 4, "text": "페르시아 전쟁 이후 아테네의 체제 변화 사례", "label": "지지됨", "evidence": "페르시아 전쟁 이후의 아테네 정치체제의 변화", "note": ""}
+    ], "sources_used": ["정치학 5-6권 요약.md 98-120행"], "sources_missing": []},
+    {"id": "51a3", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "인민 선도자가 부자를 공격하고 장군이면 참주정으로", "label": "지지됨", "evidence": "인민 선도자 = 장군인 경우 참주정으로 변화", "note": ""},
+      {"n": 1, "text": "공적 부담금과 중상무고로 부자들을 결속하게 만든다", "label": "지지됨", "evidence": "공적 부담금에 의해 나누도록 만듦", "note": ""},
+      {"n": 2, "text": "옛 참주정이 빈번했던 세 까닭", "label": "지지됨", "evidence": "도시가 크지 않았고 … 생업에 종사하느라", "note": ""},
+      {"n": 3, "text": "참주정을 피하려면 인민의 힘을 약화", "label": "지지됨", "evidence": "인민의 힘을 약화시켜야 한다", "note": ""}
+    ], "sources_used": ["정치학 5-6권 요약.md 122-134행"], "sources_missing": []},
+    {"id": "51a4", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "파괴하는 것의 반대가 체제를 보존한다", "label": "지지됨", "evidence": "파괴하는 것들의 반대의 것들이 … 보존한다", "note": ""},
+      {"n": 1, "text": "구체적 권고는 열두 가지", "label": "지지됨", "evidence": "8장 목록 1-12번", "note": ""},
+      {"n": 2, "text": "작은 불법 경계, 술책 거부, 임기 단축, 위협 자각", "label": "지지됨", "evidence": "작은 불법 행위들을 경계해야 한다", "note": ""},
+      {"n": 3, "text": "권력과 명예를 비율대로, 불만분자 감시, 균형 유지", "label": "지지됨", "evidence": "권력적 균형을 유지해야 한다", "note": ""},
+      {"n": 4, "text": "오래 관직을 맡으면 참주를 추구해 임기 제한", "label": "지지됨", "evidence": "오랜 시간 … 참주를 추구하게 된다", "note": ""}
+    ], "sources_used": ["정치학 5-6권 요약.md 170-185행"], "sources_missing": []},
+    {"id": "51a4b", "voice": "문헌", "verdict": "부분", "claims": [
+      {"n": 0, "text": "민주정에서 부자를 충분히 대우하고 공적 봉사를 떠맡지 않게", "label": "지지됨", "evidence": "부자들을 충분히 대우해주어야만 한다", "note": ""},
+      {"n": 1, "text": "과두정에서 가난한 자를 돌보고 관직 분배, 재산 평준화", "label": "지지됨", "evidence": "재산의 평준화를 목표로 해야한다", "note": ""},
+      {"n": 2, "text": "9장: 선도자는 부자를 위해 말하고 과두정 지배자는 인민 대신", "label": "지지됨", "evidence": "인민 선도자들은 부자들을 위해서 말해야", "note": ""},
+      {"n": 3, "text": "처방은 1장 진단에 대한 직접적 대응책이며 밀려난 쪽을 달랜다", "label": "부분 지지", "evidence": "정의관에 따른 마땅한 몫을 받지 못하는 사람들이 파당을 형성", "note": "1장 진단은 있으나 8-9장 처방을 그 대응책이라 잇는 말은 필기에 없음. 카드의 해석 연결."}
+    ], "sources_used": ["정치학 5-6권 요약.md 23행, 184-203행"], "sources_missing": []},
+    {"id": "51a4e", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "시민은 체제에 어울리는 교육을 받아야 하고 의지의 약함이 폴리스에도", "label": "지지됨", "evidence": "의지의 약함은 폴리스에서도 존재하는 것", "note": ""},
+      {"n": 1, "text": "교육은 지배자의 마음에 드는 일이 아니다", "label": "지지됨", "evidence": "기쁘게 하는 것을 행하는 것이 아니라", "note": ""},
+      {"n": 2, "text": "체제에 맞게 지배할 수 있도록 가르친다", "label": "지지됨", "evidence": "과두정적으로 지배할 수 있도록 만드는 것", "note": ""},
+      {"n": 3, "text": "교육은 보존 수단이면서 목표는 지배하는 능력", "label": "지지됨", "evidence": "지배할 수 있도록 만드는 것들을", "note": "카드의 정리. 9장 보존 맥락 안에 있음."}
+    ], "sources_used": ["정치학 5-6권 요약.md 204행"], "sources_missing": []},
+    {"id": "51a5c", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "소크라테스의 체제 변화론을 하나로 단순화했다고 비판", "label": "지지됨", "evidence": "단 하나의 형태만 있는 듯이 이야기", "note": ""},
+      {"n": 1, "text": "변화 주기가 왜 최선 체제에만 참인지 불분명", "label": "지지됨", "evidence": "왜 이 것이 … 정치체제에 대해서만 참인가", "note": ""},
+      {"n": 2, "text": "라코니케식 변화, 반대 방향, 참주정의 변화를 말하지 않음", "label": "지지됨", "evidence": "참주정이 변화하는지 … 말하지 않았다", "note": ""},
+      {"n": 3, "text": "과두정 원인을 돈 좋아함에서만 찾고 두 폴리스로 가름", "label": "지지됨", "evidence": "돈을 좋아하는 자들이고 … 불합리하다", "note": ""},
+      {"n": 4, "text": "과두정에서 민주정으로 가는 원인을 하나만 듦", "label": "지지됨", "evidence": "소크라테스는 단지 하나만을 말한다", "note": ""},
+      {"n": 5, "text": "과두정과 민주정이 여러 형태임을 무시", "label": "지지됨", "evidence": "여러 형태의 과두정과 민주정이 있지만", "note": ""}
+    ], "sources_used": ["정치학 5-6권 요약.md 288-304행"], "sources_missing": []},
+    {"id": "51b2", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "민주정의 근본 원리는 자유", "label": "지지됨", "evidence": "근본원리: 자유", "note": ""},
+      {"n": 1, "text": "첫째 구성요소는 번갈아 지배하고 지배받는 일", "label": "지지됨", "evidence": "번갈아가며 지배하고 지배받는 것", "note": ""},
+      {"n": 2, "text": "가치가 아닌 수에 따라 동등한 몫, 다중이 최고 권위", "label": "지지됨", "evidence": "다중은 필연적으로 최고의 권위를 가지며", "note": ""},
+      {"n": 3, "text": "둘째 구성요소는 원하는 대로 사는 것", "label": "지지됨", "evidence": "사람들이 원하는 대로 사는 것이다", "note": ""},
+      {"n": 4, "text": "이 원리가 지배받지 않음과 번갈아 지배받음 요구를 낳음", "label": "지지됨", "evidence": "지배받지 않음의 요구와 번걸아가며서", "note": ""}
+    ], "sources_used": ["정치학 5-6권 요약.md 326-332행"], "sources_missing": []},
+    {"id": "51b5", "voice": "문헌", "verdict": "부분", "claims": [
+      {"n": 0, "text": "과두정은 민주정의 반대로 확립되어야 한다", "label": "지지됨", "evidence": "과두정은 민주정의 반대로 확립되어야 한다", "note": ""},
+      {"n": 1, "text": "최선의 과두정은 혼합정에 가깝고 재산 자격을 세분화", "label": "지지됨", "evidence": "재산 자격 요건을 사안에 따라 세분화", "note": ""},
+      {"n": 2, "text": "민주정은 수로, 과두정은 구조와 질서로 안전", "label": "지지됨", "evidence": "안전을 좋은 구조와 질서에 의해서 확보", "note": ""},
+      {"n": 3, "text": "5권 9장의 중용 논지와 같은 방향", "label": "부분 지지", "evidence": "5권 9장 '극도로 몰아가면 둘 다 끔찍해진다'", "note": "9장 중용 대목은 있으나 필기가 6장과 잇지 않음. 카드의 해석 연결."}
+    ], "sources_used": ["정치학 5-6권 요약.md 202행, 391-397행"], "sources_missing": []},
+    {"id": "52j", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "논제를 여러 조절 손잡이로 나눠 변형의 범위를 정한다", "label": "지지됨", "evidence": "a final set of 'control knobs'", "note": ""},
+      {"n": 1, "text": "기본 형태는 A가 x를 욕구하면 x가 좋음의 외양 아래 나타남", "label": "지지됨", "evidence": "GG … a conditional statement", "note": ""},
+      {"n": 2, "text": "손잡이: 선택성, 평가 종류, 나타남, 논리 형식, 범위", "label": "지지됨", "evidence": "Objective + Subjective … Appearing? …", "note": ""},
+      {"n": 3, "text": "평가적 또는 규범적 술어로 지정되면 모두 좋음의 외양", "label": "지지됨", "evidence": "specified with an unambiguously normative", "note": ""},
+      {"n": 4, "text": "아리스토텔레스, 흄, 앤스콤의 역사적 읽기를 정리", "label": "지지됨", "evidence": "Hume / Anscombe 소절", "note": ""}
+    ], "sources_used": ["_원자료/notion/…/Orsi 정리 35697cdd….md"], "sources_missing": []},
+    {"id": "52j1", "voice": "문헌", "verdict": "부분", "claims": [
+      {"n": 0, "text": "욕구에만 또는 의도에만 적용하는 선택적 판본", "label": "지지됨", "evidence": "perhaps only desires, or perhaps only intentions", "note": ""},
+      {"n": 1, "text": "덜 단정적이지만 의도가 욕구에 기대 옹호하기 어렵다", "label": "부분 지지", "evidence": "probably also harder to defend", "note": "원문은 'probably'로 한정함. 카드와 제목은 단정."},
+      {"n": 2, "text": "할머니 찾아가기 예시와 오르시의 물음", "label": "지지됨", "evidence": "If intending to visit grandma depends on", "note": ""},
+      {"n": 3, "text": "실제로 좋게 제시된 욕구만 의도의 후보인 판본", "label": "지지됨", "evidence": "applies uniformly to intentions, but only to some", "note": ""},
+      {"n": 4, "text": "동기가 되는 이유에 적용하는 선택지", "label": "지지됨", "evidence": "not to a certain state … but to motivating reasons", "note": ""},
+      {"n": 5, "text": "지침을 규범적 이유 일반으로 넓힐 수도 있다", "label": "지지됨", "evidence": "guise of 'normative reasons'", "note": ""}
+    ], "sources_used": ["_원자료/notion/…/Orsi 정리 35697cdd….md 14-18행"], "sources_missing": []},
+    {"id": "52j2", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "주관과 객관을 모두 요구하는 판본은 세 가지 오류를 허용", "label": "지지됨", "evidence": "three sorts of 'mistakes in desire'", "note": ""},
+      {"n": 1, "text": "순수한 사실 오류(아보카도)와 과다 또는 과소 욕구", "label": "지지됨", "evidence": "desire it too much or too little", "note": ""},
+      {"n": 2, "text": "사드의 경우 맥락상 좋음이 아닌 오류", "label": "지지됨", "evidence": "as in de Sade's case, the property P may fail", "note": ""},
+      {"n": 3, "text": "주관만 요구하면 셋째 오류가 더 급진적일 수 있다", "label": "지지됨", "evidence": "can be a much more radical mistake", "note": ""},
+      {"n": 4, "text": "객관만 요구하는 판본은 평가적 관점을 거부해 범위 밖", "label": "지지됨", "evidence": "lying outside the range of claims", "note": ""},
+      {"n": 5, "text": "합리적 행위자 이해는 평가하는 존재 이해를 요구한다는 논변", "label": "지지됨", "evidence": "understanding ourselves as evaluating beings", "note": ""}
+    ], "sources_used": ["_원자료/notion/…/Orsi 정리 35697cdd….md 20-34행"], "sources_missing": []},
+    {"id": "52j3", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "나타남의 심리적 의미에 내용 견해와 태도 견해 두 해석", "label": "지지됨", "evidence": "Two main options are possible", "note": ""},
+      {"n": 1, "text": "내용 견해는 평가 내용을 지닌 상태(현상, 지각, 믿음, 판단)", "label": "지지됨", "evidence": "an appearance or perception that x is good", "note": ""},
+      {"n": 2, "text": "태도 견해는 좋은 것으로 여기는 태도, 모형은 믿음", "label": "지지됨", "evidence": "a thinking-as-good attitude towards x", "note": ""},
+      {"n": 3, "text": "내용 견해는 평가 개념이 필요해 더 강해 보인다", "label": "지지됨", "evidence": "Content views … may seem stronger", "note": ""},
+      {"n": 4, "text": "태도를 욕구 개념 없이 정의해야 사소해지지 않는다", "label": "지지됨", "evidence": "otherwise … a trivial version", "note": ""}
+    ], "sources_used": ["_원자료/notion/…/Orsi 정리 35697cdd….md 38-46행"], "sources_missing": []},
+    {"id": "52j4", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "논리적 형식은 필요조건, 필요충분조건, 동일성 셋", "label": "지지됨", "evidence": "necessary condition, necessary and sufficient", "note": ""},
+      {"n": 1, "text": "셋 다 우선순위를 못 정해 설명 방향이 필요, GG+", "label": "지지됨", "evidence": "GG+. If A desires x, then A desires x because", "note": ""},
+      {"n": 2, "text": "때문의 의미는 인과적일 수도, 구성적 또는 개념적일 수도", "label": "지지됨", "evidence": "It could be, broadly speaking, causal", "note": ""},
+      {"n": 3, "text": "위 판본들은 평가 없는 욕구와 사탄적 욕구를 닫는다", "label": "지지됨", "evidence": "leave no room at all for the possibility", "note": ""},
+      {"n": 4, "text": "합리적 존재, 핵심 사례, 일반화로 약화한 판본도 받아들임", "label": "지지됨", "evidence": "weaker or qualified versions", "note": ""},
+      {"n": 5, "text": "통계적 주장과 규범적 주장은 너무 약해 범위 밖", "label": "지지됨", "evidence": "a purely statistical claim … too weak", "note": ""}
+    ], "sources_used": ["_원자료/notion/…/Orsi 정리 35697cdd….md 48-58행"], "sources_missing": []},
+    {"id": "52j4a", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "식욕과 기개는 좋음의 외양이나 생각을 포함하나 판단일 필요 없음", "label": "지지됨", "evidence": "need not always be judged as good", "note": ""},
+      {"n": 1, "text": "그렇지 않으면 의지 박약이 불가능", "label": "지지됨", "evidence": "or else akrasia would not be possible", "note": ""},
+      {"n": 2, "text": "소망은 좋다는 판단을 포함하고 선택은 해야 한다는 판단 포함", "label": "지지됨", "evidence": "wish cannot fail to include a judgement", "note": ""},
+      {"n": 3, "text": "소망과 선택이 그 판단과 동일하지는 않다", "label": "지지됨", "evidence": "neither wishes nor choices are identical", "note": ""},
+      {"n": 4, "text": "흄은 반대자로 해석되곤 하나 이성만으로 동기화 못함", "label": "지지됨", "evidence": "sometimes interpreted as an opponent", "note": ""},
+      {"n": 5, "text": "욕구와 독립된 좋음의 개념이 할 자리가 없어 보인다", "label": "지지됨", "evidence": "There seems no room, here", "note": ""}
+    ], "sources_used": ["_원자료/notion/…/Orsi 정리 35697cdd….md 60-64행"], "sources_missing": []},
+    {"id": "52j5", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "내가 x를 원하기 때문이라는 답은 만족스럽지 않다", "label": "지지됨", "evidence": "cannot be, as such, a satisfactory answer", "note": ""},
+      {"n": 1, "text": "답은 바람직성 규정을 가리켜야 한다(진흙 한 접시)", "label": "지지됨", "evidence": "a 'desirability characterisation'", "note": ""},
+      {"n": 2, "text": "매력은 끌린다는 사실과 독립적으로 이해 가능해야 한다", "label": "지지됨", "evidence": "intelligible independent of the fact", "note": ""},
+      {"n": 3, "text": "주관적이면서 객관적, 잘못 생각해도 선의 형태 중 하나", "label": "지지됨", "evidence": "perhaps falsely … one of the many forms of good", "note": ""},
+      {"n": 4, "text": "예: 쾌락, 건강, 나치에게 어울림, 밀턴의 사탄", "label": "지지됨", "evidence": "befits a Nazi; Milton's Satan", "note": ""},
+      {"n": 5, "text": "선은 여러 형태이고 어떤 선의 면 아래 본다는 것뿐", "label": "지지됨", "evidence": "Bonum est multiplex", "note": ""},
+      {"n": 6, "text": "오르시는 주관과 객관을 함께 요구하는 판본으로 읽는다", "label": "지지됨", "evidence": "Subjective + Objective version", "note": "앤스콤 원문과 쪽수 인용은 대조하지 않음(카드도 명시)."}
+    ], "sources_used": ["_원자료/notion/…/Orsi 정리 35697cdd….md 66-74행"], "sources_missing": []},
+    {"id": "52j5a", "voice": "문헌", "verdict": "지지됨", "claims": [
+      {"n": 0, "text": "이유 없는 행위도 의도적일 수 있고 그때는 좋음 아래 원함이 아닌 듯", "label": "지지됨", "evidence": "we don't seem to want something under", "note": ""},
+      {"n": 1, "text": "삼단논법 맥락 도입, 과거 향한 이유와 해석적 동기는 전제 불가", "label": "지지됨", "evidence": "backward-looking reasons … interpretative motives", "note": ""},
+      {"n": 2, "text": "원함을 대전제로 표현되는 것에 한정하지 않는다고 읽음", "label": "지지됨", "evidence": "does not mean 'wanting' to be confined", "note": ""},
+      {"n": 3, "text": "근거: 실천적 추론이나 왜 물음의 순서는 혼돈에 질서를 드러내는 장치", "label": "지지됨", "evidence": "a device which reveals the order", "note": ""},
+      {"n": 4, "text": "결론: 원함, 이유 물음의 연속성, 의도적 행위 특징", "label": "지지됨", "evidence": "is about intentional action, because (1)", "note": ""},
+      {"n": 5, "text": "소리쳐 요구하는 아이의 원함은 논제 밖, 평가적 사고가 곁에", "label": "지지됨", "evidence": "must be in the offing", "note": ""}
+    ], "sources_used": ["_원자료/notion/…/Orsi 정리 35697cdd….md 74-86행"], "sources_missing": []},
+    {"id": "52j5b", "voice": "문헌", "verdict": "부분", "claims": [
+      {"n": 0, "text": "왜 물음이 정신적 원인과 행위자의 이유 두 가지로 나뉨", "label": "지지됨", "evidence": "the mental cause question and the agent's reason", "note": ""},
+      {"n": 1, "text": "좋음의 외양은 두 번째 물음을 포착하는 유일하거나 최선의 길", "label": "지지됨", "evidence": "the only or the best way to capture", "note": ""},
+      {"n": 2, "text": "22절 근처: 이유는 좋거나 나쁜 것으로 다룸, 복수 예", "label": "지지됨", "evidence": "conceives it as something good or bad", "note": ""},
+      {"n": 3, "text": "가치 시험이고 정신적 원인 설명은 영향받지 않음", "label": "지지됨", "evidence": "Call this the 'value-test'", "note": ""},
+      {"n": 4, "text": "미래를 향한 이유에도 같은 시험을 적용하자는 제안", "label": "지지됨", "evidence": "run her 'value-test' for forward-looking", "note": ""},
+      {"n": 5, "text": "암묵적 전제가 이유와 동기를 분리해 좋음의 외양을 처음 놓은 새 출발", "label": "부분 지지", "evidence": "Anscombe is probably the first philosopher", "note": "원문은 'probably the first'로 한정함. 또 새 출발은 전제가 아니라 논변(분리)에 붙은 평가."},
+      {"n": 6, "text": "분리에 기대면 논제를 포기할 이유일 수도, 데이비슨 판본", "label": "지지됨", "evidence": "one may well decide to abandon", "note": ""}
+    ], "sources_used": ["_원자료/notion/…/Orsi 정리 35697cdd….md 88-110행"], "sources_missing": []},
+    {"id": "52", "voice": "종합", "verdict": "부분", "claims": [
+      {"n": 0, "text": "묶음이 억압, 권력, 인종, 알고리즘 공정성에서 정체성과 연대로 이어짐", "label": "연결", "evidence": "", "note": ""},
+      {"n": 1, "text": "아이리스 영의 억압과 지배 개념이 출발점", "label": "지지됨", "evidence": "구조적 억압과 사회 집단", "note": "문헌/@Young1990 30행."},
+      {"n": 2, "text": "영진의 구상에서 정체성은 유지 보수가 필요한 장치", "label": "지지됨", "evidence": "유지 보수가 필요한 유동적 객체", "note": ""},
+      {"n": 3, "text": "고장 난 장치는 쟁점의 공중과 연대를 낳는다", "label": "부분 지지", "evidence": "고장 난 정체성은 쟁점 공중을 낳으며", "note": "연대는 고장이 아니라 유지 보수 부담이 구조적으로 닮았다는 인식에서 생긴다고 제안서가 말함."},
+      {"n": 4, "text": "하우가드 권력 차원론, 셰스와 아메드와 알코프의 인종 분석, 콩의 비이상 이론", "label": "판단 불가", "evidence": "", "note": "각 문헌 노트 본문은 읽지 않음. 카드 sources에도 없음."},
+      {"n": 5, "text": "알고리즘 공정성 지표가 분배 정의에 묶여 구조적 억압을 놓침", "label": "판단 불가", "evidence": "", "note": "카드 sources 밖(Kasirzadeh, Kong 노트). 본문 대조 안 함."}
+    ], "sources_used": ["문헌/@Young1990 Justice and the Politics of Difference.md", "문헌/@영진2025 정체성 유동적 객체 제안서.md"], "sources_missing": []}
+  ]
+}
