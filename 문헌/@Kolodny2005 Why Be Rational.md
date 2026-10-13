@@ -1,10 +1,10 @@
 ---
 type: 문헌
 citekey: Kolodny2005
-author: Kolodny
+author: Niko Kolodny
 year: 2005
 title: "Why Be Rational?"
-published: "원자료에는 저자의 성과 제목만 나온다. 연도와 게재지는 필기에 없다."
+published: "원자료에는 저자의 성과 제목만 나온다. 연도와 게재지는 필기에 없었으나 웹 서지로 채웠다: Mind 114 (455): 509-563, 2005."
 status: 초안
 read_via:
   - "Notion 「why be rational Kolodny」 (Untill 2025/철학/분석철학)"
@@ -15,7 +15,7 @@ created: 2026-10-12
 ---
 # Why Be Rational?
 
-> 서지 확인 메모: 필기는 저자의 성(Kolodny)과 제목만 밝힌다. 연도 2005는 citekey 규약에 따라 적었으며 확인 필요. 하위 「Response」는 수업 과제의 질문에 답한 글로, 질문 번호별 답은 문헌 요약으로 보았고 넷째 질문의 논평과 필기 끝의 입장 표명만 영진의 것으로 보았다.
+> 서지 확인 메모: 필기는 저자의 성(Kolodny)과 제목만 밝힌다. 저자 이름(Niko Kolodny)과 연도 2005, 게재지는 웹 서지로 확인했다. 하위 「Response」는 수업 과제의 질문에 답한 글로, 질문 번호별 답은 문헌 요약으로 보았고 넷째 질문의 논평과 필기 끝의 입장 표명만 영진의 것으로 보았다.
 
 ## 한 줄 요지
 콜로드니는 합리성의 요구에 순응할 일반적 이유가 없다고 논증하고, 합리성이 규범적으로 보이는 외견은 이유에 반응하려는 우리의 성향이 만드는 투명성 현상으로 설명한다.
@@ -59,3 +59,5 @@ created: 2026-10-12
 - Notion 「Response」 (「why be rational Kolodny」 하위 페이지)
 - Notion 「인식론 연습 4/07」 (Untill 2025/철학/분석철학, 인식론 연습 수업 필기, 연도 표기 없음), 10KB
 - Notion 「인식론연습 4.21」 (Untill 2025/철학/분석철학, 인식론 연습 수업 필기, 연도 표기 없음), 0.5KB
+
+- 서지 확인(2026-10-13, 웹): https://ocf.berkeley.edu/~ngkolodny/rationality.htm , https://stafforini.com/works/kolodny-2005-why-be-rational/

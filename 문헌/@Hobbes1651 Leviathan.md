@@ -2,9 +2,9 @@
 type: 문헌
 citekey: Hobbes1651
 author: Thomas Hobbes (토머스 홉스)
-year: 1651 (확인 필요)
+year: 1651
 title: "리바이어던"
-published: "원자료에 출판 정보가 없다. 연도 1651은 서지 지식으로 보충했으며 확인이 필요하다. 필기는 번역 문장을 옮기며 장 번호를 적지 않았다."
+published: "원자료에 출판 정보가 없다. 연도 1651은 서지 지식으로 보충했고 웹 서지로 확인했다(초판 London: Andrew Crooke, Green Dragon, St Paul's Churchyard). 필기는 번역 문장을 옮기며 장 번호를 적지 않았다."
 status: 초안
 read_via:
   - "홉스 리바이어던 (Kant and Hegel on War 수업, 2024-2학기, 2024-12-04 수정, 필기)"
@@ -50,3 +50,5 @@ created: 2026-10-12
 
 ## 원자료
 - 홉스 리바이어던: 필기 형식의 Notion 페이지.
+
+- 서지 확인(2026-10-13, 웹): https://catalogue.etoncollege.com/B47805 , https://exhibitions.library.columbia.edu/exhibits/show/cc/hobbes

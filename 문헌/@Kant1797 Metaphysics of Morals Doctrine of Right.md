@@ -2,9 +2,9 @@
 type: 문헌
 citekey: Kant1797 Metaphysics of Morals Doctrine of Right
 author: Immanuel Kant (임마누엘 칸트)
-year: 1797 (확인 필요)
+year: 1797 (확인 필요, 후보: Rechtslehre는 1797년 초 별도 출간, https://en.wikipedia.org/wiki/Metaphysics_of_Morals)
 title: "Metaphysics of Morals, Doctrine of Right (공법 43절에서 62절 필기)"
-published: "필기 제목은 Metaphysics of Moral - Kant, On right이다. 원자료에는 저자 이름과 연도와 번역본이 적혀 있지 않다. 연도 1797은 서지 지식으로 보충했으며 확인이 필요하다. 필기는 한국어 요약이고 따옴표 안의 구절은 필기자의 번역이다."
+published: "필기 제목은 Metaphysics of Moral - Kant, On right이다. 원자료에는 저자 이름과 연도와 번역본이 적혀 있지 않다. 연도 1797은 서지 지식으로 보충했으며 확인이 필요하다. 필기는 한국어 요약이고 따옴표 안의 구절은 필기자의 번역이다. (후보, 확인 필요: 영역본 Mary Gregor 번역, Cambridge Texts in the History of Philosophy, Lara Denis 서문, https://www.cambridge.org/core/books/kant-the-metaphysics-of-morals/metaphysical-first-principles-of-the-doctrine-of-right/27B26877E94AAAE1CD06B49D3861C8D2 ; 학술원판 §43-47은 Ak. 6:311-316, §62와 6:355는 확인하지 못함, https://philevents.org/event/iCal/9740)"
 status: 초안
 read_via:
   - "[Metaphysics of Moral - Kant, On right](https://app.notion.com/p/13597cdd867e80bd8f68ec0418399fec) (필기, 날짜 없음)"

@@ -96,3 +96,5 @@ created: 2026-10-09
 - [[_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트]] Part 2 (날짜 미기재): SEP §2.3을 따라간 정리이다. L3 묶음이 논증 구조 13번과 파생 영구 노트 9c7, 9c7a, 9c8을 보탰다.
 - [[_원자료/로컬/Reading J.L Austin/02_강독노트_Philosophical-Papers]] (날짜 미기재): 영진의 지적이 기록된 Essay 1, Essay 3 대목의 출처이다.
 - [[_원자료/로컬/Reading J.L Austin/01_오스틴_정독노트]] Part 5 (날짜 미기재): SEP §4를 따라간 정리이다. P2 묶음이 논증 구조 14번과 파생 영구 노트 21i, 21j, 21j1을 보탰다. '1957: n', '1956a: n' 쪽수는 이 노트가 SEP를 따라 적은 표기이다.
+
+- 서지 확인(2026-10-13, 웹): https://plato.stanford.edu/entries/austin-jl/ (최초 게재 2012-12-11, 실질 개정 2025-06-09)

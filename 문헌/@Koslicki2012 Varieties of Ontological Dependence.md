@@ -4,7 +4,7 @@ citekey: Koslicki2012 Varieties of Ontological Dependence
 author: Kathrin Koslicki
 year: 2012
 title: "Varieties of Ontological Dependence"
-published: "Correia and Schnieder (eds.) 2012, pp.186-213 (영진의 기말 논문 참고문헌 표기에 따름). 원문은 읽지 않았고 영진의 부록 필기와 논문의 인용으로만 정리했다. 저자의 이름 표기는 논문의 Koslicki, K.에 따랐고 풀네임은 확인 필요이다."
+published: "Correia and Schnieder (eds.) 2012, pp.186-213 (영진의 기말 논문 참고문헌 표기에 따름). 웹 서지로 확인함: Fabrice Correia and Benjamin Schnieder (eds.), Metaphysical Grounding: Understanding the Structure of Reality, Cambridge University Press, 2012, 제7장, pp. 186-213. 원문은 읽지 않았고 영진의 부록 필기와 논문의 인용으로만 정리했다. 저자의 이름 표기는 논문의 Koslicki, K.에 따랐고 풀네임은 확인 필요이다."
 status: 초안
 read_via:
   - "[초록](https://app.notion.com/p/35697cdd867e8165b464f49dd51b35d4) (Appendix 2 Feature dependence, 2024-12-12 수정)"
@@ -43,3 +43,5 @@ created: 2026-10-12
 
 ## 원자료
 - [초록](https://app.notion.com/p/35697cdd867e8165b464f49dd51b35d4) (Appendix 2, 필기)
+
+- 서지 확인(2026-10-13, 웹): https://www.doi.org/10.1017/CBO9781139149136.008 , https://libra.unine.ch/handle/123456789/29787

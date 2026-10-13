@@ -1,7 +1,7 @@
 ---
 id: 38i5a
 type: 영구
-voice: 영진
+voice: 종합
 status: 초안
 tags: [언어와의미, 트래비스-프레게]
 sources: ["[[@Travis2021 Frege The Pure Business of Being True]]"]
@@ -14,7 +14,7 @@ verify_by: sonnet(근거대조)
 ---
 # 38i5a R-Bedeutung은 전통적으로 Sinn이 하는 일로 여겨져 온 것을 맡는다
 
-R-Bedeutung은 전통적으로 Sinn이 하는 일로 여겨져 온 것을 맡는다. 술어적 부분사고의 R-Bedeutung인 그러할 방식과 전체 사고의 R-Bedeutung인 표상 방식은 사고를 그것인 사고로 식별하는 내용이고, 표준 해석에서 이 식별은 Bedeutung을 결정하는 Sinn의 몫이다. 트래비스는 6장 서두에서 프레게가 짝지은 Sinn과 Bedeutung의 Bedeutung을 V-Bedeutung으로 설명하고(p.122), 진리치는 사고를 식별하는 데 아무 역할도 하지 않으며 그 일을 하는 축약된 내용을 떼어 두는 것이 V-Bedeutung과 R-Bedeutung을 나눈 요점이라고 쓴다(p.123). 이 대응에는 두 한정이 붙는다. 지시적 부분사고의 R-Bedeutung은 대상 자체이므로 이 행에서는 대응이 성립하지 않는다. 또 프레게의 도식에서 사고는 이미 문장의 Sinn이므로, R-Bedeutung은 Sinn인 사고가 서는 관계의 상대항에 해당한다(대화 속 설명).
+R-Bedeutung은 전통적으로 Sinn이 하는 일로 여겨져 온 것을 맡는다. 술어적 부분사고의 R-Bedeutung인 그러할 방식과 전체 사고의 R-Bedeutung인 표상 방식은 사고를 그것인 사고로 식별하는 내용이고, 표준 해석에서 이 식별은 Bedeutung을 결정하는 Sinn의 몫이다. 트래비스는 6장 서두에서 프레게가 짝지은 Sinn과 Bedeutung의 Bedeutung을 V-Bedeutung으로 설명하고(p.122), 진리치는 사고를 식별하는 데 아무 역할도 하지 않으며 그 일을 하는 축약된 내용을 떼어 두는 것이 V-Bedeutung과 R-Bedeutung을 나눈 요점이라고 쓴다(p.123). 이 대응에는 두 한정이 붙는다. 지시적 부분사고의 R-Bedeutung은 대상 자체이므로 이 행에서는 대응이 성립하지 않는다. 또 프레게의 도식에서 사고는 이미 문장의 Sinn이므로, R-Bedeutung은 Sinn인 사고가 서는 관계의 상대항에 해당한다(대화 속 설명). 이 카드를 종합 voice로 바꾼 이유: 영진은 R-Bedeutung이 전통적으로 Sinn이 하는 일을 맡는 것이 아닌지 직관을 질문으로 냈고, 정식과 두 한정은 대화에서 Claude가 제시했기 때문이다.
 
 ## 연결
 - 상위: [[38i5 트래비스는 Bedeutung을 사고의 요구에 대한 기여와 그 요구의 처분에 대한 기여로 가른다]]

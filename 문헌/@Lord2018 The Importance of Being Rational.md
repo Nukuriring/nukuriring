@@ -1,10 +1,10 @@
 ---
 type: 문헌
 citekey: Lord2018
-author: Lord
+author: Errol Lord
 year: 2018
 title: "The Importance of Being Rational"
-published: "원자료에는 저자명이 나오지 않고 약칭 IBR과 장 번호만 나온다. 연도와 출판 정보는 필기에 없다."
+published: "원자료에는 저자명이 나오지 않고 약칭 IBR과 장 번호만 나온다. 연도와 출판 정보는 필기에 없었으나 웹 서지로 채웠다: Oxford University Press, 2018, ISBN 978-0-19-881509-9."
 status: 초안
 read_via:
   - "Notion 「IBR CH 2」 (Untill 2025/철학/분석철학)"
@@ -16,7 +16,7 @@ created: 2026-10-12
 ---
 # The Importance of Being Rational
 
-> 서지 확인 메모: 필기 제목은 「IBR CH 2」와 「Importance of being Rational ch 4-5」이며 저자명을 적지 않는다. 저자 이름(Errol Lord)과 책 제목, 연도 2018은 citekey 규약에 따라 보충했으며 모두 확인 필요.
+> 서지 확인 메모: 필기 제목은 「IBR CH 2」와 「Importance of being Rational ch 4-5」이며 저자명을 적지 않는다. 저자 이름(Errol Lord)과 책 제목, 연도 2018은 citekey 규약에 따라 보충했고 웹 서지로 확인했다.
 
 ## 한 줄 요지
 로드는 합리성이 행위자가 소유한 이유에 올바르게 응답하는 일이라고 보고, 이유의 소유에 인식적 조건과 노하우 조건을 요구하며 정합성 요구를 그 결과로 설명한다.
@@ -73,3 +73,5 @@ created: 2026-10-12
 - Notion 「Response_김영진_7」 (철학 자료 마스터, 인식론 연습 2023-1, 응답문, 15KB)
 - Notion 「인식론 연습 5월 12일」 (Untill 2025/철학/분석철학, 인식론 연습 수업 필기, 연도 표기 없음), 27KB
 - Notion 「인식론 연습 5/19」 (Untill 2025/철학/분석철학, 인식론 연습 수업 필기, 연도 표기 없음), 19KB
+
+- 서지 확인(2026-10-13, 웹): https://philosophy.sas.upenn.edu/people/errol-lord , https://library.upol.cz/arl-upol/en/detail-upol_us_cat-0308585-The-importance-of-being-rational/

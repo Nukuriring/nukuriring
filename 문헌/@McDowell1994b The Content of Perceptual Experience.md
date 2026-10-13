@@ -4,7 +4,7 @@ citekey: McDowell1994b
 author: John McDowell
 year: 1994
 title: "The Content of Perceptual Experience"
-published: "The Philosophical Quarterly 44 (1994) . 서지 정보는 Claude가 보충했으며 Notion 노트에는 없다."
+published: "The Philosophical Quarterly 44 (175): 190-205, 1994. 서지 정보는 Claude가 보충했으며 Notion 노트에는 없고, 웹 서지로 확인했다."
 status: 초안
 read_via:
   - "[Mcdowell, The content of perceptual Experience](https://app.notion.com/p/9e5afb82b33040db9fd04c7e2fd35cf2)"
@@ -54,3 +54,5 @@ created: 2026-10-09
 ## 원자료
 - [Mcdowell, The content of perceptual Experience](https://app.notion.com/p/9e5afb82b33040db9fd04c7e2fd35cf2) (Notion, Untill 2025 › 철학, 최종 수정 2024-03-07)
 - [Response](https://app.notion.com/p/c938fa10ca8d4d19989a14fdfb0ac9b6) (Notion 하위 페이지, 최종 수정 2023-07-13)
+
+- 서지 확인(2026-10-13, 웹): https://philpapers.org/rec/SEDCE , https://era.ed.ac.uk/handle/1842/1389

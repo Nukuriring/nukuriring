@@ -4,7 +4,7 @@ citekey: McDowell1978
 author: John McDowell
 year: 1978
 title: Are Moral Requirements Hypothetical Imperatives?
-published: 원자료에 서지 정보가 없다. 파일명이 Macdowell(Are moral imperatives Hypothetical Imperatives이고 연도는 Claude가 보충했으므로 서지 확인 필요
+published: 원자료에 서지 정보가 없다. 파일명이 Macdowell(Are moral imperatives Hypothetical Imperatives이고 연도는 Claude가 보충했으므로 서지 확인 필요 (후보, 확인 필요: Proceedings of the Aristotelian Society, Supplementary Volume 52 (1978), https://api.philpapers.org/rec/BAKCMR)
 status: 초안
 read_via:
   - "Notion 「Macdowell(Are moral imperatives Hypothetical Imperatives」 (철학 자료 아카이브 › 철학 자료 마스터, 문서 수정일 2025-02-27)"

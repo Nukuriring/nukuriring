@@ -4,7 +4,7 @@ citekey: Hume1748
 author: David Hume
 year: 1748
 title: Of Miracles
-published: 『인간 지성에 관한 탐구』(An Enquiry concerning Human Understanding) 10절(원자료에 서지가 없어 Claude가 보충함)
+published: 『인간 지성에 관한 탐구』(An Enquiry concerning Human Understanding) 10절(원자료에 서지가 없어 Claude가 보충함). 후보, 확인 필요: Section X 「Of Miracles」(https://en.wikipedia.org/wiki/Of_Miracles); 초판 London: A. Millar, 1748, 초판 표제는 Philosophical Essays concerning Human Understanding였고 Enquiry 표제는 1758 재간부터라는 서적상 기재가 있음(https://www.abaa.org/book/740186719, 표제는 복제본으로 재확인 필요)
 status: 초안
 read_via:
   - "[[_원자료/claude.ai/chats/2026-05-12_증언의 환원주의 vs 비환원주의]]"

@@ -1,10 +1,10 @@
 ---
 type: 문헌
 citekey: Khader2011
-author: Serene J. Khader (확인 필요)
-year: 2011 (확인 필요)
+author: Serene J. Khader
+year: 2011
 title: "Adaptive Preferences and Women's Empowerment"
-published: "필기 제목은 Khader_adaptive preference뿐이다. 책 제목과 2011년은 원자료에 없어 서지 지식으로 보충함."
+published: "필기 제목은 Khader_adaptive preference뿐이다. 책 제목과 2011년은 원자료에 없어 서지 지식으로 보충했고 웹 서지로 확인했다(Oxford University Press, 2011, ISBN 9780199777877)."
 status: 초안
 read_via:
   - "Khader_adaptive preference (읽기 필기)"
@@ -38,3 +38,5 @@ created: 2026-10-12
 
 ## 원자료
 - Khader_adaptive preference: 한국어 읽기 필기이다.
+
+- 서지 확인(2026-10-13, 웹): https://academic.oup.com/book/34587 , https://page158books.com/book/9780199777877

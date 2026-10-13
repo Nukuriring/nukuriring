@@ -1,10 +1,10 @@
 ---
 type: 문헌
 citekey: Jacobs Powerful Qualities, Not Pure Powers
-author: Jacobs (이름과 연도는 원자료에 없고 확인 필요)
-year: (확인 필요)
+author: Jonathan D. Jacobs
+year: 2011
 title: "Powerful Qualities, Not Pure Powers"
-published: "Notion 필기의 제목은 powerful Qualities, Not pure power이다. 저자와 연도와 수록지는 원자료에 적혀 있지 않다. 같은 세미나의 10월 31일 필기에 제이컵스(Jacobs)가 PP를 비판하고 PQ를 진리제작자로 정의했다고 적혀 있어 그 글로 보았으나 확인이 필요하다. 필기는 중간에서 끊긴다."
+published: "Notion 필기의 제목은 powerful Qualities, Not pure power이다. 저자와 연도와 수록지는 원자료에 적혀 있지 않았으나 웹 서지로 채웠다(Jonathan D. Jacobs, The Monist 94 (1): 81-102, 2011). 같은 세미나의 10월 31일 필기에 제이컵스(Jacobs)가 PP를 비판하고 PQ를 진리제작자로 정의했다고 적혀 있어 그 글로 보았다. 필기는 중간에서 끊긴다."
 status: 초안
 read_via:
   - "[powerful Qualities, Not pure power](https://app.notion.com/p/12e97cdd867e80de9338e899b224eee6) (형이상학 세미나 필기)"
@@ -48,3 +48,5 @@ created: 2026-10-12
 
 ## 원자료
 - [powerful Qualities, Not pure power](https://app.notion.com/p/12e97cdd867e80de9338e899b224eee6) (Metaphysics Seminar > Metaphysics of power)
+
+- 서지 확인(2026-10-13, 웹): https://philpapers.org/s/Jacobs%20Jonathan , https://dc2.philarchive.org/s/Jonathan Aaron%20Jacobs

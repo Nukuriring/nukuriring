@@ -1,10 +1,10 @@
 ---
 type: 문헌
 citekey: KhaderSelfRespect
-author: Serene J. Khader (확인 필요)
-year: 미상
+author: Serene J. Khader
+year: 2021
 title: "Self-Respect under Oppression"
-published: "필기 제목은 Khader_self respect under opression이며 출판 정보는 원자료에 없다."
+published: "필기 제목은 Khader_self respect under opression이며 출판 정보는 원자료에 없었으나 웹 서지로 채웠다. 정식 제목은 Self-Respect under Conditions of Oppression(노트 제목은 줄임형)이고, Richard Dean and Oliver Sensen (eds.), Respect: Philosophical Essays, Oxford University Press, 2021의 제12장이다. (후보, 확인 필요: pp. 232-251, https://www.law.columbia.edu/sites/default/files/2023-08/vasanthakumar_other_regarding_aspects_of_the_duty_of_self-respect_aug_24_2023_corrected_0.pdf)"
 status: 초안
 read_via:
   - "Khader_self respect under opression (읽기 필기, 영진의 논평 포함)"
@@ -41,3 +41,5 @@ created: 2026-10-12
 
 ## 원자료
 - Khader_self respect under opression: 한국어 읽기 필기이며 영진의 해석이 포함된다.
+
+- 서지 확인(2026-10-13, 웹): https://academic.oup.com/book/39381/chapter/339064285 , https://academic.oup.com/book/39381 , https://dc2.philarchive.org/rec/KHASUC
