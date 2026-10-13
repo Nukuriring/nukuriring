@@ -1,0 +1,63 @@
+{
+ "id": "42f6",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "버지 요약에서 믿음 자기지식만 합리적 관계, 지각·감각 지식은 비합리적 관계",
+   "label": "부분 지지",
+   "evidence": "rational relation / non-rational relation",
+   "note": "원문은 non-rational(무합리적). 4/20 용어표가 irrational(비합리적)과 구별. 카드의 '비합리적'은 뜻이 달라짐."
+  },
+  {
+   "n": 1,
+   "text": "지각 지식에서 사물 믿음은 비판적 추론으로 수정되나 사물 자체는 수정되지 않는다",
+   "label": "지지됨",
+   "evidence": "수정 O / 수정 X",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "감각 자기지식도 같다: 환상통임을 알면 믿음은 고치지만 통증 자체는 고쳐지지 않는다",
+   "label": "지지됨",
+   "evidence": "고통 자체는 비판적 추론을 통해 수정할 수 없다",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "믿음 자기지식에서는 믿음에 대한 믿음도 대상인 믿음도 추론으로 평가·수정된다",
+   "label": "지지됨",
+   "evidence": "비판적 추론을 통한 수정 O (양쪽)",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "지향적 상태가 지식 대상이면서 수정 대상이려면 주체가 합리적 관계에 있어야 한다",
+   "label": "지지됨",
+   "evidence": "must be in a rational relation",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "남는 두 물음: 합리적 관계가 무엇인가, 어떻게 비관찰적·비경험적 지식을 가능하게 하는가",
+   "label": "지지됨",
+   "evidence": "(Question 1) What is this rational relation",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "관계항이 합리성을 논할 수 있으면 합리적 관계라 부를 수 있다는 답이 시사되었다",
+   "label": "지지됨",
+   "evidence": "(가능한 답변?) ... 합리적 관계",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/심리철학연습_강의록_20210427 35697cdd….md",
+  "_원자료/notion/…/심리철학연습_강의록_20210420 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

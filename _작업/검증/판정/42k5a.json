@@ -1,0 +1,63 @@
+{
+ "id": "42k5a",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "의지 도식은 증거로 아는 미래와 예견된 부수 결과에도 의도를 귀속하므로 번은 관찰 없는 앎으로 범위를 좁힌다",
+   "label": "지지됨",
+   "evidence": "holds for the cases ... 'without observation'",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "의지 도식에는 과잉 생성 문제가 있고 첫째 사례는 자기 미래 예측(시험에 떨어질 것)",
+   "label": "지지됨",
+   "evidence": "Cases of an estimate of one's future",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "둘째 사례: 폭격 공장 근처 민간인을 죽일 것이라는 예견은 의도가 아니다",
+   "label": "지지됨",
+   "evidence": "foreseen but unintended consequences",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "번의 해결: 두 사례는 증거에 기대어 자기가 할 일을 아는 경우",
+   "label": "지지됨",
+   "evidence": "knows what one will do on the basis of evidence",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "앤스콤: 관찰 없이 아는 행위가 바로 의도하는 행위이다",
+   "label": "지지됨",
+   "evidence": "precisely those that one intends to perform",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "도식은 증거 없는 앎에서 성립하고 좋은 증거에 기댄다고 믿으면 무효화된다",
+   "label": "지지됨",
+   "evidence": "defeasible 'if one believes ... good evidence'",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "학교가 지겨워 그만두려 떨어질 것이라는 경우에는 의도 귀속이 자연스럽다",
+   "label": "지지됨",
+   "evidence": "I'm sick of this school and wants to quit",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/심리철학연습_강의록_20210518 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "note": "카드 연결 절의 {{@Anscombe1957 Intention}} 표기는 [[ ]]가 아닌 {{ }} (카드 오류 가능).",
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

@@ -1,0 +1,55 @@
+{
+ "id": "42m",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "세티야는 보일의 번 비판이 추론 개념을 좁게 잡으면 번이 추론주의를 부인하고 넓게 잡으면 반성주의가 같은 비판을 받는 딜레마에 걸린다고 본다",
+   "label": "지지됨",
+   "evidence": "objection ... faces the following dilemma",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "좁게 이해하면 전제가 결론의 근거나 증거를 주는 이행만 추론이다",
+   "label": "지지됨",
+   "evidence": "only if those premises provide a ground or evidence",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "이때 믿음 도식은 추론이 못 되므로 옹호자는 추론적 견해에 매여 있음을 부인할 것이다",
+   "label": "지지됨",
+   "evidence": "will deny that they are committed",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "넓게 이해하면 추론은 비우연적인 믿음 내용 사이의 이행이고 합리성은 평가에 열려 있다",
+   "label": "지지됨",
+   "evidence": "a non-accidental transition between belief contents",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "이 경우 옹호자는 추론적 견해임을 받아들일 수 있다",
+   "label": "지지됨",
+   "evidence": "can accept that he takes an inferential view",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "반성주의자는 증거가 아님을 아는 이행을 미쳤다고 말할 수 없다: 자기 견해가 그 제약을 어기기 때문",
+   "label": "지지됨",
+   "evidence": "For his own view violates that constraint",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/심리철학연습_강의록_20210525 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

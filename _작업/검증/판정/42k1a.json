@@ -1,0 +1,62 @@
+{
+ "id": "42k1a",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "안전성은 필요조건으로 널리 받아들여지고 민감성은 통 속의 뇌 사례에서 참인 믿음을 걸러 낸다",
+   "label": "부분 지지",
+   "evidence": "Although Chulsoo's belief is true, it is not sensitive",
+   "note": "원문은 통 속의 뇌 믿음이 참이지만 민감하지 않다고만 함. 민감성이 그 믿음을 지식에서 '걸러 낸다'는 말은 없음(노직 입장일 때만 성립)."
+  },
+  {
+   "n": 1,
+   "text": "안전한 참 믿음은 쉽게 거짓일 수 없고, 가까운 가능세계 거의 모두에서 p가 참이다",
+   "label": "지지됨",
+   "evidence": "In almost all nearby possible worlds",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "증거 없이 비가 온다고 믿었다가 우연히 맞은 철수의 믿음은 안전하지 않다",
+   "label": "지지됨",
+   "evidence": "not safe because it could have been easily false",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "민감한 믿음은 p가 거짓이면 믿지 않았을 믿음이다",
+   "label": "지지됨",
+   "evidence": "If p were false, S would not believe that p",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "통 속의 뇌가 아니라는 믿음은 참이지만 뇌였어도 믿었을 것이므로 민감하지 않다",
+   "label": "지지됨",
+   "evidence": "would have still believed",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "소사·프리처드·윌리엄슨은 안전성, 노직은 민감성을 필요조건으로 본다",
+   "label": "지지됨",
+   "evidence": "safe (Sosa, Pritchard, Williamson) ... (Nozick)",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "오늘날 안전성이 필요조건이라는 데 폭넓은 합의가 있다",
+   "label": "지지됨",
+   "evidence": "nowadays widely agreed that it is safety",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/심리철학연습_강의록_20210518 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

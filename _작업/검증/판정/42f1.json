@@ -1,0 +1,48 @@
+{
+ "id": "42f1",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "버지는 자기 감각과 정서에 대한 판단을 경험적 지식으로 보고 지향적 상태 판단을 비경험적 지식으로 본다",
+   "label": "지지됨",
+   "evidence": "Empirical / Non-empirical (=based on understanding)",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "감각·정서 판단은 경험적: 상태와 판단 사이에 진실하되 거칠고 우연적이며 비합리적인 관계",
+   "label": "부분 지지",
+   "evidence": "brute, contingent, and non-rational relation",
+   "note": "원문은 non-rational(무합리적). 같은 강의록 용어표가 irrational(비합리적)과 구별해 둠. 카드의 '비합리적'은 뜻이 달라짐."
+  },
+  {
+   "n": 2,
+   "text": "감각 판단은 직접적·비추론적·원초적 오류 면역, 정서 판단은 직접적·비추론적",
+   "label": "지지됨",
+   "evidence": "immediate and non-inferential, immunity to brute error",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "발생적 생각의 코기토 식 판단은 자기검증적·자명·직접적·비추론적·면역, 지속적 생각 판단은 직접·비추론·면역",
+   "label": "지지됨",
+   "evidence": "contextually self-verifying, self-evident",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "버지는 모든 자기지식이 비경험적이라 하지 않고 지향적 상태 지식만 그렇다고 하므로 이론의 범위가 제한된다",
+   "label": "지지됨",
+   "evidence": "He only claims that our knowledge about our own intentional states",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/심리철학연습_강의록_20210420 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

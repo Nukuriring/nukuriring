@@ -1,0 +1,62 @@
+{
+ "id": "42l2",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "보일은 믿음 도식의 전제 p가 결론의 이유를 제공하지 못해 그 추론은 미친 추론이라고 비판한다",
+   "label": "지지됨",
+   "evidence": "the 'inference' ... is 'mad'",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "보일은 번의 추론적 접근이 옳을 수 없다고 본다",
+   "label": "지지됨",
+   "evidence": "cannot be right",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "추론이 성립하려면 전제가 결론의 근거나 이유를 제공해야 하는데 도식의 전제는 그런 것 같지 않다",
+   "label": "지지됨",
+   "evidence": "premise ... does not provide any such ground",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "답으로 p를 대면 p의 참이 내가 믿는다는 것을 보이는 경향이 없음을 합리적 통찰이 알려 준다",
+   "label": "지지됨",
+   "evidence": "no tendency to show that I believe it",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "나라는 사실을 근거로 삼으면 이미 내 마음을 안다고 전제하게 되어 번의 설명이 무너진다",
+   "label": "지지됨",
+   "evidence": "presuppose that I already know my own mind",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "인칭적 수준의 추론은 자극-반응 이행이 아니라 항을 알고 이해 가능한 관계를 취하는 이행",
+   "label": "지지됨",
+   "evidence": "not a mere transition from a stimulus",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "text": "각주: 자신을 전지하다 여기면 이행은 그럴듯해지나 그 가정이 매우 비합리적",
+   "label": "지지됨",
+   "evidence": "deeply unreasonable",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/심리철학연습_강의록_20210518 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

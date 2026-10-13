@@ -1,0 +1,185 @@
+{
+ "model": "sonnet",
+ "date": "2026-10-13",
+ "cards": [
+  {"id": "42f1", "voice": "문헌", "verdict": "부분", "claims": [
+   {"n": 0, "text": "버지는 자기 감각과 정서에 대한 판단을 경험적 지식으로 보고 지향적 상태 판단을 비경험적 지식으로 본다", "label": "지지됨", "evidence": "Empirical / Non-empirical (=based on understanding)", "note": ""},
+   {"n": 1, "text": "감각·정서 판단은 경험적: 상태와 판단 사이에 진실하되 거칠고 우연적이며 비합리적인 관계", "label": "부분 지지", "evidence": "brute, contingent, and non-rational relation", "note": "원문은 non-rational(무합리적). 같은 강의록 용어표가 irrational(비합리적)과 구별해 둠. 카드의 '비합리적'은 뜻이 달라짐."},
+   {"n": 2, "text": "감각 판단은 직접적·비추론적·원초적 오류 면역, 정서 판단은 직접적·비추론적", "label": "지지됨", "evidence": "immediate and non-inferential, immunity to brute error", "note": ""},
+   {"n": 3, "text": "발생적 생각의 코기토 식 판단은 자기검증적·자명·직접적·비추론적·면역, 지속적 생각 판단은 직접·비추론·면역", "label": "지지됨", "evidence": "contextually self-verifying, self-evident", "note": ""},
+   {"n": 4, "text": "버지는 모든 자기지식이 비경험적이라 하지 않고 지향적 상태 지식만 그렇다고 하므로 이론의 범위가 제한된다", "label": "지지됨", "evidence": "He only claims that our knowledge about our own intentional states", "note": ""}
+  ], "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210420 35697cdd….md"], "sources_missing": []},
+
+  {"id": "42f3a", "voice": "문헌", "verdict": "부분", "claims": [
+   {"n": 0, "text": "비판적 추론에서 결정자의 관점과 평가자의 관점은 구별되지만 필연적으로 밀접하게 연결된다", "label": "지지됨", "evidence": "개념적으로 구분이 되지만 또한 개념적이고 그리고 필연적으로 밀접", "note": ""},
+   {"n": 1, "text": "버지의 비판적 추론 예: p 믿음, r과 s 이유, 반대 이유 없음, 그러므로 not-p", "label": "지지됨", "evidence": "So I have sufficient reason to believe not-p", "note": ""},
+   {"n": 2, "text": "앞의 단계들은 고차적 관점의 평가 판단이고 마지막 단계는 결정자 관점의 판단이다", "label": "부분 지지", "evidence": "5. ...(고차적 관점) 6. (첫번째 관점)", "note": "원문이 고차적 관점으로 표시한 것은 5단계뿐이고 6단계가 결정자 관점. 1~4단계 전부를 고차적 관점으로 묶은 것은 일반화."},
+   {"n": 3, "text": "이 추론은 명제 판단과 함께 p, r, s에 대한 자기 믿음이라는 명제 태도 판단도 포함한다", "label": "지지됨", "evidence": "his judgments about his propositional attitudes", "note": ""},
+   {"n": 4, "text": "비판적 추론이 반드시 태도에 초점을 두지 않으며 대개는 세계에 대해 추론한다", "label": "지지됨", "evidence": "Normally we reason not about ourselves but about the world", "note": "원문은 '세계 또는 실천적 선(善)'이라 적었으나 카드는 세계만 적음(사소)."},
+   {"n": 5, "text": "완전한 비판적 추론가라면 명제가 단언·부정·가설·고려되는 방식을 식별하고 평가할 수 있어야 한다", "label": "지지됨", "evidence": "to be fully a critical reasoner, one must be able to", "note": ""}
+  ], "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210420 35697cdd….md"], "sources_missing": []},
+
+  {"id": "42f4e", "voice": "문헌", "verdict": "원문없음", "claims": [
+   {"n": 0, "text": "평가의 결론이 곧바로 대상을 바꿀 이유가 되는 연결이 믿음 밖에서도 성립하는지는 열린 물음", "label": "지지됨", "evidence": "(???) 세 비교 사례", "note": ""},
+   {"n": 1, "text": "첫째: 내일 비가 오지 않으리라 결론지은 뒤 비 오는 사태를 포기하거나 새 근거를 찾는 일이 합당한가", "label": "지지됨", "evidence": "give up the state of affairs that it will rain", "note": ""},
+   {"n": 2, "text": "둘째 통증, 셋째 철수에 대한 질투 사례", "label": "지지됨", "evidence": "no reason at all for my current feeling of pain", "note": ""},
+   {"n": 3, "text": "강의는 세 경우 모두에 물음표를 붙여 두고 답을 주지 않는다", "label": "지지됨", "evidence": "(???)", "note": ""},
+   {"n": 4, "text": "믿음에서는 검토의 결론이 곧바로 그 믿음을 바꿀 이유가 된다", "label": "부분 지지", "evidence": "it normally follows immediately ... reasonable to give up", "note": "원문 p.82는 'normally follows'. 카드는 '대개'를 빼 단정."},
+   {"n": 5, "text": "이 연결이 이유에 민감한 태도의 특징일 수 있다는 점이 비교의 요지로 읽힌다", "label": "원문에 없음", "evidence": "", "note": "필기에는 이 비교의 요지를 이유 민감성으로 읽는 대목이 없음. 카드의 해석."}
+  ], "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210420 35697cdd….md"], "sources_missing": []},
+
+  {"id": "42f6", "voice": "문헌", "verdict": "부분", "claims": [
+   {"n": 0, "text": "버지 요약에서 믿음 자기지식만 합리적 관계, 지각·감각 지식은 비합리적 관계", "label": "부분 지지", "evidence": "rational relation / non-rational relation", "note": "원문은 non-rational(무합리적). 4/20 용어표가 irrational(비합리적)과 구별. 카드의 '비합리적'은 뜻이 달라짐."},
+   {"n": 1, "text": "지각 지식에서 사물 믿음은 비판적 추론으로 수정되나 사물 자체는 수정되지 않는다", "label": "지지됨", "evidence": "수정 O / 수정 X", "note": ""},
+   {"n": 2, "text": "감각 자기지식도 같다: 환상통임을 알면 믿음은 고치지만 통증 자체는 고쳐지지 않는다", "label": "지지됨", "evidence": "고통 자체는 비판적 추론을 통해 수정할 수 없다", "note": ""},
+   {"n": 3, "text": "믿음 자기지식에서는 믿음에 대한 믿음도 대상인 믿음도 추론으로 평가·수정된다", "label": "지지됨", "evidence": "비판적 추론을 통한 수정 O (양쪽)", "note": ""},
+   {"n": 4, "text": "지향적 상태가 지식 대상이면서 수정 대상이려면 주체가 합리적 관계에 있어야 한다", "label": "지지됨", "evidence": "must be in a rational relation", "note": ""},
+   {"n": 5, "text": "남는 두 물음: 합리적 관계가 무엇인가, 어떻게 비관찰적·비경험적 지식을 가능하게 하는가", "label": "지지됨", "evidence": "(Question 1) What is this rational relation", "note": ""},
+   {"n": 6, "text": "관계항이 합리성을 논할 수 있으면 합리적 관계라 부를 수 있다는 답이 시사되었다", "label": "지지됨", "evidence": "(가능한 답변?) ... 합리적 관계", "note": ""}
+  ], "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210427 35697cdd….md", "_원자료/notion/…/심리철학연습_강의록_20210420 35697cdd….md"], "sources_missing": []},
+
+  {"id": "42g2", "voice": "문헌", "verdict": "지지됨", "claims": [
+   {"n": 0, "text": "합리적 행위자는 자기 믿음을 지식의 대상이자 행위자성의 결과로 다루므로 투명성 조건이 성립한다", "label": "지지됨", "evidence": "not only as objects of knowledge but also as the results", "note": ""},
+   {"n": 1, "text": "행위자성을 발휘할 때 행위자는 가져야 하는 믿음, 곧 참인 믿음과 바람직한 욕구를 가지려 한다", "label": "지지됨", "evidence": "seeking to have beliefs ... that she ought to have", "note": ""},
+   {"n": 2, "text": "그래서 실제로 갖게 되는 믿음은 그가 참이라고 받아들이는 것이 된다", "label": "지지됨", "evidence": "will be what she take as true", "note": ""},
+   {"n": 3, "text": "어떤 믿음을 갖느냐는 물음은 어떤 믿음이 참이냐는 물음과 떼어 낼 수 없다", "label": "지지됨", "evidence": "inseparably related to the question", "note": ""},
+   {"n": 4, "text": "그래서 p가 참인지만 고려해 자기가 p를 믿는지 답할 수 있고, 보고를 넘어 표명한다", "label": "지지됨", "evidence": "not only reports but also avows", "note": ""},
+   {"n": 5, "text": "이것이 이론적 자세와 숙고적 자세의 차이이다", "label": "지지됨", "evidence": "theoretical stance vs. the deliberative stance", "note": ""}
+  ], "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210427 35697cdd….md"], "sources_missing": []},
+
+  {"id": "42g3a", "voice": "문헌", "verdict": "부분", "claims": [
+   {"n": 0, "text": "자기 지향적 상태에 지는 직접적 책임은 그 상태를 만든 저자라는 사실을 넘어선다", "label": "부분 지지", "evidence": "저자이기 때문만은 아닌 것 같다", "note": "원문은 '~아닌 것 같다'로 한정. 제목은 단정."},
+   {"n": 1, "text": "우리는 자기 지향적 상태에 책임을 지고 이 책임은 특별한 의미에서 직접적인 듯하다", "label": "지지됨", "evidence": "특별한 의미에서 직접적인 것 같다", "note": ""},
+   {"n": 2, "text": "이 직접성은 저자라는 약한 의미만으로는 설명되지 않는다", "label": "부분 지지", "evidence": "(약한 의미에서) 만들어낸 저자이기 때문만은 아닌 것 같다", "note": "원문 '것 같다' 한정이 카드에서 빠져 단정."},
+   {"n": 3, "text": "그림이 떨어져 해를 입힌 경우는 직접 책임이 아니고, 욕구와 믿음으로 실제 해를 입히면 직접 책임", "label": "지지됨", "evidence": "직접적으로 책임을 지는 것은 아니다 / 책임을 진다", "note": "원문 사례는 사망/살해. 카드는 '해를 입힘'으로 완화(사소)."},
+   {"n": 4, "text": "모런 구도에서 지향적 상태는 이유에 바탕한 합리적 행위자의 입장이라 직접 책임이 따른다고 읽을 수 있다", "label": "지지됨", "evidence": "특별한 성질에서 비롯된 것이다", "note": ""}
+  ], "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210427 35697cdd….md"], "sources_missing": []},
+
+  {"id": "42g4a", "voice": "문헌", "verdict": "부분", "claims": [
+   {"n": 0, "text": "합리적 행위자의 지향적 상태는 우연히 갖게 된 상태에 그치지 않고 정당화하는 이유에 바탕한다", "label": "지지됨", "evidence": "not those she happens to have, but", "note": ""},
+   {"n": 1, "text": "상태를 합리적으로 형성·평가·승인·수정하려면 참·바람직함에 대한 합리적 고려에 따라야 한다", "label": "지지됨", "evidence": "in accordance with her rational considerations", "note": ""},
+   {"n": 2, "text": "X에 대한 상태를 가질 이유는 그 상태를 정당화하는 X 자체에 대한 사실이다", "label": "지지됨", "evidence": "facts about X itself that ... justify", "note": ""},
+   {"n": 3, "text": "정당화하는 이유와 설명하는 이유의 구별: 인공지능 사례와 물에 빠진 아이 사례", "label": "지지됨", "evidence": "explanatory reason, 그러나 justifying reason X", "note": ""},
+   {"n": 4, "text": "영희의 믿음·욕구·의도 예: 하늘이 흐림, 서울대, 종신 교수직을 제안한 곳 중 가장 좋은 대학", "label": "부분 지지", "evidence": "among those institutions that offered a tenure-track job", "note": "원문은 tenure-track(정년트랙) 제안. '종신 교수직'은 tenure로 바뀌어 다른 뜻."}
+  ], "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210427 35697cdd….md"], "sources_missing": []},
+
+  {"id": "42g4b", "voice": "문헌", "verdict": "지지됨", "claims": [
+   {"n": 0, "text": "표명할 수 있는 합리적 행위자의 자기지식은 즉각적이고 권위가 있다", "label": "지지됨", "evidence": "her knowledge of them must be immediate and authoritative", "note": ""},
+   {"n": 1, "text": "행위자는 지향적 상태를 보고하고 거기에 그치지 않고 표명한다: X의 사실만 고려해 답한다", "label": "지지됨", "evidence": "does not merely report ... but avow them", "note": ""},
+   {"n": 2, "text": "표명 가능성은 상태를 귀속하고 참·바람직함을 승인하며 개입함을 보여 준다", "label": "지지됨", "evidence": "endorses them as true or desirable", "note": ""},
+   {"n": 3, "text": "즉각성: 믿음을 가질 이유만 고려하고 믿는다고 믿을 이유는 다시 고려하지 않는다", "label": "지지됨", "evidence": "not by further considering whether she has a reason", "note": ""},
+   {"n": 4, "text": "권위는 무엇을 믿는지의 물음을 무엇을 믿을지의 결정이 해결한다고 보기 때문에 부여된다", "label": "지지됨", "evidence": "settled by his decision as to what he is to believe", "note": ""},
+   {"n": 5, "text": "강의는 p를 믿을 이유 주장과 합리적 행위자임을 인지하는 경우의 주장을 구별해 둔다", "label": "지지됨", "evidence": "(주장 1) ... (주장 2)", "note": ""}
+  ], "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210427 35697cdd….md"], "sources_missing": []},
+
+  {"id": "42g7a", "voice": "문헌", "verdict": "지지됨", "claims": [
+   {"n": 0, "text": "증거로 내일 출근을 아는 것과 청소하기로 결정해서 아는 것은 같은 사실을 다른 이유로 아는 것", "label": "지지됨", "evidence": "evidence ... decides to clean her office", "note": ""},
+   {"n": 1, "text": "영희는 행동·심리 사실과 상담에서 오빠에게 배신당했다고 믿는다는 것을 이론적으로 안다", "label": "지지됨", "evidence": "Based on these psychological and behavioral facts", "note": ""},
+   {"n": 2, "text": "그래도 받아들이지 못해 '배신당했다고 믿지만 배신하지 않았다'고 말한다", "label": "지지됨", "evidence": "I believe that my brother has betrayed me. But he has not", "note": ""},
+   {"n": 3, "text": "숙고적으로는 횡령 사실들을 고려해 배신했다고 결론짓고 믿음을 즉각적·권위 있게 안다", "label": "지지됨", "evidence": "knows immediately authoritatively", "note": ""},
+   {"n": 4, "text": "일정표의 면담 때문에 내일 출근한다고 이론적으로 알고, 청소하기로 결정했기 때문에 실천적으로 안다", "label": "지지됨", "evidence": "in her planner, it is written that a meeting", "note": ""},
+   {"n": 5, "text": "첫째 경우 앎의 이유는 증거이고 둘째 경우는 숙고하고 정한 이유", "label": "지지됨", "evidence": "gathers evidence / deliberates ... decides", "note": ""}
+  ], "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210504 35697cdd….md"], "sources_missing": []},
+
+  {"id": "42h2", "voice": "문헌", "verdict": "지지됨", "claims": [
+   {"n": 0, "text": "슈메이커는 자기 믿음을 알아채는 대부분에 숙고가 없다고 반문하고 모런은 약한 행위자성으로 답한다", "label": "지지됨", "evidence": "In the vast majority of cases they are not", "note": ""},
+   {"n": 1, "text": "숙고는 행위자성의 발휘이지만 자기 믿음을 알아채는 대부분의 경우에 숙고가 없다", "label": "지지됨", "evidence": "deliberation is an exercise of agency", "note": ""},
+   {"n": 2, "text": "바지 예: 꿈속 외에 문제 될 상황, 이유, 나에게 달려 있음을 찾기 어렵다", "label": "지지됨", "evidence": "other than those of a dream", "note": ""},
+   {"n": 3, "text": "이미 가진 분명한 믿음을 내용의 참에 대한 숙고로 아는 것 같지는 않다", "label": "지지됨", "evidence": "숙고함으로써 알게 되는 것 같지는 않다", "note": ""},
+   {"n": 4, "text": "모런: 행위자성은 증거·이유·정당화에 의해 작동하는 것이며 이유 민감성을 이룬다", "label": "지지됨", "evidence": "engaged by evidence, reasons, and justification", "note": ""},
+   {"n": 5, "text": "이유에 민감하기만 하면 모런이 설명하려는 지향적 상태에 속하며 감정과 느낌도 포함한다", "label": "지지됨", "evidence": "이유 민감성을 갖고 있으므로", "note": ""}
+  ], "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210504 35697cdd….md"], "sources_missing": []},
+
+  {"id": "42h3a", "voice": "문헌", "verdict": "부분", "claims": [
+   {"n": 0, "text": "모런은 내 믿음이 반성의 결론으로 정해진다는 가정이 있어야 두 물음 사이 연결의 권리가 생긴다", "label": "부분 지지", "evidence": "I would have a right to assume ... if I could assume", "note": "원문은 'if I could assume'(충분조건 투). 제목의 '있어야'는 필요조건처럼 읽혀 조건 강도가 바뀜."},
+   {"n": 1, "text": "모런이 스스로 던진 도전: 날씨 이유 반성이 실제 믿음의 물음과 관계있다 생각할 권리가 있는가", "label": "지지됨", "evidence": "What right have I to think that my reflection", "note": ""},
+   {"n": 2, "text": "두 물음은 주제가 다르고, 답하지 못하면 권리가 없다", "label": "지지됨", "evidence": "quite a different subject matter", "note": ""},
+   {"n": 3, "text": "결론에 이르는 중이면 언제나 이 가정을 하고 있지 않은가", "label": "지지됨", "evidence": "don't I make just this assumption, whenever", "note": ""},
+   {"n": 4, "text": "평소 이유 평가가 실제 믿음과 무관할지 모른다고 생각하지 않으며 상상하기도 어렵다", "label": "지지됨", "evidence": "hard to image what my thinking would be like", "note": ""},
+   {"n": 5, "text": "강의가 던지는 물음: 이 가정이 무엇이며 어떻게 연결 구실을 하는가", "label": "지지됨", "evidence": "What does Moran mean ... 'assumption'", "note": ""}
+  ], "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210504 35697cdd….md"], "sources_missing": []},
+
+  {"id": "42j1", "voice": "문헌", "verdict": "지지됨", "claims": [
+   {"n": 0, "text": "믿음 도식은 결론이 전제 사실로 정당화되지 않아 번을 경험주의라 부르기 어렵다", "label": "지지됨", "evidence": "정당화되는 것은 아니다 ... 의문이 든다", "note": ""},
+   {"n": 1, "text": "게르틀러는 모런과 보일을 합리주의, 번을 경험주의로 분류한다", "label": "지지됨", "evidence": "Moran이나 Boyle은 합리주의적 ... Byrne는 경험주의적", "note": ""},
+   {"n": 2, "text": "강의는 이 용어가 적절한지 의심하고, 합리주의/경험주의는 경험에 의한 정당화 여부로 갈린다", "label": "지지됨", "evidence": "경험에 의해 정당화되는지 여부에 따라 흔히 구분", "note": ""},
+   {"n": 3, "text": "p 믿음과 믿음 도식 추론의 결론이 p 믿음으로 정당화되는 것은 아니다", "label": "지지됨", "evidence": "정당화되는 것은 아니다", "note": ""},
+   {"n": 4, "text": "일반적으로 추론이 지식을 낳으려면 전제가 참이고 정당화되어야 하나 믿음 도식은 그렇지 않은 것 같다", "label": "지지됨", "evidence": "상관없이 지식을 산출하는 것 같다", "note": ""},
+   {"n": 5, "text": "스위스의 수도는 취리히이다에서 나는 그렇게 믿는다로 가는 추론이 예", "label": "지지됨", "evidence": "스위스의 수도는 취리히이다", "note": ""}
+  ], "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210518 35697cdd….md"], "sources_missing": []},
+
+  {"id": "42k", "voice": "문헌", "verdict": "지지됨", "claims": [
+   {"n": 0, "text": "번은 특권적 접근·독특한 접근·경제성을 요건으로 삼아 투명성 절차를 추론으로 해석한다", "label": "지지됨", "evidence": "inference from world to mind", "note": ""},
+   {"n": 1, "text": "특권적 접근: 자기 마음 상태에 대한 믿음이 더 안전하고 지식이 되기 쉽다", "label": "지지됨", "evidence": "more likely to amount to knowledge", "note": ""},
+   {"n": 2, "text": "독특한 접근: 자기 마음 상태를 알 때에만 쓰는 고유한 방법", "label": "지지됨", "evidence": "a distinctive way of knowing", "note": ""},
+   {"n": 3, "text": "경제성: 다른 대상을 알 때 필요한 인지 능력만 요구하고 내감·직접 대면을 들이지 않는다", "label": "지지됨", "evidence": "No further requirement ... 'inner sense'", "note": ""},
+   {"n": 4, "text": "에반스가 명시하지 않은 투명성 절차의 다음 단계를 추론으로 채운다", "label": "지지됨", "evidence": "Evans does not explicitly address this", "note": ""},
+   {"n": 5, "text": "제3차 세계대전 예: 그 전제 하나에서 나는 그렇게 믿는다로 추론한다", "label": "지지됨", "evidence": "from the single premise that there will be one", "note": ""}
+  ], "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210518 35697cdd….md"], "sources_missing": []},
+
+  {"id": "42k1a", "voice": "문헌", "verdict": "부분", "claims": [
+   {"n": 0, "text": "안전성은 필요조건으로 널리 받아들여지고 민감성은 통 속의 뇌 사례에서 참인 믿음을 걸러 낸다", "label": "부분 지지", "evidence": "Although Chulsoo's belief is true, it is not sensitive", "note": "원문은 통 속의 뇌 믿음이 참이지만 민감하지 않다고만 함. 민감성이 그 믿음을 지식에서 '걸러 낸다'는 말은 없음(노직 입장일 때만 성립)."},
+   {"n": 1, "text": "안전한 참 믿음은 쉽게 거짓일 수 없고, 가까운 가능세계 거의 모두에서 p가 참이다", "label": "지지됨", "evidence": "In almost all nearby possible worlds", "note": ""},
+   {"n": 2, "text": "증거 없이 비가 온다고 믿었다가 우연히 맞은 철수의 믿음은 안전하지 않다", "label": "지지됨", "evidence": "not safe because it could have been easily false", "note": ""},
+   {"n": 3, "text": "민감한 믿음은 p가 거짓이면 믿지 않았을 믿음이다", "label": "지지됨", "evidence": "If p were false, S would not believe that p", "note": ""},
+   {"n": 4, "text": "통 속의 뇌가 아니라는 믿음은 참이지만 뇌였어도 믿었을 것이므로 민감하지 않다", "label": "지지됨", "evidence": "would have still believed", "note": ""},
+   {"n": 5, "text": "소사·프리처드·윌리엄슨은 안전성, 노직은 민감성을 필요조건으로 본다", "label": "지지됨", "evidence": "safe (Sosa, Pritchard, Williamson) ... (Nozick)", "note": ""},
+   {"n": 6, "text": "오늘날 안전성이 필요조건이라는 데 폭넓은 합의가 있다", "label": "지지됨", "evidence": "nowadays widely agreed that it is safety", "note": ""}
+  ], "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210518 35697cdd….md"], "sources_missing": []},
+
+  {"id": "42k3", "voice": "문헌", "verdict": "부분", "claims": [
+   {"n": 0, "text": "번은 모런이 숙고 사례만 보고 일반화했으며 마음이 정해진 경우 숙고가 믿음에 선행하지 않는다고 비판한다", "label": "부분 지지", "evidence": "this looks like a conclusion draw from an overly restrcted diet", "note": "원문은 'On the face of it, looks like'로 한정, 선행 부재도 '믿음에 대한 믿음' 바로 앞(immediately)에 대한 말. 제목은 한정어와 대상이 빠져 단정."},
+   {"n": 1, "text": "번은 모런의 투명성 설명이 이론적 태도보다 숙고적 태도의 우선성에 뿌리를 둔다고 요약한다", "label": "지지됨", "evidence": "primacy of a deliberative rather than a theoretical", "note": ""},
+   {"n": 2, "text": "모런에게 자기지식은 적어도 중심 사례에서 마음을 정하는 일이다", "label": "지지됨", "evidence": "at least in the central or primary case", "note": ""},
+   {"n": 3, "text": "번은 이것이 지나치게 좁은 사례만 먹은 데서 나온 결론처럼 보인다고 비판한다", "label": "지지됨", "evidence": "overly restrcted diet of examples", "note": ""},
+   {"n": 4, "text": "처음 숙고한 끝에 믿는다는 것을 알게 되는 경우도 있지만 많은 경우 마음은 이미 정해져 있다", "label": "지지됨", "evidence": "my mind is already made up", "note": ""},
+   {"n": 5, "text": "따라서 일반적 설명을 숙고의 능력에서 구하면 설명 범위가 좁아진다", "label": "지지됨", "evidence": "overly restricted diet of examples", "note": ""}
+  ], "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210518 35697cdd….md"], "sources_missing": []},
+
+  {"id": "42k5a", "voice": "문헌", "verdict": "지지됨", "claims": [
+   {"n": 0, "text": "의지 도식은 증거로 아는 미래와 예견된 부수 결과에도 의도를 귀속하므로 번은 관찰 없는 앎으로 범위를 좁힌다", "label": "지지됨", "evidence": "holds for the cases ... 'without observation'", "note": ""},
+   {"n": 1, "text": "의지 도식에는 과잉 생성 문제가 있고 첫째 사례는 자기 미래 예측(시험에 떨어질 것)", "label": "지지됨", "evidence": "Cases of an estimate of one's future", "note": ""},
+   {"n": 2, "text": "둘째 사례: 폭격 공장 근처 민간인을 죽일 것이라는 예견은 의도가 아니다", "label": "지지됨", "evidence": "foreseen but unintended consequences", "note": ""},
+   {"n": 3, "text": "번의 해결: 두 사례는 증거에 기대어 자기가 할 일을 아는 경우", "label": "지지됨", "evidence": "knows what one will do on the basis of evidence", "note": ""},
+   {"n": 4, "text": "앤스콤: 관찰 없이 아는 행위가 바로 의도하는 행위이다", "label": "지지됨", "evidence": "precisely those that one intends to perform", "note": ""},
+   {"n": 5, "text": "도식은 증거 없는 앎에서 성립하고 좋은 증거에 기댄다고 믿으면 무효화된다", "label": "지지됨", "evidence": "defeasible 'if one believes ... good evidence'", "note": ""},
+   {"n": 6, "text": "학교가 지겨워 그만두려 떨어질 것이라는 경우에는 의도 귀속이 자연스럽다", "label": "지지됨", "evidence": "I'm sick of this school and wants to quit", "note": ""}
+  ], "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210518 35697cdd….md"], "sources_missing": [], "note": "카드 연결 절의 {{@Anscombe1957 Intention}} 표기는 [[ ]]가 아닌 {{ }} (카드 오류 가능)."},
+
+  {"id": "42l2", "voice": "문헌", "verdict": "지지됨", "claims": [
+   {"n": 0, "text": "보일은 믿음 도식의 전제 p가 결론의 이유를 제공하지 못해 그 추론은 미친 추론이라고 비판한다", "label": "지지됨", "evidence": "the 'inference' ... is 'mad'", "note": ""},
+   {"n": 1, "text": "보일은 번의 추론적 접근이 옳을 수 없다고 본다", "label": "지지됨", "evidence": "cannot be right", "note": ""},
+   {"n": 2, "text": "추론이 성립하려면 전제가 결론의 근거나 이유를 제공해야 하는데 도식의 전제는 그런 것 같지 않다", "label": "지지됨", "evidence": "premise ... does not provide any such ground", "note": ""},
+   {"n": 3, "text": "답으로 p를 대면 p의 참이 내가 믿는다는 것을 보이는 경향이 없음을 합리적 통찰이 알려 준다", "label": "지지됨", "evidence": "no tendency to show that I believe it", "note": ""},
+   {"n": 4, "text": "나라는 사실을 근거로 삼으면 이미 내 마음을 안다고 전제하게 되어 번의 설명이 무너진다", "label": "지지됨", "evidence": "presuppose that I already know my own mind", "note": ""},
+   {"n": 5, "text": "인칭적 수준의 추론은 자극-반응 이행이 아니라 항을 알고 이해 가능한 관계를 취하는 이행", "label": "지지됨", "evidence": "not a mere transition from a stimulus", "note": ""},
+   {"n": 6, "text": "각주: 자신을 전지하다 여기면 이행은 그럴듯해지나 그 가정이 매우 비합리적", "label": "지지됨", "evidence": "deeply unreasonable", "note": ""}
+  ], "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210518 35697cdd….md"], "sources_missing": []},
+
+  {"id": "42l2a", "voice": "문헌", "verdict": "원문없음", "claims": [
+   {"n": 0, "text": "믿음 도식은 결론의 참과 지식 지위가 전제의 참이나 정당화에 달려 있지 않다는 점에서 특이하다", "label": "지지됨", "evidence": "indeed a very peculiar one", "note": ""},
+   {"n": 1, "text": "강의는 보일의 비판과 별개로 믿음 도식이 특이하다는 점을 인정해야 한다고 논평한다", "label": "지지됨", "evidence": "Apart from Boyle's critique, it should be admitted", "note": ""},
+   {"n": 2, "text": "보통의 추론에서는 결론의 참이 전제의 참에 결정적으로 달려 있다", "label": "지지됨", "evidence": "crucially depends on whether ... premises are true", "note": ""},
+   {"n": 3, "text": "결론이 지식이 되려면 전제가 우연히 참인 데 그치지 않고 정당화되어야 한다", "label": "지지됨", "evidence": "they must be justified", "note": ""},
+   {"n": 4, "text": "믿음 도식에서는 p가 거짓·무정당이어도 결론은 참이고 지식이 된다. 취리히 예", "label": "지지됨", "evidence": "amounts to knoweldge!", "note": ""},
+   {"n": 5, "text": "이 특이성은 믿음 도식을 추론이라 부르는 것이 적절한지를 되묻게 하는 근거가 된다", "label": "원문에 없음", "evidence": "", "note": "필기에 특이성을 '추론이라 부를 수 있는가'의 근거로 삼는 대목이 없음. 필기는 특이하다고만 말함."}
+  ], "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210518 35697cdd….md"], "sources_missing": []},
+
+  {"id": "42l3", "voice": "문헌", "verdict": "원문없음", "claims": [
+   {"n": 0, "text": "암묵적 앎은 보통 명제 없이 무언가를 할 수 있는 능력인데 믿음에 대한 암묵적 앎이 어떤 능력인지는 불분명하다", "label": "지지됨", "evidence": "what sort of ability is one's 'tacit knowledge", "note": ""},
+   {"n": 1, "text": "강의의 첫째 논평은 암묵적 앎이라는 말의 뜻을 묻는다", "label": "지지됨", "evidence": "(Comment 1) What does it mean that one tacitly", "note": ""},
+   {"n": 2, "text": "암묵적 지식은 피아노·자전거처럼 능력은 있으나 명제적 내용을 명시적으로 말할 수 없는 경우에 쓰인다", "label": "지지됨", "evidence": "피아노를 칠줄 안다나 자전거를 탈줄 안다", "note": ""},
+   {"n": 3, "text": "나는 p라고 믿는다는 암묵적 앎은 정확히 어떤 능력인가", "label": "지지됨", "evidence": "exactly what sort of ability", "note": ""},
+   {"n": 4, "text": "암묵적 앎이 능력이라면 믿음의 본성이 그 능력을 포함한다는 주장을 앎의 설명으로 받아들일 수 있는지 따져 볼 문제", "label": "원문에 없음", "evidence": "", "note": "필기 Comment 1은 어떤 능력인지만 물음. 이 함축을 따지는 대목이 없음."}
+  ], "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210518 35697cdd….md"], "sources_missing": []},
+
+  {"id": "42m", "voice": "문헌", "verdict": "지지됨", "claims": [
+   {"n": 0, "text": "세티야는 보일의 번 비판이 추론 개념을 좁게 잡으면 번이 추론주의를 부인하고 넓게 잡으면 반성주의가 같은 비판을 받는 딜레마에 걸린다고 본다", "label": "지지됨", "evidence": "objection ... faces the following dilemma", "note": ""},
+   {"n": 1, "text": "좁게 이해하면 전제가 결론의 근거나 증거를 주는 이행만 추론이다", "label": "지지됨", "evidence": "only if those premises provide a ground or evidence", "note": ""},
+   {"n": 2, "text": "이때 믿음 도식은 추론이 못 되므로 옹호자는 추론적 견해에 매여 있음을 부인할 것이다", "label": "지지됨", "evidence": "will deny that they are committed", "note": ""},
+   {"n": 3, "text": "넓게 이해하면 추론은 비우연적인 믿음 내용 사이의 이행이고 합리성은 평가에 열려 있다", "label": "지지됨", "evidence": "a non-accidental transition between belief contents", "note": ""},
+   {"n": 4, "text": "이 경우 옹호자는 추론적 견해임을 받아들일 수 있다", "label": "지지됨", "evidence": "can accept that he takes an inferential view", "note": ""},
+   {"n": 5, "text": "반성주의자는 증거가 아님을 아는 이행을 미쳤다고 말할 수 없다: 자기 견해가 그 제약을 어기기 때문", "label": "지지됨", "evidence": "For his own view violates that constraint", "note": ""}
+  ], "sources_used": ["_원자료/notion/…/심리철학연습_강의록_20210525 35697cdd….md"], "sources_missing": []}
+ ]
+}

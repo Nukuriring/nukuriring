@@ -1,0 +1,55 @@
+{
+ "id": "42k",
+ "voice": "문헌",
+ "verdict": "지지됨",
+ "claims": [
+  {
+   "n": 0,
+   "text": "번은 특권적 접근·독특한 접근·경제성을 요건으로 삼아 투명성 절차를 추론으로 해석한다",
+   "label": "지지됨",
+   "evidence": "inference from world to mind",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "특권적 접근: 자기 마음 상태에 대한 믿음이 더 안전하고 지식이 되기 쉽다",
+   "label": "지지됨",
+   "evidence": "more likely to amount to knowledge",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "독특한 접근: 자기 마음 상태를 알 때에만 쓰는 고유한 방법",
+   "label": "지지됨",
+   "evidence": "a distinctive way of knowing",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "경제성: 다른 대상을 알 때 필요한 인지 능력만 요구하고 내감·직접 대면을 들이지 않는다",
+   "label": "지지됨",
+   "evidence": "No further requirement ... 'inner sense'",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "에반스가 명시하지 않은 투명성 절차의 다음 단계를 추론으로 채운다",
+   "label": "지지됨",
+   "evidence": "Evans does not explicitly address this",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "text": "제3차 세계대전 예: 그 전제 하나에서 나는 그렇게 믿는다로 추론한다",
+   "label": "지지됨",
+   "evidence": "from the single premise that there will be one",
+   "note": ""
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/심리철학연습_강의록_20210518 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}

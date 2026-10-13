@@ -1,0 +1,48 @@
+{
+ "id": "42g4a",
+ "voice": "문헌",
+ "verdict": "부분",
+ "claims": [
+  {
+   "n": 0,
+   "text": "합리적 행위자의 지향적 상태는 우연히 갖게 된 상태에 그치지 않고 정당화하는 이유에 바탕한다",
+   "label": "지지됨",
+   "evidence": "not those she happens to have, but",
+   "note": ""
+  },
+  {
+   "n": 1,
+   "text": "상태를 합리적으로 형성·평가·승인·수정하려면 참·바람직함에 대한 합리적 고려에 따라야 한다",
+   "label": "지지됨",
+   "evidence": "in accordance with her rational considerations",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "text": "X에 대한 상태를 가질 이유는 그 상태를 정당화하는 X 자체에 대한 사실이다",
+   "label": "지지됨",
+   "evidence": "facts about X itself that ... justify",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "text": "정당화하는 이유와 설명하는 이유의 구별: 인공지능 사례와 물에 빠진 아이 사례",
+   "label": "지지됨",
+   "evidence": "explanatory reason, 그러나 justifying reason X",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "text": "영희의 믿음·욕구·의도 예: 하늘이 흐림, 서울대, 종신 교수직을 제안한 곳 중 가장 좋은 대학",
+   "label": "부분 지지",
+   "evidence": "among those institutions that offered a tenure-track job",
+   "note": "원문은 tenure-track(정년트랙) 제안. '종신 교수직'은 tenure로 바뀌어 다른 뜻."
+  }
+ ],
+ "sources_used": [
+  "_원자료/notion/…/심리철학연습_강의록_20210427 35697cdd….md"
+ ],
+ "sources_missing": [],
+ "model": "sonnet",
+ "date": "2026-10-13"
+}
