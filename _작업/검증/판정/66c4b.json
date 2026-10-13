@@ -1,0 +1,19 @@
+{
+  "id": "66c4b",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "정신적 이미지는 비분화된 전체로 주어지고 개별화 원칙을 따르지 않으며 딥러닝이 이 경계 사례를 튜링 기계보다 잘 설명한다", "label": "지지됨", "evidence": "better explain borderline", "note": ""},
+    {"n": 1, "text": "사르트르는 정신적 이미지가 비분화된 전체로 주어진다고 본다", "label": "지지됨", "evidence": "undifferentiated whole", "note": ""},
+    {"n": 2, "text": "이미지는 질적 속성을 가지면서 양적으로는 정의되지 않을 수 있어서 판테온을 떠올려도 기둥의 개수를 셀 수 없고 기둥의 수가 불확정일 수 있다(사르트르 2004, p. 87)", "label": "지지됨", "evidence": "an undetermined number of them", "note": ""},
+    {"n": 3, "text": "이미지는 개별화 원칙을 따르지 않아서 친구를 상상할 때 그녀가 정면과 측면에서 동시에 나타날 수 있다", "label": "지지됨", "evidence": "front and the profile", "note": ""},
+    {"n": 4, "text": "저자들은 질적 불확정성과 여러 관점의 중첩이 DeepDream이나 다른 딥러닝 이미지 생성 기법의 산출물에서도 관찰된다고 본다", "label": "지지됨", "evidence": "can be observed", "note": ""},
+    {"n": 5, "text": "튜링 기계는 비분화된 판테온을 설명하지 못한다. 복사본을 저장해 꺼내거나 저장하지 않아 아무것도 출력하지 못하는 흄의 복사 원칙에 가깝기 때문이다", "label": "지지됨", "evidence": "cannot explain an", "note": ""},
+    {"n": 6, "text": "저자들은 현상학적 원천에서 본 정신적 이미지의 경계 사례를 인지주의의 대표 모형인 튜링 기계보다 딥러닝 모형이 더 잘 설명한다고 결론짓는다", "label": "지지됨", "evidence": "Dedicated DL models", "note": ""},
+    {"n": 7, "text": "이 분석은 현상적 내용을 신경망의 추론 전체로 모형화하고 이전에 퇴적된 지각을 다시 활성화하는 재현으로 새롭게 이해하는 데 이른다", "label": "지지됨", "evidence": "a new understanding", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/과학철학 1bd97cdd867e802da375fae8eae0a223.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

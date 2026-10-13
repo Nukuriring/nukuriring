@@ -1,0 +1,19 @@
+{
+  "id": "12e1",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "쿤에 따르면 기준의 느슨함은 새로움에 따르는 위험을 분산한다", "label": "지지됨", "evidence": "C1-06 p.104: spreading the risk", "note": "한정어 문제는 claim 7에 적음"},
+    {"n": 1, "text": "기준을 가치로 이해하면 기준이 가장 필요한 이론 선택 초기 단계에서도 완전하게 기능한다", "label": "지지됨", "evidence": "C1-05: function fully in the earliest", "note": ""},
+    {"n": 2, "text": "코페르니쿠스는 태양 중심 천문학을 행성 위치 예측 장치로 바꾸는 데 여러 해를 쓰면서 천문학자들이 중시하는 예측이라는 가치에 응답했다", "label": "지지됨", "evidence": "C1-05: Copernicus was responding to", "note": ""},
+    {"n": 3, "text": "케플러와 갈릴레오가 일찍 개종한 이유는 개인적 특이성으로 설명해야 하지만 그들이 메운 간극은 공유 가치만으로 정해졌다", "label": "지지됨", "evidence": "C1-05: specified by shared values alone", "note": ""},
+    {"n": 4, "text": "새로 제안된 이론은 대부분 살아남지 못하며, 살아남는 이론도 공동체가 받아들이기 전에 여러 사람의 연구로 시간에 걸쳐 시험된다", "label": "지지됨", "evidence": "C1-06: Most newly suggested theories", "note": ""},
+    {"n": 5, "text": "이런 발전 방식에는 합리적인 사람들이 불일치할 수 있게 하는 결정 절차가 필요하고, 공유 알고리듬이 있다면 모든 과학자가 같은 시점에 같은 결정을 내릴 것이다", "label": "지지됨", "evidence": "C1-06: permits rational men to disagree", "note": ""},
+    {"n": 6, "text": "수용 기준이 낮으면 공동체는 매력적인 전체 관점들 사이를 옮겨 다니고 높으면 아무도 새 이론을 시험하지 않을 것이므로, 쿤은 과학이 그 변화에서 살아남을지 의심한다", "label": "지지됨", "evidence": "C1-06: I doubt that science would survive", "note": ""},
+    {"n": 7, "text": "규칙으로 보면 느슨함과 불완전함인 것이 가치로 보면 'an indispensable means of spreading the risk which the introduction or support of novelty always entails'이다 (p. 104)", "label": "부분 지지", "evidence": "C1-06: may, when the same criteria", "note": "원문은 'What from one viewpoint may seem the looseness ... may, when the same criteria are seen as values, appear an indispensable means'로 may/appear 한정어가 있는데 카드는 '이다'로 단정. 인용구 자체와 쪽수는 일치"}
+  ],
+  "sources_used": ["문헌/@Kuhn1977 Objectivity, Value Judgment, and Theory Choice.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-05_Kuhn-OVJTC-2.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-06_Kuhn-OVJTC-3.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

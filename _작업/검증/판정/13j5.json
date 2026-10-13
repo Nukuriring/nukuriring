@@ -1,0 +1,19 @@
+{
+  "id": "13j5",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "우드워드는 환원적이지 않으면서도 해명력이 있는 인과 이론이 가능하다고 논한다", "label": "지지됨", "evidence": "without being reductive", "note": ""},
+    {"n": 1, "text": "철학자들은 흔히 인과와 설명에 대한 흥미로운 해명이라면 환원적이어야 하고 그러지 않으면 순환적이라고 가정한다(pp. 746–747)", "label": "지지됨", "evidence": "very widespread tendency", "note": ""},
+    {"n": 2, "text": "우드워드의 해명은 환원적이지 않으며 그는 어떤 환원적 해명도 적합하지 않으리라고 의심하지만 적극적 해명은 그 의심의 옳고 그름에 기대지 않는다", "label": "지지됨", "evidence": "I am skeptical", "note": "'little if anything in my positive account turns on whether this skepticism is correct'도 확인."},
+    {"n": 3, "text": "생산이나 생성을 더 해명하지 않고 'c가 e를 생산하면 c가 e의 원인'이라 하는 이론은 공허하지만 비환원적 이론도 다른 이론과 충돌하고 특정 설명을 달리 평가하면 흥미롭다", "label": "지지됨", "evidence": "completely unilluminating", "note": ""},
+    {"n": 4, "text": "그의 해명은 시공간적으로 연속인 인과 과정을 추적하지 않는 원격 작용 같은 설명도 설명적이라고 보며 새먼의 인과-기제 모형은 반대 결론에 이른다(pp. 747–748)", "label": "지지됨", "evidence": "reach the opposite conclusion", "note": ""},
+    {"n": 5, "text": "그는 전통이 주목한 반사실문이 그 목적에 맞지 않고 직접 원인과 단칭 인과 주장에는 개입의 조합을 전건으로 가지는 복합 반사실문이 필요하다고 본다(p. 748)", "label": "지지됨", "evidence": "complex antecedents", "note": ""},
+    {"n": 6, "text": "C가 E의 원인이라는 주장은 C에 대한 개입 아래 E가 어떻게 되는지로 시험되며, 개입 변수 I가 C를 바꾼다는 인과관계는 해명하려는 C-E 관계와 다르므로 악순환에 빠지지 않는다(pp. 748–749)", "label": "지지됨", "evidence": "not viciously circular", "note": ""},
+    {"n": 7, "text": "커드와 커버는 새먼이 환원적 분석을 목표로 반사실문을 피했고 그의 모형이 피임약 사례에서 설명적 관련성을 놓친다고 대비한다(pp. 792–793)", "label": "부분 지지", "evidence": "reluctant ... counterfactuals", "note": "해설은 새먼이 반사실문에 '꺼렸다(reluctant)'고 하며 그 이유를 경험론적 경향으로 돌리고, 인과 개념을 쓰지 않으려 한 것은 분석 목표 때문이라고 따로 말한다. 카드는 '피했고'로 강도를 올리고 이유를 하나로 묶었다. 피임약 사례도 'has been faulted'로 소개된 비판이다."}
+  ],
+  "sources_used": ["문헌/@Woodward2003 The Manipulability Conception of Causal Explanation.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-20_Woodward-Manipulability-3.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1H-13_CC해설-6장-7.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "13i2",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "키처에 따르면 뉴턴주의와 다윈 이론은 예측력을 갖추기 전에 통일의 약속으로 받아들여졌다", "label": "지지됨", "evidence": "prior to the articulation of a theory with high predictive power", "note": "C1-21 p.715"},
+    {"n": 1, "text": "판 프라센은 설명력이 이론의 특별한 덕목이라는 생각이 신화라고 보고 이론은 경험적 적합성과 단순성으로 수용되며 설명은 과학 외적 화용 조건에 따른 응용이라고 보았다(p.714)", "label": "부분 지지", "evidence": "he appears to conclude that the idea ... is a myth", "note": "키처가 판 프라센을 읽는 어조가 'denies, in effect', 'appears to conclude'로 추정적임. 카드는 단정"},
+    {"n": 2, "text": "키처는 예측력 있는 이론이 정식화되기 전에 설명적 약속이 먼저 인정된 역사 사례로 맞선다", "label": "지지됨", "evidence": "explanatory promise of a theory was appreciated in advance", "note": ""},
+    {"n": 3, "text": "18세기 뉴턴 계승자들의 동역학적 입자론은 몇 개의 기본 힘 법칙으로 화학과 광학을 포함한 자연 현상 전부를 도출하려 했고 확증 증거 없이 원자 간 힘에 관한 일반 가설을 세웠다(pp.715-716)", "label": "지지됨", "evidence": "even in the absence of any confirming evidence", "note": ""},
+    {"n": 4, "text": "이 프로그램은 서로 양립하기 어려운 힘이 너무 많아지자 쇠퇴했고 보스코비치가 하나의 힘의 법칙을 주장하며 되살렸다", "label": "지지됨", "evidence": "one law of forces existing in nature", "note": ""},
+    {"n": 5, "text": "키처는 프린키피아의 통일력이 하나의 논증 패턴을 거듭 써서 다양한 현상의 기술을 도출할 수 있음을 보여 준 데 있다고 읽는다(p.716)", "label": "지지됨", "evidence": "one pattern of argument could be used again and again", "note": ""},
+    {"n": 6, "text": "다윈은 어떤 생물학적 현상도 완전히 도출하지 못한다고 한탄하면서도 이론의 성패가 현상을 묶고 설명하는지에 달렸다고 말했다", "label": "지지됨", "evidence": "the doctrine must sink or swim according as it groups and explains", "note": ""},
+    {"n": 7, "text": "다윈이 제시한 것은 두 imaginary examples와 도해로 드러낸 논증 패턴이며, 적용 범위를 넓히는 동시에 복잡한 기관 같은 의심받는 경우를 방어했다(pp.716-717)", "label": "지지됨", "evidence": "two 'imaginary examples' ... and a diagram", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-21_Kitcher-Unification-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Kitcher-Unification_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

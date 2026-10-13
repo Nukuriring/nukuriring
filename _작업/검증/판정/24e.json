@@ -1,0 +1,20 @@
+{
+  "id": "24e",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "닐리는 언어가 보편적 음악이며 한 문화의 음악은 그 언어에서 나온다고 주장한다", "label": "지지됨", "evidence": "language is the universal music", "note": "N1"},
+    {"n": 1, "text": "닐리는 TEDx 강연(2018)과 SXSW 강연(2019)에서 음악이 보편 언어라는 통념을 뒤집는다", "label": "지지됨", "evidence": "TEDxHSG, 2018 + SXSW 2019", "note": ""},
+    {"n": 2, "text": "'Some people say music is the universal language. But I'm here to argue that language is the universal music.'", "label": "지지됨", "evidence": "language is the universal music", "note": "KB N1 인용과 일치"},
+    {"n": 3, "text": "그에 따르면 한 문화의 음악은 그 문화의 언어에서 나온다", "label": "지지됨", "evidence": "그 문화의 언어에서 나온다", "note": ""},
+    {"n": 4, "text": "음절 추적으로 말 속에 잠복한 선율을 꺼내 보이고, 뜻을 모르는 언어의 구절도 반복하면 선율이 들린다고 말한다", "label": "지지됨", "evidence": "반복하면 모르는 언어에서도 멜로디", "note": ""},
+    {"n": 5, "text": "강-약 강세를 즐기는 영어의 성격이 영어권 대중음악의 리듬에 나타나고, 강세 박자 언어와 음절 박자 언어는 서로 다른 선율을 낳는다", "label": "지지됨", "evidence": "stress-timing vs syllable-timing", "note": "KB: 프랑스어/영어 작곡가의 가락이 각자 언어를 닮음. '선율'은 보고서 표현으로는 '음악'"},
+    {"n": 6, "text": "원자료는 이 주장에서 음악적 의미가 언어와 문화에 묶여 있다는 함의를 끌어낸다", "label": "지지됨", "evidence": "언어·문화에 색인(index)된 것", "note": ""},
+    {"n": 7, "text": "월튼이 절대음악은 아마 말에서 시와 노래를 거쳐 발전했으리라고 괄호 속에 적은 문장(1988, p.351)과 닐리의 논제는 같은 방향을 가리킨다", "label": "지지됨", "evidence": "probably developed largely from speech", "note": "'아마' 유지. 연결은 종합보고서 0절·부록 A"},
+    {"n": 8, "text": "닐리에 관한 내용은 원자료의 웹 조사 노트에 근거한다", "label": "지지됨", "evidence": "Part II 조사 노트(웹 출처)", "note": ""}
+  ],
+  "sources_used": ["_원자료/로컬/Walton and neely/음악철학_지식베이스_Walton-Neely.md", "_원자료/로컬/Walton and neely/Walton×Neely_종합보고서.md"],
+  "sources_missing": ["닐리 영상 원문(카드도 미확인 고지)"],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

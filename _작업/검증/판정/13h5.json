@@ -1,0 +1,19 @@
+{
+  "id": "13h5",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "레일턴은 최대 특수성 요건을 설명이 참이어야 한다는 단순한 요건으로 대체한다", "label": "지지됨", "evidence": "replace complex and unappealingly relativistic maximal specificity requirements with the simple requirement of truth", "note": "C1-17 p.705"},
+    {"n": 1, "text": "U²³⁸ 알파 입자의 23%는 4.13MeV, 77%는 4.18MeV이므로 설명 (3)은 에너지가 특정되지 않은 알파 붕괴가 그 구간에 일어났다는 사실을 설명한다(pp.702-703)", "label": "지지됨", "evidence": "an alpha-decay with unspecified energy ... took place", "note": ""},
+    {"n": 2, "text": "4.18MeV였다는 더 특수한 사실의 설명으로 (3)을 쓰면 오류 추론이다. 법칙 (2a)는 붕괴 에너지에 대해 아무것도 말하지 않기 때문이다", "label": "지지됨", "evidence": "(2a) says nothing whatsoever about decay energies", "note": ""},
+    {"n": 3, "text": "U²³⁸ 핵이 유형 P(23%)와 -P(77%)로 나뉜다고 가정하고 법칙 (5a)(5b)가 알려진 뒤에는 (6)이 u의 붕괴를 설명한다고 본다(pp.703-704)", "label": "지지됨", "evidence": "Imagine that, although we do not know it", "note": "가정(contrary-to-fact, 주 7)임을 카드가 '가정하고'로 반영"},
+    {"n": 4, "text": "헴펠 모형은 (3)이 이전 믿음에 대해서는 최대로 특수했지만 지금은 아니라고 처리한다", "label": "지지됨", "evidence": "(3) had been maximally specific relative to our previous beliefs", "note": ""},
+    {"n": 5, "text": "한 핵에 같은 구간의 서로 다른 확률 둘을 귀속하고 가장 특수한 값을 고르는 일은 핵 이론에 모순을 용인하는 일이므로, 복잡하고 상대주의적인 요건을 참이라는 단순한 요건으로 대체한다(pp.704-705)", "label": "지지됨", "evidence": "an unseemly tolerance for contradiction in our nuclear theory", "note": ""},
+    {"n": 6, "text": "(3)을 받아들일 수 없는 이유는 전제가 거짓이라는 데 있다: (2a)의 붕괴 상수를 가진 핵은 하나도 없다", "label": "지지됨", "evidence": "not all nuclei of U²³⁸ ... in fact, none do", "note": ""},
+    {"n": 7, "text": "상대화는 어떤 D-N-P 설명이 참으로 보이는지를 논할 때만 개입하며 실제로 참인지는 별개의 문제이다(p.705)", "label": "지지됨", "evidence": "comes into play only when we begin to discuss whether ... seems true", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-17_Railton-DNP-3.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Railton-DNP_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

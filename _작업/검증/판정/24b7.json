@@ -1,0 +1,19 @@
+{
+  "id": "24b7",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "카벨은 자동성이라는 말을 사진의 기계성과 예술 전통의 관습에 함께 쓴다", "label": "지지됨", "evidence": "Two senses of automatism", "note": "KB Ch 14 Project"},
+    {"n": 1, "text": "첫째 뜻은 사진적 자동성이다: 'Reproducing the world is the only thing film does automatically.'(p.103)", "label": "지지됨", "evidence": "the only thing film does automatically", "note": ""},
+    {"n": 2, "text": "둘째 뜻은 한 전통이 기대어 유지되는 물려받은 형식이다: 푸가, 무곡 형식, 블루스 같은 장르와 전조, 전위, 종지 같은 국지적 토포스(p.104)", "label": "지지됨", "evidence": "modulations, inversions, cadences", "note": ""},
+    {"n": 3, "text": "전통을 익힌 사람은 그 전통을 떠받치는 자동성들을 익히고, 그것을 펼치면 작품이 그 전통 안에 자리를 얻는다(p.104)", "label": "지지됨", "evidence": "assured of a place in that tradition", "note": ""},
+    {"n": 4, "text": "카벨은 같은 낱말을 영화의 물리적 기반과 예술적 발견 양쪽에 쓰는 일이 기이해 보인다고 인정하면서 그 기이함이 영화의 정체성과 모더니즘 예술의 운명에서 온다고 말한다(p.105)", "label": "지지됨", "evidence": "I do not take the perverseness here to be", "note": ""},
+    {"n": 5, "text": "영화의 매체는 제조 기계를 바탕에 두고, 모더니즘 예술은 자기 물리적 기반을 자각하고 책임지므로 그 기반이 예술을 통제한다는 점을 단언하면서 동시에 부정해야 한다(p.105)", "label": "지지됨", "evidence": "at once to assert and deny the control", "note": ""},
+    {"n": 6, "text": "이 개념이 두 자리 모두에서 정당하다는 사실이 혼란을 낳고 모더니즘 예술은 그 혼란을 탐구한다(p.105)", "label": "지지됨", "evidence": "justified in both places", "note": ""},
+    {"n": 7, "text": "대화 속 설명에 따르면 사진 존재론 논쟁에 걸리는 것은 첫째 뜻이고 매체를 다시 발명하는 문제로 이어지는 것은 둘째 뜻이다", "label": "지지됨", "evidence": "(a) 사진적 자동성 ... (b) 매체적 의미", "note": "대화 05:11 3절"}
+  ],
+  "sources_used": ["_원자료/로컬/Integrating Transparency/KB_Cavell_The-World-Viewed.md (Ch 14)", "_원자료/claude.ai/chats/2026-06-15_켄덜 월튼과 카벨의 관계.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

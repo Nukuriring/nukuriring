@@ -1,0 +1,16 @@
+{
+  "id": "70f",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "플라우투스는 기원전 254년에 태어났고 포에니 전쟁기에 극작을 시작했다", "label": "부분 지지", "evidence": "254BC, born. / 플로티누스는 215BC에 첫 작품", "note": "출생과 첫 작품 연도는 있음. 극작 시작이 포에니 전쟁기라는 연결은 필기에 없음(215년이 제2차 포에니 전쟁기라는 설명 없음)"},
+    {"n": 1, "text": "필기는 Plautus의 출생을 기원전 254년으로 적는다", "label": "지지됨", "evidence": "254BC, born.", "note": ""},
+    {"n": 2, "text": "당시 로마는 제국이 아니었고 지중해의 패권을 두고 카르타고와 경쟁하는 중이었다", "label": "지지됨", "evidence": "당시 로마는 제국이 아니었다. 지중해의 패권을 두고 카르타고와 경쟁", "note": ""},
+    {"n": 3, "text": "1차 포에니 전쟁은 기원전 241년에 끝났고 기원전 240년 Harvest Festival에서 희곡 경연이 시작되었다", "label": "지지됨", "evidence": "1차 포에니 전쟁 241BC 종전. 240BC - Harvest Festival", "note": ""},
+    {"n": 4, "text": "첫 작품은 기원전 215년이며 필기의 주어 플로티누스는 Plautus를 가리키는 것으로 읽었다", "label": "지지됨", "evidence": "플로티누스는 215BC에 첫 작품.", "note": "플로티누스=Plautus는 카드의 해석(밝힘)"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/Plautus bed91a4de4364ddb9a94ab0fb6a4ae68.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

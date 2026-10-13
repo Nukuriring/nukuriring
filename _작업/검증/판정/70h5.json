@@ -1,0 +1,16 @@
+{
+  "id": "70h5",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "그리스어 가능성 절은 희구법이나 직설법에 αν을 붙이며 αν과 εαν이 쓰이는 자리가 갈린다", "label": "지지됨", "evidence": "ἄν이 쓰이는 경우 / ἐάν이 쓰이는 경우", "note": ""},
+    {"n": 1, "text": "potential optative는 희구법과 αν, 의미는 미래, fut. less vivid 후건에 해당한다", "label": "지지됨", "evidence": "Potential optative optative.+ἄν 미래", "note": "표 이미지"},
+    {"n": 2, "text": "potential indicative(impf.)는 미완료 직설법과 αν, 현재, 현재 반사실 후건이고 (aor.)는 aorist 직설법과 αν, 과거, 과거 반사실 후건이다", "label": "지지됨", "evidence": "aor. indicative.+ἄν 과거 past. 반사실 후건", "note": "표 이미지"},
+    {"n": 3, "text": "본문은 potential indicative가 사실과 다른 것을 가리키며 과거에 잠재적이었거나 반복되었거나 일반적인 사실을 말한다고 적는다", "label": "지지됨", "evidence": "사실과 다른 무언가를 지시하며", "note": ""},
+    {"n": 4, "text": "αν이 쓰이는 경우는 반사실 후건, fut. less vivid 후건, potential optative이고 εαν이 쓰이는 경우는 현재 일반 조건문 전건과 fut. more vivid 전건이다", "label": "지지됨", "evidence": "현재 일반 조건문의 전건, fut. more. vivid의 전건", "note": "표 이미지"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/그리스어 문법과 작문/Conditional bc36bdd8384a4e56944a8e41a89f6a4d.md", "Conditional/Untitled 2.png"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

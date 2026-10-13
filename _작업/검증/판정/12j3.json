@@ -1,0 +1,20 @@
+{
+  "id": "12j3",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "맥멀린은 인식적 가치를 과학의 목표와 그 수단으로 나누어 경험으로 정당화한다", "label": "지지됨", "evidence": "C1-28: Other epistemic values serve as means", "note": ""},
+    {"n": 1, "text": "쿤은 이론 선택 규범을 더 정당화할 수 없다고 보고, 그런 정당화는 귀납 문제를 푸는 일이 될 것이라고 말한다", "label": "지지됨", "evidence": "C1-28: would solve the problem of induction", "note": ""},
+    {"n": 2, "text": "맥멀린은 쿤이 철학적 정당화에 대해 지나치게 높은 견해를 가졌다고 보고, 과학자의 평가 기준은 경험에서 배우고 경험으로 시험된 것에 걸맞은 승인을 누린다고 답한다", "label": "지지됨", "evidence": "C1-28: altogether too lofty a view", "note": "원문 'I suspect'가 카드의 '보고'로 유지됨"},
+    {"n": 3, "text": "정당화를 따지려면 목표와 수단의 정렬이 필요하다", "label": "지지됨", "evidence": "C1-28: ordering of means and ends", "note": ""},
+    {"n": 4, "text": "예측 정확성(경험적 적합성)과 설명력은 과학의 목표이며, 천문학에서 오래 적대적으로 여겨졌으나 코페르니쿠스 혁명이 둘을 결합할 수 있음을 보였고 맥멀린은 이를 우주에 대한 경험적 발견으로 본다", "label": "지지됨", "evidence": "C1-28: an empirical discovery about the sort", "note": "목표 지위는 앞에서 'most obvious candidates', 뒤에서 'serve to define the activity of science itself, in part at least'"},
+    {"n": 5, "text": "목표는 과학이라는 활동을 부분적으로 정의하므로 인식적 정당화가 직접 적용되지 않고, 물을 수 있는 것은 도덕적 정당성과 달성 가능성이다", "label": "지지됨", "evidence": "C1-28: does not directly apply to the goals", "note": ""},
+    {"n": 6, "text": "논리적 일관성과 기존 지식과의 양립 가능성은 모든 인식 활동의 수단이고, 다산성, 통합력, 정합성은 과학에 특유한 수단이다", "label": "지지됨", "evidence": "C1-28: more specific to science", "note": ""},
+    {"n": 7, "text": "수단적 가치는 실천의 역사에서 실제로 목표에 봉사했다는 발견과 이론이 지녀야 할 표지에 대한 인식론적 분석이라는 두 길로 정당화되며 두 길은 서로를 점검한다", "label": "지지됨", "evidence": "C1-28: each serving as check for the other", "note": ""},
+    {"n": 8, "text": "미래에도 그럴지 묻는 흄적 의문에 맥멀린은 'rational theory choice does not require the cogency of demonstration'이라는 쿤 자신의 통찰로 답한다 (p. 122)", "label": "지지됨", "evidence": "C1-28 p.122: does not require the cogency", "note": "인용문과 쪽수 일치"}
+  ],
+  "sources_used": ["문헌/@McMullin1993 Rationality and Paradigm Change in Science.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-28_McMullin-2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

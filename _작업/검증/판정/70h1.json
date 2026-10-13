@@ -1,0 +1,15 @@
+{
+  "id": "70h1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "그리스어 일반 조건문은 현재에서 εαν과 접속법을, 과거에서 ει와 희구법을 쓰고 두 형태를 섞지 않는다", "label": "지지됨", "evidence": "이 일반 조건문들은 섞일 수 없다", "note": "표에서 Present general εάν+subj., Past general εί+opt."},
+    {"n": 1, "text": "일반 조건문은 현재나 과거의 일반적 사실과 관습적이거나 반복적인 사실을 말하며 조건절 행위의 실현에 함축이 없다", "label": "지지됨", "evidence": "진짜로 일어났는지에 대해서는 함축이 없다", "note": ""},
+    {"n": 2, "text": "현재 일반은 εαν과 접속법에 현재 직설법 후건을, 과거 일반은 ει와 희구법에 미완료 직설법 후건을 둔다", "label": "지지됨", "evidence": "Past general εί + opt. / impf. indicative", "note": "본문은 주절에 '보통' 현재나 imperfect라 했고 표는 확정형"},
+    {"n": 3, "text": "필기는 이 조합이 유형을 정하므로 일반 조건문의 두 종류는 섞일 수 없다고 적는다", "label": "지지됨", "evidence": "조합에 의해서 종류가 결정되기 때문에", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/그리스어 문법과 작문/Conditional bc36bdd8384a4e56944a8e41a89f6a4d.md", "Conditional/Untitled.png"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

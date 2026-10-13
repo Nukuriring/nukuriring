@@ -1,0 +1,15 @@
+{
+  "id": "70h2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "그리스어 반사실 조건문은 전건과 후건에 과거 직설법을 쓰고 후건에 αν을 붙인다", "label": "지지됨", "evidence": "past 직설법을 조건절과 주절 모두에 가지며, αν을 주절에", "note": ""},
+    {"n": 1, "text": "반사실 조건문은 특정하거나 일반적인 행위를 묘사하며 조건절의 행위가 일어나지 않았음을 주장한다", "label": "지지됨", "evidence": "조건절의 행위가 일어나지 않았다는 것을 주장", "note": ""},
+    {"n": 2, "text": "현재 반사실은 ει와 미완료 직설법에 미완료 직설법과 αν, 과거 반사실은 ει와 aorist 직설법에 aorist 직설법과 αν이 이어진다", "label": "지지됨", "evidence": "Past contrafactual εί + aor. / aor. + ἄν", "note": "표 이미지"},
+    {"n": 3, "text": "혼합 반사실은 ει와 aorist에 미완료와 αν, ει와 미완료에 aorist와 αν이 이어지는 두 방향이다", "label": "지지됨", "evidence": "Mixed contrafactual εί+aor. → impf.+ἄν", "note": "표 이미지"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/그리스어 문법과 작문/Conditional bc36bdd8384a4e56944a8e41a89f6a4d.md", "Conditional/Untitled.png"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

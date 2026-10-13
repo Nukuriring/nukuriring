@@ -1,0 +1,17 @@
+{
+  "id": "70e4",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "독일어에서 있는 자리는 3격으로, 놓는 방향은 4격으로 나타내며 stehen과 stellen 같은 동사 쌍이 짝을 이룬다", "label": "부분 지지", "evidence": "liegen legen. stehen stellen sitzen setzen", "note": "동사 쌍은 있음. 3격/4격 규칙은 필기에 없고 an der wand와 an die wand 두 판의 차이에서 카드가 읽어 냄(카드도 밝힘)"},
+    {"n": 1, "text": "필기는 liegen·legen, stehen·stellen, sitzen·setzen을 쌍으로 적는다", "label": "지지됨", "evidence": "liegen legen. stehen stellen sitzen setzen", "note": ""},
+    {"n": 2, "text": "In der Ecke an dem Fenster steht ein Bett 등 5과 방 묘사는 있는 자리를 말하며 전치사 뒤에 3격이 온다", "label": "부분 지지", "evidence": "Neben dem Bett steht ein Tisch", "note": "문장은 있으나 3격 분석은 필기에 없음"},
+    {"n": 3, "text": "책장을 벽에 세우겠다는 문장의 한 판은 an der Wand로, 고친 판은 an die Wand로 적었다", "label": "지지됨", "evidence": "Ich Möchet das Regal stellen an die wand", "note": "다른 판: ich stelle ein regal an der wand"},
+    {"n": 4, "text": "Hana und Julia sitzen jetzt auf einer Bank는 앉아 있는 상태이므로 3격 einer Bank이다", "label": "부분 지지", "evidence": "Hana und Julia sitzen jetzt auf einer Bank", "note": "문장은 있으나 3격 분석은 필기에 없음"},
+    {"n": 5, "text": "양면 전치사라 부르는 것은 위키 밖 지식이다", "label": "지지됨", "evidence": "필기에 Wechselpräposition 언급 없음", "note": "부재 확인"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/독일어 03ce7cf2cb0a430987bfae012a0d846d.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

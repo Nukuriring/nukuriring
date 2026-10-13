@@ -1,0 +1,19 @@
+{
+  "id": "13e2",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "헴펠은 매독과 마비 사례와 다윈 진화론이 첫째 하위 논제를 반박하지 못한다고 논한다", "label": "지지됨", "evidence": "the objections ... fall short of their mark", "note": "C1-13 멈춤 7; 세 반론 중 두 가지를 다룬 카드"},
+    {"n": 1, "text": "스크리븐은 마비의 유일한 원인이 매독이라는 명제로 마비를 설명할 수 있지만 매독 환자 중 마비 비율은 작아 예측할 수는 없다고 논했다(p.669)", "label": "지지됨", "evidence": "we must ... still predict that [paresis] will not occur", "note": ""},
+    {"n": 2, "text": "헴펠은 마비가 드문 후유증이라는 바로 그 이유로 매독 감염만으로는 적합한 설명이 못 된다고 답한다", "label": "지지됨", "evidence": "precisely because paresis is such a rare sequel of syphilis", "note": ""},
+    {"n": 3, "text": "법칙적으로 필요한 조건은 일반적으로 사건을 설명하지 않는다. 표를 샀다는 사실로 복권 당첨을 설명하는 꼴이 된다", "label": "지지됨", "evidence": "A condition that is nomically necessary ... does not, in general, explain", "note": ""},
+    {"n": 4, "text": "툴민은 다윈 이론이 새 종 출현을 예측한 적이 없는데도 큰 설명력을 인정받는다고 논했고, 헴펠은 진화의 이야기와 돌연변이·자연선택 이론을 구별한다(pp.669-670)", "label": "지지됨", "evidence": "distinguish ... the story of evolution from the theory", "note": ""},
+    {"n": 5, "text": "공룡 멸종을 확률적으로라도 설명하려면 추가 가설이 많이 필요하고, 그런 가설을 갖추면 설명항은 잠재적 확률적 예측의 근거도 된다", "label": "지지됨", "evidence": "also qualified as a basis for a potential probabilistic prediction", "note": ""},
+    {"n": 6, "text": "헴펠은 툴민 논증의 설득력이 서술적 이야기를 설명으로 여기는 경향과 이론의 설명 정도를 과대평가하는 경향에서 온다고 진단한다(p.670)", "label": "부분 지지", "evidence": "would seem to derive from two sources", "note": "원문은 'would seem to derive'. 카드는 '온다고 진단한다'로 추정 어조를 단정으로 바꿈(경미)"},
+    {"n": 7, "text": "주 6에서 폐렴으로 죽은 환자에 관한 바커의 논증에도 같은 응답을 준다", "label": "지지됨", "evidence": "open to questions similar to those just raised", "note": "주석 파일 주 6. '같은 응답'은 '유사한 의문'을 제기한다는 뜻의 요약"}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-13_Hempel-StructuralIdentity-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Hempel-StructuralIdentity_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

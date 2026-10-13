@@ -1,0 +1,18 @@
+{
+  "id": "66c7",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "계산 현상학은 현상학자에게 조사할 측면의 단서를 주고 딥러닝 설계자에게 새 설계 착상을 준다고 기대된다", "label": "지지됨", "evidence": "We believe CP has potential", "note": ""},
+    {"n": 1, "text": "저자들은 계산 현상학의 방법이 현상학과 딥러닝 양쪽에서 실용적 응용 가능성을 가진다고 본다", "label": "지지됨", "evidence": "practical applications in both", "note": ""},
+    {"n": 2, "text": "신경망이 과제를 푸는 방식은 현상학자에게 무엇을 조사할지 단서를 줄 수 있다", "label": "지지됨", "evidence": "some clues as to what aspects", "note": ""},
+    {"n": 3, "text": "RotNet의 기제는 얼굴이 지각장의 기울기를 정하는 데 도움이 될 수 있다는 단서가 된다", "label": "지지됨", "evidence": "faces might help to determine", "note": ""},
+    {"n": 4, "text": "딥러닝 엔지니어에게는 사르트르적 상상의 기제를 따라 훈련된 인식 신경망의 가중치로 이미지를 생성해 보는 식의 설계 착상을 줄 수 있다", "label": "지지됨", "evidence": "some new ideas to design DL", "note": ""},
+    {"n": 5, "text": "현상학에서 딥러닝으로 더 나아가면 역전파의 대안이 될 일인칭 관점에서 신뢰할 만한 학습 규칙이나 신경망 추론을 더 시간적으로 만드는 방법에 대한 통찰도 바랄 수 있다고 한다", "label": "지지됨", "evidence": "one could even hope for some", "note": ""},
+    {"n": 6, "text": "방법은 살아가는 세계에 자신을 두고 특정 인지 과정을 분리하고 계산 모델이 비슷한 과제를 푸는 기제와 비교하는 세 단계이다", "label": "지지됨", "evidence": "(1) place oneself in the lived world", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/과학철학 1bd97cdd867e802da375fae8eae0a223.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "19e1a",
+  "voice": "종합",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "말과 세계의 맞음이 다차원적이면 진리의 정도는 부분 순서만 이룬다", "label": "지지됨", "evidence": "fit이 주는 자연스러운 구조는 partial order", "note": "원문은 '자연스러운 구조는'으로 한정, 요약문은 at most a partial order"},
+    {"n": 1, "text": "영진이 든 순서 성질 가운데 재귀성은 무해하고, 이행성은 오히려 정도 이론가가 원하는 성질이다", "label": "지지됨", "evidence": "Reflexivity는 공짜입니다", "note": ""},
+    {"n": 2, "text": "소리테스를 단계마다 진리도가 조금씩 내려가는 사슬로 모형화하려면 '적어도 ~만큼 참이다'가 이행적이어야 한다", "label": "지지됨", "evidence": "'적어도 ~만큼 참' 관계가 이행적이어야", "note": ""},
+    {"n": 3, "text": "정도를 지각적 식별 불가능성에서 읽어 내면 굿먼의 일치처럼 비이행적이므로 이행성을 잃고, 깨끗한 실수 척도를 부과하면 인위적 정밀성이 들어온다", "label": "지지됨", "evidence": "비이행적이므로 … artificial precision이 들어옵니다", "note": ""},
+    {"n": 4, "text": "실제로 부담이 되는 성질은 연결성, 곧 전순서성과 정밀성이다", "label": "지지됨", "evidence": "connectedness(전순서성)와 정밀성", "note": ""},
+    {"n": 5, "text": "진리를 말과 세계의 맞음이라는 관계로 놓으면 정도는 따라오지만 맞음은 다차원적이어서 구조는 부분 순서이고, [0,1]의 실수 값은 정당화되지 않은 전순서를 강요한다", "label": "지지됨", "evidence": "scalar 값은 전순서를 강요합니다", "note": ""},
+    {"n": 6, "text": "'Tom은 대머리이다'와 'Tom은 키가 크다'의 참 정도를 한 척도에 세우라는 요구는 통약 불가능성을 무시한다", "label": "지지됨", "evidence": "incommensurability를 무시한 category mistake", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/chats/2026-06-18_Degrees of truth and transitivity problems.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

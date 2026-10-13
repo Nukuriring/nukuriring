@@ -1,0 +1,18 @@
+{
+  "id": "13g",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "아킨슈타인과 새먼의 무관련성 반례는 헴펠 모형이 무관한 정보를 배제하지 못함을 보인다", "label": "지지됨", "evidence": "they fail to rule out cases in which the information ... irrelevant", "note": "C1H-10 §6.4 p.770"},
+    {"n": 1, "text": "커드와 커버는 6장 해설에서 특정 사실의 설명에 관한 무관련성 반례들을 정리한다(pp.770-771)", "label": "지지됨", "evidence": "the second set ... deals with the explanation of particular facts", "note": ""},
+    {"n": 2, "text": "아킨슈타인의 존스는 비소를 1파운드 넘게 먹고 하루 안에 죽는다는 법칙으로 D-N 논증을 세울 수 있으나, 실제로 버스에 치여 죽었다면 전제가 참이고 법칙을 본질적으로 쓰는데도 설명하지 못한다(p.771)", "label": "지지됨", "evidence": "it was the bus that killed Jones, not the arsenic", "note": ""},
+    {"n": 3, "text": "새먼의 남자 존스는 피임약을 먹고 임신하지 않는데, 이 D-N 논증은 무관한 정보 때문에 설명력을 잃는다", "label": "지지됨", "evidence": "irrelevant information ... robs the D-N argument of its explanatory power", "note": "원문은 'presumably a law'로 서술하나 카드는 법칙으로 받아 적음(경미)"},
+    {"n": 4, "text": "키버그의 주술 소금을 I-S 판본으로 바꾸면 .95의 확률로 녹는다는 법칙은 예측은 하게 해도 설명은 하지 못한다(pp.771-772)", "label": "지지됨", "evidence": "can be used to predict ... it does not explain why", "note": ""},
+    {"n": 5, "text": "해설자들은 이 사례가 최대 특수성 요건을 충족한다는 점에 주목하며 문제는 피설명항이 너무 특수한 부류에 배정된 데 있다고 본다", "label": "지지됨", "evidence": "Hempel's RMS is satisfied ... a reference class ... too specific", "note": ""},
+    {"n": 6, "text": "헴펠이 1968년에 내놓은 최대 부류 요건은 소금과 베이킹소다가 같은 확률로 녹는 경우 '소금이거나 베이킹소다'라는 선언 부류를 설명 요인으로 만들어 너무 넓은 부류를 요구한다(p.772)", "label": "지지됨", "evidence": "classes that are too wide", "note": "'which Hempel advocated in 1968'; 명칭은 새먼이 붙임"}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1H-10_CC해설-6장-4.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1H-CC해설-6장_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

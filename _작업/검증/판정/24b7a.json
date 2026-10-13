@@ -1,0 +1,17 @@
+{
+  "id": "24b7a",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "카벨에 따르면 영화는 자동성을 건네받았기에 오랫동안 전통 예술로 남았다", "label": "지지됨", "evidence": "카메라로부터 건네받았다", "note": "대화 05:11과 INT Ch14 요약, KB Ch14 Project가 일치"},
+    {"n": 1, "text": "카벨은 다른 예술들이 모더니즘에서 절대적 실패의 위험을 무릅쓰던 육십 년 동안 영화가 어떻게 순진하게 자기 예술의 원천에 기댈 수 있었는지 묻는다(p.104)", "label": "지지됨", "evidence": "tap the source of their art so innocently", "note": ""},
+    {"n": 2, "text": "그의 답은 영화가 자동성의 전통과 맺는 자연스러운 관계이며, 이 관계가 영화를 예술의 후보로 만들었고 전통적 쓰임에 대한 확신이 사라지면서 영화는 모더니즘으로 내몰린다(p.103)", "label": "지지됨", "evidence": "natural relation to its traditions of automatism", "note": ""},
+    {"n": 3, "text": "전통의 자동성은 전통 예술가가 작품을 보태기 전에 이미 주어져 있고 거장은 그것을 탐구하고 넓히며, 모더니스트는 자동성이라는 사실 자체를 탐구해야 한다(p.107)", "label": "지지됨", "evidence": "The modernist artist has to explore the fact", "note": ""},
+    {"n": 4, "text": "모더니즘에서 예술가의 과제는 그 예술 안에 새 매체를 세우는 일이 되고, 매체는 선험적으로 주어지지 않으며 매체를 세우지 못하는 일은 예술적 실패의 새로운 깊이가 된다(p.103)", "label": "지지됨", "evidence": "media are not given a priori", "note": ""},
+    {"n": 5, "text": "원자료의 정리에 따르면 영화는 자동성을 발명할 필요 없이 건네받았고, 고전적 장르와 유형이 확신을 잃자 비로소 모더니즘의 환경으로 들어섰다(p.60)", "label": "지지됨", "evidence": "moving into the modernist environment", "note": "KB Ch 10 [p.60]; 확신 상실은 Ch 10 project와 §A 요약"}
+  ],
+  "sources_used": ["_원자료/로컬/Integrating Transparency/KB_Cavell_The-World-Viewed.md (Ch 10, Ch 14)", "_원자료/로컬/Integrating Transparency/INT_Cavell-Walton_World-Viewed.md", "_원자료/claude.ai/chats/2026-06-15_켄덜 월튼과 카벨의 관계.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

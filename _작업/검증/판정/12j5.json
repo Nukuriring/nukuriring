@@ -1,0 +1,19 @@
+{
+  "id": "12j5",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "맥멀린에 따르면 초경험적 가치의 인식적 무게는 과학적 실재론을 지지한다", "label": "지지됨", "evidence": "C1-29: rests in large part on these", "note": ""},
+    {"n": 1, "text": "이론 가치들이 서로 환원되지 않아 단순한 확증 알고리듬이 없다는 쿤의 통찰을 더 밀면 일부 가치가 특별한 인식적 무게를 지닌다는 점이 드러난다", "label": "지지됨", "evidence": "C1-29: the special epistemic weight carried", "note": ""},
+    {"n": 2, "text": "코페르니쿠스와 갈릴레오의 정합성 논증은 예측상의 이점과 다른 데서 힘을 얻었고, 다산성과 통합력에도 같은 논증을 세울 수 있다", "label": "지지됨", "evidence": "C1-29: similar cases for fertility", "note": ""},
+    {"n": 3, "text": "과학적 실재론의 근거는 상당 부분 초경험적 가치에 있다", "label": "지지됨", "evidence": "C1-29: rests in large part on these", "note": ""},
+    {"n": 4, "text": "이론을 가설연역 장치로만 보면 다른 장치도 현상을 똑같이 설명할 수 있어 보이고, 현상을 구제한다는 말만으로는 임시방편이라는 의심이 남는다", "label": "지지됨", "evidence": "C1-29: leaves open the suspicion", "note": ""},
+    {"n": 5, "text": "이론을 역사적 맥락에서 평가해 영역 통합의 성공이나 새로운 종류의 현상 예측을 고려할 때 확신이 생기며, 이론은 귀결의 열거로만 확증되지 않는다", "label": "지지됨", "evidence": "C1-29: conviction begins to emerge", "note": ""},
+    {"n": 6, "text": "과학자들이 이론에 거는 기대의 다양성은 이론 선택의 잠정성과 함께 그 인식적 성격도 보여 준다고 결론짓는다", "label": "지지됨", "evidence": "C1-29: properly epistemic character", "note": ""},
+    {"n": 7, "text": "그는 쿤의 도구주의적 입장에서는 이 가치들의 역할을 이해하기 어렵다고 보며, 공약불가능성의 어려움과 코페르니쿠스 논증의 인식적 힘을 어떻게 화해시킬지를 남은 과제로 둔다 (pp. 126–127)", "label": "지지됨", "evidence": "C1-29: hard to make sense of the role", "note": ""}
+  ],
+  "sources_used": ["문헌/@McMullin1993 Rationality and Paradigm Change in Science.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-29_McMullin-3.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

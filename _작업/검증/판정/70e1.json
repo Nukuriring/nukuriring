@@ -1,0 +1,17 @@
+{
+  "id": "70e1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "essen, helfen, sehen, fahren, geben, lesen은 2·3인칭 단수에서 어간 모음이 바뀐다", "label": "지지됨", "evidence": "essen esse isst isst / fahren fahre fährst fährt", "note": ""},
+    {"n": 1, "text": "essen은 esse, isst, isst, helfen은 helfe, hilfst, hilft, sehen은 sehe, siehst, sieht이다", "label": "지지됨", "evidence": "Helfen helfe hilfst hilft helfen helft", "note": ""},
+    {"n": 2, "text": "geben은 gibst, gibt, lesen은 lese, liest, liest, fahren은 fahre, fährst, fährt, gefallen은 gefalle, gefällst, gefällt이다", "label": "지지됨", "evidence": "lesen lese liest liest lesen lest", "note": ""},
+    {"n": 3, "text": "모음이 바뀌는 칸은 du와 er·sie·es뿐이고 wir, ihr, sie는 부정사의 어간을 유지한다", "label": "지지됨", "evidence": "helfen helft helfen helfen", "note": ""},
+    {"n": 4, "text": "e가 i나 ie로 바뀌는 동사와 a가 ä로 바뀌는 동사가 두 갈래로 보이며 werden의 wirst, wird도 이 형태에 가깝다", "label": "지지됨", "evidence": "werden werde wirst wird", "note": "분류는 표 관찰에서 나온 카드의 서술"},
+    {"n": 5, "text": "aussehen 줄은 aussiehst처럼 접두사를 어간에 붙여 적었으나 문장 Wie sieht das Zimmer aus에서 aus는 문장 끝에 나가 있다", "label": "지지됨", "evidence": "aussehen aussiehst aussieht / Wie sieht das Zimmer aus?", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/독일어 03ce7cf2cb0a430987bfae012a0d846d.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

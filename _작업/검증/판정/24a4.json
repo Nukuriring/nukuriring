@@ -1,0 +1,18 @@
+{
+  "id": "24a4",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "월튼에 따르면 사진은 자연적 의미를 지니므로 필연적으로 정확하다", "label": "지지됨", "evidence": "photographs are necessarily perfectly accurate", "note": ""},
+    {"n": 1, "text": "월튼은 그라이스의 구별을 빌려 사진이 자연적 의미를 지닌다고 본다(pp.265–266)", "label": "지지됨", "evidence": "Photographs are bearers of NATURAL meaning", "note": ""},
+    {"n": 2, "text": "반점이 홍역을 자연적으로 의미하려면 홍역이 있어야 하듯, 공룡이 없었다면 사진은 겉모습이 어떻든 공룡이 있었음을 자연적으로 의미하지 않는다", "label": "지지됨", "evidence": "no matter what it looks like", "note": ""},
+    {"n": 3, "text": "스케치는 실제로 공룡이 있었더라도 공룡이 있었음을 자연적으로 의미하지 않는다", "label": "지지됨", "evidence": "The sketch is not necessarily accurate", "note": ""},
+    {"n": 4, "text": "필연적 정확성은 오도하지 않는다는 뜻과 다르다: 휜 거울로 찍은 트위기 사진은 배가 나온 것처럼 보이게 하지만 그녀가 말랐음을 자연적으로 의미한다", "label": "지지됨", "evidence": "means_N that she is skinny", "note": "KB는 'portrait made with a bowed mirror'로 적음"},
+    {"n": 5, "text": "관람자의 착오는 사진이 비자연적으로 의미하는 것, 허구로 만드는 것, 사진을 통해 보이는 모습에 관한 착오이다", "label": "지지됨", "evidence": "means_NN (or what it makes fictional", "note": ""},
+    {"n": 6, "text": "사진을 제대로 해석하는 일은 사실을 얻는 일이다: 'To interpret a photograph properly is to get the facts.'(p.266)", "label": "지지됨", "evidence": "To interpret a photograph properly", "note": ""}
+  ],
+  "sources_used": ["_원자료/로컬/Integrating Transparency/KB_Walton_Transparent-Pictures.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "13j3",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "우드워드에 따르면 설명의 깊이는 불변성의 범위와 답하는 반사실 물음의 범위에 달려 있다", "label": "지지됨", "evidence": "differences in the range of what-if-things-had-been-different questions", "note": "C1-20 p.744"},
+    {"n": 1, "text": "인과 주장들은 개입 아래의 반사실문으로 이해된다는 공통점을 가지면서도 여러 차원에서 다르다", "label": "지지됨", "evidence": "within this broad genus there are additional distinctions", "note": ""},
+    {"n": 2, "text": "경사면 설명은 보건과 우드워드가 현상이라 부르는 일반적 패턴을 설명하고, 공룡 멸종 설명은 특정 일화를 설명하는 단칭 인과 설명이다(pp.743-744)", "label": "지지됨", "evidence": "what James Bogen and I call a phenomenon", "note": ""},
+    {"n": 3, "text": "유형 수준의 인과 주장도 총·순 원인과 직접·기여 원인으로 나뉘며 서로 다른 인과 주장은 서로 다른 가상 실험과 연관된다", "label": "지지됨", "evidence": "different hypothetical experiments with which they are associated", "note": ""},
+    {"n": 4, "text": "'가속 페달을 밟으면 차가 가속한다'는 참인 인과 주장이고 특정 가속을 설명하는 데 쓸 수 있지만 하벨모가 지적했듯 내부 기제 이론에 비하면 설명적으로 얕다(p.744)", "label": "지지됨", "evidence": "explanatorily shallow in comparison", "note": "원문의 전제 'Assuming that my car is functioning normally'는 카드에서 생략(경미)"},
+    {"n": 5, "text": "설명 이론은 한 인과 설명이 다른 것보다 왜 더 깊거나 나은지 통찰을 주어야 하며 깊이 차이를 일반화의 불변성 정도와 w-물음 범위의 차이로 추적한다", "label": "지지됨", "evidence": "tracing differences in explanatory depth to differences in the degree of invariance", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-20_Woodward-Manipulability-3.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

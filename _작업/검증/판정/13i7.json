@@ -1,0 +1,20 @@
+{
+  "id": "13i7",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "키처는 인과적 관련성이 설명적 관련성에서 파생된다고 보아 루이스의 반론에 맞선다", "label": "지지됨", "evidence": "no sense to the notion of causal relevance independent of that of explanatory relevance", "note": "C1H-12 pp.790-791"},
+    {"n": 1, "text": "통일 접근은 가장 일반적인 통일 이론에서 설명을 찾는 하향식 접근이다(pp.782-783)", "label": "지지됨", "evidence": "top-down focus on the most general unifying theories", "note": ""},
+    {"n": 2, "text": "키처는 1989년 글에서 자연법칙과 인과 과정으로 보는 것이 통일 이론 수용의 결과라고 논하며 'the because of causation is always derivative from the because of explanation'이라 쓴다", "label": "지지됨", "evidence": "the 'because' of causation is always derivative", "note": "1989 출처는 해설 주 28"},
+    {"n": 3, "text": "이는 국소적 인과 기제에서 출발하는 새먼의 상향식 모형과 대비된다", "label": "지지됨", "evidence": "This differs from the 'bottom-up' approach of Salmon's", "note": ""},
+    {"n": 4, "text": "K에 상대적인 설명 개념은 정당화된 수용은 포착해도 올바른 설명을 정의하지 못한다는 문제를 키처는 루이스에게 돌리는 반론으로 다룬다. 세계가 공통 구조 없는 수많은 인과 과정이면 통일 접근은 올바른 이해에서 멀어진다(p.790)", "label": "지지됨", "evidence": "the unification approach would lead us in the wrong direction", "note": ""},
+    {"n": 5, "text": "인과·설명·반사실 개념 없이 투사 가능한 술어로 된 이상적 흄 말뭉치를 정의하고 반론을 세 명제로 정식화한다", "label": "지지됨", "evidence": "defining an ideal Hume corpus", "note": ""},
+    {"n": 6, "text": "인과적으로 관련된 요인이 최선의 통일 체계화에 나타나지 않을 수 있다는 셋째 명제를 부정하고 탐구와 독립적인 인과적 진리를 인정하지 않는다(pp.790-791)", "label": "지지됨", "evidence": "Kitcher bites the bullet and denies that (3) is true", "note": ""},
+    {"n": 7, "text": "올바른 설명을 과학 실천이 합리적으로 발전한 극한에서 설명 창고에 나타나는 도출로 정의해 칸트적 주제에 퍼스적 변형을 준다", "label": "지지됨", "evidence": "a Peircian twist to his Kantian theme", "note": ""},
+    {"n": 8, "text": "루이스에게 양보하는 것은 과학이 이상적 극한에서도 특정 정도의 통일을 이룬다는 보장이 없다는 점뿐이며 설명적 관련성과 독립된 인과적 관련성 개념은 의미가 없다고 고수한다(p.791)", "label": "지지됨", "evidence": "no guarantee that science ... will achieve any particular degree of unification", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1H-12_CC해설-6장-6.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1H-CC해설-6장_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

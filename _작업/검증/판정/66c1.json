@@ -1,0 +1,18 @@
+{
+  "id": "66c1",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "베크만 외에 따르면 습관의 퇴적은 경험을 표상으로 따로 저장하지 않고 습관으로 굳히므로 가중치 조정과 닮았다", "label": "지지됨", "evidence": "adjustment of weights during", "note": "아래 3번의 한정어 누락 참고."},
+    {"n": 1, "text": "메를로퐁티는 과거 경험이 별도로 저장되지 않고 새 습관으로 굳어지는 과정을 퇴적이라 부른다", "label": "지지됨", "evidence": "aren’t stored separately", "note": ""},
+    {"n": 2, "text": "경험은 튜링 기계의 기호나 하드 디스크의 항목처럼 따로 저장되지 않고 액체 바닥에 고체 입자가 가라앉듯 새 습관으로 통합된다", "label": "지지됨", "evidence": "solid material settles", "note": ""},
+    {"n": 3, "text": "저자들은 입자가 가라앉는 해석하기 어려운 양상이 신경망 훈련에서 가중치가 조정되는 양상과 닮았다고 본다", "label": "부분 지지", "evidence": "seemingly uninterpretable", "note": "원문은 'seemingly uninterpretable'(해석하기 어려워 보이는)이다. 카드는 '해석하기 어려운'으로 'seemingly'를 뺐다."},
+    {"n": 4, "text": "퇴적된 습관은 수축된 지식을 이루고 세계를 향한 모든 새 움직임에서 다시 활용된다(메를로퐁티 1945, p. 132)", "label": "지지됨", "evidence": "taken up in every new movement", "note": ""},
+    {"n": 5, "text": "인공신경망도 모든 예시를 표상 형태로 저장하지 않고 가중치 조정으로 예시의 이점을 얻는다", "label": "지지됨", "evidence": "weight adjustment", "note": ""},
+    {"n": 6, "text": "그래서 corps propre의 지향적 행위는 경험을 겹쳐 쌓는 중첩 대신 경험의 퇴적에 기반한다고 한다", "label": "지지됨", "evidence": "not based on a superposition", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/과학철학 1bd97cdd867e802da375fae8eae0a223.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "70h3",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "그리스어 미래 조건문은 접속법, 희구법, 직설법으로 일어날 가능성의 정도를 달리 나타낸다", "label": "지지됨", "evidence": "일어날법한 정도를 다르게 묘사하기 위해서 여러가지 법들", "note": ""},
+    {"n": 1, "text": "more vivid는 εαν과 접속법에 미래 직설법, 명령법, 숙고 접속법 등이 후건으로 이어진다", "label": "지지됨", "evidence": "fut. indicative., imperative, deliberative subj, etc.", "note": "표 이미지"},
+    {"n": 2, "text": "less vivid는 ει와 희구법에 희구법과 αν이, most vivid는 ει와 미래 직설법에 미래 직설법이 이어진다", "label": "지지됨", "evidence": "Future most vivid εί + fut. indicative", "note": "표 이미지"},
+    {"n": 3, "text": "접속법이 가장 많이 쓰이며 조건이 충족될지에 중립이다", "label": "지지됨", "evidence": "접속법이 가장 많이 쓰인다", "note": ""},
+    {"n": 4, "text": "희구법은 충족되지 않을 가능성이 높다고 주장하며 조건절의 직설법은 보통 위협이나 경고의 암시를 띤다", "label": "지지됨", "evidence": "직설법은 보통 위협이나 경고의 암시", "note": "'보통' 유지"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/그리스어 문법과 작문/Conditional bc36bdd8384a4e56944a8e41a89f6a4d.md", "Conditional/Untitled.png"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

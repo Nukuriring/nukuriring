@@ -1,0 +1,19 @@
+{
+  "id": "24d3",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "월튼에 따르면 재현부는 귀환 일반의 사례가 됨으로써 귀환을 제시한다", "label": "지지됨", "evidence": "재현부는 그 자체로 '귀환'의 한 사례", "note": ""},
+    {"n": 1, "text": "월튼은 음악의 추상성이 일반성에 있는지 검토한다(§IV, pp.356–358)", "label": "지지됨", "evidence": "§IV. 추상=일반성? (pp.356–358)", "note": ""},
+    {"n": 2, "text": "일반성이 클수록 이 곡이 무엇에 관한 것이라는 주장에 대한 저항이 약해진다: 트로이 전쟁보다 투쟁 일반", "label": "지지됨", "evidence": "저항이 약해진다", "note": ""},
+    {"n": 3, "text": "일반성은 추상 예술의 전유물이 아니다: 소설도 같은 정도로 일반적인 관념을 다루되 나폴레옹의 투쟁처럼 사례를 표상하여 제시한다", "label": "지지됨", "evidence": "사례를 표상함으로써(by illustrating)", "note": ""},
+    {"n": 4, "text": "음악은 그 관념을 더 직접 제시하며 때로 스스로 그 관념의 한 사례가 된다", "label": "지지됨", "evidence": "음악은 더 직접 제시", "note": ""},
+    {"n": 5, "text": "월튼은 여기서 한슬리크의 '순수하게 음악적인 이념'이 지닌 진리의 핵을 본다", "label": "지지됨", "evidence": "진실의 핵", "note": ""},
+    {"n": 6, "text": "극단적 일반성은 공허하다: 'Once upon a time there was a person. The End.'(p.357)", "label": "지지됨", "evidence": "Once upon a time there was a person.", "note": ""},
+    {"n": 7, "text": "월튼은 추상 예술과 재현 예술의 차이를 무엇에 대해 일반적이고 무엇에 대해 구체적인지에서 찾고, 음악은 분노와 공포를 가르지 못해도 그 느낌의 역동은 극도로 구체적으로 그릴 수 있다고 본다", "label": "지지됨", "evidence": "극도로 구체적으로 그릴 수 있다", "note": "W7"}
+  ],
+  "sources_used": ["_원자료/로컬/Walton and neely/음악철학_지식베이스_Walton-Neely.md"],
+  "sources_missing": ["문헌/@Walton1988의 논문 원문(지식 베이스만 사용)"],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

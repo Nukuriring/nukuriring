@@ -1,0 +1,17 @@
+{
+  "id": "66b2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "카르납은 법칙이 알려진 사실에서 알려지지 않은 사실을 추론하게 하므로 설명과 예측이 함께 간다고 본다", "label": "지지됨", "evidence": "예측과 설명은 같이 가야한다", "note": ""},
+    {"n": 1, "text": "법칙을 보편 일반화 (x)(Px→Qx)로 쓰고 Pa가 알려져 있으면 아직 모르는 Qa가 따라 나온다", "label": "지지됨", "evidence": "(x) (Px → Qx) Pa Qa", "note": ""},
+    {"n": 2, "text": "법칙은 알려진 법칙과 알려진 사실에서 아직 모르는 사실을 추론하게 해 주어 예측을 낳는다", "label": "지지됨", "evidence": "아직 모르는 사실을 추론할 수 있게 해준다", "note": ""},
+    {"n": 3, "text": "카르납의 핵심 생각은 예측과 설명이 함께 가야 한다는 것이다", "label": "지지됨", "evidence": "예측과 설명은 같이 가야한다는 것이 Carnap의 idea", "note": ""},
+    {"n": 4, "text": "특정 사실과 관찰된 규칙성은 통계적 법칙이든 보편적 법칙이든 알려지지 않은 사실의 예측으로 이어진다", "label": "지지됨", "evidence": "알려지지 않은 사실에 대한 예측", "note": ""},
+    {"n": 5, "text": "카르납은 예측이 모든 인간 행위에 들어 있으며 예측 없이는 일상도 과학적 삶도 불가능하다고 본다", "label": "지지됨", "evidence": "예측은 모든 인간 행위에 포함되어 있다", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/과목별 진행률/과학철학 논자시/Chapter 6_ Models of Explanation/Carnap_The values of Laws Explanation and Predicti 22497cdd867e805f8c42d943ea51591b.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

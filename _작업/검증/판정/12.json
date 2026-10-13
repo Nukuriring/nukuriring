@@ -1,0 +1,19 @@
+{
+  "id": "12",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "쿤은 패러다임 선택에 관련 공동체의 동의보다 높은 기준이 없다고 본다", "label": "지지됨", "evidence": "C1-01 p.81: there is no standard higher", "note": ""},
+    {"n": 1, "text": "과학 혁명은 옛 패러다임이 양립 불가능한 새 패러다임으로 전부 또는 일부 교체되는 비누적적 발전 에피소드이다", "label": "지지됨", "evidence": "C1-01 p.79: non-cumulative developmental", "note": ""},
+    {"n": 2, "text": "유비의 발생적 측면: 기존 제도·패러다임이 제 기능을 못한다는 감각이 공동체 일부에서 커지며 시작된다", "label": "지지됨", "evidence": "C1-01: a growing sense, often", "note": ""},
+    {"n": 3, "text": "정치 혁명은 제도가 금지하는 방식으로 제도를 바꾸려 하므로 진영이 갈라지면 제도를 넘어선 판정 틀이 없고 대중 설득과 때로 무력에 의존한다", "label": "지지됨", "evidence": "C1-01: often including force", "note": ""},
+    {"n": 4, "text": "패러다임 선택도 양립 불가능한 공동체 생활 방식 사이의 선택이다", "label": "지지됨", "evidence": "C1-01: modes of community life", "note": ""},
+    {"n": 5, "text": "정상과학의 평가 절차는 부분적으로 쟁점 패러다임에 의존하므로 각 진영은 자기 패러다임으로 그것을 옹호하는 순환 논증을 쓴다", "label": "지지됨", "evidence": "C1-01: depend in part upon", "note": ""},
+    {"n": 6, "text": "순환 논증은 강한 설득력을 가질 수 있으나 그 지위는 설득에 머물고, 원 안에 들어오기를 거부하는 사람에게 논리적으로도 확률적으로도 강제력이 없다", "label": "지지됨", "evidence": "C1-01: only that of persuasion", "note": "원문은 immensely persuasive, often compellingly so로 '강한 설득력'을 인정"},
+    {"n": 7, "text": "결론 인용 'there is no standard higher than the assent of the relevant community' (p. 81)", "label": "지지됨", "evidence": "C1-01 p.81: assent of the relevant", "note": "인용문 글자와 쪽수 일치"}
+  ],
+  "sources_used": ["문헌/@Kuhn1962 The Nature and Necessity of Scientific Revolutions.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-01_Kuhn-SSR9-1.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

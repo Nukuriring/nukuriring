@@ -1,0 +1,19 @@
+{
+  "id": "24b4",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "카벨에 따르면 녹음은 소리를 재생하지만 사진은 광경을 재생하지 못한다", "label": "지지됨", "evidence": "a photograph reproduces a sight", "note": "p.20"},
+    {"n": 1, "text": "녹음을 들으며 '사실 녹음일 뿐'이라 말하고 싶어지지는 않는데 사진 앞에서는 존재론적으로 불안해진다(pp.17–18)", "label": "지지됨", "evidence": "ontologically restless", "note": ""},
+    {"n": 2, "text": "'It is the nature of hearing that what is heard comes from someplace, whereas what you can see you can look at.'", "label": "지지됨", "evidence": "the nature of hearing", "note": ""},
+    {"n": 3, "text": "우리는 보이지 않고 현전하지 않는 것을 듣는 데 익숙하지만, 사진을 볼 때 우리는 현전하지 않는 것을 본다", "label": "지지됨", "evidence": "we see things that are not present", "note": ""},
+    {"n": 4, "text": "소리는 완벽하게 복사될 수 있고 녹음은 자기가 복사하는 소리를 재생한다", "label": "지지됨", "evidence": "sounds can be perfectly copied", "note": ""},
+    {"n": 5, "text": "'we cannot say that a photograph reproduces a sight (or a look, or an appearance).'(p.20)", "label": "지지됨", "evidence": "a photograph reproduces a sight", "note": ""},
+    {"n": 6, "text": "빠진 것은 자연 속의 무언가이다: 사물은 광경을 만들지도 갖지도 않으므로 광경을 재생하려면 틀을 뜨거나 자국을 떠서 사물 자체를 재생해야 한다(p.21)", "label": "지지됨", "evidence": "objects don't make sights, or have sights", "note": ""},
+    {"n": 7, "text": "카벨은 사진을 시각적 틀이나 자국으로 보는 바쟁의 생각에도 만족하지 않는데, 물리적 틀과 달리 사진에서는 원본이 그대로 현전하기 때문이다(p.21)", "label": "지지됨", "evidence": "the original is still as present as it ever was", "note": ""}
+  ],
+  "sources_used": ["_원자료/로컬/Integrating Transparency/KB_Cavell_The-World-Viewed.md (Ch 2)"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

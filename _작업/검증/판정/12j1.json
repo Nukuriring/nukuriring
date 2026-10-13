@@ -1,0 +1,18 @@
+{
+  "id": "12j1",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "맥멀린은 평가 방법론이 바뀌는지에 따라 혁명을 얕은 혁명과 깊은 혁명으로 나눈다", "label": "지지됨", "evidence": "C1-27: a deep revolution, by contrast", "note": ""},
+    {"n": 1, "text": "평가 절차가 패러다임에 의존한다는 순환성이 혁명 일반에 성립한다면 혁명은 비합리적인 일이 될 것이라고 보고, 쿤의 사례마다 무엇이 바뀌었는지 살핀다", "label": "부분 지지", "evidence": "C1-27: would indeed seem to be the irrational", "note": "원문은 'scientific revolutions would indeed seem to be the irrational, or at least minimally rational, affairs'로 'seem'과 'or at least minimally rational'이 있는데 카드는 '비합리적인 일이 될 것'으로 단정"},
+    {"n": 2, "text": "X선 발견은 얕은 혁명이다: 전자기 이론, 이론 평가 방식, 교과서가 크게 바뀌지 않았고 음극선 장치를 다루는 실험 절차와 기대 결과가 바뀌었다", "label": "지지됨", "evidence": "C1-27: I will call this a shallow revolution", "note": ""},
+    {"n": 3, "text": "산소 연소 이론과 라이덴 병 발견은 중간 혁명이다: 새롭고 포괄적인 이론이 나왔지만 인식 원리는 그대로였고, 프리스틀리와 라부아지에는 가중치는 달라도 같은 종류의 기준을 썼다", "label": "부분 지지", "evidence": "C1-27: So far as we can tell, Priestley", "note": "원문은 'more or less unchanged the epistemic principles'와 'So far as we can tell ... applied the same sorts of criteria'로 한정되어 있는데 카드는 단정. 가중치가 달랐을 수 있다는 점은 'might not have attached the same weight'"},
+    {"n": 4, "text": "코페르니쿠스 혁명은 깊은 혁명이다: 좋은 이론의 기준과 정당화 절차 자체가 바뀌었고, 아리스토텔레스주의자와 갈릴레오주의자는 합의를 어떻게 이룰지부터 달랐다", "label": "지지됨", "evidence": "C1-27: totally disagreed as to how agreement", "note": ""},
+    {"n": 5, "text": "전문분야 행렬의 구성 요소 가운데 이론 평가를 지배하는 가치는 깊은 혁명에서만 쟁점이 된다고 본다", "label": "지지됨", "evidence": "C1-27: Only in a deep revolution does one", "note": ""},
+    {"n": 6, "text": "패러다임 안에서도 고에너지 물리학, 백악기 멸종, 달의 기원처럼 경쟁 이론 사이의 깊은 불일치가 일상적이므로 혁명과 퍼즐 풀이 사이에 다루기 어려움의 정도가 이루는 스펙트럼이 있다고 제안한다 (pp. 116–117)", "label": "지지됨", "evidence": "C1-27 p.117: a spectrum of different levels", "note": "원문 'I suspect'가 카드의 '제안한다'로 유지됨"}
+  ],
+  "sources_used": ["문헌/@McMullin1993 Rationality and Paradigm Change in Science.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-27_McMullin-1.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "70c2",
+  "voice": "문헌",
+  "verdict": "원문없음",
+  "claims": [
+    {"n": 0, "text": "관계대명사 qui, quae, quod는 선행사의 성과 수를 따르고 격은 관계절 안의 기능을 따른다", "label": "원문에 없음", "evidence": "", "note": "필기에는 변화표와 번역 연습만 있고 이 규칙 설명은 없음(카드도 밝힘)"},
+    {"n": 1, "text": "28과 필기는 관계대명사의 변화를 단수 qui…quo와 복수 qui…quibus로 적는다", "label": "지지됨", "evidence": "qui quae quae - quorum quarum quorum", "note": ""},
+    {"n": 2, "text": "28.4의 Magister, cui Flaccus tradiderat argentum에서 cui는 tradere의 받는 이이므로 여격이고 영진의 작문 답안은 cui Flaccus argentum dederat로 옮겼다", "label": "부분 지지", "evidence": "cui Flaccus argentum dederat", "note": "문장과 작문 답안은 맞으나 cui가 여격이라는 분석은 필기에 없음"},
+    {"n": 3, "text": "Navis, quam nautae solverant에서 quam은 solverant의 목적어이므로 대격이고 선행사 navis에 맞춰 여성 단수이다", "label": "원문에 없음", "evidence": "", "note": "격·성 분석은 필기에 없음. 28과 문제문은 solverunt, solverant는 작문 답안의 형태"},
+    {"n": 4, "text": "alter viator cum quo Quintus colloquium faciebat에서 quo는 전치사 cum 뒤의 탈격이고, alter, cuius parentes in Graecia habitabant에서 cuius는 parentes를 한정하는 속격이다", "label": "원문에 없음", "evidence": "", "note": "문장은 28.4에 있으나 격 분석은 필기에 없음"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/28과, 29과 1f06840275634417bc8fdf368bd1ecc4.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/작문 11f0e7d5ccac4514bcd036b4906c468a.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

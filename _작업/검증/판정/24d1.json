@@ -1,0 +1,17 @@
+{
+  "id": "24d1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "월튼에 따르면 장조와 단조 같은 음악의 표현 코드는 학습된다", "label": "지지됨", "evidence": "학습된 관습", "note": "W4"},
+    {"n": 1, "text": "월튼은 음악의 표현성을 의미론으로 설명하는 길을 검토하며, 첫 시도는 음악이 감정의 행동적 표출을 모방한다는 설명이다(§II, pp.352–354)", "label": "지지됨", "evidence": "감정의 행동적 표출을 모방해 표현적", "note": ""},
+    {"n": 2, "text": "'People don't change from major to minor or from Phrygian to Lydian when their moods change.'(p.354)", "label": "지지됨", "evidence": "People don't change from major to minor", "note": "장조/단조는 표현 행동과 무관하다는 논점"},
+    {"n": 3, "text": "고양이가 가르랑거리고 개가 꼬리를 흔들듯 종마다 고유한 표현이 있으므로 음악에도 고유한 표현 코드가 있을 수 있다", "label": "지지됨", "evidence": "음악 특유의 표현 코드가 있을 수 있고", "note": "'있을 수 있다' 한정 유지"},
+    {"n": 4, "text": "동물의 표현을 읽으려면 그 동물에 익숙해져야 하듯 한 음악 전통의 표현 방식을 이해하려면 그 전통을 경험해야 한다", "label": "지지됨", "evidence": "동물 행동을 익히듯", "note": "종합보고서 2절도 같은 문장을 인용"},
+    {"n": 5, "text": "음악은 가사나 제목이나 해설 없이는 고뇌와 환희는 표현해도 시기, 죄책감, 당혹, 질투는 표현하지 못한다", "label": "지지됨", "evidence": "시기·죄책·당혹·질투는 (가사·제목·해설 없이는) 못 한다", "note": "W5"}
+  ],
+  "sources_used": ["_원자료/로컬/Walton and neely/음악철학_지식베이스_Walton-Neely.md", "_원자료/로컬/Walton and neely/Walton×Neely_종합보고서.md"],
+  "sources_missing": ["문헌/@Walton1988의 논문 원문(지식 베이스만 사용)"],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

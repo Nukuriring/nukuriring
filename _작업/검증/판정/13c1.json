@@ -1,0 +1,18 @@
+{
+  "id": "13c1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "헴펠에 따르면 거의 확실하다는 수식어는 증거에 상대적이어서 결론으로 분리되지 않는다", "label": "지지됨", "evidence": "cannot be inferred from the premises", "note": "C1-14 p.678 및 주 2"},
+    {"n": 1, "text": "존스의 회복 설명은 흔히 결론에 '거의 확실하게 Rj'라는 수식어를 붙인 도식 (1b)로 정리된다", "label": "지지됨", "evidence": "arguments ... have often been construed as having this form", "note": ""},
+    {"n": 2, "text": "헴펠은 이 구성을 지지할 수 없다고 본다", "label": "지지됨", "evidence": "the conception ... is untenable", "note": ""},
+    {"n": 3, "text": "Rj는 증거와 무관하게 참/거짓이지만 확실성은 증거에 따라 달라지므로 '거의 확실하게 Rj'는 참도 거짓도 아니며 어떤 전제에서도 추론될 수 없다(p.678)", "label": "지지됨", "evidence": "neither true nor false", "note": ""},
+    {"n": 4, "text": "연역에서도 전제가 결론을 필연적 진리로 확립하지 않으며 확실성은 결론이 전제의 논리적 귀결이라는 관계를 뜻할 뿐이다", "label": "지지됨", "evidence": "The certainty ... is relational", "note": ""},
+    {"n": 5, "text": "확률적 설명의 수식어는 피설명항이 설명항에 상대적으로 거의 확실하다는 관계 진술로 읽어야 하고 (1d)는 이를 이중선과 대괄호로 나타낸다(pp.678-679)", "label": "지지됨", "evidence": "the double line ... inductive support, the strength ... in square brackets", "note": "카드의 (1c)는 주석의 (1c)와 일치(본문 OCR은 (1e))"},
+    {"n": 6, "text": "주 2에서 루이스의 정언적 확률 진술을 거부하며 '아마 P'는 관계 진술을 생략한 불완전한 표현이고 귀납 논리에는 분리 규칙에 해당하는 규칙이 없다", "label": "지지됨", "evidence": "neither of them can be the conclusion of an inference", "note": "주석 파일 주 2; 'no analogue in inductive logic to modus ponens'"}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-14_Hempel-IS-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Hempel-IS_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

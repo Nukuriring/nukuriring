@@ -1,0 +1,18 @@
+{
+  "id": "24c1",
+  "voice": "종합",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "카벨의 거울 비유는 월튼처럼 매개된 봄을 봄으로 인정한다", "label": "연결", "evidence": "", "note": "두 출처를 잇는 연결. 카드 스스로 '원자료에 없는 이 묶음의 제안'이라 고지. 카벨 쪽 근거는 아래 인용"},
+    {"n": 1, "text": "1974년의 글에서 카벨은 영화를 꿈이나 환각으로 보는 저자들에게 답하며, 영화를 볼 때 나는 거기 없는 것을 압도적으로 현전하는 것으로 경험한다고 쓴다(p.213)", "label": "지지됨", "evidence": "experiencing them as overwhelmingly present", "note": ""},
+    {"n": 2, "text": "그는 그것이 사진의 투사일 뿐이라는 지적에 'You might as well tell me that I do not see myself in the mirror but merely see a mirror image of myself.'라고 응수한다(p.213)", "label": "지지됨", "evidence": "I do not see myself in the mirror", "note": ""},
+    {"n": 3, "text": "월튼도 거울을 통해 보는 일을 봄의 범례로 삼고 간접적으로 본다는 이유로 상이나 감각 자료만 본다고 추론하는 길을 막는다(p.253)", "label": "지지됨", "evidence": "rejects the inference from 'indirect'", "note": "KB 3절"},
+    {"n": 4, "text": "두 사람은 거울에 비친 상을 대상과 우리 사이에 끼어드는 장벽으로 다루지 않는다는 점에서 만난다", "label": "연결", "evidence": "", "note": "카드가 세운 비교"},
+    {"n": 5, "text": "월튼의 각주 9에 따르면 카벨도 사진을 거울과 비교한다", "label": "지지됨", "evidence": "Cavell also compares photos with mirrors", "note": "KB 각주 9"},
+    {"n": 6, "text": "카벨은 거울 비유를 영화 속 세계가 현전한다는 경험을 지키는 데 쓰고 월튼은 사진을 통해 대상을 문자 그대로 본다는 지각 논제를 세우는 데 쓴다", "label": "지지됨", "evidence": "do not realize what the projection of photographs is", "note": "카벨 쪽은 KB p.213 맥락, 월튼 쪽은 KB 3절. 둘의 대비는 카드의 해석"}
+  ],
+  "sources_used": ["_원자료/로컬/Integrating Transparency/KB_Cavell_The-World-Viewed.md (More 'Fictionality' 절)", "_원자료/로컬/Integrating Transparency/KB_Walton_Transparent-Pictures.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

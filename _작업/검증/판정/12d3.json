@@ -1,0 +1,18 @@
+{
+  "id": "12d3",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "쿤에 따르면 선택의 수렴은 개인 알고리듬의 수렴을 입증하지 않는다", "label": "지지됨", "evidence": "C1-05: provides no evidence whatsoever", "note": ""},
+    {"n": 1, "text": "쿤은 비판자와의 가상 대화에서, 각 과학자가 p(T,E)를 계산하는 베이즈적 알고리듬으로 이론을 고르고 증거에 단순성과 다산성도 넣는다고 함께 가정한다", "label": "지지됨", "evidence": "C1-05: some Bayesian algorithm", "note": ""},
+    {"n": 2, "text": "비판자는 객관적 선택에 해당하는 p 값이 하나뿐이며 합리적 구성원은 모두 거기 이른다고 보고, 쿤은 객관적 요인이 어떤 알고리듬도 완전히 정하지 못해 개인 알고리듬은 주관적 고려로 보충되어 결국 다르다고 본다", "label": "지지됨", "evidence": "C1-05: only one such value of p", "note": ""},
+    {"n": 3, "text": "관대한 비판자는 경쟁 초기의 주관적 차이를 인정하되 증거가 쌓이면 알고리듬이 수렴하고 만장일치가 그 증거라고 주장할 것이다", "label": "지지됨", "evidence": "C1-05: converge to the algorithm", "note": ""},
+    {"n": 4, "text": "쿤은 여기에 추론의 비약(non sequitur)이 있다고 본다", "label": "지지됨", "evidence": "C1-05: disclose the non sequitur", "note": ""},
+    {"n": 5, "text": "시간에 따라 수렴하는 것은 개인 알고리듬이 계산한 p 값일 수 있고, 선택의 만장일치는 알고리듬 자체가 비슷해졌다는 증거가 되지 못한다", "label": "지지됨", "evidence": "C1-05: need only be the values of p", "note": ""},
+    {"n": 6, "text": "처음에 공동체를 가른 결정을 설명하는 데 주관적 요인이 필요했다면 합의한 뒤에도 그 요인은 남아 있을 수 있다 (p. 101)", "label": "지지됨", "evidence": "C1-05 p.101: may still be present later", "note": ""}
+  ],
+  "sources_used": ["문헌/@Kuhn1977 Objectivity, Value Judgment, and Theory Choice.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-05_Kuhn-OVJTC-2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

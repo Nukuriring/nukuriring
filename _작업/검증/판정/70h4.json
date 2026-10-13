@@ -1,0 +1,16 @@
+{
+  "id": "70h4",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "그리스어에서 조건은 분사로도 표현하고 και를 더하면 양보절이 된다", "label": "지지됨", "evidence": "εαν 이나 ει 옆에 και가 추가된 조건절", "note": ""},
+    {"n": 1, "text": "여러 종류의 조건문을 분사로도 표현할 수 있으며 조건절이 분사가 되고 주절은 변하지 않는다", "label": "지지됨", "evidence": "조건절은 분사가 되며, 주절은 변하지 않은채로", "note": ""},
+    {"n": 2, "text": "부정은 분사에 μη, 주절에 ου를 쓴다", "label": "지지됨", "evidence": "부정은 여전히 μη로 표현되면 주절에서는 ου", "note": "원문은 '분사'를 명시하지 않지만 맥락상 조건절(분사)"},
+    {"n": 3, "text": "ει και와 και ει가 모두 쓰이며 ει και의 και가 다른 뜻으로 쓰이지 않았는지 확인하라고 덧붙인다", "label": "지지됨", "evidence": "ει και, και ει 둘다 쓰일 수 있는데 전자일 경우", "note": ""},
+    {"n": 4, "text": "요약표 아래 문장은 많은 조건문이 분사로도 표현된다고 하며 분사 장(chapter v)을 참조하라고 한다", "label": "지지됨", "evidence": "Many conditional sentences can also be expressed with the participle", "note": "표 이미지"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/그리스어 문법과 작문/Conditional bc36bdd8384a4e56944a8e41a89f6a4d.md", "Conditional/Untitled 1.png"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

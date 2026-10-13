@@ -1,0 +1,19 @@
+{
+  "id": "12i",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "라우든은 쿤의 비교 불가 논제를 국소적 미결정성의 네 논증으로 재구성한다", "label": "지지됨", "evidence": "C1-10: four distinct arguments for local", "note": ""},
+    {"n": 1, "text": "라우든은 콰인, 헤세, 굿먼 같은 저자들이 미결정성을 말할 때 데이터에 의한 이론의 논리적 미결정과 방법 규칙에 의한 이론 선택의 미결정을 혼동한다고 본다", "label": "부분 지지", "evidence": "C1-10: Some authors, for instance, tend", "note": "원문은 콰인·헤세·굿먼을 '규칙이 이론 선택을 미결정한다고 주장한 저자들'로 소개하고, 혼동은 'Some authors ... tend to confuse'(일부 저자가 그런 경향)로 따로 서술하며 헤세·블루어는 논리적 미결정을 인과적 미결정으로 잘못 옮겼다고 함. 카드는 세 사람 모두가 혼동한다고 단정해 대상 범위와 'tend to'를 바꿈"},
+    {"n": 2, "text": "쿤의 최근 저작에서 더 약하고 더 흥미로운 형태의 미결정성 논제를 찾는다", "label": "지지됨", "evidence": "C1-10: a weaker, and much more interesting", "note": ""},
+    {"n": 3, "text": "국소적 미결정성: 과학자가 어느 시점에 마주한 소수의 패러다임 가운데 관련 증거와 방법 기준이 하나를 분명히 우월하게 골라내지 못한다", "label": "지지됨", "evidence": "C1-10: fail to pick out one contender", "note": ""},
+    {"n": 4, "text": "이는 규칙이 어떤 이론도 데이터가 유일하게 지지한다고 골라내지 못한다는 전역적 형태와 대비된다", "label": "지지됨", "evidence": "C1-10: more global forms of underdeterm", "note": ""},
+    {"n": 5, "text": "쿤은 이를 위해 네 논증을 낸다: 공유 기준의 모호성, 규칙의 집합적 비일관성, 기준 변동, 문제 가중치", "label": "지지됨", "evidence": "C1-10: four distinct arguments", "note": "네 이름은 C1-10, C1-11의 소제목과 일치"},
+    {"n": 6, "text": "각 논증은 방법 규칙이 선택을 제약하되 한 패러다임의 선택을 강제하거나 분명하게 보증하지 못함을 보이려 한다", "label": "지지됨", "evidence": "C1-10: never sufficient to compel", "note": ""},
+    {"n": 7, "text": "셋째 논증에 대해 라우든은 도펠트의 재구성을 따르고, 방법론적 불일치와 기초 이론의 불일치가 깔끔하게 공변하지 않으며 규칙·가치 불일치를 합리적으로 해소하는 기제가 있으면 그 해소가 자의적일 필요가 없다고 답한다 (2판 pp. 136–138)", "label": "지지됨", "evidence": "C1-11: show no striking covariances", "note": "'I follow Gerald Doppelt's ... explication'"}
+  ],
+  "sources_used": ["문헌/@Laudan1984 Dissecting the Holist Picture of Scientific Change.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-10_Laudan-KCM-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-11_Laudan-KCM-2.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Laudan-KCM_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

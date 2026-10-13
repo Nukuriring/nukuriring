@@ -1,0 +1,19 @@
+{
+  "id": "13i5",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "키처는 통일력의 비교로 무관련성과 비대칭과 우연적 일반화 문제를 푼다", "label": "지지됨", "evidence": "contains sufficient resources to solve these problems", "note": "C1-23 §7 pp.724-727. 원문은 '일부 전통적 난점'이라고 한정(\"some traditional difficulties\")"},
+    {"n": 1, "text": "포괄 법칙 모형을 괴롭힌 문제는 비대칭(진자), 무관련성(밀로의 주술 소금), 우연적 일반화(그린버리 위원회)이다(pp.724-725)", "label": "지지됨", "evidence": "Milo the magician waves his hands over a sample of table salt", "note": ""},
+    {"n": 2, "text": "원치 않는 논증을 포함하는 집합이 최선의 통일을 줄 수 없음을 귀결 (A), (B)로 보이는 공통 전략을 쓴다(p.725)", "label": "지지됨", "evidence": "we shall appeal to the corollaries (A) and (B)", "note": ""},
+    {"n": 3, "text": "주술 논증을 받아들이면 표준 화학 패턴을 함께 써서 패턴 하나를 더 지거나(B) 주술 패턴만 써서 비주술 소금을 다루지 못하게 된다(A)", "label": "지지됨", "evidence": "If we choose (a) ... conflict with [B] ... (b) ... ruled out by [A]", "note": ""},
+    {"n": 4, "text": "주술은 용해 사례의 국소적이고 우연적인 특징에 기대고 표준 논증은 일반적으로 적용되는 패턴을 예화한다(pp.725-726)", "label": "지지됨", "evidence": "a local and accidental feature of the cases of solution", "note": ""},
+    {"n": 5, "text": "물체의 크기는 기원과 발달 도출로 설명하는데 주기로 길이를 도출하는 논증을 받아들이면 진동하지 않는 물체에는 다른 스타일의 설명이 필요해진다", "label": "지지됨", "evidence": "origin and development derivations", "note": "원문은 '다른 스타일의 설명을 쓰거나 아예 설명을 포기해야 한다'는 양자택일; 카드는 앞쪽만 서술(경미)"},
+    {"n": 6, "text": "텔러의 성향적 주기 판본에는 지구나 게 성운처럼 진자일 수 없어 성향적 주기가 의미 없는 대상이 있다고 답한다(p.726)", "label": "지지됨", "evidence": "the Earth and the Crab Nebula", "note": ""},
+    {"n": 7, "text": "우연적 일반화도 생리학 패턴과 비교해 같은 방식으로 배제되며, 키처는 이것이 우연적 일반화를 쓰지 말라는 포괄 법칙 모형의 통찰을 강조하고 일반화한다고 본다(pp.726-727)", "label": "부분 지지", "evidence": "the new account appears to underscore and generalize an important insight", "note": "원문은 'appears to'. 카드는 '본다'로 추정 어조를 단정에 가깝게 바꿈(경미)"}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-23_Kitcher-Unification-3.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Kitcher-Unification_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

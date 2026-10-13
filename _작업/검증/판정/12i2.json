@@ -1,0 +1,19 @@
+{
+  "id": "12i2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "라우든에 따르면 규칙 집합이 늘 비일관적이라는 쿤의 주장은 근거가 없다", "label": "지지됨", "evidence": "C1-10: he never shows us why families", "note": ""},
+    {"n": 1, "text": "쿤의 둘째 논증은 공유 규칙들을 함께 쓰면 'repeatedly prove to conflict with one another'라는 것이다", "label": "지지됨", "evidence": "C1-10: repeatedly prove to conflict", "note": "인용문 일치"},
+    {"n": 2, "text": "정확성과 일반성을 모두 바라는 두 과학자는 더 정확한 이론과 더 일반적인 이론 앞에서 서로 다른 이론을 고를 수 있다", "label": "지지됨", "evidence": "C1-10: may well differ about which", "note": ""},
+    {"n": 3, "text": "라우든은 과학자가 때로 서로 어긋나는 기준을 지지한다는 사실을 인정하며, 그 발견이 인지적 가치를 재조정하는 첫 자극이 되는 경우가 많다고 말한다", "label": "지지됨", "evidence": "C1-10: often the first prod toward", "note": ""},
+    {"n": 4, "text": "쿤은 그런 일이 가끔 일어난다는 데 그치지 않고 합리적 과학자 집단이 받아들일 만한 어떤 규칙 집합도 그렇다고 주장하며, 라우든은 이를 소수 사례에서 나온 전역적 외삽으로 본다", "label": "지지됨", "evidence": "C1-10: global extrapolations from the tiny", "note": ""},
+    {"n": 5, "text": "라우든은 밀의 방법이나 베이컨, 데카르트, 뉴턴, 허셜의 추론 규범이 비일관적이라고 밝혀진 적이 없다고 반박한다", "label": "지지됨", "evidence": "C1-10: no one has ever shown", "note": "밀에 대해서는 'To the best of my knowledge'가 붙지만 라우든의 주장으로 서술되어 있어 지지됨으로 둠"},
+    {"n": 6, "text": "라우든은 쿤이 쓸 수 있었던 더 강한 형태도 짚는다: 기준이 둘 이상이면 가중치에 따라 판단이 갈릴 수 있다는 것은 사소하게 참이다", "label": "지지됨", "evidence": "C1-10: trivially true", "note": ""},
+    {"n": 7, "text": "그 경우 기준들이 선택을 어떻게 통제하는지 물어야 하며, 쿤은 그 물음을 묻지 않은 채 모든 선호 구조가 똑같이 가능하다고 가정한다 (2판 p. 136)", "label": "지지됨", "evidence": "C1-10 p.136: equally viable or equally likely", "note": ""}
+  ],
+  "sources_used": ["문헌/@Laudan1984 Dissecting the Holist Picture of Scientific Change.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-10_Laudan-KCM-1.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

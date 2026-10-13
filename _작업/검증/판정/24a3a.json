@@ -1,0 +1,19 @@
+{
+  "id": "24a3a",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "월튼에 따르면 남의 믿음을 거쳐 생긴 시각 경험으로는 대상을 보지 못한다", "label": "지지됨", "evidence": "based on his beliefs", "note": "Helen 사례, KB 6절"},
+    {"n": 1, "text": "월튼은 루이스의 사례를 각색해 헬렌과 눈 이식 환자를 대비한다(p.265)", "label": "지지됨", "evidence": "adapted from David Lewis [fn. 24]", "note": ""},
+    {"n": 2, "text": "헬렌은 시신경 연결이 끊겼고 양심적인 신경외과 의사가 자기가 보는 것에 맞춰 시신경을 자극하며, 경험은 사물이 일으킨 것이고 믿어도 좋을 정확한 정보를 준다", "label": "지지됨", "evidence": "correct info she has every reason to trust", "note": ""},
+    {"n": 3, "text": "그럼에도 헬렌은 사물을 실제로 보지 못한다: 'the doctor is seeing for her'", "label": "지지됨", "evidence": "the doctor is seeing for her", "note": ""},
+    {"n": 4, "text": "눈을 이식받았거나 인공 눈을 단 환자는 외과의와 기증자와 제조자의 작업에 기대지만 누구의 믿음에도 기대지 않으므로 실제로 본다", "label": "지지됨", "evidence": "not on anyone's beliefs", "note": ""},
+    {"n": 5, "text": "헬렌은 회화의 구조를, 이식 환자는 사진의 구조를 보여 준다", "label": "지지됨", "evidence": "[= the painting structure.]", "note": ""},
+    {"n": 6, "text": "같은 기준으로 기억 이미지는 대개 자신의 이전 믿음에 기초하므로 회화처럼 불투명하다(각주 12)", "label": "지지됨", "evidence": "many/all memory images are based on", "note": "원문은 many/all, 카드는 '대개'. 한정 강도 유지"},
+    {"n": 7, "text": "루이스 자신은 두 사례 사이에 날카로운 차이를 보지 않는다(각주 24)", "label": "지지됨", "evidence": "Lewis does not see a sharp difference", "note": ""}
+  ],
+  "sources_used": ["_원자료/로컬/Integrating Transparency/KB_Walton_Transparent-Pictures.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

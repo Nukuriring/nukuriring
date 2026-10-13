@@ -1,0 +1,17 @@
+{
+  "id": "66c3a",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "뒤집힌 얼굴이 괴물처럼 보이는 일은 불안정한 움켜쥠으로 읽히고 바로 선 얼굴만 학습한 신경망의 일반화 실패와 닮았다", "label": "지지됨", "evidence": "an unstable grip", "note": ""},
+    {"n": 1, "text": "메를로퐁티에 따르면 뒤집힌 얼굴을 얼마간 바라보면 얼굴이 괴물처럼 보인다", "label": "지지됨", "evidence": "it becomes 'monstrous'", "note": ""},
+    {"n": 2, "text": "머리는 뾰족하고 털이 없으며 이마에 핏빛 구멍이 있고 입 자리에 움직이는 눈알 두 개가 있는 듯 보인다(1945, p. 263)", "label": "지지됨", "evidence": "pointed and hairless head", "note": ""},
+    {"n": 3, "text": "저자들은 뒤집힌 얼굴과 상호작용한 경험이 부족해 움켜쥠이 불안정해진 결과로 이를 읽는다", "label": "지지됨", "evidence": "lack of interaction", "note": ""},
+    {"n": 4, "text": "바로 선 얼굴을 알아보도록 체계적으로 훈련된 신경망은 얼굴이 갑자기 뒤집혀 제시되면 인식에 실패한다", "label": "지지됨", "evidence": "would fail if", "note": "원문은 가정형 'would fail'이며 일반적 서술로 옮겨도 뜻이 같다고 보았다."},
+    {"n": 5, "text": "이런 경우를 신경망이 일반화, 곧 새로운 유형의 데이터에 적응하는 데 어려움을 겪는다고 말한다", "label": "지지됨", "evidence": "difficulty generalizing", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/과학철학 1bd97cdd867e802da375fae8eae0a223.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

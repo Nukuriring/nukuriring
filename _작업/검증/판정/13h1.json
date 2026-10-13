@@ -1,0 +1,18 @@
+{
+  "id": "13h1",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "레일턴에 따르면 인과 법칙 아래의 포섭도 기제를 해명하지 않으면 불충분한 설명이다", "label": "부분 지지", "evidence": "may legitimately be regarded as unsatisfactory unless", "note": "원문은 'may legitimately be regarded as unsatisfactory'. 제목은 단정 어조. 단 (C)에 대해서는 'will explain but poorly'로 직접 서술(p.693)"},
+    {"n": 1, "text": "법칙적 포섭이 언제나 설명한다고 믿지 않는다. 증상이나 사후 조건만으로 피설명항을 연역하는 D-N 논증은 설명적이지 않다(p.691)", "label": "지지됨", "evidence": "nomic subsumption always explains?—No", "note": ""},
+    {"n": 2, "text": "원인을 요구하는 조건만 덧붙이는 것도 충분하지 않다. 파울리 배타 원리 같은 구조 법칙으로 비인과적으로 설명되는 사실이 있고, 인과 법칙이 있어도 법칙 밑의 기제를 찾아 왔다(p.692)", "label": "지지됨", "evidence": "the search for mechanisms that underlie these laws", "note": ""},
+    {"n": 3, "text": "기압계 예에서 (S)는 예보에는 충분하지만 설명하지 못하고, 기압 하강을 끼운 (C)는 증상 대신 원인을 인용한다", "label": "지지됨", "evidence": "citing causes and not mere symptoms", "note": "제프리 출처([5] p.106)"},
+    {"n": 4, "text": "(C)도 기압 하강이 날씨를 악화시키는 기제를 드러내지 않아 여전히 부족하며, (C)가 (S)보다 나은 것은 그런 기제가 존재하기 때문이다(pp.692-693)", "label": "지지됨", "evidence": "its existence is what makes (C) superior to (S)", "note": ""},
+    {"n": 5, "text": "(C)가 날씨를 예측하고 통제하게 해 주더라도 불만족스럽다는 점에서 설명이 온전히 실천적인 활동은 아니며, 이론은 구조와 작동에 대한 통찰을 주어야 한다", "label": "지지됨", "evidence": "explanation is an activity not wholly practical in purpose", "note": "원문은 (C)가 경계 조건과 보완되면 예측·통제 능력을 준다는 전제"},
+    {"n": 6, "text": "D-N 모형은 불완전한 모형이며 기제의 해명은 인과 사슬의 고리를 어느 정도 채우는 일로 느슨하게 이해되고 철저함에 정도가 있다(p.693)", "label": "지지됨", "evidence": "No, just incomplete", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-15_Railton-DNP-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Railton-DNP_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

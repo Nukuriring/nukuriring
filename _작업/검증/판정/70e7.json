@@ -1,0 +1,17 @@
+{
+  "id": "70e7",
+  "voice": "문헌",
+  "verdict": "원문없음",
+  "claims": [
+    {"n": 0, "text": "독일어에서 비교급은 als로 대상을 잇고 so wie로 같음을, immer와 비교급으로 점점 더를 나타낸다", "label": "부분 지지", "evidence": "als = than / immer 비교급, 비교급 운트 비교급", "note": "'점점 더'라는 뜻은 필기에 없음(아래 명제)"},
+    {"n": 1, "text": "필기는 als를 than으로 적는다", "label": "지지됨", "evidence": "als = than", "note": ""},
+    {"n": 2, "text": "동등 비교는 genauso wie 또는 so wie이고 예문은 Der Schlosspark ist so schön wie das Schloss이다", "label": "지지됨", "evidence": "genauso wie - Der Schlosspark ist so schön wie das Schloss", "note": ""},
+    {"n": 3, "text": "immer에 비교급을 붙인 형태(비교급 und 비교급 포함)는 점점 더를 나타내며 예문은 Das Wetter wird immer besser이다", "label": "원문에 없음", "evidence": "immer 비교급, 비교급 운트 비교급", "note": "형태와 예문은 있으나 '점점 더'라는 뜻은 필기에 없음"},
+    {"n": 4, "text": "als를 쓴 완성된 예문은 필기에 없다", "label": "지지됨", "evidence": "als = than (예문 없음)", "note": "부재 확인"},
+    {"n": 5, "text": "같은 목록의 Er ist weder klein noch groß는 이중 부정 구문의 예이다", "label": "원문에 없음", "evidence": "er ist weder klein noch groß", "note": "문장은 있으나 이중 부정이라는 분류는 필기에 없음"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/독일어 03ce7cf2cb0a430987bfae012a0d846d.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

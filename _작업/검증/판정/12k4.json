@@ -1,0 +1,20 @@
+{
+  "id": "12k4",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "롱기노에 따르면 관점의 다양성은 객관성의 필요조건이지만 충분조건은 아니다", "label": "지지됨", "evidence": "necessary but not a sufficient condition for objectivity", "note": "C1-26 p.158"},
+    {"n": 1, "text": "완전히 닫힌 사회가 아니어도 비판의 범위를 제한해 공동체의 객관성을 줄이는 조건이 셋 있다", "label": "지지됨", "evidence": "Several conditions can limit the extent of criticism", "note": "first / secondly / in the third place로 셋"},
+    {"n": 2, "text": "삶의 질 개선에 기여하려면 배경 가정 비판이 무한히 계속될 수 없고, 메타 수준 반복이나 경험적 연구 프로그램과의 단절은 관련성을 잃게 한다", "label": "지지됨", "evidence": "criticism of assumptions cannot go on indefinitely", "note": ""},
+    {"n": 3, "text": "창조과학이 주목받지 못하는 이유는 결실 있는 연구 프로그램을 만들지 못하는 데 있다", "label": "지지됨", "evidence": "incapacity of 'creation science' to develop a fruitful research program", "note": ""},
+    {"n": 4, "text": "새로움을 보상하는 맥락과 지식의 상품화는 데이터 비판을 덜 중시하게 하며 부정적 결과는 출판되지 않는다", "label": "지지됨", "evidence": "papers reporting negative results do not get published", "note": "원문은 '흔한 일(commonplace)'로 서술; 카드는 일반 사실로 적음. 한정어라기보다 서술 방식 차이로 판단"},
+    {"n": 5, "text": "공동체 전체가 공유하는 배경 가정은 보이지 않아 비판할 수 없고, 아인슈타인이 마이컬슨-몰리 실험을 달리 설명했듯 그 가정 없이 설명하는 사람이 나타나야 드러난다", "label": "지지됨", "evidence": "acquire an invisibility that renders them unavailable", "note": ""},
+    {"n": 6, "text": "공동체에 포함된 관점이 많을수록 그 실천이 객관적일 가능성이 크다", "label": "지지됨", "evidence": "the more likely it is that its scientific practice will be objective", "note": "'가능성이 크다' 한정어 유지"},
+    {"n": 7, "text": "관점은 표현되는 데 그치지 않고 무엇이 사실로 여겨지는지에 영향을 주어야 한다", "label": "지지됨", "evidence": "must have an impact on what is ultimately thought", "note": ""},
+    {"n": 8, "text": "객관적 방법으로 받아들여졌다는 말은 공동체가 비판으로 이룬 합의를 반영한다는 뜻이며 참임을 보증하지 않는다(p.157)", "label": "지지됨", "evidence": "reflects the critically achieved consensus", "note": "p.157 확인"}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-26_Longino-3.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Longino_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

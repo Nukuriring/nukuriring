@@ -1,0 +1,17 @@
+{
+  "id": "70e",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "독일어 규칙 동사의 현재형은 -e, -st, -t, -en, -t, -en 어미를 취한다", "label": "지지됨", "evidence": "Kommen Komme Kommst Kommt Kommen Kommt Kommen Kommen", "note": "표에서 읽은 어미. heißen은 du형이 heißt"},
+    {"n": 1, "text": "순서는 ich, du, er·sie·es, wir, ihr, sie, Sie로 읽힌다", "label": "지지됨", "evidence": "Kommen Komme Kommst Kommt Kommen Kommt Kommen Kommen", "note": "인칭 표기는 필기에 없고 표 순서에서 읽은 것"},
+    {"n": 2, "text": "heißen은 heiße, heißt, heißt, heißen, heißt, heißen, heißen이다", "label": "지지됨", "evidence": "heißen heiße heißt heißt heißen heißt", "note": ""},
+    {"n": 3, "text": "arbeiten은 arbeite, arbeitest, arbeitet, arbeiten, arbeitet…이어서 du, er, ihr 형태에 e가 끼어든다", "label": "지지됨", "evidence": "arbeiten arbeite arbeitest arbeitet arbeiten", "note": ""},
+    {"n": 4, "text": "sein은 bin, bist, ist, sind이고 wir 칸 뒤에 seit로 적힌 것은 seid의 오기로 읽힌다", "label": "지지됨", "evidence": "Sein bin bist ist sind seit sind sind", "note": "seid 오기는 카드의 해석"},
+    {"n": 5, "text": "haben은 habe, hast, hat, haben, habt, haben이고 werden은 werde, wirst, wird, werden, werdet, werden이다", "label": "지지됨", "evidence": "werden werde wirst wird werden werdet werden", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/독일어 03ce7cf2cb0a430987bfae012a0d846d.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

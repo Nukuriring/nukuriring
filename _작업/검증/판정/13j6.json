@@ -1,0 +1,18 @@
+{
+  "id": "13j6",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "우드워드는 설명 정보가 인식적으로 접근 가능해야 한다는 제약을 둔다", "label": "지지됨", "evidence": "epistemically accessible", "note": "원문은 'The constraint is, roughly,'로 시작한다. 카드는 'roughly'를 옮기지 않았으나 대략의 정식화 표시이므로 감점하지 않았다."},
+    {"n": 1, "text": "내용 문제와 시험 방식의 인식론 문제를 구별해야 하지만 두 문제가 어떻게 맞물리는지 통합된 이야기가 필요하다(p. 749)", "label": "지지됨", "evidence": "integrated and plausible story", "note": ""},
+    {"n": 2, "text": "내용 이론에는 실제 가용한 증거에서 그런 주장의 참을 배울 수 있음을 이해하게 하는 인식론이 따라야 하고 통제 실험이나 인과 모델링 같은 시험 절차가 왜 작동하는지 해명해야 한다", "label": "지지됨", "evidence": "how (or to what extent)", "note": "원문은 'how (or to what extent)'로 작동 정도를 열어 둔다. 카드의 '왜 작동하는지'는 그 단서를 생략했으나 주지는 같다."},
+    {"n": 3, "text": "내용 이론이 참을 어떻게 알아내는지를 완전한 수수께끼로 남기거나 통제 실험이 그 참과 무관해진다면 내용 이론이나 시험 절차에 대한 견해를 다시 생각해야 한다", "label": "지지됨", "evidence": "need to be rethought", "note": ""},
+    {"n": 4, "text": "인과관계는 자연 속에 'out there' 있지만 설명은 인간이 하는 정보의 발견과 제공 활동이므로 설명에는 인과 주장에 없는 추가 제약이 붙는다", "label": "지지됨", "evidence": "no counterpart", "note": ""},
+    {"n": 5, "text": "설명 정보는 인지되고 조망되고 음미될 수 있는, 곧 이해에 기여할 수 있는 정보여야 한다(p. 749)", "label": "지지됨", "evidence": "recognized, surveyed", "note": ""},
+    {"n": 6, "text": "그가 제시하는 설명 이론의 요건 목록도 기술적 적합성, 여러 종류의 인과 설명의 공통점 해명, 평가 가능성, 이전 이론의 성공과 실패 해명과 함께 이 인식론적 토대를 요구한다", "label": "지지됨", "evidence": "epistemological underpinnings", "note": ""}
+  ],
+  "sources_used": ["문헌/@Woodward2003 The Manipulability Conception of Causal Explanation.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-20_Woodward-Manipulability-3.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

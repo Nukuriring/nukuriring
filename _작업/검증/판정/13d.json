@@ -1,0 +1,19 @@
+{
+  "id": "13d",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "헴펠은 두 모형을 이상화된 재구성으로 보고 실제 설명의 세 가지 불완전함을 구별한다", "label": "지지됨", "evidence": "ideal types or theoretical idealizations", "note": "pp.662-665"},
+    {"n": 1, "text": "두 모형은 이상형이며 목적은 해명 또는 합리적 재구성이다(p.662)", "label": "지지됨", "evidence": "explications, or rational reconstructions", "note": ""},
+    {"n": 2, "text": "메타수학의 증명 개념에 견주어, 증명 단계의 논리적 연결을 드러내고 비판적 평가 기준을 주며 증명 가능성 이론의 기반이 된다(pp.662-663)", "label": "지지됨", "evidence": "exhibits the rationale of mathematical proofs", "note": ""},
+    {"n": 3, "text": "생략적 설명은 당연시하는 법칙이나 사실을 빠뜨리지만 빈틈은 쉽게 채울 수 있다(p.663)", "label": "지지됨", "evidence": "the gaps can readily be filled in", "note": ""},
+    {"n": 4, "text": "부분적 설명은 프로이트 사례처럼 설명항이 넓은 부류 F에 속한다는 것만 함축하고 좁은 부류 W에 속한다는 것은 함축하지 않는다(pp.663-664)", "label": "지지됨", "evidence": "only that s would fall into a wider class", "note": ""},
+    {"n": 5, "text": "완전성은 피설명 문장에 상대적이며, 사건의 모든 측면을 설명한다는 의미의 완전한 설명은 사건의 측면이 무한하므로 self-defeating이다(pp.664-665)", "label": "지지됨", "evidence": "This notion, however, is self-defeating", "note": ""},
+    {"n": 6, "text": "설명 스케치는 앞으로 더 엄밀한 논증으로 보충되리라 기대되는 윤곽만 시사한다", "label": "지지됨", "evidence": "general outlines of what, it is hoped, can eventually be supplemented", "note": "p.665"},
+    {"n": 7, "text": "어떤 해명을 무엇으로 볼지는 명확한 결정 규칙 없이 'a matter of judicious interpretation'이다(p.665)", "label": "지지됨", "evidence": "a matter of judicious interpretation", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-12_Hempel-TwoTypes-1.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

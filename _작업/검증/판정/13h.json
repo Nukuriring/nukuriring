@@ -1,0 +1,18 @@
+{
+  "id": "13h",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "레일턴은 우연한 사건도 확률 법칙 아래 연역-법칙적으로 설명된다고 주장한다", "label": "지지됨", "evidence": "in virtually the same way as deterministic phenomena—deductive-nomologically", "note": "C1-15 p.691"},
+    {"n": 1, "text": "양자역학의 확률 해석에 따라 어떤 일은 우연히 일어나지만 결정론적 현상과 거의 같은 방식으로 설명할 수 있다(p.691)", "label": "지지됨", "evidence": "Some things do happen by chance", "note": ""},
+    {"n": 2, "text": "우주는 장벽 투과 같은 확률적 법칙과 질량-에너지 보존 같은 비확률적 법칙의 지배를 받고, 물리적 비결정론은 교정 불가능해 보여 우연뿐 아니라 lawful chances가 있다", "label": "지지됨", "evidence": "indications are that physical indeterminism is irremediable", "note": "'보여' 한정 유지"},
+    {"n": 3, "text": "우연한 현상을 교정 불가능한 확률 법칙 아래 포섭할 때 우연이 아무리 작더라도 이해하게 된다", "label": "지지됨", "evidence": "even when the chance involved is extremely remote", "note": ""},
+    {"n": 4, "text": "U²³⁸ 알파 붕괴: 평균 수명 6.5×10⁹년이라 짧은 구간 붕괴 확률은 극히 작지만 핵 이론은 0이 아님을 보이고 드문 일이 어떻게 일어나는지 설명한다(pp.697-698)", "label": "지지됨", "evidence": "our nuclear theory shows that it is not zero", "note": "C1-16 p.697-698"},
+    {"n": 5, "text": "D-N-P 모형에서 확률적 설명은 인식 상황과 독립적으로 참이거나 거짓이며 설명하려면 참이어야 한다(p.697)", "label": "지지됨", "evidence": "independent of our epistemic situation. Moreover, to explain, they must be true", "note": ""},
+    {"n": 6, "text": "따라서 이 모형은 숨은 변수가 없는 진정으로 비결정론적인 과정에만 적용된다", "label": "지지됨", "evidence": "it will not be true unless the process ... is genuinely indeterministic", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-15_Railton-DNP-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-16_Railton-DNP-2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "70e6",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "독일어 형용사는 비교급에 -er, 최상급에 -st를 붙이고 gut, viel, hoch, nah는 불규칙이다", "label": "지지됨", "evidence": "규칙 변화: 어간에 이미 er, 최상급에는 st", "note": "'불규칙' 표시는 필기에 없으나 규칙 변화와 대비되는 목록"},
+    {"n": 1, "text": "불규칙형은 gut·besser·best, viel·mehr·meist, hoch·höher·höchst, nah·näher·nächst이다", "label": "지지됨", "evidence": "nah, näher, nächst near", "note": ""},
+    {"n": 2, "text": "규칙형의 예는 schön·schöner·schönst, klein·kleiner·kleinst, stark·stärker·stärkst이다", "label": "지지됨", "evidence": "stark, stärker, stärkst", "note": ""},
+    {"n": 3, "text": "단음절 형용사에서 어간 모음 a, o, u가 ä, ö, ü로 바뀐다고 덧붙이며 stark의 stärker가 그 예이다", "label": "지지됨", "evidence": "단음절 형용사에서는 어간의 모음 a,o,u ä ö ü", "note": "원문은 문장이 끝나지 않은 조각"},
+    {"n": 4, "text": "한 곳에 höcher로 적힌 것은 höher로 읽었다", "label": "지지됨", "evidence": "hoch, höcher, höchst", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/독일어 03ce7cf2cb0a430987bfae012a0d846d.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

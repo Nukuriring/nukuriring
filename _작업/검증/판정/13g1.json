@@ -1,0 +1,18 @@
+{
+  "id": "13g1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "커드와 커버에 따르면 인과 조건을 덧붙여도 무관련성 문제는 풀리지 않는다", "label": "지지됨", "evidence": "the causal condition is too weak", "note": "C1H-10 p.773-774. 원문 직접 표현은 'no guarantee'와 'too weak'; '풀리지 않는다'는 요약으로 수용"},
+    {"n": 1, "text": "특정 사실의 적합한 설명은 원인 기술을 포함해야 한다는 생각이 자연스럽고 새먼은 'put the cause back into because'라 표현했다", "label": "지지됨", "evidence": "put the cause back into because", "note": ""},
+    {"n": 2, "text": "커드와 커버는 설명항이 피설명항의 원인을 기술하고 그것이 도출에 본질적으로 쓰여야 한다는 경험적 인과 조건을 검토한다(pp.772-773)", "label": "지지됨", "evidence": "this description play an essential role in the derivation", "note": ""},
+    {"n": 3, "text": "매카시의 반례는 금속·번개·선언 전제로 산불을 도출하며, 실제 원인인 번개를 언급하고 헴펠의 조건도 충족하지만 셋째 전제가 결론을 되풀이하므로 악순환이다(p.773)", "label": "지지됨", "evidence": "the forest fire argument is viciously circular", "note": ""},
+    {"n": 4, "text": "김재권이 이 순환을 막는 조건을 덧붙이자 매카시는 그 조건까지 충족하는 새 반례를 만들었다", "label": "지지됨", "evidence": "McCarthy responded by devising a new argument", "note": ""},
+    {"n": 5, "text": "원인을 언급하기만 하는 조건은 너무 약하고, 'c가 e의 원인이다'를 전제에 요구하면 모든 설명이 법칙 없는 단일 전제의 사소한 논증이 된다", "label": "지지됨", "evidence": "a single (true) premise, namely: 'c is the cause of e.'", "note": ""},
+    {"n": 6, "text": "루벤이 지적하듯 그러면 설명이 논증이라는 헴펠의 논제 자체가 의심받는다(pp.773-774)", "label": "지지됨", "evidence": "thrown into doubt", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1H-10_CC해설-6장-4.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1H-CC해설-6장_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

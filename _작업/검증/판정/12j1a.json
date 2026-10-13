@@ -1,0 +1,19 @@
+{
+  "id": "12j1a",
+  "voice": "종합",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "맥멀린의 깊은 혁명도 150년에 걸친 변화이므로 라우든의 점진 모형과 맞물린다 (두 출처를 엮는 연결)", "label": "연결", "evidence": "", "note": ""},
+    {"n": 1, "text": "맥멀린은 코페르니쿠스 혁명을 정당화 절차 자체가 바뀐 깊은 혁명으로 꼽으면서, 그것이 갑작스럽지 않았고 『천구의 회전에 관하여』에서 『프린키피아』까지 150년이 걸렸다고 쓴다 (McMullin, p. 115)", "label": "지지됨", "evidence": "C1-27 p.115: it took a century and a half", "note": ""},
+    {"n": 2, "text": "맥멀린은 갈릴레오가 먼저 아리스토텔레스 물리학을 그 자신의 기준으로 허물고 아리스토텔레스주의자도 인정할 만한 일관성, 경험적 적합성, 미래 잠재력에서 우위를 주장했다고 본다 (p. 119)", "label": "부분 지지", "evidence": "C1-28 p.119: This, it can be argued, is what", "note": "원문은 'it can be argued'로 논증 가능성을 제시하고 'would be the grounds, in Kuhn's perspective'로 쿤의 관점에서의 근거라고 말함. 카드는 맥멀린 자신의 단정적 견해처럼 씀. 내용(Galileo set out to undermine Aristotle's physics in its own terms first)은 일치"},
+    {"n": 3, "text": "라우든은 대부분의 이론 전환이 모든 층위의 게슈탈트식 동시 전환으로 일어나지 않았으며 17세기 과학 혁명에서도 변화가 'seriatim' 왔다고 주장한다 (Laudan, 1판 p. 154)", "label": "부분 지지", "evidence": "C1-09 p.154: it is my impression that", "note": "원문은 'it is my impression that the overwhelming majority of theory transitions ... have not taken place by means of Gestalt-like shifts'로 인상 수준의 한정어가 있는데 카드는 단정. 'came seriatim, not simultaneously'는 일치"},
+    {"n": 4, "text": "두 서술을 함께 놓으면 맥멀린이 가장 깊은 혁명으로 꼽는 사례도 공유된 기준을 지렛대로 삼아 단계적으로 진행되었다는 점에서 라우든의 한 층위씩의 모형으로 기술할 수 있다 (연결)", "label": "연결", "evidence": "", "note": ""},
+    {"n": 5, "text": "맥멀린은 이 변화 끝에 자리 잡은 방법론이 대체로 오늘날까지 유지된다고 보아 깊은 혁명이 하나로 충분했을 가능성을 열어 둔다", "label": "지지됨", "evidence": "C1-27: still roughly the methodology", "note": "'Perhaps only one deep revolution was needed'"},
+    {"n": 6, "text": "라우든은 방법과 목표의 변화가 19세기에도 계속되었다고 본다", "label": "지지됨", "evidence": "C1-09: from the time of Bacon until the", "note": "방법 변화 1800~1860, 목표 변화 19세기 (C1-09)"},
+    {"n": 7, "text": "두 사람의 차이는 위 두 입장 사이에 있다 (대조)", "label": "연결", "evidence": "", "note": ""}
+  ],
+  "sources_used": ["문헌/@McMullin1993 Rationality and Paradigm Change in Science.md", "문헌/@Laudan1984 Dissecting the Holist Picture of Scientific Change.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-27_McMullin-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-28_McMullin-2.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-09_Laudan-Dissecting-3.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

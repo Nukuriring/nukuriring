@@ -1,0 +1,19 @@
+{
+  "id": "12k",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "롱기노에 따르면 과학의 객관성은 공동체 실천의 성격이다", "label": "지지됨", "evidence": "C1-25: a characteristic of a community's", "note": ""},
+    {"n": 1, "text": "롱기노는 객관성에 두 의미가 있다고 정리한다: 과학의 견해가 자연 세계의 사실을 정확히 기술한다는 실재론적 의미와, 가설을 발전시키고 받아들이는 방식이 비자의적·비주관적 기준에 의존한다는 탐구 방식의 의미", "label": "지지됨", "evidence": "C1-24: objective in two seemingly quite", "note": ""},
+    {"n": 2, "text": "롱기노는 뒤의 의미, 특히 가설을 편향 없이 평가하는 방법의 객관성을 다룬다", "label": "지지됨", "evidence": "C1-24: unbiased and unprejudiced manner", "note": ""},
+    {"n": 3, "text": "증거 관계가 배경 가정에 의존한다는 맥락주의 분석은 증거가 맥락적 가치에서 논리적으로 독립한다는 보장을 부정하므로, 과학의 객관성을 어떻게 이해할지가 물음이 된다", "label": "지지됨", "evidence": "C1-24: logically guaranteed independence", "note": ""},
+    {"n": 4, "text": "롱기노는 방법의 객관성과 개별 실천가의 객관성을 구별해야 하며, 표준 설명은 둘을 섞어 개인주의적 지식관을 낳는다고 본다", "label": "부분 지지", "evidence": "C1-24: tend to conflate the two", "note": "원문은 'The standard accounts of scientific method tend to conflate the two'로 'tend to'(경향)가 있는데 카드는 '섞어'로 단정. 구별해야 한다는 부분은 지지"},
+    {"n": 5, "text": "실증주의는 방법을 따른 개인에게 객관성을 귀속시키고, 쿤은 공동체를 강조하지만 그의 의미론이 공동체를 'a solipsistic monad'로 환원하므로 경험주의만큼 개인주의적이다 (p. 147)", "label": "지지됨", "evidence": "C1-24 p.147: a solipsistic monad", "note": "'Kuhn's account is, thus, as individualist as the empiricist one'"},
+    {"n": 6, "text": "롱기노의 해법은 과학을 실천으로 보고 방법을 개인보다 사회 집단이 실천하는 것으로 보는 두 관점 전환이다", "label": "지지됨", "evidence": "C1-25: Two shifts of perspective", "note": ""},
+    {"n": 7, "text": "결론은 'Objectivity, then, is a characteristic of a community's practice of science rather than of an individual's'이다 (p. 153)", "label": "지지됨", "evidence": "C1-25 p.153: a characteristic of a community's", "note": "인용문과 쪽수 일치"}
+  ],
+  "sources_used": ["문헌/@Longino1990 Values and Objectivity.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-24_Longino-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-25_Longino-2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

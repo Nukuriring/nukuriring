@@ -1,0 +1,19 @@
+{
+  "id": "66c4a",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "상상하는 의식은 지각적 종합의 퇴적된 경로를 다시 활성화하므로 우리는 빨갛게 상상한다고 말할 수 있다", "label": "부분 지지", "evidence": "we can formulate a hypothesis", "note": "원문은 '사르트르의 기술에서 가설을 세울 수 있다'이다. 제목은 이 가설을 사실처럼 '다시 활성화하므로'로 단정한다."},
+    {"n": 1, "text": "상상하는 의식은 지각적 종합과 마찬가지로 의도적 행위이며 두 과정에서 대상은 의식에 들어오지 않은 채 신체적 대상으로 겨냥된다", "label": "지지됨", "evidence": "is an intentional act", "note": ""},
+    {"n": 2, "text": "의자를 지각할 때 의자가 의식에 들어온다고 말하면 부조리하듯 상상하는 의식도 의자의 복사본에 의존하지 않는다", "label": "지지됨", "evidence": "it would be absurd to say", "note": ""},
+    {"n": 3, "text": "저자들은 사르트르의 기술에서 상상하는 의식이 지각적 종합의 특정 경로를 재활용한다는 가설을 세운다", "label": "지지됨", "evidence": "re-employs certain tracks", "note": ""},
+    {"n": 4, "text": "딥러닝 기제로는 대상의 방향을 허용하는 과정 같은 지각적 종합의 퇴적된 가중치를 쓰는 일에 해당한다", "label": "부분 지지", "evidence": "this could mean that", "note": "원문은 'this could mean that'(그런 뜻일 수 있다)이다. 카드는 '해당한다'로 단정했다."},
+    {"n": 5, "text": "DeepDream은 학습된 분류 신경망에서 무작위 잡음을 조작해 특정 라벨의 출력 노드 활성화를 최대화함으로써 이미지를 생성한다", "label": "지지됨", "evidence": "tweaking random noise", "note": ""},
+    {"n": 6, "text": "마찬가지로 상상은 지각에서 친구를 금발에 키가 크다고 알아보게 하는 과정을 강하게 다시 활성화할 수 있다", "label": "지지됨", "evidence": "strongly re-activate", "note": "원문은 'could try to'로 한정되며 카드도 '할 수 있다'로 유지."},
+    {"n": 7, "text": "상상된 대상이 빨간 것은 지각에서 대상을 빨갛다고 알아보는 빨강 만들기 과정을 쓰기 때문이라고 저자들은 보며 이를 빨갛게 상상한다고 표현한다", "label": "지지됨", "evidence": "we imagine redly", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/과학철학 1bd97cdd867e802da375fae8eae0a223.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

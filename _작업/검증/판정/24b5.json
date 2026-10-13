@@ -1,0 +1,19 @@
+{
+  "id": "24b5",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "카벨은 영화에서 실재가 하는 역할을 촬영되고 투사되고 보이는 일로 기술한다", "label": "지지됨", "evidence": "photographed, projected, screened, exhibited, and viewed", "note": "p.184"},
+    {"n": 1, "text": "「More of The World Viewed」(1974 처음 발표)에서 카벨은 파노프스키와 바쟁의 리얼리즘을 고쳐 쓴다", "label": "지지됨", "evidence": "my differences from Panofsky's and Bazin's", "note": "1974는 KB 서지 정보"},
+    {"n": 2, "text": "카벨은 두 사람이 영화가 다른 예술에 없는 방식으로 실재와 관계한다는 확신에서 옳았다고 인정하면서, 자연의 극작술이나 실재 그 자체의 매체라는 말은 잘못 말했거나 불필요하게 말한 것이라고 본다(p.166)", "label": "지지됨", "evidence": "significantly misspoke themselves", "note": ""},
+    {"n": 3, "text": "영화의 물리적 매체의 고유성은 나타나게 하는 것의 부재, 곧 우리가 그것에서 부재한다는 점에 있고, 영화는 실재의 투사로 실재와 환상을 드러낸다(p.166)", "label": "지지됨", "evidence": "in the nature of our absence from it", "note": ""},
+    {"n": 4, "text": "카벨은 영화가 기록이라는 생각을 받아들이지 않는다(p.183)", "label": "지지됨", "evidence": "movies are not recordings", "note": ""},
+    {"n": 5, "text": "기록이라 부르려면 별개로 현전할 수 있는 원래 사건이 있고 원리상 구별되지 않아야 하는데, 영화의 투사는 그 사건과 쉽게 구별된다", "label": "지지됨", "evidence": "what could be more distinguishable?", "note": ""},
+    {"n": 6, "text": "투사와 떨어져서는 화면 속 사건에 현전할 수 없다는 사실은 실재의 물음을 해결하지도 제기하지도 못한다(p.183)", "label": "지지됨", "evidence": "does not so much as raise it", "note": ""},
+    {"n": 7, "text": "'I describe the role of reality as one of being photographed, projected, screened, exhibited, and viewed.'(p.184)", "label": "지지됨", "evidence": "I describe the role of reality as", "note": ""}
+  ],
+  "sources_used": ["_원자료/로컬/Integrating Transparency/KB_Cavell_The-World-Viewed.md (More of Segment 4, Segment 9)"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

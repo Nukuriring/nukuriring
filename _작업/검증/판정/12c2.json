@@ -1,0 +1,18 @@
+{
+  "id": "12c2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "쿤에 따르면 어떤 문제를 푸는 일이 더 중요한지는 정상과학 밖의 물음이다", "label": "지지됨", "evidence": "C1-03: outside of normal science altogether", "note": ""},
+    {"n": 1, "text": "문제와 해결의 정당성 기준도 바뀌면 경쟁 패러다임 사이의 선택은 정상과학의 기준으로 풀 수 없는 물음을 낳는다", "label": "지지됨", "evidence": "C1-03: cannot be resolved by the criteria", "note": ""},
+    {"n": 2, "text": "두 학파는 문제와 해결에 대한 의견이 다른 만큼 서로 엇갈려 말하고, 각 패러다임은 자기 기준은 대체로 충족하고 상대 기준 몇 가지에는 못 미친다", "label": "지지됨", "evidence": "C1-03: talk through each other", "note": "'more or less'를 '대체로'로 옮김"},
+    {"n": 3, "text": "부분적 순환 외에도 패러다임 논쟁에서 논리적 접촉이 불완전한 이유가 있다", "label": "지지됨", "evidence": "C1-03: other reasons, too", "note": ""},
+    {"n": 4, "text": "어떤 패러다임도 자기가 정의한 문제를 모두 풀지 못하고 두 패러다임이 같은 문제를 미해결로 남기지도 않으므로 논쟁은 'Which problems is it more significant to have solved?'를 포함한다 (pp. 92–93)", "label": "지지됨", "evidence": "C1-03: more significant to have solved", "note": "인용문 일치"},
+    {"n": 5, "text": "이 가치의 물음은 경쟁 기준의 문제와 마찬가지로 정상과학 바깥의 기준으로만 답할 수 있다", "label": "지지됨", "evidence": "C1-03: can be answered only in terms", "note": ""},
+    {"n": 6, "text": "외부 기준에 기대는 일이 패러다임 논쟁을 가장 분명하게 혁명적으로 만든다", "label": "지지됨", "evidence": "C1-03: most obviously makes paradigm", "note": ""}
+  ],
+  "sources_used": ["문헌/@Kuhn1962 The Nature and Necessity of Scientific Revolutions.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-03_Kuhn-SSR9-3.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

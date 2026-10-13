@@ -1,0 +1,19 @@
+{
+  "id": "12a",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "쿤에 따르면 새 현상과 새 이론의 동화는 원리상 옛 패러다임의 파괴를 요구한다", "label": "지지됨", "evidence": "C1-01: there must be a conflict", "note": "원문은 누적적 획득을 'improbable in principle'이라 하고 이어서 'must be a conflict'로 단정하므로 제목은 지지됨으로 둔다"},
+    {"n": 1, "text": "쿤은 옛 패러다임 거부를 요구하는 이유가 과학 지식의 논리적 구조에서 나오지 않는다고 인정한다", "label": "지지됨", "evidence": "C1-01: do not derive from the logical", "note": ""},
+    {"n": 2, "text": "원리상 새 현상은 기존 실천과 충돌하지 않을 수 있고, 새 이론은 미지의 현상만 다루거나 에너지 보존처럼 하위 이론을 잇는 고차 이론일 수 있다", "label": "지지됨", "evidence": "C1-01: higher level theory", "note": ""},
+    {"n": 3, "text": "패러다임 이전 시기 이후 새 이론과 거의 모든 새 현상의 동화는 실제로 이전 패러다임의 파괴를 요구했고, 예상치 못한 새로움의 누적적 획득은 거의 없는 예외이다", "label": "지지됨", "evidence": "C1-01: almost non-existent exception", "note": ""},
+    {"n": 4, "text": "정상 연구자는 무엇을 얻을지 알고 장비와 생각을 맞추므로, 예상치 못한 발견은 그 예상이 틀린 만큼만 나타난다", "label": "지지됨", "evidence": "C1-01: to the extent that his anti", "note": "'only to the extent that his anticipations ... prove wrong'"},
+    {"n": 5, "text": "이미 잘 설명된 현상과 기존 패러다임을 명료화하면 되는 현상은 새 이론을 낳지 않고, 동화를 거부하는 인정된 이상 현상만 새 이론을 낳는다", "label": "부분 지지", "evidence": "C1-01: these seldom provide either motive", "note": "원문은 잘 설명된 현상이 새 이론의 동기나 출발점을 'seldom' 제공한다고 하고(그렇게 나온 이론도 'seldom accepted'), 명료화 현상은 새 이론이 아니라 기존 패러다임의 명료화를 겨냥한다고 함. 카드는 '낳지 않고'로 단정해 'seldom'(드물게)을 뺌. 이상 현상 부분은 'This type alone gives rise to new theories'로 지지"},
+    {"n": 6, "text": "이상 현상을 해소하는 새 이론은 어딘가에서 이전 이론과 다른 예측을 허용해야 하므로 이전 이론과 논리적으로 양립할 수 없다", "label": "지지됨", "evidence": "C1-01: permit predictions that are different", "note": ""},
+    {"n": 7, "text": "에너지 보존도 칼로릭 이론이 폐기된 뒤에야 과학의 일부가 되었으므로, 쿤은 논리적 포함을 허용 가능한 견해로 두면서 'a historical implausibility'라고 부른다 (p. 84)", "label": "지지됨", "evidence": "C1-01 p.84: a historical implausibility", "note": "인용문과 쪽수 일치"}
+  ],
+  "sources_used": ["문헌/@Kuhn1962 The Nature and Necessity of Scientific Revolutions.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-01_Kuhn-SSR9-1.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

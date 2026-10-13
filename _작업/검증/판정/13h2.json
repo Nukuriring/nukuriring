@@ -1,0 +1,18 @@
+{
+  "id": "13h2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "레일턴은 고확률 요건과 인식적 상대화가 귀납 논증이라는 성격에서 나온다고 진단한다", "label": "지지됨", "evidence": "derive from the inductive character of such inferences", "note": "C1-15 p.696"},
+    {"n": 1, "text": "헴펠의 통계적 설명은 통계적 일반화와 구별되는 진정한 통계 법칙을 요구하므로 진정으로 비결정론적인 과정에만 허용된다", "label": "지지됨", "evidence": "permits statistical explanation only of genuinely indeterministic processes", "note": ""},
+    {"n": 2, "text": "단핵구증 99% 부종 일반화는 초기 조건을 S와 -S로 분할할 수 있다면 관찰 빈도의 기술일 뿐이며 통계적 설명은 불필요하고 불가능하다(p.694)", "label": "지지됨", "evidence": "no law ... it cannot support a statistical explanation", "note": ""},
+    {"n": 3, "text": "I-S 설명은 고확률을 요구하는데, 헴펠에게 통계 법칙은 개별 우연 사건을 practical certainty로 귀납 추론하게 해 줄 때만 설명적 관련성을 얻기 때문이다(p.695)", "label": "지지됨", "evidence": "inductively infer its occurrence with 'practical certainty'", "note": ""},
+    {"n": 4, "text": "존스의 과거 병력 정보가 추가되면 반대 결론의 I-S 설명이 생기고 헴펠은 앞의 설명을 최대로 특수하지 않다며 거부하여 부종이 생기면 설명할 수 없는 일로 남는다(pp.695-696)", "label": "지지됨", "evidence": "it would now have to be regarded as inexplicable", "note": ""},
+    {"n": 5, "text": "가장 거슬리는 두 특징이 귀납적 성격에서 나오며, 비귀납적 모형이 주어지면 둘 다 요구할 유혹이 사라진다(p.696)", "label": "지지됨", "evidence": "there need be no temptation to require high probability or exclude truth", "note": ""},
+    {"n": 6, "text": "제프리를 따라 행운의 바퀴가 빨강에 서는 일과 검정에 서는 일이 같은 방식으로 설명 가능하다고 보면서, 확률이 거의 1인 'beautiful' 경우만 추론으로 인정하는 제프리의 예외는 거부한다(pp.696-697)", "label": "지지됨", "evidence": "I fail to see how Jeffrey can defend his exemption", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-15_Railton-DNP-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Railton-DNP_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

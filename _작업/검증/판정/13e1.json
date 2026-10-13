@@ -1,0 +1,17 @@
+{
+  "id": "13e1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "헴펠은 피설명 사건이 기대될 만했음을 보이는 일을 설명의 적합성 조건으로 삼는다", "label": "지지됨", "evidence": "a general condition of adequacy for any rationally acceptable explanation", "note": "C1-13 p.668"},
+    {"n": 1, "text": "첫째 하위 논제는 D-N 설명에서 거의 자명하지만 다른 유형에도 적용되는 더 일반적인 원리로 뒷받침된다", "label": "지지됨", "evidence": "an almost trivial truth in the case of D-N explanation", "note": ""},
+    {"n": 2, "text": "'Why did event X occur?'에 대한 답은 X가 확정적으로든 적어도 상당한 확률로든 기대될 만했음을 보이는 정보를 주어야 한다", "label": "지지됨", "evidence": "if not definitely ... then at least with reasonable probability", "note": ""},
+    {"n": 3, "text": "설명 요청은 보통 피설명 진술이 참임을 전제하므로 설명은 피설명 진술을 지지하려는 것이 아니지만, 적합한 설명은 근거도 되는 정보를 줄 수밖에 없고 따라서 인식적 why 물음의 잠재적 답이다", "label": "지지됨", "evidence": "a potential answer to the corresponding epistemic why-question", "note": ""},
+    {"n": 4, "text": "이 조건은 필요조건이고 충분조건은 아니다. 지자기장 변동을 믿을 근거가 있어도 변동의 이유를 설명하지 못한다(pp.668-669)", "label": "지지됨", "evidence": "necessary but not sufficient for an acceptable explanation", "note": ""},
+    {"n": 5, "text": "이런 추론을 설명에서 배제하는 것은 일반적 주장을 하는 법칙이나 이론 원리를 원용하지 않는다는 점이며, 일반 원리만이 특정 상황에 설명 요인의 지위를 줄 수 있다(p.669)", "label": "지지됨", "evidence": "such principles alone can give ... the status of explanatory factors", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-13_Hempel-StructuralIdentity-1.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

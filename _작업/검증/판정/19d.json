@@ -1,0 +1,18 @@
+{
+  "id": "19d",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "초평가주의는 모든 허용 가능한 정밀화에서 참인 문장을 참으로 본다", "label": "지지됨", "evidence": "모든 허용 가능 정밀화에서 참이면 supertrue", "note": ""},
+    {"n": 1, "text": "초평가주의는 모호한 술어에 명확한 외연을 하나 부여하여 모호성을 없애는 정밀화를 도입한다", "label": "지지됨", "evidence": "명확한 외연을 부여하여 모호성을 제거하는 것을 정밀화", "note": ""},
+    {"n": 2, "text": "한 술어에는 여러 정밀화가 가능하지만, 명백한 사례를 빼거나 명백히 아닌 사례를 넣는 정밀화는 허용되지 않는다", "label": "지지됨", "evidence": "명백한 사례는 포함하고 명백하게 아닌 사례는 배제", "note": ""},
+    {"n": 3, "text": "한 문장은 모든 허용 가능한 정밀화에서 참이면 참(초참)이고 모두에서 거짓이면 거짓이며, 정밀화마다 갈리면 참도 거짓도 아니다", "label": "지지됨", "evidence": "정밀화마다 달라지면 참도 거짓도 아니다", "note": ""},
+    {"n": 4, "text": "'키가 크거나 크지 않다' 같은 고전 논리의 정리는 모든 정밀화에서 참이므로 보존된다", "label": "지지됨", "evidence": "모든 정밀화에서 참 → supertrue", "note": ""},
+    {"n": 5, "text": "정밀화 위에서 양화하므로 반그림자 연결도 보존된다", "label": "지지됨", "evidence": "precisification 위에서 양화해 … penumbral connection을 동시에 보존", "note": "06-18 Claude 09:14. 카드가 대화 속 설명으로 표시함"},
+    {"n": 6, "text": "소렌슨의 정리에서 이 입장의 출처는 파인(Kit Fine 1975)과 루이스(Lewis 1982)이고, 루이스는 모호한 말이 무수한 정밀 개념에 동시에 묶여 있다는 초다의성으로 이를 이해한다", "label": "지지됨", "evidence": "Supervaluationism (Fine 1975, Lewis 1982)", "note": "초다의성은 같은 대화의 hyper-ambiguity"}
+  ],
+  "sources_used": ["_원자료/claude.ai/chats/2026-05-26_논의 지형 파악하기.md", "_원자료/claude.ai/chats/2026-05-27_모호한 술어와 경계 설정의 딜레마.md", "_원자료/claude.ai/chats/2026-05-29_모호성 역설과 초평가주의의 한계.md", "_원자료/claude.ai/chats/2026-06-18_Degrees of truth and transitivity problems.md", "문헌/@Sorensen SEP Vagueness.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

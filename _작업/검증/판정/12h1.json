@@ -1,0 +1,17 @@
+{
+  "id": "12h1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "라우든에 따르면 이론 변화가 한 층위씩 일어나면 충분히 합리적인 과정이 된다", "label": "지지됨", "evidence": "C1-07: ample scope for regarding it", "note": "원문은 'there is ample scope for regarding it as a thoroughly reasoned process'(그렇게 볼 여지가 넉넉하다)라 제목의 '된다'가 약간 강함. 본문은 원문 인용을 그대로 실어 한정이 보존됨"},
+    {"n": 1, "text": "합의 형성 문제를 풀려면 쿤의 입장을 두 군데 고쳐야 한다: 위계적 정당화를 그물망 그림으로 바꾸어 인지적 가치를 'negotiable'하게 만들고, 세계관이 통합된 묶음이라는 주장을 버려 각 구성 요소를 따로 협상·교체할 수 있게 한다", "label": "지지됨", "evidence": "C1-07: making cognitive values negotiable", "note": ""},
+    {"n": 2, "text": "이론, 방법, 목표는 서로를 정당화한다: 목표는 방법을 정당화하고 이론과 조화하며, 방법은 이론을 정당화하고 목표의 실현 가능성을 보이며, 이론은 방법을 제약하고 목표를 예화한다", "label": "지지됨", "evidence": "C1-08: exemplify A1", "note": "'A1 will justify M1 and harmonize with T1; M1 will justify T1 and exhibit the realizability of A1; T1 will constrain M1 and exemplify A1'"},
+    {"n": 3, "text": "방법이 존재론을 정당화하지 못하거나, 방법이 목표를 증진하지 못하거나, 목표가 유토피아적임이 드러나면 해당 요소를 바꿀 강한 이유가 생기지만 나머지를 모두 바꿀 필요는 없다", "label": "지지됨", "evidence": "C1-07: his cognitive aims prove to be utopian", "note": ""},
+    {"n": 4, "text": "선택은 O1&M1&A1과 한 요소만 다른 O2&M1&A1, O1&M2&A1, O1&M1&A2 사이의 선택일 수 있고, 공통 기반이 있으면 선택을 매개할 'Archimedean standpoint'를 기대할 수 있다", "label": "지지됨", "evidence": "C1-07: an Archimedean standpoint", "note": ""},
+    {"n": 5, "text": "결론: 'Provided theory change occurs one level at a time, there is ample scope for regarding it as a thoroughly reasoned process' (1판 pp. 145–146)", "label": "지지됨", "evidence": "C1-07: one level at a time", "note": "인용문 일치, 145–146쪽 걸침 확인"}
+  ],
+  "sources_used": ["문헌/@Laudan1984 Dissecting the Holist Picture of Scientific Change.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-07_Laudan-Dissecting-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-08_Laudan-Dissecting-2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

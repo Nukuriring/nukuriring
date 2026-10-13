@@ -1,0 +1,19 @@
+{
+  "id": "12e",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "쿤에 따르면 이론 선택 기준은 선택에 영향을 주는 가치로 기능한다", "label": "지지됨", "evidence": "C1-05 p.103: as values, which influence it", "note": ""},
+    {"n": 1, "text": "쿤은 전통이 선택 규칙의 제거 가능한 불완전성으로 보는 것을 과학의 본성에 대한 응답으로 보자고 제안한다", "label": "부분 지지", "evidence": "C1-05: in part responses to the essential", "note": "원문은 'I take to be in part responses to the essential nature of science'로 'in part'(부분적으로)가 있는데 카드는 이를 뺌"},
+    {"n": 2, "text": "결정을 명시하지 않으면서 영향을 주는 기준은 삶의 많은 영역에서 익숙하며 보통 격언, 규범, 가치라 불린다", "label": "지지됨", "evidence": "C1-05: maxims, norms, or values", "note": ""},
+    {"n": 3, "text": "'망설이는 자는 진다'와 '뛰기 전에 살펴라' 같은 격언은 서로 어긋나지만 결정의 성격을 바꾸고 각자가 책임질 측면을 가리킨다", "label": "지지됨", "evidence": "C1-05: alter the nature of the decision", "note": ""},
+    {"n": 4, "text": "표현의 자유와 생명·재산 보존 같은 가치도 적용에서 충돌하지만 그 때문에 가치에 기능이 없다고 하는 사람은 드물다", "label": "지지됨", "evidence": "C1-05: rarely result in charges", "note": ""},
+    {"n": 5, "text": "쿤의 정식은 이론 선택 기준이 'not as rules, which determine choice, but as values, which influence it'로 기능한다는 것이다 (p. 103)", "label": "지지됨", "evidence": "C1-05 p.103: not as rules, which determine", "note": "인용문과 쪽수 일치"},
+    {"n": 6, "text": "가치는 각 과학자가 무엇을 고려해야 하는지, 무엇을 관련 있다고 보아도 되는지, 선택의 근거로 무엇을 보고하도록 요구받을 수 있는지를 상당히 정한다", "label": "지지됨", "evidence": "C1-05: they do specify a great deal", "note": ""},
+    {"n": 7, "text": "목록에 사회적 유용성을 더하면 선택이 공학자의 선택에 가까워지고 정확한 맞음을 빼면 철학에 가까운 활동이 되듯, 서로 다른 창조적 분야는 공유 가치의 집합으로 구별된다", "label": "부분 지지", "evidence": "C1-05: may not resemble science at all", "note": "원문은 정확성을 빼면 'may not resemble science at all, but perhaps philosophy instead'로 가능성 표현(may, perhaps)이고, 분야는 'among other things' 공유 가치 집합으로 특징지어진다고 함. 카드는 둘 다 단정으로 씀"}
+  ],
+  "sources_used": ["문헌/@Kuhn1977 Objectivity, Value Judgment, and Theory Choice.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-05_Kuhn-OVJTC-2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

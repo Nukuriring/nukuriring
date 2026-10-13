@@ -1,0 +1,19 @@
+{
+  "id": "13f",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "헴펠에 따르면 귀납-통계적 설명에는 연역적 설명에 없는 모호성이 있다", "label": "지지됨", "evidence": "has no analogue in the case of deductive explanation", "note": "C1-14 p.680"},
+    {"n": 1, "text": "존스의 I-S 논증 (1d)에는 내성 균주(S*)나 심장이 약한 80대(S**)처럼 참인 전제로 비회복을 거의 확실하게 만드는 경쟁 논증이 있을 수 있다(pp.679-680)", "label": "지지됨", "evidence": "rival argument to (1d)", "note": ""},
+    {"n": 2, "text": "개별 사건이 여러 참조 부류에서 무작위로 뽑힐 수 있고 그 부류들에서 결과의 통계적 확률이 크게 다르다는 데서 모호성이 생긴다(p.680)", "label": "지지됨", "evidence": "obtainable by random selection from any one of several reference classes", "note": ""},
+    {"n": 3, "text": "스탠퍼드 11월 날씨 사례에서 두 논증이 반대 방향을 가리킨다", "label": "지지됨", "evidence": "presents it as fairly certain that November 27 is not warm", "note": ""},
+    {"n": 4, "text": "참인 전제에 관한 판본과 함께 수용 진술 집합 Kₜ에 관한 인식적 모호성 판본이 있다(pp.680-681)", "label": "지지됨", "evidence": "the problem of the epistemic ambiguity of statistical explanation", "note": ""},
+    {"n": 5, "text": "K는 참이라고 주장되지 않고 잠정적으로 수용되며 헴펠은 K가 일관적이고 논리적 귀결에 닫혀 있다고 가정한다", "label": "지지됨", "evidence": "We will assume that K is logically consistent", "note": ""},
+    {"n": 6, "text": "인식적 모호성이 있으면 사건이 일어났다고 들어도 일어나지 않았다고 들어도 설명할 수 있고, 같은 곤경이 예측에서도 생긴다(pp.681-682)", "label": "지지됨", "evidence": "Epistemic ambiguity also bedevils the predictive use", "note": ""},
+    {"n": 7, "text": "연역적 설명에는 이 곤경의 유비가 없다. 참인 전제나 일관된 K는 모순되는 결론을 함축할 수 없기 때문이다", "label": "지지됨", "evidence": "K is logically consistent, it cannot contain premise-sets", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-14_Hempel-IS-1.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

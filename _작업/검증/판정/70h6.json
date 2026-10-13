@@ -1,0 +1,16 @@
+{
+  "id": "70h6",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "그문작 연습 10번은 미래 조건문, 11번은 반사실 조건문 작문이다", "label": "부분 지지", "evidence": "εαν … κομισης / 카이 에이 … 웈 안", "note": "필기는 영어 문장과 단서만 적고 유형 분류는 없음. 카드가 단서에서 읽어 냄"},
+    {"n": 1, "text": "10번 If you bring water home, we shall drink while we eat에서 필기는 εαν, κομισης, πιομεθα와 εσθιοντες를 적는다", "label": "부분 지지", "evidence": "εαν … bring(κομισης) … (피오메타 에스띠온테스)", "note": "εαν과 κομισης만 그리스어 철자이고 πιομεθα와 εσθιοντες는 한국어 음역으로만 적힘"},
+    {"n": 2, "text": "κομισης에 미래 후건 πιομεθα가 이어지므로 미래 조건문의 more vivid 유형으로 읽힌다", "label": "부분 지지", "evidence": "shall drink eating", "note": "분류는 카드의 추정(밝힘). 필기에 shall drink가 있어 방향은 맞음"},
+    {"n": 3, "text": "11번 Even if I had learned the letters twice, I would not remember today에는 και ει, 에마똔, 웈 안, 에멤네멘이 적혀 있다", "label": "지지됨", "evidence": "카이 에이, 에마똔, 웈 안, 에멤네멘", "note": "και ει는 필기에 '카이 에이' 음역"},
+    {"n": 4, "text": "전건에 과거 직설법, 후건에 αν이 있으므로 양보절과 반사실 조건문이 겹친 형태로 읽힌다", "label": "부분 지지", "evidence": "웈 안: 우드 낫", "note": "카드의 추정(밝힘). 필기는 어형 분류를 적지 않음"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/그리스어 문법과 작문/그문작 d00fe381141247e8b2914ada07da8ae2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

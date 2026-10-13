@@ -1,0 +1,16 @@
+{
+  "id": "70d",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "라틴어 in은 탈격과 쓰면 장소를, 대격과 쓰면 운동의 방향을 나타낸다", "label": "지지됨", "evidence": "in piscinam: 아큐자티브 + in → 운동성", "note": "in balneis는 'in the baths', 아블라티브"},
+    {"n": 1, "text": "in balneis는 in the baths로 장소를 나타내고 탈격이다", "label": "지지됨", "evidence": "in balneis는 in the baths를 의미. 아블라티브", "note": ""},
+    {"n": 2, "text": "in piscinam은 into the pool로 대격에 in이 붙어 운동성을 나타낸다", "label": "지지됨", "evidence": "아큐자티브 + in → 운동성", "note": ""},
+    {"n": 3, "text": "같은 구분이 본문 전체에 나타나서 in atrio erant는 장소이고 in tepidarium iniit와 in piscinam insiluit는 향하는 곳이다", "label": "부분 지지", "evidence": "in tepidarium iniit / in atrio erant (본문)", "note": "문장은 본문에 있으나 풀이는 두 구만 분석함. 나머지 분류는 카드의 확장"},
+    {"n": 4, "text": "이 구분은 필기 풀이에서 가져왔으며 풀이를 쓴 사람은 필기에 표시되어 있지 않다", "label": "지지됨", "evidence": "여기서: - 'in balneis'는…", "note": "작성자 표시 없음 확인"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/23과 d564da1b1e374a63b6d825c4f3d244bc.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

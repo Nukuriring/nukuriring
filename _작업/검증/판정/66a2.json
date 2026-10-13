@@ -1,0 +1,16 @@
+{
+  "id": "66a2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "루벤의 비소와 버스 사례에서 선점된 원인으로는 죽음을 예측할 수 있어도 설명할 수 없다", "label": "지지됨", "evidence": "predict via pre-empted cause", "note": ""},
+    {"n": 1, "text": "존스가 시점 t에 비소를 최소 1킬로그램 먹었고 그만큼 먹은 사람은 24시간 안에 죽는다는 법칙에서 존스가 24시간 안에 죽는다는 결론이 도출된다", "label": "지지됨", "evidence": "최소한 t에 1 킬로그램의 비소를 먹었다", "note": ""},
+    {"n": 2, "text": "존스가 비소를 먹은 뒤 버스에 치여 죽었다면 이 도출은 설명이 아니며, 비소로 죽었을 존스가 실제로는 버스로 죽었기 때문이다", "label": "지지됨", "evidence": "이 연역은 설명이 아니다", "note": ""},
+    {"n": 3, "text": "이는 인과적 선점이 있는 모든 경우로 일반화되며 선점된 원인은 그렇게 도출되는 피설명항에 설명적으로 무관하다", "label": "지지됨", "evidence": "explanatorily irrelevant", "note": ""},
+    {"n": 4, "text": "이 사례는 설명과 예측의 비대칭도 보여 주며, 위 논증을 편 사람은 존스의 죽음을 설명하지는 못했지만 예측하기는 했다", "label": "지지됨", "evidence": "존스의 죽음을 예측한 것이다", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/스터디 트래커/대학생 시험 대비 공부 트래커/과목별 진행률/과학철학 논자시/Chapter 6_ Models of Explanation/Arguments, Laws and Explanation_Ruben 23197cdd867e801aaff7c3a886df0328.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

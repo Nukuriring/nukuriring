@@ -1,0 +1,17 @@
+{
+  "id": "24b1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "카벨에 따르면 회화는 하나의 세계이고 사진은 세계에 관한 것이다", "label": "지지됨", "evidence": "A painting is a world; a photograph is of the world.", "note": "p.24"},
+    {"n": 1, "text": "사진 속 건물 뒤에 무엇이 가려져 있는지 언제나 물을 수 있지만 회화 속 대상에는 우연히만 뜻을 가진다(pp.23–24)", "label": "지지됨", "evidence": "only accidentally makes sense", "note": ""},
+    {"n": 2, "text": "사진에 찍힌 구역 옆, 프레임 너머에 무엇이 있는지도 물을 수 있지만 회화에는 대개 뜻이 없다", "label": "지지됨", "evidence": "generally makes no sense asked of a painting", "note": ""},
+    {"n": 3, "text": "사진에는 이 물음에 실재 속에서 답이 있고, 회화의 세계는 프레임에서 한계를 만나며 프레임 바깥과 연속되지 않는다", "label": "지지됨", "evidence": "at its frame, a world finds its limits", "note": ""},
+    {"n": 4, "text": "사진은 카메라가 스스로 잘라 낸 것이므로 가장자리를 넘는 대상은 잘린 느낌을 주지 않는다", "label": "지지됨", "evidence": "do not feel cut; they are aimed at", "note": ""},
+    {"n": 5, "text": "나머지 세계가 암시적으로 현전하면서 명시적으로 배제된다는 점이 사진 경험에 본질적이다(p.24)", "label": "지지됨", "evidence": "implied presence of the rest of the world", "note": ""}
+  ],
+  "sources_used": ["_원자료/로컬/Integrating Transparency/KB_Cavell_The-World-Viewed.md (Ch 3)"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

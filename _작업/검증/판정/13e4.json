@@ -1,0 +1,18 @@
+{
+  "id": "13e4",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "헴펠은 코플릭 반점 사례 앞에서 둘째 하위 논제가 의문에 열려 있다고 인정한다", "label": "지지됨", "evidence": "the second one is indeed open to question", "note": "C1-13 p.668, p.673-674"},
+    {"n": 1, "text": "반점 다음에 늘 홍역 증상이 따른다는 L을 법칙으로 받아들이면 D-N 논증은 예측에는 적합하나 설명에 적합한지는 의심스럽다(pp.673-674)", "label": "지지됨", "evidence": "its explanatory adequacy might be questioned", "note": ""},
+    {"n": 2, "text": "헴펠은 이 사례가 둘째 하위 논제에 대한 결정적 반론이 못 된다고 본다", "label": "지지됨", "evidence": "does not constitute a decisive objection", "note": ""},
+    {"n": 3, "text": "설명으로 보기를 꺼리는 이유는 L이 보편 법칙인지에 대한 의심일 수 있다", "label": "지지됨", "evidence": "may well reflect doubts as to whether ... a law", "note": "'일 수 있다' 유지"},
+    {"n": 4, "text": "소량의 바이러스 국소 접종으로 반점만 생길 수 있다면 반점은 여전히 믿을 만한 예측 근거이지만 L은 법칙이 못 되어 D-N 설명을 뒷받침하지 못한다(p.674)", "label": "부분 지지", "evidence": "still afford a usually reliable basis for predicting", "note": "원문은 'usually reliable'이고 예외 조건이 '극히 드물' 것이라는 단서가 붙음. 카드는 '믿을 만한'으로 usually 누락"},
+    {"n": 5, "text": "셰플러와 스크리븐은 법칙 없이 특정 사례에서 특정 사례로 나아가는 예측(금속 저항 자료, 동전 던지기)이 설명력을 갖지 않는다고 지적했다", "label": "지지됨", "evidence": "no laws and which would have no explanatory force", "note": ""},
+    {"n": 6, "text": "카르납의 귀납 논리에서는 이런 추론이 순수하게 논리적 근거로 가능하며, 무작위 선택 가정을 요구하는 통계적 이론에서는 그 가정이 통계 법칙의 형식이라 이런 예측도 불완전하게 정식화된 잠재적 설명이 된다(pp.674-675)", "label": "지지됨", "evidence": "the predictions are effected by means of covering laws after all", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-13_Hempel-StructuralIdentity-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Hempel-StructuralIdentity_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "13j",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "우드워드는 조작과 통제에 쓸 수 있는 정보를 가질 때 설명할 수 있다고 본다", "label": "지지됨", "evidence": "we are in a position to explain when we have information", "note": "C1-18 p.736; 원문 'in an in principle sense of manipulation'은 카드가 반사실적 이해로 별도 서술"},
+    {"n": 1, "text": "분자생물학이 기술적 과학에서 설명적 과학으로 바뀐 까닭을 새 실험 기법이 개입·조작을 가능하게 한 데서 찾는 와인버그의 진단을 실마리로 삼는다(p.735)", "label": "지지됨", "evidence": "make it possible to intervene in and manipulate biological systems", "note": ""},
+    {"n": 2, "text": "기술적 지식은 예측·분류·체계화를 줄 수 있어도 조작에 관련된 정보는 주지 않는다(p.736)", "label": "지지됨", "evidence": "does not provide information potentially relevant to manipulation", "note": ""},
+    {"n": 3, "text": "예측, 시공간적으로 연속인 과정의 추적, 통일에 관련된 정보를 가져도 조작 관련 정보가 없으면 인과 설명은 없다", "label": "지지됨", "evidence": "my view is that one doesn't have a (causal) explanation", "note": ""},
+    {"n": 4, "text": "법칙을 모르고 과정을 추적하지 못하고 통일하지 못해도 불변 관계를 확인하면 설명할 수 있다", "label": "지지됨", "evidence": "one can identify invariant relationships even in cases in which one doesn't know laws", "note": ""},
+    {"n": 5, "text": "백악기 말 소행성 충돌처럼 실제 조작이 불가능해도 설명은 가능하므로 조작 관련 정보는 반사실적으로 이해해야 하며, 설명은 w-물음에 답해야 한다(pp.736-737)", "label": "지지됨", "evidence": "what-if-things-had-been-different question", "note": ""},
+    {"n": 6, "text": "수동적 관찰만 하는 'intelligent trees'였다면 인과와 설명 개념을 발전시키지 못했으리라고 추측한다(p.737)", "label": "지지됨", "evidence": "it is a reasonable conjecture that we would never have developed", "note": ""},
+    {"n": 7, "text": "원인이 결과를 낳는 잠재적 손잡이라는 생각은 콜링우드·개스킹·폰 브릭트의 조작 가능성 이론에도 있으며, 그 이론들의 인간 중심성과 주관성을 피하고 객관성을 지키는 판본을 내놓겠다고 밝힌다(p.738)", "label": "지지됨", "evidence": "unacceptably anthropocentric and subjectivist", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-18_Woodward-Manipulability-1.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

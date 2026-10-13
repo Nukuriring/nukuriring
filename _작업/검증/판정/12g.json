@@ -1,0 +1,19 @@
+{
+  "id": "12g",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "쿤에 따르면 이론 전향은 번역을 배우다 원어민처럼 말하게 되는 과정이다", "label": "지지됨", "evidence": "C1-06 p.109: speak the language like a native", "note": ""},
+    {"n": 1, "text": "쿤은 1977년 논문이 이론 선택 논의가 문제없고, 호소되는 사실이 이론에 독립적이며, 결과를 선택이라 부르는 것이 적절하다고 가정했음을 인정하고 다른 곳에서 이 세 가정을 모두 반박했다고 밝힌다", "label": "지지됨", "evidence": "C1-06: challenged all three of these", "note": ""},
+    {"n": 2, "text": "다른 이론의 지지자를 다른 언어의 원어민에 비유한다", "label": "지지됨", "evidence": "C1-06: native speakers of different", "note": ""},
+    {"n": 3, "text": "두 이론의 어휘는 대부분 같지만 star/planet, mixture/compound, force/matter 같은 말은 다르게 기능하고, 이 차이는 소통이 거듭 무너지는 경험을 통해서만 발견된다", "label": "부분 지지", "evidence": "C1-06: if at all, only by repeated", "note": "원문은 'discovered and localized, if at all, only by repeated experience of communication breakdown'으로 'if at all'(발견된다 해도)이 붙어 있는데 카드는 단정"},
+    {"n": 4, "text": "같은 한계 때문에 한 개인이 두 이론을 함께 마음에 두고 하나하나 비교하기 어렵고, 쿤은 그 비교가 '선택'이라는 말이 적절하기 위한 조건이라고 본다", "label": "지지됨", "evidence": "C1-06: appropriateness of any word like", "note": "원문은 'difficult or, more likely, impossible'로 카드보다 강함(카드가 약하게 씀)"},
+    {"n": 5, "text": "지지자들은 각 이론 안에서 얻은 구체적 기술적 결과를 서로 보여 줄 수 있고, 정확성과 다산성은 번역 없이 바로 적용되는 반면 일관성과 단순성은 훨씬 문제적이다", "label": "지지됨", "evidence": "C1-06: most immediately applicable", "note": "원문 'Little or no translation is required'를 '번역 없이'로 옮김, 경미"},
+    {"n": 6, "text": "인상적인 결과를 본 일부는 출판된 논문을 로제타석처럼 쓰거나 혁신자를 찾아가 번역을 배우고, 그 가운데 일부는 'ceased to translate and begun instead to speak the language like a native'한다 (p. 109)", "label": "지지됨", "evidence": "C1-06 p.109: ceased to translate and begun", "note": "인용문과 쪽수 일치"},
+    {"n": 7, "text": "쿤은 이때 선택과 같은 과정은 일어나지 않았지만 그들이 새 이론을 실천하고 있다고 말한다", "label": "지지됨", "evidence": "C1-06: No process quite like choice", "note": ""}
+  ],
+  "sources_used": ["문헌/@Kuhn1977 Objectivity, Value Judgment, and Theory Choice.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-06_Kuhn-OVJTC-3.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

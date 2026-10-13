@@ -1,0 +1,17 @@
+{
+  "id": "70c",
+  "voice": "문헌",
+  "verdict": "원문없음",
+  "claims": [
+    {"n": 0, "text": "라틴어 unus 계열 아홉 형용사는 속격을 -ius로, 여격을 -i로 만든다", "label": "지지됨", "evidence": "Unus Una Unum - Unius - Uni", "note": "표에서 읽은 규칙. alius의 속격은 alterius"},
+    {"n": 1, "text": "필기는 unus, nullus, ullus, solus, neuter, alius, uter, totus, alter를 이 순서로 적고 각각 one, no one, any, alone·only, neither, another, either which, whole, the other의 뜻을 단다", "label": "지지됨", "evidence": "Uter: either wich / Alter : the other", "note": "순서와 뜻은 본 페이지 목록과 일치(alius는 'Allus'로 적힘)"},
+    {"n": 2, "text": "필기 표제 Unus Nauta와 목록의 첫 글자가 순서대로 일치하므로 이 표제는 아홉 낱말의 암기용 약칭으로 읽힌다", "label": "원문에 없음", "evidence": "", "note": "글자 일치 자체는 맞지만 약칭이라는 설명은 필기에 없음. 카드가 Claude의 해석이라고 밝힘"},
+    {"n": 3, "text": "변화표는 unus, unius, uni, nullus, nullius, nulli, totus, totius, toti, solus, solius, soli, ullus, ullius, ulli, neuter, neutrius, neutri를 싣는다", "label": "지지됨", "evidence": "Neuter Neutra Neutrum - Neutrius -Neutri", "note": ""},
+    {"n": 4, "text": "alius는 alterius, alii로, alter는 alterius, alteri로 적는다", "label": "지지됨", "evidence": "alius alia aliud - alterius - alii", "note": ""},
+    {"n": 5, "text": "대격과 탈격은 unum, unam, unum과 uno, una, uno처럼 일반 1·2변화 형용사를 따른다", "label": "부분 지지", "evidence": "Unum Unam Unum - Uno Una Uno", "note": "형태는 있으나 '일반 1·2변화 형용사를 따른다'는 비교는 필기에 없음"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/Unus Nauta 5ab6a8be18a34b7d87f38cceed376a8a.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어 52786f1e55fe4b2685de3b877427c467.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

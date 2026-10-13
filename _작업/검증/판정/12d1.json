@@ -1,0 +1,19 @@
+{
+  "id": "12d1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "쿤에 따르면 공유 기준은 개인마다 다르게 채워져야 개별 선택을 결정한다", "label": "지지됨", "evidence": "C1-04: not by themselves sufficient", "note": ""},
+    {"n": 1, "text": "같은 기준 목록에 온전히 헌신한 두 사람도 경쟁 이론 사이에서 다른 결론에 이를 수 있다", "label": "지지됨", "evidence": "C1-04: may nevertheless reach different", "note": ""},
+    {"n": 2, "text": "단순성을 다르게 해석하거나, 일관성이 충족되어야 할 분야 범위를 다르게 확신하거나, 상대적 가중치를 다르게 줄 수 있다", "label": "지지됨", "evidence": "C1-04: relative weights", "note": ""},
+    {"n": 3, "text": "역사가가 특정인의 특정 선택을 설명하려면 공유 기준 목록을 넘어 선택하는 개인의 특성으로 가야 한다", "label": "지지됨", "evidence": "C1-04: go beyond the list of shared", "note": ""},
+    {"n": 4, "text": "개인차는 과학자로서의 이전 경험, 과학 밖의 요인(케플러·신플라톤주의와 헤르메스주의, 에너지 보존·독일 낭만주의, 다윈·영국 사회사상), 성격이다", "label": "지지됨", "evidence": "C1-04: Neoplatonic and Hermetic", "note": ""},
+    {"n": 5, "text": "이 특성들은 과학자마다 다르지만 규범에 대한 충실성을 조금도 해치지 않는다", "label": "지지됨", "evidence": "C1-04: in the least jeopardizing", "note": ""},
+    {"n": 6, "text": "공유 규범은 'must be fleshed out in ways that differ from one individual to another' (p. 97)", "label": "지지됨", "evidence": "C1-04 p.97: must be fleshed out", "note": "인용문과 쪽수 일치"},
+    {"n": 7, "text": "모든 개별 선택은 'a mixture of objective and subjective factors, or of shared and individual criteria'에 의존한다 (p. 98)", "label": "지지됨", "evidence": "C1-04 p.98: a mixture of objective and subj", "note": "인용문과 쪽수 일치"}
+  ],
+  "sources_used": ["문헌/@Kuhn1977 Objectivity, Value Judgment, and Theory Choice.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-04_Kuhn-OVJTC-1.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

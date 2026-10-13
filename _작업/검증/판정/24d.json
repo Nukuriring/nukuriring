@@ -1,0 +1,18 @@
+{
+  "id": "24d",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "월튼은 회화에서는 재현이 정상이고 음악에서는 추상이 정상이라는 비대칭에서 출발한다", "label": "지지됨", "evidence": "회화는 표상이 정상, 음악은 추상이 정상", "note": "W1"},
+    {"n": 1, "text": "월튼은 「What Is Abstract about the Art of Music?」(1988)를 회화와 음악의 비대칭으로 시작한다(pp.351–352)", "label": "지지됨", "evidence": "§I. 음악/회화의 비대칭 (pp.351–352)", "note": ""},
+    {"n": 2, "text": "회화에서는 추상이 정당화를 요구했고 음악에서는 표제 음악 같은 재현이 정당화를 요구받는다", "label": "지지됨", "evidence": "표상(표제음악)이 정당화를 요구받는다", "note": ""},
+    {"n": 3, "text": "프랭크 스텔라는 회화가 언제나 실재적이기를 원했다고 말하지만 음악에 대해서는 아무도 그렇게 말하지 않는다(p.351)", "label": "지지됨", "evidence": "음악에 대해선 아무도 그렇게 말하지 않는다", "note": ""},
+    {"n": 4, "text": "비대칭의 뿌리는 시각이 개별자 식별에 더 효과적이어서 대물적 앎에 유리하다는 점과 소리가 원천에서 더 쉽게 떨어진다는 점이다: 'a sound can be just a sound.'(p.352)", "label": "지지됨", "evidence": "a sound can be just a sound", "note": ""},
+    {"n": 5, "text": "월튼은 지나가듯 절대음악이 아마 대체로 말에서 시와 노래를 거쳐 발전했으리라고 괄호 속에 적는다(p.351)", "label": "지지됨", "evidence": "probably developed largely from speech", "note": "'아마 대체로' 한정 유지"},
+    {"n": 6, "text": "월튼은 추상을 의미 없음으로 이해하면 음악이 우리를 사로잡는 이유가 더 큰 수수께끼가 된다고 보고(§II) 음악에 의미가 있다면 어떤 의미인지를 묻는다", "label": "지지됨", "evidence": "음악 가치의 미스터리를 키운다", "note": "W3"}
+  ],
+  "sources_used": ["_원자료/로컬/Walton and neely/음악철학_지식베이스_Walton-Neely.md"],
+  "sources_missing": ["문헌/@Walton1988의 논문 원문(지식 베이스만 사용)"],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

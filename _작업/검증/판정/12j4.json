@@ -1,0 +1,19 @@
+{
+  "id": "12j4",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "맥멀린에 따르면 코페르니쿠스의 정합성 논증은 미적 호소와 구별되는 인식적 논증이다", "label": "지지됨", "evidence": "C1-29 p.126: not aesthetic; it is epistemic", "note": ""},
+    {"n": 1, "text": "쿤은 『코페르니쿠스 혁명』에서 코페르니쿠스 체계가 예측에서 프톨레마이오스 체계보다 낫지 않았고 그 매력이 미적이었다고 보았다", "label": "지지됨", "evidence": "C1-29: aesthetic rather than pragmatic", "note": ""},
+    {"n": 2, "text": "태양 중심 모형은 행성의 순서를 분명하게 정하고 바깥으로 갈수록 주기가 길어지게 하며, 금성·수성이 늘 태양 가까이에서 움직이는 현상과 외행성이 충일 때 가장 밝은 현상에 원인을 준다", "label": "지지됨", "evidence": "C1-29: provide the cause of, a whole series", "note": ""},
+    {"n": 3, "text": "프톨레마이오스는 금성과 수성의 주전원 중심이 늘 지구와 태양을 잇는 선 위에 있다고 상정해야 하며, 쿤도 이 제약을 임시방편적(ad hoc) 추가 장치라고 인정한다", "label": "지지됨", "evidence": "C1-29: an ad hoc addition", "note": ""},
+    {"n": 4, "text": "맥멀린은 쿤이 이 대목에서 예측과 설명을 같은 것으로 다룬다고 보고, 프톨레마이오스 체계는 이 현상들을 상정으로 맞출 뿐 설명하지 못한다고 반박한다", "label": "지지됨", "evidence": "C1-29: equates prediction and explanation", "note": ""},
+    {"n": 5, "text": "케플러도 프톨레마이오스 모형에서 각 행성의 한 원 주기가 정확히 1년이라는 맞춤을 지적하며 이 문제를 인과적 설명의 문제로 보았다", "label": "지지됨", "evidence": "C1-29: the issue here is one of causal", "note": ""},
+    {"n": 6, "text": "맥멀린의 결론은 임시방편적 특징의 제거라는 정합성 기준이 'not aesthetic; it is epistemic'이라는 것이다 (p. 126)", "label": "지지됨", "evidence": "C1-29 p.126: is not aesthetic; it is epistemic", "note": "인용문과 쪽수 일치"},
+    {"n": 7, "text": "그는 여러 특징에 인과적 의미를 부여하는 이론이 그 특징들을 설명하지 못한 채 두는 이론보다 참일 가능성이 높다는 것이 코페르니쿠스의 주장이라고 본다", "label": "지지됨", "evidence": "C1-29: more likely to be true than one", "note": ""}
+  ],
+  "sources_used": ["문헌/@McMullin1993 Rationality and Paradigm Change in Science.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-29_McMullin-3.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-McMullin_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "24b8a",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "카벨에 따르면 어떤 기법도 그 사용이 의미를 줄 때에만 매체의 가능성이 된다", "label": "지지됨", "evidence": "unless its use gives it significance", "note": "p.133"},
+    {"n": 1, "text": "18장에서 카벨은 슬로 모션, 정지 화면, 플래시 삽입, 뉴스릴 같은 기법을 읽으며 이 원칙을 세운다(p.133)", "label": "지지됨", "evidence": "nothing is a 'possibility of a medium'", "note": ""},
+    {"n": 2, "text": "한 가능성의 의미를 찾는 일은 한 낱말의 의미를 찾는 일만큼 해 볼 만하다", "label": "지지됨", "evidence": "as worth looking for as 'the' meaning of a word", "note": ""},
+    {"n": 3, "text": "「달링」의 정지 화면은 패션 사진가 설정으로 동기화되어 있고 「쥘과 짐」의 정지 화면은 느닷없이 쓰이지만, 카벨은 앞을 영리한 영화로 뒤를 걸작으로 읽는다(p.137)", "label": "지지됨", "evidence": "Darling is 'a clever film'", "note": "KB: 'a masterpiece' (Jules and Jim)"},
+    {"n": 4, "text": "기법을 작품에 통합하는 일은 그 자체로 하나의 장치가 될 수 있으므로 예술의 쟁점이 되지 못하며 'There is no substitute for integrity.'(pp.141–142)", "label": "지지됨", "evidence": "integration can itself be a device", "note": ""},
+    {"n": 5, "text": "주어진 가능성의 의미를 밝혀 주는 것은 작품의 온전성뿐이다", "label": "지지됨", "evidence": "only the integrity of a given work can make out", "note": ""},
+    {"n": 6, "text": "1974년의 글에서 카벨은 카메라의 몸짓, 컷, 프레이밍 같은 물리적 매체의 가능성을 자동성이라 부르고 언어의 통사적 요소와 어휘적 요소처럼 영화 작가의 의도를 실어 나르는 것으로 본다(p.187)", "label": "지지됨", "evidence": "bearers of the film maker's intentions", "note": "KB More Segment 11 [pp.186–187]"}
+  ],
+  "sources_used": ["_원자료/로컬/Integrating Transparency/KB_Cavell_The-World-Viewed.md (Ch 18, More Segment 11)"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "13i3",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "키처는 논증 패턴을 도식 논증과 채움 지시와 분류의 삼중체로 정의한다", "label": "지지됨", "evidence": "a triple consisting of a schematic argument ... filling instructions ... classification", "note": "C1-22 pp.718-719"},
+    {"n": 1, "text": "같은 패턴을 예화하는 두 논증 가운데 하나만 설명적이라고 보는 사람을 설명적 일탈자라 부르며, 한 논증을 받아들이면 같은 패턴의 다른 논증도 받아들이는 데 헌신하게 된다(pp.717-718)", "label": "지지됨", "evidence": "one is thereby committed to accepting as explanatory other arguments", "note": ""},
+    {"n": 2, "text": "도식 문장, 채움 지시, 분류의 정의가 원문과 일치한다", "label": "지지됨", "evidence": "a schematic sentence is an expression obtained by replacing", "note": ""},
+    {"n": 3, "text": "단일 물체를 다루는 뉴턴 패턴은 다섯 도식 문장으로 표현된다(p.719)", "label": "지지됨", "evidence": "Restricting ourselves to the basic pattern ... one body", "note": ""},
+    {"n": 4, "text": "과학자의 패턴은 논리학자의 패턴과 달리 '힘', '질량', '가속도' 같은 비논리적 표현을 남기고 채움 지시가 대입을 제약한다", "label": "지지됨", "evidence": "our pattern does not replace all nonlogical expressions", "note": ""},
+    {"n": 5, "text": "패턴의 엄격성은 비논리적 어휘의 대입 조건과 분류가 부과하는 논리 구조 조건의 타협으로 정해진다. 둘 다 풀면 어떤 논증이든 허용되고 다 조이면 자기 자신만 예화하며 논리 구조만 조이면 논리학자의 패턴이 된다(pp.719-720)", "label": "부분 지지", "evidence": "without trying to provide an exact analysis ... we may suppose", "note": "원문은 엄격성의 정확한 분석을 하지 않겠다며 'we may suppose'로 서술. 카드는 단정(경미). 세 극단 사례는 원문과 일치"},
+    {"n": 6, "text": "엄격성의 정밀한 해명은 과학자들이 설명과 통일을 평가하는 방식을 거쳐야 하며 공통 비논리적 어휘 요구에서 헴펠과 파이글이 말한 소수의 이론 개념에 의한 통일 이상을 본다(pp.720-721)", "label": "지지됨", "evidence": "The way to a refined account of stringency lies through the notions of explanation and unification", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-22_Kitcher-Unification-2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

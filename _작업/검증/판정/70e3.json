@@ -1,0 +1,15 @@
+{
+  "id": "70e3",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "독일어에서 조동사의 부정사와 분리동사의 접두사는 문장 끝에 놓인다", "label": "부분 지지", "evidence": "der Zug kommt pünktlich an. / Heute kann er seine Eltern besuchen.", "note": "예문만 있고 규칙 서술은 없음. 카드가 일반화(카드도 밝힘)"},
+    {"n": 1, "text": "Heute kann er seine Eltern besuchen, Zuerst muss ich Mathematik und Statistik lernen, Ich möchte jetzt weiter hier studieren, Kannst du mir bei der Auswahl der Kurse helfen이 예이다", "label": "지지됨", "evidence": "Zuerst muss Ich Mathematik und Statistik lernen.", "note": "마지막 문장은 필기에서 'bei Auwahl der Kurse'로 적혀 카드가 고쳐 옮김"},
+    {"n": 2, "text": "낱말을 늘어놓고 문장을 만드는 연습 jetzt, weiter, hier, studieren, möchten도 같은 어순을 낳는다", "label": "지지됨", "evidence": "jetzt, weiter, hier, studieren, möchten", "note": "'같은 어순'은 바로 아래 문장에서 읽은 것"},
+    {"n": 3, "text": "Der Zug kommt pünktlich an, Wie sieht das Zimmer aus, Was habt ihr am Wochenende vor가 분리동사의 예이다", "label": "지지됨", "evidence": "Was habt ihr am Wochenende vor_", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/독일어 03ce7cf2cb0a430987bfae012a0d846d.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

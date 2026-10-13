@@ -1,0 +1,17 @@
+{
+  "id": "70d2",
+  "voice": "문헌",
+  "verdict": "원문없음",
+  "claims": [
+    {"n": 0, "text": "라틴어에서 도시 이름과 domus는 전치사 없이 방향과 출발점을 나타내고 나라 이름에는 ad가 붙는다", "label": "부분 지지", "evidence": "그리스는 ad 붙이고, 베누시아는 뺀다", "note": "필기는 그리스와 베누시아 한 쌍만 적음. 도시·domus·출발점 일반 규칙은 필기에 없음"},
+    {"n": 1, "text": "27.6 풀이 메모는 그리스는 ad를 붙이고 베누시아는 뺀다고 적는다", "label": "지지됨", "evidence": "그리스는 ad 붙이고, 베누시아는 뺀다", "note": ""},
+    {"n": 2, "text": "Romam contendimus와 Cum advenerimus Romam에서도 도시 이름은 대격만으로 도착지를 나타낸다", "label": "원문에 없음", "evidence": "", "note": "문장은 있으나 도시 이름이 대격만으로 도착지를 나타낸다는 설명은 필기에 없음"},
+    {"n": 3, "text": "출발점은 전치사 없는 탈격이어서 Si statim Roma discessero와 prima luce Quintus cum patre domo discessit가 그 예이다", "label": "원문에 없음", "evidence": "", "note": "문장은 있으나 출발점 탈격 규칙은 필기에 없음"},
+    {"n": 4, "text": "domum redibat는 집으로, domi manserunt는 집에서를 뜻한다", "label": "지지됨", "evidence": "domi manent: 그들은 집에서 머문다", "note": "domum redibat는 28.4에 있고 한국어 뜻은 문장 맥락에서 읽음"},
+    {"n": 5, "text": "domi를 처격으로 부르는 것은 필기에 없는 위키 밖 지식이다", "label": "지지됨", "evidence": "필기에 locative/처격 언급 없음", "note": "부재 확인"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/27과 463b437384774cb6987bb0d998bb6244.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/23과 d564da1b1e374a63b6d825c4f3d244bc.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/작문 11f0e7d5ccac4514bcd036b4906c468a.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

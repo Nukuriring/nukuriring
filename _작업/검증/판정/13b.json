@@ -1,0 +1,17 @@
+{
+  "id": "13b",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "헴펠에 따르면 더 포괄적인 법칙 아래로의 포섭은 이해의 폭과 깊이를 함께 늘린다", "label": "부분 지지", "evidence": "usually increases both the breadth and the depth", "note": "원문은 'usually'. 제목과 본문 모두 한정어가 빠져 단정으로 바뀜"},
+    {"n": 1, "text": "과학은 법칙이 표현하는 규칙성에 대해서도 왜를 묻고 대개 더 포괄적인 법칙, 결국 이론 아래 포섭하는 방식으로 답한다", "label": "지지됨", "evidence": "often answers it in basically the same manner", "note": "'대개'로 한정 유지"},
+    {"n": 2, "text": "갈릴레오·케플러 법칙은 뉴턴 법칙의 특수한 귀결이고 뉴턴 법칙은 일반 상대론 아래 포섭하여 설명할 수 있다", "label": "지지됨", "evidence": "may be explained by subsumption under the more comprehensive", "note": ""},
+    {"n": 3, "text": "새 설명 원리가 더 넓은 범위의 현상을 포괄하므로 폭이 늘고, 뉴턴 원리는 낙하, 행성·혜성·인공위성, 진자, 조석을 다룬다(pp.658-659)", "label": "지지됨", "evidence": "the new explanatory principles cover a broader range of phenomena", "note": ""},
+    {"n": 4, "text": "깊이의 증가는 더 진전된 원리에 비추어 원래 경험 법칙이 근사적으로만, 또는 일정한 한계 안에서만 성립한다고 드러나는 데서 보인다", "label": "부분 지지", "evidence": "the original empirical laws are usually seen to hold only approximately", "note": "원문은 'usually seen'. 카드는 '드러나는 데서 보인다'로 한정어 누락"},
+    {"n": 5, "text": "뉴턴 이론에 따르면 갈릴레오 법칙의 g는 엄밀한 상수가 아니고 행성 궤도는 엄밀한 타원이 아니다(p.659)", "label": "지지됨", "evidence": "g ... is not strictly a constant", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-12_Hempel-TwoTypes-1.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

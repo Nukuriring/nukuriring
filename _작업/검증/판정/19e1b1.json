@@ -1,0 +1,16 @@
+{
+  "id": "19e1b1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "스미스의 근접성 이론과 에징턴의 verity 이론은 정도 이론을 두 반론에서 지키려 한다", "label": "지지됨", "evidence": "degree 이론가의 최선의 탈출구", "note": "스미스·에징턴 원문은 읽지 않았고 Claude가 소개한 내용에 대한 판정(카드도 밝힘)"},
+    {"n": 1, "text": "스미스(N.J.J. Smith 2008)의 근접성 접근에 따르면 우리가 받아들이는 것은 순서적·근접적 구조뿐이며, 0.5 같은 특정 수는 섭씨나 화씨처럼 표상의 인공물이다", "label": "지지됨", "evidence": "0.5라는 숫자는 섭씨/화씨처럼 표상의 artifact", "note": ""},
+    {"n": 2, "text": "이 처리는 인위적 정밀성 반론을 무디게 한다", "label": "지지됨", "evidence": "precision 반론을 무디게 합니다", "note": ""},
+    {"n": 3, "text": "에징턴의 verity 접근은 정도를 보존하되 확률처럼 비진리 함수적으로 다루며, P(A∧¬A)=0이 P(A)=0.5와 양립하므로 파인의 반론을 피한다", "label": "지지됨", "evidence": "P(A∧¬A)=0이 P(A)=0.5와 양립하므로 Fine을 피합니다", "note": ""},
+    {"n": 4, "text": "스미스의 길은 비교 구조가 여전히 전순서인가라는 물음을 다시 받고, 에징턴의 길은 정도 이론의 원래 매력이던 진리 함수성을 포기한다", "label": "지지됨", "evidence": "후자는 truth-functionality라는 … 원래 매력을 포기", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/chats/2026-06-18_Degrees of truth and transitivity problems.md"],
+  "sources_missing": ["Smith 2008, Edgington 원문(카드도 미독 명시)"],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

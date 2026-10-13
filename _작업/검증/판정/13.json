@@ -1,0 +1,19 @@
+{
+  "id": "13",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "헴펠은 과학적 설명을 법칙 아래로 피설명항을 연역적으로 포섭하는 논증으로 본다", "label": "지지됨", "evidence": "deductive subsumption of the explanandum", "note": "C1-12 p.658"},
+    {"n": 1, "text": "듀이의 비눗방울 설명을 피설명 사건이 특정 사실과 일반 법칙에 비추어 기대될 만했음을 보이는 논증으로 재구성한다", "label": "지지됨", "evidence": "was to be expected by reason of certain explanatory facts", "note": ""},
+    {"n": 2, "text": "C₁…Cₖ와 L₁…Lᵣ가 설명항, E가 피설명항이다(도식 (D), pp.657-658)", "label": "지지됨", "evidence": "jointly, these statements ... form the explanans", "note": ""},
+    {"n": 3, "text": "연역-법칙적 설명이라 부르는 이유는 피설명항을 법칙 성격의 원리 아래 연역적으로 포섭하기 때문이다", "label": "지지됨", "evidence": "amounts to a deductive subsumption", "note": ""},
+    {"n": 4, "text": "왜 그 사건이 일어났느냐는 물음에, C₁…Cₖ 상황에서 법칙 L₁…Lᵣ에 따라 생겨났음을 보여 답한다", "label": "지지됨", "evidence": "showing that the event resulted from the particular circumstances", "note": ""},
+    {"n": 5, "text": "포괄 법칙 모형 또는 연역 모형이라고도 불리며 앞 이름은 드레이가 붙였다(주 2)", "label": "지지됨", "evidence": "The suggestive term 'covering law model' is W. Dray's", "note": "주석 파일 주 2"},
+    {"n": 6, "text": "거울상, 무지개, 숟가락이 꺾여 보이는 현상은 반사와 굴절 법칙 아래, 낙하와 행성 운동의 일부 측면은 갈릴레오와 케플러 법칙 아래 포섭된다(p.658)", "label": "지지됨", "evidence": "certain aspects of free fall and of planetary motion", "note": ""},
+    {"n": 7, "text": "법칙이 피설명 사건을 설명항의 특정 조건과 이어 주며 이것이 그 조건에 설명 요인의 지위를 부여한다(p.660)", "label": "지지됨", "evidence": "this is what confers upon the latter the status of explanatory", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-12_Hempel-TwoTypes-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Hempel-TwoTypes_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

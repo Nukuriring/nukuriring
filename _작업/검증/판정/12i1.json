@@ -1,0 +1,20 @@
+{
+  "id": "12i1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "라우든에 따르면 일관성 같은 규칙은 모호하지 않으므로 모호성 논증은 실패한다", "label": "지지됨", "evidence": "C1-10: without substantial imprecision", "note": ""},
+    {"n": 1, "text": "쿤은 공유 기준이 모호해서 같은 기준을 지지하는 과학자들도 구체 사례에서 다르게 적용할 수 있고, 그래서 모든 선택에 주관적 요인이 섞인다고 결론짓는다", "label": "지지됨", "evidence": "C1-10: admixture of objective and subj", "note": ""},
+    {"n": 2, "text": "라우든은 이 결론이 과학자마다 이론 선호의 이유가 다르다는 급진적 개인주의를 함축한다고 지적한다", "label": "지지됨", "evidence": "C1-10: radically individualistic position", "note": ""},
+    {"n": 3, "text": "그러면 물리학자들이 왜 아인슈타인 이론을 뉴턴 이론보다 낫다고 보는지 묻는 일은 범주 착오가 되고, 각자 다른 해석을 쓰는 과학자들이 어떻게 그렇게 자주 합의하는지가 집단 수준의 거대한 수수께끼로 남는다", "label": "지지됨", "evidence": "C1-10: a gigantic mystery at the collective", "note": ""},
+    {"n": 4, "text": "반박의 열쇠는 쿤의 논제가 공유된 모든 규칙에 적용된다고 주장한다는 점이다", "label": "지지됨", "evidence": "C1-10: not just to a selected few", "note": ""},
+    {"n": 5, "text": "라우든은 단순성이 실제로 모호하다고 인정하면서, 모호하지 않은 규칙 하나를 보이면 논제가 무너진다고 본다", "label": "지지됨", "evidence": "C1-10: need only produce a methodological", "note": ""},
+    {"n": 6, "text": "내적 일관성과 수용된 이론과의 일관성은 분명한 개념이고, 쿤 자신도 일관성 기준이 'spoke unequivocally for the geocentric tradition'이라고 썼다", "label": "지지됨", "evidence": "C1-10: spoke unequivocally for the geocentric", "note": "인용문 일치(C1-04 원문과도 일치)"},
+    {"n": 7, "text": "라우든은 'What is ambiguous about the notion of consistency?'라고 묻는다 (2판 p. 134)", "label": "지지됨", "evidence": "C1-10 p.134: What is ambiguous about", "note": "인용문과 쪽수 일치"},
+    {"n": 8, "text": "연역적 닫힘, 통제 실험, 발견자에게 미지였던 결과의 예측 같은 규칙도 해석이 크게 갈리지 않았다", "label": "지지됨", "evidence": "C1-10: not differed widely in their constr", "note": ""}
+  ],
+  "sources_used": ["문헌/@Laudan1984 Dissecting the Holist Picture of Scientific Change.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-10_Laudan-KCM-1.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

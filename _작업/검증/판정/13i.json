@@ -1,0 +1,18 @@
+{
+  "id": "13i",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "키처는 설명을 믿음의 통일로 보는 경험론의 비공식 견해를 발전시킨다", "label": "지지됨", "evidence": "This unofficial view, which regards explanation as unification", "note": "C1-21 pp.711-712"},
+    {"n": 1, "text": "헴펠의 포괄 법칙 모형이 논리경험주의의 공식 이론이었으며 이제 곤경에 처했다(p.711)", "label": "지지됨", "evidence": "the model has fallen on hard times", "note": ""},
+    {"n": 2, "text": "공식 모형 뒤에 설명을 통일로 보는 비공식 견해가 있었고, 헴펠은 1966년에 체계적 통일로 객관적 통찰을 준다고 썼다", "label": "지지됨", "evidence": "achieved by a systematic unification", "note": "Hempel 1966, p.83 인용"},
+    {"n": 3, "text": "설명 이론은 과학이 이해를 증진하는 방식을 보이고 과거·현재 과학의 논쟁을 판정하게 해야 하며, 포괄 법칙 모형은 비설명적 도출을 많이 허용할 만큼 관대해 어느 요구도 충족하지 못한다(p.712)", "label": "지지됨", "evidence": "The covering law model satisfies neither of these desiderata", "note": ""},
+    {"n": 4, "text": "아킨슈타인을 따라 설명을 명제와 행위 유형의 순서쌍으로 보고 설명이 논증이라는 존재론적 논제는 받아들이지 않는다(p.713)", "label": "지지됨", "evidence": "I shall not adopt the ontological thesis that explanations are arguments", "note": ""},
+    {"n": 5, "text": "설명 행위는 과학이 공급하는 논증에 기대므로 과학적 논증이 설명 행위의 기반이 되려면 어떤 특징을 가져야 하는지를 물음으로 삼는다", "label": "지지됨", "evidence": "What features should a scientific argument have", "note": ""},
+    {"n": 6, "text": "과학은 설명 창고(explanatory store)를 제공하며 분석 대상은 수용 문장 집합 K에 대한 E(K)이고, 비공식 견해의 답은 E(K)가 K를 가장 잘 통일하는 논증 집합이라는 것이다(pp.714-715)", "label": "지지됨", "evidence": "E(K) is the set of arguments which best unifies K", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-21_Kitcher-Unification-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Kitcher-Unification_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

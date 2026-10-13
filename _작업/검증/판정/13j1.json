@@ -1,0 +1,19 @@
+{
+  "id": "13j1",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "우드워드에 따르면 개입 아래의 반사실적 의존만이 인과와 설명에 관련된다", "label": "지지됨", "evidence": "the sorts of counterfactuals that matter ... are just such counterfactuals", "note": "C1-19 p.741"},
+    {"n": 1, "text": "경사면 블록 설명은 경사각이나 g를 바꾸면 가속도가 달라지고 질량 m을 바꾸면 달라지지 않는다는 반사실적 의존의 패턴을 보여 이해를 준다(pp.739-740)", "label": "지지됨", "evidence": "changing the value of m will make no difference", "note": ""},
+    {"n": 2, "text": "모든 반사실적 의존이 인과관계에 대응하지는 않는다. 대기압이 공통 원인일 때 기압계 눈금과 폭풍은 의존하지만 B는 S의 원인이 아니다(p.740)", "label": "지지됨", "evidence": "not every case of counterfactual dependence corresponds to a causal", "note": ""},
+    {"n": 3, "text": "Y와 관련된 X에 대한 개입은 Y의 변화가 X 값의 변화를 통해서만 생기도록 X를 바꾸는 일이며 인간 행위자 개념 없이 이상적 실험 조작의 조건을 포착하려는 개념이다(pp.740-741)", "label": "지지됨", "evidence": "non-anthropomorphic language that makes no reference to notions like human agency", "note": ""},
+    {"n": 4, "text": "A와 인과적·확률적으로 독립인 과정으로 B를 정하면 S는 바뀌지 않을 것이고 이것이 B가 S의 원인이 아닌 이유이다", "label": "지지됨", "evidence": "no intervention on B that will change the value of S", "note": ""},
+    {"n": 5, "text": "대략 말해 X가 Y의 원인이거나 인과 설명에 나타날 필요충분조건은 어떤 배경 상황에서 X에 대한 어떤 개입 아래 Y 값이 바뀐다는 것이다(p.741)", "label": "지지됨", "evidence": "as a rough approximation, a necessary and sufficient condition", "note": "'대략 말해' 유지"},
+    {"n": 6, "text": "개입적 반사실문과 비개입적 반사실문의 차이는 루이스의 비역행·역행 반사실문의 차이에 대략 대응하지만 판단과 기본 동기에서 루이스와 다르다고 밝힌다", "label": "지지됨", "evidence": "this correspondence is only rough", "note": ""},
+    {"n": 7, "text": "커드와 커버는 이 생각을 개입의 정의 (IV)와 인과의 정의 (M)으로 정리하고 흄의 『탐구』의 셋째 반사실적 정의와 가깝다고 지적한다(pp.794-795)", "label": "부분 지지", "evidence": "In the simplest case ... something close to the idea underlying", "note": "원문은 값이 '일어남/안 일어남'인 가장 단순한 경우에 한해 흄의 셋째 정의와 가깝다고 함. 카드는 이 조건을 뺌(경미). (IV),(M) 내용은 일치"}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-19_Woodward-Manipulability-2.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1H-13_CC해설-6장-7.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

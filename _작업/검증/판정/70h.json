@@ -1,0 +1,16 @@
+{
+  "id": "70h",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "그리스어 조건문은 단순, 일반, 반사실, 미래의 네 유형이며 법과 시제의 조합이 유형을 정한다", "label": "부분 지지", "evidence": "네가지 타입 / 이 조합에 의해서 종류가 결정되기 때문에", "note": "네 유형은 맞음. '조합이 종류를 결정한다'는 필기가 일반 조건문에 대해서만 말함"},
+    {"n": 1, "text": "단순 조건문은 현재나 과거의 특정한 행위를 묘사하고 조건절의 행위가 실제로 일어났는지에 중립이다", "label": "지지됨", "evidence": "발생했는지…완전히 중립적이다", "note": "원문은 '일반적으로'를 붙임. 카드는 단정이지만 큰 차이는 아님"},
+    {"n": 2, "text": "전건과 후건에 현재나 과거(aorist, imperfect, pluperfect) 직설법을 둔다", "label": "지지됨", "evidence": "past: aorist, imperfective, pluperfect 직설법", "note": ""},
+    {"n": 3, "text": "표에 따르면 ει와 현재 직설법에는 현재 직설법이, ει와 과거 직설법에는 과거 직설법이 이어지고 현재와 과거가 엇갈리는 혼합형도 있다", "label": "지지됨", "evidence": "Mixed simple: εί+past → pres. / εί+pres → past", "note": "표 이미지"},
+    {"n": 4, "text": "표의 각주는 과거에 aorist, imperfect, pluperfect가 모두 드는지에 물음표를 달았다", "label": "지지됨", "evidence": "cf. past: aorist, imperfect, pluperfect (?)", "note": "표 이미지"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/그리스어 문법과 작문/Conditional bc36bdd8384a4e56944a8e41a89f6a4d.md", "Conditional/Untitled.png"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

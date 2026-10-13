@@ -1,0 +1,18 @@
+{
+  "id": "24b8",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "카벨에 따르면 영화 매체의 물질적 기반은 자동적 세계 투사의 연속이다", "label": "지지됨", "evidence": "a succession of automatic world projections", "note": "pp.72–73"},
+    {"n": 1, "text": "카벨은 매체와 매체들을 구별하며, 영화의 매체들은 특정한 사람들과 그들의 목소리와 몸짓의 리듬과 그들이 살던 거리와 방에 고정된 장르와 유형과 개성이고 그것들이 사라지면 할리우드도 끝난다(pp.68–69)", "label": "지지됨", "evidence": "Hollywood is ended", "note": ""},
+    {"n": 2, "text": "평평한 지지체 위의 물감이 회화의 매체들이 기대는 물질적 기반이듯 영화의 매체들이 기대는 기반을 자동적 세계 투사의 연속으로 규정한다", "label": "지지됨", "evidence": "as paint on a flat, delimited support", "note": ""},
+    {"n": 3, "text": "'연속'은 묘사된 운동과 프레임의 흐름과 컷의 병치를, '자동'은 만들 때 사람 손이 없고 상영할 때 사람이 없다는 기계적 사실을, '세계'는 사진과 주제의 존재론적 사실을, '투사'는 보는 일의 현상학적 사실과 카메라 운동의 연속성을 가리킨다(p.73)", "label": "지지됨", "evidence": "Automatic emphasizes the mechanical fact", "note": ""},
+    {"n": 4, "text": "14장에서 카벨은 매체를 물리적 기반과 같게 놓는 답을 물리친다: 음악의 매체가 소리 그 자체라면 모든 소리가 음악이 될 것이다(p.106)", "label": "지지됨", "evidence": "all sound is music", "note": ""},
+    {"n": 5, "text": "그는 회화의 매체를 물감을 다루어 회화로 받아들이는 대상을 만드는 방식으로 규정하며 'Only an art can define its media.'라고 쓴다(p.107)", "label": "지지됨", "evidence": "Only an art can define its media.", "note": ""},
+    {"n": 6, "text": "모더니즘 예술은 자기 물리적 기반을 탐구하면서 예술로서의 자기 존재가 물리적으로 보장되지 않는다는 사실을 다시 발견한다(p.107)", "label": "지지됨", "evidence": "not physically assured", "note": ""}
+  ],
+  "sources_used": ["_원자료/로컬/Integrating Transparency/KB_Cavell_The-World-Viewed.md (Ch 11, Ch 14)"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "66c5",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "베크만 외는 개념을 개념적 습관에 의존하는 인지 과정으로 보고 단어를 경험을 구조화하는 음성적 제스처로 이해한다", "label": "부분 지지", "evidence": "we could consider concepts", "note": "개념 부분은 'we could consider'(볼 수 있다)이며 카드는 '본다'로 단정했다. 단어 부분은 메를로퐁티를 따라 음성적 제스처로 이해하는 것이라 지지."},
+    {"n": 1, "text": "저자들은 메를로퐁티를 따라 단어를 몸과 성대로 생성되는 음성적 제스처로 본다", "label": "지지됨", "evidence": "a word is a 'phonetic gesture'", "note": ""},
+    {"n": 2, "text": "단어는 지각적 습관과 마찬가지로 경험의 특정 구조화를 낳는다(메를로퐁티 1945, p. 199)", "label": "지지됨", "evidence": "structuring of experience", "note": ""},
+    {"n": 3, "text": "개념이 단어로 굳어지면 의사소통이 가능해지고 같은 움직임에서 몸이 새 행동에 열리며 그 행동을 외부 관찰자가 이해할 수 있게 된다", "label": "지지됨", "evidence": "concepts become communicable", "note": ""},
+    {"n": 4, "text": "저자들은 지각과 상상에서와 같이 개념도 개념적 습관에 의존하는 인지 과정으로 본다", "label": "부분 지지", "evidence": "we could consider concepts", "note": "원문은 'we could consider'로 가능성의 제안이다. 카드는 '본다'로 단정했다."},
+    {"n": 5, "text": "이 명제는 신경망 기제에 대응한다. 신경망의 추론은 인지 과정으로서의 개념에 해당하고 훈련은 개념적 습관의 형성에 해당한다", "label": "부분 지지", "evidence": "can be mapped to ANN", "note": "원문은 'can be mapped'와 'can stand for'(대응시킬 수 있다)이다. 카드는 '대응한다', '해당한다'로 단정했다."},
+    {"n": 6, "text": "상상 속 이미지처럼 개념도 지각적이거나 상상적인 다른 습관의 퇴적된 경로를 재활용할 수 있다", "label": "지지됨", "evidence": "might also reemploy some", "note": "한정어 '할 수 있다' 유지."}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/과학철학 1bd97cdd867e802da375fae8eae0a223.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

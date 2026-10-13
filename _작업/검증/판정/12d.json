@@ -1,0 +1,20 @@
+{
+  "id": "12d",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "쿤은 다섯 기준을 이론 선택의 공유 기반으로 인정하고 그 모호성과 충돌을 지적한다", "label": "지지됨", "evidence": "C1-04: the shared basis for theory choice", "note": ""},
+    {"n": 1, "text": "1973년 강연에 바탕을 둔 1977년 논문이다", "label": "지지됨", "evidence": "C1 OVJTC 주석: 30 November 1973", "note": "출처 표기 절"},
+    {"n": 2, "text": "라카토슈 등이 『구조』가 이론 선택을 'a matter for mob psychology'로 만든다고 비판한 것을 쿤은 'total misunderstanding'이라 부르고 자기 견해를 길게 밝힌다 (pp. 94–95)", "label": "지지됨", "evidence": "C1-04: total misunderstanding", "note": "라카토슈 귀속은 주 3으로 확인"},
+    {"n": 3, "text": "좋은 이론의 특징으로 정확성, 일관성, 범위, 단순성, 다산성을 고르고 이들이 'shared basis'를 이룬다는 전통적 견해에 전적으로 동의한다 (p. 95)", "label": "지지됨", "evidence": "C1-04: I agree entirely with the traditional", "note": ""},
+    {"n": 4, "text": "두 어려움: 개별 기준은 부정확해서 개인들이 정당하게 다를 수 있고, 함께 쓰면 서로 충돌한다", "label": "지지됨", "evidence": "C1-04: individuals may legitimately differ", "note": ""},
+    {"n": 5, "text": "코페르니쿠스 체계는 케플러가 고치기 전까지 프톨레마이오스 체계보다 정확하지 않았고, 산소 이론은 반응의 무게 관계를, 플로지스톤 이론은 금속들의 유사성을 더 잘 설명했다", "label": "지지됨", "evidence": "C1-04: not more accurate than Ptolemy", "note": ""},
+    {"n": 6, "text": "일관성은 정지한 지구를 전제하는 당시 물리학과 맞는 지구 중심설을 분명하게 지지했다", "label": "지지됨", "evidence": "C1-04: spoke unequivocally", "note": ""},
+    {"n": 7, "text": "단순성은 행성 위치 계산 노동으로 재면 두 체계가 같았고, 정성적 특징을 설명하는 수학적 장치로 재면 코페르니쿠스 쪽이었다", "label": "지지됨", "evidence": "C1-04: substantially equivalent", "note": "원문 'substantially equivalent'를 '같았고'로 옮김, 경미"},
+    {"n": 8, "text": "쿤은 이런 어려움이 20세기의 이론 선택에서도 전형적이라고 단언한다", "label": "지지됨", "evidence": "C1-04: I shall here simply assert", "note": ""}
+  ],
+  "sources_used": ["문헌/@Kuhn1977 Objectivity, Value Judgment, and Theory Choice.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-04_Kuhn-OVJTC-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Kuhn-OVJTC_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

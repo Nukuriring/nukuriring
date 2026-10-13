@@ -1,0 +1,17 @@
+{
+  "id": "19e1b",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "파인에 따르면 진리 함수적 정도 계산은 반그림자 연결을 깨뜨린다", "label": "지지됨", "evidence": "순서를 진리값으로 쓰고 compound를 그 순서로 계산하는 순간 논리적 관계가 깨집니다", "note": "파인 원문은 읽지 않았고 Claude가 전한 반론에 대한 판정(카드도 그렇게 밝힘)"},
+    {"n": 1, "text": "순서를 진리치로 쓰고 복합문을 최솟값과 최댓값으로 계산하면 논리적 관계가 깨진다", "label": "지지됨", "evidence": "연결사를 함수적으로(min/max) 계산하면", "note": ""},
+    {"n": 2, "text": "진리도 0.5인 A에 대해 t(A∧¬A)=min(0.5, 0.5)=0.5이므로 모순이 반쯤 참이 된다", "label": "지지됨", "evidence": "t(A∧¬A)=min(0.5,0.5)=0.5가 되어 모순이 반쯤 참", "note": ""},
+    {"n": 3, "text": "경계 색이 빨강으로 0.5, 분홍으로 0.5만큼 참이면 '빨갛고 분홍이다'도 0.5가 되는데 직관적으로 이 문장은 거짓이어야 한다", "label": "지지됨", "evidence": "직관적으론 거짓이어야 하죠", "note": ""},
+    {"n": 4, "text": "우카시에비치 논리는 부정 사례에서 t(A∧¬A)=0을 얻어 첫 문제를 피하지만, 서로 다른 술어 사이의 반그림자 의존은 진리 함수적으로 살리지 못한다", "label": "지지됨", "evidence": "penumbral dependency까지는 truth-functional하게는 못 살립니다", "note": ""},
+    {"n": 5, "text": "Claude는 이 반론이 역사적으로 초평가주의가 정도 이론을 누른 핵심 근거였다고 보는데, 초평가주의는 정밀화 위에서 양화하여 고전 논리와 반그림자 연결을 함께 보존하기 때문이다", "label": "지지됨", "evidence": "역사적으로 supervaluationism이 degree theory를 누른 핵심 카드", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/chats/2026-06-18_Degrees of truth and transitivity problems.md"],
+  "sources_missing": ["Fine 1975 원문(카드도 미독 명시)"],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

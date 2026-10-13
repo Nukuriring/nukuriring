@@ -1,0 +1,19 @@
+{
+  "id": "13i4",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "키처에 따르면 설명 창고는 적은 수의 엄격한 패턴으로 가장 많은 결론을 낳는 체계화이다", "label": "부분 지지", "evidence": "This proposal is along the right lines, but ... too simple", "note": "원문은 '적은 수의 엄격한 패턴으로 많은 결론'을 처음 제안으로 내놓고 'too simple'이라 하며 핵심 패턴 공유 등을 추가함. 제목은 처음 제안만 담았고 그 불충분성을 빼 단정(본문은 핵심 패턴을 서술함)"},
+    {"n": 1, "text": "K의 어떤 원소를 다른 원소에서 도출하는 논증 집합이 체계화이고 E(K)는 K의 최선의 체계화이다(p.721)", "label": "지지됨", "evidence": "We may then think of E(K) as the best systematization of K", "note": ""},
+    {"n": 2, "text": "K를 먼저 수용하고 나서 E(K)를 채택한다는 시간 순서를 함축하지 않으며 설명력의 약속은 믿음의 수정에 관여한다", "label": "지지됨", "evidence": "the promise of explanatory power enters into the modification of our beliefs", "note": ""},
+    {"n": 3, "text": "후보는 모든 단계가 기본적 타당 추론 규칙을 따르고 모든 전제가 K에 속하는 수용 가능한 논증 집합으로 한정된다(p.721)", "label": "지지됨", "evidence": "acceptable relative to K", "note": ""},
+    {"n": 4, "text": "완전한 생성 집합을 고려하며 완전성 요구는 패턴을 선택적으로 쓰는 설명적 일탈자를 막는다. 통일력이 가장 큰 생성 집합이 기저가 된다", "label": "지지됨", "evidence": "to debar explanatory deviants who use patterns selectively", "note": ""},
+    {"n": 5, "text": "처음 제안에서 통일력은 결론 집합의 크기와 패턴의 엄격성에 비례하고 기저의 패턴 수에 반비례한다(pp.721-722)", "label": "지지됨", "evidence": "varies inversely with the number of members of B", "note": ""},
+    {"n": 6, "text": "진자의 주기나 45° 최대 사거리처럼 운동 방정식 계산 뒤 서로 다른 추가 도출이 붙는 경우 기저의 패턴들이 공통 핵심 패턴을 공유할 때 통일력이 커진다(pp.722-723)", "label": "지지됨", "evidence": "The unifying power of a basis is obviously increased", "note": ""},
+    {"n": 7, "text": "키처는 기준들의 정확한 균형을 정하지 않고 두 귀결 (A), (B)만 쓴다(pp.723-724)", "label": "지지됨", "evidence": "I shall make no attempt here to specify precisely", "note": "(A),(B) 내용도 원문과 일치"}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-22_Kitcher-Unification-2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "70e9",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "독일어 all-은 정관사처럼 변하고 중성 alles는 사물을, 복수 alle는 사람을 가리킨다", "label": "지지됨", "evidence": "복수형 alle는 사람, 복수 정관사 변화", "note": ""},
+    {"n": 1, "text": "all-이 형용사처럼 쓰일 때는 뒤의 명사에 따라 정관사 어미 변화를 한다", "label": "지지됨", "evidence": "형용사처럼 쓰이면: 뒤 명사에 따라서 정관사 변화", "note": ""},
+    {"n": 2, "text": "표는 남성 aller·alles·allem·allen, 여성 alle·aller·aller·alle, 중성 alles·alles·allem·alles, 복수 alle·aller·allen·alle이다", "label": "지지됨", "evidence": "alle aller aller alle", "note": "성별 표지는 필기에 없고 줄 순서에서 읽음"},
+    {"n": 3, "text": "명사 없이 쓰는 중성 alles는 사물을 뜻하고 중성 정관사의 변화를 따른다", "label": "지지됨", "evidence": "중성 alles - 그냥쓰면 사물, 중성 정관사 변화", "note": ""},
+    {"n": 4, "text": "복수 alle는 사람을 뜻하고 복수 정관사의 변화를 따른다", "label": "지지됨", "evidence": "복수형 alle는 사람, 복수 정관사 변화", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/독일어 03ce7cf2cb0a430987bfae012a0d846d.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

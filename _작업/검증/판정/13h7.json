@@ -1,0 +1,19 @@
+{
+  "id": "13h7",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "레일턴은 설명의 강함을 믿음의 근거와 구별해 확률적 설명을 예측과 귀납에서 떼어 놓는다", "label": "지지됨", "evidence": "Keeping (i)-(iv) distinct, the D-N-P model enables us", "note": "C1-17 pp.707-709. 원문은 연결이 'looser'라고 하여 완전 분리는 아님(카드 제목은 '떼어 놓는다')"},
+    {"n": 1, "text": "헴펠은 X가 적어도 상당한 확실성으로 기대될 만했음을 보이는 정보를 설명 조건으로 삼았고 낮은 확률의 사실을 다루는 D-N-P 설명은 모두 이를 어긴다(p.707)", "label": "지지됨", "evidence": "all those covering less than highly probable facts—violate this condition", "note": ""},
+    {"n": 2, "text": "레일턴은 이 조건을 지키려고 낮은 확률의 설명을 버리는 쪽이 더 나쁘다고 본다", "label": "지지됨", "evidence": "to abide by this condition and renounce explanations ... I take to be worse", "note": ""},
+    {"n": 3, "text": "D-N-P 설명도 물리적 확률이 존재한다는 엄격한 예측 하나를 내놓으며 그 확률을 잇는 법칙이 예측과 통제를 허용한다(p.707)", "label": "지지됨", "evidence": "perfectly strict, to the effect that a certain physical probability exists", "note": ""},
+    {"n": 4, "text": "확률 귀속을 장기 상대 빈도의 예측으로 해석하지 않으면 경험적 내용이 없다는 반론에는, 그런 요구가 장기적으로 비개연적인 일이 없기를 요구하는 것이어서 그 자체가 비개연적이라고 답한다(pp.707-708)", "label": "지지됨", "evidence": "a demand that nothing improbable show up in the long run", "note": ""},
+    {"n": 5, "text": "확률적 설명을 가장 개연적인 가설을 찾는 탐정 작업으로 보는 견해는 인식적 확률과 객관적 확률, 귀납과 설명을 혼동한다", "label": "지지됨", "evidence": "confuses epistemic with objective probability, and induction with explanation", "note": ""},
+    {"n": 6, "text": "레일턴은 (i)-(iv)를 구별하고 (iii)과 (iv)는 류머티즘 같은 증상에 기댈 수 있어 설명과 무관할 수 있다고 지적한다(pp.708-709)", "label": "지지됨", "evidence": "need have nothing to do with explanation, and may be based on symptoms", "note": ""},
+    {"n": 7, "text": "설명에서 귀납이 할 일은 참이고 관련된 설명항을 찾아 증거를 모으는 것이며 피설명항의 높은 확률은 'a red herring'이다(p.709)", "label": "지지됨", "evidence": "a red herring, distracting attention from the real issue", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-17_Railton-DNP-3.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

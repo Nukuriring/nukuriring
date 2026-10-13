@@ -1,0 +1,21 @@
+{
+  "id": "12c",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "쿤에 따르면 패러다임은 지도와 함께 지도 제작의 지침도 제공한다", "label": "지지됨", "evidence": "C1-03 p.92: directions essential for map", "note": ""},
+    {"n": 1, "text": "연속하는 패러다임은 실질적 차이 외에 비실질적 차이를 가진다", "label": "지지됨", "evidence": "C1-03: differ in more than substance", "note": ""},
+    {"n": 2, "text": "패러다임은 방법, 문제 영역, 해결 기준의 원천이므로 새 패러다임을 받아들이면 해당 과학이 재정의된다", "label": "부분 지지", "evidence": "C1-03: often necessitates a redefinition", "note": "원문은 'the reception of a new paradigm often necessitates a redefinition'으로 'often'(흔히)이 붙어 있는데 카드는 단정으로 씀"},
+    {"n": 3, "text": "17세기 기계론적 미립자 철학은 스콜라적 본성 설명을 동어반복처럼 보이게 했다", "label": "지지됨", "evidence": "C1-03: mere tautological word-play", "note": ""},
+    {"n": 4, "text": "뉴턴의 중력은 그 기준에서 은밀한 성질(occult quality)이었다", "label": "지지됨", "evidence": "C1-03: was an occult quality", "note": ""},
+    {"n": 5, "text": "중력의 기계적 설명 시도와 뉴턴 이론 거부 시도가 모두 이기지 못한 뒤 18세기 중반 과학자들은 중력이 물질에 내재한다는 해석을 받아들였다", "label": "지지됨", "evidence": "C1-03: neither of these views ultimately", "note": ""},
+    {"n": 6, "text": "이 변화는 전기의 원격 작용 연구와 화학 친화력 연구를 낳았다", "label": "지지됨", "evidence": "C1-03: chemical affinities and replacement", "note": ""},
+    {"n": 7, "text": "쿤은 이 사례들이 패러다임의 인지적 기능에서 규범적 기능으로 강조점을 옮긴다고 말한다", "label": "지지됨", "evidence": "C1-03: from the cognitive to the normative", "note": ""},
+    {"n": 8, "text": "패러다임은 존재자의 지도와 함께 'some of the directions essential for map-making'을 준다 (p. 92)", "label": "지지됨", "evidence": "C1-03 p.92: directions essential for map-making", "note": "인용문 일치"},
+    {"n": 9, "text": "과학자는 패러다임을 배울 때 이론, 방법, 기준을 'usually in an inextricable mixture'로 함께 얻는다 (p. 92)", "label": "지지됨", "evidence": "C1-03 p.92: usually, in an inextricable mixture", "note": ""}
+  ],
+  "sources_used": ["문헌/@Kuhn1962 The Nature and Necessity of Scientific Revolutions.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-03_Kuhn-SSR9-3.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

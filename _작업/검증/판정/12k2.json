@@ -1,0 +1,19 @@
+{
+  "id": "12k2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "롱기노는 배경 가정을 겨누는 개념적 비판을 객관성의 열쇠로 본다", "label": "지지됨", "evidence": "C1-25: crucial for the problem of objectivity", "note": ""},
+    {"n": 1, "text": "롱기노는 가설에 대한 비판을 증거적 비판과 개념적 비판으로 나눈다", "label": "지지됨", "evidence": "C1-25: evidential and conceptual criticism", "note": ""},
+    {"n": 2, "text": "증거적 비판은 실험과 관찰의 정확성, 범위, 수행 조건과 그 분석·보고를 문제 삼는다", "label": "지지됨", "evidence": "C1-25: accuracy, extent, and conditions", "note": ""},
+    {"n": 3, "text": "개념적 비판에는 가설의 개념적 건전성을 묻는 비판(아인슈타인의 양자론 비판), 수용된 이론과의 일관성을 묻는 비판(지동설 거부, 밀리컨의 아전자 가설 거부), 증거가 가설과 관련되는지를 묻는 비판이 있다", "label": "지지됨", "evidence": "C1-25: At least three sorts can be", "note": ""},
+    {"n": 4, "text": "셋째 비판의 예로 상대론자들은 에테르의 필요를 부정해 마이컬슨-몰리 실험이 로런츠-피츠제럴드 수축 가설과 무관하다고 볼 수 있었고, 로웰 등은 수컷 우위 가정을 비판해 특정 관찰이 지배 위계 주장과 관련되는지를 문제 삼았다", "label": "지지됨", "evidence": "C1-25: could deny the relevance of the Mich", "note": ""},
+    {"n": 5, "text": "롱기노는 사태를 증거로 만드는 배경 가정을 겨누는 이 셋째 비판이 객관성 문제에 결정적이라고 본다", "label": "지지됨", "evidence": "C1-25: crucial for the problem of objectivity", "note": ""},
+    {"n": 6, "text": "비판은 주관적 선호를 없애지는 못해도 그 영향을 견제하며, 배경 가정은 비판에 응해 옹호·수정·폐기되므로 비판은 'transformative'하다 (p. 152)", "label": "지지됨", "evidence": "C1-25 p.152: Criticism is thereby transformative", "note": ""},
+    {"n": 7, "text": "관찰 데이터에 근거한다는 특징이 과학을 경험적으로 만드는 특징이고 객관성은 배경 가정을 드러내는 과정에서 나오며, 입증 가능한 증거 관련성이라는 형식적 요구가 특정 연구 프로그램 바깥의 기준으로 작동한다 (pp. 153–154)", "label": "지지됨", "evidence": "C1-25: independent of and external to any", "note": "원문은 'makes possible, even if it cannot guarantee ... objectivity'로 보증은 아니라고 단서를 붙이나 카드의 '나온다'는 허용 범위"}
+  ],
+  "sources_used": ["문헌/@Longino1990 Values and Objectivity.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-25_Longino-2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

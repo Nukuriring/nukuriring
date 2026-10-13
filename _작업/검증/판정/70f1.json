@@ -1,0 +1,16 @@
+{
+  "id": "70f1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "신희극은 정형 인물을 정형 상황에 놓고 합창과 노래와 농담이 빠진 연애 줄거리를 보인다", "label": "지지됨", "evidence": "Stock characters in Stock situation / 코러스, 노래, '농담'들의 부재", "note": ""},
+    {"n": 1, "text": "필기는 구희극과 신희극을 구분하며 아리스토파네스가 라틴 희극 작가들이 따른 전범이 아니었다고 적는다", "label": "지지됨", "evidence": "aristophanes가 latin 희극 작가들이 따르는 전범이 아니었다", "note": ""},
+    {"n": 2, "text": "신희극의 특징으로 typical, atopical, polite, apolitical을 적고 코러스, 노래, 농담의 부재를 덧붙인다", "label": "지지됨", "evidence": "typical, atopical, polite, apolitical", "note": ""},
+    {"n": 3, "text": "필기는 stock characters in stock situations 문장을 인용하며 무대는 도시, 인물은 시민 중간계층, 줄거리는 연애물이고 현실적이면서도 현실에서 떨어져 있다고 풀이한다", "label": "지지됨", "evidence": "Its locale was the city, its people the borugeoisie", "note": "필기는 영어 인용을 싣고 풀이는 카드의 번역. bourgeoisie를 시민 중간계층으로 옮김"},
+    {"n": 4, "text": "인용문의 저자는 필기에 적혀 있지 않아 확인이 필요하다", "label": "지지됨", "evidence": "인용문 뒤 저자 표시 없음", "note": "부재 확인"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/Plautus bed91a4de4364ddb9a94ab0fb6a4ae68.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

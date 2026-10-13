@@ -1,0 +1,18 @@
+{
+  "id": "12k1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "롱기노에 따르면 과학 지식은 공동체의 비판적 수정을 거쳐 생산된다", "label": "지지됨", "evidence": "C1-25: critical emendation and modification", "note": ""},
+    {"n": 1, "text": "롱기노는 그린을 따라 과학의 사회성을 세 측면에서 본다: 구성원이 아이디어와 도구를 서로에게 의존하고, 과학자가 되려면 전통과 기법을 이미 그 세계에 사는 사람에게 배워야 하며, 과학은 사회가 그 일을 가치 있게 여겨야 존속한다", "label": "지지됨", "evidence": "C1-25: three aspects of the social character", "note": ""},
+    {"n": 2, "text": "실험은 다른 사람이 변형을 가해 반복하고, 가설과 이론은 정전에 들어가기 전에 비판적으로 검토되고 다시 정식화된다", "label": "지지됨", "evidence": "C1-25: Experiments get repeated with variations", "note": ""},
+    {"n": 3, "text": "동료 심사의 기능은 데이터와 추론을 점검하는 데 그치지 않고 다른 관점을 끌어들여 저자가 관찰과 결론을 달리 생각하게 하는 데 있으며, 출판 뒤의 인용, 사용, 수정도 결정적이다", "label": "지지됨", "evidence": "C1-25: another point of view on the phenomena", "note": "원문은 'whose expression might lead the original author(s) to revise'. 카드는 효과를 기능으로 압축, 경미"},
+    {"n": 4, "text": "이 비판은 과학의 논리적 공공성에 기댄다: 가설과 배경 가정은 원리상 적절한 배경을 지닌 누구에게나 이해 가능하고, 증거 관계에 묶인 사태는 상호주관적으로 확인 가능하다", "label": "지지됨", "evidence": "C1-25: intersubjectively ascertainable", "note": ""},
+    {"n": 5, "text": "이 두 측면은 공통 언어와 지각에서 독립한 대상이라는 전제에서 나오며, 신비 체험이나 감정 표현과 달리 과학적 가설을 비판할 권한을 모두에게 열어 준다", "label": "지지됨", "evidence": "C1-25: accessible to all", "note": ""},
+    {"n": 6, "text": "이 조건은 비판 가능성의 필요조건이지만 충분조건은 아니다 (pp. 148–151)", "label": "지지됨", "evidence": "C1-25: necessary but not sufficient", "note": ""}
+  ],
+  "sources_used": ["문헌/@Longino1990 Values and Objectivity.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-25_Longino-2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

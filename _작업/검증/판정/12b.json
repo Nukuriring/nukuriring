@@ -1,0 +1,20 @@
+{
+  "id": "12b",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "쿤은 상대론에서 뉴턴 역학을 도출하는 논증이 개념의 의미 변화를 감춘다고 본다", "label": "지지됨", "evidence": "C1-02: a revealing logical lacuna", "note": "'감춘다'는 원문 표현이 아니라 도출이 의미 재해석 없이는 성립하지 않는다는 논지의 요약"},
+    {"n": 1, "text": "초기 논리실증주의와 연결된 해석에 따르면 뉴턴 역학은 상대론에서 몇 가지 제한 조건 아래 도출되는 특수 사례이고, 어떤 이론도 자기 특수 사례와 충돌할 수 없다", "label": "지지됨", "evidence": "C1-02: closely associated with early", "note": ""},
+    {"n": 2, "text": "쿤은 이 논증에 논리적 공백이 있다고 본다", "label": "지지됨", "evidence": "C1-02: revealing logical lacuna", "note": ""},
+    {"n": 3, "text": "상대론 법칙에 상대 속도 제한 진술을 더해 뉴턴 법칙과 형식이 같은 진술을 얻어도 변수는 여전히 아인슈타인적 공간·시간·질량을 나타낸다", "label": "지지됨", "evidence": "C1-02: still represent Einsteinian space", "note": ""},
+    {"n": 4, "text": "뉴턴적 질량은 보존되고 아인슈타인적 질량은 에너지와 전환 가능하므로 두 개념은 같은 이름이어도 물리적 지시체가 같지 않다", "label": "지지됨", "evidence": "C1-02: Newtonian mass is conserved", "note": ""},
+    {"n": 5, "text": "변수의 정의를 바꾸지 않으면 도출된 진술은 뉴턴적이지 않고, 바꾸면 통상 의미에서 도출했다고 말할 수 없다", "label": "지지됨", "evidence": "C1-02: Unless we change the definitions", "note": ""},
+    {"n": 6, "text": "이 논증은 뉴턴 법칙이 왜 통했는지 설명하고 운전자가 뉴턴적 우주에 사는 듯 행동하는 것을 정당화한다", "label": "지지됨", "evidence": "C1-02: acting as though he lived", "note": ""},
+    {"n": 7, "text": "극한으로 가는 과정에서 법칙의 형식과 함께 우주를 이루는 근본 구조 요소도 바뀐다", "label": "지지됨", "evidence": "C1-02: fundamental structural elements", "note": ""},
+    {"n": 8, "text": "새 대상이나 개념을 들이지 않은 이 이행이 혁명을 'a displacement of the conceptual network through which scientists view the world'로 특히 분명하게 보여 준다 (p. 87)", "label": "지지됨", "evidence": "C1-02 p.87: a displacement of the conceptual", "note": "인용문 일치"}
+  ],
+  "sources_used": ["문헌/@Kuhn1962 The Nature and Necessity of Scientific Revolutions.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-02_Kuhn-SSR9-2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

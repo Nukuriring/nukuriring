@@ -1,0 +1,18 @@
+{
+  "id": "13h6",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "레일턴은 결정론적 현상의 확률적 설명을 포기하고 미세한 우연의 편재를 받아들인다", "label": "지지됨", "evidence": "if something does not happen by chance, it cannot be explained by chance", "note": "C1-17 pp.706-707; C1H-11 p.782"},
+    {"n": 1, "text": "D-N-P 모형에는 적용 범위가 너무 좁다는 반론과 너무 넓다는 반론이 함께 제기된다", "label": "지지됨", "evidence": "too restricted in scope / too broad", "note": ""},
+    {"n": 2, "text": "도박 장치, 고전 열역학, 보험 통계표, 일기 예보의 확률은 초기 조건의 흩어짐에서 나오는 것으로 널리 여겨지므로 D-N-P 설명은 이런 친숙한 대상에 적용되지 않는다(p.706)", "label": "지지됨", "evidence": "It is widely believed that the probabilities associated with", "note": ""},
+    {"n": 3, "text": "레일턴은 이를 받아들이며, 그런 현상에서 인식적·통계적 확률은 도구적 가치가 있지만 피설명항을 생겨나게 하는 데 역할이 없는 확률에 설명을 기댈 수 없다", "label": "지지됨", "evidence": "I do not, however, find this troublesome", "note": ""},
+    {"n": 4, "text": "미세한 확률에 제한을 두지 않으면 거의 모든 설명이 확률적이 된다. 전등 사례의 자발적 베타 붕괴, 혁명 사례의 핵종 분열 운(pp.706-707)", "label": "지지됨", "evidence": "virtually all explanations of particular facts must become probabilistic", "note": ""},
+    {"n": 5, "text": "이 확산이 직관에 반한다고 인정하면서도 현대 과학이 필요한 비확률적 법칙을 주지 못한다고 답하며, 미세한 확률은 사물이 작동하는 방식에 들어 있으므로 설명에 들어가야 한다(p.707)", "label": "지지됨", "evidence": "tiny probabilities appropriately figure in explanations", "note": ""},
+    {"n": 6, "text": "커드와 커버는 얼음이 따뜻한 물에서 녹는 일조차 정확한 성향 값을 계산한 D-N-P 설명을 요구하게 된다고 예시하고, 레일턴의 응답을 반론의 논점을 인정하고 부담을 세계의 복잡성에 돌리는 입장으로 정리한다(pp.781-782)", "label": "지지됨", "evidence": "The fault, if fault there be, lies in the complexity of the world", "note": "C1H-11 §6.6"}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-17_Railton-DNP-3.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1H-11_CC해설-6장-5.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

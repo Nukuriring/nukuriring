@@ -1,0 +1,18 @@
+{
+  "id": "66c",
+  "voice": "문헌",
+  "verdict": "원문없음",
+  "claims": [
+    {"n": 0, "text": "베크만 외에 따르면 메를로퐁티의 corps propre는 일인칭 관점의 기저 구조에서 발견되는 몸이고 생물학적 몸과 구별된다", "label": "지지됨", "evidence": "first-person perspective", "note": "Notion 필기는 저자명을 적지 않는다. 베크만 외라는 귀속은 문헌 노트(영진 님의 기말 논문 참고문헌)에 의존한다."},
+    {"n": 1, "text": "베크만 외는 corps propre를 의식과 세계를 잇는 핵심 요소로 소개한다", "label": "지지됨", "evidence": "의식과 세계를 연결하는 핵심적인 요소", "note": ""},
+    {"n": 2, "text": "이 몸은 객체로 간주된 몸과 달리 내가 존재하며 세계를 살아가고 그것을 통해 세계를 가지는 몸이다", "label": "지지됨", "evidence": "the body I live as", "note": ""},
+    {"n": 3, "text": "이 몸은 일인칭 관점의 기저 구조를 탐구해서 발견되며 주체를 의식하지 못하는 객관적 사고가 발견하는 생물학적 몸과 구별된다", "label": "지지됨", "evidence": "unaware of the subject", "note": ""},
+    {"n": 4, "text": "뇌를 포함한 생물학적 몸이 신경생리학적 원천의 기능 단위라면 corps propre는 현상학적 원천의 기능 단위이다", "label": "지지됨", "evidence": "현상학적 원천의 기능 단위", "note": "필기의 한국어 설명문에 있는 대목이며 영문 인용에는 없다."},
+    {"n": 5, "text": "이 구별이 뒤따르는 논증에서 corps propre의 과정과 인공신경망의 과정을 견주는 출발점이 된다", "label": "원문에 없음", "evidence": "", "note": "필기에 정의와 이후 대응 항목은 있으나 이 구별이 비교의 출발점이 된다는 서술은 없다. 카드의 구조 해석이다."},
+    {"n": 6, "text": "정의 문장의 쪽수는 인용문에 메를로퐁티 1945, p. 214로 표기되어 있다", "label": "지지됨", "evidence": "Merleau-Ponty, 1945, p. 214", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/과학철학 1bd97cdd867e802da375fae8eae0a223.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

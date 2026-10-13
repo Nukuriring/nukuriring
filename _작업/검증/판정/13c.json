@@ -1,0 +1,19 @@
+{
+  "id": "13c",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "헴펠은 확률적 설명을 피설명항에 높은 귀납적 확률을 부여하는 논증으로 본다", "label": "지지됨", "evidence": "its occurrence was to be expected with high logical, or inductive, probability", "note": "p.661"},
+    {"n": 1, "text": "법칙의 일부나 전부가 확률-통계적 형식인 설명이 둘째 기본 유형이다", "label": "지지됨", "evidence": "some or all of these are of probabilistic-statistical form", "note": ""},
+    {"n": 2, "text": "존 도의 건초열 발작이 클로르트리메톤 투여 뒤 가라앉은 일은 높은 통계적 확률의 일반화로만 투여와 이을 수 있다(p.660)", "label": "지지됨", "evidence": "What can be asserted is only a generalization", "note": ""},
+    {"n": 3, "text": "도식 (P)의 이중선은 설명항이 피설명항을 함축하지 않고 높은 가능성만 부여함을 뜻한다(p.661)", "label": "지지됨", "evidence": "confers a high likelihood upon it", "note": ""},
+    {"n": 4, "text": "가능성은 진술 사이의 귀납적 지지의 강도로 카르납의 논리적 확률이며 통계적 확률 p와 구별된다", "label": "지지됨", "evidence": "the logical, or inductive, (in contrast to statistical) probability", "note": ""},
+    {"n": 5, "text": "확률적 설명도 법칙을 전제하지만 논증은 귀납적이고 귀납적 지지의 정도를 허용한다(p.661)", "label": "지지됨", "evidence": "probabilistic explanation admits of degrees", "note": ""},
+    {"n": 6, "text": "모든 법칙이 유한한 증거로만 확증되므로 확률적이라는 반론은 법칙 진술의 주장과 확증 정도를 혼동한 것이며 두 유형은 논리적 형식에 드러나는 주장의 종류로 갈린다(p.662)", "label": "지지됨", "evidence": "confounds a logical issue with an epistemological one", "note": ""},
+    {"n": 7, "text": "1965년 글에서 이 유형을 귀납-통계적(I-S) 설명이라 부르고 연역-통계적(D-S) 설명과 구별한다(p.677)", "label": "지지됨", "evidence": "deductive-nomological and deductive-statistical explanation", "note": "C1-14 p.677. I-S 명칭은 제목과 본문 전반에서 사용, p.677에서 D-S와 대비"}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-12_Hempel-TwoTypes-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-14_Hempel-IS-1.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

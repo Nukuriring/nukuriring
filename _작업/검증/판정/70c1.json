@@ -1,0 +1,18 @@
+{
+  "id": "70c1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "uter는 둘 중 어느 쪽을 묻고 utrum과 an은 두 선택지를 묻는 의문문을 이룬다", "label": "지지됨", "evidence": "utrum - whether + an", "note": ""},
+    {"n": 1, "text": "uter, utra, utrum은 which of two이며 속격은 utrius, 여격은 utri이다", "label": "지지됨", "evidence": "uter, utra, utrum - which of two?", "note": ""},
+    {"n": 2, "text": "uterque, utraque, utrumque는 둘 각각을 뜻하고 필기가 한국어로 '각각 둘 다'라고 덧붙인다", "label": "지지됨", "evidence": "each of two - 각각 둘다", "note": ""},
+    {"n": 3, "text": "29.4의 Alter, qui utraque manu librum ferebat, inquit 'utrum mecum venies ad Lyceum an manebis hic bibens vinum'이 예문이다", "label": "지지됨", "evidence": "utrum mecum venies ad Lyceum an manebis", "note": ""},
+    {"n": 4, "text": "28과 필기는 alter를 alterius, alteri, alterum, alteram, alterum, altero로 변화시킨다", "label": "지지됨", "evidence": "alterius - alteri - alterum alteram alterum - altero", "note": ""},
+    {"n": 5, "text": "28.4의 alter viator와 alter, cuius parentes…는 두 사람 가운데 다른 한 사람을 가리킨다", "label": "지지됨", "evidence": "Alter - alterius : the other", "note": "'두 사람 가운데'는 28.4의 duos viatores 문맥에서 읽은 것"},
+    {"n": 6, "text": "필기는 utra manus를 격에 따라 바꾸는 연습도 적었으나 일부 어미가 어긋나 있다", "label": "지지됨", "evidence": "utri mani - utri manem - utri manu", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어/28과, 29과 1f06840275634417bc8fdf368bd1ecc4.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/라틴어 52786f1e55fe4b2685de3b877427c467.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

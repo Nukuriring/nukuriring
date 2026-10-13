@@ -1,0 +1,20 @@
+{
+  "id": "66c5a",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "파나치오의 개념의 표상적 역할과 추론적 역할은 각각 이미지 분류 모형과 언어 모형으로 연구할 수 있다", "label": "지지됨", "evidence": "would then be of interest", "note": "표상적 역할은 이미지 분류 모형, 추론적 역할은 언어 모델링으로 짝지어짐."},
+    {"n": 1, "text": "표상적 역할은 지각과 관련하여 재인과 재현을 가능하게 하며 빨강 개념은 살아가는 세계에서 대상을 빨갛게 지각하게 하고 상상에서 빨갛게 재현하게 한다", "label": "지지됨", "evidence": "recognition and re-presentation", "note": ""},
+    {"n": 2, "text": "개념과 단어는 경험을 구조화한다", "label": "지지됨", "evidence": "structuring lived experience", "note": ""},
+    {"n": 3, "text": "메를로퐁티는 색 이름 실어증 환자가 같은 색의 물체를 묶지 못했다는 겔프와 골트슈타인의 연구를 분석해 이를 강조한다(1945, p. 197)", "label": "지지됨", "evidence": "Gelb and Goldstein", "note": "카드의 겔프, 골트슈타인은 필기의 겔브, 골드스타인과 음역만 다르다."},
+    {"n": 4, "text": "딥러닝에서는 이미지 분류 모형이 이 역할을 연구하는 데 쓸모 있고, 이미지에 캡션을 달도록 훈련하면 의미론적 분할이 나타난다는 연구(Xu 외 2022)가 경험 구조화의 유사 사례이다", "label": "지지됨", "evidence": "semantic segmentation emerges", "note": ""},
+    {"n": 5, "text": "추론적 역할은 언어와 관련하여 개념에서 추론을 끌어내는 능력으로 고양이는 포유류라는 추론이 그 예이다", "label": "지지됨", "evidence": "a cat is a mammal", "note": ""},
+    {"n": 6, "text": "오리너구리를 본 적이 없어도 포유류임을 알 수 있듯 개념의 추론적 차원만 가질 수도 있다(파나치오 2011, p. 61)", "label": "지지됨", "evidence": "only the inferential dimension", "note": ""},
+    {"n": 7, "text": "이 역할은 일부 단어를 가리고 예측하게 하는 마스크 언어 모델링으로 모형화할 수 있다", "label": "지지됨", "evidence": "masked language modeling", "note": ""},
+    {"n": 8, "text": "일상 개념은 대부분 두 역할을 동시에 수행하며 두 역할에 모두 의존하는 접근이 유망한 결과를 보였다고 저자들은 소개한다", "label": "지지됨", "evidence": "promising results", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/과학철학 1bd97cdd867e802da375fae8eae0a223.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

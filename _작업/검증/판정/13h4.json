@@ -1,0 +1,19 @@
+{
+  "id": "13h4",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "레일턴에 따르면 괄호 속 부언은 확률이 실현되었는지를 알려 확률적 설명을 완성한다", "label": "지지됨", "evidence": "The parenthetic addendum fills this gap in the account", "note": "C1-16 pp.700-701"},
+    {"n": 1, "text": "설명 (3)은 붕괴가 왜 비개연적으로 일어났는지를 설명하며, 일어나야 했다거나 기대될 만했다는 것은 설명하지 않는다(p.700)", "label": "지지됨", "evidence": "does explain why the decay improbably took place", "note": ""},
+    {"n": 2, "text": "(3)은 작지만 확정적인 붕괴의 물리적 가능성이 있었음을 보이고 그 가능성이 우연히 실현되었음을 덧붙인다", "label": "지지됨", "evidence": "by chance, this possibility was realized", "note": ""},
+    {"n": 3, "text": "피설명항을 더 엄격하게 포섭하라는 요구는 한 확률이 다른 확률 대신 실현될 충분한 이유, 곧 chances without chance를 요구하는 일이다", "label": "지지됨", "evidence": "sufficient reason that one probability rather than another be realized", "note": ""},
+    {"n": 4, "text": "사건 이전의 설명 논증이 없다는 바로 그 사정 때문에 가능성이 실현되었는지 알려 주는 부언이 확률적 설명에 자리를 얻는다(pp.700-701)", "label": "지지됨", "evidence": "it is the absence of such an argument that makes a place", "note": ""},
+    {"n": 5, "text": "이 부언은 설명이 언제나 논증이어야 한다고 믿는 사람을 불편하게 하겠지만 가장 일반적인 수준에서 설명은 'accounts, not arguments'이다", "label": "지지됨", "evidence": "explanations are accounts, not arguments", "note": "'may offend' 한정은 '불편하게 하겠지만'으로 유지"},
+    {"n": 6, "text": "부언은 피설명항이 특정 물리적 가능성의 실현으로 생겼다는 인과적 기원 정보를 전하고 확률적 설명을 사슬로 이어 준다. 알파 입자의 사진 건판 흔적은 붕괴가 일어났다는 비확률적 전제가 필요하다", "label": "지지됨", "evidence": "permits us to chain probabilistic explanations together", "note": ""},
+    {"n": 7, "text": "부언을 빼면 특정 붕괴의 확률적 설명은 사라지고 특정 확률이 성립한다는 사실의 D-N 설명만 남는다(p.701)", "label": "지지됨", "evidence": "a D-N explanation of the occurrence of a particular probability", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-16_Railton-DNP-2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

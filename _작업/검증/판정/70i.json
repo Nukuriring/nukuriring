@@ -1,0 +1,15 @@
+{
+  "id": "70i",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "그리스어의 한정적 분사는 관사를 받고 한정적 관계절과 비슷하게 쓰인다", "label": "지지됨", "evidence": "한정적 관계절과 유사하다. 유일하게 관사를 받는", "note": ""},
+    {"n": 1, "text": "필기는 분사의 첫 용법으로 한정적 용법을 들고 관사를 받는 유일한 종류이며 형용사처럼 쓰인다", "label": "지지됨", "evidence": "1. Attributive use / adjectival", "note": ""},
+    {"n": 2, "text": "participle 페이지에는 이 항목 하나만 적혀 있다", "label": "지지됨", "evidence": "participle 페이지 전체 7줄", "note": ""},
+    {"n": 3, "text": "그문작 8번의 τους διωκοντας(추격자들)는 관사와 분사가 붙은 형태로 보이지만 필기에 문법 해설은 없다", "label": "지지됨", "evidence": "퍼수어스: τους διωκοντας", "note": "해설 부재 확인"}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/그리스어 문법과 작문/participle 616d082e794545ae940551f89cf75aa9.md", "_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/그리스어 문법과 작문/그문작 d00fe381141247e8b2914ada07da8ae2.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

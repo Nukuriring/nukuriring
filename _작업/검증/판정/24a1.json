@@ -1,0 +1,20 @@
+{
+  "id": "24a1",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "월튼은 사진을 통해 실제로 보는 일과 그림에서 허구적으로 보는 일을 구별한다", "label": "지지됨", "evidence": "REAL seeing vs FICTIONAL seeing", "note": "KB 4절"},
+    {"n": 1, "text": "초상화로 헨리 8세를 '본다'거나 유니콘 태피스트리로 유니콘을 '본다'는 말의 '본다'는 허구적으로 보는 일을 가리킨다", "label": "지지됨", "evidence": "this 'see' is fictional, not literal", "note": ""},
+    {"n": 2, "text": "유니콘은 없으므로 '본다'라는 낱말의 쓰임만으로는 아무것도 증명되지 않는다", "label": "지지됨", "evidence": "Our use of the word 'see,' by itself, proves nothing.", "note": ""},
+    {"n": 3, "text": "실제로 보는 일은 존재하는 것만을 대상으로 하며, 네스호 괴물 사진이 모형으로 밝혀지면 실제로 본 것이 모형이었다고 말을 바꾼다", "label": "지지됨", "evidence": "requires that what exists be seen", "note": ""},
+    {"n": 4, "text": "괴물 영화 관객은 허구적으로 괴물을, 실제로는 모형을 보며, 현지 촬영이면 네스호 자체도 실제로 본다", "label": "지지됨", "evidence": "they really do see Loch Ness itself", "note": ""},
+    {"n": 5, "text": "그림을 보며 허구적으로 무언가를 볼 때 그 봄은 기본적으로 맨눈으로 대상 앞에서 보는 일로 허구화된다(p.254)", "label": "지지됨", "evidence": "fictional that one sees it with the naked eye", "note": "KB는 'Default rider'로 제시하고 쪽수를 따로 적지 않음(절 전체가 p.254 부근)"},
+    {"n": 6, "text": "월튼은 사진과 영화에 관한 글의 혼란이 실제로 일어나는 특별한 봄과 허구적으로만 일어나는 보통의 봄을 구별하지 못한 데서 온다고 진단한다(p.254)", "label": "지지됨", "evidence": "failure to distinguish (a) ... from (b)", "note": "MASTER DIAGNOSIS [p.254]"},
+    {"n": 7, "text": "둘을 섞으면 관객이 대상 앞에 실제로 있다는 터무니없는 결론에 끌린다(p.254)", "label": "부분 지지", "evidence": "could conceivably tempt one toward the absurdity", "note": "원문은 'could conceivably'(그럴 수도 있다)인데 카드는 '끌린다'로 단정"},
+    {"n": 8, "text": "월튼은 허구성 개념을 믿는 체하기 이론에서 가져온다(각주 14, 「Fearing Fictions」)", "label": "지지됨", "evidence": "fictionality machinery used here is developed", "note": "KB 0절과 각주 14"}
+  ],
+  "sources_used": ["_원자료/로컬/Integrating Transparency/KB_Walton_Transparent-Pictures.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "12k3",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "롱기노에 따르면 공동체는 변형적 비판의 네 조건을 충족하는 정도만큼 객관적이다", "label": "지지됨", "evidence": "C1-26: objective to the degree that they", "note": ""},
+    {"n": 1, "text": "다른 관점의 비판이 객관성에 필요하다는 주장과 비판적 검토가 주관적 선호를 제한한다는 주장이 충돌하지 않느냐는 물음에, 대화적·독백적 상호작용을 연속체의 양 극으로 보아 답한다", "label": "지지됨", "evidence": "C1-26: poles of a continuum", "note": ""},
+    {"n": 2, "text": "객관성은 정도의 문제이며 'A method of inquiry is objective to the degree that it permits transformative criticism' (p. 154)", "label": "지지됨", "evidence": "C1-26 p.154: objective to the degree that it", "note": "인용문과 쪽수 일치"},
+    {"n": 3, "text": "첫째, 증거, 방법, 가정과 추론을 비판하는 인정된 통로가 있어야 하고, 비판 활동이 경력에서 독창적 연구와 비슷한 무게를 받아야 한다", "label": "지지됨", "evidence": "C1-26: equal or nearly equal weight", "note": ""},
+    {"n": 4, "text": "둘째, 비판자가 호소할 수 있는 공유 기준이 있어야 하며, 경험적 적합성만이 모든 연구 프로그램의 필요조건이다", "label": "부분 지지", "evidence": "C1-26: may be temporarily waived", "note": "원문은 'Only the first of these constitutes a necessary condition ... and even this requirement may be temporarily waived and is subject to interpretation'으로 경험적 적합성 요건도 일시적으로 면제될 수 있고 해석에 열려 있다고 한정함. 카드는 이 한정을 뺌"},
+    {"n": 5, "text": "이 기준들은 쿤의 목록과 일부 겹치고 공동체마다 가중치와 해석이 다르며 서로 일관적일 필요가 없다", "label": "지지됨", "evidence": "C1-26: not necessarily consistent", "note": ""},
+    {"n": 6, "text": "셋째, 공동체 전체의 믿음이 비판에 응해 시간에 걸쳐 바뀌어야 하지만 비판받은 개인이 철회할 필요는 없다", "label": "지지됨", "evidence": "C1-26: does not require that individuals", "note": ""},
+    {"n": 7, "text": "넷째, 자격 있는 실천가 사이에 지적 권위가 평등하게 나뉘어야 하며, 롱기노는 1930년대 소련의 라마르크주의와 여성 및 인종적 소수자의 배제를 이 기준의 위반으로 든다", "label": "지지됨", "evidence": "C1-26: Lamarckism in the Soviet Union", "note": ""},
+    {"n": 8, "text": "이 체계에서 개인의 객관성은 비판적 토론의 주고받음에 참여하는 데 있다 (p. 157)", "label": "지지됨", "evidence": "C1-26 p.157: collective give-and-take", "note": ""}
+  ],
+  "sources_used": ["문헌/@Longino1990 Values and Objectivity.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-26_Longino-3.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

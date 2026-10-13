@@ -1,0 +1,19 @@
+{
+  "id": "13h3",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "레일턴의 D-N-P 설명은 법칙의 이론적 도출과 연역 논증과 괄호 속 부언으로 이루어진다", "label": "지지됨", "evidence": "A derivation of (2a) ... The D-N inference (2). A parenthetic addendum", "note": "C1-16 (3), p.699"},
+    {"n": 1, "text": "U²³⁸ 핵 u의 알파 붕괴 설명을 세 부분으로 구성한다(p.699)", "label": "지지됨", "evidence": "(3) ... three items", "note": ""},
+    {"n": 2, "text": "첫째는 슈뢰딩거 파동 방정식을 핵 주변 퍼텐셜 영역에 대해 풀어 4.2MeV 알파 입자의 24.2MeV 장벽 투과 확률을 정하는 것이다. 고전 물리학에서는 금지된다(pp.699-700)", "label": "지지됨", "evidence": "forbidden by classical physics for a low-energy particle", "note": ""},
+    {"n": 3, "text": "둘째는 법칙 (4a)와 (4b)에서 보편 예화와 전건 긍정으로 (4c)를 연역하는 D-N 논증이다", "label": "지지됨", "evidence": "universal instantiation and modus ponens", "note": "(4a)-(4d)는 pp.701-702"},
+    {"n": 4, "text": "셋째는 결과에 따라 e가 G가 되었는지 아닌지를 덧붙이는 괄호 속 부언 (4d)이다(pp.701-702)", "label": "지지됨", "evidence": "To which we add parenthetically, and according to how things turn out", "note": ""},
+    {"n": 5, "text": "법칙성의 기준은 특정 사실에 기대지 않고 이론에서 도출되는 보편적 참이며, (2a)가 표본에 관한 통계적 일반화였다면 보편 예화로 단일 사례 확률을 분리해 낼 수 없었다(pp.699-700)", "label": "지지됨", "evidence": "a law is a universal truth derivable from our theory without appeal to particular facts", "note": ""},
+    {"n": 6, "text": "D-N-P 설명의 참은 전제와 부언의 진리치와 논리의 타당성에만 달려 있고, 법칙의 이론적 해명이 엉성할수록 설명은 덜 만족스럽다(p.702)", "label": "지지됨", "evidence": "the more botched, the less satisfactory the explanation", "note": ""},
+    {"n": 7, "text": "법칙 전제는 F들을 서로 다른 물리적 확률을 가진 부분으로 분할할 수 있으면 거짓이 되지만, 짝수 번째 던지기에서만 앞면이 나온 동전처럼 다른 확률 해석이 허용하는 분할은 그 참에 영향을 주지 않는다(p.702)", "label": "지지됨", "evidence": "Such a partition might exist according to some other interpretation", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-16_Railton-DNP-2.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1H-11_CC해설-6장-5.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "13h8",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "레일턴의 D-N-P 모형은 단일 사례 성향을 해명할 수 있을 때에만 성립한다", "label": "지지됨", "evidence": "the D-N-P model is viable only if sense can be made of propensities", "note": "C1-17 p.705"},
+    {"n": 1, "text": "확률 법칙이 어떤 의미에서 인과적이라는 주장은 물리적 확률의 해명 없이는 옹호할 수 없다고 인정한다(p.705)", "label": "지지됨", "evidence": "cannot be defended until a plausible account of physical probability", "note": ""},
+    {"n": 2, "text": "성향 해석에서 확률은 개별 우연 체계가 결과를 낳는 물리적 경향의 강도이므로 단일 사례에 곧바로 적용되고 실현될 때 그 결과에 인과적 책임을 진다", "label": "지지됨", "evidence": "causally responsible for that outcome whenever it is realized", "note": ""},
+    {"n": 3, "text": "성향은 악명 높게 불분명하므로 지어리의 작업을 유망한 출발점으로 든다", "label": "지지됨", "evidence": "propensities are notoriously unclear", "note": ""},
+    {"n": 4, "text": "주 9에 따르면 성향 해석이 이 설명 이론과 가장 잘 맞는다는 생각은 루이스에게서 왔다", "label": "지지됨", "evidence": "propensity interpretation of probability sits best", "note": "주석 파일 주 9"},
+    {"n": 5, "text": "커드와 커버는 대칭 동전이 던져지지 않아도 앞면 성향 1/2을 가진다는 예로 성향을 빈도와 구별하고, 연속 여덟 번 앞면이 나오면 (1/2)⁸의 성향을 드는 것이 완전한 설명이라고 풀이한다(p.780)", "label": "지지됨", "evidence": "Even if the coin is never tossed, it has that propensity", "note": "C1H-11"},
+    {"n": 6, "text": "험프리스를 따라 성향과 확률의 차이를 짚는다: 알파 입자가 A에서 왔을 베이즈 역확률은 계산할 수 있지만 이미 존재하는 입자가 더 이른 시점에 특정 출처에서 생겨날 성향을 가질 수는 없다. 성향은 원인처럼 시간 방향을 가진다(pp.780-781)", "label": "지지됨", "evidence": "Propensities are indeterministic causal tendencies", "note": "험프리스 귀속은 해설 주 24"}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-17_Railton-DNP-3.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1H-11_CC해설-6장-5.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Railton-DNP_주석.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1H-CC해설-6장_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

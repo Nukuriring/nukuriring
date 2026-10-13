@@ -1,0 +1,18 @@
+{
+  "id": "12h4",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "라우든은 공유 가치의 결정력에 대해 쿤이 양화사를 혼동한다고 지적한다", "label": "지지됨", "evidence": "C1-09: careful about our quantifiers", "note": ""},
+    {"n": 1, "text": "세 층위가 늘 함께 바뀌지 않으므로 과학자들은 흔히 한두 층위를 고정한 채 논쟁 중인 층위를 결정할 수 있다", "label": "지지됨", "evidence": "C1-09: often in a position to hold one", "note": ""},
+    {"n": 2, "text": "일시적으로 공유된 관점이 삼각측량을 제공하며 합의된 교설로 남은 불일치를 해소할 수 있다", "label": "지지됨", "evidence": "C1-09: a crucial form of triangulation", "note": ""},
+    {"n": 3, "text": "미결정성은 언제나 가능하지만 합의된 층위가 논쟁을 끝내기에 때로 부족하다는 사실은 결코 충분하지 않다는 쿤의 논제를 지지하지 않는다", "label": "지지됨", "evidence": "C1-09: provides no comfort for Kuhn", "note": ""},
+    {"n": 4, "text": "라우든은 'we need to be very careful about our quantifiers here'라고 쓰고, 쿤이 공유 가치가 어떤 상황에서 선호를 정하지 못한다는 옳은 주장에서 결코 충분하지 않다는 틀린 주장으로 미끄러진다고 진단한다 (1판 pp. 153–154)", "label": "지지됨", "evidence": "C1-09: confusedly slides from (a) the correct", "note": "인용문과 쪽수 일치"},
+    {"n": 5, "text": "이론이 미결정된 경우에도 규칙이 많은 이론을 배제하며, 규칙을 어기는 이론을 미는 쪽은 경쟁에서 탈락한다", "label": "부분 지지", "evidence": "C1-09: many theories will typically be", "note": "원문은 'many theories will typically be ruled out'로 'typically'가 있고, 규칙을 어김이 '입증될 수 있는(can be shown)' 경우에 한정되는데 카드는 단정. 경미한 한정어 누락"},
+    {"n": 6, "text": "대부분의 과학 혁명은 여러 층위의 상당한 합의 속에서 일어나고, 미결정 사례에서도 진행 중인 게임에는 합리적 규칙이 있다", "label": "지지됨", "evidence": "C1-09: significant degree of consensus", "note": ""}
+  ],
+  "sources_used": ["문헌/@Laudan1984 Dissecting the Holist Picture of Scientific Change.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-09_Laudan-Dissecting-3.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "12e1a",
+  "voice": "종합",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "쿤과 롱기노는 모두 공유 기준이 이론 선택을 결정하지 않는다는 점을 과학이 대안을 유지하는 조건으로 읽는다 (두 출처를 엮는 연결)", "label": "연결", "evidence": "", "note": ""},
+    {"n": 1, "text": "쿤에게 기준이 규칙으로 완결되지 않는다는 사실은 합리적인 사람들이 불일치하게 하고, 일부는 새 이론을 시도하고 일부는 전통 이론을 지키며 혁신의 위험을 나누어 진다 (Kuhn 1977, p. 104)", "label": "지지됨", "evidence": "C1-06 p.104: permits rational men to disagree", "note": "'some working within it, others within its traditional rival'과 'spreading the risk'도 같은 대목"},
+    {"n": 2, "text": "롱기노는 공유 기준이 결정론적 이론 선택 이론을 주지 않는다고 인정하면서 'It is the open-ended and nonconsistent nature of these standards that allows for pluralism ...'라고 쓴다 (Longino, p. 156)", "label": "지지됨", "evidence": "C1-26 p.156: open-ended and nonconsistent nature", "note": "'Standards do not provide a deterministic theory of theory choice'; 인용문과 쪽수 일치"},
+    {"n": 3, "text": "쿤은 새 이론이 충분히 시험될 시간을 얻는 일, 곧 혁신의 위험 관리에 주목한다", "label": "지지됨", "evidence": "C1-06: tested over time", "note": ""},
+    {"n": 4, "text": "롱기노는 공유된 배경 가정을 드러낼 수 있는 다른 관점이 공동체 안에 남는 일, 곧 객관성의 조건에 주목한다", "label": "지지됨", "evidence": "C1-26 p.158: alternative explanations", "note": "근거 대목은 카드가 적은 pp.155–156이 아니라 p.158(공유 가정의 비가시성, 관점 다양성은 객관성의 필요조건)에 있음. 출처 쪽수 표기 보완 필요"},
+    {"n": 5, "text": "두 논점은 그 기능을 평가하는 관점에서 갈린다 (대조 자체)", "label": "연결", "evidence": "", "note": ""},
+    {"n": 6, "text": "롱기노 자신은 이 대목에서 쿤의 위험 분산 논점을 언급하지 않는다", "label": "지지됨", "evidence": "C1-26: list Thomas Kuhn presents", "note": "해당 절에서 쿤은 기준 목록 비교로만 언급되고 위험 분산은 나오지 않음"}
+  ],
+  "sources_used": ["문헌/@Kuhn1977 Objectivity, Value Judgment, and Theory Choice.md", "문헌/@Longino1990 Values and Objectivity.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-06_Kuhn-OVJTC-3.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-26_Longino-3.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

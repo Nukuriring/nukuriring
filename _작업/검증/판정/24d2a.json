@@ -1,0 +1,17 @@
+{
+  "id": "24d2a",
+  "voice": "종합",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "하버그의 격언은 월튼의 감정 이원론과 같은 구조를 가리킨다", "label": "연결", "evidence": "", "note": "종합 연결. 카드가 '하버그와 닐리와 월튼 누구도 하지 않은 보고서의 해석'이라 고지. 종합보고서 4절에 해당"},
+    {"n": 1, "text": "하버그는 'Words make you think a thought; music makes you feel a feeling. But a song makes you feel a thought.'라고 말했고 닐리는 「All by Myself」 전조 분석 영상(2021) 끝에서 인용한다", "label": "지지됨", "evidence": "영상 말미(≈11:33)에 Harburg 인용", "note": "KB N2"},
+    {"n": 2, "text": "보고서는 음악은 역동적 요소를, 가사는 대상과 판단을 지닌 인지적 요소를 주고, 노래는 두 요소를 합친다고 짝짓는다", "label": "지지됨", "evidence": "노래는 둘의 융합이다", "note": "종합보고서 4절"},
+    {"n": 3, "text": "월튼 자신도 음악 단독으로 닿지 못하는 시기나 죄책 같은 감정은 가사나 제목이나 표제가 있을 때 표현될 수 있다고 본다(§II)", "label": "지지됨", "evidence": "가사·표제가 붙어야 비로소 가능해진다", "note": "W5의 조건절(가사·제목·해설 없이는)에 대응"},
+    {"n": 4, "text": "월튼에 따르면 음악은 대상에 반응하는 경험 자체를 상상하게 하여 'subjective aspects of objective phenomena'를 전한다(p.360)", "label": "지지됨", "evidence": "subjective aspects of objective phenomena", "note": "W12"},
+    {"n": 5, "text": "보고서는 노래가 생각을 느끼게 한다는 말을 인지적 요소가 느낌과 떨어지지 않은 채 돌아오는 사태로 읽는다", "label": "지지됨", "evidence": "느낌과 분리되지 않은 채 돌아오는 것", "note": "종합보고서 4절"}
+  ],
+  "sources_used": ["_원자료/로컬/Walton and neely/Walton×Neely_종합보고서.md", "_원자료/로컬/Walton and neely/음악철학_지식베이스_Walton-Neely.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

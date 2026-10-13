@@ -1,0 +1,18 @@
+{
+  "id": "24b3",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "카벨에 따르면 영화 관객은 기계적으로 부재하며 이미 일어난 일에 현전한다", "label": "지지됨", "evidence": "movies allow the audience to be mechanically absent", "note": ""},
+    {"n": 1, "text": "사진의 자동성은 실재의 이미지를 기계적으로 만들 뿐 아니라 그 실재에 대한 우리의 현전을 기계적으로 무산시킨다(p.25)", "label": "지지됨", "evidence": "mechanical defeat of our presence", "note": ""},
+    {"n": 2, "text": "연극 관객은 배우들이 자신에게 현전하지만 자신은 현전하지 않는 사람들로 정의할 수 있는데, 영화는 관객을 기계적으로 부재하게 한다(pp.25–26)", "label": "지지됨", "evidence": "The audience in a theater can be defined as", "note": ""},
+    {"n": 3, "text": "연극에서 관객이 보이지 않고 들리지 않는 것은 따라야 할 관습이지만 영화에서는 따로 해명할 필요가 없다", "label": "지지됨", "evidence": "no longer needs accounting for", "note": ""},
+    {"n": 4, "text": "영화를 볼 때 나의 무력함은 기계적으로 보장되고, 나는 이미 일어난 일에 현전하며 그것을 기억처럼 흡수한다(p.26)", "label": "지지됨", "evidence": "present ... at something that has happened", "note": ""},
+    {"n": 5, "text": "이 점에서 영화는 서술의 시제가 과거인 소설을 닮는다", "label": "지지됨", "evidence": "movies resemble novels", "note": ""},
+    {"n": 6, "text": "1974년의 글에서 카벨은 이 말이 화면 속 사건이 실제로 일어났다거나 과거를 배경으로 한다는 뜻이 아니라고 해명하고, 끝난 일에 현전한다는 역설이 세계에서 밀려난 관객의 처지를 담는 신화적 기술이라고 말한다(pp.210–212)", "label": "지지됨", "evidence": "as mythological descriptions", "note": "KB 'Fictionality' 절 pp.210–212"}
+  ],
+  "sources_used": ["_원자료/로컬/Integrating Transparency/KB_Cavell_The-World-Viewed.md (Ch 4, More of 'Fictionality' 절)"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

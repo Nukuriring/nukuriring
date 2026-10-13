@@ -1,0 +1,18 @@
+{
+  "id": "12h3",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "라우든은 방법과 목표가 이론과 따로 바뀐 역사적 사례로 전체론을 반박한다", "label": "지지됨", "evidence": "C1-09: do not always go together", "note": ""},
+    {"n": 1, "text": "전체론은 방법 규칙과 인지적 가치의 변화가 이론·방법·가치가 함께 바뀌는 혁명 때만 일어난다는 주장을 함축하며, 라우든은 이를 역사 기록으로 시험한다", "label": "지지됨", "evidence": "C1-09: only when a scientific revolution", "note": ""},
+    {"n": 2, "text": "베이컨부터 19세기 초까지 과학자 대부분은 일치법, 차이법, 공변법 같은 귀납 규칙을 따랐고 이 규칙들은 관찰 불가능한 존재자의 상정을 막았다", "label": "지지됨", "evidence": "C1-09: foreclosed the postulation", "note": "원문 'at least as then understood' 한정은 경미"},
+    {"n": 3, "text": "1800년에서 1860년 사이에 휴얼, 퍼스, 헬름홀츠, 마흐, 다윈, 헤르츠 등은 관찰 불가능한 존재자의 상정이 정당하고 귀납 규칙이 가설연역법으로 대체되었다고 보게 되었는데, 이 방법론 혁명은 특정 존재론이나 가치의 변화와 연결되지 않는다", "label": "부분 지지", "evidence": "C1-09: by the 1860s and 1870s, come to", "note": "원문은 열거한 인물들이 '1860~70년대까지는' 그렇게 믿게 되었다고 하고, 변화 시기는 '정확한 시기는 문제적이지만 아마 1800~1860년'이라는 흐릿한 연대('probably', 'fuzzy')임. 카드는 1800~1860을 인물들이 믿게 된 시기에 붙여 연대와 한정을 섞음. 존재론·가치와 연결되지 않는다는 부분은 지지"},
+    {"n": 4, "text": "목표의 사례: 19세기 동안 확실성을 목표로 하던 과학관은 개연적이고 잘 시험된 이론을 목표로 하는 오류가능주의로 바뀌었다", "label": "지지됨", "evidence": "C1-09: gave way among most scientists", "note": ""},
+    {"n": 5, "text": "이 변화는 새 패러다임과 특별히 연결되지 않았고 원자론자와 반원자론자, 파동론자와 입자론자, 다윈주의자와 라마르크주의자, 균일론자와 격변론자가 모두 받아들였다", "label": "지지됨", "evidence": "C1-09: all subscribed to the new consensus", "note": ""},
+    {"n": 6, "text": "라우든은 세 층위의 변화가 'show no neat isomorphism'하며 층위들이 분리 불가능한 묶음으로 오지 않는다고 결론짓는다 (1판 p. 153)", "label": "지지됨", "evidence": "C1-09 p.153: show no neat isomorphism", "note": "인용문과 쪽수 일치"}
+  ],
+  "sources_used": ["문헌/@Laudan1984 Dissecting the Holist Picture of Scientific Change.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-09_Laudan-Dissecting-3.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "12h",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "라우든은 쿤이 패러다임의 세 층위를 분리 불가능한 묶음으로 본다고 비판한다", "label": "지지됨", "evidence": "C1-07: as an inseparable package", "note": ""},
+    {"n": 1, "text": "라우든은 패러다임의 여러 의미 가운데 존재론, 방법론, 패러다임마다 온전히 겹치지 않는 인지적 목표와 가치의 세 가지를 고른다", "label": "지지됨", "evidence": "C1-07: not fully overlapping", "note": ""},
+    {"n": 2, "text": "그의 정리에 따르면 쿤의 패러다임 변화는 세 층위가 동시에 바뀌는 전면적 단절이며, 쿤은 이론, 방법, 기준을 'inextricable mixture'로 함께 얻는다고 쓴다", "label": "지지됨", "evidence": "C1-07: simultaneous rather than sequential", "note": ""},
+    {"n": 3, "text": "라우든은 쿤이 층위 사이의 정당화 상호작용을 강조하는 점에서 고전적 위계 모형과 닮았고 합리성을 패러다임 내부 선택으로 상대화한 점에서 갈라진다고 본다", "label": "지지됨", "evidence": "C1-07: relativized to choices within", "note": ""},
+    {"n": 4, "text": "위계 모형이 무너지는 곳, 곧 목표가 충돌하는 패러다임 간 논쟁에서 쿤의 접근은 합리적 선택에 대해 더 할 말이 없다", "label": "지지됨", "evidence": "C1-07: nothing more to offer", "note": ""},
+    {"n": 5, "text": "세계관이 전면적으로 바뀐다면 과학 변화는 스타일이나 취향의 변덕과 구별되기 어렵고, 각 패러다임이 자기 기준을 충족한다는 쿤의 서술은 'self-reinforcing solipsism'을 낳는다 (1판 p. 143)", "label": "지지됨", "evidence": "C1-07 p.143: self-reinforcing solipsism", "note": "원문은 'a kind of'와 'more or less automatically'가 붙지만 취지 일치, 경미"},
+    {"n": 6, "text": "라우든은 쿤의 실패가 규범적 설명의 부재에 그치지 않고 대규모 충성 변화가 실제로 어떻게 일어나는지에 대한 서술에도 미친다고 주장한다", "label": "지지됨", "evidence": "C1-07: even at the descriptive or narrative", "note": ""}
+  ],
+  "sources_used": ["문헌/@Laudan1984 Dissecting the Holist Picture of Scientific Change.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-07_Laudan-Dissecting-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Laudan-Dissecting_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

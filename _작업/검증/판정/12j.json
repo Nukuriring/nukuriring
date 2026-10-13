@@ -1,0 +1,19 @@
+{
+  "id": "12j",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "맥멀린에 따르면 쿤의 급진적 도전은 과학적 실재론을 겨눈다", "label": "지지됨", "evidence": "C1-29 p.123: not at rationality but at realism", "note": ""},
+    {"n": 1, "text": "맥멀린은 『구조』에 대한 초기 과학철학자들의 반응이 과학의 합리성에 대한 도전이라는 데 거의 일치했다고 돌아본다", "label": "지지됨", "evidence": "C1-27: near unanimity", "note": ""},
+    {"n": 2, "text": "쿤은 1970년 후기와 1977년 논문에서 이 독해를 부인했고, 맥멀린은 그의 말을 그대로 받아들여 합리성이 이론들을 비교하게 하는 공유 기준의 지속에 달려 있다고 본다", "label": "지지됨", "evidence": "C1-27: I will take him at his word", "note": ""},
+    {"n": 3, "text": "쿤에게 공약불가능은 비교 불가능을 뜻하지 않고 일부 용어의 지시체가 그 용어가 나타나는 이론의 함수라는 뜻이다", "label": "지지됨", "evidence": "C1-27: not the same as incomparable", "note": ""},
+    {"n": 4, "text": "쿤은 진보를 퍼즐 풀이로 한정하고 'no coherent direction of ontological development'를 고수하며, 존재론과 자연 속 대응물의 일치라는 생각을 원리상 환상으로 본다 (p. 123)", "label": "지지됨", "evidence": "C1-29 p.123: illusive in principle", "note": ""},
+    {"n": 5, "text": "맥멀린은 그 근거가 연속 패러다임 존재론의 불연속을 함축하는 공약불가능성에 있다고 보고, 쿤이 비교 가능성에는 전통적 견해를, 공약 가능성에는 도구주의적 견해를 취한다고 정리한다", "label": "지지됨", "evidence": "C1-29: a discontinuity between their ontologies", "note": "원문 'more or less traditional view'의 'more or less'는 경미하게 빠짐"},
+    {"n": 6, "text": "맥멀린은 'The radical challenge of SSR is directed not at rationality but at realism'라고 쓴다 (p. 123)", "label": "지지됨", "evidence": "C1-29 p.123: directed not at rationality", "note": "인용문 일치"},
+    {"n": 7, "text": "쿤의 유산을 이론 선택의 합리성은 유지하면서 선택된 이론의 인식적 성격은 부인하는 'curiously divided' 유산이라고 부른다 (p. 127)", "label": "지지됨", "evidence": "C1-29 p.127: curiously divided one", "note": "인용문 일치"}
+  ],
+  "sources_used": ["문헌/@McMullin1993 Rationality and Paradigm Change in Science.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-27_McMullin-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-29_McMullin-3.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

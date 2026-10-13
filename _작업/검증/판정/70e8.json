@@ -1,0 +1,16 @@
+{
+  "id": "70e8",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "독일어 재귀대명사는 1·2인칭에서 인칭대명사의 3격과 4격 형태를 쓰고 3인칭에서는 sich를 쓴다", "label": "지지됨", "evidence": "재귀 Ich mir mich / er sie es sich sich", "note": "인칭대명사 표와 대조한 결과"},
+    {"n": 1, "text": "재귀 표는 ich mir·mich, du dir·dich, er·sie·es sich·sich, wir uns·uns, ihr euch·euch, sie sich·sich이다", "label": "지지됨", "evidence": "ihr euch euch / sie sich sich", "note": ""},
+    {"n": 2, "text": "인칭대명사 표에서 ich는 meiner, mir, mich, du는 deiner, dir, dich, wir는 unser, uns, uns, ihr는 euer, euch, euch이다", "label": "지지됨", "evidence": "wir unser uns uns", "note": ""},
+    {"n": 3, "text": "예문 Ich interessiere mich für Anglistik, Darf ich mich zu dir setzen, Mit wem unterhältst du dich so lange는 모두 4격 재귀이다", "label": "지지됨", "evidence": "darf ich mich zu dir setzen_", "note": "mich, dich가 4격 형태라는 점은 표에서 확인됨. 필기 철자는 unterhälst"},
+    {"n": 4, "text": "필기의 Ich interessieren mich는 동사 어미를 interessiere로 고쳐 읽었다", "label": "지지됨", "evidence": "Ich interessieren mich für Anglistik.", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/독일어 03ce7cf2cb0a430987bfae012a0d846d.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

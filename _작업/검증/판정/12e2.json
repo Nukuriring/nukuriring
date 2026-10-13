@@ -1,0 +1,18 @@
+{
+  "id": "12e2",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "쿤은 가치에 의한 선택이 규칙에 의한 선택과 같은 정당화 부담을 진다고 본다", "label": "지지됨", "evidence": "C1-06: apply equally to my values", "note": ""},
+    {"n": 1, "text": "가치에 기반한 활동이 어떻게 강력한 예측·통제 기법을 내놓는지에 쿤은 답이 전혀 없다고 말하고, 귀납 문제를 풀었다고 주장하지 않는다는 말과 같다고 덧붙인다", "label": "지지됨", "evidence": "C1-06: I have no answer at all", "note": ""},
+    {"n": 2, "text": "공유되고 구속력 있는 선택 알고리듬으로 과학이 진보한다 해도 그는 성공을 똑같이 설명하지 못하므로 이 공백은 그의 입장을 전통과 구별하지 않는다", "label": "지지됨", "evidence": "C1-06: equally at a loss to explain", "note": ""},
+    {"n": 3, "text": "쿤의 가치 목록은 전통의 규칙 목록과 거의 같고, 규칙이 적용될 수 있는 구체적 상황에서는 그의 가치가 규칙처럼 같은 선택을 낳는다", "label": "지지됨", "evidence": "C1-06: producing the same choice", "note": ""},
+    {"n": 4, "text": "규칙이 본래 불완전해 공유 규칙으로 선택할 수 없는 상황에서는 각자가 규칙을 조금씩 다르게 채운다", "label": "지지됨", "evidence": "C1-06: intrinsically incomplete", "note": ""},
+    {"n": 5, "text": "집단이 충분히 커서 개인차가 정규 분포를 이룬다고 가정하면 규칙에 의한 선택의 정당화 논증은 가치에 의한 선택에 곧바로 옮겨진다", "label": "지지됨", "evidence": "C1-06: immediately adaptable to my choice", "note": "원문은 'should be immediately adaptable'. 작은 집단·편향 분포에서는 옮겨지지 않는다는 조건도 원문에 있음(카드는 '충분히 커서'로 반영)"},
+    {"n": 6, "text": "기체 운동론 비유: 모든 분자 속도가 같다고 가정해도 보일·샤를 법칙은 설명되지만 증발은 속도 분포가 필요하듯, 이론 선택도 모든 과학자에게 같은 속성을 주는 이론으로는 일부만 설명된다 (pp. 104–105)", "label": "지지됨", "evidence": "C1-06: explained only in part", "note": ""}
+  ],
+  "sources_used": ["문헌/@Kuhn1977 Objectivity, Value Judgment, and Theory Choice.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-06_Kuhn-OVJTC-3.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Kuhn-OVJTC_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

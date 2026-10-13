@@ -1,0 +1,19 @@
+{
+  "id": "13f1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "헴펠은 최대 특수성 요건으로 통계적 설명의 인식적 모호성을 해소한다", "label": "지지됨", "evidence": "disposes of the problem of epistemic ambiguity", "note": "C1-14 p.685"},
+    {"n": 1, "text": "카르납이 강조한 총증거 요건을 출발점으로 삼는다(p.682)", "label": "지지됨", "evidence": "the requirement of total evidence", "note": ""},
+    {"n": 2, "text": "설명항이 가용 정보 전부만을 담으라고 요구할 수 없다. 그러면 모든 설명이 같은 설명항 Kₜ를 갖고, 아직 K에 못 든 진술을 쓰는 설명도 배제된다(pp.682-683)", "label": "지지됨", "evidence": "all probabilistic explanations ... would have to have the same explanans", "note": ""},
+    {"n": 3, "text": "총정보에 따라 사례가 속하는 가장 좁은 참조 부류의 통계적 확률에 설명이 기대야 한다", "label": "지지됨", "evidence": "the narrowest reference class of which ... the particular occurrence", "note": ""},
+    {"n": 4, "text": "라돈 붕괴에서 온도·압력 정보는 붕괴율에 영향이 없어 넓은 부류의 확률로 충분하지만 마지막 한 시간 전 잔량 2.7mg 정보가 K에 있으면 고려해야 한다(pp.683-684)", "label": "지지됨", "evidence": "may not be disregarded", "note": ""},
+    {"n": 5, "text": "s·k가 b가 F₁에 속함을 함축하면 F₁에서 G의 확률 r₁도 함축해야 하고 r₁은 r과 같아야 한다. 순수 수학적 확률론의 정리일 때는 예외이다", "label": "지지됨", "evidence": "r₁ must equal r unless ... a theorem of mathematical probability theory", "note": "예외 사유(p(G,F·G)=1)도 원문과 합치(pp.684-685)"},
+    {"n": 6, "text": "높은 확률의 두 경쟁 논증이 모두 요건을 충족하면 r₁ + r₂ = 1이 따르는데 둘 다 1에 가까워 산술적 거짓이다(pp.685-686)", "label": "지지됨", "evidence": "this is an arithmetic falsehood", "note": ""},
+    {"n": 7, "text": "주 7에서 헴펠은 1962년에 총증거 요건을 엄격하게 적용한 자기 방식을 버리는데, 확립된 사실은 K에 상대적으로 확률 1을 가져 의미 있는 통계적 설명이 불가능해지기 때문이다", "label": "지지됨", "evidence": "would preclude the possibility of any significant statistical explanation", "note": "주석 파일 주 7"}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-14_Hempel-IS-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Hempel-IS_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

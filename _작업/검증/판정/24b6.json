@@ -1,0 +1,16 @@
+{
+  "id": "24b6",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "카벨은 영화를 회의주의의 움직이는 이미지라고 부른다", "label": "지지됨", "evidence": "Film is a moving image of skepticism", "note": "pp.188–189"},
+    {"n": 1, "text": "영화에서는 실재가 존재하지 않는데도 우리의 정상적 감각이 실재에 만족하며, 그 까닭은 보는 것만으로 충분하다는 데 있다", "label": "지지됨", "evidence": "because viewing it is all it takes", "note": ""},
+    {"n": 2, "text": "영화가 실재를 투사한다는 사실 자체를 부정하는 태도는 회의주의의 소극(farce)이다: 회의주의가 확신에 반하는 결론으로 끝난다는 점은 기억하고 그 확신을 정당화하려는 노력에서 시작한다는 점은 잊는다(p.189)", "label": "지지됨", "evidence": "is a farce of skepticism", "note": ""},
+    {"n": 3, "text": "영화를 볼 때의 잠재적 불안은 우리의 실재 확신이 무엇에 달려 있는지 모른다는 사실을 영화가 끈질기게 보여 주는 데서 온다(p.189)", "label": "지지됨", "evidence": "we do not know what our conviction in reality", "note": ""},
+    {"n": 4, "text": "영화는 실재의 투사로 실재와 연결되지만 그 연결은 우리를 보이지 않은 채 보는(viewing unseen) 조건에 둘 때에만 성립하며, 이 절대적 거리와 고립이 회의주의의 대가이다(p.195)", "label": "지지됨", "evidence": "exactly the price of skepticism", "note": ""}
+  ],
+  "sources_used": ["_원자료/로컬/Integrating Transparency/KB_Cavell_The-World-Viewed.md (More of Segment 11, 14)"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

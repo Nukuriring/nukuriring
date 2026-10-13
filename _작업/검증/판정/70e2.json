@@ -1,0 +1,16 @@
+{
+  "id": "70e2",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "독일어 평서문에서 변화한 동사는 둘째 자리에 오므로 부사가 앞에 서면 주어와 동사가 자리를 바꾼다", "label": "부분 지지", "evidence": "Ich komme eigentlich aus Hamburg", "note": "예문과 고친 흔적만 있는 필기를 카드가 일반 규칙으로 일반화(카드도 밝힘)"},
+    {"n": 1, "text": "필기에는 같은 문장이 두 판으로 실려 있고 한 판에서 어순이 고쳐져 있다", "label": "지지됨", "evidence": "Ich eigentlich komme aus Hamburg (3과)", "note": ""},
+    {"n": 2, "text": "Ich eigentlich komme aus Hamburg는 Ich komme eigentlich aus Hamburg로, Ja, aber nur meine Großmutter noch lebt는 …Großmutter lebt noch로 고쳐졌다", "label": "지지됨", "evidence": "Aber nur mein Großmutter lebt noch", "note": "고친 판에서는 mein으로 적힘"},
+    {"n": 3, "text": "Heute ist das Wetter sehr schön, Später machen wir einen Spaziergang, Dort studiere ich에서는 동사가 문장 앞 표현 바로 뒤에 오고 주어가 그 뒤로 간다", "label": "지지됨", "evidence": "Dort Studiere ich. / Später machen wir", "note": "예문은 필기에 있고 어순 서술은 카드의 관찰"},
+    {"n": 4, "text": "필기 끝 목록의 Julia gerade geht um die Ecke는 같은 오류를 지닌 채 남아 있다", "label": "지지됨", "evidence": "Julia gerade geht um die Ecke.", "note": ""}
+  ],
+  "sources_used": ["_원자료/notion/Export-c8124db7-875f-40d8-b724-67e0c0e3200e/Untill 2025/2023-2/독일어 03ce7cf2cb0a430987bfae012a0d846d.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

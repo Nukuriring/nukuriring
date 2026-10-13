@@ -1,0 +1,18 @@
+{
+  "id": "13i1",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "프리드먼은 독립적으로 받아들여야 하는 법칙의 수를 줄이는 데서 설명적 통일을 찾는다", "label": "지지됨", "evidence": "reducing the number of laws we must accept as brute independent facts", "note": "C1H-12 p.783"},
+    {"n": 1, "text": "커드와 커버에 따르면 프리드먼은 통일 모형의 첫 형식적 분석을 제시했다(p.783)", "label": "지지됨", "evidence": "gave the first formal analysis of a unification model", "note": ""},
+    {"n": 2, "text": "통일론자들은 이해를 설명의 본질로 보고 일반 이론이 법칙 무리를 하나의 틀로 묶을 때 과학적 이해가 이루어진다고 본다", "label": "지지됨", "evidence": "understanding is the essence of explanation", "note": ""},
+    {"n": 3, "text": "분할(partition)과 K-원자적 문장의 정의, 정의 D1(함축·독립적 수용 가능성·K-원자적 문장 수의 감소)이 원문과 일치한다(pp.783-784)", "label": "지지됨", "evidence": "the number of K-atomic sentences ... is thereby reduced", "note": ""},
+    {"n": 4, "text": "키처는 이 분석이 K-원자적 문장만 설명할 수 있음을 함축한다고 보였고, 그러면 단열 팽창 법칙의 설명 같은 범례적 설명이 배제된다", "label": "지지됨", "evidence": "sentences can explain only if they are K-atomic", "note": ""},
+    {"n": 5, "text": "새먼은 어떤 법칙이든 F&H와 F&~H에 관한 두 법칙의 연언으로 쪼갤 수 있으므로 법칙 형식의 K-원자적 문장이 아예 없을 수 있다고 의심한다(p.784)", "label": "지지됨", "evidence": "doubting whether there can be any K-atomic sentences of lawlike form", "note": ""},
+    {"n": 6, "text": "키처는 1981년 논문에서 프리드먼 분석의 결함을 진단하는 일이 자기 통일 해명을 간접적으로 옹호한다고 밝힌다(p.712)", "label": "지지됨", "evidence": "indirectly defended by my diagnosis of the problems for his approach", "note": "C1-21 §1 멈춤 2 직전; 쪽수 p.712 범위"}
+  ],
+  "sources_used": ["_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1H-12_CC해설-6장-6.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-21_Kitcher-Unification-1.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

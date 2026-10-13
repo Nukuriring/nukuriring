@@ -1,0 +1,18 @@
+{
+  "id": "19f",
+  "voice": "문헌",
+  "verdict": "지지됨",
+  "claims": [
+    {"n": 0, "text": "소렌슨은 맥락주의를 화자에게 일어나는 일에 기대는 심리주의 이론으로 비판한다", "label": "지지됨", "evidence": "화자에게 일어나는 일에 의존하는 이론", "note": ""},
+    {"n": 1, "text": "맥락주의는 모호한 말이 지표사처럼 행동한다고 본다: 성격은 고정되고 내용이 맥락에 따라 이동한다", "label": "지지됨", "evidence": "character는 고정, content가 이동", "note": ""},
+    {"n": 2, "text": "분파마다 동기가 다르다: Kamp는 역방향 평탄화, Raffman은 게슈탈트 전환과 이력 현상, Shapiro는 열린 결에서 영감을 얻은 판단 의존성, Fara는 관심 상대성, Soames는 모호한 말이 문자 그대로 지표사라는 가장 강한 주장", "label": "지지됨", "evidence": "vague term은 literally indexical (가장 강한 주장)", "note": ""},
+    {"n": 3, "text": "Stanley에 따르면 'too'가 통일된 해석을 강제하여 외연이 이동할 여지를 막는다", "label": "지지됨", "evidence": "통일된 해석을 강제", "note": ""},
+    {"n": 4, "text": "Sainsbury의 뒤섞인 소리테스는 사례를 무작위 순서로 제시해 화자가 맥락 변화를 알아채지 못해도 역설이 그대로 성립함을 보인다", "label": "지지됨", "evidence": "paradox는 그대로 성립", "note": ""},
+    {"n": 5, "text": "1000번 반복된 'mother of'나 크립키의 killer yellow처럼 사람이 추론할 수조차 없는 술어에도 모호성은 있지만 심리적 맥락 이동은 일어날 수 없다", "label": "지지됨", "evidence": "심리적 맥락 이동은 일어날 수 없다", "note": ""},
+    {"n": 6, "text": "소렌슨의 근본 비판은 맥락주의가 소리테스에 대한 심리주의 이론이라는 것이다: 논증은 그것을 내놓는 사람 없이도 존재하므로 화자에게 일어나는 일에 기대는 이론은 논증 자체의 타당성을 다루지 못한다", "label": "지지됨", "evidence": "논변은 propounder 없이도 존재", "note": ""}
+  ],
+  "sources_used": ["_원자료/claude.ai/chats/2026-05-26_논의 지형 파악하기.md", "문헌/@Sorensen SEP Vagueness.md"],
+  "sources_missing": ["SEP Vagueness 원문(PDF 본문은 원자료에 없음)"],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}

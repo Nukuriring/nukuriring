@@ -1,0 +1,18 @@
+{
+  "id": "12h2",
+  "voice": "문헌",
+  "verdict": "부분",
+  "claims": [
+    {"n": 0, "text": "라우든에 따르면 점진적 변화를 시간적으로 압축하면 세계관 전환처럼 보인다", "label": "부분 지지", "evidence": "C1-08: may appear, when represented", "note": "원문은 'may appear'(보일 수 있다)인데 제목과 본문은 '보인다'. claim 4와 같은 문제"},
+    {"n": 1, "text": "라우든은 이상화된 동화(fairy tale)를 제시한다: 먼저 M1의 기준으로 T1이 T2로, 다음에 A1을 더 잘 실현하는 방법이 확인되어 M1이 M2로, 끝으로 A1의 일부가 실현 불가능하거나 모범 이론이 그 가치를 예화하지 않음이 드러나 A1이 A2로 바뀐다", "label": "지지됨", "evidence": "C1-08: first in theory, then in methods", "note": ""},
+    {"n": 2, "text": "이 순서는 위계 모형과 달리 이론에 대한 믿음이 허용 가능한 방법에 대한 견해를 형성하도록 허용한다", "label": "지지됨", "evidence": "C1-08: does not permit our beliefs at the level", "note": ""},
+    {"n": 3, "text": "수십 년 뒤 이 일화를 연구하는 역사가 톰은 과학자 집단이 T1, M1, A1을 모두 버리고 T2, M2, A2를 받아들인 것을 보고 대규모 패러다임 전환을 기록할 것이다", "label": "부분 지지", "evidence": "C1-08: many years later to study", "note": "원문은 'many years later'이고 변화 자체는 'a decade or two' 걸린 것으로 서술됨. '수십 년 뒤'는 구체화/변형. 또 Tom은 'will probably note', 'may well surmise'로 추정 어조"},
+    {"n": 4, "text": "미시 수준에서 합리적인 믿음 변화의 연쇄가 시간 차원을 압축한 큰 붓질로 그려지면 이해할 수 없는 세계관 변화로 보인다고 지적하고, 이 압축을 역사가가 피하도록 배우는 터널 시야라고 부른다", "label": "부분 지지", "evidence": "C1-08: may appear, when represented in broad", "note": "원문 'may appear ... as a fundamental and unintelligible change of world view'의 may가 카드에서 빠짐. 터널 시야 부분은 'a folly which every historian is taught to avoid'로 지지"},
+    {"n": 5, "text": "다중 전통 경우도 이론, 방법, 목표 순으로 단계적으로 옮겨 갈 수 있으며 휴얼이 데카르트주의 물리학자들이 뉴턴 자연철학에 점차 굴복한 과정을 그렇게 보여 주었다", "label": "지지됨", "evidence": "C1-08: As William Whewell showed", "note": ""},
+    {"n": 6, "text": "다중 전통의 합의 형성은 단일 전통 변화의 'special or degenerate instance'이다 (1판 p. 150)", "label": "지지됨", "evidence": "C1-08 p.150: special or degenerate instance", "note": "인용문과 쪽수 일치"}
+  ],
+  "sources_used": ["문헌/@Laudan1984 Dissecting the Holist Picture of Scientific Change.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-07_Laudan-Dissecting-1.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-08_Laudan-Dissecting-2.md", "_원자료/claude.ai/projects/논자시/docs/세션원문/C-1_과학철학1/C1-Laudan-Dissecting_주석.md"],
+  "sources_missing": [],
+  "model": "sonnet",
+  "date": "2026-10-12"
+}
